@@ -4,12 +4,13 @@ import { NzListModule } from 'ng-zorro-antd/list';
 import { NzIconModule } from 'ng-zorro-antd/icon';
 import { NzTagModule } from 'ng-zorro-antd/tag';
 import { NzTypographyModule } from 'ng-zorro-antd/typography';
+import { NzDividerModule } from 'ng-zorro-antd/divider';
 import { HNStory } from '../../core/services/data.service';
 
 @Component({
   selector: 'app-news-list',
   standalone: true,
-  imports: [CommonModule, NzListModule, NzIconModule, NzTagModule, NzTypographyModule],
+  imports: [CommonModule, NzListModule, NzIconModule, NzTagModule, NzTypographyModule, NzDividerModule],
   template: `
     <nz-list [nzDataSource]="stories" [nzRenderItem]="item" [nzItemLayout]="'horizontal'">
       <ng-template #item let-item>
@@ -19,14 +20,16 @@ import { HNStory } from '../../core/services/data.service';
             [nzDescription]="descriptionTpl">
             <ng-template #nzTitle>
               <a [href]="item.url" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
-              <nz-tag *ngIf="item.domain" [nzColor]="'default'" style="margin-left: 8px; font-size: 10px;">{{ item.domain }}</nz-tag>
+              <span class="domain" *ngIf="item.domain">({{ item.domain }})</span>
             </ng-template>
             <ng-template #descriptionTpl>
-              <span nz-icon nzType="arrow-up" style="color: #ff6600"></span> {{ item.score }} points
-              <span nz-typography nzType="secondary" class="separator">|</span>
+              <span nz-icon nzType="star" nzTheme="fill" style="color: #faad14;"></span> {{ item.score }} points
+              <nz-divider nzType="vertical"></nz-divider>
               <span nz-icon nzType="user"></span> {{ item.by }}
-              <span nz-typography nzType="secondary" class="separator">|</span>
+              <nz-divider nzType="vertical"></nz-divider>
               <span nz-icon nzType="message"></span> {{ item.comments }} comments
+              <nz-divider nzType="vertical"></nz-divider>
+              <span nz-icon nzType="clock-circle"></span> {{ item.time * 1000 | date:'short' }}
             </ng-template>
           </nz-list-item-meta>
         </nz-list-item>

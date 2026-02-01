@@ -32,19 +32,81 @@ body {
 
 // Global utility for cards
 .ant-card {
-  background: var(--component-bg);
-  border-color: var(--border-color);
-  color: var(--text-color);
+  background: var(--component-bg) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-color) !important;
   
   .ant-card-head {
-    background: transparent;
-    border-bottom-color: var(--border-color);
-    color: var(--text-color);
+    background: transparent !important;
+    border-bottom-color: var(--border-color) !important;
+    color: var(--text-color) !important;
+    
+    .ant-card-head-title {
+      color: var(--text-color) !important;
+    }
+  }
+  
+  .ant-card-meta-title {
+    color: var(--text-color) !important;
+  }
+  
+  .ant-card-meta-description {
+    color: var(--text-secondary) !important;
   }
   
   .ant-card-body {
-    color: var(--text-color);
+    color: var(--text-color) !important;
   }
+  
+  .ant-card-actions {
+    background: var(--component-bg) !important;
+    border-top-color: var(--border-color) !important;
+    
+    li {
+      color: var(--text-secondary) !important;
+      border-right-color: var(--border-color) !important;
+      
+      span {
+        color: var(--text-secondary) !important;
+        
+        &:hover {
+          color: @primary-color !important;
+        }
+      }
+    }
+  }
+}
+
+// Global utility for lists
+.ant-list {
+  color: var(--text-color) !important;
+  
+  .ant-list-item-meta-title {
+    color: var(--text-color) !important;
+    
+    a {
+      color: var(--text-color) !important;
+      
+      &:hover {
+        color: @primary-color !important;
+      }
+    }
+  }
+  
+  .ant-list-item-meta-description {
+    color: var(--text-secondary) !important;
+  }
+  
+  .ant-list-item-action {
+    li {
+      color: var(--text-secondary) !important;
+    }
+  }
+}
+
+// Global typography
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color) !important;
 }
 
 // Layout overrides
@@ -66,6 +128,6 @@ nz-header {
 }
 
 .inner-content {
-  background: var(--component-bg);
+//   background: var(--component-bg);
   color: var(--text-color);
 }

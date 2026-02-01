@@ -1,6 +1,6 @@
 import { Injectable, inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, of, timer } from 'rxjs';
+import { Observable, of, timer, BehaviorSubject, merge } from 'rxjs';
 import { catchError, map, shareReplay, switchMap } from 'rxjs/operators';
 
 export interface GitHubRepo {
@@ -28,6 +28,11 @@ export interface HNStory {
   domain?: string;
 }
 
+export interface DataResponse<T> {
+  lastUpdated: string;
+  items: T[];
+}
+
 @Injectable({
   providedIn: 'root'
 })
@@ -36,31 +41,35 @@ export class DataService {
   
   // Refresh every 5 minutes (300000 ms)
   private readonly REFRESH_INTERVAL = 300000;
+  private refreshSubject = new BehaviorSubject<void>(undefined);
 
-  getGitHubTrends(): Observable<GitHubRepo[]> {
-    return timer(0, this.REFRESH_INTERVAL).pipe(
+  refresh() {
+    this.refreshSubject.next();
+  }
+
+  getGitHubTrends(): Observable<DataResponse<GitHubRepo>> {
+    return merge(timer(0, this.REFRESH_INTERVAL), this.refreshSubject).pipe(
       switchMap(() => {
-        // In production (GitHub Pages), we need to ensure we are looking at the correct path
-        // However, HttpClient relative paths are resolved against the base href.
-        // If base-href is /TechPulse/, then 'assets/data/...' becomes /TechPulse/assets/data/...
-        return this.http.get<{ items: GitHubRepo[] }>('assets/data/github-trends.json');
+        const timestamp = new Date().getTime(); // Cache busting for manual refresh
+        return this.http.get<DataResponse<GitHubRepo>>(`assets/data/github-trends.json?t=${timestamp}`);
       }),
-      map(data => data.items),
       catchError(err => {
         console.error('Failed to load GitHub trends', err);
-        return of([]);
+        return of({ lastUpdated: new Date().toISOString(), items: [] });
       }),
       shareReplay(1)
     );
   }
 
-  getHackerNewsTrends(): Observable<HNStory[]> {
-    return timer(0, this.REFRESH_INTERVAL).pipe(
-      switchMap(() => this.http.get<{ items: HNStory[] }>('assets/data/hn-trends.json')),
-      map(data => data.items),
+  getHackerNewsTrends(): Observable<DataResponse<HNStory>> {
+    return merge(timer(0, this.REFRESH_INTERVAL), this.refreshSubject).pipe(
+      switchMap(() => {
+        const timestamp = new Date().getTime(); // Cache busting
+        return this.http.get<DataResponse<HNStory>>(`assets/data/hn-trends.json?t=${timestamp}`);
+      }),
       catchError(err => {
         console.error('Failed to load HN trends', err);
-        return of([]);
+        return of({ lastUpdated: new Date().toISOString(), items: [] });
       }),
       shareReplay(1)
     );

@@ -11,7 +11,7 @@ import { GitHubRepo } from '../../core/services/data.service';
   standalone: true,
   imports: [CommonModule, NzCardModule, NzIconModule, NzTagModule, NzTypographyModule],
   template: `
-    <nz-card [nzBordered]="true" [nzHoverable]="true" class="repo-card" [nzActions]="[actionStar, actionLang]">
+    <nz-card [nzBordered]="true" [nzHoverable]="true" class="repo-card" [nzActions]="[actionStar, actionLang, actionTime]">
       <nz-card-meta
         [nzTitle]="titleTpl"
         [nzDescription]="repo.description || 'No description provided.'">
@@ -33,6 +33,11 @@ import { GitHubRepo } from '../../core/services/data.service';
 
     <ng-template #actionLang>
       <nz-tag [nzColor]="'blue'">{{ repo.language || 'Unknown' }}</nz-tag>
+    </ng-template>
+
+    <ng-template #actionTime>
+      <span nz-icon nzType="clock-circle" style="margin-right: 8px;"></span>
+      {{ repo.updated_at | date:'mediumDate' }}
     </ng-template>
   `,
   styles: [`

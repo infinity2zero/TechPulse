@@ -1,13 +1,17 @@
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet, RouterLink, RouterLinkActive } from '@angular/router';
+import { FormsModule } from '@angular/forms';
 import { NzLayoutModule } from 'ng-zorro-antd/layout';
 import { NzMenuModule } from 'ng-zorro-antd/menu';
 import { NzIconModule } from 'ng-zorro-antd/icon';
 import { NzButtonModule } from 'ng-zorro-antd/button';
 import { NzDropDownModule } from 'ng-zorro-antd/dropdown';
+import { NzSwitchModule } from 'ng-zorro-antd/switch';
 import { NzAvatarModule } from 'ng-zorro-antd/avatar';
+import { NzMessageService } from 'ng-zorro-antd/message';
 import { ThemeService, ThemeType } from './core/services/theme.service';
+import { DataService } from './core/services/data.service';
 
 @Component({
   selector: 'app-root',
@@ -16,189 +20,266 @@ import { ThemeService, ThemeType } from './core/services/theme.service';
     CommonModule, 
     RouterOutlet, 
     RouterLink,
+    RouterLinkActive,
+    FormsModule,
     NzLayoutModule, 
     NzMenuModule, 
     NzIconModule,
     NzButtonModule,
     NzDropDownModule,
+    NzSwitchModule,
     NzAvatarModule
   ],
   template: `
     <nz-layout class="app-layout">
-      <nz-sider
-        class="menu-sidebar"
-        nzCollapsible
-        nzWidth="256px"
-        nzBreakpoint="md"
-        [(nzCollapsed)]="isCollapsed"
-        [nzTrigger]="null">
-        <div class="sidebar-logo">
-          <a routerLink="/">
+      <nz-header class="floating-header">
+        <div class="header-container">
+          <div class="logo-area">
             <img src="logo.svg" alt="logo">
-            <h1 *ngIf="!isCollapsed">TechPulse</h1>
-          </a>
-        </div>
-        <ul nz-menu nzTheme="dark" nzMode="inline" [nzInlineCollapsed]="isCollapsed">
-          <li nz-menu-item nzMatchRouter>
-            <a routerLink="/dashboard">
-              <span nz-icon nzType="dashboard"></span>
-              <span>Dashboard</span>
+            <h1>TechPulse</h1>
+          </div>
+          
+          <nav class="nav-chips">
+            <a routerLink="/dashboard" routerLinkActive="active" class="nav-chip">
+              <span nz-icon nzType="home"></span>
+              <span>Home</span>
             </a>
-          </li>
-          <li nz-menu-item nzMatchRouter>
-            <a routerLink="/trends">
-              <span nz-icon nzType="line-chart"></span>
-              <span>Trends</span>
+            <a routerLink="/trends" routerLinkActive="active" class="nav-chip">
+              <span nz-icon nzType="github"></span>
+              <span>GitHub Trends</span>
             </a>
-          </li>
-          <li nz-menu-item nzMatchRouter>
-            <a routerLink="/news">
+            <a routerLink="/news" routerLinkActive="active" class="nav-chip">
               <span nz-icon nzType="read"></span>
-              <span>News</span>
+              <span>Hacker News</span>
             </a>
-          </li>
-        </ul>
-      </nz-sider>
-      <nz-layout>
-        <nz-header>
-          <div class="app-header">
-            <span class="header-trigger" (click)="isCollapsed = !isCollapsed">
-                <span nz-icon [nzType]="isCollapsed ? 'menu-unfold' : 'menu-fold'"></span>
-            </span>
-            <div class="header-right">
-              <button nz-button nz-dropdown [nzDropdownMenu]="themeMenu" nzType="text">
-                <span nz-icon [nzType]="themeIcon()"></span>
-                Theme
-              </button>
-              <nz-dropdown-menu #themeMenu="nzDropdownMenu">
-                <ul nz-menu>
-                  <li nz-menu-item (click)="setTheme('light')">
-                    <span nz-icon nzType="sun"></span> Light
-                  </li>
-                  <li nz-menu-item (click)="setTheme('dark')">
-                    <span nz-icon nzType="moon"></span> Dark
-                  </li>
-                  <li nz-menu-item (click)="setTheme('auto')">
-                    <span nz-icon nzType="desktop"></span> Auto
-                  </li>
-                </ul>
-              </nz-dropdown-menu>
-            </div>
+          </nav>
+
+          <div class="header-right">
+            <button nz-button nzType="default" (click)="refreshData()" [nzLoading]="isRefreshing" class="action-btn">
+              <span nz-icon nzType="reload"></span>
+              <span class="btn-text">Refresh</span>
+            </button>
+            <nz-switch
+              [(ngModel)]="isDarkMode"
+              (ngModelChange)="toggleTheme()"
+              [nzCheckedChildren]="checkedTemplate"
+              [nzUnCheckedChildren]="uncheckedTemplate"
+            ></nz-switch>
+            <ng-template #checkedTemplate><span nz-icon nzType="bulb"></span></ng-template>
+            <ng-template #uncheckedTemplate><span nz-icon nzType="bulb" nzTheme="fill"></span></ng-template>
           </div>
-        </nz-header>
-        <nz-content>
-          <div class="inner-content">
-            <router-outlet></router-outlet>
-          </div>
-        </nz-content>
-      </nz-layout>
+        </div>
+      </nz-header>
+
+      <nz-content class="main-content">
+        <div class="inner-content">
+          <router-outlet></router-outlet>
+        </div>
+      </nz-content>
     </nz-layout>
   `,
   styles: [`
     :host {
-      display: flex;
-      text-rendering: optimizeLegibility;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+      display: block;
+      height: 100%;
     }
 
     .app-layout {
-      height: 100vh;
-      background: var(--bg-color);
-    }
-
-    .menu-sidebar {
-      position: relative;
-      z-index: 10;
       min-height: 100vh;
-      box-shadow: 2px 0 6px rgba(0,21,41,.35);
+      // background: var(--bg-color);
     }
 
-    .header-trigger {
-      height: 64px;
-      padding: 0 24px;
-      font-size: 20px;
-      cursor: pointer;
-      transition: color .3s;
-      color: var(--text-color);
-    }
-
-    .header-trigger:hover {
-      color: #1890ff;
-    }
-
-    .sidebar-logo {
-      position: relative;
-      height: 64px;
-      padding-left: 24px;
-      overflow: hidden;
-      line-height: 64px;
-      background: #002140;
-      transition: all .3s;
-    }
-
-    .sidebar-logo img {
-      display: inline-block;
-      height: 32px;
-      vertical-align: middle;
-    }
-
-    .sidebar-logo h1 {
-      display: inline-block;
-      margin: 0 0 0 12px;
-      color: #fff;
-      font-weight: 600;
-      font-size: 20px;
-      vertical-align: middle;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; 
-    }
-
-    nz-header {
-      padding: 0;
+    .floating-header {
+      position: fixed;
+      top: 0;
+      left: 0;
       width: 100%;
-      z-index: 2;
-      background: var(--header-bg); 
-      box-shadow: 0 1px 4px var(--shadow-color);
-      border-bottom: 1px solid var(--border-color);
+      z-index: 1000;
+      padding: 0;
+      height: 64px;
+      line-height: 64px;
+      background: var(--header-bg);
+      box-shadow: 0 2px 8px var(--shadow-color);
+      transition: background 0.3s, box-shadow 0.3s;
     }
 
-    .app-header {
+    .header-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 24px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       height: 100%;
     }
 
-    .header-right {
-      margin-right: 24px;
+    .logo-area {
+      display: flex;
+      align-items: center;
+      min-width: 140px;
+      
+      img {
+        height: 32px;
+        margin-right: 12px;
+      }
+      
+      h1 {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 600;
+        color: var(--text-color);
+        line-height: 1;
+      }
     }
 
-    nz-content {
-      margin: 24px;
+    .nav-chips {
+      display: flex;
+      gap: 12px;
+      flex: 1;
+      justify-content: center;
+    }
+
+    .nav-chip {
+      display: inline-flex;
+      align-items: center;
+      height: 36px;
+      padding: 0 16px;
+      border: 1px solid var(--border-color);
+      background: var(--component-bg);
+      color: var(--text-color);
+      font-weight: 500;
+      font-size: 14px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      /* Sharp edges as requested */
+      border-radius: 0; 
+      cursor: pointer;
+      line-height: 1.5;
+      
+      span[nz-icon] {
+        margin-right: 8px;
+        font-size: 16px;
+      }
+
+      &:hover {
+        color: #1890ff;
+        border-color: #1890ff;
+        background: rgba(24, 144, 255, 0.05);
+      }
+
+      &.active {
+        background: #1890ff;
+        color: #fff;
+        border-color: #1890ff;
+      }
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      min-width: 140px;
+      justify-content: flex-end;
+    }
+
+    .main-content {
+      margin-top: 64px; /* Offset for fixed header */
+      padding: 24px;
+      min-height: calc(100vh - 64px);
     }
 
     .inner-content {
-      padding: 24px;
-      background: var(--component-bg);
-      color: var(--text-color);
-      min-height: 100%;
-      border-radius: 4px; 
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .header-container {
+        padding: 0 12px;
+      }
+      
+      .logo-area h1 {
+        display: none; /* Hide text on small screens */
+      }
+      
+      .nav-chip {
+        padding: 0 10px;
+        span:not([nz-icon]) {
+          display: none; /* Hide text, show only icons on mobile */
+        }
+        span[nz-icon] {
+          margin-right: 0;
+        }
+      }
+      
+      .btn-text {
+        display: none;
+      }
     }
   `]
 })
 export class AppComponent {
-  isCollapsed = false;
-  themeService = inject(ThemeService);
+  isDarkMode = false;
+  isRefreshing = false;
+  private dataService = inject(DataService);
+  private message = inject(NzMessageService);
 
-  setTheme(theme: ThemeType) {
-    this.themeService.setTheme(theme);
+  constructor() {
+    // Check system preference
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    this.isDarkMode = prefersDark.matches;
+    this.toggleTheme();
+
+    prefersDark.addEventListener('change', (e) => {
+      this.isDarkMode = e.matches;
+      this.toggleTheme();
+    });
   }
 
-  themeIcon() {
-    switch (this.themeService.currentTheme()) {
-      case 'light': return 'sun';
-      case 'dark': return 'moon';
-      default: return 'desktop';
+  toggleTheme() {
+    if (this.isDarkMode) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    } else {
+      document.documentElement.setAttribute('data-theme', 'light');
     }
+  }
+
+  refreshData() {
+    this.isRefreshing = true;
+    this.dataService.refresh();
+    
+    // Play sound
+    this.playNotificationSound();
+    
+    // Show alert
+    this.message.success('Data refreshed successfully!', {
+      nzDuration: 3000
+    });
+
+    // Reset loading state after a short delay
+    setTimeout(() => {
+      this.isRefreshing = false;
+    }, 1000);
+  }
+
+  playNotificationSound() {
+    const audio = new Audio('assets/sounds/notification.mp3');
+    // Simple beep using Web Audio API to avoid external dependency
+    const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    
+    osc.type = 'sine';
+    osc.frequency.value = 880; // A5
+    gain.gain.value = 0.1;
+    
+    osc.start();
+    setTimeout(() => {
+      osc.stop();
+    }, 200);
   }
 }
