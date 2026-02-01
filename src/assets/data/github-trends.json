@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-01T19:33:38.869Z",
+  "lastUpdated": "2026-02-01T19:48:23.725Z",
   "items": [
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 4975,
+      "stars": 4977,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-01T19:31:04Z"
+      "updated_at": "2026-02-01T19:47:43Z"
     },
     {
       "id": 1143261428,
       "name": "cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
-      "stars": 4672,
+      "stars": 4698,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/moltworker",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-01T19:33:08Z"
+      "updated_at": "2026-02-01T19:48:21Z"
     },
     {
       "id": 1142983825,
@@ -44,14 +44,14 @@
       "id": 1143952193,
       "name": "antfu/skills",
       "description": "Anthony Fu's curated collection of agent skills.",
-      "stars": 2521,
+      "stars": 2522,
       "language": "TypeScript",
       "url": "https://github.com/antfu/skills",
       "owner": {
         "login": "antfu",
         "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
       },
-      "updated_at": "2026-02-01T18:25:38Z"
+      "updated_at": "2026-02-01T19:37:13Z"
     },
     {
       "id": 1142957805,
@@ -70,27 +70,27 @@
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 1643,
+      "stars": 1650,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-01T19:32:08Z"
+      "updated_at": "2026-02-01T19:47:38Z"
     },
     {
       "id": 1142423471,
       "name": "mindfold-ai/Trellis",
       "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-      "stars": 1370,
+      "stars": 1372,
       "language": "Shell",
       "url": "https://github.com/mindfold-ai/Trellis",
       "owner": {
         "login": "mindfold-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/219217320?v=4"
       },
-      "updated_at": "2026-02-01T18:32:41Z"
+      "updated_at": "2026-02-01T19:34:43Z"
     },
     {
       "id": 1143942597,
@@ -109,14 +109,14 @@
       "id": 1145193611,
       "name": "miaoxworld/OpenClawInstaller",
       "description": "ClawdBot 一键部署工具",
-      "stars": 781,
+      "stars": 782,
       "language": "Shell",
       "url": "https://github.com/miaoxworld/OpenClawInstaller",
       "owner": {
         "login": "miaoxworld",
         "avatar_url": "https://avatars.githubusercontent.com/u/189187993?v=4"
       },
-      "updated_at": "2026-02-01T19:31:45Z"
+      "updated_at": "2026-02-01T19:40:27Z"
     },
     {
       "id": 1144107326,
@@ -226,14 +226,27 @@
       "id": 1146028508,
       "name": "MoonshotAI/Kimi-K2.5",
       "description": "Moonshot's most powerful model",
-      "stars": 398,
+      "stars": 399,
       "language": null,
       "url": "https://github.com/MoonshotAI/Kimi-K2.5",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-02-01T19:26:42Z"
+      "updated_at": "2026-02-01T19:33:53Z"
+    },
+    {
+      "id": 1145786318,
+      "name": "Leey21/awesome-ai-research-writing",
+      "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
+      "stars": 374,
+      "language": null,
+      "url": "https://github.com/Leey21/awesome-ai-research-writing",
+      "owner": {
+        "login": "Leey21",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
+      },
+      "updated_at": "2026-02-01T19:43:47Z"
     },
     {
       "id": 1144211118,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
       "updated_at": "2026-02-01T17:40:29Z"
-    },
-    {
-      "id": 1145786318,
-      "name": "Leey21/awesome-ai-research-writing",
-      "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 372,
-      "language": null,
-      "url": "https://github.com/Leey21/awesome-ai-research-writing",
-      "owner": {
-        "login": "Leey21",
-        "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
-      },
-      "updated_at": "2026-02-01T19:00:48Z"
     }
   ]
 }
