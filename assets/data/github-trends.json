@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-01T17:46:35.704Z",
+  "lastUpdated": "2026-02-01T17:59:11.758Z",
   "items": [
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 4951,
+      "stars": 4954,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-01T17:43:37Z"
+      "updated_at": "2026-02-01T17:53:28Z"
     },
     {
       "id": 1143261428,
       "name": "cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
-      "stars": 4527,
+      "stars": 4538,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/moltworker",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-01T17:46:27Z"
+      "updated_at": "2026-02-01T17:58:22Z"
     },
     {
       "id": 1142983825,
@@ -70,66 +70,66 @@
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 1594,
+      "stars": 1599,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-01T17:44:48Z"
+      "updated_at": "2026-02-01T17:54:14Z"
     },
     {
       "id": 1142423471,
       "name": "mindfold-ai/Trellis",
       "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-      "stars": 1367,
+      "stars": 1368,
       "language": "Shell",
       "url": "https://github.com/mindfold-ai/Trellis",
       "owner": {
         "login": "mindfold-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/219217320?v=4"
       },
-      "updated_at": "2026-02-01T17:42:33Z"
+      "updated_at": "2026-02-01T17:51:29Z"
     },
     {
       "id": 1143942597,
       "name": "QwenLM/Qwen3-ASR",
       "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-      "stars": 972,
+      "stars": 973,
       "language": "Python",
       "url": "https://github.com/QwenLM/Qwen3-ASR",
       "owner": {
         "login": "QwenLM",
         "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
       },
-      "updated_at": "2026-02-01T17:15:55Z"
+      "updated_at": "2026-02-01T17:47:48Z"
     },
     {
       "id": 1145193611,
       "name": "miaoxworld/OpenClawInstaller",
       "description": "ClawdBot 一键部署工具",
-      "stars": 772,
+      "stars": 774,
       "language": "Shell",
       "url": "https://github.com/miaoxworld/OpenClawInstaller",
       "owner": {
         "login": "miaoxworld",
         "avatar_url": "https://avatars.githubusercontent.com/u/189187993?v=4"
       },
-      "updated_at": "2026-02-01T17:46:14Z"
+      "updated_at": "2026-02-01T17:49:26Z"
     },
     {
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 752,
+      "stars": 753,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-01T17:17:14Z"
+      "updated_at": "2026-02-01T17:58:13Z"
     },
     {
       "id": 1143767804,
@@ -148,14 +148,14 @@
       "id": 1143019584,
       "name": "jmuncor/tokentap",
       "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.      ",
-      "stars": 644,
+      "stars": 645,
       "language": "Python",
       "url": "https://github.com/jmuncor/tokentap",
       "owner": {
         "login": "jmuncor",
         "avatar_url": "https://avatars.githubusercontent.com/u/191727717?v=4"
       },
-      "updated_at": "2026-02-01T17:41:10Z"
+      "updated_at": "2026-02-01T17:50:48Z"
     },
     {
       "id": 1142461863,
@@ -252,14 +252,14 @@
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 362,
+      "stars": 364,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-01T17:20:00Z"
+      "updated_at": "2026-02-01T17:56:22Z"
     }
   ]
 }
