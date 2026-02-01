@@ -1,145 +1,185 @@
 {
-  "lastUpdated": "2026-02-01T22:20:48.821Z",
+  "lastUpdated": "2026-02-01T22:46:41.031Z",
   "items": [
     {
-      "id": 46849588,
-      "title": "Apple's Q4 2025 margin on Services was 76.5%",
-      "url": "https://asymco.com/2026/02/01/margin-call-3/",
-      "score": 80,
+      "id": 46849567,
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "score": 33,
       "by": "zdw",
-      "time": 1769981582,
-      "comments": 29,
-      "domain": "asymco.com"
-    },
-    {
-      "id": 46849715,
-      "title": "Iran summons families of exiled journalists to halt their activities",
-      "url": "https://www.iranintl.com/en/202602017863",
-      "score": 52,
-      "by": "ukblewis",
-      "time": 1769982458,
-      "comments": 31,
-      "domain": "iranintl.com"
-    },
-    {
-      "id": 46848769,
-      "title": "1-Click RCE to steal your Moltbot data and keys",
-      "url": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
-      "score": 103,
-      "by": "arwt",
-      "time": 1769975267,
-      "comments": 44,
-      "domain": "depthfirst.com"
+      "time": 1769981451,
+      "comments": 0,
+      "domain": "dmitrybrant.com"
     },
     {
       "id": 46847780,
       "title": "Apple I Advertisement (1976)",
       "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 148,
+      "score": 150,
       "by": "janandonly",
       "time": 1769967417,
-      "comments": 103,
+      "comments": 104,
       "domain": "apple1.chez.com"
     },
     {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 229,
+      "score": 236,
       "by": "doener",
       "time": 1769954216,
-      "comments": 42,
+      "comments": 44,
       "domain": "adventuregamestudio.co.uk"
     },
     {
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "url": "https://netbird.io/",
-      "score": 607,
+      "score": 612,
       "by": "l1am0",
       "time": 1769939041,
-      "comments": 223,
+      "comments": 229,
       "domain": "netbird.io"
     },
     {
       "id": 46848415,
       "title": "I taught my neighbor to keep the volume down",
       "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 364,
+      "score": 397,
       "by": "firefoxd",
       "time": 1769972446,
-      "comments": 110,
+      "comments": 120,
       "domain": "idiallo.com"
     },
     {
       "id": 46826011,
       "title": "Efficient String Compression for Modern Database Systems",
       "url": "https://cedardb.com/blog/string_compression/",
-      "score": 50,
+      "score": 59,
       "by": "jandrewrogers",
       "time": 1769788973,
-      "comments": 5,
+      "comments": 6,
       "domain": "cedardb.com"
+    },
+    {
+      "id": 46849258,
+      "title": "My thousand dollar iPhone can't do math",
+      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "score": 25,
+      "by": "rafaelcosta",
+      "time": 1769979116,
+      "comments": 0,
+      "domain": "journal.rafaelcosta.me"
     },
     {
       "id": 46820874,
       "title": "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
       "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
-      "score": 31,
+      "score": 38,
       "by": "zem",
       "time": 1769751089,
-      "comments": 8,
+      "comments": 9,
       "domain": "dspace.mit.edu"
+    },
+    {
+      "id": 46849588,
+      "title": "Margin Call",
+      "url": "https://asymco.com/2026/02/01/margin-call-3/",
+      "score": 107,
+      "by": "zdw",
+      "time": 1769981582,
+      "comments": 46,
+      "domain": "asymco.com"
+    },
+    {
+      "id": 46844822,
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "score": 325,
+      "by": "SatvikBeri",
+      "time": 1769938426,
+      "comments": 138,
+      "domain": "mariozechner.at"
     },
     {
       "id": 46848699,
       "title": "TIL: Apple Broke Time Machine Again on Tahoe",
       "url": "https://taoofmac.com/space/til/2026/02/01/1630",
-      "score": 119,
+      "score": 126,
       "by": "rcarmo",
       "time": 1769974725,
-      "comments": 59,
+      "comments": 62,
       "domain": "taoofmac.com"
-    },
-    {
-      "id": 46847924,
-      "title": "A Crisis comes to Wordle: Reusing old words",
-      "url": "https://forkingmad.blog/wordle-crisis/",
-      "score": 30,
-      "by": "cyanbane",
-      "time": 1769968495,
-      "comments": 23,
-      "domain": "forkingmad.blog"
-    },
-    {
-      "id": 46812795,
-      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
-      "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-      "score": 155,
-      "by": "mikece",
-      "time": 1769705679,
-      "comments": 42,
-      "domain": "cnx-software.com"
     },
     {
       "id": 46847958,
       "title": "Towards a science of scaling agent systems: When and why agent systems work",
       "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-      "score": 25,
+      "score": 28,
       "by": "gmays",
       "time": 1769968830,
       "comments": 13,
       "domain": "research.google"
     },
     {
+      "id": 46812795,
+      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
+      "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
+      "score": 160,
+      "by": "mikece",
+      "time": 1769705679,
+      "comments": 50,
+      "domain": "cnx-software.com"
+    },
+    {
+      "id": 46848769,
+      "title": "1-Click RCE to steal your Moltbot data and keys",
+      "url": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
+      "score": 124,
+      "by": "arwt",
+      "time": 1769975267,
+      "comments": 48,
+      "domain": "depthfirst.com"
+    },
+    {
       "id": 46786575,
       "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
-      "score": 178,
+      "score": 181,
       "by": "kohlschuetter",
       "time": 1769547445,
-      "comments": 95,
+      "comments": 96,
       "domain": "kohlschuetter.github.io"
+    },
+    {
+      "id": 46845244,
+      "title": "Amiga Unix (Amix)",
+      "url": "https://www.amigaunix.com/doku.php/home",
+      "score": 103,
+      "by": "donatj",
+      "time": 1769943440,
+      "comments": 34,
+      "domain": "amigaunix.com"
+    },
+    {
+      "id": 46845103,
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "score": 164,
+      "by": "yannick2k",
+      "time": 1769941841,
+      "comments": 100,
+      "domain": "gyptazy.com"
+    },
+    {
+      "id": 46814581,
+      "title": "Founding Is a Snowball",
+      "url": "https://blog.bawolf.com/p/founding-is-a-snowball",
+      "score": 5,
+      "by": "bryantwolf",
+      "time": 1769712393,
+      "comments": 0,
+      "domain": "blog.bawolf.com"
     },
     {
       "id": 46782356,
@@ -152,63 +192,53 @@
       "domain": "lesswrong.com"
     },
     {
-      "id": 46845244,
-      "title": "Amiga Unix (Amix)",
-      "url": "https://www.amigaunix.com/doku.php/home",
-      "score": 101,
-      "by": "donatj",
-      "time": 1769943440,
-      "comments": 34,
-      "domain": "amigaunix.com"
-    },
-    {
-      "id": 46844822,
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 321,
-      "by": "SatvikBeri",
-      "time": 1769938426,
-      "comments": 138,
-      "domain": "mariozechner.at"
-    },
-    {
-      "id": 46845103,
-      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
-      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-      "score": 158,
-      "by": "yannick2k",
-      "time": 1769941841,
-      "comments": 95,
-      "domain": "gyptazy.com"
+      "id": 46849078,
+      "title": "Kiki – The accountability monster for people who are easily distracted",
+      "url": "https://www.kiki.computer/",
+      "score": 5,
+      "by": "pikseladam",
+      "time": 1769977742,
+      "comments": 4,
+      "domain": "kiki.computer"
     },
     {
       "id": 46844350,
       "title": "The Book of PF, 4th edition",
       "url": "https://nostarch.com/book-of-pf-4th-edition",
-      "score": 187,
+      "score": 189,
       "by": "0x54MUR41",
       "time": 1769932251,
-      "comments": 35,
+      "comments": 36,
       "domain": "nostarch.com"
     },
     {
       "id": 46828907,
       "title": "Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned",
       "url": "https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned",
-      "score": 53,
+      "score": 55,
       "by": "mitchbob",
       "time": 1769802073,
-      "comments": 20,
+      "comments": 22,
       "domain": "theguardian.com"
+    },
+    {
+      "id": 46849630,
+      "title": "MRI scans show exercise can make the brain look younger",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260121034130.htm",
+      "score": 14,
+      "by": "amichail",
+      "time": 1769981820,
+      "comments": 0,
+      "domain": "sciencedaily.com"
     },
     {
       "id": 46847039,
       "title": "English professors double down on requiring printed copies of readings",
       "url": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
-      "score": 88,
+      "score": 93,
       "by": "cmsefton",
       "time": 1769961503,
-      "comments": 128,
+      "comments": 132,
       "domain": "yaledailynews.com"
     },
     {
@@ -218,58 +248,38 @@
       "score": 138,
       "by": "demail",
       "time": 1769624435,
-      "comments": 53,
+      "comments": 55,
       "domain": "visualjj.com"
     },
     {
       "id": 46842603,
       "title": "List animals until failure",
       "url": "https://rose.systems/animalist/",
-      "score": 312,
+      "score": 313,
       "by": "l1n",
       "time": 1769907803,
-      "comments": 166,
+      "comments": 168,
       "domain": "rose.systems"
-    },
-    {
-      "id": 46849078,
-      "title": "Kiki – The accountability monster for people who are easily distracted",
-      "url": "https://www.kiki.computer/",
-      "score": 4,
-      "by": "pikseladam",
-      "time": 1769977742,
-      "comments": 0,
-      "domain": "kiki.computer"
-    },
-    {
-      "id": 46849630,
-      "title": "MRI scans show exercise can make the brain look younger",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260121034130.htm",
-      "score": 9,
-      "by": "amichail",
-      "time": 1769981820,
-      "comments": 0,
-      "domain": "sciencedaily.com"
-    },
-    {
-      "id": 46847746,
-      "title": "Aging muscle stem cells shift from rapid repair to long-term survival",
-      "url": "https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html",
-      "score": 65,
-      "by": "bikenaga",
-      "time": 1769967184,
-      "comments": 15,
-      "domain": "phys.org"
     },
     {
       "id": 46804754,
       "title": "A web server on a single floppy disk",
       "url": "http://floppy.ddns.net/",
-      "score": 83,
+      "score": 86,
       "by": "ActionRetro",
       "time": 1769652040,
       "comments": 31,
       "domain": "floppy.ddns.net"
+    },
+    {
+      "id": 46782872,
+      "title": "The history of C# and TypeScript with Anders Hejlsberg [video]",
+      "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
+      "score": 178,
+      "by": "doppp",
+      "time": 1769533655,
+      "comments": 139,
+      "domain": "youtube.com"
     }
   ]
 }
