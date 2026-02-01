@@ -1,41 +1,51 @@
 {
-  "lastUpdated": "2026-02-01T21:45:37.720Z",
+  "lastUpdated": "2026-02-01T21:57:20.898Z",
   "items": [
+    {
+      "id": 46849588,
+      "title": "Apple's Q4 2025 margin on Services was 76.5%",
+      "url": "https://asymco.com/2026/02/01/margin-call-3/",
+      "score": 30,
+      "by": "zdw",
+      "time": 1769981582,
+      "comments": 7,
+      "domain": "asymco.com"
+    },
+    {
+      "id": 46849715,
+      "title": "Iran summons families of exiled journalists to halt their activities",
+      "url": "https://www.iranintl.com/en/202602017863",
+      "score": 17,
+      "by": "ukblewis",
+      "time": 1769982458,
+      "comments": 2,
+      "domain": "iranintl.com"
+    },
     {
       "id": 46848769,
       "title": "1-Click RCE to steal your Moltbot data and keys",
       "url": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
-      "score": 71,
+      "score": 86,
       "by": "arwt",
       "time": 1769975267,
-      "comments": 28,
+      "comments": 37,
       "domain": "depthfirst.com"
     },
     {
       "id": 46847780,
       "title": "Apple I Advertisement (1976)",
       "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 141,
+      "score": 142,
       "by": "janandonly",
       "time": 1769967417,
       "comments": 100,
       "domain": "apple1.chez.com"
     },
     {
-      "id": 46849588,
-      "title": "Apple's Q4 2025 margin on Services was 76.5%",
-      "url": "https://asymco.com/2026/02/01/margin-call-3/",
-      "score": 8,
-      "by": "zdw",
-      "time": 1769981582,
-      "comments": 0,
-      "domain": "asymco.com"
-    },
-    {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 217,
+      "score": 221,
       "by": "doener",
       "time": 1769954216,
       "comments": 41,
@@ -45,7 +55,7 @@
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "url": "https://netbird.io/",
-      "score": 602,
+      "score": 606,
       "by": "l1am0",
       "time": 1769939041,
       "comments": 225,
@@ -58,24 +68,24 @@
       "score": 49,
       "by": "jandrewrogers",
       "time": 1769788973,
-      "comments": 3,
+      "comments": 4,
       "domain": "cedardb.com"
     },
     {
       "id": 46848415,
       "title": "I taught my neighbor to keep the volume down",
       "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 314,
+      "score": 327,
       "by": "firefoxd",
       "time": 1769972446,
-      "comments": 81,
+      "comments": 89,
       "domain": "idiallo.com"
     },
     {
       "id": 46820874,
       "title": "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
       "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
-      "score": 24,
+      "score": 27,
       "by": "zem",
       "time": 1769751089,
       "comments": 6,
@@ -85,41 +95,41 @@
       "id": 46848699,
       "title": "TIL: Apple Broke Time Machine Again on Tahoe",
       "url": "https://taoofmac.com/space/til/2026/02/01/1630",
-      "score": 102,
+      "score": 107,
       "by": "rcarmo",
       "time": 1769974725,
-      "comments": 50,
+      "comments": 51,
       "domain": "taoofmac.com"
     },
     {
       "id": 46812795,
       "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
       "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-      "score": 149,
+      "score": 154,
       "by": "mikece",
       "time": 1769705679,
-      "comments": 39,
+      "comments": 40,
       "domain": "cnx-software.com"
-    },
-    {
-      "id": 46847958,
-      "title": "Towards a science of scaling agent systems: When and why agent systems work",
-      "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-      "score": 21,
-      "by": "gmays",
-      "time": 1769968830,
-      "comments": 11,
-      "domain": "research.google"
     },
     {
       "id": 46786575,
       "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
-      "score": 166,
+      "score": 170,
       "by": "kohlschuetter",
       "time": 1769547445,
-      "comments": 93,
+      "comments": 94,
       "domain": "kohlschuetter.github.io"
+    },
+    {
+      "id": 46847958,
+      "title": "Towards a science of scaling agent systems: When and why agent systems work",
+      "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+      "score": 22,
+      "by": "gmays",
+      "time": 1769968830,
+      "comments": 13,
+      "domain": "research.google"
     },
     {
       "id": 46845244,
@@ -135,10 +145,10 @@
       "id": 46844822,
       "title": "What I learned building an opinionated and minimal coding agent",
       "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 313,
+      "score": 315,
       "by": "SatvikBeri",
       "time": 1769938426,
-      "comments": 134,
+      "comments": 135,
       "domain": "mariozechner.at"
     },
     {
@@ -155,61 +165,51 @@
       "id": 46847924,
       "title": "A Crisis comes to Wordle: Reusing old words",
       "url": "https://forkingmad.blog/wordle-crisis/",
-      "score": 24,
+      "score": 25,
       "by": "cyanbane",
       "time": 1769968495,
-      "comments": 19,
+      "comments": 20,
       "domain": "forkingmad.blog"
     },
     {
       "id": 46844350,
       "title": "The Book of PF, 4th edition",
       "url": "https://nostarch.com/book-of-pf-4th-edition",
-      "score": 181,
+      "score": 184,
       "by": "0x54MUR41",
       "time": 1769932251,
       "comments": 35,
       "domain": "nostarch.com"
     },
     {
-      "id": 46847039,
-      "title": "English professors double down on requiring printed copies of readings",
-      "url": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
-      "score": 82,
-      "by": "cmsefton",
-      "time": 1769961503,
-      "comments": 115,
-      "domain": "yaledailynews.com"
-    },
-    {
       "id": 46828907,
       "title": "Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned",
       "url": "https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned",
-      "score": 48,
+      "score": 50,
       "by": "mitchbob",
       "time": 1769802073,
-      "comments": 16,
+      "comments": 17,
       "domain": "theguardian.com"
+    },
+    {
+      "id": 46847039,
+      "title": "English professors double down on requiring printed copies of readings",
+      "url": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
+      "score": 85,
+      "by": "cmsefton",
+      "time": 1769961503,
+      "comments": 118,
+      "domain": "yaledailynews.com"
     },
     {
       "id": 46799435,
       "title": "VisualJJ – Jujutsu in Visual Studio Code",
       "url": "https://www.visualjj.com/",
-      "score": 135,
+      "score": 137,
       "by": "demail",
       "time": 1769624435,
       "comments": 51,
       "domain": "visualjj.com"
-    },
-    {
-      "id": 46782356,
-      "title": "Good if make prior after data instead of before",
-      "url": "https://www.lesswrong.com/posts/JAA2cLFH7rLGNCeCo/good-if-make-prior-after-data-instead-of-before",
-      "score": 3,
-      "by": "surprisetalk",
-      "time": 1769531965,
-      "comments": 0,
-      "domain": "lesswrong.com"
     },
     {
       "id": 46782462,
@@ -225,21 +225,41 @@
       "id": 46842603,
       "title": "List animals until failure",
       "url": "https://rose.systems/animalist/",
-      "score": 302,
+      "score": 303,
       "by": "l1n",
       "time": 1769907803,
       "comments": 164,
       "domain": "rose.systems"
     },
     {
+      "id": 46782356,
+      "title": "Good if make prior after data instead of before",
+      "url": "https://www.lesswrong.com/posts/JAA2cLFH7rLGNCeCo/good-if-make-prior-after-data-instead-of-before",
+      "score": 3,
+      "by": "surprisetalk",
+      "time": 1769531965,
+      "comments": 0,
+      "domain": "lesswrong.com"
+    },
+    {
       "id": 46847746,
       "title": "Aging muscle stem cells shift from rapid repair to long-term survival",
       "url": "https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html",
-      "score": 60,
+      "score": 63,
       "by": "bikenaga",
       "time": 1769967184,
       "comments": 15,
       "domain": "phys.org"
+    },
+    {
+      "id": 46782872,
+      "title": "The history of C# and TypeScript with Anders Hejlsberg [video]",
+      "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
+      "score": 172,
+      "by": "doppp",
+      "time": 1769533655,
+      "comments": 133,
+      "domain": "youtube.com"
     },
     {
       "id": 46804754,
@@ -255,31 +275,11 @@
       "id": 46848343,
       "title": "Light exposure and aspects of cognitive function in everyday life",
       "url": "https://www.nature.com/articles/s44271-025-00373-9",
-      "score": 34,
+      "score": 35,
       "by": "PaulHoule",
       "time": 1769971916,
       "comments": 2,
       "domain": "nature.com"
-    },
-    {
-      "id": 46782872,
-      "title": "The history of C# and TypeScript with Anders Hejlsberg [video]",
-      "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
-      "score": 171,
-      "by": "doppp",
-      "time": 1769533655,
-      "comments": 132,
-      "domain": "youtube.com"
-    },
-    {
-      "id": 46840612,
-      "title": "In praise of –dry-run",
-      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
-      "score": 277,
-      "by": "ingve",
-      "time": 1769892133,
-      "comments": 150,
-      "domain": "henrikwarne.com"
     }
   ]
 }
