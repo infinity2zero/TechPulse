@@ -1,0 +1,71 @@
+
+// Custom Theming for NG-ZORRO
+@import "../node_modules/ng-zorro-antd/ng-zorro-antd.less";
+
+// Define CSS Custom Properties for Dynamic Theming
+:root {
+  --bg-color: #f0f2f5;
+  --component-bg: #ffffff;
+  --text-color: rgba(0, 0, 0, 0.85);
+  --text-secondary: rgba(0, 0, 0, 0.45);
+  --header-bg: #ffffff;
+  --border-color: #f0f0f0;
+  --shadow-color: rgba(0, 21, 41, 0.08);
+}
+
+// Dark Mode Overrides
+[data-theme='dark'] {
+  --bg-color: #000000;
+  --component-bg: #141414;
+  --text-color: rgba(255, 255, 255, 0.85);
+  --text-secondary: rgba(255, 255, 255, 0.45);
+  --header-bg: #141414;
+  --border-color: #303030;
+  --shadow-color: rgba(0, 0, 0, 0.45);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+// Global utility for cards
+.ant-card {
+  background: var(--component-bg);
+  border-color: var(--border-color);
+  color: var(--text-color);
+  
+  .ant-card-head {
+    background: transparent;
+    border-bottom-color: var(--border-color);
+    color: var(--text-color);
+  }
+  
+  .ant-card-body {
+    color: var(--text-color);
+  }
+}
+
+// Layout overrides
+.app-layout {
+  background: var(--bg-color);
+}
+
+nz-header {
+  background: var(--header-bg) !important;
+  border-bottom: 1px solid var(--border-color);
+  
+  .header-trigger {
+    color: var(--text-color);
+    
+    &:hover {
+      color: @primary-color;
+    }
+  }
+}
+
+.inner-content {
+  background: var(--component-bg);
+  color: var(--text-color);
+}

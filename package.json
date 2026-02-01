@@ -1,0 +1,69 @@
+{
+  "name": "tech-pulse",
+  "version": "1.0.0",
+  "description": "A real-time tech trend aggregator built with Angular and powered by GitHub Actions.",
+  "author": "infinity2zero",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinity2zero/TechPulse.git"
+  },
+  "keywords": [
+    "angular",
+    "github-actions",
+    "dashboard",
+    "trends",
+    "hacker-news",
+    "github-trends",
+    "serverless",
+    "ng-zorro"
+  ],
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "overrides": [
+      {
+        "files": "*.html",
+        "options": {
+          "parser": "angular"
+        }
+      }
+    ]
+  },
+  "private": true,
+  "packageManager": "npm@11.5.1",
+  "dependencies": {
+    "@angular/animations": "^21.1.2",
+    "@angular/common": "^21.1.0",
+    "@angular/compiler": "^21.1.0",
+    "@angular/core": "^21.1.0",
+    "@angular/forms": "^21.1.0",
+    "@angular/platform-browser": "^21.1.0",
+    "@angular/router": "^21.1.0",
+    "@angular/service-worker": "^21.1.0",
+    "dotenv": "^17.2.3",
+    "ng-zorro-antd": "^21.0.2",
+    "octokit": "^5.0.5",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "^0.16.0"
+  },
+  "devDependencies": {
+    "@angular/build": "^21.1.2",
+    "@angular/cli": "^21.1.2",
+    "@angular/compiler-cli": "^21.1.0",
+    "@types/node": "^25.2.0",
+    "jsdom": "^27.1.0",
+    "less": "^4.2.0",
+    "ng-zorro-antd": "^21.0.2",
+    "typescript": "~5.9.2",
+    "vitest": "^4.0.8"
+  }
+}
