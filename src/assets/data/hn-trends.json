@@ -1,155 +1,165 @@
 {
-  "lastUpdated": "2026-02-01T19:48:23.400Z",
+  "lastUpdated": "2026-02-01T19:57:43.380Z",
   "items": [
     {
       "id": 46847780,
       "title": "Apple: Our philosophy is to provide software for our machines free (1976)",
       "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 99,
+      "score": 103,
       "by": "janandonly",
       "time": 1769967417,
-      "comments": 50,
+      "comments": 55,
       "domain": "apple1.chez.com"
     },
     {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 174,
+      "score": 179,
       "by": "doener",
       "time": 1769954216,
-      "comments": 33,
+      "comments": 34,
       "domain": "adventuregamestudio.co.uk"
     },
     {
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "url": "https://netbird.io/",
-      "score": 543,
+      "score": 545,
       "by": "l1am0",
       "time": 1769939041,
-      "comments": 203,
+      "comments": 204,
       "domain": "netbird.io"
     },
     {
       "id": 46848415,
       "title": "I taught my neighbor to keep the volume down",
       "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 69,
+      "score": 101,
       "by": "firefoxd",
       "time": 1769972446,
-      "comments": 5,
+      "comments": 9,
       "domain": "idiallo.com"
     },
     {
       "id": 46844822,
       "title": "What I learned building an opinionated and minimal coding agent",
       "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 282,
+      "score": 284,
       "by": "SatvikBeri",
       "time": 1769938426,
-      "comments": 119,
+      "comments": 120,
       "domain": "mariozechner.at"
+    },
+    {
+      "id": 46848699,
+      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
+      "url": "https://taoofmac.com/space/til/2026/02/01/1630",
+      "score": 21,
+      "by": "rcarmo",
+      "time": 1769974725,
+      "comments": 3,
+      "domain": "taoofmac.com"
     },
     {
       "id": 46812795,
       "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
       "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-      "score": 118,
+      "score": 119,
       "by": "mikece",
       "time": 1769705679,
-      "comments": 32,
+      "comments": 33,
       "domain": "cnx-software.com"
-    },
-    {
-      "id": 46845244,
-      "title": "Amiga Unix (Amix)",
-      "url": "https://www.amigaunix.com/doku.php/home",
-      "score": 80,
-      "by": "donatj",
-      "time": 1769943440,
-      "comments": 30,
-      "domain": "amigaunix.com"
-    },
-    {
-      "id": 46845103,
-      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
-      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-      "score": 134,
-      "by": "yannick2k",
-      "time": 1769941841,
-      "comments": 64,
-      "domain": "gyptazy.com"
-    },
-    {
-      "id": 46844350,
-      "title": "The Book of PF, 4th edition",
-      "url": "https://nostarch.com/book-of-pf-4th-edition",
-      "score": 174,
-      "by": "0x54MUR41",
-      "time": 1769932251,
-      "comments": 34,
-      "domain": "nostarch.com"
-    },
-    {
-      "id": 46782462,
-      "title": "Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.",
-      "url": "https://collections.leventhalmap.org/search/commonwealth:3f463773q",
-      "score": 38,
-      "by": "speckx",
-      "time": 1769532279,
-      "comments": 8,
-      "domain": "collections.leventhalmap.org"
     },
     {
       "id": 46826011,
       "title": "Efficient String Compression for Modern Database Systems",
       "url": "https://cedardb.com/blog/string_compression/",
-      "score": 4,
+      "score": 5,
       "by": "jandrewrogers",
       "time": 1769788973,
       "comments": 0,
       "domain": "cedardb.com"
     },
     {
+      "id": 46845244,
+      "title": "Amiga Unix (Amix)",
+      "url": "https://www.amigaunix.com/doku.php/home",
+      "score": 81,
+      "by": "donatj",
+      "time": 1769943440,
+      "comments": 31,
+      "domain": "amigaunix.com"
+    },
+    {
+      "id": 46845103,
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "score": 135,
+      "by": "yannick2k",
+      "time": 1769941841,
+      "comments": 68,
+      "domain": "gyptazy.com"
+    },
+    {
+      "id": 46844350,
+      "title": "The Book of PF, 4th edition",
+      "url": "https://nostarch.com/book-of-pf-4th-edition",
+      "score": 175,
+      "by": "0x54MUR41",
+      "time": 1769932251,
+      "comments": 35,
+      "domain": "nostarch.com"
+    },
+    {
+      "id": 46782462,
+      "title": "Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.",
+      "url": "https://collections.leventhalmap.org/search/commonwealth:3f463773q",
+      "score": 40,
+      "by": "speckx",
+      "time": 1769532279,
+      "comments": 8,
+      "domain": "collections.leventhalmap.org"
+    },
+    {
       "id": 46799435,
       "title": "VisualJJ – Jujutsu in Visual Studio Code",
       "url": "https://www.visualjj.com/",
-      "score": 117,
+      "score": 120,
       "by": "demail",
       "time": 1769624435,
       "comments": 47,
       "domain": "visualjj.com"
     },
     {
-      "id": 46848699,
-      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
-      "url": "https://taoofmac.com/space/til/2026/02/01/1630",
-      "score": 8,
-      "by": "rcarmo",
-      "time": 1769974725,
-      "comments": 0,
-      "domain": "taoofmac.com"
-    },
-    {
       "id": 46842603,
       "title": "List animals until failure",
       "url": "https://rose.systems/animalist/",
-      "score": 287,
+      "score": 289,
       "by": "l1n",
       "time": 1769907803,
-      "comments": 150,
+      "comments": 153,
       "domain": "rose.systems"
     },
     {
       "id": 46847746,
       "title": "Aging muscle stem cells shift from rapid repair to long-term survival",
       "url": "https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html",
-      "score": 34,
+      "score": 36,
       "by": "bikenaga",
       "time": 1769967184,
-      "comments": 8,
+      "comments": 10,
       "domain": "phys.org"
+    },
+    {
+      "id": 46848343,
+      "title": "Light exposure and aspects of cognitive function in everyday life",
+      "url": "https://www.nature.com/articles/s44271-025-00373-9",
+      "score": 13,
+      "by": "PaulHoule",
+      "time": 1769971916,
+      "comments": 1,
+      "domain": "nature.com"
     },
     {
       "id": 46846697,
@@ -162,14 +172,14 @@
       "domain": "github.com"
     },
     {
-      "id": 46848343,
-      "title": "Light exposure and aspects of cognitive function in everyday life",
-      "url": "https://www.nature.com/articles/s44271-025-00373-9",
-      "score": 12,
-      "by": "PaulHoule",
-      "time": 1769971916,
-      "comments": 1,
-      "domain": "nature.com"
+      "id": 46828907,
+      "title": "Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned",
+      "url": "https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned",
+      "score": 36,
+      "by": "mitchbob",
+      "time": 1769802073,
+      "comments": 12,
+      "domain": "theguardian.com"
     },
     {
       "id": 46847958,
@@ -178,48 +188,38 @@
       "score": 4,
       "by": "gmays",
       "time": 1769968830,
-      "comments": 2,
+      "comments": 4,
       "domain": "research.google"
     },
     {
-      "id": 46828907,
-      "title": "Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned",
-      "url": "https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned",
-      "score": 35,
-      "by": "mitchbob",
-      "time": 1769802073,
-      "comments": 12,
-      "domain": "theguardian.com"
+      "id": 46847924,
+      "title": "A Crisis comes to Wordle: Reusing old words",
+      "url": "https://forkingmad.blog/wordle-crisis/",
+      "score": 3,
+      "by": "cyanbane",
+      "time": 1769968495,
+      "comments": 0,
+      "domain": "forkingmad.blog"
     },
     {
       "id": 46782872,
       "title": "The history of C# and TypeScript with Anders Hejlsberg [video]",
       "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
-      "score": 153,
+      "score": 155,
       "by": "doppp",
       "time": 1769533655,
-      "comments": 111,
+      "comments": 113,
       "domain": "youtube.com"
     },
     {
       "id": 46804754,
       "title": "A web server on a single floppy disk",
       "url": "http://floppy.ddns.net/",
-      "score": 63,
+      "score": 65,
       "by": "ActionRetro",
       "time": 1769652040,
-      "comments": 29,
+      "comments": 30,
       "domain": "floppy.ddns.net"
-    },
-    {
-      "id": 46846210,
-      "title": "Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code",
-      "url": "https://github.com/zuckermanai/zuckerman",
-      "score": 52,
-      "by": "ddaniel10",
-      "time": 1769953815,
-      "comments": 37,
-      "domain": "github.com"
     },
     {
       "id": 46842178,
@@ -238,14 +238,14 @@
       "score": 257,
       "by": "ingve",
       "time": 1769892133,
-      "comments": 143,
+      "comments": 145,
       "domain": "henrikwarne.com"
     },
     {
       "id": 46848497,
       "title": "The philosophy behind ODF: openness, freedom and control – TDF Community Blog",
       "url": "https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/",
-      "score": 6,
+      "score": 7,
       "by": "cratermoon",
       "time": 1769973115,
       "comments": 1,
@@ -258,28 +258,28 @@
       "score": 214,
       "by": "ColinWright",
       "time": 1769894042,
-      "comments": 100,
+      "comments": 101,
       "domain": "wikiedu.org"
+    },
+    {
+      "id": 46848594,
+      "title": "'Right-to-Compute' Laws May Be Coming to Your State This Year",
+      "url": "https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/",
+      "score": 5,
+      "by": "ohjeez",
+      "time": 1769973944,
+      "comments": 0,
+      "domain": "vktr.com"
     },
     {
       "id": 46847456,
       "title": "Real engineering failures instead of success stories",
       "url": "https://failhub.substack.com/p/failhub-issue-1",
-      "score": 27,
+      "score": 28,
       "by": "birdculture",
       "time": 1769964750,
       "comments": 7,
       "domain": "failhub.substack.com"
-    },
-    {
-      "id": 46804009,
-      "title": "Pg_tracing: Distributed Tracing for PostgreSQL",
-      "url": "https://github.com/DataDog/pg_tracing",
-      "score": 117,
-      "by": "tanelpoder",
-      "time": 1769646990,
-      "comments": 14,
-      "domain": "github.com"
     }
   ]
 }
