@@ -39,7 +39,12 @@ export class DataService {
 
   getGitHubTrends(): Observable<GitHubRepo[]> {
     return timer(0, this.REFRESH_INTERVAL).pipe(
-      switchMap(() => this.http.get<{ items: GitHubRepo[] }>('assets/data/github-trends.json')),
+      switchMap(() => {
+        // In production (GitHub Pages), we need to ensure we are looking at the correct path
+        // However, HttpClient relative paths are resolved against the base href.
+        // If base-href is /TechPulse/, then 'assets/data/...' becomes /TechPulse/assets/data/...
+        return this.http.get<{ items: GitHubRepo[] }>('assets/data/github-trends.json');
+      }),
       map(data => data.items),
       catchError(err => {
         console.error('Failed to load GitHub trends', err);
