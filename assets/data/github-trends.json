@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-02-02T23:15:24.209Z",
+  "lastUpdated": "2026-02-02T23:45:40.119Z",
   "items": [
     {
       "id": 1143261428,
       "name": "cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
-      "stars": 6698,
+      "stars": 6717,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/moltworker",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-02T23:14:44Z"
+      "updated_at": "2026-02-02T23:44:53Z"
     },
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 5437,
+      "stars": 5440,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-02T23:13:04Z"
+      "updated_at": "2026-02-02T23:42:26Z"
     },
     {
       "id": 1142983825,
       "name": "forrestchang/andrej-karpathy-skills",
       "description": null,
-      "stars": 3457,
+      "stars": 3458,
       "language": null,
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "owner": {
         "login": "forrestchang",
         "avatar_url": "https://avatars.githubusercontent.com/u/7857126?v=4"
       },
-      "updated_at": "2026-02-02T22:29:18Z"
+      "updated_at": "2026-02-02T23:44:17Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "stars": 2805,
+      "stars": 2829,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-02T23:15:17Z"
+      "updated_at": "2026-02-02T23:43:26Z"
     },
     {
       "id": 1143952193,
       "name": "antfu/skills",
       "description": "Anthony Fu's curated collection of agent skills.",
-      "stars": 2673,
+      "stars": 2674,
       "language": "TypeScript",
       "url": "https://github.com/antfu/skills",
       "owner": {
         "login": "antfu",
         "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
       },
-      "updated_at": "2026-02-02T22:57:02Z"
+      "updated_at": "2026-02-02T23:28:14Z"
     },
     {
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 2106,
+      "stars": 2109,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-02T23:12:18Z"
+      "updated_at": "2026-02-02T23:31:06Z"
     },
     {
       "id": 1142957805,
       "name": "deepseek-ai/DeepSeek-OCR-2",
       "description": "Visual Causal Flow",
-      "stars": 1903,
+      "stars": 1904,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-02-02T22:02:12Z"
+      "updated_at": "2026-02-02T23:44:20Z"
     },
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 1747,
+      "stars": 1770,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-02T23:12:51Z"
+      "updated_at": "2026-02-02T23:43:14Z"
     },
     {
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 1231,
+      "stars": 1233,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-02T23:14:47Z"
+      "updated_at": "2026-02-02T23:24:30Z"
     },
     {
       "id": 1143942597,
       "name": "QwenLM/Qwen3-ASR",
       "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-      "stars": 1107,
+      "stars": 1109,
       "language": "Python",
       "url": "https://github.com/QwenLM/Qwen3-ASR",
       "owner": {
         "login": "QwenLM",
         "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
       },
-      "updated_at": "2026-02-02T22:50:27Z"
+      "updated_at": "2026-02-02T23:36:45Z"
     },
     {
       "id": 1145193611,
       "name": "miaoxworld/OpenClawInstaller",
       "description": "ClawdBot 一键部署工具",
-      "stars": 995,
+      "stars": 996,
       "language": "Shell",
       "url": "https://github.com/miaoxworld/OpenClawInstaller",
       "owner": {
         "login": "miaoxworld",
         "avatar_url": "https://avatars.githubusercontent.com/u/189187993?v=4"
       },
-      "updated_at": "2026-02-02T22:21:34Z"
+      "updated_at": "2026-02-02T23:44:20Z"
     },
     {
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 881,
+      "stars": 882,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-02T22:56:07Z"
+      "updated_at": "2026-02-02T23:34:06Z"
     },
     {
       "id": 1143767804,
@@ -200,14 +200,14 @@
       "id": 1144084014,
       "name": "Prismer-AI/Prismer",
       "description": "Open Source OpenAI Prism Alternative",
-      "stars": 544,
+      "stars": 545,
       "language": "Python",
       "url": "https://github.com/Prismer-AI/Prismer",
       "owner": {
         "login": "Prismer-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/202446192?v=4"
       },
-      "updated_at": "2026-02-02T22:51:41Z"
+      "updated_at": "2026-02-02T23:22:52Z"
     },
     {
       "id": 1146028508,
@@ -226,27 +226,27 @@
       "id": 1145977416,
       "name": "1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 506,
+      "stars": 508,
       "language": "JavaScript",
       "url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "owner": {
         "login": "1186258278",
         "avatar_url": "https://avatars.githubusercontent.com/u/42165041?v=4"
       },
-      "updated_at": "2026-02-02T22:38:06Z"
+      "updated_at": "2026-02-02T23:33:24Z"
     },
     {
       "id": 1144786495,
       "name": "pierceboggan/primer",
       "description": "Get your repo ready for AI.",
-      "stars": 472,
+      "stars": 473,
       "language": "TypeScript",
       "url": "https://github.com/pierceboggan/primer",
       "owner": {
         "login": "pierceboggan",
         "avatar_url": "https://avatars.githubusercontent.com/u/1091304?v=4"
       },
-      "updated_at": "2026-02-02T21:51:30Z"
+      "updated_at": "2026-02-02T23:32:42Z"
     },
     {
       "id": 1145267027,
