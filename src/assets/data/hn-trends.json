@@ -1,264 +1,264 @@
 {
-  "lastUpdated": "2026-02-02T13:44:25.185Z",
+  "lastUpdated": "2026-02-02T14:27:19.003Z",
   "items": [
     {
       "id": 46854642,
       "title": "Termux",
       "url": "https://github.com/termux/termux-app",
-      "score": 128,
+      "score": 163,
       "by": "tosh",
       "time": 1770030224,
-      "comments": 50,
+      "comments": 79,
+      "domain": "github.com"
+    },
+    {
+      "id": 46855447,
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "url": "https://neutree.ai/blog/nano-vllm-part-1",
+      "score": 30,
+      "by": "yz-yu",
+      "time": 1770036755,
+      "comments": 1,
+      "domain": "neutree.ai"
+    },
+    {
+      "id": 46855640,
+      "title": "Adboost: A browser extension that adds ads to every webpage",
+      "url": "https://github.com/surprisetalk/AdBoost",
+      "score": 19,
+      "by": "surprisetalk",
+      "time": 1770037912,
+      "comments": 18,
       "domain": "github.com"
     },
     {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 661,
+      "score": 679,
       "by": "zdw",
       "time": 1769981451,
-      "comments": 197,
+      "comments": 206,
       "domain": "dmitrybrant.com"
-    },
-    {
-      "id": 46855447,
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "score": 5,
-      "by": "yz-yu",
-      "time": 1770036755,
-      "comments": 0,
-      "domain": "neutree.ai"
     },
     {
       "id": 46854534,
       "title": "My fast zero-allocation webserver using OxCaml",
       "url": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "score": 25,
+      "score": 37,
       "by": "noelwelsh",
       "time": 1770029144,
-      "comments": 5,
+      "comments": 8,
       "domain": "anil.recoil.org"
+    },
+    {
+      "id": 46855527,
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "score": 25,
+      "by": "tatersolid",
+      "time": 1770037198,
+      "comments": 24,
+      "domain": "koi.ai"
     },
     {
       "id": 46849258,
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
       "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 345,
+      "score": 355,
       "by": "rafaelcosta",
       "time": 1769979116,
-      "comments": 152,
+      "comments": 167,
       "domain": "journal.rafaelcosta.me"
+    },
+    {
+      "id": 46830026,
+      "title": "Hypergrowth isn’t always easy",
+      "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
+      "score": 23,
+      "by": "usrme",
+      "time": 1769807841,
+      "comments": 8,
+      "domain": "tailscale.com"
     },
     {
       "id": 46852096,
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "score": 137,
+      "score": 144,
       "by": "zdw",
       "time": 1770002995,
-      "comments": 45,
+      "comments": 55,
       "domain": "lapcatsoftware.com"
     },
     {
       "id": 46845097,
       "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
       "url": "https://github.com/rustrum/apate",
-      "score": 15,
+      "score": 17,
       "by": "rumatoest",
       "time": 1769941747,
-      "comments": 6,
+      "comments": 8,
       "domain": "github.com"
     },
     {
       "id": 46814340,
       "title": "Ratchets in software development (2021)",
       "url": "https://qntm.org/ratchet",
-      "score": 64,
+      "score": 70,
       "by": "nvader",
       "time": 1769711508,
-      "comments": 21,
+      "comments": 23,
       "domain": "qntm.org"
-    },
-    {
-      "id": 46855527,
-      "title": "MaliciousCorgi: AI Extensions send your code to China",
-      "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
-      "score": 13,
-      "by": "tatersolid",
-      "time": 1770037198,
-      "comments": 9,
-      "domain": "koi.ai"
     },
     {
       "id": 46850803,
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
       "url": "https://xikipedia.org",
-      "score": 284,
+      "score": 298,
       "by": "rebane2001",
       "time": 1769991139,
-      "comments": 103,
+      "comments": 109,
       "domain": "xikipedia.org"
     },
     {
       "id": 46850205,
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "url": "https://github.com/gavrielc/nanoclaw",
-      "score": 424,
+      "score": 438,
       "by": "jimminyx",
       "time": 1769986162,
-      "comments": 152,
+      "comments": 153,
       "domain": "github.com"
     },
     {
-      "id": 46830026,
-      "title": "Hypergrowth isn’t always easy",
-      "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
-      "score": 12,
-      "by": "usrme",
-      "time": 1769807841,
-      "comments": 3,
-      "domain": "tailscale.com"
-    },
-    {
-      "id": 46844466,
-      "title": "Contracts in Nix",
-      "url": "https://sraka.xyz/posts/contracts.html",
-      "score": 76,
-      "by": "todsacerdoti",
-      "time": 1769933721,
-      "comments": 16,
-      "domain": "sraka.xyz"
-    },
-    {
       "id": 46855550,
-      "title": "UK Government Launches Fuel Forecourt Price API",
-      "url": "https://www.developer.fuel-finder.service.gov.uk/access-latest-fuelprices",
-      "score": 11,
+      "title": "UK government launches fuel forecourt price API",
+      "url": "https://www.bbc.co.uk/news/articles/cp80dpzdg37o",
+      "score": 30,
       "by": "Technolithic",
       "time": 1770037324,
-      "comments": 1,
-      "domain": "developer.fuel-finder.service.gov.uk"
-    },
-    {
-      "id": 46848231,
-      "title": "Ian's Shoelace Site",
-      "url": "https://www.fieggen.com/shoelace/",
-      "score": 238,
-      "by": "righthand",
-      "time": 1769971084,
-      "comments": 40,
-      "domain": "fieggen.com"
-    },
-    {
-      "id": 46847780,
-      "title": "Apple I Advertisement (1976)",
-      "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 249,
-      "by": "janandonly",
-      "time": 1769967417,
-      "comments": 137,
-      "domain": "apple1.chez.com"
-    },
-    {
-      "id": 46846252,
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 348,
-      "by": "doener",
-      "time": 1769954216,
-      "comments": 73,
-      "domain": "adventuregamestudio.co.uk"
-    },
-    {
-      "id": 46851192,
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "score": 101,
-      "by": "kioku",
-      "time": 1769994675,
-      "comments": 48,
-      "domain": "apps.dtic.mil"
-    },
-    {
-      "id": 46853888,
-      "title": "EU launches government satcom program in sovereignty push",
-      "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "score": 77,
-      "by": "benkan",
-      "time": 1770022780,
-      "comments": 33,
-      "domain": "spacenews.com"
+      "comments": 38,
+      "domain": "bbc.co.uk"
     },
     {
       "id": 46853552,
       "title": "Library of Juggling",
       "url": "https://libraryofjuggling.com/",
-      "score": 25,
+      "score": 38,
       "by": "tontony",
       "time": 1770019129,
       "comments": 4,
       "domain": "libraryofjuggling.com"
     },
     {
+      "id": 46848231,
+      "title": "Ian's Shoelace Site",
+      "url": "https://www.fieggen.com/shoelace/",
+      "score": 260,
+      "by": "righthand",
+      "time": 1769971084,
+      "comments": 41,
+      "domain": "fieggen.com"
+    },
+    {
+      "id": 46813867,
+      "title": "Best Gas Masks",
+      "url": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "score": 206,
+      "by": "cdrnsf",
+      "time": 1769709714,
+      "comments": 48,
+      "domain": "theverge.com"
+    },
+    {
+      "id": 46847780,
+      "title": "Apple I Advertisement (1976)",
+      "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "score": 252,
+      "by": "janandonly",
+      "time": 1769967417,
+      "comments": 138,
+      "domain": "apple1.chez.com"
+    },
+    {
+      "id": 46844466,
+      "title": "Contracts in Nix",
+      "url": "https://sraka.xyz/posts/contracts.html",
+      "score": 77,
+      "by": "todsacerdoti",
+      "time": 1769933721,
+      "comments": 16,
+      "domain": "sraka.xyz"
+    },
+    {
+      "id": 46846252,
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "url": "https://www.adventuregamestudio.co.uk/",
+      "score": 353,
+      "by": "doener",
+      "time": 1769954216,
+      "comments": 75,
+      "domain": "adventuregamestudio.co.uk"
+    },
+    {
+      "id": 46853888,
+      "title": "EU launches government satcom program in sovereignty push",
+      "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+      "score": 87,
+      "by": "benkan",
+      "time": 1770022780,
+      "comments": 45,
+      "domain": "spacenews.com"
+    },
+    {
+      "id": 46851192,
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "score": 105,
+      "by": "kioku",
+      "time": 1769994675,
+      "comments": 52,
+      "domain": "apps.dtic.mil"
+    },
+    {
       "id": 46822961,
       "title": "Rev up the viral factories",
       "url": "https://www.science.org/content/blog-post/rev-viral-factories",
-      "score": 26,
+      "score": 29,
       "by": "etiam",
       "time": 1769770936,
       "comments": 1,
       "domain": "science.org"
     },
     {
-      "id": 46849926,
-      "title": "Treasures found on HS2 route stored in secret warehouse",
-      "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "score": 79,
-      "by": "breve",
-      "time": 1769984079,
-      "comments": 48,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 46854951,
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "score": 76,
-      "by": "jsheard",
-      "time": 1770033149,
-      "comments": 88,
-      "domain": "windowscentral.com"
-    },
-    {
       "id": 46852660,
       "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
       "url": "https://www.wired.com/story/the-red-bull-leaks/",
-      "score": 173,
+      "score": 190,
       "by": "smurda",
       "time": 1770009059,
-      "comments": 91,
+      "comments": 102,
       "domain": "wired.com"
     },
     {
       "id": 46849154,
       "title": "Building Your Own Efficient uint128 in C++",
       "url": "https://solidean.com/blog/2026/building-your-own-u128/",
-      "score": 94,
+      "score": 96,
       "by": "PaulHoule",
       "time": 1769978445,
-      "comments": 37,
+      "comments": 41,
       "domain": "solidean.com"
     },
     {
       "id": 46824147,
       "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
       "url": "https://reference-global.com/article/10.2478/bgs-2022-0016",
-      "score": 20,
+      "score": 24,
       "by": "bryanrasmussen",
       "time": 1769779784,
-      "comments": 4,
+      "comments": 6,
       "domain": "reference-global.com"
     },
     {
@@ -268,38 +268,38 @@
       "score": 140,
       "by": "jandrewrogers",
       "time": 1769788973,
-      "comments": 35,
+      "comments": 39,
       "domain": "cedardb.com"
+    },
+    {
+      "id": 46854951,
+      "title": "Microsoft is walking back Windows 11's AI overload",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+      "score": 89,
+      "by": "jsheard",
+      "time": 1770033149,
+      "comments": 124,
+      "domain": "windowscentral.com"
+    },
+    {
+      "id": 46849926,
+      "title": "Treasures found on HS2 route stored in secret warehouse",
+      "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
+      "score": 82,
+      "by": "breve",
+      "time": 1769984079,
+      "comments": 53,
+      "domain": "bbc.com"
     },
     {
       "id": 46850588,
       "title": "Two kinds of AI users are emerging",
       "url": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
-      "score": 249,
+      "score": 262,
       "by": "martinald",
       "time": 1769989518,
-      "comments": 235,
+      "comments": 242,
       "domain": "martinalderson.com"
-    },
-    {
-      "id": 46812795,
-      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
-      "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-      "score": 233,
-      "by": "mikece",
-      "time": 1769705679,
-      "comments": 95,
-      "domain": "cnx-software.com"
-    },
-    {
-      "id": 46814581,
-      "title": "Founding is a snowball",
-      "url": "https://blog.bawolf.com/p/founding-is-a-snowball",
-      "score": 96,
-      "by": "bryantwolf",
-      "time": 1769712393,
-      "comments": 34,
-      "domain": "blog.bawolf.com"
     }
   ]
 }
