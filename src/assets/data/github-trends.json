@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-01T23:51:23.369Z",
+  "lastUpdated": "2026-02-02T00:01:01.535Z",
   "items": [
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 5023,
+      "stars": 5025,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-01T23:36:11Z"
+      "updated_at": "2026-02-01T23:57:11Z"
     },
     {
       "id": 1143261428,
       "name": "cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
-      "stars": 4952,
+      "stars": 4967,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/moltworker",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-01T23:51:18Z"
+      "updated_at": "2026-02-02T00:00:57Z"
     },
     {
       "id": 1142983825,
       "name": "forrestchang/andrej-karpathy-skills",
       "description": null,
-      "stars": 3385,
+      "stars": 3386,
       "language": null,
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "owner": {
         "login": "forrestchang",
         "avatar_url": "https://avatars.githubusercontent.com/u/7857126?v=4"
       },
-      "updated_at": "2026-02-01T23:26:25Z"
+      "updated_at": "2026-02-01T23:59:48Z"
     },
     {
       "id": 1143952193,
@@ -70,40 +70,27 @@
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 1723,
+      "stars": 1725,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-01T23:47:15Z"
-    },
-    {
-      "id": 1142423471,
-      "name": "mindfold-ai/Trellis",
-      "description": "All-in-one AI framework & toolkit for Claude Code & Cursor",
-      "stars": 1375,
-      "language": "Shell",
-      "url": "https://github.com/mindfold-ai/Trellis",
-      "owner": {
-        "login": "mindfold-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/219217320?v=4"
-      },
-      "updated_at": "2026-02-01T21:27:08Z"
+      "updated_at": "2026-02-01T23:52:32Z"
     },
     {
       "id": 1143942597,
       "name": "QwenLM/Qwen3-ASR",
       "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-      "stars": 981,
+      "stars": 982,
       "language": "Python",
       "url": "https://github.com/QwenLM/Qwen3-ASR",
       "owner": {
         "login": "QwenLM",
         "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
       },
-      "updated_at": "2026-02-01T23:08:33Z"
+      "updated_at": "2026-02-01T23:53:35Z"
     },
     {
       "id": 1145193611,
@@ -122,27 +109,27 @@
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 773,
+      "stars": 775,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-01T23:23:46Z"
+      "updated_at": "2026-02-02T00:00:51Z"
     },
     {
       "id": 1143767804,
       "name": "zarazhangrui/frontend-slides",
       "description": "Create beautiful slides on the web using Claude's frontend skills",
-      "stars": 680,
+      "stars": 681,
       "language": null,
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-02-01T23:44:09Z"
+      "updated_at": "2026-02-01T23:56:38Z"
     },
     {
       "id": 1143019584,
@@ -156,19 +143,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/191727717?v=4"
       },
       "updated_at": "2026-02-01T22:49:22Z"
-    },
-    {
-      "id": 1142461863,
-      "name": "Robbyant/lingbot-vla",
-      "description": "A Pragmatic VLA Foundation Model",
-      "stars": 556,
-      "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-vla",
-      "owner": {
-        "login": "Robbyant",
-        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
-      },
-      "updated_at": "2026-02-01T21:15:25Z"
     },
     {
       "id": 1142980483,
@@ -187,14 +161,14 @@
       "id": 1144084014,
       "name": "Prismer-AI/Prismer",
       "description": "Open Source OpenAI Prism Alternative",
-      "stars": 518,
+      "stars": 519,
       "language": "Python",
       "url": "https://github.com/Prismer-AI/Prismer",
       "owner": {
         "login": "Prismer-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/202446192?v=4"
       },
-      "updated_at": "2026-02-01T23:37:51Z"
+      "updated_at": "2026-02-01T23:56:01Z"
     },
     {
       "id": 1144786495,
@@ -239,14 +213,14 @@
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 387,
+      "stars": 393,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-01T23:37:02Z"
+      "updated_at": "2026-02-01T23:59:45Z"
     },
     {
       "id": 1144211118,
@@ -260,6 +234,32 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
       "updated_at": "2026-02-01T22:34:09Z"
+    },
+    {
+      "id": 1144802365,
+      "name": "Kylsky/chatgpt-team-helper",
+      "description": "一站式Team账号管理",
+      "stars": 353,
+      "language": "Vue",
+      "url": "https://github.com/Kylsky/chatgpt-team-helper",
+      "owner": {
+        "login": "Kylsky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38944162?v=4"
+      },
+      "updated_at": "2026-02-01T21:28:30Z"
+    },
+    {
+      "id": 1143604550,
+      "name": "levineam/qmd-skill",
+      "description": null,
+      "stars": 336,
+      "language": null,
+      "url": "https://github.com/levineam/qmd-skill",
+      "owner": {
+        "login": "levineam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1668898?v=4"
+      },
+      "updated_at": "2026-02-01T23:17:37Z"
     }
   ]
 }
