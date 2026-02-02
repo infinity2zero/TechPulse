@@ -1,285 +1,275 @@
 {
-  "lastUpdated": "2026-02-02T17:05:33.118Z",
+  "lastUpdated": "2026-02-02T17:52:35.498Z",
   "items": [
     {
       "id": 46855447,
       "title": "Nano-vLLM: How a vLLM-style inference engine works",
       "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "score": 132,
+      "score": 151,
       "by": "yz-yu",
       "time": 1770036755,
-      "comments": 18,
+      "comments": 19,
       "domain": "neutree.ai"
-    },
-    {
-      "id": 46855803,
-      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
-      "url": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
-      "score": 63,
-      "by": "defrost",
-      "time": 1770038953,
-      "comments": 12,
-      "domain": "phys.org"
     },
     {
       "id": 46820142,
       "title": "4x faster network file sync with rclone (vs rsync) (2025)",
       "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
-      "score": 103,
+      "score": 133,
       "by": "indigodaddy",
       "time": 1769743052,
-      "comments": 38,
+      "comments": 55,
       "domain": "jeffgeerling.com"
+    },
+    {
+      "id": 46855803,
+      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+      "url": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
+      "score": 79,
+      "by": "defrost",
+      "time": 1770038953,
+      "comments": 17,
+      "domain": "phys.org"
+    },
+    {
+      "id": 46858802,
+      "title": "Being sane in insane places (1973) [pdf]",
+      "url": "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF",
+      "score": 4,
+      "by": "dbgrman",
+      "time": 1770054194,
+      "comments": 1,
+      "domain": "weber.edu"
+    },
+    {
+      "id": 46858577,
+      "title": "Todd C. Miller – sudo Maintainer for over 30 years",
+      "url": "https://www.millert.dev/",
+      "score": 12,
+      "by": "wodniok",
+      "time": 1770053126,
+      "comments": 4,
+      "domain": "millert.dev"
     },
     {
       "id": 46854534,
       "title": "My fast zero-allocation webserver using OxCaml",
       "url": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "score": 88,
+      "score": 100,
       "by": "noelwelsh",
       "time": 1770029144,
-      "comments": 22,
+      "comments": 28,
       "domain": "anil.recoil.org"
     },
     {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 750,
+      "score": 765,
       "by": "zdw",
       "time": 1769981451,
-      "comments": 235,
+      "comments": 240,
       "domain": "dmitrybrant.com"
-    },
-    {
-      "id": 46830026,
-      "title": "Hypergrowth isn’t always easy",
-      "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
-      "score": 72,
-      "by": "usrme",
-      "time": 1769807841,
-      "comments": 34,
-      "domain": "tailscale.com"
-    },
-    {
-      "id": 46854999,
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "score": 175,
-      "by": "Anon84",
-      "time": 1770033538,
-      "comments": 229,
-      "domain": "theverge.com"
-    },
-    {
-      "id": 46854642,
-      "title": "Termux",
-      "url": "https://github.com/termux/termux-app",
-      "score": 256,
-      "by": "tosh",
-      "time": 1770030224,
-      "comments": 124,
-      "domain": "github.com"
-    },
-    {
-      "id": 46826991,
-      "title": "IsoCoaster – Theme Park Builder",
-      "url": "https://iso-coaster.com/",
-      "score": 25,
-      "by": "duck",
-      "time": 1769793115,
-      "comments": 3,
-      "domain": "iso-coaster.com"
-    },
-    {
-      "id": 46856899,
-      "title": "Show HN: Stelvio – Ship Python to AWS",
-      "url": "https://stelvio.dev/",
-      "score": 11,
-      "by": "michal-stlv",
-      "time": 1770045159,
-      "comments": 8,
-      "domain": "stelvio.dev"
-    },
-    {
-      "id": 46849258,
-      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 388,
-      "by": "rafaelcosta",
-      "time": 1769979116,
-      "comments": 179,
-      "domain": "journal.rafaelcosta.me"
     },
     {
       "id": 46811207,
       "title": "Valanza – my Unix way for weight tracking and anlysis",
       "url": "https://github.com/paolomarrone/valanza",
-      "score": 6,
+      "score": 11,
       "by": "lallero317",
       "time": 1769699291,
       "comments": 1,
       "domain": "github.com"
     },
     {
+      "id": 46854999,
+      "title": "Claude Code is suddenly everywhere inside Microsoft",
+      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "score": 207,
+      "by": "Anon84",
+      "time": 1770033538,
+      "comments": 290,
+      "domain": "theverge.com"
+    },
+    {
+      "id": 46830026,
+      "title": "Hypergrowth isn’t always easy",
+      "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
+      "score": 88,
+      "by": "usrme",
+      "time": 1769807841,
+      "comments": 39,
+      "domain": "tailscale.com"
+    },
+    {
+      "id": 46854642,
+      "title": "Termux",
+      "url": "https://github.com/termux/termux-app",
+      "score": 272,
+      "by": "tosh",
+      "time": 1770030224,
+      "comments": 138,
+      "domain": "github.com"
+    },
+    {
+      "id": 46824398,
+      "title": "Solvingn the Santa Claus concurrency puzzle with a model checker",
+      "url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+      "score": 6,
+      "by": "simplegeek",
+      "time": 1769781316,
+      "comments": 1,
+      "domain": "wyounas.github.io"
+    },
+    {
+      "id": 46856899,
+      "title": "Show HN: Stelvio – Ship Python to AWS",
+      "url": "https://stelvio.dev/",
+      "score": 20,
+      "by": "michal-stlv",
+      "time": 1770045159,
+      "comments": 9,
+      "domain": "stelvio.dev"
+    },
+    {
+      "id": 46849258,
+      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "score": 390,
+      "by": "rafaelcosta",
+      "time": 1769979116,
+      "comments": 180,
+      "domain": "journal.rafaelcosta.me"
+    },
+    {
+      "id": 46823725,
+      "title": "They lied to you. Building software is hard",
+      "url": "https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard",
+      "score": 8,
+      "by": "xiaohanyu",
+      "time": 1769776411,
+      "comments": 4,
+      "domain": "blog.nordcraft.com"
+    },
+    {
       "id": 46852096,
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "score": 167,
+      "score": 172,
       "by": "zdw",
       "time": 1770002995,
-      "comments": 60,
+      "comments": 64,
       "domain": "lapcatsoftware.com"
+    },
+    {
+      "id": 46857615,
+      "title": "Hacking Moltbook: The AI Social Network Any Human Can Control",
+      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "score": 4,
+      "by": "galnagli",
+      "time": 1770048516,
+      "comments": 0,
+      "domain": "wiz.io"
     },
     {
       "id": 46853552,
       "title": "Library of Juggling",
       "url": "https://libraryofjuggling.com/",
-      "score": 70,
+      "score": 79,
       "by": "tontony",
       "time": 1770019129,
-      "comments": 12,
+      "comments": 17,
       "domain": "libraryofjuggling.com"
+    },
+    {
+      "id": 46826991,
+      "title": "IsoCoaster – Theme Park Builder",
+      "url": "https://iso-coaster.com/",
+      "score": 33,
+      "by": "duck",
+      "time": 1769793115,
+      "comments": 4,
+      "domain": "iso-coaster.com"
     },
     {
       "id": 46850803,
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
       "url": "https://xikipedia.org",
-      "score": 352,
+      "score": 365,
       "by": "rebane2001",
       "time": 1769991139,
-      "comments": 124,
+      "comments": 125,
       "domain": "xikipedia.org"
-    },
-    {
-      "id": 46856854,
-      "title": "Waymo Seeking About $16B Near $110B Valuation",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation",
-      "score": 96,
-      "by": "JumpCrisscross",
-      "time": 1770044932,
-      "comments": 106,
-      "domain": "bloomberg.com"
-    },
-    {
-      "id": 46813867,
-      "title": "Best Gas Masks",
-      "url": "https://www.theverge.com/policy/868571/best-gas-masks",
-      "score": 391,
-      "by": "cdrnsf",
-      "time": 1769709714,
-      "comments": 97,
-      "domain": "theverge.com"
     },
     {
       "id": 46814340,
       "title": "Ratchets in software development (2021)",
       "url": "https://qntm.org/ratchet",
-      "score": 91,
+      "score": 98,
       "by": "nvader",
       "time": 1769711508,
-      "comments": 33,
+      "comments": 35,
       "domain": "qntm.org"
     },
     {
       "id": 46850205,
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "url": "https://github.com/gavrielc/nanoclaw",
-      "score": 464,
+      "score": 472,
       "by": "jimminyx",
       "time": 1769986162,
-      "comments": 177,
+      "comments": 187,
       "domain": "github.com"
     },
     {
-      "id": 46857124,
-      "title": "We asked 15,000 European devs about jobs, salaries, and AI [pdf]",
-      "url": "https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf",
-      "score": 25,
-      "by": "birdculture",
-      "time": 1770046295,
-      "comments": 16,
-      "domain": "static.germantechjobs.de"
+      "id": 46813867,
+      "title": "Best Gas Masks",
+      "url": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "score": 443,
+      "by": "cdrnsf",
+      "time": 1769709714,
+      "comments": 117,
+      "domain": "theverge.com"
+    },
+    {
+      "id": 46848231,
+      "title": "Ian's Shoelace Site",
+      "url": "https://www.fieggen.com/shoelace/",
+      "score": 341,
+      "by": "righthand",
+      "time": 1769971084,
+      "comments": 63,
+      "domain": "fieggen.com"
     },
     {
       "id": 46845097,
       "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
       "url": "https://github.com/rustrum/apate",
-      "score": 24,
+      "score": 27,
       "by": "rumatoest",
       "time": 1769941747,
       "comments": 9,
       "domain": "github.com"
     },
     {
-      "id": 46848231,
-      "title": "Ian's Shoelace Site",
-      "url": "https://www.fieggen.com/shoelace/",
-      "score": 328,
-      "by": "righthand",
-      "time": 1769971084,
-      "comments": 59,
-      "domain": "fieggen.com"
-    },
-    {
-      "id": 46857290,
-      "title": "Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]",
-      "url": "https://www.youtube.com/watch?v=OmQ881sOTIc",
-      "score": 12,
-      "by": "CharlesW",
-      "time": 1770047170,
-      "comments": 3,
-      "domain": "youtube.com"
-    },
-    {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 373,
+      "score": 380,
       "by": "doener",
       "time": 1769954216,
-      "comments": 79,
+      "comments": 80,
       "domain": "adventuregamestudio.co.uk"
     },
     {
       "id": 46847780,
       "title": "Apple I Advertisement (1976)",
       "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 263,
+      "score": 266,
       "by": "janandonly",
       "time": 1769967417,
-      "comments": 142,
+      "comments": 145,
       "domain": "apple1.chez.com"
-    },
-    {
-      "id": 46844466,
-      "title": "Contracts in Nix",
-      "url": "https://sraka.xyz/posts/contracts.html",
-      "score": 89,
-      "by": "todsacerdoti",
-      "time": 1769933721,
-      "comments": 16,
-      "domain": "sraka.xyz"
-    },
-    {
-      "id": 46824147,
-      "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
-      "url": "https://reference-global.com/article/10.2478/bgs-2022-0016",
-      "score": 39,
-      "by": "bryanrasmussen",
-      "time": 1769779784,
-      "comments": 11,
-      "domain": "reference-global.com"
-    },
-    {
-      "id": 46853888,
-      "title": "EU launches government satcom program in sovereignty push",
-      "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "score": 129,
-      "by": "benkan",
-      "time": 1770022780,
-      "comments": 67,
-      "domain": "spacenews.com"
     }
   ]
 }
