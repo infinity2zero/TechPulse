@@ -1,21 +1,31 @@
 {
-  "lastUpdated": "2026-02-01T23:51:22.985Z",
+  "lastUpdated": "2026-02-02T00:01:01.167Z",
   "items": [
     {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 134,
+      "score": 142,
       "by": "zdw",
       "time": 1769981451,
-      "comments": 21,
+      "comments": 27,
       "domain": "dmitrybrant.com"
+    },
+    {
+      "id": 46850350,
+      "title": "We (As a Society) Peaked in the 90s",
+      "url": "https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s",
+      "score": 10,
+      "by": "stog",
+      "time": 1769987509,
+      "comments": 10,
+      "domain": "chris.pagecord.com"
     },
     {
       "id": 46850205,
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "url": "https://github.com/gavrielc/nanoclaw",
-      "score": 71,
+      "score": 79,
       "by": "jimminyx",
       "time": 1769986162,
       "comments": 17,
@@ -25,7 +35,7 @@
       "id": 46847780,
       "title": "Apple I Advertisement (1976)",
       "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 163,
+      "score": 164,
       "by": "janandonly",
       "time": 1769967417,
       "comments": 105,
@@ -35,17 +45,17 @@
       "id": 46849258,
       "title": "My thousand dollar iPhone can't do math",
       "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 72,
+      "score": 79,
       "by": "rafaelcosta",
       "time": 1769979116,
-      "comments": 31,
+      "comments": 36,
       "domain": "journal.rafaelcosta.me"
     },
     {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "url": "https://www.adventuregamestudio.co.uk/",
-      "score": 249,
+      "score": 251,
       "by": "doener",
       "time": 1769954216,
       "comments": 46,
@@ -55,30 +65,20 @@
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "url": "https://netbird.io/",
-      "score": 623,
+      "score": 625,
       "by": "l1am0",
       "time": 1769939041,
       "comments": 239,
       "domain": "netbird.io"
     },
     {
-      "id": 46850350,
-      "title": "We (As a Society) Peaked in the 90s",
-      "url": "https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s",
-      "score": 4,
-      "by": "stog",
-      "time": 1769987509,
-      "comments": 1,
-      "domain": "chris.pagecord.com"
-    },
-    {
       "id": 46849078,
       "title": "Kiki – The accountability monster for people who are easily distracted",
       "url": "https://www.kiki.computer/",
-      "score": 29,
+      "score": 31,
       "by": "pikseladam",
       "time": 1769977742,
-      "comments": 30,
+      "comments": 33,
       "domain": "kiki.computer"
     },
     {
@@ -95,31 +95,41 @@
       "id": 46848415,
       "title": "I taught my neighbor to keep the volume down",
       "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 446,
+      "score": 456,
       "by": "firefoxd",
       "time": 1769972446,
-      "comments": 165,
+      "comments": 170,
       "domain": "idiallo.com"
     },
     {
       "id": 46820874,
       "title": "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
       "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
-      "score": 43,
+      "score": 45,
       "by": "zem",
       "time": 1769751089,
-      "comments": 16,
+      "comments": 21,
       "domain": "dspace.mit.edu"
     },
     {
       "id": 46844822,
       "title": "What I learned building an opinionated and minimal coding agent",
       "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 337,
+      "score": 338,
       "by": "SatvikBeri",
       "time": 1769938426,
       "comments": 142,
       "domain": "mariozechner.at"
+    },
+    {
+      "id": 46814581,
+      "title": "Founding is a snowball",
+      "url": "https://blog.bawolf.com/p/founding-is-a-snowball",
+      "score": 16,
+      "by": "bryantwolf",
+      "time": 1769712393,
+      "comments": 1,
+      "domain": "blog.bawolf.com"
     },
     {
       "id": 46812795,
@@ -132,6 +142,16 @@
       "domain": "cnx-software.com"
     },
     {
+      "id": 46848699,
+      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
+      "url": "https://taoofmac.com/space/til/2026/02/01/1630",
+      "score": 153,
+      "by": "rcarmo",
+      "time": 1769974725,
+      "comments": 82,
+      "domain": "taoofmac.com"
+    },
+    {
       "id": 46849375,
       "title": "A Collection of Awesome Nostr Projects",
       "url": "https://github.com/aljazceru/awesome-nostr",
@@ -142,40 +162,20 @@
       "domain": "github.com"
     },
     {
-      "id": 46848699,
-      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
-      "url": "https://taoofmac.com/space/til/2026/02/01/1630",
-      "score": 150,
-      "by": "rcarmo",
-      "time": 1769974725,
-      "comments": 79,
-      "domain": "taoofmac.com"
-    },
-    {
-      "id": 46814581,
-      "title": "Founding is a snowball",
-      "url": "https://blog.bawolf.com/p/founding-is-a-snowball",
-      "score": 14,
-      "by": "bryantwolf",
-      "time": 1769712393,
-      "comments": 1,
-      "domain": "blog.bawolf.com"
-    },
-    {
       "id": 46849630,
       "title": "MRI scans show exercise can make the brain look younger",
       "url": "https://www.sciencedaily.com/releases/2026/01/260121034130.htm",
-      "score": 38,
+      "score": 39,
       "by": "amichail",
       "time": 1769981820,
-      "comments": 2,
+      "comments": 3,
       "domain": "sciencedaily.com"
     },
     {
       "id": 46786575,
       "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
-      "score": 188,
+      "score": 190,
       "by": "kohlschuetter",
       "time": 1769547445,
       "comments": 99,
@@ -188,7 +188,7 @@
       "score": 35,
       "by": "gmays",
       "time": 1769968830,
-      "comments": 14,
+      "comments": 15,
       "domain": "research.google"
     },
     {
@@ -202,6 +202,26 @@
       "domain": "amigaunix.com"
     },
     {
+      "id": 46845103,
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "score": 174,
+      "by": "yannick2k",
+      "time": 1769941841,
+      "comments": 105,
+      "domain": "gyptazy.com"
+    },
+    {
+      "id": 46848769,
+      "title": "1-Click RCE to steal your Moltbot data and keys",
+      "url": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
+      "score": 137,
+      "by": "arwt",
+      "time": 1769975267,
+      "comments": 59,
+      "domain": "depthfirst.com"
+    },
+    {
       "id": 46801383,
       "title": "Troublemaker: The fierce, unruly life of Jessica Mitford",
       "url": "https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things",
@@ -212,50 +232,30 @@
       "domain": "lrb.co.uk"
     },
     {
-      "id": 46848769,
-      "title": "1-Click RCE to steal your Moltbot data and keys",
-      "url": "https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys",
-      "score": 135,
-      "by": "arwt",
-      "time": 1769975267,
-      "comments": 57,
-      "domain": "depthfirst.com"
-    },
-    {
-      "id": 46845103,
-      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
-      "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-      "score": 171,
-      "by": "yannick2k",
-      "time": 1769941841,
-      "comments": 105,
-      "domain": "gyptazy.com"
+      "id": 46849588,
+      "title": "Margin Call",
+      "url": "https://asymco.com/2026/02/01/margin-call-3/",
+      "score": 123,
+      "by": "zdw",
+      "time": 1769981582,
+      "comments": 62,
+      "domain": "asymco.com"
     },
     {
       "id": 46849926,
       "title": "Treasures found on HS2 route stored in secret warehouse",
       "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "score": 4,
+      "score": 5,
       "by": "breve",
       "time": 1769984079,
       "comments": 0,
       "domain": "bbc.com"
     },
     {
-      "id": 46849588,
-      "title": "Margin Call",
-      "url": "https://asymco.com/2026/02/01/margin-call-3/",
-      "score": 121,
-      "by": "zdw",
-      "time": 1769981582,
-      "comments": 61,
-      "domain": "asymco.com"
-    },
-    {
       "id": 46844350,
       "title": "The Book of PF, 4th edition",
       "url": "https://nostarch.com/book-of-pf-4th-edition",
-      "score": 194,
+      "score": 195,
       "by": "0x54MUR41",
       "time": 1769932251,
       "comments": 38,
@@ -265,21 +265,21 @@
       "id": 46847039,
       "title": "English professors double down on requiring printed copies of readings",
       "url": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
-      "score": 101,
+      "score": 102,
       "by": "cmsefton",
       "time": 1769961503,
-      "comments": 137,
+      "comments": 140,
       "domain": "yaledailynews.com"
     },
     {
-      "id": 46828907,
-      "title": "Jack Kerouac's 37 metre-long, first draft scroll of On the Road to be auctioned",
-      "url": "https://www.theguardian.com/books/2026/jan/30/jack-kerouac-on-the-road-first-draft-scroll-to-be-auctioned",
-      "score": 58,
-      "by": "mitchbob",
-      "time": 1769802073,
-      "comments": 26,
-      "domain": "theguardian.com"
+      "id": 46799435,
+      "title": "VisualJJ – Jujutsu in Visual Studio Code",
+      "url": "https://www.visualjj.com/",
+      "score": 146,
+      "by": "demail",
+      "time": 1769624435,
+      "comments": 59,
+      "domain": "visualjj.com"
     }
   ]
 }
