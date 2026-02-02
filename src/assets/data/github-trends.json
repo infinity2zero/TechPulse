@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-02T17:52:35.729Z",
+  "lastUpdated": "2026-02-02T18:24:28.245Z",
   "items": [
     {
       "id": 1143261428,
       "name": "cloudflare/moltworker",
       "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
-      "stars": 6465,
+      "stars": 6489,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/moltworker",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-02T17:52:33Z"
+      "updated_at": "2026-02-02T18:21:00Z"
     },
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 5402,
+      "stars": 5405,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-02T17:34:58Z"
+      "updated_at": "2026-02-02T18:21:39Z"
     },
     {
       "id": 1142983825,
@@ -44,40 +44,40 @@
       "id": 1143952193,
       "name": "antfu/skills",
       "description": "Anthony Fu's curated collection of agent skills.",
-      "stars": 2663,
+      "stars": 2664,
       "language": "TypeScript",
       "url": "https://github.com/antfu/skills",
       "owner": {
         "login": "antfu",
         "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
       },
-      "updated_at": "2026-02-02T17:49:47Z"
+      "updated_at": "2026-02-02T18:23:27Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "stars": 2450,
+      "stars": 2508,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-02T17:51:44Z"
+      "updated_at": "2026-02-02T18:24:11Z"
     },
     {
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 2059,
+      "stars": 2065,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-02T17:41:44Z"
+      "updated_at": "2026-02-02T18:24:10Z"
     },
     {
       "id": 1142957805,
@@ -96,40 +96,40 @@
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 1523,
+      "stars": 1553,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-02T17:51:46Z"
+      "updated_at": "2026-02-02T18:24:12Z"
     },
     {
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 1192,
+      "stars": 1197,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-02T17:48:31Z"
+      "updated_at": "2026-02-02T18:23:23Z"
     },
     {
       "id": 1143942597,
       "name": "QwenLM/Qwen3-ASR",
       "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-      "stars": 1094,
+      "stars": 1096,
       "language": "Python",
       "url": "https://github.com/QwenLM/Qwen3-ASR",
       "owner": {
         "login": "QwenLM",
         "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
       },
-      "updated_at": "2026-02-02T17:28:05Z"
+      "updated_at": "2026-02-02T18:13:36Z"
     },
     {
       "id": 1145193611,
@@ -148,27 +148,27 @@
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 869,
+      "stars": 871,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-02T17:52:02Z"
+      "updated_at": "2026-02-02T18:03:06Z"
     },
     {
       "id": 1143767804,
       "name": "zarazhangrui/frontend-slides",
       "description": "Create beautiful slides on the web using Claude's frontend skills",
-      "stars": 737,
+      "stars": 738,
       "language": null,
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-02-02T17:46:46Z"
+      "updated_at": "2026-02-02T18:09:54Z"
     },
     {
       "id": 1143019584,
@@ -200,14 +200,14 @@
       "id": 1144084014,
       "name": "Prismer-AI/Prismer",
       "description": "Open Source OpenAI Prism Alternative",
-      "stars": 539,
+      "stars": 540,
       "language": "Python",
       "url": "https://github.com/Prismer-AI/Prismer",
       "owner": {
         "login": "Prismer-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/202446192?v=4"
       },
-      "updated_at": "2026-02-02T14:57:25Z"
+      "updated_at": "2026-02-02T18:18:32Z"
     },
     {
       "id": 1146028508,
@@ -226,14 +226,14 @@
       "id": 1145977416,
       "name": "1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 488,
+      "stars": 489,
       "language": "JavaScript",
       "url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "owner": {
         "login": "1186258278",
         "avatar_url": "https://avatars.githubusercontent.com/u/42165041?v=4"
       },
-      "updated_at": "2026-02-02T17:42:46Z"
+      "updated_at": "2026-02-02T18:22:08Z"
     },
     {
       "id": 1144786495,
