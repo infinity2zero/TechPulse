@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-03T20:19:56.495Z",
+  "lastUpdated": "2026-02-03T20:57:28.863Z",
   "items": [
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 5633,
+      "stars": 5634,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-03T20:07:08Z"
+      "updated_at": "2026-02-03T20:49:18Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "stars": 3989,
+      "stars": 4004,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-03T20:16:46Z"
+      "updated_at": "2026-02-03T20:54:37Z"
     },
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 3837,
+      "stars": 3856,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-03T20:12:44Z"
+      "updated_at": "2026-02-03T20:56:49Z"
     },
     {
       "id": 1143952193,
@@ -57,40 +57,40 @@
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 2360,
+      "stars": 2362,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-03T20:06:03Z"
+      "updated_at": "2026-02-03T20:42:37Z"
     },
     {
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 2329,
+      "stars": 2330,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-03T20:15:27Z"
+      "updated_at": "2026-02-03T20:37:01Z"
     },
     {
       "id": 1143942597,
       "name": "QwenLM/Qwen3-ASR",
       "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction.",
-      "stars": 1194,
+      "stars": 1196,
       "language": "Python",
       "url": "https://github.com/QwenLM/Qwen3-ASR",
       "owner": {
         "login": "QwenLM",
         "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
       },
-      "updated_at": "2026-02-03T20:13:30Z"
+      "updated_at": "2026-02-03T20:51:21Z"
     },
     {
       "id": 1145193611,
@@ -109,66 +109,66 @@
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 963,
+      "stars": 964,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-03T20:06:22Z"
+      "updated_at": "2026-02-03T20:44:39Z"
     },
     {
       "id": 1146004684,
       "name": "agno-agi/dash",
       "description": "Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.",
-      "stars": 841,
+      "stars": 849,
       "language": "Python",
       "url": "https://github.com/agno-agi/dash",
       "owner": {
         "login": "agno-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/104874993?v=4"
       },
-      "updated_at": "2026-02-03T20:19:42Z"
+      "updated_at": "2026-02-03T20:53:09Z"
     },
     {
       "id": 1143767804,
       "name": "zarazhangrui/frontend-slides",
       "description": "Create beautiful slides on the web using Claude's frontend skills",
-      "stars": 772,
+      "stars": 774,
       "language": null,
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-02-03T20:10:20Z"
+      "updated_at": "2026-02-03T20:55:49Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 653,
+      "stars": 668,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-03T20:16:56Z"
+      "updated_at": "2026-02-03T20:54:04Z"
     },
     {
       "id": 1144146151,
       "name": "wesm/msgvault",
       "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB",
-      "stars": 637,
+      "stars": 643,
       "language": "Go",
       "url": "https://github.com/wesm/msgvault",
       "owner": {
         "login": "wesm",
         "avatar_url": "https://avatars.githubusercontent.com/u/329591?v=4"
       },
-      "updated_at": "2026-02-03T20:16:48Z"
+      "updated_at": "2026-02-03T20:57:18Z"
     },
     {
       "id": 1145977416,
@@ -200,27 +200,27 @@
       "id": 1144084014,
       "name": "Prismer-AI/Prismer",
       "description": "Open Source OpenAI Prism Alternative",
-      "stars": 572,
+      "stars": 573,
       "language": "Python",
       "url": "https://github.com/Prismer-AI/Prismer",
       "owner": {
         "login": "Prismer-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/202446192?v=4"
       },
-      "updated_at": "2026-02-03T19:25:11Z"
+      "updated_at": "2026-02-03T20:41:07Z"
     },
     {
       "id": 1144786495,
       "name": "pierceboggan/primer",
       "description": "Get your repo ready for AI.",
-      "stars": 508,
+      "stars": 509,
       "language": "TypeScript",
       "url": "https://github.com/pierceboggan/primer",
       "owner": {
         "login": "pierceboggan",
         "avatar_url": "https://avatars.githubusercontent.com/u/1091304?v=4"
       },
-      "updated_at": "2026-02-03T19:49:16Z"
+      "updated_at": "2026-02-03T20:34:57Z"
     },
     {
       "id": 1146393894,
@@ -239,14 +239,14 @@
       "id": 1145267027,
       "name": "btseytlin/hr-breaker",
       "description": "Optimize resume for jobs, now with AI",
-      "stars": 459,
+      "stars": 461,
       "language": "Python",
       "url": "https://github.com/btseytlin/hr-breaker",
       "owner": {
         "login": "btseytlin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2098322?v=4"
       },
-      "updated_at": "2026-02-03T19:35:09Z"
+      "updated_at": "2026-02-03T20:56:00Z"
     },
     {
       "id": 1144211118,
