@@ -1,84 +1,94 @@
 {
-  "lastUpdated": "2026-02-03T07:25:41.648Z",
+  "lastUpdated": "2026-02-03T07:59:47.274Z",
   "items": [
     {
       "id": 46866544,
       "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "score": 71,
+      "score": 91,
       "by": "GalaxySnail",
       "time": 1770093205,
-      "comments": 35,
+      "comments": 48,
       "domain": "krzysztofjankowski.com"
     },
     {
       "id": 46866481,
       "title": "Coding assistants are solving the wrong problem",
       "url": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "score": 57,
+      "score": 85,
       "by": "jinhkuan",
       "time": 1770092735,
-      "comments": 18,
+      "comments": 35,
       "domain": "bicameral-ai.com"
-    },
-    {
-      "id": 46864498,
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "score": 166,
-      "by": "salkahfi",
-      "time": 1770078486,
-      "comments": 45,
-      "domain": "alignment.anthropic.com"
     },
     {
       "id": 46859054,
       "title": "The Codex App",
       "url": "https://openai.com/index/introducing-the-codex-app/",
-      "score": 625,
+      "score": 640,
       "by": "meetpateltech",
       "time": 1770055368,
-      "comments": 441,
+      "comments": 449,
       "domain": "openai.com"
+    },
+    {
+      "id": 46864498,
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "score": 170,
+      "by": "salkahfi",
+      "time": 1770078486,
+      "comments": 46,
+      "domain": "alignment.anthropic.com"
     },
     {
       "id": 46861313,
       "title": "Anki ownership transferred to AnkiHub",
       "url": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "score": 337,
+      "score": 349,
       "by": "trms",
       "time": 1770065335,
-      "comments": 86,
+      "comments": 88,
       "domain": "forums.ankiweb.net"
     },
     {
       "id": 46861842,
       "title": "GitHub experience various partial-outages/degradations",
       "url": "https://www.githubstatus.com?todayis=2026-02-02",
-      "score": 195,
+      "score": 200,
       "by": "bhouston",
       "time": 1770067696,
-      "comments": 62,
+      "comments": 63,
       "domain": "githubstatus.com"
     },
     {
       "id": 46858577,
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
       "url": "https://www.millert.dev/",
-      "score": 385,
+      "score": 397,
       "by": "wodniok",
       "time": 1770053126,
-      "comments": 202,
+      "comments": 204,
       "domain": "millert.dev"
+    },
+    {
+      "id": 46829029,
+      "title": "See how many words you have written in Hacker News comments",
+      "url": "https://serjaimelannister.github.io/hn-words/",
+      "score": 54,
+      "by": "Imustaskforhelp",
+      "time": 1769802892,
+      "comments": 59,
+      "domain": "serjaimelannister.github.io"
     },
     {
       "id": 46862170,
       "title": "xAI joins SpaceX",
       "url": "https://www.spacex.com/updates#xai-joins-spacex",
-      "score": 643,
+      "score": 657,
       "by": "g-mork",
       "time": 1770069082,
-      "comments": 1397,
+      "comments": 1440,
       "domain": "spacex.com"
     },
     {
@@ -95,170 +105,170 @@
       "id": 46806346,
       "title": "Carnegie Mellon Unversity Computer Club FTP Server",
       "url": "http://128.237.157.9/pub/",
-      "score": 69,
+      "score": 72,
       "by": "1vuio0pswjnm7",
       "time": 1769666363,
-      "comments": 13,
+      "comments": 14,
       "domain": "128.237.157.9"
-    },
-    {
-      "id": 46829029,
-      "title": "See how many words you have written in Hacker News comments",
-      "url": "https://serjaimelannister.github.io/hn-words/",
-      "score": 45,
-      "by": "Imustaskforhelp",
-      "time": 1769802892,
-      "comments": 55,
-      "domain": "serjaimelannister.github.io"
-    },
-    {
-      "id": 46863162,
-      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
-      "url": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
-      "score": 361,
-      "by": "donohoe",
-      "time": 1770072490,
-      "comments": 401,
-      "domain": "frommers.com"
-    },
-    {
-      "id": 46857615,
-      "title": "Hacking Moltbook",
-      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "score": 298,
-      "by": "galnagli",
-      "time": 1770048516,
-      "comments": 169,
-      "domain": "wiz.io"
-    },
-    {
-      "id": 46863112,
-      "title": "Court orders restart of all US offshore wind power construction",
-      "url": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-      "score": 329,
-      "by": "ck2",
-      "time": 1770072304,
-      "comments": 190,
-      "domain": "arstechnica.com"
-    },
-    {
-      "id": 46858829,
-      "title": "Linux From Scratch ends SysVinit support",
-      "url": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
-      "score": 140,
-      "by": "cf100clunk",
-      "time": 1770054327,
-      "comments": 181,
-      "domain": "lists.linuxfromscratch.org"
-    },
-    {
-      "id": 46837045,
-      "title": "Phenakistoscopes (1833)",
-      "url": "https://publicdomainreview.org/collection/phenakistoscopes-1833/",
-      "score": 5,
-      "by": "tobr",
-      "time": 1769870181,
-      "comments": 0,
-      "domain": "publicdomainreview.org"
-    },
-    {
-      "id": 46820142,
-      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
-      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
-      "score": 287,
-      "by": "indigodaddy",
-      "time": 1769743052,
-      "comments": 138,
-      "domain": "jeffgeerling.com"
-    },
-    {
-      "id": 46866385,
-      "title": "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
-      "url": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
-      "score": 6,
-      "by": "noleary",
-      "time": 1770091936,
-      "comments": 1,
-      "domain": "science.org"
-    },
-    {
-      "id": 46863357,
-      "title": "Julia",
-      "url": "https://borretti.me/fiction/julia",
-      "score": 97,
-      "by": "ashergill",
-      "time": 1770073079,
-      "comments": 12,
-      "domain": "borretti.me"
-    },
-    {
-      "id": 46847660,
-      "title": "50 years ago, a young Bill Gates took on the 'software pirates'",
-      "url": "https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/",
-      "score": 29,
-      "by": "MilnerRoute",
-      "time": 1769966510,
-      "comments": 24,
-      "domain": "thenewstack.io"
-    },
-    {
-      "id": 46858622,
-      "title": "Zig Libc",
-      "url": "https://ziglang.org/devlog/2026/#2026-01-31",
-      "score": 219,
-      "by": "ingve",
-      "time": 1770053299,
-      "comments": 97,
-      "domain": "ziglang.org"
-    },
-    {
-      "id": 46809785,
-      "title": "The Physics of Ideas: Reality as a Coordination Problem",
-      "url": "https://bpe.xyz",
-      "score": 23,
-      "by": "shoes_for_thee",
-      "time": 1769692454,
-      "comments": 2,
-      "domain": "bpe.xyz"
-    },
-    {
-      "id": 46855447,
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "score": 237,
-      "by": "yz-yu",
-      "time": 1770036755,
-      "comments": 24,
-      "domain": "neutree.ai"
     },
     {
       "id": 46843805,
       "title": "Archive.today is directing a DDoS attack against my blog?",
       "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "score": 107,
+      "score": 119,
       "by": "gyrovague-com",
       "time": 1769922713,
       "comments": 41,
       "domain": "gyrovague.com"
     },
     {
+      "id": 46863162,
+      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
+      "url": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
+      "score": 379,
+      "by": "donohoe",
+      "time": 1770072490,
+      "comments": 418,
+      "domain": "frommers.com"
+    },
+    {
+      "id": 46809785,
+      "title": "The Physics of Ideas: Reality as a Coordination Problem",
+      "url": "https://bpe.xyz",
+      "score": 31,
+      "by": "shoes_for_thee",
+      "time": 1769692454,
+      "comments": 3,
+      "domain": "bpe.xyz"
+    },
+    {
+      "id": 46795456,
+      "title": "GitHub – BenjaminPoilve/minichord: A pocket-sized musical instrument",
+      "url": "https://github.com/BenjaminPoilve/minichord",
+      "score": 5,
+      "by": "surprisetalk",
+      "time": 1769608616,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
+      "id": 46857615,
+      "title": "Hacking Moltbook",
+      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "score": 305,
+      "by": "galnagli",
+      "time": 1770048516,
+      "comments": 171,
+      "domain": "wiz.io"
+    },
+    {
+      "id": 46837045,
+      "title": "Phenakistoscopes (1833)",
+      "url": "https://publicdomainreview.org/collection/phenakistoscopes-1833/",
+      "score": 9,
+      "by": "tobr",
+      "time": 1769870181,
+      "comments": 0,
+      "domain": "publicdomainreview.org"
+    },
+    {
+      "id": 46863112,
+      "title": "Court orders restart of all US offshore wind power construction",
+      "url": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
+      "score": 338,
+      "by": "ck2",
+      "time": 1770072304,
+      "comments": 201,
+      "domain": "arstechnica.com"
+    },
+    {
+      "id": 46858829,
+      "title": "Linux From Scratch ends SysVinit support",
+      "url": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "score": 149,
+      "by": "cf100clunk",
+      "time": 1770054327,
+      "comments": 188,
+      "domain": "lists.linuxfromscratch.org"
+    },
+    {
+      "id": 46866385,
+      "title": "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
+      "url": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
+      "score": 7,
+      "by": "noleary",
+      "time": 1770091936,
+      "comments": 1,
+      "domain": "science.org"
+    },
+    {
+      "id": 46820142,
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "score": 291,
+      "by": "indigodaddy",
+      "time": 1769743052,
+      "comments": 138,
+      "domain": "jeffgeerling.com"
+    },
+    {
+      "id": 46847660,
+      "title": "50 years ago, a young Bill Gates took on the 'software pirates'",
+      "url": "https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/",
+      "score": 35,
+      "by": "MilnerRoute",
+      "time": 1769966510,
+      "comments": 26,
+      "domain": "thenewstack.io"
+    },
+    {
+      "id": 46858622,
+      "title": "Zig Libc",
+      "url": "https://ziglang.org/devlog/2026/#2026-01-31",
+      "score": 230,
+      "by": "ingve",
+      "time": 1770053299,
+      "comments": 103,
+      "domain": "ziglang.org"
+    },
+    {
+      "id": 46863357,
+      "title": "Julia",
+      "url": "https://borretti.me/fiction/julia",
+      "score": 104,
+      "by": "ashergill",
+      "time": 1770073079,
+      "comments": 13,
+      "domain": "borretti.me"
+    },
+    {
+      "id": 46855447,
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "url": "https://neutree.ai/blog/nano-vllm-part-1",
+      "score": 241,
+      "by": "yz-yu",
+      "time": 1770036755,
+      "comments": 24,
+      "domain": "neutree.ai"
+    },
+    {
       "id": 46826454,
       "title": "Joedb, the Journal-Only Embedded Database",
       "url": "https://www.joedb.org/index.html",
-      "score": 65,
+      "score": 67,
       "by": "mci",
       "time": 1769790845,
-      "comments": 8,
+      "comments": 9,
       "domain": "joedb.org"
     },
     {
       "id": 46848060,
       "title": "Pretty soon, heat pumps will be able to store and distribute heat as needed",
       "url": "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/",
-      "score": 180,
+      "score": 186,
       "by": "PaulHoule",
       "time": 1769969740,
-      "comments": 150,
+      "comments": 155,
       "domain": "sintef.no"
     }
   ]
