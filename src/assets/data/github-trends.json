@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-03T21:30:47.552Z",
+  "lastUpdated": "2026-02-03T21:59:51.909Z",
   "items": [
     {
       "id": 1144386801,
       "name": "lukilabs/beautiful-mermaid",
       "description": null,
-      "stars": 5639,
+      "stars": 5645,
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "owner": {
         "login": "lukilabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/54435313?v=4"
       },
-      "updated_at": "2026-02-03T21:24:36Z"
+      "updated_at": "2026-02-03T21:59:50Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "stars": 4013,
+      "stars": 4021,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-03T21:30:37Z"
+      "updated_at": "2026-02-03T21:58:15Z"
     },
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 3874,
+      "stars": 3879,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-03T21:28:47Z"
+      "updated_at": "2026-02-03T21:48:33Z"
     },
     {
       "id": 1143952193,
       "name": "antfu/skills",
       "description": "Anthony Fu's curated collection of agent skills.",
-      "stars": 2814,
+      "stars": 2816,
       "language": "TypeScript",
       "url": "https://github.com/antfu/skills",
       "owner": {
         "login": "antfu",
         "avatar_url": "https://avatars.githubusercontent.com/u/11247099?v=4"
       },
-      "updated_at": "2026-02-03T20:19:26Z"
+      "updated_at": "2026-02-03T21:58:21Z"
     },
     {
       "id": 1145786318,
       "name": "Leey21/awesome-ai-research-writing",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "stars": 2363,
+      "stars": 2367,
       "language": null,
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "owner": {
         "login": "Leey21",
         "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
       },
-      "updated_at": "2026-02-03T21:28:33Z"
+      "updated_at": "2026-02-03T21:56:30Z"
     },
     {
       "id": 1143912065,
       "name": "Robbyant/lingbot-world",
       "description": "Advancing Open-source World Models",
-      "stars": 2332,
+      "stars": 2333,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-world",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-02-03T21:22:58Z"
+      "updated_at": "2026-02-03T21:51:06Z"
     },
     {
       "id": 1143942597,
@@ -109,66 +109,66 @@
       "id": 1144107326,
       "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
       "description": "将钉钉机器人连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
-      "stars": 965,
+      "stars": 966,
       "language": "TypeScript",
       "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
       "owner": {
         "login": "DingTalk-Real-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
       },
-      "updated_at": "2026-02-03T21:23:06Z"
+      "updated_at": "2026-02-03T21:59:03Z"
     },
     {
       "id": 1146004684,
       "name": "agno-agi/dash",
       "description": "Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.",
-      "stars": 855,
+      "stars": 863,
       "language": "Python",
       "url": "https://github.com/agno-agi/dash",
       "owner": {
         "login": "agno-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/104874993?v=4"
       },
-      "updated_at": "2026-02-03T21:21:36Z"
+      "updated_at": "2026-02-03T21:56:38Z"
     },
     {
       "id": 1143767804,
       "name": "zarazhangrui/frontend-slides",
       "description": "Create beautiful slides on the web using Claude's frontend skills",
-      "stars": 775,
+      "stars": 776,
       "language": null,
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-02-03T21:16:33Z"
+      "updated_at": "2026-02-03T21:40:39Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 681,
+      "stars": 694,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-03T21:29:05Z"
+      "updated_at": "2026-02-03T21:53:00Z"
     },
     {
       "id": 1144146151,
       "name": "wesm/msgvault",
       "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB",
-      "stars": 646,
+      "stars": 651,
       "language": "Go",
       "url": "https://github.com/wesm/msgvault",
       "owner": {
         "login": "wesm",
         "avatar_url": "https://avatars.githubusercontent.com/u/329591?v=4"
       },
-      "updated_at": "2026-02-03T21:17:39Z"
+      "updated_at": "2026-02-03T21:51:02Z"
     },
     {
       "id": 1145977416,
@@ -200,53 +200,53 @@
       "id": 1144084014,
       "name": "Prismer-AI/Prismer",
       "description": "Open Source OpenAI Prism Alternative",
-      "stars": 573,
+      "stars": 575,
       "language": "Python",
       "url": "https://github.com/Prismer-AI/Prismer",
       "owner": {
         "login": "Prismer-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/202446192?v=4"
       },
-      "updated_at": "2026-02-03T20:41:07Z"
+      "updated_at": "2026-02-03T21:55:11Z"
     },
     {
       "id": 1144786495,
       "name": "pierceboggan/primer",
       "description": "Get your repo ready for AI.",
-      "stars": 511,
+      "stars": 513,
       "language": "TypeScript",
       "url": "https://github.com/pierceboggan/primer",
       "owner": {
         "login": "pierceboggan",
         "avatar_url": "https://avatars.githubusercontent.com/u/1091304?v=4"
       },
-      "updated_at": "2026-02-03T21:25:40Z"
+      "updated_at": "2026-02-03T21:56:59Z"
     },
     {
       "id": 1146393894,
       "name": "stepfun-ai/Step-3.5-Flash",
       "description": "Fast, Sharp & Reliable Agentic Intelligence",
-      "stars": 484,
+      "stars": 485,
       "language": "C++",
       "url": "https://github.com/stepfun-ai/Step-3.5-Flash",
       "owner": {
         "login": "stepfun-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
       },
-      "updated_at": "2026-02-03T20:14:56Z"
+      "updated_at": "2026-02-03T21:55:17Z"
     },
     {
       "id": 1145267027,
       "name": "btseytlin/hr-breaker",
       "description": "Optimize resume for jobs, now with AI",
-      "stars": 463,
+      "stars": 466,
       "language": "Python",
       "url": "https://github.com/btseytlin/hr-breaker",
       "owner": {
         "login": "btseytlin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2098322?v=4"
       },
-      "updated_at": "2026-02-03T21:28:33Z"
+      "updated_at": "2026-02-03T21:47:13Z"
     },
     {
       "id": 1144211118,
