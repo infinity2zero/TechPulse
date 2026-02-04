@@ -1,94 +1,94 @@
 {
-  "lastUpdated": "2026-02-04T21:50:07.080Z",
+  "lastUpdated": "2026-02-04T22:01:17.036Z",
   "items": [
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "url": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 532,
+      "score": 541,
       "by": "meetpateltech",
       "time": 1770217697,
-      "comments": 133,
+      "comments": 139,
       "domain": "mistral.ai"
-    },
-    {
-      "id": 46826803,
-      "title": "Yawning has an unexpected influence on the fluid inside your brain",
-      "url": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
-      "score": 110,
-      "by": "MDWolinski",
-      "time": 1769792239,
-      "comments": 55,
-      "domain": "newscientist.com"
     },
     {
       "id": 46845845,
       "title": "Claude Code: connect to a local model when your quota runs out",
       "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "score": 68,
+      "score": 77,
       "by": "fugu2",
       "time": 1769949821,
-      "comments": 18,
+      "comments": 22,
       "domain": "boxc.net"
+    },
+    {
+      "id": 46826803,
+      "title": "Yawning has an unexpected influence on the fluid inside your brain",
+      "url": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
+      "score": 116,
+      "by": "MDWolinski",
+      "time": 1769792239,
+      "comments": 57,
+      "domain": "newscientist.com"
     },
     {
       "id": 46891860,
       "title": "We built a real-world benchmark for AI code review",
       "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-      "score": 9,
+      "score": 12,
       "by": "benocodes",
       "time": 1770239597,
-      "comments": 1,
+      "comments": 2,
       "domain": "qodo.ai"
+    },
+    {
+      "id": 46891131,
+      "title": "The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs",
+      "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
+      "score": 22,
+      "by": "straydusk",
+      "time": 1770236634,
+      "comments": 9,
+      "domain": "benshoemaker.us"
     },
     {
       "id": 46888795,
       "title": "Building a 24-bit arcade CRT display adapter from scratch",
       "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "score": 82,
+      "score": 83,
       "by": "evakhoury",
       "time": 1770226505,
       "comments": 19,
       "domain": "scd31.com"
     },
     {
-      "id": 46891131,
-      "title": "The Codex app is cool, and it illustrates the shift left of IDEs and coding GUIs",
-      "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
-      "score": 14,
-      "by": "straydusk",
-      "time": 1770236634,
-      "comments": 1,
-      "domain": "benshoemaker.us"
-    },
-    {
       "id": 46864543,
       "title": "The Singularity Is Always Near (2006)",
       "url": "https://kk.org/thetechnium/the-singularity/",
-      "score": 15,
+      "score": 17,
       "by": "rmason",
       "time": 1770078761,
-      "comments": 3,
+      "comments": 6,
       "domain": "kk.org"
     },
     {
       "id": 46888441,
       "title": "AI is killing B2B SaaS",
       "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "score": 103,
+      "score": 107,
       "by": "namanyayg",
       "time": 1770224968,
-      "comments": 156,
+      "comments": 173,
       "domain": "nmn.gl"
     },
     {
       "id": 46877278,
       "title": "Tractor",
       "url": "https://incoherency.co.uk/blog/stories/tractor.html",
-      "score": 104,
+      "score": 107,
       "by": "surprisetalk",
       "time": 1770152699,
-      "comments": 35,
+      "comments": 34,
       "domain": "incoherency.co.uk"
     },
     {
@@ -98,18 +98,38 @@
       "score": 134,
       "by": "fheinsen",
       "time": 1770215613,
-      "comments": 66,
+      "comments": 68,
       "domain": "arxiv.org"
+    },
+    {
+      "id": 46811812,
+      "title": "Litestream Writable VFS",
+      "url": "https://fly.io/blog/litestream-writable-vfs/",
+      "score": 43,
+      "by": "emschwartz",
+      "time": 1769701945,
+      "comments": 5,
+      "domain": "fly.io"
     },
     {
       "id": 46872465,
       "title": "A sane but bull case on Clawdbot / OpenClaw",
       "url": "https://brandon.wang/2026/clawdbot",
-      "score": 212,
+      "score": 215,
       "by": "brdd",
       "time": 1770133630,
-      "comments": 348,
+      "comments": 350,
       "domain": "brandon.wang"
+    },
+    {
+      "id": 46888142,
+      "title": "RS-SDK: Drive RuneScape with Claude Code",
+      "url": "https://github.com/MaxBittker/rs-sdk",
+      "score": 69,
+      "by": "evakhoury",
+      "time": 1770223646,
+      "comments": 27,
+      "domain": "github.com"
     },
     {
       "id": 46887326,
@@ -122,43 +142,13 @@
       "domain": "divergent-desktop.org"
     },
     {
-      "id": 46888142,
-      "title": "RS-SDK: Drive RuneScape with Claude Code",
-      "url": "https://github.com/MaxBittker/rs-sdk",
-      "score": 68,
-      "by": "evakhoury",
-      "time": 1770223646,
-      "comments": 27,
-      "domain": "github.com"
-    },
-    {
-      "id": 46811812,
-      "title": "Litestream Writable VFS",
-      "url": "https://fly.io/blog/litestream-writable-vfs/",
-      "score": 40,
-      "by": "emschwartz",
-      "time": 1769701945,
-      "comments": 3,
-      "domain": "fly.io"
-    },
-    {
-      "id": 46890261,
-      "title": "Turn any website into a live, structured data feed",
-      "url": "https://www.meter.sh/",
-      "score": 11,
-      "by": "chadwebscraper",
-      "time": 1770232348,
-      "comments": 8,
-      "domain": "meter.sh"
-    },
-    {
       "id": 46838511,
       "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
       "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
-      "score": 11,
+      "score": 12,
       "by": "ksec",
       "time": 1769879641,
-      "comments": 4,
+      "comments": 5,
       "domain": "blogs.oracle.com"
     },
     {
@@ -168,18 +158,58 @@
       "score": 74,
       "by": "aspectrr",
       "time": 1770230048,
-      "comments": 62,
+      "comments": 64,
       "domain": "fluid.sh"
+    },
+    {
+      "id": 46890261,
+      "title": "Turn any website into a live, structured data feed",
+      "url": "https://www.meter.sh/",
+      "score": 12,
+      "by": "chadwebscraper",
+      "time": 1770232348,
+      "comments": 8,
+      "domain": "meter.sh"
+    },
+    {
+      "id": 46844410,
+      "title": "Coding Agent VMs on NixOS with Microvm.nix",
+      "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+      "score": 72,
+      "by": "secure",
+      "time": 1769932966,
+      "comments": 35,
+      "domain": "michael.stapelberg.ch"
+    },
+    {
+      "id": 46845642,
+      "title": "Remarkable Pro Colors",
+      "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+      "score": 3,
+      "by": "ffaser5gxlsll",
+      "time": 1769947920,
+      "comments": 1,
+      "domain": "thregr.org"
     },
     {
       "id": 46890899,
       "title": "Technocracy 2.0",
       "url": "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/",
-      "score": 29,
+      "score": 32,
       "by": "antonomon",
       "time": 1770235560,
-      "comments": 13,
+      "comments": 18,
       "domain": "brooklynrail.org"
+    },
+    {
+      "id": 46884883,
+      "title": "Claude Is a Space to Think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "score": 286,
+      "by": "meetpateltech",
+      "time": 1770206929,
+      "comments": 144,
+      "domain": "anthropic.com"
     },
     {
       "id": 46888532,
@@ -188,28 +218,8 @@
       "score": 59,
       "by": "giuliomagnifico",
       "time": 1770225404,
-      "comments": 62,
+      "comments": 64,
       "domain": "news.uark.edu"
-    },
-    {
-      "id": 46844410,
-      "title": "Coding Agent VMs on NixOS with Microvm.nix",
-      "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-      "score": 70,
-      "by": "secure",
-      "time": 1769932966,
-      "comments": 35,
-      "domain": "michael.stapelberg.ch"
-    },
-    {
-      "id": 46884883,
-      "title": "Claude Is a Space to Think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "score": 282,
-      "by": "meetpateltech",
-      "time": 1770206929,
-      "comments": 141,
-      "domain": "anthropic.com"
     },
     {
       "id": 46886440,
@@ -218,7 +228,7 @@
       "score": 210,
       "by": "DuffJohnson",
       "time": 1770216406,
-      "comments": 109,
+      "comments": 111,
       "domain": "pdfa.org"
     },
     {
@@ -245,41 +255,31 @@
       "id": 46886191,
       "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
       "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-      "score": 207,
+      "score": 212,
       "by": "bookofjoe",
       "time": 1770215225,
-      "comments": 88,
+      "comments": 87,
       "domain": "arstechnica.com"
     },
     {
       "id": 46891290,
       "title": "Show HN: Interactive California Budget (By Claude Code)",
       "url": "https://california-budget.com",
-      "score": 12,
+      "score": 13,
       "by": "sberens",
       "time": 1770237215,
-      "comments": 5,
+      "comments": 6,
       "domain": "california-budget.com"
     },
     {
       "id": 46886237,
       "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
       "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-      "score": 516,
+      "score": 520,
       "by": "robin_reala",
       "time": 1770215492,
-      "comments": 428,
+      "comments": 436,
       "domain": "404media.co"
-    },
-    {
-      "id": 46890401,
-      "title": "Show HN: EpsteIn – Search the Epstein files for your LinkedIn connections",
-      "url": "https://github.com/cfinke/EpsteIn",
-      "score": 42,
-      "by": "cfinke",
-      "time": 1770233047,
-      "comments": 8,
-      "domain": "github.com"
     }
   ]
 }
