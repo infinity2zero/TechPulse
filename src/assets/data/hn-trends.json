@@ -1,185 +1,195 @@
 {
-  "lastUpdated": "2026-02-04T08:55:43.149Z",
+  "lastUpdated": "2026-02-04T09:35:25.288Z",
   "items": [
     {
       "id": 46881264,
       "title": "I miss thinking hard",
       "url": "https://www.jernesto.com/articles/thinking_hard",
-      "score": 451,
+      "score": 495,
       "by": "jernestomg",
       "time": 1770177251,
-      "comments": 242,
+      "comments": 284,
       "domain": "jernesto.com"
     },
     {
       "id": 46848876,
       "title": "Lessons learned shipping 500 units of my first hardware product",
       "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-      "score": 566,
+      "score": 588,
       "by": "sberens",
       "time": 1769976060,
-      "comments": 244,
+      "comments": 252,
       "domain": "simonberens.com"
     },
     {
       "id": 46876105,
       "title": "Data centers in space makes no sense",
       "url": "https://civai.org/blog/space-data-centers",
-      "score": 553,
+      "score": 583,
       "by": "ajyoon",
       "time": 1770147450,
-      "comments": 646,
+      "comments": 679,
       "domain": "civai.org"
     },
     {
+      "id": 46847690,
+      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+      "url": "https://github.com/puemos/craftplan",
+      "score": 315,
+      "by": "deofoo",
+      "time": 1769966739,
+      "comments": 67,
+      "domain": "github.com"
+    },
+    {
       "id": 46798556,
-      "title": "How watercolor brushes are made",
+      "title": "How watercolor brushes are made (2015)",
       "url": "https://www.handprint.com/HP/WCL/brush1.html",
-      "score": 17,
+      "score": 21,
       "by": "YeGoblynQueenne",
       "time": 1769621271,
       "comments": 1,
       "domain": "handprint.com"
     },
     {
-      "id": 46847690,
-      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-      "url": "https://github.com/puemos/craftplan",
-      "score": 293,
-      "by": "deofoo",
-      "time": 1769966739,
-      "comments": 55,
-      "domain": "github.com"
-    },
-    {
       "id": 46842288,
       "title": "High-Altitude Adventure with a DIY Pico Balloon",
       "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
-      "score": 27,
+      "score": 31,
       "by": "jnord",
       "time": 1769904895,
       "comments": 4,
       "domain": "spectrum.ieee.org"
     },
     {
+      "id": 46882389,
+      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "score": 18,
+      "by": "xerzes",
+      "time": 1770187911,
+      "comments": 6,
+      "domain": "github.com"
+    },
+    {
       "id": 46874097,
       "title": "Deno Sandbox",
       "url": "https://deno.com/blog/introducing-deno-sandbox",
-      "score": 423,
+      "score": 433,
       "by": "johnspurlock",
       "time": 1770140000,
-      "comments": 138,
+      "comments": 139,
       "domain": "deno.com"
     },
     {
       "id": 46872540,
       "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
       "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-      "score": 396,
+      "score": 408,
       "by": "ptorrone",
       "time": 1770133902,
-      "comments": 450,
+      "comments": 468,
       "domain": "blog.adafruit.com"
     },
     {
       "id": 46871173,
       "title": "Agent Skills",
       "url": "https://agentskills.io/home",
-      "score": 454,
+      "score": 457,
       "by": "mooreds",
       "time": 1770127794,
       "comments": 224,
       "domain": "agentskills.io"
     },
     {
-      "id": 46813029,
-      "title": "The largest zip tie is nearly 4 feet long and $75",
-      "url": "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75",
-      "score": 88,
-      "by": "PaulHoule",
-      "time": 1769706500,
-      "comments": 43,
-      "domain": "thedrive.com"
-    },
-    {
       "id": 46874619,
       "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
       "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "score": 304,
+      "score": 309,
       "by": "davidbarker",
       "time": 1770141848,
-      "comments": 250,
+      "comments": 258,
       "domain": "apple.com"
     },
     {
       "id": 46875228,
       "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "url": "https://github.com/alibaba/AliSQL",
-      "score": 201,
+      "score": 208,
       "by": "baotiao",
       "time": 1770144018,
-      "comments": 26,
+      "comments": 27,
       "domain": "github.com"
+    },
+    {
+      "id": 46813029,
+      "title": "The largest zip tie is nearly 4 feet long and $75",
+      "url": "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75",
+      "score": 90,
+      "by": "PaulHoule",
+      "time": 1769706500,
+      "comments": 44,
+      "domain": "thedrive.com"
+    },
+    {
+      "id": 46792506,
+      "title": "Exploring Different Keyboard Sensing Technologies",
+      "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
+      "score": 23,
+      "by": "viraptor",
+      "time": 1769588508,
+      "comments": 5,
+      "domain": "lttlabs.com"
     },
     {
       "id": 46844157,
       "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
       "url": "https://foxmoss.com/blog/kurrat/",
-      "score": 31,
+      "score": 33,
       "by": "Agreed3750",
       "time": 1769928822,
-      "comments": 4,
+      "comments": 3,
       "domain": "foxmoss.com"
     },
     {
       "id": 46846101,
       "title": "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
       "url": "https://banteg.xyz/posts/crimsonland/",
-      "score": 103,
+      "score": 110,
       "by": "banteg",
       "time": 1769952778,
-      "comments": 27,
+      "comments": 28,
       "domain": "banteg.xyz"
     },
     {
       "id": 46873574,
       "title": "221 Cannon is Not For Sale",
       "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-      "score": 239,
+      "score": 247,
       "by": "mecredis",
       "time": 1770137766,
-      "comments": 178,
+      "comments": 182,
       "domain": "fredbenenson.com"
-    },
-    {
-      "id": 46873138,
-      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-      "url": "https://github.com/j178/prek",
-      "score": 237,
-      "by": "fortuitous-frog",
-      "time": 1770136174,
-      "comments": 102,
-      "domain": "github.com"
     },
     {
       "id": 46868998,
       "title": "X offices raided in France as UK opens fresh investigation into Grok",
       "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-      "score": 336,
+      "score": 350,
       "by": "vikaveri",
       "time": 1770113332,
-      "comments": 545,
+      "comments": 585,
       "domain": "bbc.com"
     },
     {
-      "id": 46792506,
-      "title": "Exploring Different Keyboard Sensing Technologies",
-      "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
-      "score": 19,
-      "by": "viraptor",
-      "time": 1769588508,
-      "comments": 3,
-      "domain": "lttlabs.com"
+      "id": 46873138,
+      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+      "url": "https://github.com/j178/prek",
+      "score": 242,
+      "by": "fortuitous-frog",
+      "time": 1770136174,
+      "comments": 103,
+      "domain": "github.com"
     },
     {
       "id": 46822717,
@@ -192,83 +202,83 @@
       "domain": "cnn.com"
     },
     {
-      "id": 46875033,
-      "title": "Y Combinator will let founders receive funds in stablecoins",
-      "url": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
-      "score": 120,
-      "by": "shscs911",
-      "time": 1770143328,
-      "comments": 190,
-      "domain": "fortune.com"
-    },
-    {
-      "id": 46882184,
-      "title": "The full history of Windows widgets, from 1997 to today",
-      "url": "https://xakpc.dev/windows-widgets/history/",
-      "score": 32,
-      "by": "thunderbong",
-      "time": 1770186178,
-      "comments": 13,
-      "domain": "xakpc.dev"
-    },
-    {
       "id": 46872706,
       "title": "Qwen3-Coder-Next",
       "url": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "score": 647,
+      "score": 655,
       "by": "danielhanchen",
       "time": 1770134510,
-      "comments": 384,
+      "comments": 386,
       "domain": "qwen.ai"
+    },
+    {
+      "id": 46875033,
+      "title": "Y Combinator will let founders receive funds in stablecoins",
+      "url": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
+      "score": 124,
+      "by": "shscs911",
+      "time": 1770143328,
+      "comments": 196,
+      "domain": "fortune.com"
+    },
+    {
+      "id": 46834810,
+      "title": "The Mathematics of Tuning Systems",
+      "url": "https://math.ucr.edu/home/baez/tuning_talk/",
+      "score": 5,
+      "by": "u1hcw9nx",
+      "time": 1769850248,
+      "comments": 0,
+      "domain": "math.ucr.edu"
     },
     {
       "id": 46873294,
       "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
       "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-      "score": 935,
+      "score": 942,
       "by": "AareyBaba",
       "time": 1770136758,
-      "comments": 497,
+      "comments": 503,
       "domain": "apnews.com"
-    },
-    {
-      "id": 46877403,
-      "title": "FlashAttention-T: Towards Tensorized Attention",
-      "url": "https://dl.acm.org/doi/10.1145/3774934.3786425",
-      "score": 93,
-      "by": "matt_d",
-      "time": 1770153348,
-      "comments": 52,
-      "domain": "dl.acm.org"
     },
     {
       "id": 46870015,
       "title": "Bunny Database",
       "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-      "score": 285,
+      "score": 289,
       "by": "dabinat",
       "time": 1770120824,
-      "comments": 116,
+      "comments": 120,
       "domain": "bunny.net"
     },
     {
-      "id": 46882389,
-      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-      "url": "https://github.com/bethington/ghidra-mcp",
-      "score": 6,
-      "by": "xerzes",
-      "time": 1770187911,
-      "comments": 2,
-      "domain": "github.com"
+      "id": 46882184,
+      "title": "The full history of Windows widgets, from 1997 to today",
+      "url": "https://xakpc.dev/windows-widgets/history/",
+      "score": 37,
+      "by": "thunderbong",
+      "time": 1770186178,
+      "comments": 14,
+      "domain": "xakpc.dev"
+    },
+    {
+      "id": 46877403,
+      "title": "FlashAttention-T: Towards Tensorized Attention",
+      "url": "https://dl.acm.org/doi/10.1145/3774934.3786425",
+      "score": 94,
+      "by": "matt_d",
+      "time": 1770153348,
+      "comments": 53,
+      "domain": "dl.acm.org"
     },
     {
       "id": 46878338,
       "title": "Notepad++ supply chain attack breakdown",
       "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "score": 277,
+      "score": 287,
       "by": "natebc",
       "time": 1770158127,
-      "comments": 127,
+      "comments": 133,
       "domain": "securelist.com"
     },
     {
@@ -278,28 +288,18 @@
       "score": 121,
       "by": "zdw",
       "time": 1769834065,
-      "comments": 44,
+      "comments": 45,
       "domain": "pugetsystems.com"
     },
     {
       "id": 46845650,
       "title": "Heritability of intrinsic human life span is about 50%",
       "url": "https://www.science.org/doi/10.1126/science.adz1187",
-      "score": 156,
+      "score": 157,
       "by": "XzetaU8",
       "time": 1769948002,
-      "comments": 101,
+      "comments": 104,
       "domain": "science.org"
-    },
-    {
-      "id": 46873539,
-      "title": "1 kilobyte is precisely 1000 bytes?",
-      "url": "https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes",
-      "score": 97,
-      "by": "surprisetalk",
-      "time": 1770137630,
-      "comments": 307,
-      "domain": "waspdev.com"
     }
   ]
 }
