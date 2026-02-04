@@ -1,95 +1,215 @@
 {
-  "lastUpdated": "2026-02-04T13:14:52.323Z",
+  "lastUpdated": "2026-02-04T14:09:41.982Z",
   "items": [
-    {
-      "id": 46884595,
-      "title": "Your Job Isn't Disappearing. It's Shrinking Around You in Real Time",
-      "url": "https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking",
-      "score": 17,
-      "by": "hunglee2",
-      "time": 1770204975,
-      "comments": 6,
-      "domain": "newsletter.jantegze.com"
-    },
     {
       "id": 46881264,
       "title": "I miss thinking hard",
       "url": "https://www.jernesto.com/articles/thinking_hard",
-      "score": 778,
+      "score": 872,
       "by": "jernestomg",
       "time": 1770177251,
-      "comments": 455,
+      "comments": 496,
       "domain": "jernesto.com"
     },
     {
       "id": 46876105,
       "title": "Data centers in space makes no sense",
       "url": "https://civai.org/blog/space-data-centers",
-      "score": 751,
+      "score": 801,
       "by": "ajyoon",
       "time": 1770147450,
-      "comments": 855,
+      "comments": 899,
       "domain": "civai.org"
     },
     {
-      "id": 46840558,
-      "title": "Brazilian Micro-SaaS Map",
-      "url": "https://saas-map.ssr.trapiche.cloud/",
-      "score": 28,
-      "by": "acfilho",
-      "time": 1769891751,
+      "id": 46872465,
+      "title": "A sane but bull case on Clawdbot / OpenClaw",
+      "url": "https://brandon.wang/2026/clawdbot",
+      "score": 7,
+      "by": "brdd",
+      "time": 1770133630,
       "comments": 0,
-      "domain": "saas-map.ssr.trapiche.cloud"
+      "domain": "brandon.wang"
     },
     {
       "id": 46848876,
       "title": "Lessons learned shipping 500 units of my first hardware product",
       "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-      "score": 659,
+      "score": 679,
       "by": "sberens",
       "time": 1769976060,
-      "comments": 299,
+      "comments": 313,
       "domain": "simonberens.com"
     },
     {
       "id": 46882389,
       "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
       "url": "https://github.com/bethington/ghidra-mcp",
-      "score": 119,
+      "score": 139,
       "by": "xerzes",
       "time": 1770187911,
-      "comments": 34,
+      "comments": 38,
       "domain": "github.com"
+    },
+    {
+      "id": 46840558,
+      "title": "Brazilian Micro-SaaS Map",
+      "url": "https://saas-map.ssr.trapiche.cloud/",
+      "score": 39,
+      "by": "acfilho",
+      "time": 1769891751,
+      "comments": 2,
+      "domain": "saas-map.ssr.trapiche.cloud"
     },
     {
       "id": 46847690,
       "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
       "url": "https://github.com/puemos/craftplan",
-      "score": 399,
+      "score": 426,
       "by": "deofoo",
       "time": 1769966739,
-      "comments": 105,
+      "comments": 111,
       "domain": "github.com"
+    },
+    {
+      "id": 46872540,
+      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+      "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+      "score": 525,
+      "by": "ptorrone",
+      "time": 1770133902,
+      "comments": 594,
+      "domain": "blog.adafruit.com"
     },
     {
       "id": 46834810,
       "title": "The Mathematics of Tuning Systems",
       "url": "https://math.ucr.edu/home/baez/tuning_talk/",
-      "score": 41,
+      "score": 51,
       "by": "u1hcw9nx",
       "time": 1769850248,
       "comments": 9,
       "domain": "math.ucr.edu"
     },
     {
-      "id": 46872540,
-      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
-      "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-      "score": 498,
-      "by": "ptorrone",
-      "time": 1770133902,
-      "comments": 552,
-      "domain": "blog.adafruit.com"
+      "id": 46874097,
+      "title": "Deno Sandbox",
+      "url": "https://deno.com/blog/introducing-deno-sandbox",
+      "score": 481,
+      "by": "johnspurlock",
+      "time": 1770140000,
+      "comments": 151,
+      "domain": "deno.com"
+    },
+    {
+      "id": 46871173,
+      "title": "Agent Skills",
+      "url": "https://agentskills.io/home",
+      "score": 487,
+      "by": "mooreds",
+      "time": 1770127794,
+      "comments": 237,
+      "domain": "agentskills.io"
+    },
+    {
+      "id": 46842288,
+      "title": "High-Altitude Adventure with a DIY Pico Balloon",
+      "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
+      "score": 53,
+      "by": "jnord",
+      "time": 1769904895,
+      "comments": 19,
+      "domain": "spectrum.ieee.org"
+    },
+    {
+      "id": 46885332,
+      "title": "I prefer to pass secrets between programs through standard input",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin",
+      "score": 24,
+      "by": "ingve",
+      "time": 1770210120,
+      "comments": 13,
+      "domain": "utcc.utoronto.ca"
+    },
+    {
+      "id": 46875228,
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "url": "https://github.com/alibaba/AliSQL",
+      "score": 245,
+      "by": "baotiao",
+      "time": 1770144018,
+      "comments": 37,
+      "domain": "github.com"
+    },
+    {
+      "id": 46874619,
+      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "score": 334,
+      "by": "davidbarker",
+      "time": 1770141848,
+      "comments": 289,
+      "domain": "apple.com"
+    },
+    {
+      "id": 46868998,
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+      "score": 452,
+      "by": "vikaveri",
+      "time": 1770113332,
+      "comments": 891,
+      "domain": "bbc.com"
+    },
+    {
+      "id": 46832606,
+      "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "url": "https://spritely.institute/goblins/",
+      "score": 73,
+      "by": "alhazrod",
+      "time": 1769825125,
+      "comments": 3,
+      "domain": "spritely.institute"
+    },
+    {
+      "id": 46883337,
+      "title": "Broken Proofs and Broken Provers",
+      "url": "https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html",
+      "score": 17,
+      "by": "RebelPotato",
+      "time": 1770195609,
+      "comments": 2,
+      "domain": "lawrencecpaulson.github.io"
+    },
+    {
+      "id": 46788588,
+      "title": "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
+      "url": "https://oldinsurancemaps.net/",
+      "score": 4,
+      "by": "lapetitejort",
+      "time": 1769555928,
+      "comments": 1,
+      "domain": "oldinsurancemaps.net"
+    },
+    {
+      "id": 46844157,
+      "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
+      "url": "https://foxmoss.com/blog/kurrat/",
+      "score": 58,
+      "by": "Agreed3750",
+      "time": 1769928822,
+      "comments": 10,
+      "domain": "foxmoss.com"
+    },
+    {
+      "id": 46873574,
+      "title": "221 Cannon is Not For Sale",
+      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+      "score": 275,
+      "by": "mecredis",
+      "time": 1770137766,
+      "comments": 201,
+      "domain": "fredbenenson.com"
     },
     {
       "id": 46867799,
@@ -98,208 +218,88 @@
       "score": 3,
       "by": "marysminefnuf",
       "time": 1770104497,
-      "comments": 0,
-      "domain": "cabinetmagazine.org"
-    },
-    {
-      "id": 46874097,
-      "title": "Deno Sandbox",
-      "url": "https://deno.com/blog/introducing-deno-sandbox",
-      "score": 468,
-      "by": "johnspurlock",
-      "time": 1770140000,
-      "comments": 150,
-      "domain": "deno.com"
-    },
-    {
-      "id": 46871173,
-      "title": "Agent Skills",
-      "url": "https://agentskills.io/home",
-      "score": 483,
-      "by": "mooreds",
-      "time": 1770127794,
-      "comments": 235,
-      "domain": "agentskills.io"
-    },
-    {
-      "id": 46842288,
-      "title": "High-Altitude Adventure with a DIY Pico Balloon",
-      "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
-      "score": 47,
-      "by": "jnord",
-      "time": 1769904895,
-      "comments": 13,
-      "domain": "spectrum.ieee.org"
-    },
-    {
-      "id": 46874619,
-      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
-      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "score": 329,
-      "by": "davidbarker",
-      "time": 1770141848,
-      "comments": 284,
-      "domain": "apple.com"
-    },
-    {
-      "id": 46875228,
-      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-      "url": "https://github.com/alibaba/AliSQL",
-      "score": 235,
-      "by": "baotiao",
-      "time": 1770144018,
-      "comments": 35,
-      "domain": "github.com"
-    },
-    {
-      "id": 46832606,
-      "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
-      "url": "https://spritely.institute/goblins/",
-      "score": 62,
-      "by": "alhazrod",
-      "time": 1769825125,
       "comments": 3,
-      "domain": "spritely.institute"
-    },
-    {
-      "id": 46868998,
-      "title": "X offices raided in France as UK opens fresh investigation into Grok",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-      "score": 429,
-      "by": "vikaveri",
-      "time": 1770113332,
-      "comments": 870,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 46873574,
-      "title": "221 Cannon is Not For Sale",
-      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-      "score": 268,
-      "by": "mecredis",
-      "time": 1770137766,
-      "comments": 197,
-      "domain": "fredbenenson.com"
-    },
-    {
-      "id": 46844157,
-      "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
-      "url": "https://foxmoss.com/blog/kurrat/",
-      "score": 52,
-      "by": "Agreed3750",
-      "time": 1769928822,
-      "comments": 9,
-      "domain": "foxmoss.com"
-    },
-    {
-      "id": 46792506,
-      "title": "Exploring Different Keyboard Sensing Technologies",
-      "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
-      "score": 37,
-      "by": "viraptor",
-      "time": 1769588508,
-      "comments": 19,
-      "domain": "lttlabs.com"
+      "domain": "cabinetmagazine.org"
     },
     {
       "id": 46873138,
       "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
       "url": "https://github.com/j178/prek",
-      "score": 259,
+      "score": 264,
       "by": "fortuitous-frog",
       "time": 1770136174,
-      "comments": 108,
+      "comments": 110,
       "domain": "github.com"
     },
     {
-      "id": 46883337,
-      "title": "Broken Proofs and Broken Provers",
-      "url": "https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html",
-      "score": 12,
-      "by": "RebelPotato",
-      "time": 1770195609,
-      "comments": 0,
-      "domain": "lawrencecpaulson.github.io"
-    },
-    {
-      "id": 46798556,
-      "title": "How watercolor brushes are made (2015)",
-      "url": "https://www.handprint.com/HP/WCL/brush1.html",
-      "score": 40,
-      "by": "YeGoblynQueenne",
-      "time": 1769621271,
-      "comments": 3,
-      "domain": "handprint.com"
+      "id": 46792506,
+      "title": "Exploring Different Keyboard Sensing Technologies",
+      "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
+      "score": 41,
+      "by": "viraptor",
+      "time": 1769588508,
+      "comments": 26,
+      "domain": "lttlabs.com"
     },
     {
       "id": 46846101,
       "title": "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
       "url": "https://banteg.xyz/posts/crimsonland/",
-      "score": 138,
+      "score": 145,
       "by": "banteg",
       "time": 1769952778,
-      "comments": 34,
+      "comments": 40,
       "domain": "banteg.xyz"
+    },
+    {
+      "id": 46798556,
+      "title": "How watercolor brushes are made (2015)",
+      "url": "https://www.handprint.com/HP/WCL/brush1.html",
+      "score": 45,
+      "by": "YeGoblynQueenne",
+      "time": 1769621271,
+      "comments": 5,
+      "domain": "handprint.com"
     },
     {
       "id": 46870015,
       "title": "Bunny Database",
       "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-      "score": 306,
+      "score": 309,
       "by": "dabinat",
       "time": 1770120824,
-      "comments": 126,
+      "comments": 127,
       "domain": "bunny.net"
-    },
-    {
-      "id": 46873294,
-      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
-      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-      "score": 1040,
-      "by": "AareyBaba",
-      "time": 1770136758,
-      "comments": 528,
-      "domain": "apnews.com"
-    },
-    {
-      "id": 46872706,
-      "title": "Qwen3-Coder-Next",
-      "url": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "score": 683,
-      "by": "danielhanchen",
-      "time": 1770134510,
-      "comments": 396,
-      "domain": "qwen.ai"
     },
     {
       "id": 46822717,
       "title": "1,400-year-old tomb featuring giant owl sculpture discovered in Mexico",
       "url": "https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl",
-      "score": 115,
+      "score": 120,
       "by": "breve",
       "time": 1769768814,
-      "comments": 29,
+      "comments": 30,
       "domain": "cnn.com"
     },
     {
-      "id": 46885332,
-      "title": "I prefer to pass secrets between programs through standard input",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin",
-      "score": 3,
-      "by": "ingve",
-      "time": 1770210120,
+      "id": 46884027,
+      "title": "Speculative Sampling Explained",
+      "url": "https://saibo-creator.github.io/post/2024_03_08_speculative_sampling/",
+      "score": 5,
+      "by": "teleforce",
+      "time": 1770200794,
       "comments": 0,
-      "domain": "utcc.utoronto.ca"
+      "domain": "saibo-creator.github.io"
     },
     {
-      "id": 46813029,
-      "title": "The largest zip tie is nearly 4 feet long and $75",
-      "url": "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75",
-      "score": 115,
-      "by": "PaulHoule",
-      "time": 1769706500,
-      "comments": 61,
-      "domain": "thedrive.com"
+      "id": 46873294,
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "score": 1060,
+      "by": "AareyBaba",
+      "time": 1770136758,
+      "comments": 539,
+      "domain": "apnews.com"
     }
   ]
 }
