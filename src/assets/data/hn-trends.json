@@ -1,155 +1,165 @@
 {
-  "lastUpdated": "2026-02-04T23:22:09.096Z",
+  "lastUpdated": "2026-02-04T23:46:53.967Z",
   "items": [
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "url": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 637,
+      "score": 661,
       "by": "meetpateltech",
       "time": 1770217697,
-      "comments": 154,
+      "comments": 160,
       "domain": "mistral.ai"
     },
     {
       "id": 46845845,
       "title": "Claude Code: connect to a local model when your quota runs out",
       "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "score": 131,
+      "score": 148,
       "by": "fugu2",
       "time": 1769949821,
-      "comments": 45,
+      "comments": 51,
       "domain": "boxc.net"
-    },
-    {
-      "id": 46891794,
-      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-      "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
-      "score": 50,
-      "by": "mxfh",
-      "time": 1770239315,
-      "comments": 38,
-      "domain": "cia.gov"
     },
     {
       "id": 46889703,
       "title": "Claude Code for Infrastructure",
       "url": "https://www.fluid.sh/",
-      "score": 107,
+      "score": 114,
       "by": "aspectrr",
       "time": 1770230048,
-      "comments": 87,
+      "comments": 96,
       "domain": "fluid.sh"
+    },
+    {
+      "id": 46888441,
+      "title": "AI is killing B2B SaaS",
+      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "score": 178,
+      "by": "namanyayg",
+      "time": 1770224968,
+      "comments": 288,
+      "domain": "nmn.gl"
+    },
+    {
+      "id": 46888795,
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "score": 104,
+      "by": "evakhoury",
+      "time": 1770226505,
+      "comments": 28,
+      "domain": "scd31.com"
     },
     {
       "id": 46891860,
       "title": "A real-world benchmark for AI code review",
       "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-      "score": 25,
+      "score": 28,
       "by": "benocodes",
       "time": 1770239597,
       "comments": 11,
       "domain": "qodo.ai"
     },
     {
-      "id": 46888795,
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "score": 95,
-      "by": "evakhoury",
-      "time": 1770226505,
-      "comments": 24,
-      "domain": "scd31.com"
-    },
-    {
-      "id": 46888441,
-      "title": "AI is killing B2B SaaS",
-      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "score": 166,
-      "by": "namanyayg",
-      "time": 1770224968,
-      "comments": 271,
-      "domain": "nmn.gl"
-    },
-    {
       "id": 46845642,
       "title": "Remarkable Pro Colors",
       "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-      "score": 26,
+      "score": 31,
       "by": "ffaser5gxlsll",
       "time": 1769947920,
-      "comments": 13,
+      "comments": 14,
       "domain": "thregr.org"
+    },
+    {
+      "id": 46893018,
+      "title": "As Rocks May Think",
+      "url": "https://evjang.com/2026/02/04/rocks.html",
+      "score": 7,
+      "by": "modeless",
+      "time": 1770245434,
+      "comments": 0,
+      "domain": "evjang.com"
     },
     {
       "id": 46877278,
       "title": "Tractor",
       "url": "https://incoherency.co.uk/blog/stories/tractor.html",
-      "score": 130,
+      "score": 133,
       "by": "surprisetalk",
       "time": 1770152699,
-      "comments": 43,
+      "comments": 44,
       "domain": "incoherency.co.uk"
     },
     {
       "id": 46886265,
       "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
       "url": "https://arxiv.org/abs/2602.00294",
-      "score": 139,
+      "score": 142,
       "by": "fheinsen",
       "time": 1770215613,
-      "comments": 73,
+      "comments": 75,
       "domain": "arxiv.org"
     },
     {
       "id": 46887564,
       "title": "Microsoft's Copilot chatbot is running into problems",
       "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "score": 71,
+      "score": 77,
       "by": "fortran77",
       "time": 1770221335,
-      "comments": 78,
+      "comments": 97,
       "domain": "wsj.com"
     },
     {
       "id": 46872465,
       "title": "A sane but bull case on Clawdbot / OpenClaw",
       "url": "https://brandon.wang/2026/clawdbot",
-      "score": 230,
+      "score": 231,
       "by": "brdd",
       "time": 1770133630,
-      "comments": 365,
+      "comments": 370,
       "domain": "brandon.wang"
-    },
-    {
-      "id": 46893167,
-      "title": "Litestream Writable VFS",
-      "url": "https://fly.io/blog/litestream-writable-vfs/",
-      "score": 7,
-      "by": "emschwartz",
-      "time": 1770246238,
-      "comments": 8,
-      "domain": "fly.io"
     },
     {
       "id": 46888142,
       "title": "RS-SDK: Drive RuneScape with Claude Code",
       "url": "https://github.com/MaxBittker/rs-sdk",
-      "score": 82,
+      "score": 86,
       "by": "evakhoury",
       "time": 1770223646,
-      "comments": 29,
+      "comments": 31,
       "domain": "github.com"
     },
     {
-      "id": 46889008,
-      "title": "The Great Unwind",
-      "url": "https://occupywallst.com/yen",
-      "score": 211,
-      "by": "jart",
-      "time": 1770227366,
-      "comments": 156,
-      "domain": "occupywallst.com"
+      "id": 46845239,
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "url": "https://sqldef.github.io/",
+      "score": 5,
+      "by": "Palmik",
+      "time": 1769943402,
+      "comments": 1,
+      "domain": "sqldef.github.io"
+    },
+    {
+      "id": 46890261,
+      "title": "Turn any website into a live, structured data feed",
+      "url": "https://www.meter.sh/",
+      "score": 22,
+      "by": "chadwebscraper",
+      "time": 1770232348,
+      "comments": 14,
+      "domain": "meter.sh"
+    },
+    {
+      "id": 46893167,
+      "title": "Litestream Writable VFS",
+      "url": "https://fly.io/blog/litestream-writable-vfs/",
+      "score": 9,
+      "by": "emschwartz",
+      "time": 1770246238,
+      "comments": 12,
+      "domain": "fly.io"
     },
     {
       "id": 46845617,
@@ -165,31 +175,11 @@
       "id": 46887326,
       "title": "Arcan-A12: Weaving a Different Web",
       "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
-      "score": 41,
+      "score": 42,
       "by": "ingenieroariel",
       "time": 1770220250,
       "comments": 14,
       "domain": "divergent-desktop.org"
-    },
-    {
-      "id": 46890261,
-      "title": "Turn any website into a live, structured data feed",
-      "url": "https://www.meter.sh/",
-      "score": 18,
-      "by": "chadwebscraper",
-      "time": 1770232348,
-      "comments": 14,
-      "domain": "meter.sh"
-    },
-    {
-      "id": 46891131,
-      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
-      "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
-      "score": 44,
-      "by": "straydusk",
-      "time": 1770236634,
-      "comments": 94,
-      "domain": "benshoemaker.us"
     },
     {
       "id": 46844410,
@@ -202,84 +192,94 @@
       "domain": "michael.stapelberg.ch"
     },
     {
-      "id": 46884883,
-      "title": "Claude is a space to think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "score": 316,
-      "by": "meetpateltech",
-      "time": 1770206929,
-      "comments": 164,
-      "domain": "anthropic.com"
+      "id": 46889008,
+      "title": "The Great Unwind",
+      "url": "https://occupywallst.com/yen",
+      "score": 218,
+      "by": "jart",
+      "time": 1770227366,
+      "comments": 163,
+      "domain": "occupywallst.com"
+    },
+    {
+      "id": 46891131,
+      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
+      "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
+      "score": 47,
+      "by": "straydusk",
+      "time": 1770236634,
+      "comments": 101,
+      "domain": "benshoemaker.us"
     },
     {
       "id": 46882389,
       "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
       "url": "https://github.com/bethington/ghidra-mcp",
-      "score": 262,
+      "score": 266,
       "by": "xerzes",
       "time": 1770187911,
       "comments": 63,
       "domain": "github.com"
     },
     {
+      "id": 46884883,
+      "title": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "score": 325,
+      "by": "meetpateltech",
+      "time": 1770206929,
+      "comments": 174,
+      "domain": "anthropic.com"
+    },
+    {
+      "id": 46890899,
+      "title": "Technocracy 2.0",
+      "url": "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/",
+      "score": 62,
+      "by": "antonomon",
+      "time": 1770235560,
+      "comments": 32,
+      "domain": "brooklynrail.org"
+    },
+    {
       "id": 46891290,
       "title": "Show HN: Interactive California Budget (By Claude Code)",
       "url": "https://california-budget.com",
-      "score": 23,
+      "score": 26,
       "by": "sberens",
       "time": 1770237215,
       "comments": 11,
       "domain": "california-budget.com"
     },
     {
-      "id": 46890899,
-      "title": "Technocracy 2.0",
-      "url": "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/",
-      "score": 55,
-      "by": "antonomon",
-      "time": 1770235560,
-      "comments": 30,
-      "domain": "brooklynrail.org"
-    },
-    {
       "id": 46838511,
       "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
       "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
-      "score": 20,
+      "score": 22,
       "by": "ksec",
       "time": 1769879641,
-      "comments": 8,
+      "comments": 11,
       "domain": "blogs.oracle.com"
     },
     {
       "id": 46886191,
       "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
       "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-      "score": 229,
+      "score": 238,
       "by": "bookofjoe",
       "time": 1770215225,
       "comments": 94,
       "domain": "arstechnica.com"
     },
     {
-      "id": 46838618,
-      "title": "Writing an optimizing tensor compiler from scratch",
-      "url": "https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/",
-      "score": 4,
-      "by": "t-3",
-      "time": 1769880213,
-      "comments": 0,
-      "domain": "michaelmoroz.github.io"
-    },
-    {
-      "id": 46886440,
-      "title": "A case study in PDF forensics: The Epstein PDFs",
-      "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-      "score": 233,
-      "by": "DuffJohnson",
-      "time": 1770216406,
-      "comments": 133,
-      "domain": "pdfa.org"
+      "id": 46891794,
+      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+      "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+      "score": 58,
+      "by": "mxfh",
+      "time": 1770239315,
+      "comments": 48,
+      "domain": "cia.gov"
     }
   ]
 }
