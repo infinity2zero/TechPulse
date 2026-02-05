@@ -1,145 +1,155 @@
 {
-  "lastUpdated": "2026-02-05T22:59:27.776Z",
+  "lastUpdated": "2026-02-05T23:26:36.460Z",
   "items": [
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "url": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 1288,
+      "score": 1335,
       "by": "HellsMaddy",
       "time": 1770313133,
-      "comments": 575,
+      "comments": 593,
       "domain": "anthropic.com"
     },
     {
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 872,
+      "score": 902,
       "by": "meetpateltech",
       "time": 1770314888,
-      "comments": 339,
+      "comments": 352,
       "domain": "openai.com"
     },
     {
       "id": 46905555,
       "title": "It's 2026, Just Use Postgres",
       "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "score": 130,
+      "score": 173,
       "by": "turtles3",
       "time": 1770326643,
-      "comments": 67,
+      "comments": 100,
       "domain": "tigerdata.com"
     },
     {
       "id": 46903558,
       "title": "My AI Adoption Journey",
       "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 200,
+      "score": 220,
       "by": "anurag",
       "time": 1770318280,
-      "comments": 58,
+      "comments": 65,
       "domain": "mitchellh.com"
     },
     {
       "id": 46903616,
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "url": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 267,
+      "score": 286,
       "by": "modeless",
       "time": 1770318471,
-      "comments": 256,
+      "comments": 273,
       "domain": "anthropic.com"
     },
     {
       "id": 46890335,
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "url": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "score": 94,
+      "score": 118,
       "by": "ComputerGuru",
       "time": 1770232747,
-      "comments": 1,
+      "comments": 10,
       "domain": "neosmart.net"
     },
     {
       "id": 46902368,
       "title": "Orchestrate teams of Claude Code sessions",
       "url": "https://code.claude.com/docs/en/agent-teams",
-      "score": 271,
+      "score": 279,
       "by": "davidbarker",
       "time": 1770313794,
-      "comments": 127,
+      "comments": 133,
       "domain": "code.claude.com"
     },
     {
       "id": 46905761,
       "title": "Review of 1984 by Isaac Asimov (1980)",
       "url": "https://www.newworker.org/ncptrory/1984.htm",
-      "score": 26,
+      "score": 36,
       "by": "doruk101",
       "time": 1770327597,
-      "comments": 9,
+      "comments": 15,
       "domain": "newworker.org"
     },
     {
       "id": 46867526,
       "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
       "url": "https://www.menuetos.net/",
-      "score": 73,
+      "score": 77,
       "by": "pjerem",
       "time": 1770102214,
-      "comments": 7,
+      "comments": 10,
       "domain": "menuetos.net"
-    },
-    {
-      "id": 46904569,
-      "title": "Claude Opus 4.6 extra usage promo",
-      "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
-      "score": 63,
-      "by": "rob",
-      "time": 1770322548,
-      "comments": 18,
-      "domain": "support.claude.com"
-    },
-    {
-      "id": 46904361,
-      "title": "LinkedIn checks for 2953 browser extensions",
-      "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
-      "score": 201,
-      "by": "mdp",
-      "time": 1770321639,
-      "comments": 99,
-      "domain": "github.com"
     },
     {
       "id": 46896146,
       "title": "Don't rent the cloud, own instead",
       "url": "https://blog.comma.ai/datacenter/",
-      "score": 1044,
+      "score": 1052,
       "by": "Torq_boi",
       "time": 1770270601,
-      "comments": 438,
+      "comments": 439,
       "domain": "blog.comma.ai"
+    },
+    {
+      "id": 46904361,
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "score": 211,
+      "by": "mdp",
+      "time": 1770321639,
+      "comments": 109,
+      "domain": "github.com"
     },
     {
       "id": 46847297,
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
-      "score": 102,
+      "score": 108,
       "by": "wallflower",
       "time": 1769963476,
-      "comments": 26,
+      "comments": 28,
       "domain": "btboces.org"
     },
     {
       "id": 46903556,
       "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
       "url": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
-      "score": 329,
+      "score": 349,
       "by": "cdrnsf",
       "time": 1770318277,
-      "comments": 213,
+      "comments": 241,
       "domain": "youtube.com"
+    },
+    {
+      "id": 46904569,
+      "title": "Claude Opus 4.6 extra usage promo",
+      "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
+      "score": 68,
+      "by": "rob",
+      "time": 1770322548,
+      "comments": 20,
+      "domain": "support.claude.com"
+    },
+    {
+      "id": 46845296,
+      "title": "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
+      "url": "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/",
+      "score": 24,
+      "by": "i-blis",
+      "time": 1769943989,
+      "comments": 8,
+      "domain": "innfactory.ai"
     },
     {
       "id": 46902789,
@@ -152,24 +162,44 @@
       "domain": "github.com"
     },
     {
-      "id": 46903001,
-      "title": "Ardour 9.0",
-      "url": "https://ardour.org/whatsnew.html",
-      "score": 193,
-      "by": "PaulDavisThe1st",
-      "time": 1770316216,
-      "comments": 32,
-      "domain": "ardour.org"
-    },
-    {
       "id": 46842090,
       "title": "What's wrong with bunny hands on dinosaurs? (2018)",
       "url": "https://paleoaerie.org/2018/06/13/whats-wrong-with-bunny-hands-on-dinosaurs/",
-      "score": 5,
+      "score": 6,
       "by": "exvi",
       "time": 1769903055,
-      "comments": 0,
+      "comments": 4,
       "domain": "paleoaerie.org"
+    },
+    {
+      "id": 46903001,
+      "title": "Ardour 9.0",
+      "url": "https://ardour.org/whatsnew.html",
+      "score": 197,
+      "by": "PaulDavisThe1st",
+      "time": 1770316216,
+      "comments": 35,
+      "domain": "ardour.org"
+    },
+    {
+      "id": 46902855,
+      "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+      "url": "https://arxiv.org/abs/2512.04124",
+      "score": 43,
+      "by": "toomuchtodo",
+      "time": 1770315713,
+      "comments": 38,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 46906655,
+      "title": "Cubans rendered powerless as outages persist and tensions with US escalate",
+      "url": "https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f",
+      "score": 11,
+      "by": "petethomas",
+      "time": 1770332517,
+      "comments": 2,
+      "domain": "apnews.com"
     },
     {
       "id": 46841897,
@@ -182,60 +212,40 @@
       "domain": "vermaden.wordpress.com"
     },
     {
-      "id": 46902855,
-      "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
-      "url": "https://arxiv.org/abs/2512.04124",
-      "score": 39,
-      "by": "toomuchtodo",
-      "time": 1770315713,
-      "comments": 35,
-      "domain": "arxiv.org"
-    },
-    {
       "id": 46899591,
       "title": "The New Collabora Office for Desktop",
       "url": "https://www.collaboraonline.com/collabora-office/",
-      "score": 138,
+      "score": 139,
       "by": "mfld",
       "time": 1770299279,
-      "comments": 83,
+      "comments": 86,
       "domain": "collaboraonline.com"
-    },
-    {
-      "id": 46845296,
-      "title": "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
-      "url": "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/",
-      "score": 19,
-      "by": "i-blis",
-      "time": 1769943989,
-      "comments": 6,
-      "domain": "innfactory.ai"
-    },
-    {
-      "id": 46902909,
-      "title": "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
-      "url": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting",
-      "score": 166,
-      "by": "speckx",
-      "time": 1770315905,
-      "comments": 103,
-      "domain": "axios.com"
     },
     {
       "id": 46895972,
       "title": "When internal hostnames are leaked to the clown",
       "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
-      "score": 420,
+      "score": 421,
       "by": "zdw",
       "time": 1770268956,
-      "comments": 227,
+      "comments": 228,
       "domain": "rachelbythebay.com"
+    },
+    {
+      "id": 46902909,
+      "title": "Opus 4.6 uncovers 500 zero-day flaws in open-source code",
+      "url": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting",
+      "score": 171,
+      "by": "speckx",
+      "time": 1770315905,
+      "comments": 104,
+      "domain": "axios.com"
     },
     {
       "id": 46897737,
       "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
       "url": "https://github.com/HKUDS/nanobot",
-      "score": 199,
+      "score": 200,
       "by": "ms7892",
       "time": 1770284351,
       "comments": 104,
@@ -245,11 +255,21 @@
       "id": 46899132,
       "title": "Company as Code",
       "url": "https://blog.42futures.com/p/company-as-code",
-      "score": 203,
+      "score": 204,
       "by": "ahamez",
       "time": 1770296188,
       "comments": 104,
       "domain": "blog.42futures.com"
+    },
+    {
+      "id": 46844301,
+      "title": "Fela Kuti First African to Get Grammys Lifetime Achievement Award",
+      "url": "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award",
+      "score": 124,
+      "by": "defrost",
+      "time": 1769931414,
+      "comments": 30,
+      "domain": "aljazeera.com"
     },
     {
       "id": 46899066,
@@ -265,31 +285,11 @@
       "id": 46902273,
       "title": "Advancing finance with Claude Opus 4.6",
       "url": "https://claude.com/blog/opus-4-6-finance",
-      "score": 121,
+      "score": 125,
       "by": "da_grift_shift",
       "time": 1770313367,
-      "comments": 29,
+      "comments": 30,
       "domain": "claude.com"
-    },
-    {
-      "id": 46844301,
-      "title": "Fela Kuti First African to Get Grammys Lifetime Achievement Award",
-      "url": "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award",
-      "score": 116,
-      "by": "defrost",
-      "time": 1769931414,
-      "comments": 27,
-      "domain": "aljazeera.com"
-    },
-    {
-      "id": 46899808,
-      "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
-      "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
-      "score": 289,
-      "by": "ck2",
-      "time": 1770300673,
-      "comments": 120,
-      "domain": "simonwillison.net"
     }
   ]
 }
