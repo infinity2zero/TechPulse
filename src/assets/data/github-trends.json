@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-06T23:35:30.328Z",
+  "lastUpdated": "2026-02-06T23:54:41.129Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 10903,
+      "stars": 10922,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-06T23:34:20Z"
+      "updated_at": "2026-02-06T23:54:16Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-      "stars": 5756,
+      "stars": 5758,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-06T23:31:26Z"
+      "updated_at": "2026-02-06T23:50:00Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1467,
+      "stars": 1468,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-06T23:21:40Z"
+      "updated_at": "2026-02-06T23:43:54Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1110,
+      "stars": 1115,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-06T23:33:54Z"
+      "updated_at": "2026-02-06T23:54:22Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1003,
+      "stars": 1011,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-06T23:33:52Z"
+      "updated_at": "2026-02-06T23:54:29Z"
     },
     {
       "id": 1147210886,
       "name": "justlovemaki/OpenClaw-Docker-CN-IM",
       "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
-      "stars": 886,
+      "stars": 887,
       "language": "Shell",
       "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
       "owner": {
         "login": "justlovemaki",
         "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
       },
-      "updated_at": "2026-02-06T23:00:12Z"
+      "updated_at": "2026-02-06T23:51:53Z"
     },
     {
       "id": 1147992203,
@@ -135,27 +135,27 @@
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 486,
+      "stars": 488,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-06T23:14:55Z"
+      "updated_at": "2026-02-06T23:45:20Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 482,
+      "stars": 488,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-06T23:31:54Z"
+      "updated_at": "2026-02-06T23:51:50Z"
     },
     {
       "id": 1146981739,
@@ -174,27 +174,27 @@
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 434,
+      "stars": 435,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-06T23:27:46Z"
+      "updated_at": "2026-02-06T23:38:26Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 388,
+      "stars": 389,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-06T23:35:06Z"
+      "updated_at": "2026-02-06T23:47:09Z"
     },
     {
       "id": 1146426488,
@@ -226,14 +226,14 @@
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 365,
+      "stars": 366,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-06T23:15:54Z"
+      "updated_at": "2026-02-06T23:54:13Z"
     },
     {
       "id": 1148459032,
