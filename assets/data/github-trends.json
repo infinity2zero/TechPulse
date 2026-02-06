@@ -1,252 +1,252 @@
 {
-  "lastUpdated": "2026-02-06T17:50:24.078Z",
+  "lastUpdated": "2026-02-06T18:29:54.815Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 10602,
+      "stars": 10654,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-06T17:50:15Z"
+      "updated_at": "2026-02-06T18:29:38Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-      "stars": 5673,
+      "stars": 5686,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-06T17:49:30Z"
+      "updated_at": "2026-02-06T18:27:21Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1448,
+      "stars": 1450,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-06T17:43:17Z"
+      "updated_at": "2026-02-06T18:27:29Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1006,
+      "stars": 1017,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-06T17:50:12Z"
-    },
-    {
-      "id": 1147210886,
-      "name": "justlovemaki/OpenClaw-Docker-CN-IM",
-      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
-      "stars": 873,
-      "language": "Shell",
-      "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
-      "owner": {
-        "login": "justlovemaki",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
-      },
-      "updated_at": "2026-02-06T17:37:11Z"
+      "updated_at": "2026-02-06T18:29:17Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 868,
+      "stars": 887,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-06T17:47:34Z"
+      "updated_at": "2026-02-06T18:28:07Z"
+    },
+    {
+      "id": 1147210886,
+      "name": "justlovemaki/OpenClaw-Docker-CN-IM",
+      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
+      "stars": 877,
+      "language": "Shell",
+      "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
+      "owner": {
+        "login": "justlovemaki",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
+      },
+      "updated_at": "2026-02-06T18:09:47Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 652,
+      "stars": 655,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-06T17:49:59Z"
+      "updated_at": "2026-02-06T18:15:42Z"
     },
     {
       "id": 1146393894,
       "name": "stepfun-ai/Step-3.5-Flash",
       "description": "Fast, Sharp & Reliable Agentic Intelligence",
-      "stars": 619,
+      "stars": 621,
       "language": "C++",
       "url": "https://github.com/stepfun-ai/Step-3.5-Flash",
       "owner": {
         "login": "stepfun-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/178004800?v=4"
       },
-      "updated_at": "2026-02-06T17:12:35Z"
+      "updated_at": "2026-02-06T18:16:17Z"
     },
     {
       "id": 1146647912,
       "name": "hzm0321/real-time-fund",
       "description": "基金实时估值查看",
-      "stars": 550,
+      "stars": 551,
       "language": "JavaScript",
       "url": "https://github.com/hzm0321/real-time-fund",
       "owner": {
         "login": "hzm0321",
         "avatar_url": "https://avatars.githubusercontent.com/u/35420713?v=4"
       },
-      "updated_at": "2026-02-06T17:47:32Z"
+      "updated_at": "2026-02-06T18:22:48Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 471,
+      "stars": 473,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-06T17:47:45Z"
+      "updated_at": "2026-02-06T18:09:55Z"
     },
     {
       "id": 1146981739,
       "name": "ygwyg/MAHORAGA",
       "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
-      "stars": 462,
+      "stars": 463,
       "language": "TypeScript",
       "url": "https://github.com/ygwyg/MAHORAGA",
       "owner": {
         "login": "ygwyg",
         "avatar_url": "https://avatars.githubusercontent.com/u/167489839?v=4"
       },
-      "updated_at": "2026-02-06T11:42:48Z"
+      "updated_at": "2026-02-06T18:04:51Z"
     },
     {
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 453,
+      "stars": 459,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-06T17:49:59Z"
+      "updated_at": "2026-02-06T18:28:41Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 405,
+      "stars": 409,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-06T17:50:16Z"
+      "updated_at": "2026-02-06T18:25:19Z"
     },
     {
       "id": 1147761848,
       "name": "BehiSecc/VibeSec-Skill",
       "description": "This skill helps Claude write secure code and prevent common vulnerabilities.",
-      "stars": 373,
+      "stars": 374,
       "language": null,
       "url": "https://github.com/BehiSecc/VibeSec-Skill",
       "owner": {
         "login": "BehiSecc",
         "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
       },
-      "updated_at": "2026-02-06T17:46:23Z"
+      "updated_at": "2026-02-06T18:22:00Z"
     },
     {
       "id": 1146426488,
       "name": "shuyu-labs/BigBanana-AI-Director",
       "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 \"Script-to-Asset-to-Keyframe\" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。",
-      "stars": 369,
+      "stars": 370,
       "language": "TypeScript",
       "url": "https://github.com/shuyu-labs/BigBanana-AI-Director",
       "owner": {
         "login": "shuyu-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/257786265?v=4"
       },
-      "updated_at": "2026-02-06T17:44:53Z"
-    },
-    {
-      "id": 1149314442,
-      "name": "fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 352,
-      "language": "JavaScript",
-      "url": "https://github.com/fspecii/ace-step-ui",
-      "owner": {
-        "login": "fspecii",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
-      },
-      "updated_at": "2026-02-06T17:49:33Z"
+      "updated_at": "2026-02-06T18:04:25Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 345,
+      "stars": 362,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-06T17:47:58Z"
+      "updated_at": "2026-02-06T18:28:50Z"
+    },
+    {
+      "id": 1149314442,
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 355,
+      "language": "JavaScript",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "owner": {
+        "login": "fspecii",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
+      },
+      "updated_at": "2026-02-06T18:15:30Z"
     },
     {
       "id": 1148459032,
       "name": "Haleclipse/CodexDesktop-Rebuild",
       "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 339,
+      "stars": 340,
       "language": "JavaScript",
       "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
       "owner": {
         "login": "Haleclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
       },
-      "updated_at": "2026-02-06T17:49:05Z"
+      "updated_at": "2026-02-06T18:08:51Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 325,
+      "stars": 334,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-06T17:48:22Z"
+      "updated_at": "2026-02-06T18:29:35Z"
     },
     {
       "id": 1149477047,
