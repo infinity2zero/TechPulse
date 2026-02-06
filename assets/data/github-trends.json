@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-02-06T09:37:41.440Z",
+  "lastUpdated": "2026-02-06T10:22:45.486Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 9941,
+      "stars": 10000,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-06T09:37:08Z"
+      "updated_at": "2026-02-06T10:22:09Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.",
-      "stars": 5509,
+      "stars": 5524,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-06T09:36:38Z"
+      "updated_at": "2026-02-06T10:20:26Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1384,
+      "stars": 1398,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-06T09:31:07Z"
-    },
-    {
-      "id": 1147210886,
-      "name": "justlovemaki/OpenClaw-Docker-CN-IM",
-      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
-      "stars": 732,
-      "language": "Shell",
-      "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
-      "owner": {
-        "login": "justlovemaki",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
-      },
-      "updated_at": "2026-02-06T09:32:31Z"
+      "updated_at": "2026-02-06T10:21:04Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 714,
+      "stars": 751,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-06T09:35:07Z"
+      "updated_at": "2026-02-06T10:21:40Z"
+    },
+    {
+      "id": 1147210886,
+      "name": "justlovemaki/OpenClaw-Docker-CN-IM",
+      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
+      "stars": 741,
+      "language": "Shell",
+      "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
+      "owner": {
+        "login": "justlovemaki",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
+      },
+      "updated_at": "2026-02-06T10:19:13Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 683,
+      "stars": 697,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-06T09:36:31Z"
+      "updated_at": "2026-02-06T10:18:15Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 627,
+      "stars": 629,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-06T09:30:27Z"
+      "updated_at": "2026-02-06T10:13:20Z"
     },
     {
       "id": 1146393894,
@@ -109,14 +109,14 @@
       "id": 1146647912,
       "name": "hzm0321/real-time-fund",
       "description": "基金实时估值查看",
-      "stars": 509,
+      "stars": 516,
       "language": "JavaScript",
       "url": "https://github.com/hzm0321/real-time-fund",
       "owner": {
         "login": "hzm0321",
         "avatar_url": "https://avatars.githubusercontent.com/u/35420713?v=4"
       },
-      "updated_at": "2026-02-06T09:35:28Z"
+      "updated_at": "2026-02-06T10:17:45Z"
     },
     {
       "id": 1146981739,
@@ -135,14 +135,14 @@
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 405,
+      "stars": 406,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-06T09:23:57Z"
+      "updated_at": "2026-02-06T09:41:00Z"
     },
     {
       "id": 1147761848,
@@ -184,43 +184,43 @@
       "updated_at": "2026-02-06T08:53:14Z"
     },
     {
-      "id": 1148459032,
-      "name": "Haleclipse/CodexDesktop-Rebuild",
-      "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 321,
-      "language": "JavaScript",
-      "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
-      "owner": {
-        "login": "Haleclipse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
-      },
-      "updated_at": "2026-02-06T09:31:12Z"
-    },
-    {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 312,
+      "stars": 325,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-06T09:33:18Z"
+      "updated_at": "2026-02-06T10:15:17Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 300,
+      "stars": 325,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-06T09:37:06Z"
+      "updated_at": "2026-02-06T10:21:35Z"
+    },
+    {
+      "id": 1148459032,
+      "name": "Haleclipse/CodexDesktop-Rebuild",
+      "description": "Codex Desktop App - Cross-platform Rebuild",
+      "stars": 322,
+      "language": "JavaScript",
+      "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
+      "owner": {
+        "login": "Haleclipse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
+      },
+      "updated_at": "2026-02-06T10:15:34Z"
     },
     {
       "id": 1147148934,
