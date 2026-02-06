@@ -1,65 +1,55 @@
 {
-  "lastUpdated": "2026-02-06T21:48:19.475Z",
+  "lastUpdated": "2026-02-06T21:59:35.467Z",
   "items": [
     {
       "id": 46914785,
       "title": "The Waymo World Model",
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 505,
+      "score": 517,
       "by": "xnx",
       "time": 1770394842,
-      "comments": 310,
+      "comments": 321,
       "domain": "waymo.com"
     },
     {
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "url": "https://vecti.com",
-      "score": 132,
+      "score": 139,
       "by": "vecti",
       "time": 1770406057,
-      "comments": 52,
+      "comments": 56,
       "domain": "vecti.com"
-    },
-    {
-      "id": 46916586,
-      "title": "How to effectively write quality code with AI",
-      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "score": 71,
-      "by": "i5heu",
-      "time": 1770403799,
-      "comments": 48,
-      "domain": "heidenstedt.org"
     },
     {
       "id": 46913793,
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
       "url": "https://github.com/microsoft/litebox",
-      "score": 237,
+      "score": 240,
       "by": "aktau",
       "time": 1770390784,
       "comments": 125,
       "domain": "github.com"
     },
     {
+      "id": 46916586,
+      "title": "How to effectively write quality code with AI",
+      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "score": 80,
+      "by": "i5heu",
+      "time": 1770403799,
+      "comments": 55,
+      "domain": "heidenstedt.org"
+    },
+    {
       "id": 46914159,
       "title": "Sheldon Brown's Bicycle Technical Info",
       "url": "https://www.sheldonbrown.com/",
-      "score": 221,
+      "score": 225,
       "by": "ostacke",
       "time": 1770392442,
-      "comments": 54,
+      "comments": 55,
       "domain": "sheldonbrown.com"
-    },
-    {
-      "id": 46916609,
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "url": "https://eljojo.github.io/rememory/",
-      "score": 65,
-      "by": "eljojo",
-      "time": 1770403918,
-      "comments": 52,
-      "domain": "eljojo.github.io"
     },
     {
       "id": 46870514,
@@ -68,94 +58,104 @@
       "score": 85,
       "by": "limoce",
       "time": 1770124057,
-      "comments": 34,
+      "comments": 35,
       "domain": "hy.tencent.com"
     },
     {
       "id": 46915102,
       "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
       "url": "https://infisical.com/blog/devops-to-solutions-engineering",
-      "score": 42,
+      "score": 43,
       "by": "vmatsiiako",
       "time": 1770396347,
-      "comments": 11,
+      "comments": 13,
       "domain": "infisical.com"
+    },
+    {
+      "id": 46891689,
+      "title": "Claude Composer",
+      "url": "https://www.josh.ing/blog/claude-composer",
+      "score": 30,
+      "by": "coloneltcb",
+      "time": 1770238769,
+      "comments": 11,
+      "domain": "josh.ing"
     },
     {
       "id": 46871654,
       "title": "Understanding Neural Network, Visually",
       "url": "https://visualrambling.space/neural-network/",
-      "score": 177,
+      "score": 179,
       "by": "surprisetalk",
       "time": 1770130151,
       "comments": 22,
       "domain": "visualrambling.space"
     },
     {
-      "id": 46891689,
-      "title": "Claude Composer",
-      "url": "https://www.josh.ing/blog/claude-composer",
-      "score": 26,
-      "by": "coloneltcb",
-      "time": 1770238769,
-      "comments": 8,
-      "domain": "josh.ing"
+      "id": 46916609,
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "url": "https://eljojo.github.io/rememory/",
+      "score": 70,
+      "by": "eljojo",
+      "time": 1770403918,
+      "comments": 60,
+      "domain": "eljojo.github.io"
     },
     {
       "id": 46911901,
       "title": "I now assume that all ads on Apple news are scams",
       "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 840,
+      "score": 843,
       "by": "cdrnsf",
       "time": 1770380203,
       "comments": 373,
       "domain": "kirkville.com"
     },
     {
+      "id": 46913903,
+      "title": "An Update on Heroku",
+      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "score": 177,
+      "by": "lstoll",
+      "time": 1770391223,
+      "comments": 136,
+      "domain": "heroku.com"
+    },
+    {
       "id": 46917477,
       "title": "Masked namespace vulnerability in Temporal",
       "url": "https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986",
-      "score": 16,
+      "score": 18,
       "by": "bmit",
       "time": 1770408295,
       "comments": 1,
       "domain": "depthfirst.com"
     },
     {
+      "id": 46918429,
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "url": "https://github.com/valdanylchuk/breezydemo",
+      "score": 3,
+      "by": "isitcontent",
+      "time": 1770413591,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
       "id": 46915427,
       "title": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
       "url": "https://www.biotradingarena.com/hn",
-      "score": 12,
+      "score": 13,
       "by": "dchu17",
       "time": 1770397912,
       "comments": 3,
       "domain": "biotradingarena.com"
     },
     {
-      "id": 46913903,
-      "title": "An Update on Heroku",
-      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 163,
-      "by": "lstoll",
-      "time": 1770391223,
-      "comments": 130,
-      "domain": "heroku.com"
-    },
-    {
-      "id": 46860845,
-      "title": "Welcome to the Room: A lesson in leadership by Satya Nadella",
-      "url": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
-      "score": 11,
-      "by": "dnw",
-      "time": 1770063454,
-      "comments": 2,
-      "domain": "jsnover.com"
-    },
-    {
       "id": 46901233,
       "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
       "url": "https://docs.smooth.sh/cli/overview",
-      "score": 54,
+      "score": 58,
       "by": "antves",
       "time": 1770308013,
       "comments": 47,
@@ -165,11 +165,21 @@
       "id": 46912800,
       "title": "Hackers (1995) Animated Experience",
       "url": "https://hackers-1995.vercel.app/",
-      "score": 298,
+      "score": 303,
       "by": "todsacerdoti",
       "time": 1770385795,
-      "comments": 171,
+      "comments": 173,
       "domain": "hackers-1995.vercel.app"
+    },
+    {
+      "id": 46860845,
+      "title": "Welcome to the Room: A lesson in leadership by Satya Nadella",
+      "url": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
+      "score": 14,
+      "by": "dnw",
+      "time": 1770063454,
+      "comments": 7,
+      "domain": "jsnover.com"
     },
     {
       "id": 46868435,
@@ -178,17 +188,17 @@
       "score": 12,
       "by": "everlier",
       "time": 1770109199,
-      "comments": 2,
+      "comments": 3,
       "domain": "humanityslastmachine.com"
     },
     {
       "id": 46918300,
       "title": "Oregon raised spending by 80%, math scores dropped",
       "url": "https://www.educationnext.org/hard-lessons-from-new-naep-results/",
-      "score": 13,
+      "score": 20,
       "by": "grantpitt",
       "time": 1770412824,
-      "comments": 4,
+      "comments": 9,
       "domain": "educationnext.org"
     },
     {
@@ -198,7 +208,7 @@
       "score": 475,
       "by": "giuliomagnifico",
       "time": 1770371815,
-      "comments": 195,
+      "comments": 197,
       "domain": "niemanlab.org"
     },
     {
@@ -215,7 +225,7 @@
       "id": 46860623,
       "title": "The Monad Called Free",
       "url": "http://blog.sigfpe.com/2014/04/the-monad-called-free.html",
-      "score": 49,
+      "score": 50,
       "by": "romes",
       "time": 1770062546,
       "comments": 25,
@@ -232,33 +242,33 @@
       "domain": "caltech.edu"
     },
     {
-      "id": 46911869,
-      "title": "TikTok's 'addictive design' found to be illegal in Europe",
-      "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 546,
-      "by": "thm",
-      "time": 1770379908,
-      "comments": 408,
-      "domain": "nytimes.com"
-    },
-    {
       "id": 46909439,
       "title": "Systems Thinking",
       "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-      "score": 247,
+      "score": 249,
       "by": "r4um",
       "time": 1770355476,
-      "comments": 113,
+      "comments": 114,
       "domain": "theprogrammersparadox.blogspot.com"
+    },
+    {
+      "id": 46911869,
+      "title": "TikTok's 'addictive design' found to be illegal in Europe",
+      "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "score": 550,
+      "by": "thm",
+      "time": 1770379908,
+      "comments": 410,
+      "domain": "nytimes.com"
     },
     {
       "id": 46914094,
       "title": "NIMBYs aren't just shutting down housing",
       "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing",
-      "score": 110,
+      "score": 111,
       "by": "toomuchtodo",
       "time": 1770392085,
-      "comments": 233,
+      "comments": 245,
       "domain": "inpractice.yimbyaction.org"
     },
     {
@@ -275,21 +285,11 @@
       "id": 46915587,
       "title": "Fraud investigation is believing your lying eyes",
       "url": "https://www.bitsaboutmoney.com/archive/fraud-investigation/",
-      "score": 105,
+      "score": 108,
       "by": "dangrossman",
       "time": 1770398672,
-      "comments": 121,
+      "comments": 124,
       "domain": "bitsaboutmoney.com"
-    },
-    {
-      "id": 46867446,
-      "title": "Stay Away from My Trash",
-      "url": "https://tldraw.dev/blog/stay-away-from-my-trash",
-      "score": 159,
-      "by": "EvgeniyZh",
-      "time": 1770101603,
-      "comments": 65,
-      "domain": "tldraw.dev"
     },
     {
       "id": 46902223,
@@ -298,7 +298,7 @@
       "score": 2249,
       "by": "HellsMaddy",
       "time": 1770313133,
-      "comments": 969,
+      "comments": 971,
       "domain": "anthropic.com"
     }
   ]
