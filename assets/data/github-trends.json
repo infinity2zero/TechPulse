@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-06T21:59:36.133Z",
+  "lastUpdated": "2026-02-06T22:27:53.124Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 10821,
+      "stars": 10845,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-06T21:57:30Z"
+      "updated_at": "2026-02-06T22:27:26Z"
     },
     {
       "id": 1146738089,
       "name": "gavrielc/nanoclaw",
       "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-      "stars": 5737,
+      "stars": 5744,
       "language": "TypeScript",
       "url": "https://github.com/gavrielc/nanoclaw",
       "owner": {
         "login": "gavrielc",
         "avatar_url": "https://avatars.githubusercontent.com/u/20087851?v=4"
       },
-      "updated_at": "2026-02-06T21:58:20Z"
+      "updated_at": "2026-02-06T22:25:35Z"
     },
     {
       "id": 1147679251,
@@ -44,27 +44,27 @@
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1083,
+      "stars": 1094,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-06T21:59:11Z"
+      "updated_at": "2026-02-06T22:27:16Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 968,
+      "stars": 975,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-06T21:58:07Z"
+      "updated_at": "2026-02-06T22:24:01Z"
     },
     {
       "id": 1147210886,
@@ -83,14 +83,14 @@
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 661,
+      "stars": 662,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-06T20:58:43Z"
+      "updated_at": "2026-02-06T22:12:03Z"
     },
     {
       "id": 1146393894,
@@ -122,27 +122,27 @@
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 484,
+      "stars": 488,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-06T21:51:38Z"
+      "updated_at": "2026-02-06T22:21:00Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 480,
+      "stars": 481,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-06T20:56:27Z"
+      "updated_at": "2026-02-06T22:23:12Z"
     },
     {
       "id": 1146981739,
@@ -161,27 +161,40 @@
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 443,
+      "stars": 455,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-06T21:59:10Z"
+      "updated_at": "2026-02-06T22:26:51Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 427,
+      "stars": 430,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-06T21:58:36Z"
+      "updated_at": "2026-02-06T22:23:35Z"
+    },
+    {
+      "id": 1149511572,
+      "name": "cfinke/EpsteIn",
+      "description": "See which of your LinkedIn connections appear in the Epstein files.",
+      "stars": 383,
+      "language": "Python",
+      "url": "https://github.com/cfinke/EpsteIn",
+      "owner": {
+        "login": "cfinke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
+      },
+      "updated_at": "2026-02-06T22:23:35Z"
     },
     {
       "id": 1147761848,
@@ -200,40 +213,27 @@
       "id": 1146426488,
       "name": "shuyu-labs/BigBanana-AI-Director",
       "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 \"Script-to-Asset-to-Keyframe\" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。",
-      "stars": 376,
+      "stars": 377,
       "language": "TypeScript",
       "url": "https://github.com/shuyu-labs/BigBanana-AI-Director",
       "owner": {
         "login": "shuyu-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/257786265?v=4"
       },
-      "updated_at": "2026-02-06T21:37:05Z"
-    },
-    {
-      "id": 1149511572,
-      "name": "cfinke/EpsteIn",
-      "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 376,
-      "language": "Python",
-      "url": "https://github.com/cfinke/EpsteIn",
-      "owner": {
-        "login": "cfinke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
-      },
-      "updated_at": "2026-02-06T21:59:01Z"
+      "updated_at": "2026-02-06T22:11:21Z"
     },
     {
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 360,
+      "stars": 363,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-06T21:10:01Z"
+      "updated_at": "2026-02-06T22:23:50Z"
     },
     {
       "id": 1148459032,
@@ -252,14 +252,14 @@
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 313,
+      "stars": 314,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-06T21:08:06Z"
+      "updated_at": "2026-02-06T22:26:21Z"
     }
   ]
 }
