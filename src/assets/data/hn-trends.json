@@ -1,155 +1,235 @@
 {
-  "lastUpdated": "2026-02-06T22:27:52.667Z",
+  "lastUpdated": "2026-02-06T22:50:35.938Z",
   "items": [
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "url": "https://openciv3.org/",
-      "score": 39,
+      "score": 94,
       "by": "klaussilveira",
       "time": 1770414683,
-      "comments": 0,
+      "comments": 11,
       "domain": "openciv3.org"
     },
     {
       "id": 46914785,
       "title": "The Waymo World Model",
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 565,
+      "score": 582,
       "by": "xnx",
       "time": 1770394842,
-      "comments": 356,
+      "comments": 377,
       "domain": "waymo.com"
     },
     {
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "url": "https://vecti.com",
-      "score": 157,
+      "score": 164,
       "by": "vecti",
       "time": 1770406057,
-      "comments": 67,
+      "comments": 75,
       "domain": "vecti.com"
     },
     {
       "id": 46918429,
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 17,
+      "score": 30,
       "by": "isitcontent",
       "time": 1770413591,
-      "comments": 4,
+      "comments": 6,
       "domain": "github.com"
     },
     {
       "id": 46913793,
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
       "url": "https://github.com/microsoft/litebox",
-      "score": 247,
+      "score": 252,
       "by": "aktau",
       "time": 1770390784,
-      "comments": 127,
+      "comments": 130,
       "domain": "github.com"
-    },
-    {
-      "id": 46914159,
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "url": "https://www.sheldonbrown.com/",
-      "score": 235,
-      "by": "ostacke",
-      "time": 1770392442,
-      "comments": 58,
-      "domain": "sheldonbrown.com"
-    },
-    {
-      "id": 46916586,
-      "title": "How to effectively write quality code with AI",
-      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "score": 99,
-      "by": "i5heu",
-      "time": 1770403799,
-      "comments": 72,
-      "domain": "heidenstedt.org"
-    },
-    {
-      "id": 46891689,
-      "title": "Claude Composer",
-      "url": "https://www.josh.ing/blog/claude-composer",
-      "score": 44,
-      "by": "coloneltcb",
-      "time": 1770238769,
-      "comments": 22,
-      "domain": "josh.ing"
-    },
-    {
-      "id": 46870514,
-      "title": "Learning from context is harder than we thought",
-      "url": "https://hy.tencent.com/research/100025?langVersion=en",
-      "score": 95,
-      "by": "limoce",
-      "time": 1770124057,
-      "comments": 41,
-      "domain": "hy.tencent.com"
-    },
-    {
-      "id": 46915102,
-      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
-      "url": "https://infisical.com/blog/devops-to-solutions-engineering",
-      "score": 49,
-      "by": "vmatsiiako",
-      "time": 1770396347,
-      "comments": 14,
-      "domain": "infisical.com"
-    },
-    {
-      "id": 46918727,
-      "title": "Early Christian Writings",
-      "url": "https://earlychristianwritings.com/",
-      "score": 6,
-      "by": "dsego",
-      "time": 1770415246,
-      "comments": 0,
-      "domain": "earlychristianwritings.com"
-    },
-    {
-      "id": 46871654,
-      "title": "Understanding Neural Network, Visually",
-      "url": "https://visualrambling.space/neural-network/",
-      "score": 185,
-      "by": "surprisetalk",
-      "time": 1770130151,
-      "comments": 24,
-      "domain": "visualrambling.space"
-    },
-    {
-      "id": 46913903,
-      "title": "An Update on Heroku",
-      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 200,
-      "by": "lstoll",
-      "time": 1770391223,
-      "comments": 158,
-      "domain": "heroku.com"
     },
     {
       "id": 46918824,
       "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
       "url": "https://github.com/phreda4/r3",
-      "score": 4,
+      "score": 9,
       "by": "phreda4",
       "time": 1770415813,
       "comments": 0,
       "domain": "github.com"
     },
     {
+      "id": 46914159,
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "url": "https://www.sheldonbrown.com/",
+      "score": 242,
+      "by": "ostacke",
+      "time": 1770392442,
+      "comments": 59,
+      "domain": "sheldonbrown.com"
+    },
+    {
+      "id": 46915102,
+      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+      "url": "https://infisical.com/blog/devops-to-solutions-engineering",
+      "score": 54,
+      "by": "vmatsiiako",
+      "time": 1770396347,
+      "comments": 15,
+      "domain": "infisical.com"
+    },
+    {
+      "id": 46870514,
+      "title": "Learning from context is harder than we thought",
+      "url": "https://hy.tencent.com/research/100025?langVersion=en",
+      "score": 96,
+      "by": "limoce",
+      "time": 1770124057,
+      "comments": 43,
+      "domain": "hy.tencent.com"
+    },
+    {
+      "id": 46891689,
+      "title": "Claude Composer",
+      "url": "https://www.josh.ing/blog/claude-composer",
+      "score": 57,
+      "by": "coloneltcb",
+      "time": 1770238769,
+      "comments": 34,
+      "domain": "josh.ing"
+    },
+    {
+      "id": 46918727,
+      "title": "Early Christian Writings",
+      "url": "https://earlychristianwritings.com/",
+      "score": 28,
+      "by": "dsego",
+      "time": 1770415246,
+      "comments": 1,
+      "domain": "earlychristianwritings.com"
+    },
+    {
+      "id": 46916586,
+      "title": "How to effectively write quality code with AI",
+      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "score": 108,
+      "by": "i5heu",
+      "time": 1770403799,
+      "comments": 84,
+      "domain": "heidenstedt.org"
+    },
+    {
+      "id": 46871654,
+      "title": "Understanding Neural Network, Visually",
+      "url": "https://visualrambling.space/neural-network/",
+      "score": 190,
+      "by": "surprisetalk",
+      "time": 1770130151,
+      "comments": 24,
+      "domain": "visualrambling.space"
+    },
+    {
+      "id": 46913285,
+      "title": "How virtual textures work",
+      "url": "https://www.shlom.dev/articles/how-virtual-textures-really-work/",
+      "score": 8,
+      "by": "betamark",
+      "time": 1770388325,
+      "comments": 0,
+      "domain": "shlom.dev"
+    },
+    {
+      "id": 46918254,
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "url": "https://github.com/pydantic/monty",
+      "score": 7,
+      "by": "dmpetrov",
+      "time": 1770412596,
+      "comments": 3,
+      "domain": "github.com"
+    },
+    {
+      "id": 46913903,
+      "title": "An Update on Heroku",
+      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "score": 216,
+      "by": "lstoll",
+      "time": 1770391223,
+      "comments": 166,
+      "domain": "heroku.com"
+    },
+    {
+      "id": 46902374,
+      "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+      "url": "https://red.anthropic.com/2026/zero-days/",
+      "score": 7,
+      "by": "lebovic",
+      "time": 1770313837,
+      "comments": 1,
+      "domain": "red.anthropic.com"
+    },
+    {
       "id": 46911901,
       "title": "I now assume that all ads on Apple news are scams",
       "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 867,
+      "score": 876,
       "by": "cdrnsf",
       "time": 1770380203,
-      "comments": 378,
+      "comments": 380,
       "domain": "kirkville.com"
+    },
+    {
+      "id": 46901233,
+      "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
+      "url": "https://docs.smooth.sh/cli/overview",
+      "score": 62,
+      "by": "antves",
+      "time": 1770308013,
+      "comments": 49,
+      "domain": "docs.smooth.sh"
+    },
+    {
+      "id": 46916609,
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "url": "https://eljojo.github.io/rememory/",
+      "score": 84,
+      "by": "eljojo",
+      "time": 1770403918,
+      "comments": 83,
+      "domain": "eljojo.github.io"
+    },
+    {
+      "id": 46912800,
+      "title": "Hackers (1995) Animated Experience",
+      "url": "https://hackers-1995.vercel.app/",
+      "score": 318,
+      "by": "todsacerdoti",
+      "time": 1770385795,
+      "comments": 179,
+      "domain": "hackers-1995.vercel.app"
+    },
+    {
+      "id": 46905745,
+      "title": "Show HN: Slack CLI for Agents",
+      "url": "https://github.com/stablyai/agent-slack",
+      "score": 7,
+      "by": "nwparker",
+      "time": 1770327531,
+      "comments": 3,
+      "domain": "github.com"
+    },
+    {
+      "id": 46907651,
+      "title": "Show HN: Horizons – OSS agent execution engine",
+      "url": "https://github.com/synth-laboratories/Horizons",
+      "score": 10,
+      "by": "JoshPurtell",
+      "time": 1770339511,
+      "comments": 3,
+      "domain": "github.com"
     },
     {
       "id": 46917477,
@@ -162,144 +242,54 @@
       "domain": "depthfirst.com"
     },
     {
+      "id": 46910009,
+      "title": "The mystery of the mole playing rough (2019) [video]",
+      "url": "https://www.youtube.com/watch?v=nwQmwT1ULMU",
+      "score": 4,
+      "by": "archagon",
+      "time": 1770361958,
+      "comments": 0,
+      "domain": "youtube.com"
+    },
+    {
+      "id": 46912682,
+      "title": "Show HN: Gigacode – Use OpenCode's UI with Claude Code/Codex/Amp",
+      "url": "https://github.com/rivet-dev/sandbox-agent/tree/main/gigacode",
+      "score": 5,
+      "by": "NathanFlurry",
+      "time": 1770385098,
+      "comments": 4,
+      "domain": "github.com"
+    },
+    {
+      "id": 46912843,
+      "title": "FORTH? Really!?",
+      "url": "https://rescrv.net/w/2026/02/06/associative",
+      "score": 5,
+      "by": "rescrv",
+      "time": 1770386049,
+      "comments": 1,
+      "domain": "rescrv.net"
+    },
+    {
       "id": 46915427,
       "title": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
       "url": "https://www.biotradingarena.com/hn",
       "score": 20,
       "by": "dchu17",
       "time": 1770397912,
-      "comments": 5,
+      "comments": 9,
       "domain": "biotradingarena.com"
     },
     {
-      "id": 46916609,
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "url": "https://eljojo.github.io/rememory/",
-      "score": 80,
-      "by": "eljojo",
-      "time": 1770403918,
-      "comments": 76,
-      "domain": "eljojo.github.io"
-    },
-    {
-      "id": 46912800,
-      "title": "Hackers (1995) Animated Experience",
-      "url": "https://hackers-1995.vercel.app/",
-      "score": 312,
-      "by": "todsacerdoti",
-      "time": 1770385795,
-      "comments": 175,
-      "domain": "hackers-1995.vercel.app"
-    },
-    {
-      "id": 46901233,
-      "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
-      "url": "https://docs.smooth.sh/cli/overview",
-      "score": 59,
-      "by": "antves",
-      "time": 1770308013,
-      "comments": 49,
-      "domain": "docs.smooth.sh"
-    },
-    {
-      "id": 46868435,
-      "title": "Planetary Roller Screws",
-      "url": "https://www.humanityslastmachine.com/#planetary-roller-screws",
-      "score": 17,
-      "by": "everlier",
-      "time": 1770109199,
-      "comments": 3,
-      "domain": "humanityslastmachine.com"
-    },
-    {
-      "id": 46918300,
-      "title": "Oregon raised spending by 80%, math scores dropped",
-      "url": "https://www.educationnext.org/hard-lessons-from-new-naep-results/",
-      "score": 34,
-      "by": "grantpitt",
-      "time": 1770412824,
-      "comments": 29,
-      "domain": "educationnext.org"
-    },
-    {
-      "id": 46910963,
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "score": 481,
-      "by": "giuliomagnifico",
-      "time": 1770371815,
-      "comments": 200,
-      "domain": "niemanlab.org"
-    },
-    {
-      "id": 46909468,
-      "title": "Things Unix can do atomically (2010)",
-      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-      "score": 239,
-      "by": "onurkanbkrc",
-      "time": 1770355795,
-      "comments": 89,
-      "domain": "rcrowley.org"
-    },
-    {
-      "id": 46911869,
-      "title": "TikTok's 'addictive design' found to be illegal in Europe",
-      "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 564,
-      "by": "thm",
-      "time": 1770379908,
-      "comments": 413,
-      "domain": "nytimes.com"
-    },
-    {
-      "id": 46914094,
-      "title": "NIMBYs aren't just shutting down housing",
-      "url": "https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing",
-      "score": 119,
-      "by": "toomuchtodo",
-      "time": 1770392085,
-      "comments": 257,
-      "domain": "inpractice.yimbyaction.org"
-    },
-    {
-      "id": 46909439,
-      "title": "Systems Thinking",
-      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-      "score": 250,
-      "by": "r4um",
-      "time": 1770355476,
-      "comments": 114,
-      "domain": "theprogrammersparadox.blogspot.com"
-    },
-    {
-      "id": 46860623,
-      "title": "The Monad Called Free",
-      "url": "http://blog.sigfpe.com/2014/04/the-monad-called-free.html",
-      "score": 53,
-      "by": "romes",
-      "time": 1770062546,
-      "comments": 28,
-      "domain": "blog.sigfpe.com"
-    },
-    {
-      "id": 46911170,
-      "title": "Invention of DNA \"page numbers\" opens up possibilities for the bioeconomy",
-      "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-      "score": 133,
-      "by": "dagurp",
-      "time": 1770373576,
-      "comments": 89,
-      "domain": "caltech.edu"
-    },
-    {
-      "id": 46868803,
-      "title": "DNS Explained – How Domain Names Get Resolved",
-      "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
-      "score": 126,
-      "by": "okchildhood",
-      "time": 1770111816,
-      "comments": 41,
-      "domain": "bhusalmanish.com.np"
+      "id": 46868135,
+      "title": "The Beauty of Slag",
+      "url": "https://mag.uchicago.edu/science-medicine/beauty-slag",
+      "score": 4,
+      "by": "sohkamyung",
+      "time": 1770107003,
+      "comments": 0,
+      "domain": "mag.uchicago.edu"
     }
   ]
 }
