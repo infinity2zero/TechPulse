@@ -1,15 +1,25 @@
 {
-  "lastUpdated": "2026-02-07T21:41:34.398Z",
+  "lastUpdated": "2026-02-07T21:57:12.225Z",
   "items": [
     {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes",
       "url": "https://xorvoid.com/sectorc.html",
-      "score": 81,
+      "score": 95,
       "by": "valyala",
       "time": 1770485993,
       "comments": 16,
       "domain": "xorvoid.com"
+    },
+    {
+      "id": 46887084,
+      "title": "The F Word",
+      "url": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
+      "score": 40,
+      "by": "zdw",
+      "time": 1770219277,
+      "comments": 7,
+      "domain": "muratbuffalo.blogspot.com"
     },
     {
       "id": 46926576,
@@ -18,68 +28,48 @@
       "score": 23,
       "by": "gnufx",
       "time": 1770491247,
-      "comments": 15,
+      "comments": 19,
       "domain": "hpcwire.com"
-    },
-    {
-      "id": 46887084,
-      "title": "The F Word",
-      "url": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
-      "score": 34,
-      "by": "zdw",
-      "time": 1770219277,
-      "comments": 4,
-      "domain": "muratbuffalo.blogspot.com"
-    },
-    {
-      "id": 46924426,
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "score": 86,
-      "by": "mellosouls",
-      "time": 1770476756,
-      "comments": 164,
-      "domain": "factory.strongdm.ai"
-    },
-    {
-      "id": 46925808,
-      "title": "I write games in C (yes, C)",
-      "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
-      "score": 129,
-      "by": "valyala",
-      "time": 1770486325,
-      "comments": 98,
-      "domain": "jonathanwhiting.com"
     },
     {
       "id": 46926043,
       "title": "Speed up responses with fast mode",
       "url": "https://code.claude.com/docs/en/fast-mode",
-      "score": 45,
+      "score": 53,
       "by": "surprisetalk",
       "time": 1770487703,
-      "comments": 51,
+      "comments": 54,
       "domain": "code.claude.com"
     },
     {
-      "id": 46923254,
-      "title": "Hoot: Scheme on WebAssembly",
-      "url": "https://www.spritely.institute/hoot/",
-      "score": 142,
-      "by": "AlexeyBrin",
-      "time": 1770466700,
-      "comments": 26,
-      "domain": "spritely.institute"
+      "id": 46924426,
+      "title": "Software factories and the agentic moment",
+      "url": "https://factory.strongdm.ai/",
+      "score": 95,
+      "by": "mellosouls",
+      "time": 1770476756,
+      "comments": 172,
+      "domain": "factory.strongdm.ai"
     },
     {
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 95,
+      "score": 99,
       "by": "vinhnx",
       "time": 1770475336,
       "comments": 13,
       "domain": "susam.net"
+    },
+    {
+      "id": 46923254,
+      "title": "Hoot: Scheme on WebAssembly",
+      "url": "https://www.spritely.institute/hoot/",
+      "score": 143,
+      "by": "AlexeyBrin",
+      "time": 1770466700,
+      "comments": 26,
+      "domain": "spritely.institute"
     },
     {
       "id": 46918612,
@@ -88,14 +78,34 @@
       "score": 850,
       "by": "klaussilveira",
       "time": 1770414683,
-      "comments": 256,
+      "comments": 258,
       "domain": "openciv3.org"
+    },
+    {
+      "id": 46925808,
+      "title": "I write games in C (yes, C)",
+      "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
+      "score": 137,
+      "by": "valyala",
+      "time": 1770486325,
+      "comments": 108,
+      "domain": "jonathanwhiting.com"
+    },
+    {
+      "id": 46884412,
+      "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+      "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
+      "score": 6,
+      "by": "mbitsnbites",
+      "time": 1770203613,
+      "comments": 0,
+      "domain": "bitsnbites.eu"
     },
     {
       "id": 46924591,
       "title": "First Proof",
       "url": "https://arxiv.org/abs/2602.05192",
-      "score": 66,
+      "score": 68,
       "by": "samasblack",
       "time": 1770477949,
       "comments": 51,
@@ -105,7 +115,7 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1090,
+      "score": 1093,
       "by": "xnx",
       "time": 1770394842,
       "comments": 618,
@@ -115,27 +125,17 @@
       "id": 46924790,
       "title": "Al Lowe on model trains, funny deaths and working with Disney",
       "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-      "score": 62,
+      "score": 64,
       "by": "thelok",
       "time": 1770479562,
-      "comments": 9,
+      "comments": 10,
       "domain": "spillhistorie.no"
-    },
-    {
-      "id": 46923463,
-      "title": "Reinforcement Learning from Human Feedback",
-      "url": "https://rlhfbook.com/",
-      "score": 93,
-      "by": "onurkanbkrc",
-      "time": 1770468819,
-      "comments": 5,
-      "domain": "rlhfbook.com"
     },
     {
       "id": 46922049,
       "title": "Vocal Guide – belt sing without killing yourself",
       "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 229,
+      "score": 235,
       "by": "jesperordrup",
       "time": 1770449823,
       "comments": 80,
@@ -145,21 +145,21 @@
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 515,
+      "score": 519,
       "by": "theblazehen",
       "time": 1770235152,
-      "comments": 190,
+      "comments": 191,
       "domain": "rhodesmill.org"
     },
     {
-      "id": 46926245,
-      "title": "We mourn our craft",
-      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 331,
-      "by": "ColinWright",
-      "time": 1770489147,
-      "comments": 390,
-      "domain": "nolanlawson.com"
+      "id": 46923463,
+      "title": "Reinforcement Learning from Human Feedback",
+      "url": "https://rlhfbook.com/",
+      "score": 94,
+      "by": "onurkanbkrc",
+      "time": 1770468819,
+      "comments": 5,
+      "domain": "rlhfbook.com"
     },
     {
       "id": 46878942,
@@ -172,44 +172,64 @@
       "domain": "voratiq.com"
     },
     {
-      "id": 46884412,
-      "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
-      "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
-      "score": 3,
-      "by": "mbitsnbites",
-      "time": 1770203613,
-      "comments": 0,
-      "domain": "bitsnbites.eu"
+      "id": 46925811,
+      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
+      "url": "https://github.com/Momciloo/fun-with-clip-path",
+      "score": 30,
+      "by": "momciloo",
+      "time": 1770486327,
+      "comments": 5,
+      "domain": "github.com"
     },
     {
       "id": 46923543,
       "title": "Coding agents have replaced every framework I used",
       "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 253,
+      "score": 255,
       "by": "alainrk",
       "time": 1770469629,
-      "comments": 409,
+      "comments": 423,
       "domain": "blog.alaindichiappari.dev"
     },
     {
       "id": 46922969,
       "title": "The AI boom is causing shortages everywhere else",
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 181,
+      "score": 185,
       "by": "1vuio0pswjnm7",
       "time": 1770463289,
-      "comments": 250,
+      "comments": 261,
       "domain": "washingtonpost.com"
+    },
+    {
+      "id": 46873322,
+      "title": "A Fresh Look at IBM 3270 Information Display System",
+      "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
+      "score": 48,
+      "by": "rbanffy",
+      "time": 1770136852,
+      "comments": 9,
+      "domain": "rs-online.com"
     },
     {
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "url": "https://github.com/suitenumerique",
-      "score": 609,
+      "score": 614,
       "by": "nar001",
       "time": 1770471274,
-      "comments": 269,
+      "comments": 271,
       "domain": "github.com"
+    },
+    {
+      "id": 46926245,
+      "title": "We mourn our craft",
+      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
+      "score": 344,
+      "by": "ColinWright",
+      "time": 1770489147,
+      "comments": 410,
+      "domain": "nolanlawson.com"
     },
     {
       "id": 46858042,
@@ -222,44 +242,34 @@
       "domain": "tech.marksblogg.com"
     },
     {
-      "id": 46925811,
-      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
-      "url": "https://github.com/Momciloo/fun-with-clip-path",
-      "score": 26,
-      "by": "momciloo",
-      "time": 1770486327,
-      "comments": 5,
-      "domain": "github.com"
-    },
-    {
-      "id": 46873322,
-      "title": "A Fresh Look at IBM 3270 Information Display System",
-      "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
-      "score": 47,
-      "by": "rbanffy",
-      "time": 1770136852,
-      "comments": 9,
-      "domain": "rs-online.com"
-    },
-    {
       "id": 46868343,
       "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
       "score": 124,
       "by": "videotopia",
       "time": 1770108580,
-      "comments": 37,
+      "comments": 39,
       "domain": "arcadeblogger.com"
     },
     {
       "id": 46870694,
       "title": "Where did all the starships go?",
       "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-      "score": 95,
+      "score": 98,
       "by": "speckx",
       "time": 1770125228,
-      "comments": 103,
+      "comments": 113,
       "domain": "datawrapper.de"
+    },
+    {
+      "id": 46870514,
+      "title": "Learning from context is harder than we thought",
+      "url": "https://hy.tencent.com/research/100025?langVersion=en",
+      "score": 211,
+      "by": "limoce",
+      "time": 1770124057,
+      "comments": 119,
+      "domain": "hy.tencent.com"
     },
     {
       "id": 46850653,
@@ -272,14 +282,14 @@
       "domain": "web.archive.org"
     },
     {
-      "id": 46870514,
-      "title": "Learning from context is harder than we thought",
-      "url": "https://hy.tencent.com/research/100025?langVersion=en",
-      "score": 210,
-      "by": "limoce",
-      "time": 1770124057,
-      "comments": 117,
-      "domain": "hy.tencent.com"
+      "id": 46918429,
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "url": "https://github.com/valdanylchuk/breezydemo",
+      "score": 287,
+      "by": "isitcontent",
+      "time": 1770413591,
+      "comments": 38,
+      "domain": "github.com"
     },
     {
       "id": 46896105,
@@ -289,16 +299,6 @@
       "by": "sandGorgon",
       "time": 1770270091,
       "comments": 15,
-      "domain": "github.com"
-    },
-    {
-      "id": 46918429,
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 286,
-      "by": "isitcontent",
-      "time": 1770413591,
-      "comments": 38,
       "domain": "github.com"
     }
   ]
