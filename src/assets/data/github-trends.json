@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-07T23:15:31.220Z",
+  "lastUpdated": "2026-02-07T23:49:28.222Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 12260,
+      "stars": 12278,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-07T23:15:07Z"
+      "updated_at": "2026-02-07T23:43:50Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1542,
+      "stars": 1552,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-07T23:09:31Z"
+      "updated_at": "2026-02-07T23:49:00Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1534,
+      "stars": 1535,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-07T22:47:10Z"
+      "updated_at": "2026-02-07T23:32:12Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1436,
+      "stars": 1442,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-07T23:14:24Z"
+      "updated_at": "2026-02-07T23:48:55Z"
     },
     {
       "id": 1147210886,
@@ -70,14 +70,14 @@
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 842,
+      "stars": 850,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-07T23:11:42Z"
+      "updated_at": "2026-02-07T23:37:51Z"
     },
     {
       "id": 1147992203,
@@ -96,105 +96,105 @@
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 675,
+      "stars": 677,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-07T23:04:12Z"
+      "updated_at": "2026-02-07T23:30:32Z"
     },
     {
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 592,
+      "stars": 593,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-07T23:00:01Z"
+      "updated_at": "2026-02-07T23:35:12Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 560,
+      "stars": 564,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-07T23:14:47Z"
+      "updated_at": "2026-02-07T23:41:59Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 547,
+      "stars": 548,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-07T22:58:04Z"
+      "updated_at": "2026-02-07T23:48:32Z"
     },
     {
       "id": 1146981739,
       "name": "ygwyg/MAHORAGA",
       "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
-      "stars": 475,
+      "stars": 474,
       "language": "TypeScript",
       "url": "https://github.com/ygwyg/MAHORAGA",
       "owner": {
         "login": "ygwyg",
         "avatar_url": "https://avatars.githubusercontent.com/u/167489839?v=4"
       },
-      "updated_at": "2026-02-07T21:21:16Z"
+      "updated_at": "2026-02-07T23:17:31Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 454,
+      "stars": 456,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-07T22:50:45Z"
+      "updated_at": "2026-02-07T23:32:31Z"
     },
     {
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 426,
+      "stars": 428,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-07T22:48:29Z"
+      "updated_at": "2026-02-07T23:39:40Z"
     },
     {
       "id": 1147761848,
       "name": "BehiSecc/VibeSec-Skill",
       "description": "This skill helps Claude write secure code and prevent common vulnerabilities.",
-      "stars": 392,
+      "stars": 394,
       "language": null,
       "url": "https://github.com/BehiSecc/VibeSec-Skill",
       "owner": {
         "login": "BehiSecc",
         "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
       },
-      "updated_at": "2026-02-07T22:19:26Z"
+      "updated_at": "2026-02-07T23:35:49Z"
     },
     {
       "id": 1148459032,
@@ -226,40 +226,40 @@
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 357,
+      "stars": 358,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-07T22:49:04Z"
+      "updated_at": "2026-02-07T23:28:17Z"
     },
     {
       "id": 1147528415,
       "name": "rebane2001/xikipedia",
       "description": "Wikipedia as a social media feed",
-      "stars": 351,
+      "stars": 354,
       "language": "HTML",
       "url": "https://github.com/rebane2001/xikipedia",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-07T22:58:19Z"
+      "updated_at": "2026-02-07T23:37:03Z"
     },
     {
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 351,
+      "stars": 352,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-07T20:18:26Z"
+      "updated_at": "2026-02-07T23:27:54Z"
     }
   ]
 }
