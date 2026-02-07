@@ -1,135 +1,215 @@
 {
-  "lastUpdated": "2026-02-07T15:18:32.661Z",
+  "lastUpdated": "2026-02-07T15:44:14.976Z",
   "items": [
     {
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "url": "https://github.com/suitenumerique",
-      "score": 118,
+      "score": 174,
       "by": "nar001",
       "time": 1770471274,
-      "comments": 56,
+      "comments": 94,
       "domain": "github.com"
     },
     {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 350,
+      "score": 367,
       "by": "theblazehen",
       "time": 1770235152,
-      "comments": 119,
+      "comments": 127,
       "domain": "rhodesmill.org"
     },
     {
       "id": 46923254,
       "title": "Hoot: Scheme on WebAssembly",
       "url": "https://www.spritely.institute/hoot/",
-      "score": 51,
+      "score": 62,
       "by": "AlexeyBrin",
       "time": 1770466700,
-      "comments": 11,
+      "comments": 12,
       "domain": "spritely.institute"
-    },
-    {
-      "id": 46918612,
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "url": "https://openciv3.org/",
-      "score": 737,
-      "by": "klaussilveira",
-      "time": 1770414683,
-      "comments": 232,
-      "domain": "openciv3.org"
     },
     {
       "id": 46923463,
       "title": "Reinforcement Learning from Human Feedback",
       "url": "https://arxiv.org/abs/2504.12501",
-      "score": 30,
+      "score": 37,
       "by": "onurkanbkrc",
       "time": 1770468819,
       "comments": 2,
       "domain": "arxiv.org"
     },
     {
+      "id": 46918612,
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "url": "https://openciv3.org/",
+      "score": 745,
+      "by": "klaussilveira",
+      "time": 1770414683,
+      "comments": 233,
+      "domain": "openciv3.org"
+    },
+    {
+      "id": 46924591,
+      "title": "First Proof",
+      "url": "https://arxiv.org/abs/2602.05192",
+      "score": 3,
+      "by": "samasblack",
+      "time": 1770477949,
+      "comments": 1,
+      "domain": "arxiv.org"
+    },
+    {
       "id": 46914785,
       "title": "The Waymo World Model",
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 991,
+      "score": 997,
       "by": "xnx",
       "time": 1770394842,
-      "comments": 563,
+      "comments": 568,
       "domain": "waymo.com"
     },
     {
       "id": 46923543,
       "title": "Coding agents have replaced every framework I used",
       "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 80,
+      "score": 101,
       "by": "alainrk",
       "time": 1770469629,
-      "comments": 76,
+      "comments": 98,
       "domain": "blog.alaindichiappari.dev"
+    },
+    {
+      "id": 46924371,
+      "title": "Show HN: One-click AI employee with its own cloud desktop",
+      "url": "https://cloudbot-ai.com",
+      "score": 4,
+      "by": "fainir",
+      "time": 1770476290,
+      "comments": 0,
+      "domain": "cloudbot-ai.com"
     },
     {
       "id": 46922049,
       "title": "Vocal Guide – belt sing without killing yourself",
       "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 118,
+      "score": 130,
       "by": "jesperordrup",
       "time": 1770449823,
-      "comments": 54,
+      "comments": 55,
       "domain": "jesperordrup.github.io"
+    },
+    {
+      "id": 46924264,
+      "title": "Stories from 25 Years of Software Development",
+      "url": "https://susam.net/twenty-five-years-of-computing.html",
+      "score": 4,
+      "by": "vinhnx",
+      "time": 1770475336,
+      "comments": 0,
+      "domain": "susam.net"
     },
     {
       "id": 46868343,
       "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 84,
+      "score": 90,
       "by": "videotopia",
       "time": 1770108580,
-      "comments": 17,
+      "comments": 19,
       "domain": "arcadeblogger.com"
+    },
+    {
+      "id": 46872319,
+      "title": "Ga68, a GNU Algol 68 Compiler",
+      "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
+      "score": 30,
+      "by": "matt_d",
+      "time": 1770133104,
+      "comments": 6,
+      "domain": "fosdem.org"
     },
     {
       "id": 46898473,
       "title": "Making geo joins faster with H3 indexes",
       "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-      "score": 144,
+      "score": 146,
       "by": "matheusalmeida",
       "time": 1770290380,
       "comments": 39,
       "domain": "floedb.ai"
     },
     {
-      "id": 46872319,
-      "title": "Ga68, a GNU Algol 68 Compiler",
-      "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
-      "score": 25,
-      "by": "matt_d",
-      "time": 1770133104,
-      "comments": 5,
-      "domain": "fosdem.org"
+      "id": 46873322,
+      "title": "A Fresh Look at IBM 3270 Information Display System",
+      "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
+      "score": 6,
+      "by": "rbanffy",
+      "time": 1770136852,
+      "comments": 0,
+      "domain": "rs-online.com"
     },
     {
       "id": 46918429,
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 249,
+      "score": 251,
       "by": "isitcontent",
       "time": 1770413591,
       "comments": 27,
       "domain": "github.com"
     },
     {
+      "id": 46896105,
+      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+      "url": "https://github.com/sandys/kappal",
+      "score": 9,
+      "by": "sandGorgon",
+      "time": 1770270091,
+      "comments": 2,
+      "domain": "github.com"
+    },
+    {
       "id": 46918254,
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
-      "score": 259,
+      "score": 265,
       "by": "dmpetrov",
       "time": 1770412596,
-      "comments": 136,
+      "comments": 143,
       "domain": "github.com"
+    },
+    {
+      "id": 46912800,
+      "title": "Hackers (1995) Animated Experience",
+      "url": "https://hackers-1995.vercel.app/",
+      "score": 527,
+      "by": "todsacerdoti",
+      "time": 1770385795,
+      "comments": 255,
+      "domain": "hackers-1995.vercel.app"
+    },
+    {
+      "id": 46914159,
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "url": "https://www.sheldonbrown.com/",
+      "score": 406,
+      "by": "ostacke",
+      "time": 1770392442,
+      "comments": 105,
+      "domain": "sheldonbrown.com"
+    },
+    {
+      "id": 46917033,
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "url": "https://vecti.com",
+      "score": 351,
+      "by": "vecti",
+      "time": 1770406057,
+      "comments": 159,
+      "domain": "vecti.com"
     },
     {
       "id": 46868787,
@@ -142,63 +222,23 @@
       "domain": "medium.com"
     },
     {
-      "id": 46896105,
-      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-      "url": "https://github.com/sandys/kappal",
-      "score": 7,
-      "by": "sandGorgon",
-      "time": 1770270091,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 46917033,
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "url": "https://vecti.com",
-      "score": 350,
-      "by": "vecti",
-      "time": 1770406057,
-      "comments": 157,
-      "domain": "vecti.com"
-    },
-    {
-      "id": 46912800,
-      "title": "Hackers (1995) Animated Experience",
-      "url": "https://hackers-1995.vercel.app/",
-      "score": 520,
-      "by": "todsacerdoti",
-      "time": 1770385795,
-      "comments": 253,
-      "domain": "hackers-1995.vercel.app"
-    },
-    {
-      "id": 46914159,
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "url": "https://www.sheldonbrown.com/",
-      "score": 400,
-      "by": "ostacke",
-      "time": 1770392442,
-      "comments": 104,
-      "domain": "sheldonbrown.com"
-    },
-    {
       "id": 46916609,
       "title": "Show HN: If you lose your memory, how to regain access to your computer?",
       "url": "https://eljojo.github.io/rememory/",
-      "score": 317,
+      "score": 321,
       "by": "eljojo",
       "time": 1770403918,
-      "comments": 196,
+      "comments": 197,
       "domain": "eljojo.github.io"
     },
     {
       "id": 46867361,
       "title": "What Is Ruliology?",
       "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "score": 52,
+      "score": 54,
       "by": "helloplanets",
       "time": 1770100840,
-      "comments": 51,
+      "comments": 53,
       "domain": "writings.stephenwolfram.com"
     },
     {
@@ -208,98 +248,58 @@
       "score": 365,
       "by": "aktau",
       "time": 1770390784,
-      "comments": 189,
+      "comments": 190,
       "domain": "github.com"
     },
     {
       "id": 46913903,
       "title": "An Update on Heroku",
       "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 445,
+      "score": 446,
       "by": "lstoll",
       "time": 1770391223,
-      "comments": 293,
+      "comments": 295,
       "domain": "heroku.com"
     },
     {
-      "id": 46857453,
-      "title": "Dark Alley Mathematics",
-      "url": "https://blog.szczepan.org/blog/three-points/",
-      "score": 99,
-      "by": "quibono",
-      "time": 1770047893,
-      "comments": 26,
-      "domain": "blog.szczepan.org"
-    },
-    {
-      "id": 46854386,
-      "title": "PC Floppy Copy Protection: Vault Prolok",
-      "url": "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html",
-      "score": 79,
-      "by": "kmm",
-      "time": 1770027688,
-      "comments": 12,
-      "domain": "martypc.blogspot.com"
+      "id": 46923520,
+      "title": "Reputation Scores for GitHub Accounts",
+      "url": "https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/",
+      "score": 4,
+      "by": "edent",
+      "time": 1770469404,
+      "comments": 0,
+      "domain": "shkspr.mobi"
     },
     {
       "id": 46916586,
       "title": "How to effectively write quality code with AI",
       "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "score": 287,
+      "score": 290,
       "by": "i5heu",
       "time": 1770403799,
-      "comments": 241,
+      "comments": 246,
       "domain": "heidenstedt.org"
+    },
+    {
+      "id": 46857453,
+      "title": "Dark Alley Mathematics",
+      "url": "https://blog.szczepan.org/blog/three-points/",
+      "score": 103,
+      "by": "quibono",
+      "time": 1770047893,
+      "comments": 29,
+      "domain": "blog.szczepan.org"
     },
     {
       "id": 46920773,
       "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
       "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
-      "score": 48,
+      "score": 50,
       "by": "gmays",
       "time": 1770431749,
-      "comments": 21,
+      "comments": 22,
       "domain": "si.edu"
-    },
-    {
-      "id": 46877820,
-      "title": "Was Benoit Mandelbrot a hedgehog or a fox?",
-      "url": "https://arxiv.org/abs/2602.01122",
-      "score": 26,
-      "by": "bikenaga",
-      "time": 1770155438,
-      "comments": 15,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 46911901,
-      "title": "I now assume that all ads on Apple news are scams",
-      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 1099,
-      "by": "cdrnsf",
-      "time": 1770380203,
-      "comments": 482,
-      "domain": "kirkville.com"
-    },
-    {
-      "id": 46915102,
-      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
-      "url": "https://infisical.com/blog/devops-to-solutions-engineering",
-      "score": 162,
-      "by": "vmatsiiako",
-      "time": 1770396347,
-      "comments": 74,
-      "domain": "infisical.com"
-    },
-    {
-      "id": 46919824,
-      "title": "Introducing the Developer Knowledge API and MCP Server",
-      "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
-      "score": 70,
-      "by": "gfortaine",
-      "time": 1770422333,
-      "comments": 29,
-      "domain": "developers.googleblog.com"
     }
   ]
 }
