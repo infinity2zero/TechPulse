@@ -1,165 +1,175 @@
 {
-  "lastUpdated": "2026-02-07T16:58:58.009Z",
+  "lastUpdated": "2026-02-07T17:27:28.783Z",
   "items": [
     {
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "url": "https://github.com/suitenumerique",
-      "score": 334,
+      "score": 395,
       "by": "nar001",
       "time": 1770471274,
-      "comments": 166,
+      "comments": 188,
       "domain": "github.com"
     },
     {
       "id": 46924813,
       "title": "British drivers over 70 to face eye tests every three years",
       "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
-      "score": 76,
+      "score": 117,
       "by": "bookofjoe",
       "time": 1770479754,
-      "comments": 66,
+      "comments": 90,
       "domain": "bbc.com"
     },
     {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 406,
+      "score": 425,
       "by": "theblazehen",
       "time": 1770235152,
-      "comments": 149,
+      "comments": 152,
       "domain": "rhodesmill.org"
-    },
-    {
-      "id": 46923254,
-      "title": "Hoot: Scheme on WebAssembly",
-      "url": "https://www.spritely.institute/hoot/",
-      "score": 75,
-      "by": "AlexeyBrin",
-      "time": 1770466700,
-      "comments": 14,
-      "domain": "spritely.institute"
-    },
-    {
-      "id": 46924591,
-      "title": "First Proof",
-      "url": "https://arxiv.org/abs/2602.05192",
-      "score": 27,
-      "by": "samasblack",
-      "time": 1770477949,
-      "comments": 17,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 46918612,
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "url": "https://openciv3.org/",
-      "score": 763,
-      "by": "klaussilveira",
-      "time": 1770414683,
-      "comments": 239,
-      "domain": "openciv3.org"
-    },
-    {
-      "id": 46923463,
-      "title": "Reinforcement Learning from Human Feedback",
-      "url": "https://arxiv.org/abs/2504.12501",
-      "score": 49,
-      "by": "onurkanbkrc",
-      "time": 1770468819,
-      "comments": 3,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 46924264,
-      "title": "Stories from 25 Years of Software Development",
-      "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 23,
-      "by": "vinhnx",
-      "time": 1770475336,
-      "comments": 2,
-      "domain": "susam.net"
-    },
-    {
-      "id": 46914785,
-      "title": "The Waymo World Model",
-      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1015,
-      "by": "xnx",
-      "time": 1770394842,
-      "comments": 579,
-      "domain": "waymo.com"
-    },
-    {
-      "id": 46923543,
-      "title": "Coding agents have replaced every framework I used",
-      "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 150,
-      "by": "alainrk",
-      "time": 1770469629,
-      "comments": 178,
-      "domain": "blog.alaindichiappari.dev"
-    },
-    {
-      "id": 46922049,
-      "title": "Vocal Guide – belt sing without killing yourself",
-      "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 152,
-      "by": "jesperordrup",
-      "time": 1770449823,
-      "comments": 56,
-      "domain": "jesperordrup.github.io"
     },
     {
       "id": 46924790,
       "title": "Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney",
       "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-      "score": 3,
+      "score": 19,
       "by": "thelok",
       "time": 1770479562,
       "comments": 0,
       "domain": "spillhistorie.no"
     },
     {
-      "id": 46858042,
-      "title": "72M Points of Interest",
-      "url": "https://tech.marksblogg.com/overture-places-pois.html",
-      "score": 5,
-      "by": "marklit",
-      "time": 1770050455,
-      "comments": 0,
-      "domain": "tech.marksblogg.com"
+      "id": 46923254,
+      "title": "Hoot: Scheme on WebAssembly",
+      "url": "https://www.spritely.institute/hoot/",
+      "score": 82,
+      "by": "AlexeyBrin",
+      "time": 1770466700,
+      "comments": 15,
+      "domain": "spritely.institute"
+    },
+    {
+      "id": 46924264,
+      "title": "Stories from 25 Years of Software Development",
+      "url": "https://susam.net/twenty-five-years-of-computing.html",
+      "score": 31,
+      "by": "vinhnx",
+      "time": 1770475336,
+      "comments": 4,
+      "domain": "susam.net"
+    },
+    {
+      "id": 46918612,
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "url": "https://openciv3.org/",
+      "score": 776,
+      "by": "klaussilveira",
+      "time": 1770414683,
+      "comments": 240,
+      "domain": "openciv3.org"
+    },
+    {
+      "id": 46924591,
+      "title": "First Proof",
+      "url": "https://arxiv.org/abs/2602.05192",
+      "score": 36,
+      "by": "samasblack",
+      "time": 1770477949,
+      "comments": 21,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 46923463,
+      "title": "Reinforcement Learning from Human Feedback",
+      "url": "https://arxiv.org/abs/2504.12501",
+      "score": 51,
+      "by": "onurkanbkrc",
+      "time": 1770468819,
+      "comments": 3,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 46914785,
+      "title": "The Waymo World Model",
+      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+      "score": 1022,
+      "by": "xnx",
+      "time": 1770394842,
+      "comments": 581,
+      "domain": "waymo.com"
+    },
+    {
+      "id": 46923543,
+      "title": "Coding agents have replaced every framework I used",
+      "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+      "score": 162,
+      "by": "alainrk",
+      "time": 1770469629,
+      "comments": 212,
+      "domain": "blog.alaindichiappari.dev"
     },
     {
       "id": 46924426,
       "title": "Software Factories and the Agentic Moment",
       "url": "https://factory.strongdm.ai/",
-      "score": 8,
+      "score": 13,
       "by": "mellosouls",
       "time": 1770476756,
-      "comments": 4,
+      "comments": 14,
       "domain": "factory.strongdm.ai"
+    },
+    {
+      "id": 46922049,
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "url": "https://jesperordrup.github.io/vocal-guide/",
+      "score": 162,
+      "by": "jesperordrup",
+      "time": 1770449823,
+      "comments": 61,
+      "domain": "jesperordrup.github.io"
     },
     {
       "id": 46873322,
       "title": "A Fresh Look at IBM 3270 Information Display System",
       "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
-      "score": 14,
+      "score": 22,
       "by": "rbanffy",
       "time": 1770136852,
-      "comments": 0,
+      "comments": 3,
       "domain": "rs-online.com"
     },
     {
       "id": 46868343,
       "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 100,
+      "score": 103,
       "by": "videotopia",
       "time": 1770108580,
       "comments": 26,
       "domain": "arcadeblogger.com"
+    },
+    {
+      "id": 46858042,
+      "title": "72M Points of Interest",
+      "url": "https://tech.marksblogg.com/overture-places-pois.html",
+      "score": 11,
+      "by": "marklit",
+      "time": 1770050455,
+      "comments": 0,
+      "domain": "tech.marksblogg.com"
+    },
+    {
+      "id": 46924711,
+      "title": "StrongDM's AI team build serious software without even looking at the code",
+      "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
+      "score": 11,
+      "by": "simonw",
+      "time": 1770478865,
+      "comments": 6,
+      "domain": "simonwillison.net"
     },
     {
       "id": 46898473,
@@ -168,77 +178,77 @@
       "score": 152,
       "by": "matheusalmeida",
       "time": 1770290380,
-      "comments": 40,
+      "comments": 42,
       "domain": "floedb.ai"
     },
     {
       "id": 46918429,
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 260,
+      "score": 262,
       "by": "isitcontent",
       "time": 1770413591,
-      "comments": 29,
-      "domain": "github.com"
-    },
-    {
-      "id": 46896105,
-      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-      "url": "https://github.com/sandys/kappal",
-      "score": 15,
-      "by": "sandGorgon",
-      "time": 1770270091,
-      "comments": 3,
-      "domain": "github.com"
-    },
-    {
-      "id": 46918254,
-      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "url": "https://github.com/pydantic/monty",
-      "score": 273,
-      "by": "dmpetrov",
-      "time": 1770412596,
-      "comments": 145,
+      "comments": 33,
       "domain": "github.com"
     },
     {
       "id": 46872319,
       "title": "Ga68, a GNU Algol 68 Compiler",
       "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
-      "score": 32,
+      "score": 35,
       "by": "matt_d",
       "time": 1770133104,
-      "comments": 8,
+      "comments": 9,
       "domain": "fosdem.org"
+    },
+    {
+      "id": 46918254,
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "url": "https://github.com/pydantic/monty",
+      "score": 276,
+      "by": "dmpetrov",
+      "time": 1770412596,
+      "comments": 146,
+      "domain": "github.com"
+    },
+    {
+      "id": 46896105,
+      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+      "url": "https://github.com/sandys/kappal",
+      "score": 16,
+      "by": "sandGorgon",
+      "time": 1770270091,
+      "comments": 3,
+      "domain": "github.com"
     },
     {
       "id": 46912800,
       "title": "Hackers (1995) Animated Experience",
       "url": "https://hackers-1995.vercel.app/",
-      "score": 542,
+      "score": 545,
       "by": "todsacerdoti",
       "time": 1770385795,
-      "comments": 262,
+      "comments": 263,
       "domain": "hackers-1995.vercel.app"
     },
     {
       "id": 46914159,
       "title": "Sheldon Brown's Bicycle Technical Info",
       "url": "https://www.sheldonbrown.com/",
-      "score": 415,
+      "score": 417,
       "by": "ostacke",
       "time": 1770392442,
-      "comments": 107,
+      "comments": 108,
       "domain": "sheldonbrown.com"
     },
     {
       "id": 46867361,
       "title": "What Is Ruliology?",
       "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "score": 61,
+      "score": 62,
       "by": "helloplanets",
       "time": 1770100840,
-      "comments": 60,
+      "comments": 67,
       "domain": "writings.stephenwolfram.com"
     },
     {
@@ -255,51 +265,41 @@
       "id": 46916609,
       "title": "Show HN: If you lose your memory, how to regain access to your computer?",
       "url": "https://eljojo.github.io/rememory/",
-      "score": 331,
+      "score": 335,
       "by": "eljojo",
       "time": 1770403918,
-      "comments": 201,
+      "comments": 206,
       "domain": "eljojo.github.io"
     },
     {
       "id": 46913903,
       "title": "An Update on Heroku",
       "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 454,
+      "score": 456,
       "by": "lstoll",
       "time": 1770391223,
-      "comments": 297,
+      "comments": 299,
       "domain": "heroku.com"
     },
     {
       "id": 46913793,
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
       "url": "https://github.com/microsoft/litebox",
-      "score": 370,
+      "score": 372,
       "by": "aktau",
       "time": 1770390784,
-      "comments": 193,
+      "comments": 195,
       "domain": "github.com"
     },
     {
-      "id": 46924544,
-      "title": "Google staff call for firm to cut ties with ICE",
-      "url": "https://www.bbc.com/news/articles/cvgjg98vmzjo",
-      "score": 90,
-      "by": "tartoran",
-      "time": 1770477597,
-      "comments": 19,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 46868787,
-      "title": "Cross-Region MSK Replication: K2K vs. MirrorMaker2",
-      "url": "https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf",
-      "score": 7,
-      "by": "andmarios",
-      "time": 1770111730,
-      "comments": 1,
-      "domain": "medium.com"
+      "id": 46920773,
+      "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+      "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+      "score": 62,
+      "by": "gmays",
+      "time": 1770431749,
+      "comments": 23,
+      "domain": "si.edu"
     }
   ]
 }
