@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-07T21:13:04.073Z",
+  "lastUpdated": "2026-02-07T21:41:34.743Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 12223,
+      "stars": 12228,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-07T21:12:03Z"
+      "updated_at": "2026-02-07T21:30:59Z"
     },
     {
       "id": 1147679251,
@@ -31,27 +31,27 @@
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1504,
+      "stars": 1512,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-07T21:08:18Z"
+      "updated_at": "2026-02-07T21:39:26Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1417,
+      "stars": 1419,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-07T21:08:35Z"
+      "updated_at": "2026-02-07T21:32:24Z"
     },
     {
       "id": 1147210886,
@@ -70,27 +70,27 @@
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 821,
+      "stars": 828,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-07T21:05:59Z"
+      "updated_at": "2026-02-07T21:37:27Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 721,
+      "stars": 722,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-07T20:35:44Z"
+      "updated_at": "2026-02-07T21:40:33Z"
     },
     {
       "id": 1150780143,
@@ -109,79 +109,79 @@
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 580,
+      "stars": 582,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-07T20:28:08Z"
+      "updated_at": "2026-02-07T21:20:20Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 537,
+      "stars": 542,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-07T21:08:39Z"
+      "updated_at": "2026-02-07T21:40:47Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 532,
+      "stars": 535,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-07T21:02:51Z"
+      "updated_at": "2026-02-07T21:40:43Z"
     },
     {
       "id": 1146981739,
       "name": "ygwyg/MAHORAGA",
       "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
-      "stars": 474,
+      "stars": 475,
       "language": "TypeScript",
       "url": "https://github.com/ygwyg/MAHORAGA",
       "owner": {
         "login": "ygwyg",
         "avatar_url": "https://avatars.githubusercontent.com/u/167489839?v=4"
       },
-      "updated_at": "2026-02-07T14:49:30Z"
+      "updated_at": "2026-02-07T21:21:16Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 448,
+      "stars": 450,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-07T21:05:32Z"
+      "updated_at": "2026-02-07T21:38:26Z"
     },
     {
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 417,
+      "stars": 421,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-07T21:12:35Z"
+      "updated_at": "2026-02-07T21:34:38Z"
     },
     {
       "id": 1147761848,
@@ -252,14 +252,14 @@
       "id": 1147528415,
       "name": "rebane2001/xikipedia",
       "description": "Wikipedia as a social media feed",
-      "stars": 347,
+      "stars": 348,
       "language": "HTML",
       "url": "https://github.com/rebane2001/xikipedia",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-07T20:44:08Z"
+      "updated_at": "2026-02-07T21:35:14Z"
     }
   ]
 }
