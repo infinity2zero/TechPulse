@@ -1,122 +1,122 @@
 {
-  "lastUpdated": "2026-02-07T09:16:23.556Z",
+  "lastUpdated": "2026-02-07T09:47:14.364Z",
   "items": [
     {
       "id": 1147094660,
       "name": "HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Clawdbot\"",
-      "stars": 11636,
+      "stars": 11673,
       "language": "Python",
       "url": "https://github.com/HKUDS/nanobot",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-07T09:15:47Z"
+      "updated_at": "2026-02-07T09:46:59Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1494,
+      "stars": 1496,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-07T08:24:27Z"
+      "updated_at": "2026-02-07T09:47:02Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1272,
+      "stars": 1288,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-07T09:14:39Z"
+      "updated_at": "2026-02-07T09:46:36Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1264,
+      "stars": 1272,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-07T09:11:15Z"
+      "updated_at": "2026-02-07T09:40:53Z"
     },
     {
       "id": 1147210886,
       "name": "justlovemaki/OpenClaw-Docker-CN-IM",
       "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
-      "stars": 1000,
+      "stars": 1002,
       "language": "Shell",
       "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
       "owner": {
         "login": "justlovemaki",
         "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
       },
-      "updated_at": "2026-02-07T09:14:56Z"
+      "updated_at": "2026-02-07T09:34:42Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 689,
+      "stars": 690,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-07T09:12:59Z"
+      "updated_at": "2026-02-07T09:39:31Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 641,
+      "stars": 646,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-07T09:12:19Z"
+      "updated_at": "2026-02-07T09:47:04Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 567,
+      "stars": 570,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-07T09:07:07Z"
+      "updated_at": "2026-02-07T09:41:37Z"
     },
     {
       "id": 1147470802,
       "name": "rohitg00/pro-workflow",
       "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.",
-      "stars": 534,
+      "stars": 535,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/pro-workflow",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-07T08:53:00Z"
+      "updated_at": "2026-02-07T09:43:31Z"
     },
     {
       "id": 1149409687,
@@ -135,40 +135,40 @@
       "id": 1146981739,
       "name": "ygwyg/MAHORAGA",
       "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts",
-      "stars": 471,
+      "stars": 472,
       "language": "TypeScript",
       "url": "https://github.com/ygwyg/MAHORAGA",
       "owner": {
         "login": "ygwyg",
         "avatar_url": "https://avatars.githubusercontent.com/u/167489839?v=4"
       },
-      "updated_at": "2026-02-07T08:49:39Z"
+      "updated_at": "2026-02-07T09:24:26Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 417,
+      "stars": 418,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-07T08:40:17Z"
+      "updated_at": "2026-02-07T09:37:48Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 395,
+      "stars": 403,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-07T09:13:03Z"
+      "updated_at": "2026-02-07T09:44:54Z"
     },
     {
       "id": 1149314442,
@@ -213,14 +213,14 @@
       "id": 1148459032,
       "name": "Haleclipse/CodexDesktop-Rebuild",
       "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 362,
+      "stars": 363,
       "language": "JavaScript",
       "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
       "owner": {
         "login": "Haleclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
       },
-      "updated_at": "2026-02-07T08:52:16Z"
+      "updated_at": "2026-02-07T09:42:33Z"
     },
     {
       "id": 1149477047,
@@ -239,27 +239,27 @@
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 315,
+      "stars": 318,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-07T08:58:14Z"
+      "updated_at": "2026-02-07T09:46:58Z"
     },
     {
       "id": 1147528415,
       "name": "rebane2001/xikipedia",
       "description": "Wikipedia as a social media feed",
-      "stars": 313,
+      "stars": 315,
       "language": "HTML",
       "url": "https://github.com/rebane2001/xikipedia",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-07T09:10:39Z"
+      "updated_at": "2026-02-07T09:46:34Z"
     }
   ]
 }
