@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-02-07T17:51:03.685Z",
+  "lastUpdated": "2026-02-07T18:01:52.779Z",
   "items": [
     {
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "url": "https://github.com/suitenumerique",
-      "score": 439,
+      "score": 466,
       "by": "nar001",
       "time": 1770471274,
-      "comments": 208,
+      "comments": 222,
       "domain": "github.com"
     },
     {
       "id": 46924813,
       "title": "British drivers over 70 to face eye tests every three years",
       "url": "https://www.bbc.com/news/articles/c205nxy0p31o",
-      "score": 142,
+      "score": 154,
       "by": "bookofjoe",
       "time": 1770479754,
-      "comments": 119,
+      "comments": 135,
       "domain": "bbc.com"
     },
     {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 440,
+      "score": 447,
       "by": "theblazehen",
       "time": 1770235152,
-      "comments": 158,
+      "comments": 160,
       "domain": "rhodesmill.org"
     },
     {
       "id": 46924790,
       "title": "Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney",
       "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-      "score": 27,
+      "score": 32,
       "by": "thelok",
       "time": 1770479562,
       "comments": 2,
       "domain": "spillhistorie.no"
     },
     {
+      "id": 46924426,
+      "title": "Software Factories and the Agentic Moment",
+      "url": "https://factory.strongdm.ai/",
+      "score": 33,
+      "by": "mellosouls",
+      "time": 1770476756,
+      "comments": 27,
+      "domain": "factory.strongdm.ai"
+    },
+    {
       "id": 46923254,
       "title": "Hoot: Scheme on WebAssembly",
       "url": "https://www.spritely.institute/hoot/",
-      "score": 89,
+      "score": 93,
       "by": "AlexeyBrin",
       "time": 1770466700,
       "comments": 17,
       "domain": "spritely.institute"
-    },
-    {
-      "id": 46924426,
-      "title": "Software Factories and the Agentic Moment",
-      "url": "https://factory.strongdm.ai/",
-      "score": 25,
-      "by": "mellosouls",
-      "time": 1770476756,
-      "comments": 17,
-      "domain": "factory.strongdm.ai"
     },
     {
       "id": 46918612,
@@ -75,17 +75,17 @@
       "id": 46924591,
       "title": "First Proof",
       "url": "https://arxiv.org/abs/2602.05192",
-      "score": 41,
+      "score": 42,
       "by": "samasblack",
       "time": 1770477949,
-      "comments": 25,
+      "comments": 28,
       "domain": "arxiv.org"
     },
     {
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 35,
+      "score": 36,
       "by": "vinhnx",
       "time": 1770475336,
       "comments": 4,
@@ -95,17 +95,27 @@
       "id": 46923463,
       "title": "Reinforcement Learning from Human Feedback",
       "url": "https://arxiv.org/abs/2504.12501",
-      "score": 58,
+      "score": 59,
       "by": "onurkanbkrc",
       "time": 1770468819,
       "comments": 3,
       "domain": "arxiv.org"
     },
     {
+      "id": 46924711,
+      "title": "StrongDM's AI team build serious software without even looking at the code",
+      "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
+      "score": 24,
+      "by": "simonw",
+      "time": 1770478865,
+      "comments": 23,
+      "domain": "simonwillison.net"
+    },
+    {
       "id": 46914785,
       "title": "The Waymo World Model",
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1029,
+      "score": 1033,
       "by": "xnx",
       "time": 1770394842,
       "comments": 583,
@@ -115,80 +125,70 @@
       "id": 46923543,
       "title": "Coding agents have replaced every framework I used",
       "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 176,
+      "score": 180,
       "by": "alainrk",
       "time": 1770469629,
-      "comments": 237,
+      "comments": 255,
       "domain": "blog.alaindichiappari.dev"
-    },
-    {
-      "id": 46922049,
-      "title": "Vocal Guide – belt sing without killing yourself",
-      "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 168,
-      "by": "jesperordrup",
-      "time": 1770449823,
-      "comments": 64,
-      "domain": "jesperordrup.github.io"
     },
     {
       "id": 46873322,
       "title": "A Fresh Look at IBM 3270 Information Display System",
       "url": "https://www.rs-online.com/designspark/a-fresh-look-at-ibm-3270-information-display-system",
-      "score": 25,
+      "score": 27,
       "by": "rbanffy",
       "time": 1770136852,
       "comments": 5,
       "domain": "rs-online.com"
     },
     {
-      "id": 46858042,
-      "title": "72M Points of Interest",
-      "url": "https://tech.marksblogg.com/overture-places-pois.html",
-      "score": 15,
-      "by": "marklit",
-      "time": 1770050455,
-      "comments": 0,
-      "domain": "tech.marksblogg.com"
-    },
-    {
-      "id": 46924711,
-      "title": "StrongDM's AI team build serious software without even looking at the code",
-      "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
-      "score": 19,
-      "by": "simonw",
-      "time": 1770478865,
-      "comments": 18,
-      "domain": "simonwillison.net"
-    },
-    {
-      "id": 46868343,
-      "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-      "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 105,
-      "by": "videotopia",
-      "time": 1770108580,
-      "comments": 27,
-      "domain": "arcadeblogger.com"
+      "id": 46922049,
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "url": "https://jesperordrup.github.io/vocal-guide/",
+      "score": 171,
+      "by": "jesperordrup",
+      "time": 1770449823,
+      "comments": 65,
+      "domain": "jesperordrup.github.io"
     },
     {
       "id": 46855645,
       "title": "Vinklu Turns Forgotten Plot in Bucharest into Tiny Coffee Shop",
       "url": "https://design-milk.com/vinklu-turns-forgotten-plot-in-bucharest-into-tiny-coffee-shop/",
-      "score": 5,
+      "score": 9,
       "by": "surprisetalk",
       "time": 1770037931,
       "comments": 0,
       "domain": "design-milk.com"
     },
     {
+      "id": 46858042,
+      "title": "72M Points of Interest",
+      "url": "https://tech.marksblogg.com/overture-places-pois.html",
+      "score": 16,
+      "by": "marklit",
+      "time": 1770050455,
+      "comments": 0,
+      "domain": "tech.marksblogg.com"
+    },
+    {
+      "id": 46868343,
+      "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+      "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+      "score": 107,
+      "by": "videotopia",
+      "time": 1770108580,
+      "comments": 27,
+      "domain": "arcadeblogger.com"
+    },
+    {
       "id": 46924891,
       "title": "What Is Stoicism?",
       "url": "https://stoacentral.com/guides/what-is-stoicism",
-      "score": 4,
+      "score": 7,
       "by": "0xmattf",
       "time": 1770480367,
-      "comments": 0,
+      "comments": 1,
       "domain": "stoacentral.com"
     },
     {
@@ -208,7 +208,7 @@
       "score": 152,
       "by": "matheusalmeida",
       "time": 1770290380,
-      "comments": 42,
+      "comments": 43,
       "domain": "floedb.ai"
     },
     {
@@ -218,17 +218,17 @@
       "score": 278,
       "by": "dmpetrov",
       "time": 1770412596,
-      "comments": 147,
+      "comments": 148,
       "domain": "github.com"
     },
     {
       "id": 46872319,
       "title": "Ga68, a GNU Algol 68 Compiler",
       "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
-      "score": 35,
+      "score": 36,
       "by": "matt_d",
       "time": 1770133104,
-      "comments": 10,
+      "comments": 11,
       "domain": "fosdem.org"
     },
     {
@@ -238,18 +238,28 @@
       "score": 546,
       "by": "todsacerdoti",
       "time": 1770385795,
-      "comments": 263,
+      "comments": 264,
       "domain": "hackers-1995.vercel.app"
     },
     {
       "id": 46914159,
       "title": "Sheldon Brown's Bicycle Technical Info",
       "url": "https://www.sheldonbrown.com/",
-      "score": 420,
+      "score": 421,
       "by": "ostacke",
       "time": 1770392442,
       "comments": 110,
       "domain": "sheldonbrown.com"
+    },
+    {
+      "id": 46917033,
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "url": "https://vecti.com",
+      "score": 365,
+      "by": "vecti",
+      "time": 1770406057,
+      "comments": 166,
+      "domain": "vecti.com"
     },
     {
       "id": 46867361,
@@ -262,43 +272,33 @@
       "domain": "writings.stephenwolfram.com"
     },
     {
-      "id": 46917033,
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "url": "https://vecti.com",
-      "score": 364,
-      "by": "vecti",
-      "time": 1770406057,
-      "comments": 165,
-      "domain": "vecti.com"
-    },
-    {
       "id": 46916609,
       "title": "Show HN: If you lose your memory, how to regain access to your computer?",
       "url": "https://eljojo.github.io/rememory/",
       "score": 338,
       "by": "eljojo",
       "time": 1770403918,
-      "comments": 208,
+      "comments": 209,
       "domain": "eljojo.github.io"
     },
     {
       "id": 46913903,
       "title": "An Update on Heroku",
       "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 457,
+      "score": 460,
       "by": "lstoll",
       "time": 1770391223,
-      "comments": 302,
+      "comments": 303,
       "domain": "heroku.com"
     },
     {
-      "id": 46896105,
-      "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-      "url": "https://github.com/sandys/kappal",
-      "score": 16,
-      "by": "sandGorgon",
-      "time": 1770270091,
-      "comments": 4,
+      "id": 46913793,
+      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+      "url": "https://github.com/microsoft/litebox",
+      "score": 373,
+      "by": "aktau",
+      "time": 1770390784,
+      "comments": 194,
       "domain": "github.com"
     }
   ]
