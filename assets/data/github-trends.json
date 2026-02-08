@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T07:50:32.557Z",
+  "lastUpdated": "2026-02-08T08:02:44.077Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1677,
+      "stars": 1679,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T07:49:26Z"
+      "updated_at": "2026-02-08T07:52:16Z"
     },
     {
       "id": 1147679251,
@@ -31,53 +31,53 @@
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1518,
+      "stars": 1520,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-08T07:46:50Z"
+      "updated_at": "2026-02-08T07:56:23Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 891,
+      "stars": 892,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-08T07:47:25Z"
+      "updated_at": "2026-02-08T08:02:39Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 767,
+      "stars": 768,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-08T07:46:34Z"
+      "updated_at": "2026-02-08T07:53:28Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 733,
+      "stars": 734,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-08T06:23:27Z"
+      "updated_at": "2026-02-08T07:56:37Z"
     },
     {
       "id": 1148662823,
@@ -109,14 +109,14 @@
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A contributor trust management system based on explicit vouches to participate.",
-      "stars": 515,
+      "stars": 522,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-08T07:48:28Z"
+      "updated_at": "2026-02-08T08:02:03Z"
     },
     {
       "id": 1149511572,
@@ -135,14 +135,14 @@
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 443,
+      "stars": 444,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-08T06:54:06Z"
+      "updated_at": "2026-02-08T07:57:38Z"
     },
     {
       "id": 1147761848,
@@ -184,6 +184,19 @@
       "updated_at": "2026-02-08T07:50:02Z"
     },
     {
+      "id": 1150763716,
+      "name": "antirez/voxtral.c",
+      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+      "stars": 379,
+      "language": "C",
+      "url": "https://github.com/antirez/voxtral.c",
+      "owner": {
+        "login": "antirez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+      },
+      "updated_at": "2026-02-08T08:02:17Z"
+    },
+    {
       "id": 1150541271,
       "name": "ula7i921011/React2Shell-Scanner",
       "description": "React2Shell Scanner",
@@ -197,30 +210,17 @@
       "updated_at": "2026-02-07T05:44:17Z"
     },
     {
-      "id": 1150763716,
-      "name": "antirez/voxtral.c",
-      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 375,
-      "language": "C",
-      "url": "https://github.com/antirez/voxtral.c",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-08T07:49:11Z"
-    },
-    {
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 371,
+      "stars": 373,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-08T07:29:42Z"
+      "updated_at": "2026-02-08T08:00:08Z"
     },
     {
       "id": 1150071903,
@@ -239,27 +239,27 @@
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 315,
+      "stars": 316,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-08T07:48:29Z"
+      "updated_at": "2026-02-08T07:58:52Z"
     },
     {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 296,
+      "stars": 297,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-08T07:50:01Z"
+      "updated_at": "2026-02-08T07:57:48Z"
     }
   ]
 }

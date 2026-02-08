@@ -1,95 +1,85 @@
 {
-  "lastUpdated": "2026-02-08T07:50:32.246Z",
+  "lastUpdated": "2026-02-08T08:02:43.860Z",
   "items": [
     {
       "id": 46930391,
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
-      "score": 172,
+      "score": 179,
       "by": "yi_wang",
       "time": 1770513998,
-      "comments": 59,
+      "comments": 62,
       "domain": "github.com"
     },
     {
       "id": 46930565,
       "title": "Haskell for all: Beyond agentic coding",
       "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 86,
+      "score": 88,
       "by": "RebelPotato",
       "time": 1770515709,
-      "comments": 21,
+      "comments": 22,
       "domain": "haskellforall.com"
-    },
-    {
-      "id": 46932010,
-      "title": "Turning books to courses using AI",
-      "url": "https://www.book2course.org/",
-      "score": 4,
-      "by": "syukursyakir",
-      "time": 1770534707,
-      "comments": 1,
-      "domain": "book2course.org"
     },
     {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "url": "https://xorvoid.com/sectorc.html",
-      "score": 273,
+      "score": 276,
       "by": "valyala",
       "time": 1770485993,
-      "comments": 53,
+      "comments": 55,
       "domain": "xorvoid.com"
     },
     {
       "id": 46924426,
       "title": "Software factories and the agentic moment",
       "url": "https://factory.strongdm.ai/",
-      "score": 213,
+      "score": 216,
       "by": "mellosouls",
       "time": 1770476756,
-      "comments": 364,
+      "comments": 371,
       "domain": "factory.strongdm.ai"
     },
     {
       "id": 46868928,
       "title": "LLMs as the new high level language",
       "url": "https://federicopereiro.com/llm-high/",
-      "score": 83,
+      "score": 84,
       "by": "swah",
       "time": 1770112803,
-      "comments": 156,
+      "comments": 158,
       "domain": "federicopereiro.com"
     },
     {
       "id": 46926043,
       "title": "Speed up responses with fast mode",
       "url": "https://code.claude.com/docs/en/fast-mode",
-      "score": 173,
+      "score": 174,
       "by": "surprisetalk",
       "time": 1770487703,
       "comments": 173,
       "domain": "code.claude.com"
     },
     {
-      "id": 46931595,
-      "title": "LineageOS 23.2",
-      "url": "https://lineageos.org/Changelog-31/",
-      "score": 23,
-      "by": "pentagrama",
-      "time": 1770528795,
-      "comments": 0,
-      "domain": "lineageos.org"
-    },
-    {
       "id": 46861158,
       "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
       "url": "https://aosabook.org/en/v1/bdb.html",
-      "score": 14,
+      "score": 18,
       "by": "grep_it",
       "time": 1770064661,
       "comments": 0,
       "domain": "aosabook.org"
+    },
+    {
+      "id": 46931595,
+      "title": "LineageOS 23.2",
+      "url": "https://lineageos.org/Changelog-31/",
+      "score": 25,
+      "by": "pentagrama",
+      "time": 1770528795,
+      "comments": 1,
+      "domain": "lineageos.org"
     },
     {
       "id": 46923254,
@@ -115,7 +105,7 @@
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 183,
+      "score": 184,
       "by": "vinhnx",
       "time": 1770475336,
       "comments": 18,
@@ -125,41 +115,61 @@
       "id": 46922049,
       "title": "Vocal Guide – belt sing without killing yourself",
       "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 340,
+      "score": 343,
       "by": "jesperordrup",
       "time": 1770449823,
       "comments": 104,
       "domain": "jesperordrup.github.io"
     },
     {
+      "id": 46931559,
+      "title": "Roger Ebert Reviews \"The Shawshank Redemption\"",
+      "url": "https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994",
+      "score": 3,
+      "by": "monero-xmr",
+      "time": 1770528333,
+      "comments": 0,
+      "domain": "rogerebert.com"
+    },
+    {
+      "id": 46931347,
+      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+      "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+      "score": 38,
+      "by": "witnessme",
+      "time": 1770525290,
+      "comments": 10,
+      "domain": "techcrunch.com"
+    },
+    {
+      "id": 46869713,
+      "title": "uLauncher",
+      "url": "https://github.com/jrpie/launcher",
+      "score": 14,
+      "by": "dtj1123",
+      "time": 1770118871,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
       "id": 46925811,
       "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
       "url": "https://github.com/Momciloo/fun-with-clip-path",
-      "score": 91,
+      "score": 92,
       "by": "momciloo",
       "time": 1770486327,
-      "comments": 18,
+      "comments": 21,
       "domain": "github.com"
     },
     {
       "id": 46924591,
       "title": "First Proof",
       "url": "https://arxiv.org/abs/2602.05192",
-      "score": 139,
+      "score": 141,
       "by": "samasblack",
       "time": 1770477949,
       "comments": 81,
       "domain": "arxiv.org"
-    },
-    {
-      "id": 46931347,
-      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-      "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-      "score": 35,
-      "by": "witnessme",
-      "time": 1770525290,
-      "comments": 10,
-      "domain": "techcrunch.com"
     },
     {
       "id": 46897407,
@@ -172,24 +182,24 @@
       "domain": "solar.lowtechmagazine.com"
     },
     {
-      "id": 46869713,
-      "title": "uLauncher",
-      "url": "https://github.com/jrpie/launcher",
-      "score": 12,
-      "by": "dtj1123",
-      "time": 1770118871,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
       "id": 46930961,
       "title": "Vouch",
       "url": "https://twitter.com/mitchellh/status/2020252149117313349",
-      "score": 87,
+      "score": 90,
       "by": "chwtutha",
       "time": 1770520168,
-      "comments": 23,
+      "comments": 24,
       "domain": "twitter.com"
+    },
+    {
+      "id": 46890814,
+      "title": "Start all of your commands with a comma (2009)",
+      "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+      "score": 597,
+      "by": "theblazehen",
+      "time": 1770235152,
+      "comments": 216,
+      "domain": "rhodesmill.org"
     },
     {
       "id": 46924790,
@@ -200,16 +210,6 @@
       "time": 1770479562,
       "comments": 24,
       "domain": "spillhistorie.no"
-    },
-    {
-      "id": 46890814,
-      "title": "Start all of your commands with a comma (2009)",
-      "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 595,
-      "by": "theblazehen",
-      "time": 1770235152,
-      "comments": 216,
-      "domain": "rhodesmill.org"
     },
     {
       "id": 46884412,
@@ -225,37 +225,47 @@
       "id": 46922969,
       "title": "The AI boom is causing shortages everywhere else",
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 319,
+      "score": 322,
       "by": "1vuio0pswjnm7",
       "time": 1770463289,
-      "comments": 526,
+      "comments": 529,
       "domain": "washingtonpost.com"
     },
     {
-      "id": 46928810,
-      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-      "score": 118,
-      "by": "randycupertino",
-      "time": 1770503103,
-      "comments": 246,
-      "domain": "fda.gov"
+      "id": 46930634,
+      "title": "The Scriptovision Super Micro Script video titler is almost a home computer",
+      "url": "http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html",
+      "score": 7,
+      "by": "todsacerdoti",
+      "time": 1770516616,
+      "comments": 1,
+      "domain": "oldvcr.blogspot.com"
     },
     {
       "id": 46870694,
       "title": "Where did all the starships go?",
       "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-      "score": 167,
+      "score": 169,
       "by": "speckx",
       "time": 1770125228,
-      "comments": 248,
+      "comments": 251,
       "domain": "datawrapper.de"
+    },
+    {
+      "id": 46928810,
+      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "score": 120,
+      "by": "randycupertino",
+      "time": 1770503103,
+      "comments": 247,
+      "domain": "fda.gov"
     },
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "url": "https://openciv3.org/",
-      "score": 909,
+      "score": 910,
       "by": "klaussilveira",
       "time": 1770414683,
       "comments": 277,
@@ -268,18 +278,8 @@
       "score": 37,
       "by": "languid-photic",
       "time": 1770161465,
-      "comments": 18,
+      "comments": 19,
       "domain": "voratiq.com"
-    },
-    {
-      "id": 46931948,
-      "title": "The world heard JD Vance being booed at the Olympics. Except for viewers in USA",
-      "url": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
-      "score": 82,
-      "by": "treetalker",
-      "time": 1770534040,
-      "comments": 18,
-      "domain": "theguardian.com"
     },
     {
       "id": 46918429,
@@ -295,7 +295,7 @@
       "id": 46868343,
       "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 149,
+      "score": 150,
       "by": "videotopia",
       "time": 1770108580,
       "comments": 49,
