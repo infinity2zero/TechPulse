@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-08T20:26:08.032Z",
+  "lastUpdated": "2026-02-08T20:50:42.046Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1786,
+      "stars": 1787,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T20:11:09Z"
+      "updated_at": "2026-02-08T20:42:39Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1641,
+      "stars": 1646,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-08T20:05:24Z"
+      "updated_at": "2026-02-08T20:48:39Z"
     },
     {
       "id": 1147679251,
@@ -44,27 +44,27 @@
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A contributor trust management system based on explicit vouches to participate.",
-      "stars": 1111,
+      "stars": 1152,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-08T20:26:06Z"
+      "updated_at": "2026-02-08T20:50:03Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App",
-      "stars": 963,
+      "stars": 965,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-08T20:19:26Z"
+      "updated_at": "2026-02-08T20:42:52Z"
     },
     {
       "id": 1150780143,
@@ -96,14 +96,14 @@
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 682,
+      "stars": 683,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-08T20:22:33Z"
+      "updated_at": "2026-02-08T20:45:45Z"
     },
     {
       "id": 1149409687,
@@ -122,14 +122,14 @@
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 490,
+      "stars": 491,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-08T20:13:44Z"
+      "updated_at": "2026-02-08T20:44:01Z"
     },
     {
       "id": 1149314442,
@@ -174,27 +174,27 @@
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 440,
+      "stars": 442,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-08T20:14:31Z"
+      "updated_at": "2026-02-08T20:42:36Z"
     },
     {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 437,
+      "stars": 441,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-08T20:16:35Z"
+      "updated_at": "2026-02-08T20:46:27Z"
     },
     {
       "id": 1150763716,
