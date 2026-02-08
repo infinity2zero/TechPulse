@@ -1,135 +1,115 @@
 {
-  "lastUpdated": "2026-02-08T10:52:30.351Z",
+  "lastUpdated": "2026-02-08T11:12:10.305Z",
   "items": [
     {
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "url": "https://donotnotify.com/opensource.html",
-      "score": 140,
+      "score": 159,
       "by": "awaaz",
       "time": 1770536389,
-      "comments": 19,
+      "comments": 26,
       "domain": "donotnotify.com"
     },
     {
       "id": 46930391,
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
-      "score": 235,
+      "score": 237,
       "by": "yi_wang",
       "time": 1770513998,
-      "comments": 102,
+      "comments": 113,
       "domain": "github.com"
     },
     {
       "id": 46932678,
       "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
       "url": "https://github.com/joshuanwalker/Raiders2600",
-      "score": 8,
+      "score": 12,
       "by": "pacod",
       "time": 1770541818,
-      "comments": 0,
+      "comments": 1,
+      "domain": "github.com"
+    },
+    {
+      "id": 46932343,
+      "title": "Matchlock: Linux-based sandboxing for AI agents",
+      "url": "https://github.com/jingkaihe/matchlock",
+      "score": 25,
+      "by": "jingkai_he",
+      "time": 1770538075,
+      "comments": 1,
       "domain": "github.com"
     },
     {
       "id": 46930565,
       "title": "Haskell for all: Beyond agentic coding",
       "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 129,
+      "score": 133,
       "by": "RebelPotato",
       "time": 1770515709,
-      "comments": 37,
+      "comments": 39,
       "domain": "haskellforall.com"
-    },
-    {
-      "id": 46932343,
-      "title": "Matchlock: Linux-based sandboxing for AI agents",
-      "url": "https://github.com/jingkaihe/matchlock",
-      "score": 17,
-      "by": "jingkai_he",
-      "time": 1770538075,
-      "comments": 0,
-      "domain": "github.com"
     },
     {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "url": "https://xorvoid.com/sectorc.html",
-      "score": 313,
+      "score": 316,
       "by": "valyala",
       "time": 1770485993,
       "comments": 61,
       "domain": "xorvoid.com"
     },
     {
-      "id": 46868928,
-      "title": "LLMs as the new high level language",
-      "url": "https://federicopereiro.com/llm-high/",
-      "score": 130,
-      "by": "swah",
-      "time": 1770112803,
-      "comments": 223,
-      "domain": "federicopereiro.com"
-    },
-    {
-      "id": 46861158,
-      "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-      "url": "https://aosabook.org/en/v1/bdb.html",
-      "score": 39,
-      "by": "grep_it",
-      "time": 1770064661,
-      "comments": 6,
-      "domain": "aosabook.org"
-    },
-    {
-      "id": 46924426,
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "score": 235,
-      "by": "mellosouls",
-      "time": 1770476756,
-      "comments": 397,
-      "domain": "factory.strongdm.ai"
-    },
-    {
       "id": 46867997,
       "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
       "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-      "score": 7,
+      "score": 9,
       "by": "sohkamyung",
       "time": 1770105965,
       "comments": 0,
       "domain": "quantamagazine.org"
     },
     {
+      "id": 46924426,
+      "title": "Software factories and the agentic moment",
+      "url": "https://factory.strongdm.ai/",
+      "score": 236,
+      "by": "mellosouls",
+      "time": 1770476756,
+      "comments": 396,
+      "domain": "factory.strongdm.ai"
+    },
+    {
       "id": 46926043,
       "title": "Speed up responses with fast mode",
       "url": "https://code.claude.com/docs/en/fast-mode",
-      "score": 192,
+      "score": 195,
       "by": "surprisetalk",
       "time": 1770487703,
-      "comments": 197,
+      "comments": 198,
       "domain": "code.claude.com"
-    },
-    {
-      "id": 46931595,
-      "title": "LineageOS 23.2",
-      "url": "https://lineageos.org/Changelog-31/",
-      "score": 70,
-      "by": "pentagrama",
-      "time": 1770528795,
-      "comments": 14,
-      "domain": "lineageos.org"
     },
     {
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 206,
+      "score": 208,
       "by": "vinhnx",
       "time": 1770475336,
-      "comments": 21,
+      "comments": 24,
       "domain": "susam.net"
+    },
+    {
+      "id": 46931595,
+      "title": "LineageOS 23.2",
+      "url": "https://lineageos.org/Changelog-31/",
+      "score": 73,
+      "by": "pentagrama",
+      "time": 1770528795,
+      "comments": 15,
+      "domain": "lineageos.org"
     },
     {
       "id": 46923254,
@@ -145,7 +125,7 @@
       "id": 46869713,
       "title": "uLauncher",
       "url": "https://github.com/jrpie/launcher",
-      "score": 31,
+      "score": 36,
       "by": "dtj1123",
       "time": 1770118871,
       "comments": 8,
@@ -155,11 +135,21 @@
       "id": 46926576,
       "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
       "url": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
-      "score": 82,
+      "score": 83,
       "by": "gnufx",
       "time": 1770491247,
       "comments": 66,
       "domain": "hpcwire.com"
+    },
+    {
+      "id": 46932845,
+      "title": "In the Australian outback, we're listening for nuclear tests",
+      "url": "https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478",
+      "score": 13,
+      "by": "defrost",
+      "time": 1770543895,
+      "comments": 1,
+      "domain": "abc.net.au"
     },
     {
       "id": 46922049,
@@ -168,18 +158,8 @@
       "score": 373,
       "by": "jesperordrup",
       "time": 1770449823,
-      "comments": 111,
+      "comments": 112,
       "domain": "jesperordrup.github.io"
-    },
-    {
-      "id": 46932845,
-      "title": "In the Australian outback, we're listening for nuclear tests",
-      "url": "https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478",
-      "score": 10,
-      "by": "defrost",
-      "time": 1770543895,
-      "comments": 1,
-      "domain": "abc.net.au"
     },
     {
       "id": 46897407,
@@ -192,20 +172,10 @@
       "domain": "solar.lowtechmagazine.com"
     },
     {
-      "id": 46886569,
-      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
-      "url": "https://rabbitear.org/book/origami.html",
-      "score": 3,
-      "by": "molszanski",
-      "time": 1770217058,
-      "comments": 1,
-      "domain": "rabbitear.org"
-    },
-    {
       "id": 46925811,
       "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
       "url": "https://github.com/Momciloo/fun-with-clip-path",
-      "score": 110,
+      "score": 111,
       "by": "momciloo",
       "time": 1770486327,
       "comments": 24,
@@ -215,27 +185,37 @@
       "id": 46924591,
       "title": "First Proof",
       "url": "https://arxiv.org/abs/2602.05192",
-      "score": 150,
+      "score": 154,
       "by": "samasblack",
       "time": 1770477949,
       "comments": 94,
       "domain": "arxiv.org"
     },
     {
+      "id": 46886569,
+      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
+      "url": "https://rabbitear.org/book/origami.html",
+      "score": 4,
+      "by": "molszanski",
+      "time": 1770217058,
+      "comments": 2,
+      "domain": "rabbitear.org"
+    },
+    {
       "id": 46931347,
       "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
       "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-      "score": 66,
+      "score": 69,
       "by": "witnessme",
       "time": 1770525290,
-      "comments": 28,
+      "comments": 30,
       "domain": "techcrunch.com"
     },
     {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 615,
+      "score": 617,
       "by": "theblazehen",
       "time": 1770235152,
       "comments": 222,
@@ -255,31 +235,41 @@
       "id": 46922969,
       "title": "The AI boom is causing shortages everywhere else",
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 351,
+      "score": 353,
       "by": "1vuio0pswjnm7",
       "time": 1770463289,
-      "comments": 575,
+      "comments": 585,
       "domain": "washingtonpost.com"
+    },
+    {
+      "id": 46870694,
+      "title": "Where did all the starships go?",
+      "url": "https://www.datawrapper.de/blog/science-fiction-decline",
+      "score": 191,
+      "by": "speckx",
+      "time": 1770125228,
+      "comments": 281,
+      "domain": "datawrapper.de"
     },
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "url": "https://openciv3.org/",
-      "score": 926,
+      "score": 928,
       "by": "klaussilveira",
       "time": 1770414683,
       "comments": 282,
       "domain": "openciv3.org"
     },
     {
-      "id": 46870694,
-      "title": "Where did all the starships go?",
-      "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-      "score": 187,
-      "by": "speckx",
-      "time": 1770125228,
-      "comments": 277,
-      "domain": "datawrapper.de"
+      "id": 46932388,
+      "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
+      "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
+      "score": 13,
+      "by": "birdculture",
+      "time": 1770538536,
+      "comments": 2,
+      "domain": "cyber-omelette.com"
     },
     {
       "id": 46884412,
@@ -290,16 +280,6 @@
       "time": 1770203613,
       "comments": 7,
       "domain": "bitsnbites.eu"
-    },
-    {
-      "id": 46918429,
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 312,
-      "by": "isitcontent",
-      "time": 1770413591,
-      "comments": 39,
-      "domain": "github.com"
     }
   ]
 }
