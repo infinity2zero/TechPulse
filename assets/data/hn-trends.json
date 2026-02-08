@@ -1,101 +1,101 @@
 {
-  "lastUpdated": "2026-02-08T15:51:22.060Z",
+  "lastUpdated": "2026-02-08T16:02:30.185Z",
   "items": [
     {
       "id": 46934344,
       "title": "I am happier writing code by hand",
       "url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 111,
+      "score": 135,
       "by": "lazyfolder",
       "time": 1770559938,
-      "comments": 65,
+      "comments": 83,
       "domain": "abhinavomprakash.com"
     },
     {
       "id": 46934404,
       "title": "AI fatigue Is real and nobody talks about it",
       "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 180,
+      "score": 198,
       "by": "sidk24",
       "time": 1770560372,
-      "comments": 141,
+      "comments": 155,
       "domain": "siddhantkhare.com"
     },
     {
       "id": 46934499,
       "title": "RFC 3092 – Etymology of \"Foo\" (2001)",
       "url": "https://datatracker.ietf.org/doc/html/rfc3092",
-      "score": 30,
+      "score": 34,
       "by": "ipnon",
       "time": 1770561148,
       "comments": 6,
       "domain": "datatracker.ietf.org"
     },
     {
-      "id": 46934266,
-      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-      "url": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
-      "score": 23,
-      "by": "todsacerdoti",
-      "time": 1770559378,
-      "comments": 1,
-      "domain": "blog.hofstede.it"
-    },
-    {
       "id": 46934107,
       "title": "GitHub Agentic Workflows",
       "url": "https://github.github.io/gh-aw/",
-      "score": 27,
+      "score": 32,
       "by": "mooreds",
       "time": 1770558056,
-      "comments": 16,
+      "comments": 18,
       "domain": "github.github.io"
+    },
+    {
+      "id": 46934266,
+      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+      "url": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
+      "score": 27,
+      "by": "todsacerdoti",
+      "time": 1770559378,
+      "comments": 3,
+      "domain": "blog.hofstede.it"
     },
     {
       "id": 46888258,
       "title": "Show HN: It took 4 years to sell my startup. I wrote a book about it",
       "url": "https://derekyan.com/ma-book/",
-      "score": 58,
+      "score": 66,
       "by": "zhyan7109",
       "time": 1770224171,
-      "comments": 9,
+      "comments": 10,
       "domain": "derekyan.com"
     },
     {
       "id": 46932985,
       "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
       "url": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
-      "score": 60,
+      "score": 64,
       "by": "bryanrasmussen",
       "time": 1770545580,
       "comments": 18,
       "domain": "hyperallergic.com"
     },
     {
+      "id": 46925672,
+      "title": "The Contagious Taste of Cancer",
+      "url": "https://www.historytoday.com/archive/history-matters/contagious-taste-cancer",
+      "score": 12,
+      "by": "Thevet",
+      "time": 1770485504,
+      "comments": 4,
+      "domain": "historytoday.com"
+    },
+    {
       "id": 46932343,
       "title": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
       "url": "https://github.com/jingkaihe/matchlock",
-      "score": 95,
+      "score": 97,
       "by": "jingkai_he",
       "time": 1770538075,
       "comments": 39,
       "domain": "github.com"
     },
     {
-      "id": 46925672,
-      "title": "The Contagious Taste of Cancer",
-      "url": "https://www.historytoday.com/archive/history-matters/contagious-taste-cancer",
-      "score": 10,
-      "by": "Thevet",
-      "time": 1770485504,
-      "comments": 3,
-      "domain": "historytoday.com"
-    },
-    {
       "id": 46932678,
       "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
       "url": "https://github.com/joshuanwalker/Raiders2600",
-      "score": 42,
+      "score": 46,
       "by": "pacod",
       "time": 1770541818,
       "comments": 1,
@@ -105,7 +105,7 @@
       "id": 46933401,
       "title": "Dave Farber has died",
       "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
-      "score": 98,
+      "score": 101,
       "by": "vitplister",
       "time": 1770550737,
       "comments": 17,
@@ -115,27 +115,27 @@
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "url": "https://donotnotify.com/opensource.html",
-      "score": 288,
+      "score": 290,
       "by": "awaaz",
       "time": 1770536389,
       "comments": 46,
       "domain": "donotnotify.com"
     },
     {
-      "id": 46933067,
-      "title": "Slop Terrifies Me",
-      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 154,
-      "by": "Ezhik",
-      "time": 1770546695,
-      "comments": 125,
-      "domain": "ezhik.jp"
+      "id": 46859433,
+      "title": "Kolakoski Sequence",
+      "url": "https://en.wikipedia.org/wiki/Kolakoski_sequence",
+      "score": 13,
+      "by": "surprisetalk",
+      "time": 1770057077,
+      "comments": 0,
+      "domain": "en.wikipedia.org"
     },
     {
       "id": 46886569,
       "title": "Rabbit Ear \"Origami\": programmable origami in the browser",
       "url": "https://rabbitear.org/book/origami.html",
-      "score": 63,
+      "score": 69,
       "by": "molszanski",
       "time": 1770217058,
       "comments": 4,
@@ -145,7 +145,7 @@
       "id": 46930565,
       "title": "Beyond agentic coding",
       "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 192,
+      "score": 193,
       "by": "RebelPotato",
       "time": 1770515709,
       "comments": 73,
@@ -158,27 +158,27 @@
       "score": 280,
       "by": "yi_wang",
       "time": 1770513998,
-      "comments": 136,
+      "comments": 138,
       "domain": "github.com"
     },
     {
-      "id": 46859433,
-      "title": "Kolakoski Sequence",
-      "url": "https://en.wikipedia.org/wiki/Kolakoski_sequence",
-      "score": 11,
-      "by": "surprisetalk",
-      "time": 1770057077,
-      "comments": 0,
-      "domain": "en.wikipedia.org"
+      "id": 46933067,
+      "title": "Slop Terrifies Me",
+      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "score": 156,
+      "by": "Ezhik",
+      "time": 1770546695,
+      "comments": 128,
+      "domain": "ezhik.jp"
     },
     {
       "id": 46931805,
       "title": "OpenClaw Is Changing My Life",
       "url": "https://reorx.com/blog/openclaw-is-changing-my-life/",
-      "score": 59,
+      "score": 60,
       "by": "novoreorx",
       "time": 1770531687,
-      "comments": 104,
+      "comments": 109,
       "domain": "reorx.com"
     },
     {
@@ -202,13 +202,23 @@
       "domain": "sozialhelden.github.io"
     },
     {
+      "id": 46926245,
+      "title": "We mourn our craft",
+      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
+      "score": 487,
+      "by": "ColinWright",
+      "time": 1770489147,
+      "comments": 638,
+      "domain": "nolanlawson.com"
+    },
+    {
       "id": 46933365,
       "title": "Why E cores make Apple silicon fast",
       "url": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
-      "score": 120,
+      "score": 124,
       "by": "ingve",
       "time": 1770550309,
-      "comments": 126,
+      "comments": 130,
       "domain": "eclecticlight.co"
     },
     {
@@ -220,16 +230,6 @@
       "time": 1770190139,
       "comments": 0,
       "domain": "marcinciura.wordpress.com"
-    },
-    {
-      "id": 46926245,
-      "title": "We mourn our craft",
-      "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 477,
-      "by": "ColinWright",
-      "time": 1770489147,
-      "comments": 634,
-      "domain": "nolanlawson.com"
     },
     {
       "id": 46925741,
@@ -245,10 +245,10 @@
       "id": 46925808,
       "title": "I write games in C (yes, C) (2016)",
       "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
-      "score": 217,
+      "score": 221,
       "by": "valyala",
       "time": 1770486325,
-      "comments": 233,
+      "comments": 237,
       "domain": "jonathanwhiting.com"
     },
     {
@@ -258,7 +258,7 @@
       "score": 72,
       "by": "grep_it",
       "time": 1770064661,
-      "comments": 9,
+      "comments": 10,
       "domain": "aosabook.org"
     },
     {
@@ -268,7 +268,7 @@
       "score": 165,
       "by": "swah",
       "time": 1770112803,
-      "comments": 313,
+      "comments": 317,
       "domain": "federicopereiro.com"
     },
     {
@@ -278,8 +278,18 @@
       "score": 60,
       "by": "monero-xmr",
       "time": 1770528333,
-      "comments": 72,
+      "comments": 75,
       "domain": "rogerebert.com"
+    },
+    {
+      "id": 46924426,
+      "title": "Software factories and the agentic moment",
+      "url": "https://factory.strongdm.ai/",
+      "score": 257,
+      "by": "mellosouls",
+      "time": 1770476756,
+      "comments": 420,
+      "domain": "factory.strongdm.ai"
     },
     {
       "id": 46933515,
@@ -290,16 +300,6 @@
       "time": 1770552002,
       "comments": 20,
       "domain": "cinegraphs.ai"
-    },
-    {
-      "id": 46924426,
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "score": 257,
-      "by": "mellosouls",
-      "time": 1770476756,
-      "comments": 418,
-      "domain": "factory.strongdm.ai"
     }
   ]
 }
