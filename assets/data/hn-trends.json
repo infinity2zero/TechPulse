@@ -1,24 +1,34 @@
 {
-  "lastUpdated": "2026-02-08T11:35:20.743Z",
+  "lastUpdated": "2026-02-08T11:50:17.628Z",
   "items": [
     {
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "url": "https://donotnotify.com/opensource.html",
-      "score": 179,
+      "score": 193,
       "by": "awaaz",
       "time": 1770536389,
-      "comments": 29,
+      "comments": 31,
       "domain": "donotnotify.com"
+    },
+    {
+      "id": 46932343,
+      "title": "Matchlock: Linux-based sandboxing for AI agents",
+      "url": "https://github.com/jingkaihe/matchlock",
+      "score": 34,
+      "by": "jingkai_he",
+      "time": 1770538075,
+      "comments": 3,
+      "domain": "github.com"
     },
     {
       "id": 46930391,
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
-      "score": 240,
+      "score": 242,
       "by": "yi_wang",
       "time": 1770513998,
-      "comments": 116,
+      "comments": 118,
       "domain": "github.com"
     },
     {
@@ -32,74 +42,84 @@
       "domain": "github.com"
     },
     {
-      "id": 46932343,
-      "title": "Matchlock: Linux-based sandboxing for AI agents",
-      "url": "https://github.com/jingkaihe/matchlock",
-      "score": 29,
-      "by": "jingkai_he",
-      "time": 1770538075,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
       "id": 46930565,
       "title": "Haskell for all: Beyond agentic coding",
       "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 138,
+      "score": 143,
       "by": "RebelPotato",
       "time": 1770515709,
-      "comments": 40,
+      "comments": 42,
       "domain": "haskellforall.com"
     },
     {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "url": "https://xorvoid.com/sectorc.html",
-      "score": 320,
+      "score": 322,
       "by": "valyala",
       "time": 1770485993,
-      "comments": 62,
+      "comments": 63,
       "domain": "xorvoid.com"
     },
     {
       "id": 46868928,
       "title": "LLMs as the new high level language",
       "url": "https://federicopereiro.com/llm-high/",
-      "score": 134,
+      "score": 136,
       "by": "swah",
       "time": 1770112803,
-      "comments": 237,
+      "comments": 243,
       "domain": "federicopereiro.com"
+    },
+    {
+      "id": 46861158,
+      "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
+      "url": "https://aosabook.org/en/v1/bdb.html",
+      "score": 45,
+      "by": "grep_it",
+      "time": 1770064661,
+      "comments": 8,
+      "domain": "aosabook.org"
     },
     {
       "id": 46867997,
       "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
       "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-      "score": 10,
+      "score": 11,
       "by": "sohkamyung",
       "time": 1770105965,
       "comments": 0,
       "domain": "quantamagazine.org"
     },
     {
-      "id": 46861158,
-      "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-      "url": "https://aosabook.org/en/v1/bdb.html",
-      "score": 43,
-      "by": "grep_it",
-      "time": 1770064661,
-      "comments": 7,
-      "domain": "aosabook.org"
-    },
-    {
       "id": 46924426,
       "title": "Software factories and the agentic moment",
       "url": "https://factory.strongdm.ai/",
-      "score": 239,
+      "score": 242,
       "by": "mellosouls",
       "time": 1770476756,
-      "comments": 397,
+      "comments": 400,
       "domain": "factory.strongdm.ai"
+    },
+    {
+      "id": 46886569,
+      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
+      "url": "https://rabbitear.org/book/origami.html",
+      "score": 9,
+      "by": "molszanski",
+      "time": 1770217058,
+      "comments": 2,
+      "domain": "rabbitear.org"
+    },
+    {
+      "id": 46933067,
+      "title": "(AI) Slop Terrifies Me",
+      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "score": 18,
+      "by": "Ezhik",
+      "time": 1770546695,
+      "comments": 5,
+      "domain": "ezhik.jp"
     },
     {
       "id": 46926043,
@@ -108,7 +128,7 @@
       "score": 195,
       "by": "surprisetalk",
       "time": 1770487703,
-      "comments": 198,
+      "comments": 199,
       "domain": "code.claude.com"
     },
     {
@@ -125,71 +145,61 @@
       "id": 46931595,
       "title": "LineageOS 23.2",
       "url": "https://lineageos.org/Changelog-31/",
-      "score": 77,
+      "score": 80,
       "by": "pentagrama",
       "time": 1770528795,
-      "comments": 18,
+      "comments": 19,
       "domain": "lineageos.org"
-    },
-    {
-      "id": 46869713,
-      "title": "uLauncher",
-      "url": "https://github.com/jrpie/launcher",
-      "score": 37,
-      "by": "dtj1123",
-      "time": 1770118871,
-      "comments": 8,
-      "domain": "github.com"
     },
     {
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 210,
+      "score": 211,
       "by": "vinhnx",
       "time": 1770475336,
       "comments": 24,
       "domain": "susam.net"
     },
     {
-      "id": 46886569,
-      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
-      "url": "https://rabbitear.org/book/origami.html",
-      "score": 7,
-      "by": "molszanski",
-      "time": 1770217058,
-      "comments": 2,
-      "domain": "rabbitear.org"
+      "id": 46869713,
+      "title": "uLauncher",
+      "url": "https://github.com/jrpie/launcher",
+      "score": 38,
+      "by": "dtj1123",
+      "time": 1770118871,
+      "comments": 8,
+      "domain": "github.com"
     },
     {
-      "id": 46933067,
-      "title": "(AI) Slop Terrifies Me",
-      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 7,
-      "by": "Ezhik",
-      "time": 1770546695,
-      "comments": 0,
-      "domain": "ezhik.jp"
+      "id": 46922049,
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "url": "https://jesperordrup.github.io/vocal-guide/",
+      "score": 375,
+      "by": "jesperordrup",
+      "time": 1770449823,
+      "comments": 112,
+      "domain": "jesperordrup.github.io"
     },
     {
       "id": 46926576,
       "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
       "url": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
-      "score": 83,
+      "score": 85,
       "by": "gnufx",
       "time": 1770491247,
       "comments": 66,
       "domain": "hpcwire.com"
     },
     {
-      "id": 46922049,
-      "title": "Vocal Guide – belt sing without killing yourself",
-      "url": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 373,
-      "by": "jesperordrup",
-      "time": 1770449823,
-      "comments": 112,
-      "domain": "jesperordrup.github.io"
+      "id": 46889741,
+      "title": "The Legacy of Daniel Kahneman: A Personal View (2025)",
+      "url": "https://ejpe.org/journal/article/view/1075/753",
+      "score": 4,
+      "by": "cainxinth",
+      "time": 1770230197,
+      "comments": 0,
+      "domain": "ejpe.org"
     },
     {
       "id": 46897407,
@@ -200,6 +210,16 @@
       "time": 1770281785,
       "comments": 28,
       "domain": "solar.lowtechmagazine.com"
+    },
+    {
+      "id": 46932845,
+      "title": "In the Australian outback, we're listening for nuclear tests",
+      "url": "https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478",
+      "score": 17,
+      "by": "defrost",
+      "time": 1770543895,
+      "comments": 4,
+      "domain": "abc.net.au"
     },
     {
       "id": 46925811,
@@ -222,16 +242,6 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 46932845,
-      "title": "In the Australian outback, we're listening for nuclear tests",
-      "url": "https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478",
-      "score": 16,
-      "by": "defrost",
-      "time": 1770543895,
-      "comments": 4,
-      "domain": "abc.net.au"
-    },
-    {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
@@ -245,10 +255,10 @@
       "id": 46931347,
       "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
       "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-      "score": 75,
+      "score": 76,
       "by": "witnessme",
       "time": 1770525290,
-      "comments": 33,
+      "comments": 35,
       "domain": "techcrunch.com"
     },
     {
@@ -268,17 +278,17 @@
       "score": 197,
       "by": "speckx",
       "time": 1770125228,
-      "comments": 287,
+      "comments": 291,
       "domain": "datawrapper.de"
     },
     {
       "id": 46922969,
       "title": "The AI boom is causing shortages everywhere else",
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 356,
+      "score": 359,
       "by": "1vuio0pswjnm7",
       "time": 1770463289,
-      "comments": 588,
+      "comments": 598,
       "domain": "washingtonpost.com"
     },
     {
@@ -290,16 +300,6 @@
       "time": 1770414683,
       "comments": 283,
       "domain": "openciv3.org"
-    },
-    {
-      "id": 46918429,
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "url": "https://github.com/valdanylchuk/breezydemo",
-      "score": 314,
-      "by": "isitcontent",
-      "time": 1770413591,
-      "comments": 40,
-      "domain": "github.com"
     }
   ]
 }
