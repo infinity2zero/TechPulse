@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-02-08T01:10:15.036Z",
+  "lastUpdated": "2026-02-08T04:08:31.071Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1576,
+      "stars": 1625,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T01:00:56Z"
+      "updated_at": "2026-02-08T04:07:54Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1537,
+      "stars": 1540,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-08T00:02:16Z"
+      "updated_at": "2026-02-08T03:15:36Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1451,
+      "stars": 1480,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-08T01:08:44Z"
+      "updated_at": "2026-02-08T04:00:18Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 860,
+      "stars": 874,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-08T00:59:46Z"
+      "updated_at": "2026-02-08T03:16:54Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 724,
+      "stars": 730,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-07T23:59:07Z"
+      "updated_at": "2026-02-08T03:02:04Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 684,
+      "stars": 723,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-08T00:59:29Z"
+      "updated_at": "2026-02-08T04:04:53Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 571,
+      "stars": 586,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-08T00:35:49Z"
+      "updated_at": "2026-02-08T04:07:12Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 550,
+      "stars": 554,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-08T00:56:50Z"
+      "updated_at": "2026-02-08T03:23:10Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 456,
+      "stars": 462,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-07T23:32:31Z"
+      "updated_at": "2026-02-08T03:47:56Z"
     },
     {
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 428,
+      "stars": 434,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-07T23:39:40Z"
+      "updated_at": "2026-02-08T03:04:44Z"
     },
     {
       "id": 1147761848,
       "name": "BehiSecc/VibeSec-Skill",
       "description": "This skill helps Claude write secure code and prevent common vulnerabilities.",
-      "stars": 396,
+      "stars": 397,
       "language": null,
       "url": "https://github.com/BehiSecc/VibeSec-Skill",
       "owner": {
         "login": "BehiSecc",
         "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
       },
-      "updated_at": "2026-02-08T00:39:21Z"
+      "updated_at": "2026-02-08T02:14:07Z"
     },
     {
       "id": 1148459032,
       "name": "Haleclipse/CodexDesktop-Rebuild",
       "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 384,
+      "stars": 387,
       "language": "JavaScript",
       "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
       "owner": {
         "login": "Haleclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
       },
-      "updated_at": "2026-02-08T00:47:39Z"
+      "updated_at": "2026-02-08T04:02:20Z"
     },
     {
       "id": 1150541271,
@@ -171,69 +171,82 @@
       "updated_at": "2026-02-07T05:44:17Z"
     },
     {
-      "id": 1150763716,
-      "name": "antirez/voxtral.c",
-      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 360,
-      "language": "C",
-      "url": "https://github.com/antirez/voxtral.c",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-08T00:29:32Z"
-    },
-    {
-      "id": 1149477047,
-      "name": "sanyuan0704/code-review-expert",
-      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 353,
-      "language": null,
-      "url": "https://github.com/sanyuan0704/code-review-expert",
-      "owner": {
-        "login": "sanyuan0704",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
-      },
-      "updated_at": "2026-02-08T00:00:43Z"
-    },
-    {
       "id": 1149626116,
       "name": "run-bigpig/jcp",
       "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 351,
+      "stars": 375,
       "language": "Go",
       "url": "https://github.com/run-bigpig/jcp",
       "owner": {
         "login": "run-bigpig",
         "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
       },
-      "updated_at": "2026-02-08T01:08:40Z"
+      "updated_at": "2026-02-08T04:07:30Z"
+    },
+    {
+      "id": 1150912706,
+      "name": "mitchellh/vouch",
+      "description": "A contributor trust management system based on explicit vouches to participate.",
+      "stars": 372,
+      "language": "Nushell",
+      "url": "https://github.com/mitchellh/vouch",
+      "owner": {
+        "login": "mitchellh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
+      },
+      "updated_at": "2026-02-08T04:08:06Z"
+    },
+    {
+      "id": 1150763716,
+      "name": "antirez/voxtral.c",
+      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+      "stars": 363,
+      "language": "C",
+      "url": "https://github.com/antirez/voxtral.c",
+      "owner": {
+        "login": "antirez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+      },
+      "updated_at": "2026-02-08T03:53:56Z"
+    },
+    {
+      "id": 1149477047,
+      "name": "sanyuan0704/code-review-expert",
+      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+      "stars": 355,
+      "language": null,
+      "url": "https://github.com/sanyuan0704/code-review-expert",
+      "owner": {
+        "login": "sanyuan0704",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
+      },
+      "updated_at": "2026-02-08T03:12:34Z"
     },
     {
       "id": 1150071903,
       "name": "rohitg00/awesome-claude-code-toolkit",
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
-      "stars": 334,
+      "stars": 345,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-08T00:54:26Z"
+      "updated_at": "2026-02-08T04:05:03Z"
     },
     {
       "id": 1147610662,
       "name": "Ye-Yu-Mo/FundVal-Live",
       "description": "盘中基金估值，实时估值，基金净值",
-      "stars": 282,
+      "stars": 285,
       "language": "JavaScript",
       "url": "https://github.com/Ye-Yu-Mo/FundVal-Live",
       "owner": {
         "login": "Ye-Yu-Mo",
         "avatar_url": "https://avatars.githubusercontent.com/u/111164520?v=4"
       },
-      "updated_at": "2026-02-08T01:03:49Z"
+      "updated_at": "2026-02-08T03:38:23Z"
     },
     {
       "id": 1147642224,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/171784169?v=4"
       },
       "updated_at": "2026-02-07T05:24:18Z"
-    },
-    {
-      "id": 1148507906,
-      "name": "Lucent-Snow/style-extractor",
-      "description": "一个能够提取最大化提取网页风格的skill",
-      "stars": 255,
-      "language": "JavaScript",
-      "url": "https://github.com/Lucent-Snow/style-extractor",
-      "owner": {
-        "login": "Lucent-Snow",
-        "avatar_url": "https://avatars.githubusercontent.com/u/190742844?v=4"
-      },
-      "updated_at": "2026-02-07T15:58:05Z"
     }
   ]
 }
