@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T11:50:18.054Z",
+  "lastUpdated": "2026-02-08T11:59:34.738Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1712,
+      "stars": 1714,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T11:46:55Z"
+      "updated_at": "2026-02-08T11:57:26Z"
     },
     {
       "id": 1150117793,
@@ -31,40 +31,40 @@
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1551,
+      "stars": 1553,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-08T11:31:48Z"
+      "updated_at": "2026-02-08T11:58:05Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 915,
+      "stars": 918,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-08T11:46:43Z"
+      "updated_at": "2026-02-08T11:58:06Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 803,
+      "stars": 804,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-08T11:48:13Z"
+      "updated_at": "2026-02-08T11:55:00Z"
     },
     {
       "id": 1147992203,
@@ -83,14 +83,14 @@
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A contributor trust management system based on explicit vouches to participate.",
-      "stars": 650,
+      "stars": 653,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-08T11:50:03Z"
+      "updated_at": "2026-02-08T11:58:36Z"
     },
     {
       "id": 1148662823,
@@ -161,27 +161,27 @@
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 410,
+      "stars": 411,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-08T11:44:21Z"
+      "updated_at": "2026-02-08T11:51:04Z"
     },
     {
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 402,
+      "stars": 403,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-08T11:45:16Z"
+      "updated_at": "2026-02-08T11:59:03Z"
     },
     {
       "id": 1147761848,
@@ -226,14 +226,14 @@
       "id": 1150071903,
       "name": "rohitg00/awesome-claude-code-toolkit",
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
-      "stars": 367,
+      "stars": 368,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-08T11:44:12Z"
+      "updated_at": "2026-02-08T11:58:05Z"
     },
     {
       "id": 1151411061,
@@ -252,14 +252,14 @@
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 337,
+      "stars": 340,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-08T11:46:37Z"
+      "updated_at": "2026-02-08T11:56:40Z"
     }
   ]
 }
