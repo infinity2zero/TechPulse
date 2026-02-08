@@ -1,111 +1,121 @@
 {
-  "lastUpdated": "2026-02-08T09:41:15.635Z",
+  "lastUpdated": "2026-02-08T09:57:57.358Z",
   "items": [
     {
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "url": "https://donotnotify.com/opensource.html",
-      "score": 73,
+      "score": 82,
       "by": "awaaz",
       "time": 1770536389,
-      "comments": 11,
+      "comments": 12,
       "domain": "donotnotify.com"
     },
     {
       "id": 46930391,
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
-      "score": 212,
+      "score": 220,
       "by": "yi_wang",
       "time": 1770513998,
-      "comments": 89,
+      "comments": 90,
       "domain": "github.com"
     },
     {
       "id": 46930565,
       "title": "Haskell for all: Beyond agentic coding",
       "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 107,
+      "score": 111,
       "by": "RebelPotato",
       "time": 1770515709,
-      "comments": 28,
+      "comments": 31,
       "domain": "haskellforall.com"
-    },
-    {
-      "id": 46855852,
-      "title": "Moroccan sardine prices to stabilise via new measures: officials",
-      "url": "https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/",
-      "score": 27,
-      "by": "mooreds",
-      "time": 1770039192,
-      "comments": 2,
-      "domain": "maghrebi.org"
-    },
-    {
-      "id": 46931559,
-      "title": "Roger Ebert Reviews \"The Shawshank Redemption\" (1999)",
-      "url": "https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994",
-      "score": 31,
-      "by": "monero-xmr",
-      "time": 1770528333,
-      "comments": 27,
-      "domain": "rogerebert.com"
     },
     {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "url": "https://xorvoid.com/sectorc.html",
-      "score": 296,
+      "score": 301,
       "by": "valyala",
       "time": 1770485993,
-      "comments": 57,
+      "comments": 58,
       "domain": "xorvoid.com"
     },
     {
       "id": 46868928,
       "title": "LLMs as the new high level language",
       "url": "https://federicopereiro.com/llm-high/",
-      "score": 111,
+      "score": 115,
       "by": "swah",
       "time": 1770112803,
-      "comments": 200,
+      "comments": 202,
       "domain": "federicopereiro.com"
-    },
-    {
-      "id": 46924426,
-      "title": "Software factories and the agentic moment",
-      "url": "https://factory.strongdm.ai/",
-      "score": 228,
-      "by": "mellosouls",
-      "time": 1770476756,
-      "comments": 387,
-      "domain": "factory.strongdm.ai"
     },
     {
       "id": 46861158,
       "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
       "url": "https://aosabook.org/en/v1/bdb.html",
-      "score": 27,
+      "score": 29,
       "by": "grep_it",
       "time": 1770064661,
       "comments": 3,
       "domain": "aosabook.org"
     },
     {
+      "id": 46924426,
+      "title": "Software factories and the agentic moment",
+      "url": "https://factory.strongdm.ai/",
+      "score": 231,
+      "by": "mellosouls",
+      "time": 1770476756,
+      "comments": 390,
+      "domain": "factory.strongdm.ai"
+    },
+    {
+      "id": 46931559,
+      "title": "Roger Ebert Reviews \"The Shawshank Redemption\" (1999)",
+      "url": "https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994",
+      "score": 32,
+      "by": "monero-xmr",
+      "time": 1770528333,
+      "comments": 35,
+      "domain": "rogerebert.com"
+    },
+    {
+      "id": 46855852,
+      "title": "Moroccan sardine prices to stabilise via new measures: officials",
+      "url": "https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/",
+      "score": 29,
+      "by": "mooreds",
+      "time": 1770039192,
+      "comments": 2,
+      "domain": "maghrebi.org"
+    },
+    {
       "id": 46926043,
       "title": "Speed up responses with fast mode",
       "url": "https://code.claude.com/docs/en/fast-mode",
-      "score": 184,
+      "score": 185,
       "by": "surprisetalk",
       "time": 1770487703,
-      "comments": 186,
+      "comments": 189,
       "domain": "code.claude.com"
+    },
+    {
+      "id": 46867997,
+      "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
+      "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
+      "score": 4,
+      "by": "sohkamyung",
+      "time": 1770105965,
+      "comments": 0,
+      "domain": "quantamagazine.org"
     },
     {
       "id": 46931595,
       "title": "LineageOS 23.2",
       "url": "https://lineageos.org/Changelog-31/",
-      "score": 53,
+      "score": 56,
       "by": "pentagrama",
       "time": 1770528795,
       "comments": 10,
@@ -125,10 +135,10 @@
       "id": 46924264,
       "title": "Stories from 25 Years of Software Development",
       "url": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 199,
+      "score": 201,
       "by": "vinhnx",
       "time": 1770475336,
-      "comments": 20,
+      "comments": 21,
       "domain": "susam.net"
     },
     {
@@ -138,7 +148,7 @@
       "score": 80,
       "by": "gnufx",
       "time": 1770491247,
-      "comments": 64,
+      "comments": 65,
       "domain": "hpcwire.com"
     },
     {
@@ -155,30 +165,40 @@
       "id": 46897407,
       "title": "Wood Gas Vehicles: Firewood in the Fuel Tank (2010)",
       "url": "https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/",
-      "score": 50,
+      "score": 52,
       "by": "Rygian",
       "time": 1770281785,
       "comments": 21,
       "domain": "solar.lowtechmagazine.com"
     },
     {
-      "id": 46867997,
-      "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
-      "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-      "score": 3,
-      "by": "sohkamyung",
-      "time": 1770105965,
-      "comments": 0,
-      "domain": "quantamagazine.org"
-    },
-    {
       "id": 46869713,
       "title": "uLauncher",
       "url": "https://github.com/jrpie/launcher",
-      "score": 23,
+      "score": 24,
       "by": "dtj1123",
       "time": 1770118871,
       "comments": 6,
+      "domain": "github.com"
+    },
+    {
+      "id": 46924591,
+      "title": "First Proof",
+      "url": "https://arxiv.org/abs/2602.05192",
+      "score": 148,
+      "by": "samasblack",
+      "time": 1770477949,
+      "comments": 92,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 46925811,
+      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
+      "url": "https://github.com/Momciloo/fun-with-clip-path",
+      "score": 104,
+      "by": "momciloo",
+      "time": 1770486327,
+      "comments": 24,
       "domain": "github.com"
     },
     {
@@ -188,34 +208,14 @@
       "score": 58,
       "by": "witnessme",
       "time": 1770525290,
-      "comments": 21,
+      "comments": 22,
       "domain": "techcrunch.com"
-    },
-    {
-      "id": 46924591,
-      "title": "First Proof",
-      "url": "https://arxiv.org/abs/2602.05192",
-      "score": 146,
-      "by": "samasblack",
-      "time": 1770477949,
-      "comments": 90,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 46925811,
-      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
-      "url": "https://github.com/Momciloo/fun-with-clip-path",
-      "score": 102,
-      "by": "momciloo",
-      "time": 1770486327,
-      "comments": 24,
-      "domain": "github.com"
     },
     {
       "id": 46890814,
       "title": "Start all of your commands with a comma (2009)",
       "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 609,
+      "score": 610,
       "by": "theblazehen",
       "time": 1770235152,
       "comments": 219,
@@ -232,54 +232,54 @@
       "domain": "spillhistorie.no"
     },
     {
-      "id": 46922969,
-      "title": "The AI boom is causing shortages everywhere else",
-      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 342,
-      "by": "1vuio0pswjnm7",
-      "time": 1770463289,
-      "comments": 553,
-      "domain": "washingtonpost.com"
-    },
-    {
       "id": 46932388,
       "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
       "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
-      "score": 4,
+      "score": 5,
       "by": "birdculture",
       "time": 1770538536,
       "comments": 0,
       "domain": "cyber-omelette.com"
     },
     {
+      "id": 46922969,
+      "title": "The AI boom is causing shortages everywhere else",
+      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "score": 344,
+      "by": "1vuio0pswjnm7",
+      "time": 1770463289,
+      "comments": 557,
+      "domain": "washingtonpost.com"
+    },
+    {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "url": "https://openciv3.org/",
-      "score": 920,
+      "score": 921,
       "by": "klaussilveira",
       "time": 1770414683,
-      "comments": 280,
+      "comments": 282,
       "domain": "openciv3.org"
+    },
+    {
+      "id": 46870694,
+      "title": "Where did all the starships go?",
+      "url": "https://www.datawrapper.de/blog/science-fiction-decline",
+      "score": 180,
+      "by": "speckx",
+      "time": 1770125228,
+      "comments": 267,
+      "domain": "datawrapper.de"
     },
     {
       "id": 46884412,
       "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
       "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
-      "score": 43,
+      "score": 46,
       "by": "mbitsnbites",
       "time": 1770203613,
       "comments": 7,
       "domain": "bitsnbites.eu"
-    },
-    {
-      "id": 46930634,
-      "title": "The Scriptovision Super Micro Script video titler is almost a home computer",
-      "url": "http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html",
-      "score": 11,
-      "by": "todsacerdoti",
-      "time": 1770516616,
-      "comments": 1,
-      "domain": "oldvcr.blogspot.com"
     },
     {
       "id": 46918429,
@@ -292,14 +292,14 @@
       "domain": "github.com"
     },
     {
-      "id": 46870694,
-      "title": "Where did all the starships go?",
-      "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-      "score": 175,
-      "by": "speckx",
-      "time": 1770125228,
-      "comments": 261,
-      "domain": "datawrapper.de"
+      "id": 46930634,
+      "title": "The Scriptovision Super Micro Script video titler is almost a home computer",
+      "url": "http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html",
+      "score": 11,
+      "by": "todsacerdoti",
+      "time": 1770516616,
+      "comments": 1,
+      "domain": "oldvcr.blogspot.com"
     }
   ]
 }
