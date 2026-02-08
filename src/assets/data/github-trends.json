@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-02-08T18:25:57.489Z",
+  "lastUpdated": "2026-02-08T19:01:27.414Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1770,
+      "stars": 1775,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T17:57:19Z"
+      "updated_at": "2026-02-08T19:00:21Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1622,
+      "stars": 1628,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-08T18:18:56Z"
+      "updated_at": "2026-02-08T18:53:49Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1567,
+      "stars": 1570,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-08T18:05:23Z"
-    },
-    {
-      "id": 1150127283,
-      "name": "antonpk1/excalidraw-mcp-app",
-      "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
-      "stars": 952,
-      "language": "TypeScript",
-      "url": "https://github.com/antonpk1/excalidraw-mcp-app",
-      "owner": {
-        "login": "antonpk1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
-      },
-      "updated_at": "2026-02-08T18:15:55Z"
+      "updated_at": "2026-02-08T18:48:59Z"
     },
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A contributor trust management system based on explicit vouches to participate.",
-      "stars": 924,
+      "stars": 979,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-08T18:25:42Z"
+      "updated_at": "2026-02-08T19:00:52Z"
+    },
+    {
+      "id": 1150127283,
+      "name": "antonpk1/excalidraw-mcp-app",
+      "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude",
+      "stars": 956,
+      "language": "TypeScript",
+      "url": "https://github.com/antonpk1/excalidraw-mcp-app",
+      "owner": {
+        "login": "antonpk1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
+      },
+      "updated_at": "2026-02-08T19:00:24Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 842,
+      "stars": 844,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-08T18:13:46Z"
+      "updated_at": "2026-02-08T18:58:07Z"
     },
     {
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 763,
+      "stars": 764,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-08T18:23:09Z"
+      "updated_at": "2026-02-08T18:47:39Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 663,
+      "stars": 670,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-08T18:25:13Z"
+      "updated_at": "2026-02-08T19:00:04Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 589,
+      "stars": 590,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-08T18:13:59Z"
+      "updated_at": "2026-02-08T18:54:21Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 486,
+      "stars": 487,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-08T18:20:29Z"
+      "updated_at": "2026-02-08T18:53:25Z"
     },
     {
       "id": 1149314442,
@@ -184,30 +184,30 @@
       "updated_at": "2026-02-08T17:50:06Z"
     },
     {
-      "id": 1151411061,
-      "name": "op7418/CodePilot",
-      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 424,
-      "language": "TypeScript",
-      "url": "https://github.com/op7418/CodePilot",
-      "owner": {
-        "login": "op7418",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-      },
-      "updated_at": "2026-02-08T18:13:48Z"
-    },
-    {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 423,
+      "stars": 428,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-08T18:14:22Z"
+      "updated_at": "2026-02-08T18:59:24Z"
+    },
+    {
+      "id": 1151411061,
+      "name": "op7418/CodePilot",
+      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+      "stars": 426,
+      "language": "TypeScript",
+      "url": "https://github.com/op7418/CodePilot",
+      "owner": {
+        "login": "op7418",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+      },
+      "updated_at": "2026-02-08T18:52:05Z"
     },
     {
       "id": 1148459032,
@@ -239,14 +239,14 @@
       "id": 1150071903,
       "name": "rohitg00/awesome-claude-code-toolkit",
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
-      "stars": 385,
+      "stars": 387,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-08T17:39:29Z"
+      "updated_at": "2026-02-08T18:36:23Z"
     },
     {
       "id": 1150541271,
