@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-08T20:50:42.046Z",
+  "lastUpdated": "2026-02-08T21:13:33.869Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1787,
+      "stars": 1789,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-08T20:42:39Z"
+      "updated_at": "2026-02-08T21:12:43Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1646,
+      "stars": 1648,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-08T20:48:39Z"
+      "updated_at": "2026-02-08T21:04:10Z"
     },
     {
       "id": 1147679251,
       "name": "sheeki03/tirith",
       "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.",
-      "stars": 1576,
+      "stars": 1578,
       "language": "Rust",
       "url": "https://github.com/sheeki03/tirith",
       "owner": {
         "login": "sheeki03",
         "avatar_url": "https://avatars.githubusercontent.com/u/36009418?v=4"
       },
-      "updated_at": "2026-02-08T20:07:19Z"
+      "updated_at": "2026-02-08T21:03:58Z"
     },
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A contributor trust management system based on explicit vouches to participate.",
-      "stars": 1152,
+      "stars": 1177,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-08T20:50:03Z"
+      "updated_at": "2026-02-08T21:13:12Z"
     },
     {
       "id": 1150127283,
@@ -83,27 +83,27 @@
       "id": 1147992203,
       "name": "zai-org/GLM-OCR",
       "description": "GLM-OCR: Accurate ×  Fast × Comprehensive",
-      "stars": 767,
+      "stars": 769,
       "language": "Python",
       "url": "https://github.com/zai-org/GLM-OCR",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-08T19:53:28Z"
+      "updated_at": "2026-02-08T21:02:45Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 683,
+      "stars": 686,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-08T20:45:45Z"
+      "updated_at": "2026-02-08T21:10:33Z"
     },
     {
       "id": 1149409687,
@@ -135,14 +135,14 @@
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 470,
+      "stars": 471,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-08T20:17:11Z"
+      "updated_at": "2026-02-08T21:11:22Z"
     },
     {
       "id": 1149626116,
@@ -161,40 +161,40 @@
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 446,
+      "stars": 447,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-08T20:18:13Z"
+      "updated_at": "2026-02-08T21:11:58Z"
     },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 442,
+      "stars": 443,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-08T20:42:36Z"
+      "updated_at": "2026-02-08T21:07:29Z"
     },
     {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 441,
+      "stars": 442,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-08T20:46:27Z"
+      "updated_at": "2026-02-08T21:06:20Z"
     },
     {
       "id": 1150763716,
@@ -226,14 +226,14 @@
       "id": 1147761848,
       "name": "BehiSecc/VibeSec-Skill",
       "description": "This skill helps Claude write secure code and prevent common vulnerabilities.",
-      "stars": 403,
+      "stars": 404,
       "language": null,
       "url": "https://github.com/BehiSecc/VibeSec-Skill",
       "owner": {
         "login": "BehiSecc",
         "avatar_url": "https://avatars.githubusercontent.com/u/226653201?v=4"
       },
-      "updated_at": "2026-02-08T19:50:13Z"
+      "updated_at": "2026-02-08T21:06:48Z"
     },
     {
       "id": 1150071903,
