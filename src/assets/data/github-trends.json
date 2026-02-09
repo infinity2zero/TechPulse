@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-09T21:45:06.370Z",
+  "lastUpdated": "2026-02-09T22:20:29.730Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2225,
+      "stars": 2242,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T21:39:38Z"
+      "updated_at": "2026-02-09T22:18:55Z"
     },
     {
       "id": 1149071982,
@@ -25,33 +25,33 @@
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-09T21:20:39Z"
+      "updated_at": "2026-02-09T22:15:13Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1837,
+      "stars": 1840,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T21:44:51Z"
+      "updated_at": "2026-02-09T22:07:48Z"
     },
     {
       "id": 1150127283,
       "name": "excalidraw/excalidraw-mcp",
       "description": "Fast and streamable Excalidraw MCP App",
-      "stars": 1030,
+      "stars": 1031,
       "language": "TypeScript",
       "url": "https://github.com/excalidraw/excalidraw-mcp",
       "owner": {
         "login": "excalidraw",
         "avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4"
       },
-      "updated_at": "2026-02-09T21:43:59Z"
+      "updated_at": "2026-02-09T22:10:57Z"
     },
     {
       "id": 1150780143,
@@ -70,40 +70,40 @@
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 932,
+      "stars": 941,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-09T21:43:52Z"
+      "updated_at": "2026-02-09T22:14:08Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 785,
+      "stars": 789,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-09T21:20:13Z"
+      "updated_at": "2026-02-09T21:57:07Z"
     },
     {
       "id": 1148960257,
       "name": "zhukunpenglinyutong/codemoss",
       "description": "下一代VibeCoding，何须用IDE",
-      "stars": 698,
+      "stars": 700,
       "language": "TypeScript",
       "url": "https://github.com/zhukunpenglinyutong/codemoss",
       "owner": {
         "login": "zhukunpenglinyutong",
         "avatar_url": "https://avatars.githubusercontent.com/u/31264015?v=4"
       },
-      "updated_at": "2026-02-09T20:45:27Z"
+      "updated_at": "2026-02-09T22:00:08Z"
     },
     {
       "id": 1149409687,
@@ -148,40 +148,40 @@
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 562,
+      "stars": 572,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-09T21:42:34Z"
+      "updated_at": "2026-02-09T22:14:33Z"
     },
     {
       "id": 1152833832,
       "name": "TheAgentContextLab/OneContext",
       "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 561,
+      "stars": 568,
       "language": null,
       "url": "https://github.com/TheAgentContextLab/OneContext",
       "owner": {
         "login": "TheAgentContextLab",
         "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
       },
-      "updated_at": "2026-02-09T21:41:39Z"
+      "updated_at": "2026-02-09T22:13:51Z"
     },
     {
       "id": 1152229409,
       "name": "trumpet-noek/sora2-free-watermark-remover",
       "description": "sora2 free watermark remover",
-      "stars": 557,
+      "stars": 566,
       "language": "Python",
       "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
       "owner": {
         "login": "trumpet-noek",
         "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
       },
-      "updated_at": "2026-02-09T21:41:24Z"
+      "updated_at": "2026-02-09T22:18:39Z"
     },
     {
       "id": 1149626116,
@@ -200,27 +200,27 @@
       "id": 1152231621,
       "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "description": "sora2 watermark cleaner pro",
-      "stars": 529,
+      "stars": 534,
       "language": "Python",
       "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "owner": {
         "login": "uqogihujomuwhiff",
         "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
       },
-      "updated_at": "2026-02-09T21:35:46Z"
+      "updated_at": "2026-02-09T22:16:05Z"
     },
     {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 523,
+      "stars": 528,
       "language": "Swift",
       "url": "https://github.com/f/textream",
       "owner": {
         "login": "f",
         "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
       },
-      "updated_at": "2026-02-09T21:41:53Z"
+      "updated_at": "2026-02-09T22:17:53Z"
     },
     {
       "id": 1149511572,
@@ -236,6 +236,19 @@
       "updated_at": "2026-02-09T21:37:46Z"
     },
     {
+      "id": 1150763716,
+      "name": "antirez/voxtral.c",
+      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+      "stars": 491,
+      "language": "C",
+      "url": "https://github.com/antirez/voxtral.c",
+      "owner": {
+        "login": "antirez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
+      },
+      "updated_at": "2026-02-09T22:01:33Z"
+    },
+    {
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
       "updated_at": "2026-02-09T20:38:47Z"
-    },
-    {
-      "id": 1150763716,
-      "name": "antirez/voxtral.c",
-      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 489,
-      "language": "C",
-      "url": "https://github.com/antirez/voxtral.c",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-09T21:05:28Z"
     }
   ]
 }
