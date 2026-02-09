@@ -1,213 +1,213 @@
 {
-  "lastUpdated": "2026-02-09T00:58:53.712Z",
+  "lastUpdated": "2026-02-09T03:42:56.691Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1821,
+      "stars": 1850,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-09T00:56:40Z"
+      "updated_at": "2026-02-09T03:31:55Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1675,
+      "stars": 1704,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T00:42:07Z"
+      "updated_at": "2026-02-09T03:30:52Z"
     },
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 1409,
+      "stars": 1534,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T00:58:38Z"
+      "updated_at": "2026-02-09T03:36:41Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App",
-      "stars": 977,
+      "stars": 978,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-09T00:53:15Z"
+      "updated_at": "2026-02-09T02:10:07Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 859,
+      "stars": 882,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-09T00:46:58Z"
+      "updated_at": "2026-02-09T03:24:56Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 710,
+      "stars": 716,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-09T00:54:23Z"
+      "updated_at": "2026-02-09T03:09:42Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 599,
+      "stars": 601,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-09T00:30:19Z"
-    },
-    {
-      "id": 1149511572,
-      "name": "cfinke/EpsteIn",
-      "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 497,
-      "language": "Python",
-      "url": "https://github.com/cfinke/EpsteIn",
-      "owner": {
-        "login": "cfinke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
-      },
-      "updated_at": "2026-02-09T00:42:47Z"
-    },
-    {
-      "id": 1149314442,
-      "name": "fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 475,
-      "language": "JavaScript",
-      "url": "https://github.com/fspecii/ace-step-ui",
-      "owner": {
-        "login": "fspecii",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
-      },
-      "updated_at": "2026-02-08T23:07:39Z"
+      "updated_at": "2026-02-09T03:39:13Z"
     },
     {
       "id": 1149626116,
       "name": "run-bigpig/jcp",
       "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 468,
+      "stars": 507,
       "language": "Go",
       "url": "https://github.com/run-bigpig/jcp",
       "owner": {
         "login": "run-bigpig",
         "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
       },
-      "updated_at": "2026-02-09T00:55:09Z"
+      "updated_at": "2026-02-09T03:38:39Z"
     },
     {
-      "id": 1151130619,
-      "name": "sseanliu/VisionClaw",
-      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 468,
-      "language": null,
-      "url": "https://github.com/sseanliu/VisionClaw",
+      "id": 1149511572,
+      "name": "cfinke/EpsteIn",
+      "description": "See which of your LinkedIn connections appear in the Epstein files.",
+      "stars": 500,
+      "language": "Python",
+      "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
-        "login": "sseanliu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+        "login": "cfinke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-09T00:56:54Z"
-    },
-    {
-      "id": 1151411061,
-      "name": "op7418/CodePilot",
-      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 460,
-      "language": "TypeScript",
-      "url": "https://github.com/op7418/CodePilot",
-      "owner": {
-        "login": "op7418",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-      },
-      "updated_at": "2026-02-09T00:57:30Z"
+      "updated_at": "2026-02-09T03:38:05Z"
     },
     {
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 459,
+      "stars": 496,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-09T00:52:51Z"
+      "updated_at": "2026-02-09T03:40:51Z"
+    },
+    {
+      "id": 1151411061,
+      "name": "op7418/CodePilot",
+      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+      "stars": 491,
+      "language": "TypeScript",
+      "url": "https://github.com/op7418/CodePilot",
+      "owner": {
+        "login": "op7418",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+      },
+      "updated_at": "2026-02-09T03:33:14Z"
+    },
+    {
+      "id": 1151130619,
+      "name": "sseanliu/VisionClaw",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "stars": 487,
+      "language": null,
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "owner": {
+        "login": "sseanliu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+      },
+      "updated_at": "2026-02-09T03:39:39Z"
+    },
+    {
+      "id": 1149314442,
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 477,
+      "language": "JavaScript",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "owner": {
+        "login": "fspecii",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
+      },
+      "updated_at": "2026-02-09T01:15:27Z"
     },
     {
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 442,
+      "stars": 451,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-09T00:58:02Z"
+      "updated_at": "2026-02-09T03:24:37Z"
     },
     {
       "id": 1148459032,
       "name": "Haleclipse/CodexDesktop-Rebuild",
       "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 413,
+      "stars": 417,
       "language": "JavaScript",
       "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
       "owner": {
         "login": "Haleclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
       },
-      "updated_at": "2026-02-08T23:39:46Z"
+      "updated_at": "2026-02-09T03:37:02Z"
     },
     {
       "id": 1150071903,
       "name": "rohitg00/awesome-claude-code-toolkit",
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
-      "stars": 395,
+      "stars": 401,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-08T23:37:17Z"
+      "updated_at": "2026-02-09T03:28:59Z"
     },
     {
       "id": 1150541271,
@@ -226,40 +226,40 @@
       "id": 1151972675,
       "name": "The-Vibe-Company/claude-code-controller",
       "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol",
-      "stars": 347,
+      "stars": 355,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/claude-code-controller",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-09T00:57:33Z"
-    },
-    {
-      "id": 1150359002,
-      "name": "ibelick/webclaw",
-      "description": "Fast web client for OpenClaw",
-      "stars": 304,
-      "language": "TypeScript",
-      "url": "https://github.com/ibelick/webclaw",
-      "owner": {
-        "login": "ibelick",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14288396?v=4"
-      },
-      "updated_at": "2026-02-09T00:14:21Z"
+      "updated_at": "2026-02-09T03:06:02Z"
     },
     {
       "id": 1152229409,
       "name": "trumpet-noek/sora2-free-watermark-remover",
       "description": "sora2 free watermark remover",
-      "stars": 282,
+      "stars": 325,
       "language": "Python",
       "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
       "owner": {
         "login": "trumpet-noek",
         "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
       },
-      "updated_at": "2026-02-09T00:57:46Z"
+      "updated_at": "2026-02-09T03:40:06Z"
+    },
+    {
+      "id": 1150359002,
+      "name": "ibelick/webclaw",
+      "description": "Fast web client for OpenClaw",
+      "stars": 317,
+      "language": "TypeScript",
+      "url": "https://github.com/ibelick/webclaw",
+      "owner": {
+        "login": "ibelick",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14288396?v=4"
+      },
+      "updated_at": "2026-02-09T03:39:50Z"
     }
   ]
 }
