@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-02-09T06:38:08.071Z",
+  "lastUpdated": "2026-02-09T07:40:32.972Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1867,
+      "stars": 1871,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-09T06:29:28Z"
+      "updated_at": "2026-02-09T07:39:13Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1722,
+      "stars": 1733,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T06:20:26Z"
+      "updated_at": "2026-02-09T07:29:10Z"
     },
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 1646,
+      "stars": 1685,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T06:35:00Z"
+      "updated_at": "2026-02-09T07:39:24Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
       "description": "Excalidraw MCP App",
-      "stars": 991,
+      "stars": 992,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-09T06:24:36Z"
+      "updated_at": "2026-02-09T06:56:47Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 902,
+      "stars": 906,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-09T06:32:20Z"
+      "updated_at": "2026-02-09T07:19:07Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 724,
+      "stars": 730,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-09T05:55:39Z"
+      "updated_at": "2026-02-09T07:22:28Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 604,
+      "stars": 605,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-09T05:38:22Z"
-    },
-    {
-      "id": 1149477047,
-      "name": "sanyuan0704/code-review-expert",
-      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 525,
-      "language": null,
-      "url": "https://github.com/sanyuan0704/code-review-expert",
-      "owner": {
-        "login": "sanyuan0704",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
-      },
-      "updated_at": "2026-02-09T06:33:25Z"
+      "updated_at": "2026-02-09T06:57:49Z"
     },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 521,
+      "stars": 540,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-09T06:34:10Z"
+      "updated_at": "2026-02-09T07:40:23Z"
+    },
+    {
+      "id": 1149477047,
+      "name": "sanyuan0704/code-review-expert",
+      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+      "stars": 536,
+      "language": null,
+      "url": "https://github.com/sanyuan0704/code-review-expert",
+      "owner": {
+        "login": "sanyuan0704",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
+      },
+      "updated_at": "2026-02-09T07:35:01Z"
     },
     {
       "id": 1149626116,
       "name": "run-bigpig/jcp",
       "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 521,
+      "stars": 523,
       "language": "Go",
       "url": "https://github.com/run-bigpig/jcp",
       "owner": {
         "login": "run-bigpig",
         "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
       },
-      "updated_at": "2026-02-09T06:38:05Z"
+      "updated_at": "2026-02-09T07:35:27Z"
     },
     {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 516,
+      "stars": 521,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-09T06:35:55Z"
+      "updated_at": "2026-02-09T07:38:37Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 504,
+      "stars": 505,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-09T06:07:52Z"
+      "updated_at": "2026-02-09T07:01:28Z"
     },
     {
       "id": 1149314442,
@@ -174,27 +174,27 @@
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 460,
+      "stars": 465,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-09T06:30:18Z"
+      "updated_at": "2026-02-09T07:31:22Z"
     },
     {
       "id": 1148459032,
       "name": "Haleclipse/CodexDesktop-Rebuild",
       "description": "Codex Desktop App - Cross-platform Rebuild",
-      "stars": 422,
+      "stars": 425,
       "language": "JavaScript",
       "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
       "owner": {
         "login": "Haleclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/15519695?v=4"
       },
-      "updated_at": "2026-02-09T06:27:37Z"
+      "updated_at": "2026-02-09T07:26:23Z"
     },
     {
       "id": 1150071903,
@@ -210,6 +210,19 @@
       "updated_at": "2026-02-09T06:25:21Z"
     },
     {
+      "id": 1152229409,
+      "name": "trumpet-noek/sora2-free-watermark-remover",
+      "description": "sora2 free watermark remover",
+      "stars": 387,
+      "language": "Python",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "owner": {
+        "login": "trumpet-noek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
+      },
+      "updated_at": "2026-02-09T07:38:04Z"
+    },
+    {
       "id": 1150541271,
       "name": "ula7i921011/React2Shell-Scanner",
       "description": "React2Shell Scanner",
@@ -223,43 +236,30 @@
       "updated_at": "2026-02-08T12:59:26Z"
     },
     {
-      "id": 1152229409,
-      "name": "trumpet-noek/sora2-free-watermark-remover",
-      "description": "sora2 free watermark remover",
-      "stars": 374,
-      "language": "Python",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "owner": {
-        "login": "trumpet-noek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
-      },
-      "updated_at": "2026-02-09T06:37:48Z"
-    },
-    {
-      "id": 1151972675,
-      "name": "The-Vibe-Company/claude-code-controller",
-      "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol",
-      "stars": 360,
+      "id": 1148960257,
+      "name": "zhukunpenglinyutong/codemoss",
+      "description": "下一代VibeCoding，何须用IDE",
+      "stars": 373,
       "language": "TypeScript",
-      "url": "https://github.com/The-Vibe-Company/claude-code-controller",
+      "url": "https://github.com/zhukunpenglinyutong/codemoss",
       "owner": {
-        "login": "The-Vibe-Company",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
+        "login": "zhukunpenglinyutong",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31264015?v=4"
       },
-      "updated_at": "2026-02-09T06:37:28Z"
+      "updated_at": "2026-02-09T07:39:48Z"
     },
     {
       "id": 1152231621,
       "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "description": "sora2 watermark cleaner pro",
-      "stars": 357,
+      "stars": 370,
       "language": "Python",
       "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "owner": {
         "login": "uqogihujomuwhiff",
         "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
       },
-      "updated_at": "2026-02-09T06:33:00Z"
+      "updated_at": "2026-02-09T07:37:56Z"
     }
   ]
 }
