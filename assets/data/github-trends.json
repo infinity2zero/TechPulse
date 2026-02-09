@@ -1,148 +1,161 @@
 {
-  "lastUpdated": "2026-02-09T23:01:02.973Z",
+  "lastUpdated": "2026-02-09T23:43:17.210Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2253,
+      "stars": 2263,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T22:58:14Z"
+      "updated_at": "2026-02-09T23:42:00Z"
     },
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1933,
+      "stars": 1940,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-09T22:15:13Z"
+      "updated_at": "2026-02-09T23:42:19Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1844,
+      "stars": 1847,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T22:47:48Z"
+      "updated_at": "2026-02-09T23:42:54Z"
     },
     {
       "id": 1150127283,
       "name": "excalidraw/excalidraw-mcp",
       "description": "Fast and streamable Excalidraw MCP App",
-      "stars": 1031,
+      "stars": 1033,
       "language": "TypeScript",
       "url": "https://github.com/excalidraw/excalidraw-mcp",
       "owner": {
         "login": "excalidraw",
         "avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4"
       },
-      "updated_at": "2026-02-09T22:10:57Z"
+      "updated_at": "2026-02-09T23:37:00Z"
     },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 954,
+      "stars": 972,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-09T22:54:44Z"
+      "updated_at": "2026-02-09T23:38:24Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 942,
+      "stars": 943,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-09T20:36:42Z"
+      "updated_at": "2026-02-09T23:31:13Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 795,
+      "stars": 800,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-09T22:52:57Z"
+      "updated_at": "2026-02-09T23:38:21Z"
     },
     {
       "id": 1148960257,
       "name": "zhukunpenglinyutong/codemoss",
       "description": "下一代VibeCoding，何须用IDE",
-      "stars": 702,
+      "stars": 704,
       "language": "TypeScript",
       "url": "https://github.com/zhukunpenglinyutong/codemoss",
       "owner": {
         "login": "zhukunpenglinyutong",
         "avatar_url": "https://avatars.githubusercontent.com/u/31264015?v=4"
       },
-      "updated_at": "2026-02-09T22:46:04Z"
+      "updated_at": "2026-02-09T23:32:36Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 625,
+      "stars": 626,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-09T21:34:38Z"
-    },
-    {
-      "id": 1151130619,
-      "name": "sseanliu/VisionClaw",
-      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 586,
-      "language": null,
-      "url": "https://github.com/sseanliu/VisionClaw",
-      "owner": {
-        "login": "sseanliu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
-      },
-      "updated_at": "2026-02-09T22:58:35Z"
+      "updated_at": "2026-02-09T23:19:11Z"
     },
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 583,
+      "stars": 602,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-09T22:58:51Z"
+      "updated_at": "2026-02-09T23:41:28Z"
+    },
+    {
+      "id": 1151130619,
+      "name": "sseanliu/VisionClaw",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "stars": 587,
+      "language": null,
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "owner": {
+        "login": "sseanliu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+      },
+      "updated_at": "2026-02-09T23:06:00Z"
+    },
+    {
+      "id": 1152229409,
+      "name": "trumpet-noek/sora2-free-watermark-remover",
+      "description": "sora2 free watermark remover",
+      "stars": 582,
+      "language": "Python",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "owner": {
+        "login": "trumpet-noek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
+      },
+      "updated_at": "2026-02-09T23:37:52Z"
     },
     {
       "id": 1149477047,
@@ -158,30 +171,17 @@
       "updated_at": "2026-02-09T22:44:54Z"
     },
     {
-      "id": 1152229409,
-      "name": "trumpet-noek/sora2-free-watermark-remover",
-      "description": "sora2 free watermark remover",
-      "stars": 575,
-      "language": "Python",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "owner": {
-        "login": "trumpet-noek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
-      },
-      "updated_at": "2026-02-09T22:58:45Z"
-    },
-    {
       "id": 1152833832,
       "name": "TheAgentContextLab/OneContext",
       "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 571,
+      "stars": 578,
       "language": null,
       "url": "https://github.com/TheAgentContextLab/OneContext",
       "owner": {
         "login": "TheAgentContextLab",
         "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
       },
-      "updated_at": "2026-02-09T22:43:36Z"
+      "updated_at": "2026-02-09T23:25:54Z"
     },
     {
       "id": 1149626116,
@@ -200,27 +200,27 @@
       "id": 1152231621,
       "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "description": "sora2 watermark cleaner pro",
-      "stars": 543,
+      "stars": 553,
       "language": "Python",
       "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "owner": {
         "login": "uqogihujomuwhiff",
         "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
       },
-      "updated_at": "2026-02-09T23:00:06Z"
+      "updated_at": "2026-02-09T23:40:05Z"
     },
     {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 540,
+      "stars": 545,
       "language": "Swift",
       "url": "https://github.com/f/textream",
       "owner": {
         "login": "f",
         "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
       },
-      "updated_at": "2026-02-09T22:56:45Z"
+      "updated_at": "2026-02-09T23:35:59Z"
     },
     {
       "id": 1149511572,
@@ -239,27 +239,27 @@
       "id": 1149403151,
       "name": "memovai/mimiclaw",
       "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
-      "stars": 499,
+      "stars": 506,
       "language": "C",
       "url": "https://github.com/memovai/mimiclaw",
       "owner": {
         "login": "memovai",
         "avatar_url": "https://avatars.githubusercontent.com/u/220203124?v=4"
       },
-      "updated_at": "2026-02-09T23:00:04Z"
+      "updated_at": "2026-02-09T23:42:54Z"
     },
     {
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 491,
+      "stars": 492,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-09T22:01:33Z"
+      "updated_at": "2026-02-09T23:16:32Z"
     }
   ]
 }
