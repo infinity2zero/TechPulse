@@ -1,115 +1,155 @@
 {
-  "lastUpdated": "2026-02-09T22:20:29.338Z",
+  "lastUpdated": "2026-02-09T23:01:02.529Z",
   "items": [
-    {
-      "id": 46951057,
-      "title": "America has a tungsten problem",
-      "url": "https://www.noleary.com/blog/posts/1",
-      "score": 66,
-      "by": "noleary",
-      "time": 1770670161,
-      "comments": 37,
-      "domain": "noleary.com"
-    },
     {
       "id": 46945663,
       "title": "Discord will require a face scan or ID for full access next month",
       "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 813,
+      "score": 907,
       "by": "x01",
       "time": 1770647858,
-      "comments": 826,
+      "comments": 908,
       "domain": "theverge.com"
+    },
+    {
+      "id": 46951057,
+      "title": "America has a tungsten problem",
+      "url": "https://www.noleary.com/blog/posts/1",
+      "score": 80,
+      "by": "noleary",
+      "time": 1770670161,
+      "comments": 60,
+      "domain": "noleary.com"
     },
     {
       "id": 46947096,
       "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
       "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 333,
+      "score": 343,
       "by": "tokyobreakfast",
       "time": 1770654391,
-      "comments": 110,
+      "comments": 114,
       "domain": "github.com"
-    },
-    {
-      "id": 46950780,
-      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
-      "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
-      "score": 46,
-      "by": "zaik",
-      "time": 1770669104,
-      "comments": 16,
-      "domain": "blog.prosody.im"
     },
     {
       "id": 46946401,
       "title": "Why is the sky blue?",
       "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 313,
+      "score": 334,
       "by": "udit99",
       "time": 1770651591,
-      "comments": 109,
+      "comments": 117,
       "domain": "explainers.blog"
+    },
+    {
+      "id": 46950780,
+      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+      "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
+      "score": 56,
+      "by": "zaik",
+      "time": 1770669104,
+      "comments": 35,
+      "domain": "blog.prosody.im"
     },
     {
       "id": 46947777,
       "title": "Hard-braking events as indicators of road segment crash risk",
       "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 146,
+      "score": 162,
       "by": "aleyan",
       "time": 1770656977,
-      "comments": 196,
+      "comments": 217,
       "domain": "research.google"
-    },
-    {
-      "id": 46948273,
-      "title": "Game Boy Advance Audio Interpolation",
-      "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-      "score": 52,
-      "by": "ibobev",
-      "time": 1770659050,
-      "comments": 10,
-      "domain": "jsgroth.dev"
-    },
-    {
-      "id": 46945348,
-      "title": "UEFI Bindings for JavaScript",
-      "url": "https://codeberg.org/smnx/promethee",
-      "score": 179,
-      "by": "ananas-dev",
-      "time": 1770646056,
-      "comments": 91,
-      "domain": "codeberg.org"
-    },
-    {
-      "id": 46949452,
-      "title": "Another GitHub outage in the same day",
-      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-      "score": 199,
-      "by": "Nezteb",
-      "time": 1770664045,
-      "comments": 126,
-      "domain": "githubstatus.com"
     },
     {
       "id": 46878373,
       "title": "How I've run major projects (2025)",
       "url": "https://www.benkuhn.net/pjm/",
-      "score": 24,
+      "score": 47,
       "by": "thomascountz",
       "time": 1770158301,
       "comments": 2,
       "domain": "benkuhn.net"
     },
     {
+      "id": 46948273,
+      "title": "Game Boy Advance Audio Interpolation",
+      "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
+      "score": 57,
+      "by": "ibobev",
+      "time": 1770659050,
+      "comments": 16,
+      "domain": "jsgroth.dev"
+    },
+    {
+      "id": 46945348,
+      "title": "UEFI Bindings for JavaScript",
+      "url": "https://codeberg.org/smnx/promethee",
+      "score": 180,
+      "by": "ananas-dev",
+      "time": 1770646056,
+      "comments": 95,
+      "domain": "codeberg.org"
+    },
+    {
       "id": 46946062,
       "title": "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
       "url": "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp",
-      "score": 116,
+      "score": 119,
       "by": "waihtis",
       "time": 1770649867,
-      "comments": 38,
+      "comments": 40,
       "domain": "defusedcyber.com"
+    },
+    {
+      "id": 46898840,
+      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
+      "score": 16,
+      "by": "sohkamyung",
+      "time": 1770293939,
+      "comments": 0,
+      "domain": "quantamagazine.org"
+    },
+    {
+      "id": 46949452,
+      "title": "Another GitHub outage in the same day",
+      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+      "score": 227,
+      "by": "Nezteb",
+      "time": 1770664045,
+      "comments": 154,
+      "domain": "githubstatus.com"
+    },
+    {
+      "id": 46877291,
+      "title": "Information Is Beautiful",
+      "url": "https://informationisbeautiful.net/",
+      "score": 84,
+      "by": "surprisetalk",
+      "time": 1770152742,
+      "comments": 8,
+      "domain": "informationisbeautiful.net"
+    },
+    {
+      "id": 46946308,
+      "title": "Sandboxels",
+      "url": "https://neal.fun/sandboxels/",
+      "score": 105,
+      "by": "2sf5",
+      "time": 1770651069,
+      "comments": 22,
+      "domain": "neal.fun"
+    },
+    {
+      "id": 46945235,
+      "title": "Thoughts on Generating C",
+      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+      "score": 182,
+      "by": "ingve",
+      "time": 1770645288,
+      "comments": 52,
+      "domain": "wingolog.org"
     },
     {
       "id": 46948815,
@@ -118,154 +158,124 @@
       "score": 42,
       "by": "zeristor",
       "time": 1770661256,
-      "comments": 11,
+      "comments": 12,
       "domain": "spitalfieldslife.com"
-    },
-    {
-      "id": 46877291,
-      "title": "Information Is Beautiful",
-      "url": "https://informationisbeautiful.net/",
-      "score": 82,
-      "by": "surprisetalk",
-      "time": 1770152742,
-      "comments": 7,
-      "domain": "informationisbeautiful.net"
-    },
-    {
-      "id": 46945235,
-      "title": "Thoughts on Generating C",
-      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
-      "score": 178,
-      "by": "ingve",
-      "time": 1770645288,
-      "comments": 51,
-      "domain": "wingolog.org"
-    },
-    {
-      "id": 46946308,
-      "title": "Sandboxels",
-      "url": "https://neal.fun/sandboxels/",
-      "score": 95,
-      "by": "2sf5",
-      "time": 1770651069,
-      "comments": 20,
-      "domain": "neal.fun"
-    },
-    {
-      "id": 46950915,
-      "title": "Super Bowl Ad for Ring Cameras Touted AI Surveillance Network",
-      "url": "https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/",
-      "score": 72,
-      "by": "cdrnsf",
-      "time": 1770669665,
-      "comments": 22,
-      "domain": "truthout.org"
     },
     {
       "id": 46943568,
       "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
       "url": "https://alltheviews.world",
-      "score": 347,
+      "score": 353,
       "by": "tombh",
       "time": 1770631555,
-      "comments": 139,
+      "comments": 142,
       "domain": "alltheviews.world"
     },
     {
       "id": 46895089,
       "title": "The Traffic Mimes of Bogotá",
       "url": "https://www.atlasobscura.com/articles/traffic-mimes-of-colombia",
-      "score": 76,
+      "score": 80,
       "by": "IgorPartola",
       "time": 1770260330,
       "comments": 18,
       "domain": "atlasobscura.com"
     },
     {
-      "id": 46898840,
-      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
-      "score": 9,
-      "by": "sohkamyung",
-      "time": 1770293939,
-      "comments": 0,
-      "domain": "quantamagazine.org"
-    },
-    {
-      "id": 46897804,
-      "title": "What's the Entropy of a Random Integer?",
-      "url": "https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/",
-      "score": 26,
-      "by": "sebg",
-      "time": 1770284873,
-      "comments": 2,
-      "domain": "quomodocumque.wordpress.com"
+      "id": 46950915,
+      "title": "Super Bowl Ad for Ring Cameras Touted AI Surveillance Network",
+      "url": "https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/",
+      "score": 95,
+      "by": "cdrnsf",
+      "time": 1770669665,
+      "comments": 41,
+      "domain": "truthout.org"
     },
     {
       "id": 46949864,
       "title": "An articulated archer automaton [video]",
       "url": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
-      "score": 19,
+      "score": 22,
       "by": "Teever",
       "time": 1770665543,
-      "comments": 4,
+      "comments": 5,
       "domain": "youtube.com"
     },
     {
-      "id": 46933955,
-      "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
-      "url": "https://znah.net/graphs/",
-      "score": 142,
-      "by": "znah",
-      "time": 1770556717,
-      "comments": 20,
-      "domain": "znah.net"
-    },
-    {
-      "id": 46950152,
-      "title": "MIT Living Wage Calculator",
-      "url": "https://livingwage.mit.edu/",
-      "score": 139,
-      "by": "bear_with_me",
-      "time": 1770666654,
-      "comments": 179,
-      "domain": "livingwage.mit.edu"
-    },
-    {
-      "id": 46900472,
-      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
-      "url": "https://github.com/jnidzwetzki/pg-dev-container",
-      "score": 15,
-      "by": "mariuz",
-      "time": 1770304185,
-      "comments": 5,
-      "domain": "github.com"
+      "id": 46897804,
+      "title": "What's the Entropy of a Random Integer?",
+      "url": "https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/",
+      "score": 27,
+      "by": "sebg",
+      "time": 1770284873,
+      "comments": 4,
+      "domain": "quomodocumque.wordpress.com"
     },
     {
       "id": 46949642,
       "title": "Luce: First Electric Ferrari. Designed by LoveFrom",
       "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-      "score": 78,
+      "score": 87,
       "by": "kaizenb",
       "time": 1770664770,
-      "comments": 79,
+      "comments": 87,
       "domain": "ferrari.com"
+    },
+    {
+      "id": 46901560,
+      "title": "Stop Using Icons in Data Tables",
+      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+      "score": 6,
+      "by": "ctward",
+      "time": 1770309775,
+      "comments": 1,
+      "domain": "medium.com"
+    },
+    {
+      "id": 46900472,
+      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+      "url": "https://github.com/jnidzwetzki/pg-dev-container",
+      "score": 18,
+      "by": "mariuz",
+      "time": 1770304185,
+      "comments": 6,
+      "domain": "github.com"
+    },
+    {
+      "id": 46933955,
+      "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
+      "url": "https://znah.net/graphs/",
+      "score": 147,
+      "by": "znah",
+      "time": 1770556717,
+      "comments": 23,
+      "domain": "znah.net"
     },
     {
       "id": 46941882,
       "title": "Nobody knows how the whole system works",
       "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-      "score": 255,
+      "score": 265,
       "by": "azhenley",
       "time": 1770614895,
-      "comments": 170,
+      "comments": 176,
       "domain": "surfingcomplexity.blog"
+    },
+    {
+      "id": 46950152,
+      "title": "MIT Living Wage Calculator",
+      "url": "https://livingwage.mit.edu/",
+      "score": 149,
+      "by": "bear_with_me",
+      "time": 1770666654,
+      "comments": 209,
+      "domain": "livingwage.mit.edu"
     },
     {
       "id": 46945497,
       "title": "AT&T, Verizon blocking release of Salt Typhoon security assessment reports",
       "url": "https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/",
-      "score": 249,
+      "score": 255,
       "by": "redman25",
       "time": 1770646932,
       "comments": 64,
@@ -275,21 +285,11 @@
       "id": 46946827,
       "title": "GitHub is down again",
       "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-      "score": 451,
+      "score": 467,
       "by": "MattIPv4",
       "time": 1770653539,
-      "comments": 378,
+      "comments": 380,
       "domain": "githubstatus.com"
-    },
-    {
-      "id": 46949401,
-      "title": "Testing Ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
-      "score": 193,
-      "by": "davidbarker",
-      "time": 1770663856,
-      "comments": 249,
-      "domain": "openai.com"
     }
   ]
 }
