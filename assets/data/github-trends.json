@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-02-09T09:33:33.289Z",
+  "lastUpdated": "2026-02-09T10:37:11.962Z",
   "items": [
     {
       "id": 1149071982,
       "name": "BlockRunAI/ClawRouter",
       "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1879,
+      "stars": 1884,
       "language": "TypeScript",
       "url": "https://github.com/BlockRunAI/ClawRouter",
       "owner": {
         "login": "BlockRunAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
       },
-      "updated_at": "2026-02-09T09:27:31Z"
+      "updated_at": "2026-02-09T10:30:38Z"
     },
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 1779,
+      "stars": 1831,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T09:33:20Z"
+      "updated_at": "2026-02-09T10:35:17Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1757,
+      "stars": 1765,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T09:21:49Z"
+      "updated_at": "2026-02-09T10:34:51Z"
     },
     {
       "id": 1150127283,
       "name": "antonpk1/excalidraw-mcp-app",
-      "description": "Excalidraw MCP App",
-      "stars": 997,
+      "description": "Streamable Excalidraw MCP App",
+      "stars": 1001,
       "language": "TypeScript",
       "url": "https://github.com/antonpk1/excalidraw-mcp-app",
       "owner": {
         "login": "antonpk1",
         "avatar_url": "https://avatars.githubusercontent.com/u/105124934?v=4"
       },
-      "updated_at": "2026-02-09T09:25:39Z"
+      "updated_at": "2026-02-09T10:24:05Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 916,
+      "stars": 920,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-09T09:21:29Z"
+      "updated_at": "2026-02-09T10:11:12Z"
     },
     {
       "id": 1148662823,
       "name": "eljojo/rememory",
       "description": "have a plan for the worst-case scenario",
-      "stars": 735,
+      "stars": 738,
       "language": "Go",
       "url": "https://github.com/eljojo/rememory",
       "owner": {
         "login": "eljojo",
         "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
       },
-      "updated_at": "2026-02-09T09:12:56Z"
+      "updated_at": "2026-02-09T10:20:51Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 608,
+      "stars": 609,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-09T09:16:00Z"
-    },
-    {
-      "id": 1151411061,
-      "name": "op7418/CodePilot",
-      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 555,
-      "language": "TypeScript",
-      "url": "https://github.com/op7418/CodePilot",
-      "owner": {
-        "login": "op7418",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
-      },
-      "updated_at": "2026-02-09T09:14:02Z"
-    },
-    {
-      "id": 1149477047,
-      "name": "sanyuan0704/code-review-expert",
-      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 543,
-      "language": null,
-      "url": "https://github.com/sanyuan0704/code-review-expert",
-      "owner": {
-        "login": "sanyuan0704",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
-      },
-      "updated_at": "2026-02-09T09:30:18Z"
-    },
-    {
-      "id": 1149626116,
-      "name": "run-bigpig/jcp",
-      "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 533,
-      "language": "Go",
-      "url": "https://github.com/run-bigpig/jcp",
-      "owner": {
-        "login": "run-bigpig",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
-      },
-      "updated_at": "2026-02-09T09:32:33Z"
-    },
-    {
-      "id": 1151130619,
-      "name": "sseanliu/VisionClaw",
-      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 529,
-      "language": null,
-      "url": "https://github.com/sseanliu/VisionClaw",
-      "owner": {
-        "login": "sseanliu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
-      },
-      "updated_at": "2026-02-09T09:29:24Z"
+      "updated_at": "2026-02-09T10:00:52Z"
     },
     {
       "id": 1148960257,
       "name": "zhukunpenglinyutong/codemoss",
       "description": "下一代VibeCoding，何须用IDE",
-      "stars": 515,
+      "stars": 580,
       "language": "TypeScript",
       "url": "https://github.com/zhukunpenglinyutong/codemoss",
       "owner": {
         "login": "zhukunpenglinyutong",
         "avatar_url": "https://avatars.githubusercontent.com/u/31264015?v=4"
       },
-      "updated_at": "2026-02-09T09:33:21Z"
+      "updated_at": "2026-02-09T10:37:02Z"
+    },
+    {
+      "id": 1151411061,
+      "name": "op7418/CodePilot",
+      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+      "stars": 563,
+      "language": "TypeScript",
+      "url": "https://github.com/op7418/CodePilot",
+      "owner": {
+        "login": "op7418",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+      },
+      "updated_at": "2026-02-09T10:31:34Z"
+    },
+    {
+      "id": 1149477047,
+      "name": "sanyuan0704/code-review-expert",
+      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+      "stars": 550,
+      "language": null,
+      "url": "https://github.com/sanyuan0704/code-review-expert",
+      "owner": {
+        "login": "sanyuan0704",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
+      },
+      "updated_at": "2026-02-09T10:10:37Z"
+    },
+    {
+      "id": 1149626116,
+      "name": "run-bigpig/jcp",
+      "description": "韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
+      "stars": 537,
+      "language": "Go",
+      "url": "https://github.com/run-bigpig/jcp",
+      "owner": {
+        "login": "run-bigpig",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
+      },
+      "updated_at": "2026-02-09T10:32:08Z"
+    },
+    {
+      "id": 1151130619,
+      "name": "sseanliu/VisionClaw",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "stars": 536,
+      "language": null,
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "owner": {
+        "login": "sseanliu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+      },
+      "updated_at": "2026-02-09T10:27:09Z"
     },
     {
       "id": 1149511572,
@@ -174,27 +174,27 @@
       "id": 1149314442,
       "name": "fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 481,
+      "stars": 482,
       "language": "JavaScript",
       "url": "https://github.com/fspecii/ace-step-ui",
       "owner": {
         "login": "fspecii",
         "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
       },
-      "updated_at": "2026-02-09T09:31:35Z"
+      "updated_at": "2026-02-09T09:38:05Z"
     },
     {
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 472,
+      "stars": 473,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-09T09:33:24Z"
+      "updated_at": "2026-02-09T10:05:32Z"
     },
     {
       "id": 1148459032,
@@ -213,53 +213,53 @@
       "id": 1152229409,
       "name": "trumpet-noek/sora2-free-watermark-remover",
       "description": "sora2 free watermark remover",
-      "stars": 415,
+      "stars": 426,
       "language": "Python",
       "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
       "owner": {
         "login": "trumpet-noek",
         "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
       },
-      "updated_at": "2026-02-09T09:28:59Z"
+      "updated_at": "2026-02-09T10:35:11Z"
     },
     {
       "id": 1150071903,
       "name": "rohitg00/awesome-claude-code-toolkit",
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
-      "stars": 407,
+      "stars": 409,
       "language": "JavaScript",
       "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
       "owner": {
         "login": "rohitg00",
         "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
       },
-      "updated_at": "2026-02-09T09:31:03Z"
+      "updated_at": "2026-02-09T09:43:52Z"
     },
     {
       "id": 1152231621,
       "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "description": "sora2 watermark cleaner pro",
-      "stars": 385,
+      "stars": 394,
       "language": "Python",
       "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "owner": {
         "login": "uqogihujomuwhiff",
         "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
       },
-      "updated_at": "2026-02-09T09:27:40Z"
+      "updated_at": "2026-02-09T10:28:55Z"
     },
     {
-      "id": 1150541271,
-      "name": "ula7i921011/React2Shell-Scanner",
-      "description": "React2Shell Scanner",
-      "stars": 378,
-      "language": "Python",
-      "url": "https://github.com/ula7i921011/React2Shell-Scanner",
+      "id": 1152833832,
+      "name": "TheAgentContextLab/OneContext",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "stars": 390,
+      "language": null,
+      "url": "https://github.com/TheAgentContextLab/OneContext",
       "owner": {
-        "login": "ula7i921011",
-        "avatar_url": "https://avatars.githubusercontent.com/u/198411067?v=4"
+        "login": "TheAgentContextLab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
       },
-      "updated_at": "2026-02-08T12:59:26Z"
+      "updated_at": "2026-02-09T10:35:17Z"
     }
   ]
 }
