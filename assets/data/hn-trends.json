@@ -1,205 +1,285 @@
 {
-  "lastUpdated": "2026-02-10T08:09:40.159Z",
+  "lastUpdated": "2026-02-10T09:10:31.982Z",
   "items": [
     {
       "id": 46954920,
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "url": "https://arxiv.org/abs/2512.20798",
-      "score": 204,
+      "score": 245,
       "by": "tiny-automates",
       "time": 1770693437,
-      "comments": 127,
+      "comments": 156,
       "domain": "arxiv.org"
-    },
-    {
-      "id": 46945663,
-      "title": "Discord will require a face scan or ID for full access next month",
-      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 1575,
-      "by": "x01",
-      "time": 1770647858,
-      "comments": 1501,
-      "domain": "theverge.com"
     },
     {
       "id": 46954136,
       "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
       "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-      "score": 169,
+      "score": 202,
       "by": "Curiositry",
       "time": 1770686802,
-      "comments": 18,
+      "comments": 21,
       "domain": "github.com"
+    },
+    {
+      "id": 46945663,
+      "title": "Discord will require a face scan or ID for full access next month",
+      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "score": 1621,
+      "by": "x01",
+      "time": 1770647858,
+      "comments": 1544,
+      "domain": "theverge.com"
+    },
+    {
+      "id": 46956322,
+      "title": "Brutalist Southbank Centre Listed",
+      "url": "https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals",
+      "score": 14,
+      "by": "daverol",
+      "time": 1770707437,
+      "comments": 15,
+      "domain": "architectsjournal.co.uk"
     },
     {
       "id": 46954049,
       "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
       "url": "https://github.com/antirez/voxtral.c",
-      "score": 96,
+      "score": 124,
       "by": "Curiositry",
       "time": 1770686255,
-      "comments": 6,
+      "comments": 8,
       "domain": "github.com"
     },
     {
       "id": 46946401,
       "title": "Why is the sky blue?",
       "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 543,
+      "score": 566,
       "by": "udit99",
       "time": 1770651591,
-      "comments": 180,
+      "comments": 186,
       "domain": "explainers.blog"
     },
     {
       "id": 46947096,
       "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
       "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 475,
+      "score": 490,
       "by": "tokyobreakfast",
       "time": 1770654391,
-      "comments": 158,
+      "comments": 161,
       "domain": "github.com"
+    },
+    {
+      "id": 46949564,
+      "title": "Discord Alternatives, Ranked",
+      "url": "https://taggart-tech.com/discord-alternatives/",
+      "score": 195,
+      "by": "pseudalopex",
+      "time": 1770664514,
+      "comments": 86,
+      "domain": "taggart-tech.com"
     },
     {
       "id": 46947777,
       "title": "Hard-braking events as indicators of road segment crash risk",
       "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 264,
+      "score": 277,
       "by": "aleyan",
       "time": 1770656977,
-      "comments": 392,
+      "comments": 405,
       "domain": "research.google"
     },
     {
       "id": 46953136,
       "title": "Is particle physics dead, dying, or just hard?",
       "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-      "score": 99,
+      "score": 112,
       "by": "mellosouls",
       "time": 1770679875,
-      "comments": 160,
+      "comments": 170,
       "domain": "quantamagazine.org"
-    },
-    {
-      "id": 46949564,
-      "title": "Discord Alternatives, Ranked",
-      "url": "https://taggart-tech.com/discord-alternatives/",
-      "score": 157,
-      "by": "pseudalopex",
-      "time": 1770664514,
-      "comments": 64,
-      "domain": "taggart-tech.com"
-    },
-    {
-      "id": 46932911,
-      "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
-      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-      "score": 47,
-      "by": "helloplanets",
-      "time": 1770544711,
-      "comments": 10,
-      "domain": "technologyreview.com"
-    },
-    {
-      "id": 46952118,
-      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-      "url": "https://www.chainlift.io/liftkit",
-      "score": 148,
-      "by": "peter_d_sherman",
-      "time": 1770674494,
-      "comments": 86,
-      "domain": "chainlift.io"
     },
     {
       "id": 46949642,
       "title": "Luce: First Electric Ferrari",
       "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-      "score": 156,
+      "score": 173,
       "by": "kaizenb",
       "time": 1770664770,
-      "comments": 160,
+      "comments": 174,
       "domain": "ferrari.com"
+    },
+    {
+      "id": 46952118,
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "url": "https://www.chainlift.io/liftkit",
+      "score": 162,
+      "by": "peter_d_sherman",
+      "time": 1770674494,
+      "comments": 95,
+      "domain": "chainlift.io"
     },
     {
       "id": 46946308,
       "title": "Sandboxels",
       "url": "https://neal.fun/sandboxels/",
-      "score": 260,
+      "score": 279,
       "by": "2sf5",
       "time": 1770651069,
-      "comments": 32,
+      "comments": 35,
       "domain": "neal.fun"
     },
     {
-      "id": 46951057,
-      "title": "America has a tungsten problem",
-      "url": "https://www.noleary.com/blog/posts/1",
-      "score": 160,
-      "by": "noleary",
-      "time": 1770670161,
-      "comments": 156,
-      "domain": "noleary.com"
+      "id": 46931923,
+      "title": "The original vi is a product of its time (and its time has passed)",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime",
+      "score": 11,
+      "by": "ingve",
+      "time": 1770533609,
+      "comments": 15,
+      "domain": "utcc.utoronto.ca"
     },
     {
       "id": 46933223,
       "title": "Eight more months of agents",
       "url": "https://crawshaw.io/blog/eight-more-months-of-agents",
-      "score": 109,
+      "score": 125,
       "by": "arrowsmith",
       "time": 1770548432,
-      "comments": 115,
+      "comments": 132,
       "domain": "crawshaw.io"
+    },
+    {
+      "id": 46951057,
+      "title": "America has a tungsten problem",
+      "url": "https://www.noleary.com/blog/posts/1",
+      "score": 167,
+      "by": "noleary",
+      "time": 1770670161,
+      "comments": 159,
+      "domain": "noleary.com"
     },
     {
       "id": 46950780,
       "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
       "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
-      "score": 105,
+      "score": 114,
       "by": "zaik",
       "time": 1770669104,
-      "comments": 101,
+      "comments": 109,
       "domain": "blog.prosody.im"
-    },
-    {
-      "id": 46901560,
-      "title": "Stop using icons in data tables",
-      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
-      "score": 102,
-      "by": "ctward",
-      "time": 1770309775,
-      "comments": 40,
-      "domain": "medium.com"
     },
     {
       "id": 46950756,
       "title": "Game Theory Patterns at Work (2016)",
       "url": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
-      "score": 74,
+      "score": 79,
       "by": "kurinikku",
       "time": 1770669010,
-      "comments": 5,
+      "comments": 6,
       "domain": "daeus.blog"
     },
     {
       "id": 46945348,
       "title": "UEFI Bindings for JavaScript",
       "url": "https://codeberg.org/smnx/promethee",
-      "score": 214,
+      "score": 219,
       "by": "ananas-dev",
       "time": 1770646056,
-      "comments": 107,
+      "comments": 108,
       "domain": "codeberg.org"
     },
     {
       "id": 46932388,
       "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
       "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
-      "score": 43,
+      "score": 49,
       "by": "birdculture",
       "time": 1770538536,
-      "comments": 9,
+      "comments": 13,
       "domain": "cyber-omelette.com"
+    },
+    {
+      "id": 46953815,
+      "title": "Zulip.com Values",
+      "url": "https://zulip.com/values/",
+      "score": 37,
+      "by": "nothrowaways",
+      "time": 1770684374,
+      "comments": 5,
+      "domain": "zulip.com"
+    },
+    {
+      "id": 46901560,
+      "title": "Stop using icons in data tables",
+      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+      "score": 108,
+      "by": "ctward",
+      "time": 1770309775,
+      "comments": 47,
+      "domain": "medium.com"
+    },
+    {
+      "id": 46945235,
+      "title": "Thoughts on Generating C",
+      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+      "score": 221,
+      "by": "ingve",
+      "time": 1770645288,
+      "comments": 75,
+      "domain": "wingolog.org"
+    },
+    {
+      "id": 46909122,
+      "title": "Generative Pen-Trained Transformer",
+      "url": "https://theodore.net/projects/Polargraph/",
+      "score": 38,
+      "by": "Twarner",
+      "time": 1770352088,
+      "comments": 0,
+      "domain": "theodore.net"
+    },
+    {
+      "id": 46932911,
+      "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "score": 71,
+      "by": "helloplanets",
+      "time": 1770544711,
+      "comments": 24,
+      "domain": "technologyreview.com"
+    },
+    {
+      "id": 46949452,
+      "title": "Another GitHub outage in the same day",
+      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+      "score": 329,
+      "by": "Nezteb",
+      "time": 1770664045,
+      "comments": 244,
+      "domain": "githubstatus.com"
+    },
+    {
+      "id": 46948273,
+      "title": "Game Boy Advance Audio Interpolation",
+      "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
+      "score": 91,
+      "by": "ibobev",
+      "time": 1770659050,
+      "comments": 38,
+      "domain": "jsgroth.dev"
+    },
+    {
+      "id": 46948533,
+      "title": "Everyone’s building “async agents,” but almost no one can define them",
+      "url": "https://www.omnara.com/blog/what-is-an-async-agent-really",
+      "score": 49,
+      "by": "kmansm27",
+      "time": 1770660104,
+      "comments": 39,
+      "domain": "omnara.com"
     },
     {
       "id": 46900022,
@@ -208,88 +288,8 @@
       "score": 16,
       "by": "surprisetalk",
       "time": 1770301874,
-      "comments": 2,
+      "comments": 3,
       "domain": "uhfhistory.com"
-    },
-    {
-      "id": 46909122,
-      "title": "Generative Pen-Trained Transformer",
-      "url": "https://theodore.net/projects/Polargraph/",
-      "score": 36,
-      "by": "Twarner",
-      "time": 1770352088,
-      "comments": 0,
-      "domain": "theodore.net"
-    },
-    {
-      "id": 46945235,
-      "title": "Thoughts on Generating C",
-      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
-      "score": 218,
-      "by": "ingve",
-      "time": 1770645288,
-      "comments": 74,
-      "domain": "wingolog.org"
-    },
-    {
-      "id": 46948273,
-      "title": "Game Boy Advance Audio Interpolation",
-      "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-      "score": 89,
-      "by": "ibobev",
-      "time": 1770659050,
-      "comments": 38,
-      "domain": "jsgroth.dev"
-    },
-    {
-      "id": 46949452,
-      "title": "Another GitHub outage in the same day",
-      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-      "score": 317,
-      "by": "Nezteb",
-      "time": 1770664045,
-      "comments": 235,
-      "domain": "githubstatus.com"
-    },
-    {
-      "id": 46948533,
-      "title": "Everyone’s building “async agents,” but almost no one can define them",
-      "url": "https://www.omnara.com/blog/what-is-an-async-agent-really",
-      "score": 45,
-      "by": "kmansm27",
-      "time": 1770660104,
-      "comments": 37,
-      "domain": "omnara.com"
-    },
-    {
-      "id": 46898840,
-      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
-      "score": 82,
-      "by": "sohkamyung",
-      "time": 1770293939,
-      "comments": 4,
-      "domain": "quantamagazine.org"
-    },
-    {
-      "id": 46953815,
-      "title": "Zulip.com Values",
-      "url": "https://zulip.com/values/",
-      "score": 22,
-      "by": "nothrowaways",
-      "time": 1770684374,
-      "comments": 0,
-      "domain": "zulip.com"
-    },
-    {
-      "id": 46952987,
-      "title": "The shadowy world of abandoned oil tankers",
-      "url": "https://www.bbc.com/news/articles/cddg885344do",
-      "score": 116,
-      "by": "1659447091",
-      "time": 1770679062,
-      "comments": 69,
-      "domain": "bbc.com"
     }
   ]
 }
