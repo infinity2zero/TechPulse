@@ -1,44 +1,31 @@
 {
-  "lastUpdated": "2026-02-09T23:43:17.210Z",
+  "lastUpdated": "2026-02-10T00:06:15.658Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2263,
+      "stars": 2268,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-09T23:42:00Z"
-    },
-    {
-      "id": 1149071982,
-      "name": "BlockRunAI/ClawRouter",
-      "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
-      "stars": 1940,
-      "language": "TypeScript",
-      "url": "https://github.com/BlockRunAI/ClawRouter",
-      "owner": {
-        "login": "BlockRunAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
-      },
-      "updated_at": "2026-02-09T23:42:19Z"
+      "updated_at": "2026-02-10T00:05:34Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1847,
+      "stars": 1849,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-09T23:42:54Z"
+      "updated_at": "2026-02-10T00:04:30Z"
     },
     {
       "id": 1150127283,
@@ -57,14 +44,14 @@
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 972,
+      "stars": 979,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-09T23:38:24Z"
+      "updated_at": "2026-02-10T00:01:21Z"
     },
     {
       "id": 1150780143,
@@ -78,32 +65,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
       "updated_at": "2026-02-09T23:31:13Z"
-    },
-    {
-      "id": 1148662823,
-      "name": "eljojo/rememory",
-      "description": "have a plan for the worst-case scenario",
-      "stars": 800,
-      "language": "Go",
-      "url": "https://github.com/eljojo/rememory",
-      "owner": {
-        "login": "eljojo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/491230?v=4"
-      },
-      "updated_at": "2026-02-09T23:38:21Z"
-    },
-    {
-      "id": 1148960257,
-      "name": "zhukunpenglinyutong/codemoss",
-      "description": "下一代VibeCoding，何须用IDE",
-      "stars": 704,
-      "language": "TypeScript",
-      "url": "https://github.com/zhukunpenglinyutong/codemoss",
-      "owner": {
-        "login": "zhukunpenglinyutong",
-        "avatar_url": "https://avatars.githubusercontent.com/u/31264015?v=4"
-      },
-      "updated_at": "2026-02-09T23:32:36Z"
     },
     {
       "id": 1149409687,
@@ -122,14 +83,14 @@
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 602,
+      "stars": 610,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-09T23:41:28Z"
+      "updated_at": "2026-02-09T23:59:54Z"
     },
     {
       "id": 1151130619,
@@ -148,14 +109,27 @@
       "id": 1152229409,
       "name": "trumpet-noek/sora2-free-watermark-remover",
       "description": "sora2 free watermark remover",
-      "stars": 582,
+      "stars": 586,
       "language": "Python",
       "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
       "owner": {
         "login": "trumpet-noek",
         "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
       },
-      "updated_at": "2026-02-09T23:37:52Z"
+      "updated_at": "2026-02-09T23:59:01Z"
+    },
+    {
+      "id": 1152833832,
+      "name": "TheAgentContextLab/OneContext",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "stars": 583,
+      "language": null,
+      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "owner": {
+        "login": "TheAgentContextLab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
+      },
+      "updated_at": "2026-02-10T00:06:06Z"
     },
     {
       "id": 1149477047,
@@ -171,17 +145,17 @@
       "updated_at": "2026-02-09T22:44:54Z"
     },
     {
-      "id": 1152833832,
-      "name": "TheAgentContextLab/OneContext",
-      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 578,
-      "language": null,
-      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "id": 1152231621,
+      "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "description": "sora2 watermark cleaner pro",
+      "stars": 558,
+      "language": "Python",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "owner": {
-        "login": "TheAgentContextLab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
+        "login": "uqogihujomuwhiff",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
       },
-      "updated_at": "2026-02-09T23:25:54Z"
+      "updated_at": "2026-02-10T00:00:07Z"
     },
     {
       "id": 1149626116,
@@ -197,69 +171,95 @@
       "updated_at": "2026-02-09T18:43:40Z"
     },
     {
-      "id": 1152231621,
-      "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "description": "sora2 watermark cleaner pro",
-      "stars": 553,
-      "language": "Python",
-      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "owner": {
-        "login": "uqogihujomuwhiff",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
-      },
-      "updated_at": "2026-02-09T23:40:05Z"
-    },
-    {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 545,
+      "stars": 549,
       "language": "Swift",
       "url": "https://github.com/f/textream",
       "owner": {
         "login": "f",
         "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
       },
-      "updated_at": "2026-02-09T23:35:59Z"
+      "updated_at": "2026-02-10T00:01:22Z"
     },
     {
       "id": 1149511572,
       "name": "cfinke/EpsteIn",
       "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 518,
+      "stars": 520,
       "language": "Python",
       "url": "https://github.com/cfinke/EpsteIn",
       "owner": {
         "login": "cfinke",
         "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
       },
-      "updated_at": "2026-02-09T21:37:46Z"
+      "updated_at": "2026-02-09T23:46:29Z"
     },
     {
       "id": 1149403151,
       "name": "memovai/mimiclaw",
       "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
-      "stars": 506,
+      "stars": 516,
       "language": "C",
       "url": "https://github.com/memovai/mimiclaw",
       "owner": {
         "login": "memovai",
         "avatar_url": "https://avatars.githubusercontent.com/u/220203124?v=4"
       },
-      "updated_at": "2026-02-09T23:42:54Z"
+      "updated_at": "2026-02-10T00:01:50Z"
     },
     {
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 492,
+      "stars": 494,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-09T23:16:32Z"
+      "updated_at": "2026-02-10T00:05:33Z"
+    },
+    {
+      "id": 1149314442,
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 491,
+      "language": "JavaScript",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "owner": {
+        "login": "fspecii",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
+      },
+      "updated_at": "2026-02-09T20:38:47Z"
+    },
+    {
+      "id": 1152574482,
+      "name": "rohunvora/x-research-skill",
+      "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "stars": 482,
+      "language": "TypeScript",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "owner": {
+        "login": "rohunvora",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
+      },
+      "updated_at": "2026-02-09T23:45:42Z"
+    },
+    {
+      "id": 1150071903,
+      "name": "rohitg00/awesome-claude-code-toolkit",
+      "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more.",
+      "stars": 429,
+      "language": "JavaScript",
+      "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "owner": {
+        "login": "rohitg00",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
+      },
+      "updated_at": "2026-02-09T23:57:49Z"
     }
   ]
 }

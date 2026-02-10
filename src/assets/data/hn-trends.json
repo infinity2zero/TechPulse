@@ -1,85 +1,115 @@
 {
-  "lastUpdated": "2026-02-09T23:43:16.925Z",
+  "lastUpdated": "2026-02-10T00:06:15.362Z",
   "items": [
     {
       "id": 46945663,
       "title": "Discord will require a face scan or ID for full access next month",
       "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 991,
+      "score": 1036,
       "by": "x01",
       "time": 1770647858,
-      "comments": 996,
+      "comments": 1046,
       "domain": "theverge.com"
     },
     {
       "id": 46947096,
       "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
       "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 356,
+      "score": 361,
       "by": "tokyobreakfast",
       "time": 1770654391,
-      "comments": 120,
+      "comments": 126,
       "domain": "github.com"
     },
     {
-      "id": 46951057,
-      "title": "America has a tungsten problem",
-      "url": "https://www.noleary.com/blog/posts/1",
-      "score": 97,
-      "by": "noleary",
-      "time": 1770670161,
-      "comments": 80,
-      "domain": "noleary.com"
+      "id": 46953136,
+      "title": "Is Particle Physics Dead, Dying, or Just Hard?",
+      "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "score": 11,
+      "by": "mellosouls",
+      "time": 1770679875,
+      "comments": 1,
+      "domain": "quantamagazine.org"
     },
     {
       "id": 46946401,
       "title": "Why is the sky blue?",
       "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 357,
+      "score": 374,
       "by": "udit99",
       "time": 1770651591,
-      "comments": 124,
+      "comments": 135,
       "domain": "explainers.blog"
     },
     {
       "id": 46947777,
       "title": "Hard-braking events as indicators of road segment crash risk",
       "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 177,
+      "score": 182,
       "by": "aleyan",
       "time": 1770656977,
-      "comments": 239,
+      "comments": 253,
       "domain": "research.google"
+    },
+    {
+      "id": 46901560,
+      "title": "Stop Using Icons in Data Tables",
+      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+      "score": 31,
+      "by": "ctward",
+      "time": 1770309775,
+      "comments": 7,
+      "domain": "medium.com"
+    },
+    {
+      "id": 46951057,
+      "title": "America has a tungsten problem",
+      "url": "https://www.noleary.com/blog/posts/1",
+      "score": 101,
+      "by": "noleary",
+      "time": 1770670161,
+      "comments": 93,
+      "domain": "noleary.com"
     },
     {
       "id": 46878373,
       "title": "How I've run major projects (2025)",
       "url": "https://www.benkuhn.net/pjm/",
-      "score": 66,
+      "score": 69,
       "by": "thomascountz",
       "time": 1770158301,
-      "comments": 3,
+      "comments": 6,
       "domain": "benkuhn.net"
     },
     {
       "id": 46950756,
       "title": "Game Theory Patterns at Work (2016)",
       "url": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
-      "score": 8,
+      "score": 12,
       "by": "kurinikku",
       "time": 1770669010,
       "comments": 0,
       "domain": "daeus.blog"
     },
     {
-      "id": 46953136,
-      "title": "Is Particle Physics Dead, Dying, or Just Hard?",
-      "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-      "score": 3,
-      "by": "mellosouls",
-      "time": 1770679875,
-      "comments": 0,
+      "id": 46898840,
+      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
+      "score": 32,
+      "by": "sohkamyung",
+      "time": 1770293939,
+      "comments": 1,
       "domain": "quantamagazine.org"
+    },
+    {
+      "id": 46952987,
+      "title": "The shadowy world of abandoned oil tankers",
+      "url": "https://www.bbc.com/news/articles/cddg885344do",
+      "score": 8,
+      "by": "1659447091",
+      "time": 1770679062,
+      "comments": 0,
+      "domain": "bbc.com"
     },
     {
       "id": 46948273,
@@ -88,37 +118,37 @@
       "score": 64,
       "by": "ibobev",
       "time": 1770659050,
-      "comments": 19,
+      "comments": 21,
       "domain": "jsgroth.dev"
-    },
-    {
-      "id": 46898840,
-      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-      "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
-      "score": 26,
-      "by": "sohkamyung",
-      "time": 1770293939,
-      "comments": 0,
-      "domain": "quantamagazine.org"
     },
     {
       "id": 46945348,
       "title": "UEFI Bindings for JavaScript",
       "url": "https://codeberg.org/smnx/promethee",
-      "score": 188,
+      "score": 189,
       "by": "ananas-dev",
       "time": 1770646056,
-      "comments": 96,
+      "comments": 97,
       "domain": "codeberg.org"
+    },
+    {
+      "id": 46952118,
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "url": "https://www.chainlift.io/liftkit",
+      "score": 16,
+      "by": "peter_d_sherman",
+      "time": 1770674494,
+      "comments": 4,
+      "domain": "chainlift.io"
     },
     {
       "id": 46948533,
       "title": "Everyone’s building “async agents,” but almost no one can define them",
       "url": "https://www.omnara.com/blog/what-is-an-async-agent-really",
-      "score": 7,
+      "score": 8,
       "by": "kmansm27",
       "time": 1770660104,
-      "comments": 3,
+      "comments": 8,
       "domain": "omnara.com"
     },
     {
@@ -128,57 +158,37 @@
       "score": 6,
       "by": "sarelta",
       "time": 1770668487,
-      "comments": 1,
+      "comments": 3,
       "domain": "promptarmor.com"
     },
     {
-      "id": 46901560,
-      "title": "Stop Using Icons in Data Tables",
-      "url": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
-      "score": 19,
-      "by": "ctward",
-      "time": 1770309775,
-      "comments": 2,
-      "domain": "medium.com"
+      "id": 46946308,
+      "title": "Sandboxels",
+      "url": "https://neal.fun/sandboxels/",
+      "score": 123,
+      "by": "2sf5",
+      "time": 1770651069,
+      "comments": 24,
+      "domain": "neal.fun"
     },
     {
       "id": 46877291,
       "title": "Information Is Beautiful",
       "url": "https://informationisbeautiful.net/",
-      "score": 96,
+      "score": 101,
       "by": "surprisetalk",
       "time": 1770152742,
       "comments": 9,
       "domain": "informationisbeautiful.net"
     },
     {
-      "id": 46946308,
-      "title": "Sandboxels",
-      "url": "https://neal.fun/sandboxels/",
-      "score": 115,
-      "by": "2sf5",
-      "time": 1770651069,
-      "comments": 23,
-      "domain": "neal.fun"
-    },
-    {
-      "id": 46949452,
-      "title": "Another GitHub outage in the same day",
-      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-      "score": 246,
-      "by": "Nezteb",
-      "time": 1770664045,
-      "comments": 173,
-      "domain": "githubstatus.com"
-    },
-    {
       "id": 46945235,
       "title": "Thoughts on Generating C",
       "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
-      "score": 185,
+      "score": 187,
       "by": "ingve",
       "time": 1770645288,
-      "comments": 55,
+      "comments": 56,
       "domain": "wingolog.org"
     },
     {
@@ -195,101 +205,91 @@
       "id": 46943568,
       "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
       "url": "https://alltheviews.world",
-      "score": 359,
+      "score": 360,
       "by": "tombh",
       "time": 1770631555,
-      "comments": 142,
+      "comments": 144,
       "domain": "alltheviews.world"
+    },
+    {
+      "id": 46890174,
+      "title": "F# 10",
+      "url": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
+      "score": 16,
+      "by": "tosh",
+      "time": 1770231978,
+      "comments": 0,
+      "domain": "devblogs.microsoft.com"
+    },
+    {
+      "id": 46949452,
+      "title": "Another GitHub outage in the same day",
+      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+      "score": 249,
+      "by": "Nezteb",
+      "time": 1770664045,
+      "comments": 177,
+      "domain": "githubstatus.com"
     },
     {
       "id": 46895089,
       "title": "The Traffic Mimes of Bogotá",
       "url": "https://www.atlasobscura.com/articles/traffic-mimes-of-colombia",
-      "score": 82,
+      "score": 85,
       "by": "IgorPartola",
       "time": 1770260330,
       "comments": 19,
       "domain": "atlasobscura.com"
     },
     {
-      "id": 46952118,
-      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-      "url": "https://www.chainlift.io/liftkit",
-      "score": 7,
-      "by": "peter_d_sherman",
-      "time": 1770674494,
-      "comments": 0,
-      "domain": "chainlift.io"
-    },
-    {
       "id": 46950915,
       "title": "Super Bowl Ad for Ring Cameras Touted AI Surveillance Network",
       "url": "https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/",
-      "score": 113,
+      "score": 121,
       "by": "cdrnsf",
       "time": 1770669665,
-      "comments": 52,
+      "comments": 55,
       "domain": "truthout.org"
     },
     {
-      "id": 46949864,
-      "title": "An articulated archer automaton [video]",
-      "url": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
+      "id": 46900472,
+      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+      "url": "https://github.com/jnidzwetzki/pg-dev-container",
       "score": 24,
-      "by": "Teever",
-      "time": 1770665543,
+      "by": "mariuz",
+      "time": 1770304185,
       "comments": 6,
-      "domain": "youtube.com"
-    },
-    {
-      "id": 46950780,
-      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
-      "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
-      "score": 68,
-      "by": "zaik",
-      "time": 1770669104,
-      "comments": 59,
-      "domain": "blog.prosody.im"
+      "domain": "github.com"
     },
     {
       "id": 46897804,
       "title": "What's the Entropy of a Random Integer?",
       "url": "https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/",
-      "score": 31,
+      "score": 34,
       "by": "sebg",
       "time": 1770284873,
       "comments": 4,
       "domain": "quomodocumque.wordpress.com"
     },
     {
-      "id": 46948815,
-      "title": "The Markets of Old London (2024)",
-      "url": "https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/",
-      "score": 46,
-      "by": "zeristor",
-      "time": 1770661256,
-      "comments": 14,
-      "domain": "spitalfieldslife.com"
+      "id": 46949864,
+      "title": "An articulated archer automaton [video]",
+      "url": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
+      "score": 26,
+      "by": "Teever",
+      "time": 1770665543,
+      "comments": 6,
+      "domain": "youtube.com"
     },
     {
       "id": 46933955,
       "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
       "url": "https://znah.net/graphs/",
-      "score": 152,
+      "score": 155,
       "by": "znah",
       "time": 1770556717,
       "comments": 23,
       "domain": "znah.net"
-    },
-    {
-      "id": 46900472,
-      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
-      "url": "https://github.com/jnidzwetzki/pg-dev-container",
-      "score": 21,
-      "by": "mariuz",
-      "time": 1770304185,
-      "comments": 6,
-      "domain": "github.com"
     }
   ]
 }
