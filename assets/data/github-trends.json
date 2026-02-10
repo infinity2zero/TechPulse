@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-02-10T03:25:10.893Z",
+  "lastUpdated": "2026-02-10T05:15:25.311Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2305,
+      "stars": 2323,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-10T03:14:22Z"
+      "updated_at": "2026-02-10T05:06:26Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1860,
+      "stars": 1870,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-10T03:04:49Z"
+      "updated_at": "2026-02-10T05:12:24Z"
     },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 1099,
+      "stars": 1187,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-10T03:24:43Z"
+      "updated_at": "2026-02-10T05:14:40Z"
     },
     {
       "id": 1150127283,
       "name": "excalidraw/excalidraw-mcp",
       "description": "Fast and streamable Excalidraw MCP App",
-      "stars": 1042,
+      "stars": 1047,
       "language": "TypeScript",
       "url": "https://github.com/excalidraw/excalidraw-mcp",
       "owner": {
         "login": "excalidraw",
         "avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4"
       },
-      "updated_at": "2026-02-10T02:30:20Z"
+      "updated_at": "2026-02-10T04:44:19Z"
     },
     {
       "id": 1150780143,
       "name": "foru17/clash-master",
       "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic.",
-      "stars": 949,
+      "stars": 950,
       "language": "TypeScript",
       "url": "https://github.com/foru17/clash-master",
       "owner": {
         "login": "foru17",
         "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
       },
-      "updated_at": "2026-02-10T02:54:28Z"
+      "updated_at": "2026-02-10T03:37:05Z"
     },
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 677,
+      "stars": 724,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-10T03:19:58Z"
+      "updated_at": "2026-02-10T05:15:08Z"
     },
     {
       "id": 1152833832,
       "name": "TheAgentContextLab/OneContext",
       "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 650,
+      "stars": 673,
       "language": null,
       "url": "https://github.com/TheAgentContextLab/OneContext",
       "owner": {
         "login": "TheAgentContextLab",
         "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
       },
-      "updated_at": "2026-02-10T03:22:42Z"
-    },
-    {
-      "id": 1149409687,
-      "name": "SamNet-dev/paqctl",
-      "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 628,
-      "language": "Shell",
-      "url": "https://github.com/SamNet-dev/paqctl",
-      "owner": {
-        "login": "SamNet-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
-      },
-      "updated_at": "2026-02-10T01:45:30Z"
-    },
-    {
-      "id": 1152229409,
-      "name": "trumpet-noek/sora2-free-watermark-remover",
-      "description": "sora2 free watermark remover",
-      "stars": 623,
-      "language": "Python",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "owner": {
-        "login": "trumpet-noek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
-      },
-      "updated_at": "2026-02-10T03:23:30Z"
-    },
-    {
-      "id": 1149477047,
-      "name": "sanyuan0704/code-review-expert",
-      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 616,
-      "language": null,
-      "url": "https://github.com/sanyuan0704/code-review-expert",
-      "owner": {
-        "login": "sanyuan0704",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
-      },
-      "updated_at": "2026-02-10T03:23:45Z"
-    },
-    {
-      "id": 1151130619,
-      "name": "sseanliu/VisionClaw",
-      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 600,
-      "language": null,
-      "url": "https://github.com/sseanliu/VisionClaw",
-      "owner": {
-        "login": "sseanliu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
-      },
-      "updated_at": "2026-02-10T03:19:41Z"
-    },
-    {
-      "id": 1152231621,
-      "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "description": "sora2 watermark cleaner pro",
-      "stars": 599,
-      "language": "Python",
-      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "owner": {
-        "login": "uqogihujomuwhiff",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
-      },
-      "updated_at": "2026-02-10T03:17:33Z"
-    },
-    {
-      "id": 1152691112,
-      "name": "f/textream",
-      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 598,
-      "language": "Swift",
-      "url": "https://github.com/f/textream",
-      "owner": {
-        "login": "f",
-        "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
-      },
-      "updated_at": "2026-02-10T03:21:49Z"
+      "updated_at": "2026-02-10T05:10:37Z"
     },
     {
       "id": 1151972675,
       "name": "The-Vibe-Company/companion",
       "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools — all from your browser.",
-      "stars": 596,
+      "stars": 672,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/companion",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-10T03:23:56Z"
+      "updated_at": "2026-02-10T05:15:18Z"
     },
     {
-      "id": 1149626116,
-      "name": "run-bigpig/jcp",
-      "description": "韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 572,
-      "language": "Go",
-      "url": "https://github.com/run-bigpig/jcp",
+      "id": 1152229409,
+      "name": "trumpet-noek/sora2-free-watermark-remover",
+      "description": "sora2 free watermark remover",
+      "stars": 647,
+      "language": "Python",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
       "owner": {
-        "login": "run-bigpig",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
+        "login": "trumpet-noek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
       },
-      "updated_at": "2026-02-10T03:23:59Z"
+      "updated_at": "2026-02-10T05:12:06Z"
+    },
+    {
+      "id": 1152691112,
+      "name": "f/textream",
+      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "stars": 640,
+      "language": "Swift",
+      "url": "https://github.com/f/textream",
+      "owner": {
+        "login": "f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
+      },
+      "updated_at": "2026-02-10T05:15:02Z"
+    },
+    {
+      "id": 1149409687,
+      "name": "SamNet-dev/paqctl",
+      "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
+      "stars": 629,
+      "language": "Shell",
+      "url": "https://github.com/SamNet-dev/paqctl",
+      "owner": {
+        "login": "SamNet-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
+      },
+      "updated_at": "2026-02-10T03:40:24Z"
+    },
+    {
+      "id": 1149477047,
+      "name": "sanyuan0704/code-review-expert",
+      "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+      "stars": 625,
+      "language": null,
+      "url": "https://github.com/sanyuan0704/code-review-expert",
+      "owner": {
+        "login": "sanyuan0704",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
+      },
+      "updated_at": "2026-02-10T05:04:51Z"
+    },
+    {
+      "id": 1152231621,
+      "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "description": "sora2 watermark cleaner pro",
+      "stars": 621,
+      "language": "Python",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "owner": {
+        "login": "uqogihujomuwhiff",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
+      },
+      "updated_at": "2026-02-10T05:13:16Z"
+    },
+    {
+      "id": 1151130619,
+      "name": "sseanliu/VisionClaw",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "stars": 607,
+      "language": null,
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "owner": {
+        "login": "sseanliu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+      },
+      "updated_at": "2026-02-10T04:30:17Z"
     },
     {
       "id": 1149403151,
       "name": "memovai/mimiclaw",
       "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
-      "stars": 571,
+      "stars": 600,
       "language": "C",
       "url": "https://github.com/memovai/mimiclaw",
       "owner": {
         "login": "memovai",
         "avatar_url": "https://avatars.githubusercontent.com/u/220203124?v=4"
       },
-      "updated_at": "2026-02-10T03:20:05Z"
+      "updated_at": "2026-02-10T05:10:24Z"
     },
     {
-      "id": 1149511572,
-      "name": "cfinke/EpsteIn",
-      "description": "See which of your LinkedIn connections appear in the Epstein files.",
-      "stars": 527,
-      "language": "Python",
-      "url": "https://github.com/cfinke/EpsteIn",
+      "id": 1149626116,
+      "name": "run-bigpig/jcp",
+      "description": "韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
+      "stars": 581,
+      "language": "Go",
+      "url": "https://github.com/run-bigpig/jcp",
       "owner": {
-        "login": "cfinke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
+        "login": "run-bigpig",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
       },
-      "updated_at": "2026-02-10T02:28:52Z"
+      "updated_at": "2026-02-10T05:10:47Z"
     },
     {
       "id": 1149707767,
       "name": "sipeed/picoclaw",
       "description": "picoclaw",
-      "stars": 502,
+      "stars": 535,
       "language": "Go",
       "url": "https://github.com/sipeed/picoclaw",
       "owner": {
         "login": "sipeed",
         "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
       },
-      "updated_at": "2026-02-10T03:16:05Z"
+      "updated_at": "2026-02-10T05:15:23Z"
+    },
+    {
+      "id": 1149511572,
+      "name": "cfinke/EpsteIn",
+      "description": "See which of your LinkedIn connections appear in the Epstein files.",
+      "stars": 528,
+      "language": "Python",
+      "url": "https://github.com/cfinke/EpsteIn",
+      "owner": {
+        "login": "cfinke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/435369?v=4"
+      },
+      "updated_at": "2026-02-10T04:57:21Z"
     },
     {
       "id": 1150763716,
       "name": "antirez/voxtral.c",
       "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 499,
+      "stars": 507,
       "language": "C",
       "url": "https://github.com/antirez/voxtral.c",
       "owner": {
         "login": "antirez",
         "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-10T02:47:56Z"
+      "updated_at": "2026-02-10T05:01:27Z"
     },
     {
-      "id": 1149314442,
-      "name": "fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 493,
-      "language": "JavaScript",
-      "url": "https://github.com/fspecii/ace-step-ui",
+      "id": 1152574482,
+      "name": "rohunvora/x-research-skill",
+      "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "stars": 498,
+      "language": "TypeScript",
+      "url": "https://github.com/rohunvora/x-research-skill",
       "owner": {
-        "login": "fspecii",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4722521?v=4"
+        "login": "rohunvora",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
       },
-      "updated_at": "2026-02-10T02:29:54Z"
+      "updated_at": "2026-02-10T05:11:39Z"
     }
   ]
 }
