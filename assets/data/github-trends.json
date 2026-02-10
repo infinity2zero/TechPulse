@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-10T10:10:44.753Z",
+  "lastUpdated": "2026-02-10T11:11:31.330Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2370,
+      "stars": 2376,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-10T09:56:21Z"
+      "updated_at": "2026-02-10T11:03:33Z"
     },
     {
       "id": 1150117793,
       "name": "anthropics/claudes-c-compiler",
       "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.",
-      "stars": 1894,
+      "stars": 1898,
       "language": "Rust",
       "url": "https://github.com/anthropics/claudes-c-compiler",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-10T10:06:39Z"
+      "updated_at": "2026-02-10T10:57:16Z"
     },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
       "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
-      "stars": 1424,
+      "stars": 1458,
       "language": "TypeScript",
       "url": "https://github.com/op7418/CodePilot",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-10T10:08:46Z"
+      "updated_at": "2026-02-10T11:06:40Z"
     },
     {
       "id": 1150127283,
       "name": "excalidraw/excalidraw-mcp",
       "description": "Fast and streamable Excalidraw MCP App",
-      "stars": 1066,
+      "stars": 1074,
       "language": "TypeScript",
       "url": "https://github.com/excalidraw/excalidraw-mcp",
       "owner": {
         "login": "excalidraw",
         "avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4"
       },
-      "updated_at": "2026-02-10T10:07:53Z"
+      "updated_at": "2026-02-10T11:04:33Z"
     },
     {
       "id": 1150780143,
@@ -70,53 +70,66 @@
       "id": 1151972675,
       "name": "The-Vibe-Company/companion",
       "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
-      "stars": 890,
+      "stars": 928,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/companion",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-10T10:10:08Z"
+      "updated_at": "2026-02-10T11:10:50Z"
     },
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 821,
+      "stars": 840,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-10T10:08:14Z"
-    },
-    {
-      "id": 1152833832,
-      "name": "TheAgentContextLab/OneContext",
-      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 713,
-      "language": null,
-      "url": "https://github.com/TheAgentContextLab/OneContext",
-      "owner": {
-        "login": "TheAgentContextLab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
-      },
-      "updated_at": "2026-02-10T09:52:25Z"
+      "updated_at": "2026-02-10T11:05:10Z"
     },
     {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 710,
+      "stars": 730,
       "language": "Swift",
       "url": "https://github.com/f/textream",
       "owner": {
         "login": "f",
         "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
       },
-      "updated_at": "2026-02-10T10:05:54Z"
+      "updated_at": "2026-02-10T11:08:02Z"
+    },
+    {
+      "id": 1152833832,
+      "name": "TheAgentContextLab/OneContext",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "stars": 720,
+      "language": null,
+      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "owner": {
+        "login": "TheAgentContextLab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
+      },
+      "updated_at": "2026-02-10T11:06:19Z"
+    },
+    {
+      "id": 1149403151,
+      "name": "memovai/mimiclaw",
+      "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
+      "stars": 714,
+      "language": "C",
+      "url": "https://github.com/memovai/mimiclaw",
+      "owner": {
+        "login": "memovai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/220203124?v=4"
+      },
+      "updated_at": "2026-02-10T11:07:36Z"
     },
     {
       "id": 1152229409,
@@ -132,17 +145,17 @@
       "updated_at": "2026-02-10T09:24:20Z"
     },
     {
-      "id": 1149403151,
-      "name": "memovai/mimiclaw",
-      "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.",
-      "stars": 693,
+      "id": 1150763716,
+      "name": "antirez/voxtral.c",
+      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+      "stars": 682,
       "language": "C",
-      "url": "https://github.com/memovai/mimiclaw",
+      "url": "https://github.com/antirez/voxtral.c",
       "owner": {
-        "login": "memovai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/220203124?v=4"
+        "login": "antirez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-10T10:04:16Z"
+      "updated_at": "2026-02-10T11:03:50Z"
     },
     {
       "id": 1152231621,
@@ -158,69 +171,56 @@
       "updated_at": "2026-02-10T09:30:52Z"
     },
     {
-      "id": 1150763716,
-      "name": "antirez/voxtral.c",
-      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 662,
-      "language": "C",
-      "url": "https://github.com/antirez/voxtral.c",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-10T10:06:48Z"
-    },
-    {
       "id": 1149707767,
       "name": "sipeed/picoclaw",
       "description": "picoclaw",
-      "stars": 651,
+      "stars": 669,
       "language": "Go",
       "url": "https://github.com/sipeed/picoclaw",
       "owner": {
         "login": "sipeed",
         "avatar_url": "https://avatars.githubusercontent.com/u/44034752?v=4"
       },
-      "updated_at": "2026-02-10T10:05:09Z"
+      "updated_at": "2026-02-10T11:10:11Z"
     },
     {
       "id": 1149477047,
       "name": "sanyuan0704/code-review-expert",
       "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-      "stars": 651,
+      "stars": 652,
       "language": null,
       "url": "https://github.com/sanyuan0704/code-review-expert",
       "owner": {
         "login": "sanyuan0704",
         "avatar_url": "https://avatars.githubusercontent.com/u/39261479?v=4"
       },
-      "updated_at": "2026-02-10T09:56:41Z"
+      "updated_at": "2026-02-10T10:42:18Z"
     },
     {
       "id": 1149409687,
       "name": "SamNet-dev/paqctl",
       "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
-      "stars": 632,
+      "stars": 634,
       "language": "Shell",
       "url": "https://github.com/SamNet-dev/paqctl",
       "owner": {
         "login": "SamNet-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/243033894?v=4"
       },
-      "updated_at": "2026-02-10T08:02:15Z"
+      "updated_at": "2026-02-10T10:51:35Z"
     },
     {
       "id": 1149626116,
       "name": "run-bigpig/jcp",
       "description": "韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析",
-      "stars": 629,
+      "stars": 630,
       "language": "Go",
       "url": "https://github.com/run-bigpig/jcp",
       "owner": {
         "login": "run-bigpig",
         "avatar_url": "https://avatars.githubusercontent.com/u/85109084?v=4"
       },
-      "updated_at": "2026-02-10T09:56:45Z"
+      "updated_at": "2026-02-10T10:49:09Z"
     },
     {
       "id": 1151130619,
@@ -252,14 +252,14 @@
       "id": 1152574482,
       "name": "rohunvora/x-research-skill",
       "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
-      "stars": 516,
+      "stars": 518,
       "language": "TypeScript",
       "url": "https://github.com/rohunvora/x-research-skill",
       "owner": {
         "login": "rohunvora",
         "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
       },
-      "updated_at": "2026-02-10T09:51:12Z"
+      "updated_at": "2026-02-10T10:13:35Z"
     }
   ]
 }
