@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-11T22:17:19.475Z",
+  "lastUpdated": "2026-02-11T22:52:42.256Z",
   "items": [
     {
       "id": 1150912706,
       "name": "mitchellh/vouch",
       "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2615,
+      "stars": 2623,
       "language": "Nushell",
       "url": "https://github.com/mitchellh/vouch",
       "owner": {
         "login": "mitchellh",
         "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
       },
-      "updated_at": "2026-02-11T22:14:27Z"
+      "updated_at": "2026-02-11T22:52:38Z"
     },
     {
       "id": 1151411061,
@@ -25,46 +25,46 @@
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-02-11T22:12:39Z"
+      "updated_at": "2026-02-11T22:41:17Z"
     },
     {
       "id": 1151972675,
       "name": "The-Vibe-Company/companion",
       "description": "Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
-      "stars": 1655,
+      "stars": 1660,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/companion",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-11T22:14:41Z"
+      "updated_at": "2026-02-11T22:51:13Z"
     },
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 1481,
+      "stars": 1486,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-11T21:57:49Z"
+      "updated_at": "2026-02-11T22:51:30Z"
     },
     {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
-      "stars": 1035,
+      "stars": 1042,
       "language": "Swift",
       "url": "https://github.com/f/textream",
       "owner": {
         "login": "f",
         "avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4"
       },
-      "updated_at": "2026-02-11T22:16:48Z"
+      "updated_at": "2026-02-11T22:51:38Z"
     },
     {
       "id": 1152614211,
@@ -109,40 +109,40 @@
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a tiny agent that acts as your 24/7 personal assistant",
-      "stars": 815,
-      "language": "TypeScript",
+      "stars": 816,
+      "language": "Shell",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-11T22:14:52Z"
+      "updated_at": "2026-02-11T22:50:43Z"
     },
     {
       "id": 1152833832,
       "name": "TheAgentContextLab/OneContext",
       "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
-      "stars": 809,
+      "stars": 810,
       "language": null,
       "url": "https://github.com/TheAgentContextLab/OneContext",
       "owner": {
         "login": "TheAgentContextLab",
         "avatar_url": "https://avatars.githubusercontent.com/u/260239893?v=4"
       },
-      "updated_at": "2026-02-11T20:59:47Z"
+      "updated_at": "2026-02-11T22:46:05Z"
     },
     {
       "id": 1151130619,
       "name": "sseanliu/VisionClaw",
       "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 776,
+      "stars": 777,
       "language": null,
       "url": "https://github.com/sseanliu/VisionClaw",
       "owner": {
         "login": "sseanliu",
         "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
       },
-      "updated_at": "2026-02-11T21:48:10Z"
+      "updated_at": "2026-02-11T22:20:32Z"
     },
     {
       "id": 1152229409,
@@ -158,6 +158,19 @@
       "updated_at": "2026-02-10T09:24:20Z"
     },
     {
+      "id": 1152654395,
+      "name": "ComposioHQ/secure-openclaw",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "stars": 699,
+      "language": "JavaScript",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "owner": {
+        "login": "ComposioHQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
+      },
+      "updated_at": "2026-02-11T22:52:02Z"
+    },
+    {
       "id": 1152231621,
       "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
       "description": "sora2 watermark cleaner pro",
@@ -171,82 +184,69 @@
       "updated_at": "2026-02-11T06:47:21Z"
     },
     {
-      "id": 1152654395,
-      "name": "ComposioHQ/secure-openclaw",
-      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "stars": 673,
-      "language": "JavaScript",
-      "url": "https://github.com/ComposioHQ/secure-openclaw",
-      "owner": {
-        "login": "ComposioHQ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
-      },
-      "updated_at": "2026-02-11T22:16:44Z"
-    },
-    {
       "id": 1152574482,
       "name": "rohunvora/x-research-skill",
       "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
-      "stars": 632,
+      "stars": 633,
       "language": "TypeScript",
       "url": "https://github.com/rohunvora/x-research-skill",
       "owner": {
         "login": "rohunvora",
         "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
       },
-      "updated_at": "2026-02-11T21:57:28Z"
+      "updated_at": "2026-02-11T22:31:30Z"
     },
     {
       "id": 1151113612,
       "name": "google-gemini/gemini-skills",
       "description": "Skills for the Gemini API, SDK and model/agent interactions",
-      "stars": 619,
+      "stars": 623,
       "language": null,
       "url": "https://github.com/google-gemini/gemini-skills",
       "owner": {
         "login": "google-gemini",
         "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
       },
-      "updated_at": "2026-02-11T22:07:51Z"
+      "updated_at": "2026-02-11T22:43:16Z"
     },
     {
       "id": 1151528523,
       "name": "snarktank/antfarm",
       "description": "Build your agent team in OpenClaw with one command.",
-      "stars": 616,
+      "stars": 618,
       "language": "TypeScript",
       "url": "https://github.com/snarktank/antfarm",
       "owner": {
         "login": "snarktank",
         "avatar_url": "https://avatars.githubusercontent.com/u/152063952?v=4"
       },
-      "updated_at": "2026-02-11T21:56:56Z"
+      "updated_at": "2026-02-11T22:48:22Z"
     },
     {
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 570,
+      "stars": 579,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-11T22:16:18Z"
+      "updated_at": "2026-02-11T22:47:44Z"
     },
     {
       "id": 1152157239,
       "name": "tw93/Kaku",
       "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
-      "stars": 545,
+      "stars": 552,
       "language": "Rust",
       "url": "https://github.com/tw93/Kaku",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-02-11T22:15:29Z"
+      "updated_at": "2026-02-11T22:35:07Z"
     },
     {
       "id": 1150995472,
