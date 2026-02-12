@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-02-11T23:49:20.585Z",
+  "lastUpdated": "2026-02-12T00:01:35.393Z",
   "items": [
-    {
-      "id": 1150912706,
-      "name": "mitchellh/vouch",
-      "description": "A community trust management system based on explicit vouches to participate.",
-      "stars": 2627,
-      "language": "Nushell",
-      "url": "https://github.com/mitchellh/vouch",
-      "owner": {
-        "login": "mitchellh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1299?v=4"
-      },
-      "updated_at": "2026-02-11T23:09:34Z"
-    },
     {
       "id": 1151411061,
       "name": "op7418/CodePilot",
@@ -31,27 +18,27 @@
       "id": 1151972675,
       "name": "The-Vibe-Company/companion",
       "description": "Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
-      "stars": 1666,
+      "stars": 1667,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/companion",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-11T23:46:36Z"
+      "updated_at": "2026-02-11T23:55:20Z"
     },
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 1500,
+      "stars": 1502,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-11T23:46:52Z"
+      "updated_at": "2026-02-11T23:56:23Z"
     },
     {
       "id": 1152691112,
@@ -80,43 +67,17 @@
       "updated_at": "2026-02-11T23:42:54Z"
     },
     {
-      "id": 1150780143,
-      "name": "foru17/neko-master",
-      "description": "A modern and elegant dashboard for network traffic visualization and analysis.",
-      "stars": 992,
-      "language": "TypeScript",
-      "url": "https://github.com/foru17/neko-master",
-      "owner": {
-        "login": "foru17",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1920586?v=4"
-      },
-      "updated_at": "2026-02-11T16:53:41Z"
-    },
-    {
-      "id": 1150763716,
-      "name": "antirez/voxtral.c",
-      "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
-      "stars": 977,
-      "language": "C",
-      "url": "https://github.com/antirez/voxtral.c",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-11T23:37:38Z"
-    },
-    {
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a team of AI agents that acts as your 24/7 personal assistant",
-      "stars": 818,
+      "stars": 821,
       "language": "Shell",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-11T23:29:26Z"
+      "updated_at": "2026-02-12T00:01:12Z"
     },
     {
       "id": 1152833832,
@@ -132,30 +93,30 @@
       "updated_at": "2026-02-11T23:05:38Z"
     },
     {
-      "id": 1151130619,
-      "name": "sseanliu/VisionClaw",
-      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-      "stars": 778,
-      "language": null,
-      "url": "https://github.com/sseanliu/VisionClaw",
-      "owner": {
-        "login": "sseanliu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
-      },
-      "updated_at": "2026-02-11T23:31:50Z"
-    },
-    {
       "id": 1152654395,
       "name": "ComposioHQ/secure-openclaw",
       "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "stars": 763,
+      "stars": 780,
       "language": "JavaScript",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "owner": {
         "login": "ComposioHQ",
         "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
       },
-      "updated_at": "2026-02-11T23:48:50Z"
+      "updated_at": "2026-02-12T00:00:44Z"
+    },
+    {
+      "id": 1151130619,
+      "name": "sseanliu/VisionClaw",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "stars": 779,
+      "language": null,
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "owner": {
+        "login": "sseanliu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/95677580?v=4"
+      },
+      "updated_at": "2026-02-11T23:51:29Z"
     },
     {
       "id": 1152229409,
@@ -200,14 +161,14 @@
       "id": 1151113612,
       "name": "google-gemini/gemini-skills",
       "description": "Skills for the Gemini API, SDK and model/agent interactions",
-      "stars": 628,
+      "stars": 629,
       "language": null,
       "url": "https://github.com/google-gemini/gemini-skills",
       "owner": {
         "login": "google-gemini",
         "avatar_url": "https://avatars.githubusercontent.com/u/161781182?v=4"
       },
-      "updated_at": "2026-02-11T23:42:44Z"
+      "updated_at": "2026-02-11T23:51:56Z"
     },
     {
       "id": 1151528523,
@@ -226,40 +187,79 @@
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 601,
+      "stars": 604,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-11T23:48:11Z"
+      "updated_at": "2026-02-12T00:00:46Z"
     },
     {
       "id": 1152157239,
       "name": "tw93/Kaku",
       "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
-      "stars": 564,
+      "stars": 567,
       "language": "Rust",
       "url": "https://github.com/tw93/Kaku",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-02-11T23:47:57Z"
+      "updated_at": "2026-02-12T00:00:01Z"
     },
     {
-      "id": 1150995472,
-      "name": "strongdm/attractor",
-      "description": "nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory",
-      "stars": 488,
-      "language": null,
-      "url": "https://github.com/strongdm/attractor",
+      "id": 1152237127,
+      "name": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+      "description": "sora2 watermark deleter windows macos",
+      "stars": 379,
+      "language": "Python",
+      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
       "owner": {
-        "login": "strongdm",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11929133?v=4"
+        "login": "tnbeznlacut",
+        "avatar_url": "https://avatars.githubusercontent.com/u/191570003?v=4"
       },
-      "updated_at": "2026-02-11T23:43:09Z"
+      "updated_at": "2026-02-10T13:11:09Z"
+    },
+    {
+      "id": 1152583761,
+      "name": "lijigang/ljg-skill-xray-paper",
+      "description": "论文X光机 — Claude Code Skill，解构学术论文，提炼餐巾纸公式",
+      "stars": 351,
+      "language": null,
+      "url": "https://github.com/lijigang/ljg-skill-xray-paper",
+      "owner": {
+        "login": "lijigang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4835998?v=4"
+      },
+      "updated_at": "2026-02-11T23:53:11Z"
+    },
+    {
+      "id": 1154178809,
+      "name": "rebornix/Agmente",
+      "description": null,
+      "stars": 324,
+      "language": "Swift",
+      "url": "https://github.com/rebornix/Agmente",
+      "owner": {
+        "login": "rebornix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/876920?v=4"
+      },
+      "updated_at": "2026-02-11T23:50:45Z"
+    },
+    {
+      "id": 1154042797,
+      "name": "aeromomo/claw-compactor",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "stars": 308,
+      "language": "Python",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "owner": {
+        "login": "aeromomo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
+      },
+      "updated_at": "2026-02-11T23:51:32Z"
     }
   ]
 }
