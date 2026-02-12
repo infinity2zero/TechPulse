@@ -1,154 +1,174 @@
 {
-  "lastUpdated": "2026-02-12T20:37:58.503Z",
+  "lastUpdated": "2026-02-12T21:03:51.418Z",
   "items": [
     {
       "id": 46992553,
       "title": "GPT‑5.3‑Codex‑Spark",
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "score": 294,
+      "score": 324,
       "by": "meetpateltech",
       "time": 1770919569,
-      "comments": 132,
+      "comments": 151,
       "domain": "openai.com"
     },
     {
       "id": 46991240,
       "title": "Gemini 3 Deep Think",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "score": 363,
+      "score": 404,
       "by": "tosh",
       "time": 1770915350,
-      "comments": 203,
+      "comments": 228,
       "domain": "blog.google"
     },
     {
       "id": 46990729,
       "title": "An AI agent published a hit piece on me",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "score": 959,
+      "score": 1027,
       "by": "scottshambaugh",
       "time": 1770913404,
-      "comments": 443,
+      "comments": 471,
       "domain": "theshamblog.com"
     },
     {
       "id": 46992815,
       "title": "Polis: Open-source platform for large-scale civic deliberation",
       "url": "https://pol.is/home2",
-      "score": 63,
+      "score": 78,
       "by": "mefengl",
       "time": 1770920600,
-      "comments": 9,
+      "comments": 17,
       "domain": "pol.is"
+    },
+    {
+      "id": 46994907,
+      "title": "Realfood.gov includes a Grok search box",
+      "url": "https://realfood.gov/#answers",
+      "score": 11,
+      "by": "burkaman",
+      "time": 1770929230,
+      "comments": 6,
+      "domain": "realfood.gov"
     },
     {
       "id": 46993596,
       "title": "Rari – Rust-powered React framework",
       "url": "https://rari.build/",
-      "score": 33,
+      "score": 40,
       "by": "bvanvugt",
       "time": 1770923747,
-      "comments": 17,
+      "comments": 21,
       "domain": "rari.build"
     },
     {
       "id": 46989217,
       "title": "Major European payment processor can't send email to Google Workspace users",
       "url": "https://atha.io/blog/2026-02-12-viva",
-      "score": 350,
+      "score": 360,
       "by": "thatha7777",
       "time": 1770906255,
-      "comments": 226,
+      "comments": 231,
       "domain": "atha.io"
     },
     {
       "id": 46988596,
       "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
       "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "score": 423,
+      "score": 439,
       "by": "kachapopopow",
       "time": 1770903020,
-      "comments": 185,
+      "comments": 193,
       "domain": "blog.can.ac"
-    },
-    {
-      "id": 46991435,
-      "title": "Shut Up: Comment Blocker",
-      "url": "https://rickyromero.com/shutup/",
-      "score": 58,
-      "by": "mefengl",
-      "time": 1770915936,
-      "comments": 22,
-      "domain": "rickyromero.com"
-    },
-    {
-      "id": 46989605,
-      "title": "A brief history of barbed wire fence telephone networks (2024)",
-      "url": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
-      "score": 96,
-      "by": "keepamovin",
-      "time": 1770908178,
-      "comments": 20,
-      "domain": "loriemerson.net"
-    },
-    {
-      "id": 46985151,
-      "title": "Warcraft III Peon Voice Notifications for Claude Code",
-      "url": "https://github.com/tonyyont/peon-ping",
-      "score": 888,
-      "by": "doppp",
-      "time": 1770873529,
-      "comments": 276,
-      "domain": "github.com"
     },
     {
       "id": 46993345,
       "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
       "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "score": 91,
+      "score": 116,
       "by": "ryanhn",
       "time": 1770922736,
-      "comments": 83,
+      "comments": 111,
       "domain": "anthropic.com"
+    },
+    {
+      "id": 46989605,
+      "title": "A brief history of barbed wire fence telephone networks (2024)",
+      "url": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
+      "score": 102,
+      "by": "keepamovin",
+      "time": 1770908178,
+      "comments": 21,
+      "domain": "loriemerson.net"
+    },
+    {
+      "id": 46993397,
+      "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+      "url": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+      "score": 8,
+      "by": "rombr",
+      "time": 1770922914,
+      "comments": 0,
+      "domain": "youtube.com"
+    },
+    {
+      "id": 46991435,
+      "title": "Shut Up: Comment Blocker",
+      "url": "https://rickyromero.com/shutup/",
+      "score": 61,
+      "by": "mefengl",
+      "time": 1770915936,
+      "comments": 24,
+      "domain": "rickyromero.com"
+    },
+    {
+      "id": 46985151,
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "url": "https://github.com/tonyyont/peon-ping",
+      "score": 899,
+      "by": "doppp",
+      "time": 1770873529,
+      "comments": 277,
+      "domain": "github.com"
     },
     {
       "id": 46988438,
       "title": "Apache Arrow is 10 years old",
       "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
-      "score": 137,
+      "score": 142,
       "by": "tosh",
       "time": 1770902010,
-      "comments": 31,
+      "comments": 32,
       "domain": "arrow.apache.org"
+    },
+    {
+      "id": 46994633,
+      "title": "I was insulted today – AI style",
+      "url": "https://forkingmad.blog/insulted-today-ai/",
+      "score": 18,
+      "by": "speckx",
+      "time": 1770928037,
+      "comments": 1,
+      "domain": "forkingmad.blog"
     },
     {
       "id": 46990578,
       "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
       "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
-      "score": 58,
+      "score": 70,
       "by": "ra7",
       "time": 1770912629,
-      "comments": 40,
+      "comments": 47,
       "domain": "waymo.com"
-    },
-    {
-      "id": 46993417,
-      "title": "A party balloon shut down El Paso International Airport; estimated cost –$573k",
-      "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
-      "score": 89,
-      "by": "heifer",
-      "time": 1770923007,
-      "comments": 73,
-      "domain": "log.jasongodfrey.info"
     },
     {
       "id": 46994255,
       "title": "Show HN: Generate Web Interfaces from Data",
       "url": "https://github.com/puffinsoft/syntux",
-      "score": 6,
+      "score": 7,
       "by": "Goose78",
       "time": 1770926392,
-      "comments": 0,
+      "comments": 1,
       "domain": "github.com"
     },
     {
@@ -158,14 +178,24 @@
       "score": 103,
       "by": "mrcgnc",
       "time": 1770905857,
-      "comments": 51,
+      "comments": 53,
       "domain": "aethermug.com"
+    },
+    {
+      "id": 46994869,
+      "title": "Fixing retail with land value capture",
+      "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+      "score": 6,
+      "by": "marojejian",
+      "time": 1770929057,
+      "comments": 2,
+      "domain": "worksinprogress.co"
     },
     {
       "id": 46987919,
       "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
       "url": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
-      "score": 113,
+      "score": 115,
       "by": "Ivoah",
       "time": 1770898985,
       "comments": 24,
@@ -175,21 +205,81 @@
       "id": 46989117,
       "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
       "url": "https://lwn.net/Articles/1055590/",
-      "score": 93,
+      "score": 98,
       "by": "todsacerdoti",
       "time": 1770905826,
-      "comments": 21,
+      "comments": 23,
       "domain": "lwn.net"
+    },
+    {
+      "id": 46991394,
+      "title": "ai;dr",
+      "url": "https://www.0xsid.com/blog/aidr",
+      "score": 403,
+      "by": "ssiddharth",
+      "time": 1770915810,
+      "comments": 177,
+      "domain": "0xsid.com"
+    },
+    {
+      "id": 46994636,
+      "title": "What's the difference between a \"disc\" and a \"disk\"?",
+      "url": "https://support.apple.com/en-gb/100749",
+      "score": 10,
+      "by": "IndySun",
+      "time": 1770928047,
+      "comments": 4,
+      "domain": "support.apple.com"
     },
     {
       "id": 46992136,
       "title": "Show HN: Pgclaw – A \"Clawdbot\" in every row with 400 lines of Postgres SQL",
       "url": "https://github.com/calebwin/pgclaw",
-      "score": 24,
+      "score": 28,
       "by": "calebhwin",
       "time": 1770918168,
-      "comments": 16,
+      "comments": 20,
       "domain": "github.com"
+    },
+    {
+      "id": 46984735,
+      "title": "How to make a living as an artist",
+      "url": "https://essays.fnnch.com/make-a-living",
+      "score": 221,
+      "by": "gwintrob",
+      "time": 1770868586,
+      "comments": 116,
+      "domain": "essays.fnnch.com"
+    },
+    {
+      "id": 46987038,
+      "title": "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
+      "url": "https://geo-racers.com/",
+      "score": 59,
+      "by": "pattle",
+      "time": 1770892070,
+      "comments": 53,
+      "domain": "geo-racers.com"
+    },
+    {
+      "id": 46991154,
+      "title": "MiniMax M2.5 released: 80.2% in SWE-bench Verified",
+      "url": "https://www.minimax.io/news/minimax-m25",
+      "score": 133,
+      "by": "denysvitali",
+      "time": 1770915097,
+      "comments": 36,
+      "domain": "minimax.io"
+    },
+    {
+      "id": 46988462,
+      "title": "Run Pebble OS in Browser via WASM",
+      "url": "https://ericmigi.github.io/pebble-qemu-wasm/",
+      "score": 97,
+      "by": "goranmoomin",
+      "time": 1770902171,
+      "comments": 12,
+      "domain": "ericmigi.github.io"
     },
     {
       "id": 46928157,
@@ -200,96 +290,6 @@
       "time": 1770499145,
       "comments": 0,
       "domain": "harpers.org"
-    },
-    {
-      "id": 46984735,
-      "title": "How to make a living as an artist",
-      "url": "https://essays.fnnch.com/make-a-living",
-      "score": 219,
-      "by": "gwintrob",
-      "time": 1770868586,
-      "comments": 115,
-      "domain": "essays.fnnch.com"
-    },
-    {
-      "id": 46987038,
-      "title": "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
-      "url": "https://geo-racers.com/",
-      "score": 59,
-      "by": "pattle",
-      "time": 1770892070,
-      "comments": 51,
-      "domain": "geo-racers.com"
-    },
-    {
-      "id": 46988462,
-      "title": "Run Pebble OS in Browser via WASM",
-      "url": "https://ericmigi.github.io/pebble-qemu-wasm/",
-      "score": 93,
-      "by": "goranmoomin",
-      "time": 1770902171,
-      "comments": 12,
-      "domain": "ericmigi.github.io"
-    },
-    {
-      "id": 46991154,
-      "title": "MiniMax M2.5 released: 80.2% in SWE-bench Verified",
-      "url": "https://www.minimax.io/news/minimax-m25",
-      "score": 119,
-      "by": "denysvitali",
-      "time": 1770915097,
-      "comments": 31,
-      "domain": "minimax.io"
-    },
-    {
-      "id": 46948278,
-      "title": "I Wrote a Scheme in 2025",
-      "url": "https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html",
-      "score": 100,
-      "by": "maplant",
-      "time": 1770659072,
-      "comments": 25,
-      "domain": "maplant.com"
-    },
-    {
-      "id": 46990855,
-      "title": "So many trees planted in Taklamakan Desert that it's turned into a carbon sink",
-      "url": "https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink",
-      "score": 125,
-      "by": "Brajeshwar",
-      "time": 1770913975,
-      "comments": 48,
-      "domain": "livescience.com"
-    },
-    {
-      "id": 46993393,
-      "title": "HDRify: True HDR image viewer, and tool set in pure JavaScript",
-      "url": "https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr",
-      "score": 12,
-      "by": "bhouston",
-      "time": 1770922897,
-      "comments": 5,
-      "domain": "hdrify.benhouston3d.com"
-    },
-    {
-      "id": 46991394,
-      "title": "ai;dr",
-      "url": "https://www.0xsid.com/blog/aidr",
-      "score": 385,
-      "by": "ssiddharth",
-      "time": 1770915810,
-      "comments": 170,
-      "domain": "0xsid.com"
-    },
-    {
-      "id": 46949814,
-      "title": "Using an engineering notebook",
-      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
-      "score": 302,
-      "by": "evakhoury",
-      "time": 1770665393,
-      "comments": 134,
-      "domain": "ntietz.com"
     }
   ]
 }
