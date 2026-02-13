@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-13T22:17:56.319Z",
+  "lastUpdated": "2026-02-13T22:54:33.191Z",
   "items": [
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 2039,
+      "stars": 2049,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-13T22:16:43Z"
+      "updated_at": "2026-02-13T22:54:02Z"
     },
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 1839,
+      "stars": 1844,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-13T22:12:35Z"
+      "updated_at": "2026-02-13T22:53:02Z"
     },
     {
       "id": 1151972675,
       "name": "The-Vibe-Company/companion",
       "description": "Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile",
-      "stars": 1813,
+      "stars": 1815,
       "language": "TypeScript",
       "url": "https://github.com/The-Vibe-Company/companion",
       "owner": {
         "login": "The-Vibe-Company",
         "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
       },
-      "updated_at": "2026-02-13T22:08:02Z"
+      "updated_at": "2026-02-13T22:39:39Z"
     },
     {
       "id": 1152654395,
@@ -57,14 +57,14 @@
       "id": 1155639743,
       "name": "xyzeva/k-id-age-verifier",
       "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
-      "stars": 1373,
+      "stars": 1380,
       "language": "TypeScript",
       "url": "https://github.com/xyzeva/k-id-age-verifier",
       "owner": {
         "login": "xyzeva",
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
-      "updated_at": "2026-02-13T22:14:20Z"
+      "updated_at": "2026-02-13T22:45:01Z"
     },
     {
       "id": 1152614211,
@@ -80,6 +80,19 @@
       "updated_at": "2026-02-13T20:51:22Z"
     },
     {
+      "id": 1153146773,
+      "name": "jlia0/tinyclaw",
+      "description": "TinyClaw is a team of personal agents that collaborate with each other",
+      "stars": 1187,
+      "language": "TypeScript",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "owner": {
+        "login": "jlia0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
+      },
+      "updated_at": "2026-02-13T22:47:57Z"
+    },
+    {
       "id": 1152691112,
       "name": "f/textream",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
@@ -93,30 +106,17 @@
       "updated_at": "2026-02-13T21:15:13Z"
     },
     {
-      "id": 1153146773,
-      "name": "jlia0/tinyclaw",
-      "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1182,
-      "language": "TypeScript",
-      "url": "https://github.com/jlia0/tinyclaw",
-      "owner": {
-        "login": "jlia0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
-      },
-      "updated_at": "2026-02-13T22:11:14Z"
-    },
-    {
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1014,
+      "stars": 1015,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-13T21:38:58Z"
+      "updated_at": "2026-02-13T22:42:55Z"
     },
     {
       "id": 1152157239,
@@ -161,27 +161,27 @@
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 759,
+      "stars": 760,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-13T22:03:44Z"
+      "updated_at": "2026-02-13T22:48:25Z"
     },
     {
       "id": 1152574482,
       "name": "rohunvora/x-research-skill",
       "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
-      "stars": 711,
+      "stars": 712,
       "language": "TypeScript",
       "url": "https://github.com/rohunvora/x-research-skill",
       "owner": {
         "login": "rohunvora",
         "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
       },
-      "updated_at": "2026-02-13T20:37:16Z"
+      "updated_at": "2026-02-13T22:41:07Z"
     },
     {
       "id": 1152229409,
@@ -213,14 +213,14 @@
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 652,
+      "stars": 656,
       "language": null,
       "url": "https://github.com/zai-org/GLM-5",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-13T21:42:36Z"
+      "updated_at": "2026-02-13T22:40:20Z"
     },
     {
       "id": 1154178809,
