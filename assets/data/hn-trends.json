@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-14T17:48:15.724Z",
+  "lastUpdated": "2026-02-14T17:59:37.315Z",
   "items": [
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 118,
+      "score": 133,
       "by": "minimalthinker",
       "time": 1771083347,
-      "comments": 49,
+      "comments": 56,
       "domain": "aimilios.bearblog.dev"
     },
     {
       "id": 47014449,
       "title": "Ooh.directory: a place to find good blogs that interest you",
       "url": "https://ooh.directory/",
-      "score": 237,
+      "score": 241,
       "by": "hisamafahri",
       "time": 1771076420,
-      "comments": 77,
+      "comments": 80,
       "domain": "ooh.directory"
     },
     {
       "id": 47014500,
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 104,
+      "score": 108,
       "by": "datavorous_",
       "time": 1771076864,
       "comments": 37,
@@ -35,17 +35,27 @@
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 273,
+      "score": 276,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 172,
+      "comments": 174,
       "domain": "ziglang.org"
+    },
+    {
+      "id": 47016008,
+      "title": "Amsterdam Compiler Kit",
+      "url": "https://github.com/davidgiven/ack",
+      "score": 6,
+      "by": "andsoitis",
+      "time": 1771087847,
+      "comments": 0,
+      "domain": "github.com"
     },
     {
       "id": 46959531,
       "title": "Shades of Halftone",
       "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 54,
+      "score": 59,
       "by": "surprisetalk",
       "time": 1770730547,
       "comments": 1,
@@ -55,91 +65,101 @@
       "id": 47015330,
       "title": "Vim 9.2 Released",
       "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 105,
+      "score": 112,
       "by": "tapanjk",
       "time": 1771083583,
-      "comments": 31,
+      "comments": 44,
       "domain": "vim.org"
-    },
-    {
-      "id": 46954696,
-      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "url": "https://www.wallstreetraider.com/story.html",
-      "score": 602,
-      "by": "benstopics",
-      "time": 1770691498,
-      "comments": 205,
-      "domain": "wallstreetraider.com"
     },
     {
       "id": 47015579,
       "title": "A Review of M Disc Archival Capability. With long term testing results",
       "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "score": 14,
+      "score": 17,
       "by": "1970-01-01",
       "time": 1771085264,
       "comments": 13,
       "domain": "microscopy-uk.org.uk"
     },
     {
+      "id": 46954696,
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "url": "https://www.wallstreetraider.com/story.html",
+      "score": 607,
+      "by": "benstopics",
+      "time": 1770691498,
+      "comments": 205,
+      "domain": "wallstreetraider.com"
+    },
+    {
       "id": 47015406,
       "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
       "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-      "score": 154,
+      "score": 173,
       "by": "pjmlp",
       "time": 1771084196,
-      "comments": 60,
+      "comments": 74,
       "domain": "arstechnica.com"
     },
     {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "url": "https://github.com/mickamy/sql-tap",
-      "score": 202,
+      "score": 204,
       "by": "mickamy",
       "time": 1771043255,
-      "comments": 32,
+      "comments": 33,
+      "domain": "github.com"
+    },
+    {
+      "id": 47016058,
+      "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+      "url": "https://github.com/Geek-1001/arcmark",
+      "score": 6,
+      "by": "ahmed_sulajman",
+      "time": 1771088124,
+      "comments": 0,
       "domain": "github.com"
     },
     {
       "id": 47013059,
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
       "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 389,
+      "score": 402,
       "by": "robin_reala",
       "time": 1771061325,
-      "comments": 158,
+      "comments": 160,
       "domain": "infosec.exchange"
     },
     {
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 491,
+      "score": 500,
       "by": "walterbell",
       "time": 1770972542,
-      "comments": 244,
+      "comments": 251,
       "domain": "cordcuttersnews.com"
-    },
-    {
-      "id": 46957629,
-      "title": "Code Storage by the Pierre Computer Company",
-      "url": "https://code.storage/",
-      "score": 34,
-      "by": "admp",
-      "time": 1770718347,
-      "comments": 18,
-      "domain": "code.storage"
     },
     {
       "id": 47016050,
       "title": "Stoat removes all LLM-generated code following user criticism",
       "url": "https://github.com/orgs/stoatchat/discussions/1022",
-      "score": 18,
+      "score": 21,
       "by": "ashleyn",
       "time": 1771088070,
-      "comments": 10,
+      "comments": 14,
       "domain": "github.com"
+    },
+    {
+      "id": 46957629,
+      "title": "Code Storage by the Pierre Computer Company",
+      "url": "https://code.storage/",
+      "score": 36,
+      "by": "admp",
+      "time": 1770718347,
+      "comments": 21,
+      "domain": "code.storage"
     },
     {
       "id": 46971273,
@@ -148,38 +168,58 @@
       "score": 27,
       "by": "tomodachi94",
       "time": 1770788231,
-      "comments": 7,
+      "comments": 8,
       "domain": "ansuz.sooke.bc.ca"
     },
     {
-      "id": 47014995,
-      "title": "7zip.com Is Serving Malware",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-      "score": 41,
-      "by": "Alifatisk",
-      "time": 1771081109,
-      "comments": 17,
-      "domain": "malwarebytes.com"
+      "id": 47015987,
+      "title": "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
+      "url": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
+      "score": 17,
+      "by": "RandomGerm4n",
+      "time": 1771087697,
+      "comments": 6,
+      "domain": "tomshardware.com"
     },
     {
       "id": 46951430,
       "title": "The Sling: Humanity's Forgotten Power",
       "url": "https://www.slinging.org/",
-      "score": 74,
+      "score": 76,
       "by": "jsattler",
       "time": 1770671634,
       "comments": 18,
       "domain": "slinging.org"
     },
     {
+      "id": 47014995,
+      "title": "7zip.com Is Serving Malware",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+      "score": 42,
+      "by": "Alifatisk",
+      "time": 1771081109,
+      "comments": 23,
+      "domain": "malwarebytes.com"
+    },
+    {
       "id": 46936671,
       "title": "Understanding the Go Compiler: The Linker",
       "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "score": 148,
+      "score": 149,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 37,
+      "comments": 38,
       "domain": "internals-for-interns.com"
+    },
+    {
+      "id": 47014405,
+      "title": "How many registers does an x86-64 CPU have? (2020)",
+      "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+      "score": 55,
+      "by": "tosh",
+      "time": 1771075983,
+      "comments": 37,
+      "domain": "blog.yossarian.net"
     },
     {
       "id": 46944716,
@@ -195,10 +235,10 @@
       "id": 46948097,
       "title": "How the Little Guy Moved",
       "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 96,
+      "score": 98,
       "by": "zdw",
       "time": 1770658227,
-      "comments": 3,
+      "comments": 4,
       "domain": "animationobsessive.substack.com"
     },
     {
@@ -208,17 +248,17 @@
       "score": 36,
       "by": "agavra",
       "time": 1770743237,
-      "comments": 5,
+      "comments": 6,
       "domain": "bitsxpages.com"
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 214,
+      "score": 215,
       "by": "xx123122",
       "time": 1771018552,
-      "comments": 25,
+      "comments": 26,
       "domain": "github.com"
     },
     {
@@ -232,54 +272,14 @@
       "domain": "sjalander.com"
     },
     {
-      "id": 47014405,
-      "title": "How many registers does an x86-64 CPU have? (2020)",
-      "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
-      "score": 53,
-      "by": "tosh",
-      "time": 1771075983,
-      "comments": 35,
-      "domain": "blog.yossarian.net"
-    },
-    {
-      "id": 47015987,
-      "title": "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
-      "url": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
-      "score": 11,
-      "by": "RandomGerm4n",
-      "time": 1771087697,
-      "comments": 3,
-      "domain": "tomshardware.com"
-    },
-    {
       "id": 46983873,
       "title": "Common Lisp Screenshots: today's CL applications in action",
       "url": "http://www.lisp-screenshots.org",
-      "score": 150,
+      "score": 151,
       "by": "_emacsomancer_",
       "time": 1770860675,
       "comments": 44,
       "domain": "lisp-screenshots.org"
-    },
-    {
-      "id": 47005509,
-      "title": "Building a TUI is easy now",
-      "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 278,
-      "by": "abelanger",
-      "time": 1771005054,
-      "comments": 217,
-      "domain": "hatchet.run"
-    },
-    {
-      "id": 46930181,
-      "title": "Font Rendering from First Principles",
-      "url": "https://mccloskeybr.com/articles/font_rendering.html",
-      "score": 198,
-      "by": "krapp",
-      "time": 1770512309,
-      "comments": 36,
-      "domain": "mccloskeybr.com"
     }
   ]
 }
