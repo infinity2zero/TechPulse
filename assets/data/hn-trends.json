@@ -1,41 +1,51 @@
 {
-  "lastUpdated": "2026-02-14T15:44:42.254Z",
+  "lastUpdated": "2026-02-14T15:59:15.473Z",
   "items": [
     {
       "id": 47014449,
       "title": "Ooh.directory: a place to find good blogs that interest you",
       "url": "https://ooh.directory/",
-      "score": 114,
+      "score": 132,
       "by": "hisamafahri",
       "time": 1771076420,
-      "comments": 29,
+      "comments": 35,
       "domain": "ooh.directory"
     },
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 241,
+      "score": 244,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 142,
+      "comments": 145,
       "domain": "ziglang.org"
     },
     {
       "id": 47014500,
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 38,
+      "score": 49,
       "by": "datavorous_",
       "time": 1771076864,
-      "comments": 19,
+      "comments": 21,
       "domain": "github.com"
+    },
+    {
+      "id": 47015294,
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "score": 10,
+      "by": "minimalthinker",
+      "time": 1771083347,
+      "comments": 1,
+      "domain": "aimilios.bearblog.dev"
     },
     {
       "id": 46959531,
       "title": "Shades of Halftone",
       "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 12,
+      "score": 22,
       "by": "surprisetalk",
       "time": 1770730547,
       "comments": 0,
@@ -45,81 +55,81 @@
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 534,
+      "score": 542,
       "by": "benstopics",
       "time": 1770691498,
-      "comments": 174,
+      "comments": 181,
       "domain": "wallstreetraider.com"
+    },
+    {
+      "id": 47014405,
+      "title": "How many registers does an x86-64 CPU have? (2020)",
+      "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+      "score": 28,
+      "by": "tosh",
+      "time": 1771075983,
+      "comments": 12,
+      "domain": "blog.yossarian.net"
     },
     {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "url": "https://github.com/mickamy/sql-tap",
-      "score": 178,
+      "score": 180,
       "by": "mickamy",
       "time": 1771043255,
       "comments": 29,
       "domain": "github.com"
     },
     {
-      "id": 47014405,
-      "title": "How many registers does an x86-64 CPU have? (2020)",
-      "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
-      "score": 25,
-      "by": "tosh",
-      "time": 1771075983,
-      "comments": 9,
-      "domain": "blog.yossarian.net"
-    },
-    {
       "id": 47013059,
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
       "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 301,
+      "score": 315,
       "by": "robin_reala",
       "time": 1771061325,
-      "comments": 97,
+      "comments": 107,
       "domain": "infosec.exchange"
     },
     {
       "id": 46957629,
       "title": "Code Storage by the Pierre Computer Company",
       "url": "https://code.storage/",
-      "score": 22,
+      "score": 23,
       "by": "admp",
       "time": 1770718347,
-      "comments": 6,
+      "comments": 9,
       "domain": "code.storage"
-    },
-    {
-      "id": 46971273,
-      "title": "What color are your bits? (2004)",
-      "url": "https://ansuz.sooke.bc.ca/entry/23",
-      "score": 14,
-      "by": "tomodachi94",
-      "time": 1770788231,
-      "comments": 4,
-      "domain": "ansuz.sooke.bc.ca"
     },
     {
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 428,
+      "score": 431,
       "by": "walterbell",
       "time": 1770972542,
-      "comments": 210,
+      "comments": 216,
       "domain": "cordcuttersnews.com"
     },
     {
-      "id": 47014999,
-      "title": "Epstein's Ugly World of Science",
-      "url": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
-      "score": 16,
-      "by": "only_in_america",
-      "time": 1771081168,
-      "comments": 0,
-      "domain": "homunculusmusic.wordpress.com"
+      "id": 46971273,
+      "title": "What color are your bits? (2004)",
+      "url": "https://ansuz.sooke.bc.ca/entry/23",
+      "score": 15,
+      "by": "tomodachi94",
+      "time": 1770788231,
+      "comments": 5,
+      "domain": "ansuz.sooke.bc.ca"
+    },
+    {
+      "id": 47015345,
+      "title": "Switzerland to Vote on Capping Population at 10M",
+      "url": "https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html",
+      "score": 8,
+      "by": "bookofjoe",
+      "time": 1771083746,
+      "comments": 6,
+      "domain": "nytimes.com"
     },
     {
       "id": 46936671,
@@ -128,44 +138,44 @@
       "score": 131,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 29,
+      "comments": 31,
       "domain": "internals-for-interns.com"
     },
     {
-      "id": 46963047,
-      "title": "The mathematics of compression in database systems",
-      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
-      "score": 27,
-      "by": "agavra",
-      "time": 1770743237,
-      "comments": 1,
-      "domain": "bitsxpages.com"
+      "id": 46951430,
+      "title": "The Sling: Humanity's Forgotten Power",
+      "url": "https://www.slinging.org/",
+      "score": 59,
+      "by": "jsattler",
+      "time": 1770671634,
+      "comments": 9,
+      "domain": "slinging.org"
     },
     {
       "id": 46944716,
       "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
       "url": "https://mynoise.net/vlog.php?ep=20260204",
-      "score": 53,
+      "score": 55,
       "by": "gregsadetsky",
       "time": 1770641589,
       "comments": 13,
       "domain": "mynoise.net"
     },
     {
-      "id": 46951430,
-      "title": "The Sling: Humanity's Forgotten Power",
-      "url": "https://www.slinging.org/",
-      "score": 55,
-      "by": "jsattler",
-      "time": 1770671634,
-      "comments": 7,
-      "domain": "slinging.org"
+      "id": 46963047,
+      "title": "The mathematics of compression in database systems",
+      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+      "score": 28,
+      "by": "agavra",
+      "time": 1770743237,
+      "comments": 2,
+      "domain": "bitsxpages.com"
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 202,
+      "score": 204,
       "by": "xx123122",
       "time": 1771018552,
       "comments": 24,
@@ -175,7 +185,7 @@
       "id": 46948097,
       "title": "How the Little Guy Moved",
       "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 72,
+      "score": 73,
       "by": "zdw",
       "time": 1770658227,
       "comments": 3,
@@ -185,10 +195,10 @@
       "id": 46983873,
       "title": "Common Lisp Screenshots: today's CL applications in action",
       "url": "http://www.lisp-screenshots.org",
-      "score": 139,
+      "score": 140,
       "by": "_emacsomancer_",
       "time": 1770860675,
-      "comments": 42,
+      "comments": 43,
       "domain": "lisp-screenshots.org"
     },
     {
@@ -205,21 +215,41 @@
       "id": 47005509,
       "title": "Building a TUI is easy now",
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 263,
+      "score": 264,
       "by": "abelanger",
       "time": 1771005054,
-      "comments": 201,
+      "comments": 203,
       "domain": "hatchet.run"
+    },
+    {
+      "id": 47014999,
+      "title": "Epstein's Ugly World of Science",
+      "url": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
+      "score": 30,
+      "by": "only_in_america",
+      "time": 1771081168,
+      "comments": 1,
+      "domain": "homunculusmusic.wordpress.com"
     },
     {
       "id": 46930181,
       "title": "Font Rendering from First Principles",
       "url": "https://mccloskeybr.com/articles/font_rendering.html",
-      "score": 179,
+      "score": 185,
       "by": "krapp",
       "time": 1770512309,
-      "comments": 33,
+      "comments": 34,
       "domain": "mccloskeybr.com"
+    },
+    {
+      "id": 47015084,
+      "title": "Homeland Security has sent out subpoenas to identify ICE critics",
+      "url": "https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html",
+      "score": 54,
+      "by": "OutOfHere",
+      "time": 1771081823,
+      "comments": 1,
+      "domain": "engadget.com"
     },
     {
       "id": 47010823,
@@ -232,64 +262,34 @@
       "domain": "npmx.dev"
     },
     {
-      "id": 47012964,
-      "title": "YouTube as Storage",
-      "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 110,
-      "by": "saswatms",
-      "time": 1771060215,
-      "comments": 89,
-      "domain": "github.com"
-    },
-    {
       "id": 47011602,
       "title": "Backblaze Drive Stats for 2025",
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-      "score": 122,
+      "score": 124,
       "by": "Brajeshwar",
       "time": 1771043701,
       "comments": 22,
       "domain": "backblaze.com"
     },
     {
+      "id": 47012964,
+      "title": "YouTube as Storage",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "score": 113,
+      "by": "saswatms",
+      "time": 1771060215,
+      "comments": 92,
+      "domain": "github.com"
+    },
+    {
       "id": 47001871,
       "title": "Monosketch",
       "url": "https://monosketch.io/",
-      "score": 820,
+      "score": 822,
       "by": "penguin_booze",
       "time": 1770985085,
-      "comments": 136,
+      "comments": 137,
       "domain": "monosketch.io"
-    },
-    {
-      "id": 47007656,
-      "title": "The EU moves to kill infinite scrolling",
-      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 696,
-      "by": "danso",
-      "time": 1771015931,
-      "comments": 748,
-      "domain": "politico.eu"
-    },
-    {
-      "id": 47003064,
-      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-      "url": "https://ios-countdown.win/",
-      "score": 1527,
-      "by": "ozzyphantom",
-      "time": 1770992461,
-      "comments": 750,
-      "domain": "ios-countdown.win"
-    },
-    {
-      "id": 46944430,
-      "title": "gRPC: From service definition to wire format",
-      "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 146,
-      "by": "latonz",
-      "time": 1770639443,
-      "comments": 28,
-      "domain": "kreya.app"
     }
   ]
 }
