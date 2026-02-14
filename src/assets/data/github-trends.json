@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T20:46:34.941Z",
+  "lastUpdated": "2026-02-14T21:00:53.898Z",
   "items": [
     {
       "id": 1153093670,
@@ -18,14 +18,14 @@
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 2017,
+      "stars": 2018,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-14T20:15:48Z"
+      "updated_at": "2026-02-14T20:56:49Z"
     },
     {
       "id": 1152654395,
@@ -44,14 +44,14 @@
       "id": 1155639743,
       "name": "xyzeva/k-id-age-verifier",
       "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
-      "stars": 1486,
+      "stars": 1488,
       "language": "TypeScript",
       "url": "https://github.com/xyzeva/k-id-age-verifier",
       "owner": {
         "login": "xyzeva",
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
-      "updated_at": "2026-02-14T20:41:40Z"
+      "updated_at": "2026-02-14T20:56:48Z"
     },
     {
       "id": 1152614211,
@@ -70,14 +70,14 @@
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1318,
+      "stars": 1324,
       "language": "TypeScript",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-14T20:41:10Z"
+      "updated_at": "2026-02-14T20:58:43Z"
     },
     {
       "id": 1152691112,
@@ -109,14 +109,14 @@
       "id": 1152969678,
       "name": "Veirt/weathr",
       "description": "a terminal weather app with ascii animation",
-      "stars": 932,
+      "stars": 933,
       "language": "Rust",
       "url": "https://github.com/Veirt/weathr",
       "owner": {
         "login": "Veirt",
         "avatar_url": "https://avatars.githubusercontent.com/u/55097092?v=4"
       },
-      "updated_at": "2026-02-14T20:21:09Z"
+      "updated_at": "2026-02-14T20:56:37Z"
     },
     {
       "id": 1152833832,
@@ -135,66 +135,66 @@
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 804,
+      "stars": 805,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-14T20:16:29Z"
+      "updated_at": "2026-02-14T20:52:55Z"
     },
     {
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 773,
+      "stars": 774,
       "language": null,
       "url": "https://github.com/zai-org/GLM-5",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-14T20:16:40Z"
+      "updated_at": "2026-02-14T20:49:57Z"
     },
     {
       "id": 1152574482,
       "name": "rohunvora/x-research-skill",
       "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
-      "stars": 744,
+      "stars": 745,
       "language": "TypeScript",
       "url": "https://github.com/rohunvora/x-research-skill",
       "owner": {
         "login": "rohunvora",
         "avatar_url": "https://avatars.githubusercontent.com/u/62487186?v=4"
       },
-      "updated_at": "2026-02-14T19:57:13Z"
+      "updated_at": "2026-02-14T20:52:30Z"
     },
     {
       "id": 1156956890,
       "name": "theonlyhennygod/zeroclaw",
       "description": "claw done right 🦀",
-      "stars": 717,
+      "stars": 729,
       "language": "Rust",
       "url": "https://github.com/theonlyhennygod/zeroclaw",
       "owner": {
         "login": "theonlyhennygod",
         "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
       },
-      "updated_at": "2026-02-14T20:44:35Z"
+      "updated_at": "2026-02-14T20:59:56Z"
     },
     {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 546,
+      "stars": 547,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-14T20:46:32Z"
+      "updated_at": "2026-02-14T20:49:39Z"
     },
     {
       "id": 1156437015,
@@ -213,14 +213,14 @@
       "id": 1154042797,
       "name": "aeromomo/claw-compactor",
       "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 436,
+      "stars": 437,
       "language": "Python",
       "url": "https://github.com/aeromomo/claw-compactor",
       "owner": {
         "login": "aeromomo",
         "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
       },
-      "updated_at": "2026-02-14T20:40:37Z"
+      "updated_at": "2026-02-14T20:54:34Z"
     },
     {
       "id": 1154178809,
