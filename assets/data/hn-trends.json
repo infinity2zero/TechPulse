@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-02-14T19:48:05.392Z",
+  "lastUpdated": "2026-02-14T19:57:26.276Z",
   "items": [
     {
       "id": 47017138,
       "title": "Internet Increasingly Becoming Unarchivable",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 102,
+      "score": 119,
       "by": "ninjagoo",
       "time": 1771094792,
-      "comments": 59,
+      "comments": 68,
       "domain": "niemanlab.org"
     },
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 214,
+      "score": 219,
       "by": "minimalthinker",
       "time": 1771083347,
-      "comments": 101,
+      "comments": 103,
       "domain": "aimilios.bearblog.dev"
     },
     {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 73,
+      "score": 84,
       "by": "i5heu",
       "time": 1771090605,
-      "comments": 20,
+      "comments": 27,
       "domain": "github.com"
     },
     {
       "id": 47014449,
       "title": "Ooh.directory: a place to find good blogs that interest you",
       "url": "https://ooh.directory/",
-      "score": 301,
+      "score": 303,
       "by": "hisamafahri",
       "time": 1771076420,
       "comments": 100,
@@ -45,40 +45,50 @@
       "id": 47016008,
       "title": "Amsterdam Compiler Kit",
       "url": "https://github.com/davidgiven/ack",
-      "score": 39,
+      "score": 40,
       "by": "andsoitis",
       "time": 1771087847,
-      "comments": 12,
-      "domain": "github.com"
-    },
-    {
-      "id": 47014500,
-      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-      "url": "https://github.com/datavorous/sameshi",
-      "score": 143,
-      "by": "datavorous_",
-      "time": 1771076864,
-      "comments": 40,
+      "comments": 14,
       "domain": "github.com"
     },
     {
       "id": 47016530,
       "title": "A header-only C vector database library",
       "url": "https://github.com/abdimoallim/vdb",
-      "score": 16,
+      "score": 20,
       "by": "abdimoalim",
       "time": 1771091109,
       "comments": 3,
       "domain": "github.com"
     },
     {
+      "id": 47014500,
+      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+      "url": "https://github.com/datavorous/sameshi",
+      "score": 146,
+      "by": "datavorous_",
+      "time": 1771076864,
+      "comments": 40,
+      "domain": "github.com"
+    },
+    {
+      "id": 47017682,
+      "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+      "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+      "score": 4,
+      "by": "stared",
+      "time": 1771098466,
+      "comments": 0,
+      "domain": "simonwillison.net"
+    },
+    {
       "id": 47015330,
       "title": "Vim 9.2 Released",
       "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 209,
+      "score": 217,
       "by": "tapanjk",
       "time": 1771083583,
-      "comments": 90,
+      "comments": 95,
       "domain": "vim.org"
     },
     {
@@ -88,7 +98,7 @@
       "score": 37,
       "by": "ahmed_sulajman",
       "time": 1771088124,
-      "comments": 4,
+      "comments": 6,
       "domain": "github.com"
     },
     {
@@ -98,54 +108,64 @@
       "score": 311,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 215,
+      "comments": 217,
       "domain": "ziglang.org"
-    },
-    {
-      "id": 46959531,
-      "title": "Shades of Halftone",
-      "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 82,
-      "by": "surprisetalk",
-      "time": 1770730547,
-      "comments": 3,
-      "domain": "blog.maximeheckel.com"
-    },
-    {
-      "id": 46968641,
-      "title": "Windows NT/OS2 Design Workbook",
-      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
-      "score": 13,
-      "by": "markus_zhang",
-      "time": 1770766695,
-      "comments": 3,
-      "domain": "computernewb.com"
     },
     {
       "id": 46965462,
       "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
       "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-      "score": 21,
+      "score": 24,
       "by": "weinzierl",
       "time": 1770751653,
       "comments": 0,
       "domain": "blog.janestreet.com"
     },
     {
+      "id": 47017545,
+      "title": "Descent, Ported to the Web",
+      "url": "https://mrdoob.github.io/three-descent/",
+      "score": 4,
+      "by": "memalign",
+      "time": 1771097604,
+      "comments": 0,
+      "domain": "mrdoob.github.io"
+    },
+    {
+      "id": 46968641,
+      "title": "Windows NT/OS2 Design Workbook",
+      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+      "score": 15,
+      "by": "markus_zhang",
+      "time": 1770766695,
+      "comments": 3,
+      "domain": "computernewb.com"
+    },
+    {
+      "id": 46959531,
+      "title": "Shades of Halftone",
+      "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+      "score": 84,
+      "by": "surprisetalk",
+      "time": 1770730547,
+      "comments": 3,
+      "domain": "blog.maximeheckel.com"
+    },
+    {
       "id": 47015579,
       "title": "A Review of M Disc Archival Capability. With long term testing results",
       "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "score": 30,
+      "score": 32,
       "by": "1970-01-01",
       "time": 1771085264,
-      "comments": 22,
+      "comments": 23,
       "domain": "microscopy-uk.org.uk"
     },
     {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 646,
+      "score": 650,
       "by": "benstopics",
       "time": 1770691498,
       "comments": 222,
@@ -155,10 +175,10 @@
       "id": 47016920,
       "title": "Dr. Oz pushes AI avatars as a fix for rural health care",
       "url": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
-      "score": 25,
+      "score": 28,
       "by": "toomuchtodo",
       "time": 1771093368,
-      "comments": 20,
+      "comments": 26,
       "domain": "npr.org"
     },
     {
@@ -175,7 +195,7 @@
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 556,
+      "score": 560,
       "by": "walterbell",
       "time": 1770972542,
       "comments": 282,
@@ -185,21 +205,31 @@
       "id": 47013059,
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
       "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 498,
+      "score": 504,
       "by": "robin_reala",
       "time": 1771061325,
-      "comments": 203,
+      "comments": 212,
       "domain": "infosec.exchange"
     },
     {
       "id": 47014995,
       "title": "7zip.com Is Serving Malware",
       "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-      "score": 100,
+      "score": 106,
       "by": "Alifatisk",
       "time": 1771081109,
-      "comments": 53,
+      "comments": 55,
       "domain": "malwarebytes.com"
+    },
+    {
+      "id": 46957629,
+      "title": "Code Storage by the Pierre Computer Company",
+      "url": "https://code.storage/",
+      "score": 56,
+      "by": "admp",
+      "time": 1770718347,
+      "comments": 34,
+      "domain": "code.storage"
     },
     {
       "id": 47016639,
@@ -212,44 +242,24 @@
       "domain": "vanilla-gamma-graph.netlify.app"
     },
     {
-      "id": 46957629,
-      "title": "Code Storage by the Pierre Computer Company",
-      "url": "https://code.storage/",
-      "score": 54,
-      "by": "admp",
-      "time": 1770718347,
-      "comments": 33,
-      "domain": "code.storage"
+      "id": 46951430,
+      "title": "The Sling: Humanity's Forgotten Power",
+      "url": "https://www.slinging.org/",
+      "score": 91,
+      "by": "jsattler",
+      "time": 1770671634,
+      "comments": 23,
+      "domain": "slinging.org"
     },
     {
       "id": 46971273,
       "title": "What color are your bits? (2004)",
       "url": "https://ansuz.sooke.bc.ca/entry/23",
-      "score": 32,
+      "score": 33,
       "by": "tomodachi94",
       "time": 1770788231,
-      "comments": 8,
+      "comments": 9,
       "domain": "ansuz.sooke.bc.ca"
-    },
-    {
-      "id": 46951430,
-      "title": "The Sling: Humanity's Forgotten Power",
-      "url": "https://www.slinging.org/",
-      "score": 89,
-      "by": "jsattler",
-      "time": 1770671634,
-      "comments": 22,
-      "domain": "slinging.org"
-    },
-    {
-      "id": 46963047,
-      "title": "The mathematics of compression in database systems",
-      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
-      "score": 46,
-      "by": "agavra",
-      "time": 1770743237,
-      "comments": 8,
-      "domain": "bitsxpages.com"
     },
     {
       "id": 46936671,
@@ -262,24 +272,14 @@
       "domain": "internals-for-interns.com"
     },
     {
-      "id": 46948097,
-      "title": "How the Little Guy Moved",
-      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 115,
-      "by": "zdw",
-      "time": 1770658227,
-      "comments": 5,
-      "domain": "animationobsessive.substack.com"
-    },
-    {
-      "id": 46945138,
-      "title": "Sound and Practical Points-To Analysis for Incomplete C Programs [pdf]",
-      "url": "https://www.sjalander.com/research/pdf/sjalander-cgo2026-pip.pdf",
-      "score": 12,
-      "by": "st_",
-      "time": 1770644799,
-      "comments": 0,
-      "domain": "sjalander.com"
+      "id": 46963047,
+      "title": "The mathematics of compression in database systems",
+      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+      "score": 46,
+      "by": "agavra",
+      "time": 1770743237,
+      "comments": 8,
+      "domain": "bitsxpages.com"
     }
   ]
 }
