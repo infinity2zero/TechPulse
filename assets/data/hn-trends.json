@@ -1,161 +1,171 @@
 {
-  "lastUpdated": "2026-02-14T08:58:15.906Z",
+  "lastUpdated": "2026-02-14T09:29:23.628Z",
   "items": [
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 15,
+      "score": 45,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 0,
+      "comments": 3,
       "domain": "ziglang.org"
+    },
+    {
+      "id": 46965829,
+      "title": "The Three Year Myth",
+      "url": "https://green.spacedino.net/the-three-year-myth/",
+      "score": 42,
+      "by": "surprisetalk",
+      "time": 1770753098,
+      "comments": 20,
+      "domain": "green.spacedino.net"
     },
     {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "url": "https://github.com/mickamy/sql-tap",
-      "score": 85,
+      "score": 95,
       "by": "mickamy",
       "time": 1771043255,
       "comments": 16,
       "domain": "github.com"
     },
     {
-      "id": 46965829,
-      "title": "The Three Year Myth",
-      "url": "https://green.spacedino.net/the-three-year-myth/",
-      "score": 32,
-      "by": "surprisetalk",
-      "time": 1770753098,
-      "comments": 14,
-      "domain": "green.spacedino.net"
-    },
-    {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 235,
+      "score": 262,
       "by": "benstopics",
       "time": 1770691498,
-      "comments": 75,
+      "comments": 89,
       "domain": "wallstreetraider.com"
     },
     {
       "id": 46936671,
       "title": "Understanding the Go Compiler: The Linker",
       "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "score": 59,
+      "score": 66,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 2,
+      "comments": 6,
       "domain": "internals-for-interns.com"
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 154,
+      "score": 158,
       "by": "xx123122",
       "time": 1771018552,
-      "comments": 13,
+      "comments": 15,
       "domain": "github.com"
     },
     {
       "id": 46983873,
       "title": "Common Lisp Screenshots: today's CL applications in action",
       "url": "http://www.lisp-screenshots.org",
-      "score": 101,
+      "score": 105,
       "by": "_emacsomancer_",
       "time": 1770860675,
       "comments": 32,
       "domain": "lisp-screenshots.org"
     },
     {
+      "id": 46948097,
+      "title": "How the Little Guy Moved",
+      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+      "score": 15,
+      "by": "zdw",
+      "time": 1770658227,
+      "comments": 1,
+      "domain": "animationobsessive.substack.com"
+    },
+    {
       "id": 47006594,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 462,
+      "score": 468,
       "by": "davidbarker",
       "time": 1771010412,
-      "comments": 320,
+      "comments": 324,
       "domain": "openai.com"
-    },
-    {
-      "id": 47011602,
-      "title": "Backblaze Drive Stats for 2025",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-      "score": 60,
-      "by": "Brajeshwar",
-      "time": 1771043701,
-      "comments": 9,
-      "domain": "backblaze.com"
     },
     {
       "id": 47005509,
       "title": "Building a TUI is easy now",
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 214,
+      "score": 220,
       "by": "abelanger",
       "time": 1771005054,
-      "comments": 159,
+      "comments": 169,
       "domain": "hatchet.run"
+    },
+    {
+      "id": 47011602,
+      "title": "Backblaze Drive Stats for 2025",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "score": 65,
+      "by": "Brajeshwar",
+      "time": 1771043701,
+      "comments": 10,
+      "domain": "backblaze.com"
     },
     {
       "id": 46930181,
       "title": "Font Rendering from First Principles",
       "url": "https://mccloskeybr.com/articles/font_rendering.html",
-      "score": 144,
+      "score": 150,
       "by": "krapp",
       "time": 1770512309,
       "comments": 24,
       "domain": "mccloskeybr.com"
     },
     {
-      "id": 46948097,
-      "title": "How the Little Guy Moved",
-      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 7,
-      "by": "zdw",
-      "time": 1770658227,
-      "comments": 0,
-      "domain": "animationobsessive.substack.com"
-    },
-    {
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 162,
+      "score": 179,
       "by": "walterbell",
       "time": 1770972542,
-      "comments": 88,
+      "comments": 99,
       "domain": "cordcuttersnews.com"
     },
     {
       "id": 46955311,
       "title": "Gradient.horse",
       "url": "https://gradient.horse",
-      "score": 247,
+      "score": 253,
       "by": "microflash",
       "time": 1770696829,
-      "comments": 49,
+      "comments": 50,
       "domain": "gradient.horse"
+    },
+    {
+      "id": 47010823,
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "url": "https://npmx.dev",
+      "score": 92,
+      "by": "slymax",
+      "time": 1771035274,
+      "comments": 43,
+      "domain": "npmx.dev"
     },
     {
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 550,
+      "score": 564,
       "by": "danso",
       "time": 1771015931,
-      "comments": 555,
+      "comments": 571,
       "domain": "politico.eu"
     },
     {
       "id": 46967147,
       "title": "Adventures in Neural Rendering",
       "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-      "score": 26,
+      "score": 27,
       "by": "ingve",
       "time": 1770758776,
       "comments": 1,
@@ -165,27 +175,27 @@
       "id": 46944430,
       "title": "gRPC: From service definition to wire format",
       "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 121,
+      "score": 122,
       "by": "latonz",
       "time": 1770639443,
       "comments": 18,
       "domain": "kreya.app"
     },
     {
-      "id": 47010823,
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "url": "https://npmx.dev",
-      "score": 86,
-      "by": "slymax",
-      "time": 1771035274,
-      "comments": 41,
-      "domain": "npmx.dev"
+      "id": 46944716,
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "score": 3,
+      "by": "gregsadetsky",
+      "time": 1770641589,
+      "comments": 0,
+      "domain": "mynoise.net"
     },
     {
       "id": 47001871,
       "title": "Monosketch",
       "url": "https://monosketch.io/",
-      "score": 766,
+      "score": 769,
       "by": "penguin_booze",
       "time": 1770985085,
       "comments": 133,
@@ -195,20 +205,20 @@
       "id": 47003064,
       "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
       "url": "https://ios-countdown.win/",
-      "score": 1435,
+      "score": 1441,
       "by": "ozzyphantom",
       "time": 1770992461,
-      "comments": 703,
+      "comments": 708,
       "domain": "ios-countdown.win"
     },
     {
       "id": 47009949,
       "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "score": 403,
+      "score": 417,
       "by": "scottshambaugh",
       "time": 1771029473,
-      "comments": 203,
+      "comments": 205,
       "domain": "theshamblog.com"
     },
     {
@@ -218,7 +228,7 @@
       "score": 112,
       "by": "thomasjb",
       "time": 1770977936,
-      "comments": 92,
+      "comments": 94,
       "domain": "blog.feld.me"
     },
     {
@@ -245,11 +255,21 @@
       "id": 47003214,
       "title": "How did the Maya survive?",
       "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-      "score": 128,
+      "score": 129,
       "by": "speckx",
       "time": 1770993367,
-      "comments": 104,
+      "comments": 107,
       "domain": "theguardian.com"
+    },
+    {
+      "id": 47008931,
+      "title": "The wonder of modern drywall",
+      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
+      "score": 104,
+      "by": "jger15",
+      "time": 1770953607,
+      "comments": 163,
+      "domain": "worksinprogress.news"
     },
     {
       "id": 46954637,
@@ -258,38 +278,18 @@
       "score": 125,
       "by": "drbruced",
       "time": 1770690994,
-      "comments": 73,
+      "comments": 74,
       "domain": "systemsapproach.org"
-    },
-    {
-      "id": 47008931,
-      "title": "The wonder of modern drywall",
-      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
-      "score": 103,
-      "by": "jger15",
-      "time": 1770953607,
-      "comments": 163,
-      "domain": "worksinprogress.news"
     },
     {
       "id": 47006513,
       "title": "I'm not worried about AI job loss",
       "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-      "score": 253,
+      "score": 256,
       "by": "ezekg",
       "time": 1771009984,
-      "comments": 416,
+      "comments": 426,
       "domain": "davidoks.blog"
-    },
-    {
-      "id": 47008560,
-      "title": "OpenAI has deleted the word 'safely' from its mission",
-      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-      "score": 496,
-      "by": "DamnInteresting",
-      "time": 1771021026,
-      "comments": 253,
-      "domain": "theconversation.com"
     }
   ]
 }
