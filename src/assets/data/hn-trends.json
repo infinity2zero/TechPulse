@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-02-14T19:33:20.186Z",
+  "lastUpdated": "2026-02-14T19:48:05.392Z",
   "items": [
     {
       "id": 47017138,
       "title": "Internet Increasingly Becoming Unarchivable",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 75,
+      "score": 102,
       "by": "ninjagoo",
       "time": 1771094792,
-      "comments": 42,
+      "comments": 59,
       "domain": "niemanlab.org"
     },
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 210,
+      "score": 214,
       "by": "minimalthinker",
       "time": 1771083347,
-      "comments": 91,
+      "comments": 101,
       "domain": "aimilios.bearblog.dev"
-    },
-    {
-      "id": 47014449,
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "url": "https://ooh.directory/",
-      "score": 296,
-      "by": "hisamafahri",
-      "time": 1771076420,
-      "comments": 99,
-      "domain": "ooh.directory"
     },
     {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 39,
+      "score": 73,
       "by": "i5heu",
       "time": 1771090605,
-      "comments": 13,
+      "comments": 20,
       "domain": "github.com"
+    },
+    {
+      "id": 47014449,
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "url": "https://ooh.directory/",
+      "score": 301,
+      "by": "hisamafahri",
+      "time": 1771076420,
+      "comments": 100,
+      "domain": "ooh.directory"
     },
     {
       "id": 47016008,
       "title": "Amsterdam Compiler Kit",
       "url": "https://github.com/davidgiven/ack",
-      "score": 35,
+      "score": 39,
       "by": "andsoitis",
       "time": 1771087847,
       "comments": 12,
@@ -55,101 +55,111 @@
       "id": 47014500,
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 141,
+      "score": 143,
       "by": "datavorous_",
       "time": 1771076864,
       "comments": 40,
       "domain": "github.com"
     },
     {
-      "id": 47016058,
-      "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
-      "url": "https://github.com/Geek-1001/arcmark",
-      "score": 36,
-      "by": "ahmed_sulajman",
-      "time": 1771088124,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 47015330,
-      "title": "Vim 9.2 Released",
-      "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 201,
-      "by": "tapanjk",
-      "time": 1771083583,
-      "comments": 87,
-      "domain": "vim.org"
-    },
-    {
       "id": 47016530,
       "title": "A header-only C vector database library",
       "url": "https://github.com/abdimoallim/vdb",
-      "score": 15,
+      "score": 16,
       "by": "abdimoalim",
       "time": 1771091109,
       "comments": 3,
       "domain": "github.com"
     },
     {
+      "id": 47015330,
+      "title": "Vim 9.2 Released",
+      "url": "https://www.vim.org/vim-9.2-released.php",
+      "score": 209,
+      "by": "tapanjk",
+      "time": 1771083583,
+      "comments": 90,
+      "domain": "vim.org"
+    },
+    {
+      "id": 47016058,
+      "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+      "url": "https://github.com/Geek-1001/arcmark",
+      "score": 37,
+      "by": "ahmed_sulajman",
+      "time": 1771088124,
+      "comments": 4,
+      "domain": "github.com"
+    },
+    {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 304,
+      "score": 311,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 212,
+      "comments": 215,
       "domain": "ziglang.org"
     },
     {
       "id": 46959531,
       "title": "Shades of Halftone",
       "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 78,
+      "score": 82,
       "by": "surprisetalk",
       "time": 1770730547,
       "comments": 3,
       "domain": "blog.maximeheckel.com"
     },
     {
-      "id": 47015579,
-      "title": "A Review of M Disc Archival Capability. With long term testing results",
-      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "score": 28,
-      "by": "1970-01-01",
-      "time": 1771085264,
-      "comments": 20,
-      "domain": "microscopy-uk.org.uk"
+      "id": 46968641,
+      "title": "Windows NT/OS2 Design Workbook",
+      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+      "score": 13,
+      "by": "markus_zhang",
+      "time": 1770766695,
+      "comments": 3,
+      "domain": "computernewb.com"
     },
     {
       "id": 46965462,
       "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
       "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-      "score": 15,
+      "score": 21,
       "by": "weinzierl",
       "time": 1770751653,
       "comments": 0,
       "domain": "blog.janestreet.com"
     },
     {
+      "id": 47015579,
+      "title": "A Review of M Disc Archival Capability. With long term testing results",
+      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+      "score": 30,
+      "by": "1970-01-01",
+      "time": 1771085264,
+      "comments": 22,
+      "domain": "microscopy-uk.org.uk"
+    },
+    {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 640,
+      "score": 646,
       "by": "benstopics",
       "time": 1770691498,
-      "comments": 218,
+      "comments": 222,
       "domain": "wallstreetraider.com"
     },
     {
-      "id": 46968641,
-      "title": "Windows NT/OS2 Design Workbook",
-      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
-      "score": 8,
-      "by": "markus_zhang",
-      "time": 1770766695,
-      "comments": 2,
-      "domain": "computernewb.com"
+      "id": 47016920,
+      "title": "Dr. Oz pushes AI avatars as a fix for rural health care",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+      "score": 25,
+      "by": "toomuchtodo",
+      "time": 1771093368,
+      "comments": 20,
+      "domain": "npr.org"
     },
     {
       "id": 47011567,
@@ -158,28 +168,38 @@
       "score": 213,
       "by": "mickamy",
       "time": 1771043255,
-      "comments": 36,
+      "comments": 37,
       "domain": "github.com"
-    },
-    {
-      "id": 47013059,
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 485,
-      "by": "robin_reala",
-      "time": 1771061325,
-      "comments": 197,
-      "domain": "infosec.exchange"
     },
     {
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 548,
+      "score": 556,
       "by": "walterbell",
       "time": 1770972542,
-      "comments": 277,
+      "comments": 282,
       "domain": "cordcuttersnews.com"
+    },
+    {
+      "id": 47013059,
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "score": 498,
+      "by": "robin_reala",
+      "time": 1771061325,
+      "comments": 203,
+      "domain": "infosec.exchange"
+    },
+    {
+      "id": 47014995,
+      "title": "7zip.com Is Serving Malware",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+      "score": 100,
+      "by": "Alifatisk",
+      "time": 1771081109,
+      "comments": 53,
+      "domain": "malwarebytes.com"
     },
     {
       "id": 47016639,
@@ -192,30 +212,10 @@
       "domain": "vanilla-gamma-graph.netlify.app"
     },
     {
-      "id": 47016920,
-      "title": "Dr. Oz pushes AI avatars as a fix for rural health care",
-      "url": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
-      "score": 18,
-      "by": "toomuchtodo",
-      "time": 1771093368,
-      "comments": 14,
-      "domain": "npr.org"
-    },
-    {
-      "id": 47014995,
-      "title": "7zip.com Is Serving Malware",
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-      "score": 89,
-      "by": "Alifatisk",
-      "time": 1771081109,
-      "comments": 47,
-      "domain": "malwarebytes.com"
-    },
-    {
       "id": 46957629,
       "title": "Code Storage by the Pierre Computer Company",
       "url": "https://code.storage/",
-      "score": 52,
+      "score": 54,
       "by": "admp",
       "time": 1770718347,
       "comments": 33,
@@ -235,17 +235,17 @@
       "id": 46951430,
       "title": "The Sling: Humanity's Forgotten Power",
       "url": "https://www.slinging.org/",
-      "score": 88,
+      "score": 89,
       "by": "jsattler",
       "time": 1770671634,
-      "comments": 21,
+      "comments": 22,
       "domain": "slinging.org"
     },
     {
       "id": 46963047,
       "title": "The mathematics of compression in database systems",
       "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
-      "score": 45,
+      "score": 46,
       "by": "agavra",
       "time": 1770743237,
       "comments": 8,
@@ -255,11 +255,21 @@
       "id": 46936671,
       "title": "Understanding the Go Compiler: The Linker",
       "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "score": 157,
+      "score": 160,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 44,
+      "comments": 46,
       "domain": "internals-for-interns.com"
+    },
+    {
+      "id": 46948097,
+      "title": "How the Little Guy Moved",
+      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+      "score": 115,
+      "by": "zdw",
+      "time": 1770658227,
+      "comments": 5,
+      "domain": "animationobsessive.substack.com"
     },
     {
       "id": 46945138,
@@ -270,16 +280,6 @@
       "time": 1770644799,
       "comments": 0,
       "domain": "sjalander.com"
-    },
-    {
-      "id": 46948097,
-      "title": "How the Little Guy Moved",
-      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 111,
-      "by": "zdw",
-      "time": 1770658227,
-      "comments": 5,
-      "domain": "animationobsessive.substack.com"
     }
   ]
 }
