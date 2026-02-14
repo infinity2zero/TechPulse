@@ -1,70 +1,57 @@
 {
-  "lastUpdated": "2026-02-13T23:47:55.120Z",
+  "lastUpdated": "2026-02-14T00:02:58.041Z",
   "items": [
     {
       "id": 1153093670,
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "description": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 2066,
+      "stars": 2070,
       "language": null,
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
       "owner": {
         "login": "hesamsheikh",
         "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
       },
-      "updated_at": "2026-02-13T23:45:03Z"
+      "updated_at": "2026-02-14T00:00:11Z"
     },
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 1849,
+      "stars": 1852,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-13T23:43:16Z"
-    },
-    {
-      "id": 1151972675,
-      "name": "The-Vibe-Company/companion",
-      "description": "Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile",
-      "stars": 1815,
-      "language": "TypeScript",
-      "url": "https://github.com/The-Vibe-Company/companion",
-      "owner": {
-        "login": "The-Vibe-Company",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252322352?v=4"
-      },
-      "updated_at": "2026-02-13T22:39:39Z"
+      "updated_at": "2026-02-13T23:57:41Z"
     },
     {
       "id": 1152654395,
       "name": "ComposioHQ/secure-openclaw",
       "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
-      "stars": 1489,
+      "stars": 1490,
       "language": "JavaScript",
       "url": "https://github.com/ComposioHQ/secure-openclaw",
       "owner": {
         "login": "ComposioHQ",
         "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
       },
-      "updated_at": "2026-02-13T20:16:44Z"
+      "updated_at": "2026-02-13T23:55:28Z"
     },
     {
       "id": 1155639743,
       "name": "xyzeva/k-id-age-verifier",
       "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
-      "stars": 1382,
+      "stars": 1384,
       "language": "TypeScript",
       "url": "https://github.com/xyzeva/k-id-age-verifier",
       "owner": {
         "login": "xyzeva",
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
-      "updated_at": "2026-02-13T23:24:01Z"
+      "updated_at": "2026-02-13T23:56:21Z"
     },
     {
       "id": 1152614211,
@@ -109,27 +96,14 @@
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1017,
+      "stars": 1018,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-13T23:45:06Z"
-    },
-    {
-      "id": 1152157239,
-      "name": "tw93/Kaku",
-      "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
-      "stars": 996,
-      "language": "Rust",
-      "url": "https://github.com/tw93/Kaku",
-      "owner": {
-        "login": "tw93",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
-      },
-      "updated_at": "2026-02-13T23:44:28Z"
+      "updated_at": "2026-02-13T23:51:44Z"
     },
     {
       "id": 1152969678,
@@ -161,14 +135,14 @@
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 763,
+      "stars": 764,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-13T23:42:42Z"
+      "updated_at": "2026-02-13T23:55:56Z"
     },
     {
       "id": 1152574482,
@@ -184,32 +158,6 @@
       "updated_at": "2026-02-13T23:27:25Z"
     },
     {
-      "id": 1152229409,
-      "name": "trumpet-noek/sora2-free-watermark-remover",
-      "description": "sora2 free watermark remover",
-      "stars": 709,
-      "language": "Python",
-      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
-      "owner": {
-        "login": "trumpet-noek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/198388533?v=4"
-      },
-      "updated_at": "2026-02-13T18:37:20Z"
-    },
-    {
-      "id": 1152231621,
-      "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "description": "sora2 watermark cleaner pro",
-      "stars": 678,
-      "language": "Python",
-      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-      "owner": {
-        "login": "uqogihujomuwhiff",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187814954?v=4"
-      },
-      "updated_at": "2026-02-13T12:13:09Z"
-    },
-    {
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
@@ -220,7 +168,7 @@
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-13T22:40:20Z"
+      "updated_at": "2026-02-13T23:59:44Z"
     },
     {
       "id": 1154178809,
@@ -236,19 +184,6 @@
       "updated_at": "2026-02-13T18:15:18Z"
     },
     {
-      "id": 1152237127,
-      "name": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
-      "description": "sora2 watermark deleter windows macos",
-      "stars": 379,
-      "language": "Python",
-      "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
-      "owner": {
-        "login": "tnbeznlacut",
-        "avatar_url": "https://avatars.githubusercontent.com/u/191570003?v=4"
-      },
-      "updated_at": "2026-02-13T12:13:30Z"
-    },
-    {
       "id": 1152583761,
       "name": "lijigang/ljg-skill-xray-paper",
       "description": "论文X光机 — Claude Code Skill，解构学术论文，提炼餐巾纸公式",
@@ -260,6 +195,71 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4835998?v=4"
       },
       "updated_at": "2026-02-13T13:35:06Z"
+    },
+    {
+      "id": 1154042797,
+      "name": "aeromomo/claw-compactor",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "stars": 367,
+      "language": "Python",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "owner": {
+        "login": "aeromomo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
+      },
+      "updated_at": "2026-02-13T23:46:43Z"
+    },
+    {
+      "id": 1156437015,
+      "name": "devops-interviews/devops-interviews",
+      "description": "DevOps Interview Questions",
+      "stars": 364,
+      "language": null,
+      "url": "https://github.com/devops-interviews/devops-interviews",
+      "owner": {
+        "login": "devops-interviews",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
+      },
+      "updated_at": "2026-02-13T23:34:05Z"
+    },
+    {
+      "id": 1153780962,
+      "name": "MemeCalculate/moyin-creator",
+      "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support",
+      "stars": 313,
+      "language": "TypeScript",
+      "url": "https://github.com/MemeCalculate/moyin-creator",
+      "owner": {
+        "login": "MemeCalculate",
+        "avatar_url": "https://avatars.githubusercontent.com/u/177394945?v=4"
+      },
+      "updated_at": "2026-02-13T22:05:21Z"
+    },
+    {
+      "id": 1153216306,
+      "name": "alibaba-damo-academy/RynnBrain",
+      "description": "RynnBrain: Open Embodied Foundation Models",
+      "stars": 282,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+      "owner": {
+        "login": "alibaba-damo-academy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115537614?v=4"
+      },
+      "updated_at": "2026-02-13T23:37:50Z"
+    },
+    {
+      "id": 1152962622,
+      "name": "aiming-lab/SkillRL",
+      "description": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+      "stars": 269,
+      "language": null,
+      "url": "https://github.com/aiming-lab/SkillRL",
+      "owner": {
+        "login": "aiming-lab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+      },
+      "updated_at": "2026-02-13T23:08:55Z"
     }
   ]
 }
