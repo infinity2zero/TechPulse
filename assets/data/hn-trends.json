@@ -1,84 +1,104 @@
 {
-  "lastUpdated": "2026-02-14T20:46:34.633Z",
+  "lastUpdated": "2026-02-14T21:00:53.564Z",
   "items": [
     {
       "id": 47017138,
-      "title": "Internet Increasingly Becoming Unarchivable",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 188,
+      "score": 202,
       "by": "ninjagoo",
       "time": 1771094792,
-      "comments": 103,
+      "comments": 112,
       "domain": "niemanlab.org"
-    },
-    {
-      "id": 47017682,
-      "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
-      "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
-      "score": 87,
-      "by": "stared",
-      "time": 1771098466,
-      "comments": 31,
-      "domain": "simonwillison.net"
-    },
-    {
-      "id": 47017727,
-      "title": "You can't trust the internet anymore",
-      "url": "https://nicole.express/2026/not-my-casual-hobby.html",
-      "score": 51,
-      "by": "panic",
-      "time": 1771098685,
-      "comments": 23,
-      "domain": "nicole.express"
     },
     {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 167,
+      "score": 186,
       "by": "i5heu",
       "time": 1771090605,
-      "comments": 57,
+      "comments": 64,
       "domain": "github.com"
-    },
-    {
-      "id": 47015294,
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 235,
-      "by": "minimalthinker",
-      "time": 1771083347,
-      "comments": 110,
-      "domain": "aimilios.bearblog.dev"
     },
     {
       "id": 47017545,
       "title": "Descent, Ported to the Web",
       "url": "https://mrdoob.github.io/three-descent/",
-      "score": 43,
+      "score": 54,
       "by": "memalign",
       "time": 1771097604,
-      "comments": 8,
+      "comments": 10,
       "domain": "mrdoob.github.io"
+    },
+    {
+      "id": 47015294,
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "score": 245,
+      "by": "minimalthinker",
+      "time": 1771083347,
+      "comments": 111,
+      "domain": "aimilios.bearblog.dev"
+    },
+    {
+      "id": 47018026,
+      "title": "Dune II written in HTML5/JS",
+      "url": "https://github.com/oklemenz/Dune2JS",
+      "score": 19,
+      "by": "reconnecting",
+      "time": 1771100597,
+      "comments": 1,
+      "domain": "github.com"
     },
     {
       "id": 47014449,
       "title": "Ooh.directory: a place to find good blogs that interest you",
       "url": "https://ooh.directory/",
-      "score": 325,
+      "score": 328,
       "by": "hisamafahri",
       "time": 1771076420,
-      "comments": 103,
+      "comments": 104,
       "domain": "ooh.directory"
+    },
+    {
+      "id": 47017727,
+      "title": "You can't trust the internet anymore",
+      "url": "https://nicole.express/2026/not-my-casual-hobby.html",
+      "score": 72,
+      "by": "panic",
+      "time": 1771098685,
+      "comments": 37,
+      "domain": "nicole.express"
     },
     {
       "id": 47016008,
       "title": "Amsterdam Compiler Kit",
       "url": "https://github.com/davidgiven/ack",
-      "score": 51,
+      "score": 57,
       "by": "andsoitis",
       "time": 1771087847,
       "comments": 13,
+      "domain": "github.com"
+    },
+    {
+      "id": 47012553,
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "score": 9,
+      "by": "swyx",
+      "time": 1771055413,
+      "comments": 0,
+      "domain": "latent.space"
+    },
+    {
+      "id": 47016530,
+      "title": "A header-only C vector database library",
+      "url": "https://github.com/abdimoallim/vdb",
+      "score": 27,
+      "by": "abdimoalim",
+      "time": 1771091109,
+      "comments": 4,
       "domain": "github.com"
     },
     {
@@ -88,28 +108,48 @@
       "score": 156,
       "by": "datavorous_",
       "time": 1771076864,
-      "comments": 45,
+      "comments": 46,
       "domain": "github.com"
+    },
+    {
+      "id": 47008607,
+      "title": "How often do full-body MRIs find cancer?",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "score": 5,
+      "by": "brandonb",
+      "time": 1771021315,
+      "comments": 0,
+      "domain": "usatoday.com"
     },
     {
       "id": 46965462,
       "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
       "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-      "score": 39,
+      "score": 40,
       "by": "weinzierl",
       "time": 1770751653,
       "comments": 0,
       "domain": "blog.janestreet.com"
     },
     {
-      "id": 47016530,
-      "title": "A header-only C vector database library",
-      "url": "https://github.com/abdimoallim/vdb",
-      "score": 25,
-      "by": "abdimoalim",
-      "time": 1771091109,
-      "comments": 4,
-      "domain": "github.com"
+      "id": 46968641,
+      "title": "Windows NT/OS2 Design Workbook",
+      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+      "score": 31,
+      "by": "markus_zhang",
+      "time": 1770766695,
+      "comments": 9,
+      "domain": "computernewb.com"
+    },
+    {
+      "id": 47009327,
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "score": 34,
+      "by": "WhatsTheBigIdea",
+      "time": 1771025649,
+      "comments": 12,
+      "domain": "fortune.com"
     },
     {
       "id": 47016058,
@@ -123,33 +163,43 @@
     },
     {
       "id": 47015330,
-      "title": "Vim 9.2 Released",
+      "title": "Vim 9.2",
       "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 244,
+      "score": 248,
       "by": "tapanjk",
       "time": 1771083583,
-      "comments": 112,
+      "comments": 117,
       "domain": "vim.org"
     },
     {
-      "id": 46968641,
-      "title": "Windows NT/OS2 Design Workbook",
-      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
-      "score": 26,
-      "by": "markus_zhang",
-      "time": 1770766695,
-      "comments": 9,
-      "domain": "computernewb.com"
+      "id": 47008821,
+      "title": "Launching Interop 2026",
+      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
+      "score": 4,
+      "by": "linolevan",
+      "time": 1771022428,
+      "comments": 2,
+      "domain": "hacks.mozilla.org"
     },
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 324,
+      "score": 326,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 231,
+      "comments": 233,
       "domain": "ziglang.org"
+    },
+    {
+      "id": 46949870,
+      "title": "A method and calculator for building foamcore drawer organisers",
+      "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
+      "score": 47,
+      "by": "evakhoury",
+      "time": 1770665565,
+      "comments": 11,
+      "domain": "capnfabs.net"
     },
     {
       "id": 47014405,
@@ -158,128 +208,88 @@
       "score": 71,
       "by": "tosh",
       "time": 1771075983,
-      "comments": 41,
+      "comments": 43,
       "domain": "blog.yossarian.net"
-    },
-    {
-      "id": 47002633,
-      "title": "Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh",
-      "url": "https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/",
-      "score": 4,
-      "by": "metachris",
-      "time": 1770990284,
-      "comments": 0,
-      "domain": "metachris.dev"
-    },
-    {
-      "id": 46949870,
-      "title": "A method and calculator for building foamcore drawer organisers",
-      "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
-      "score": 46,
-      "by": "evakhoury",
-      "time": 1770665565,
-      "comments": 11,
-      "domain": "capnfabs.net"
-    },
-    {
-      "id": 47012964,
-      "title": "YouTube as Storage",
-      "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 142,
-      "by": "saswatms",
-      "time": 1771060215,
-      "comments": 112,
-      "domain": "github.com"
     },
     {
       "id": 47009949,
       "title": "An AI agent published a hit piece on me – more things have happened",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "score": 546,
+      "score": 555,
       "by": "scottshambaugh",
       "time": 1771029473,
-      "comments": 487,
+      "comments": 490,
       "domain": "theshamblog.com"
+    },
+    {
+      "id": 47008663,
+      "title": "Show HN: Rover – Embeddable web agent",
+      "url": "https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent",
+      "score": 4,
+      "by": "arjunchint",
+      "time": 1771021606,
+      "comments": 1,
+      "domain": "rtrvr.ai"
+    },
+    {
+      "id": 47012964,
+      "title": "YouTube as Storage",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "score": 143,
+      "by": "saswatms",
+      "time": 1771060215,
+      "comments": 113,
+      "domain": "github.com"
     },
     {
       "id": 46959531,
       "title": "Shades of Halftone",
       "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 91,
+      "score": 96,
       "by": "surprisetalk",
       "time": 1770730547,
       "comments": 5,
       "domain": "blog.maximeheckel.com"
     },
     {
+      "id": 47014260,
+      "title": "Unicorn Jelly",
+      "url": "https://unicornjelly.com/",
+      "score": 5,
+      "by": "avaer",
+      "time": 1771074515,
+      "comments": 0,
+      "domain": "unicornjelly.com"
+    },
+    {
+      "id": 47002633,
+      "title": "Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh",
+      "url": "https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/",
+      "score": 5,
+      "by": "metachris",
+      "time": 1770990284,
+      "comments": 1,
+      "domain": "metachris.dev"
+    },
+    {
+      "id": 47010147,
+      "title": "Discord: A case study in performance optimization",
+      "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
+      "score": 3,
+      "by": "tylerdane",
+      "time": 1771031008,
+      "comments": 0,
+      "domain": "newsletter.fullstack.zip"
+    },
+    {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 662,
+      "score": 665,
       "by": "benstopics",
       "time": 1770691498,
       "comments": 225,
       "domain": "wallstreetraider.com"
-    },
-    {
-      "id": 47015579,
-      "title": "A Review of M Disc Archival Capability. With long term testing results",
-      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "score": 36,
-      "by": "1970-01-01",
-      "time": 1771085264,
-      "comments": 31,
-      "domain": "microscopy-uk.org.uk"
-    },
-    {
-      "id": 47010823,
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "url": "https://npmx.dev",
-      "score": 140,
-      "by": "slymax",
-      "time": 1771035274,
-      "comments": 60,
-      "domain": "npmx.dev"
-    },
-    {
-      "id": 47011567,
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "url": "https://github.com/mickamy/sql-tap",
-      "score": 217,
-      "by": "mickamy",
-      "time": 1771043255,
-      "comments": 40,
-      "domain": "github.com"
-    },
-    {
-      "id": 47000505,
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 567,
-      "by": "walterbell",
-      "time": 1770972542,
-      "comments": 286,
-      "domain": "cordcuttersnews.com"
-    },
-    {
-      "id": 47016639,
-      "title": "Gamma Function: Visualization for Complex Arguments",
-      "url": "https://vanilla-gamma-graph.netlify.app/",
-      "score": 6,
-      "by": "cpuXguy",
-      "time": 1771091703,
-      "comments": 2,
-      "domain": "vanilla-gamma-graph.netlify.app"
-    },
-    {
-      "id": 46965829,
-      "title": "The three year myth",
-      "url": "https://green.spacedino.net/the-three-year-myth/",
-      "score": 116,
-      "by": "surprisetalk",
-      "time": 1770753098,
-      "comments": 108,
-      "domain": "green.spacedino.net"
     }
   ]
 }
