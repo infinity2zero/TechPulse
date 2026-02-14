@@ -1,91 +1,121 @@
 {
-  "lastUpdated": "2026-02-14T11:30:39.788Z",
+  "lastUpdated": "2026-02-14T11:47:46.859Z",
   "items": [
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 108,
+      "score": 117,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 57,
+      "comments": 65,
       "domain": "ziglang.org"
     },
     {
-      "id": 47012964,
-      "title": "YouTube as Storage",
-      "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 43,
-      "by": "saswatms",
-      "time": 1771060215,
-      "comments": 38,
-      "domain": "github.com"
+      "id": 47013458,
+      "title": "4chan for Clankers",
+      "url": "https://www.4claw.org",
+      "score": 7,
+      "by": "kekqqq",
+      "time": 1771066021,
+      "comments": 1,
+      "domain": "4claw.org"
     },
     {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 332,
+      "score": 346,
       "by": "benstopics",
       "time": 1770691498,
-      "comments": 131,
+      "comments": 134,
       "domain": "wallstreetraider.com"
-    },
-    {
-      "id": 46965829,
-      "title": "The Three Year Myth",
-      "url": "https://green.spacedino.net/the-three-year-myth/",
-      "score": 73,
-      "by": "surprisetalk",
-      "time": 1770753098,
-      "comments": 37,
-      "domain": "green.spacedino.net"
     },
     {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "url": "https://github.com/mickamy/sql-tap",
-      "score": 110,
+      "score": 115,
       "by": "mickamy",
       "time": 1771043255,
       "comments": 21,
       "domain": "github.com"
     },
     {
+      "id": 46965829,
+      "title": "The Three Year Myth",
+      "url": "https://green.spacedino.net/the-three-year-myth/",
+      "score": 75,
+      "by": "surprisetalk",
+      "time": 1770753098,
+      "comments": 37,
+      "domain": "green.spacedino.net"
+    },
+    {
       "id": 46936671,
       "title": "Understanding the Go Compiler: The Linker",
       "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "score": 84,
+      "score": 90,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 11,
+      "comments": 12,
       "domain": "internals-for-interns.com"
+    },
+    {
+      "id": 47012964,
+      "title": "YouTube as Storage",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "score": 48,
+      "by": "saswatms",
+      "time": 1771060215,
+      "comments": 42,
+      "domain": "github.com"
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 172,
+      "score": 174,
       "by": "xx123122",
       "time": 1771018552,
-      "comments": 19,
+      "comments": 20,
       "domain": "github.com"
     },
     {
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 240,
+      "score": 249,
       "by": "walterbell",
       "time": 1770972542,
-      "comments": 128,
+      "comments": 129,
       "domain": "cordcuttersnews.com"
+    },
+    {
+      "id": 47013059,
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "score": 42,
+      "by": "robin_reala",
+      "time": 1771061325,
+      "comments": 5,
+      "domain": "infosec.exchange"
+    },
+    {
+      "id": 47006594,
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 494,
+      "by": "davidbarker",
+      "time": 1771010412,
+      "comments": 332,
+      "domain": "openai.com"
     },
     {
       "id": 46983873,
       "title": "Common Lisp Screenshots: today's CL applications in action",
       "url": "http://www.lisp-screenshots.org",
-      "score": 119,
+      "score": 122,
       "by": "_emacsomancer_",
       "time": 1770860675,
       "comments": 38,
@@ -95,27 +125,17 @@
       "id": 47010823,
       "title": "NPMX – a fast, modern browser for the NPM registry",
       "url": "https://npmx.dev",
-      "score": 103,
+      "score": 106,
       "by": "slymax",
       "time": 1771035274,
       "comments": 44,
       "domain": "npmx.dev"
     },
     {
-      "id": 47006594,
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 491,
-      "by": "davidbarker",
-      "time": 1771010412,
-      "comments": 332,
-      "domain": "openai.com"
-    },
-    {
       "id": 46948097,
       "title": "How the Little Guy Moved",
       "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "score": 33,
+      "score": 38,
       "by": "zdw",
       "time": 1770658227,
       "comments": 1,
@@ -125,11 +145,21 @@
       "id": 47005509,
       "title": "Building a TUI is easy now",
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 233,
+      "score": 237,
       "by": "abelanger",
       "time": 1771005054,
-      "comments": 174,
+      "comments": 177,
       "domain": "hatchet.run"
+    },
+    {
+      "id": 46944716,
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "score": 16,
+      "by": "gregsadetsky",
+      "time": 1770641589,
+      "comments": 3,
+      "domain": "mynoise.net"
     },
     {
       "id": 46930181,
@@ -142,50 +172,20 @@
       "domain": "mccloskeybr.com"
     },
     {
-      "id": 47013059,
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 24,
-      "by": "robin_reala",
-      "time": 1771061325,
-      "comments": 1,
-      "domain": "infosec.exchange"
-    },
-    {
       "id": 47011602,
       "title": "Backblaze Drive Stats for 2025",
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-      "score": 81,
+      "score": 87,
       "by": "Brajeshwar",
       "time": 1771043701,
       "comments": 12,
       "domain": "backblaze.com"
     },
     {
-      "id": 46944716,
-      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
-      "url": "https://mynoise.net/vlog.php?ep=20260204",
-      "score": 15,
-      "by": "gregsadetsky",
-      "time": 1770641589,
-      "comments": 3,
-      "domain": "mynoise.net"
-    },
-    {
-      "id": 46951430,
-      "title": "The Sling: Humanity's Forgotten Power",
-      "url": "https://www.slinging.org/",
-      "score": 3,
-      "by": "jsattler",
-      "time": 1770671634,
-      "comments": 1,
-      "domain": "slinging.org"
-    },
-    {
       "id": 46955311,
       "title": "Gradient.horse",
       "url": "https://gradient.horse",
-      "score": 269,
+      "score": 271,
       "by": "microflash",
       "time": 1770696829,
       "comments": 54,
@@ -195,11 +195,21 @@
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 608,
+      "score": 615,
       "by": "danso",
       "time": 1771015931,
-      "comments": 628,
+      "comments": 635,
       "domain": "politico.eu"
+    },
+    {
+      "id": 46951430,
+      "title": "The Sling: Humanity's Forgotten Power",
+      "url": "https://www.slinging.org/",
+      "score": 3,
+      "by": "jsattler",
+      "time": 1770671634,
+      "comments": 2,
+      "domain": "slinging.org"
     },
     {
       "id": 46967147,
@@ -215,7 +225,7 @@
       "id": 47001871,
       "title": "Monosketch",
       "url": "https://monosketch.io/",
-      "score": 783,
+      "score": 785,
       "by": "penguin_booze",
       "time": 1770985085,
       "comments": 133,
@@ -225,31 +235,21 @@
       "id": 47003064,
       "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
       "url": "https://ios-countdown.win/",
-      "score": 1461,
+      "score": 1464,
       "by": "ozzyphantom",
       "time": 1770992461,
-      "comments": 718,
+      "comments": 721,
       "domain": "ios-countdown.win"
     },
     {
       "id": 46944430,
       "title": "gRPC: From service definition to wire format",
       "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 128,
+      "score": 130,
       "by": "latonz",
       "time": 1770639443,
-      "comments": 18,
+      "comments": 20,
       "domain": "kreya.app"
-    },
-    {
-      "id": 46956021,
-      "title": "Can you rewire your brain?",
-      "url": "https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "score": 7,
-      "by": "Hooke",
-      "time": 1770704373,
-      "comments": 1,
-      "domain": "aeon.co"
     },
     {
       "id": 47000164,
@@ -262,6 +262,26 @@
       "domain": "css-doodle.com"
     },
     {
+      "id": 47008931,
+      "title": "The wonder of modern drywall",
+      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
+      "score": 112,
+      "by": "jger15",
+      "time": 1770953607,
+      "comments": 174,
+      "domain": "worksinprogress.news"
+    },
+    {
+      "id": 47001095,
+      "title": "WolfSSL sucks too, so now what?",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "score": 124,
+      "by": "thomasjb",
+      "time": 1770977936,
+      "comments": 99,
+      "domain": "blog.feld.me"
+    },
+    {
       "id": 46934860,
       "title": "Advanced Aerial Robotics Made Simple",
       "url": "https://www.drehmflight.com",
@@ -270,26 +290,6 @@
       "time": 1770563430,
       "comments": 11,
       "domain": "drehmflight.com"
-    },
-    {
-      "id": 47008931,
-      "title": "The wonder of modern drywall",
-      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
-      "score": 111,
-      "by": "jger15",
-      "time": 1770953607,
-      "comments": 173,
-      "domain": "worksinprogress.news"
-    },
-    {
-      "id": 47001095,
-      "title": "WolfSSL sucks too, so now what?",
-      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
-      "score": 121,
-      "by": "thomasjb",
-      "time": 1770977936,
-      "comments": 99,
-      "domain": "blog.feld.me"
     }
   ]
 }
