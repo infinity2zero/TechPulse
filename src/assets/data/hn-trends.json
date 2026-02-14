@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-02-14T10:47:04.664Z",
+  "lastUpdated": "2026-02-14T11:01:55.577Z",
   "items": [
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 92,
+      "score": 98,
       "by": "Retro_Dev",
       "time": 1771057331,
-      "comments": 41,
+      "comments": 47,
       "domain": "ziglang.org"
     },
     {
       "id": 47012964,
       "title": "YouTube as Storage",
       "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 27,
+      "score": 32,
       "by": "saswatms",
       "time": 1771060215,
-      "comments": 23,
+      "comments": 28,
       "domain": "github.com"
-    },
-    {
-      "id": 46965829,
-      "title": "The Three Year Myth",
-      "url": "https://green.spacedino.net/the-three-year-myth/",
-      "score": 63,
-      "by": "surprisetalk",
-      "time": 1770753098,
-      "comments": 33,
-      "domain": "green.spacedino.net"
     },
     {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "url": "https://www.wallstreetraider.com/story.html",
-      "score": 306,
+      "score": 314,
       "by": "benstopics",
       "time": 1770691498,
-      "comments": 117,
+      "comments": 123,
       "domain": "wallstreetraider.com"
+    },
+    {
+      "id": 46965829,
+      "title": "The Three Year Myth",
+      "url": "https://green.spacedino.net/the-three-year-myth/",
+      "score": 67,
+      "by": "surprisetalk",
+      "time": 1770753098,
+      "comments": 34,
+      "domain": "green.spacedino.net"
     },
     {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "url": "https://github.com/mickamy/sql-tap",
-      "score": 106,
+      "score": 109,
       "by": "mickamy",
       "time": 1771043255,
       "comments": 19,
@@ -58,18 +58,28 @@
       "score": 80,
       "by": "valyala",
       "time": 1770572806,
-      "comments": 8,
+      "comments": 9,
       "domain": "internals-for-interns.com"
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 167,
+      "score": 169,
       "by": "xx123122",
       "time": 1771018552,
       "comments": 19,
       "domain": "github.com"
+    },
+    {
+      "id": 47000505,
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "score": 223,
+      "by": "walterbell",
+      "time": 1770972542,
+      "comments": 124,
+      "domain": "cordcuttersnews.com"
     },
     {
       "id": 46948097,
@@ -80,16 +90,6 @@
       "time": 1770658227,
       "comments": 1,
       "domain": "animationobsessive.substack.com"
-    },
-    {
-      "id": 47000505,
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 217,
-      "by": "walterbell",
-      "time": 1770972542,
-      "comments": 121,
-      "domain": "cordcuttersnews.com"
     },
     {
       "id": 46983873,
@@ -105,10 +105,10 @@
       "id": 47006594,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 482,
+      "score": 483,
       "by": "davidbarker",
       "time": 1771010412,
-      "comments": 330,
+      "comments": 331,
       "domain": "openai.com"
     },
     {
@@ -122,16 +122,6 @@
       "domain": "npmx.dev"
     },
     {
-      "id": 46944716,
-      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
-      "url": "https://mynoise.net/vlog.php?ep=20260204",
-      "score": 12,
-      "by": "gregsadetsky",
-      "time": 1770641589,
-      "comments": 1,
-      "domain": "mynoise.net"
-    },
-    {
       "id": 47005509,
       "title": "Building a TUI is easy now",
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
@@ -140,6 +130,16 @@
       "time": 1771005054,
       "comments": 174,
       "domain": "hatchet.run"
+    },
+    {
+      "id": 46944716,
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "score": 14,
+      "by": "gregsadetsky",
+      "time": 1770641589,
+      "comments": 2,
+      "domain": "mynoise.net"
     },
     {
       "id": 46930181,
@@ -158,38 +158,28 @@
       "score": 76,
       "by": "Brajeshwar",
       "time": 1771043701,
-      "comments": 10,
+      "comments": 12,
       "domain": "backblaze.com"
     },
     {
       "id": 46955311,
       "title": "Gradient.horse",
       "url": "https://gradient.horse",
-      "score": 263,
+      "score": 265,
       "by": "microflash",
       "time": 1770696829,
-      "comments": 51,
+      "comments": 52,
       "domain": "gradient.horse"
     },
     {
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 597,
+      "score": 602,
       "by": "danso",
       "time": 1771015931,
-      "comments": 606,
+      "comments": 615,
       "domain": "politico.eu"
-    },
-    {
-      "id": 46956021,
-      "title": "Can you rewire your brain?",
-      "url": "https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
-      "score": 6,
-      "by": "Hooke",
-      "time": 1770704373,
-      "comments": 1,
-      "domain": "aeon.co"
     },
     {
       "id": 46967147,
@@ -202,6 +192,16 @@
       "domain": "interplayoflight.wordpress.com"
     },
     {
+      "id": 46956021,
+      "title": "Can you rewire your brain?",
+      "url": "https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity",
+      "score": 6,
+      "by": "Hooke",
+      "time": 1770704373,
+      "comments": 1,
+      "domain": "aeon.co"
+    },
+    {
       "id": 47001871,
       "title": "Monosketch",
       "url": "https://monosketch.io/",
@@ -212,40 +212,40 @@
       "domain": "monosketch.io"
     },
     {
+      "id": 47003064,
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "url": "https://ios-countdown.win/",
+      "score": 1455,
+      "by": "ozzyphantom",
+      "time": 1770992461,
+      "comments": 716,
+      "domain": "ios-countdown.win"
+    },
+    {
       "id": 46944430,
       "title": "gRPC: From service definition to wire format",
       "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 124,
+      "score": 125,
       "by": "latonz",
       "time": 1770639443,
       "comments": 18,
       "domain": "kreya.app"
     },
     {
-      "id": 47003064,
-      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-      "url": "https://ios-countdown.win/",
-      "score": 1453,
-      "by": "ozzyphantom",
-      "time": 1770992461,
-      "comments": 715,
-      "domain": "ios-countdown.win"
-    },
-    {
       "id": 47009949,
       "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "score": 439,
+      "score": 445,
       "by": "scottshambaugh",
       "time": 1771029473,
-      "comments": 217,
+      "comments": 218,
       "domain": "theshamblog.com"
     },
     {
       "id": 47000164,
       "title": "CSS-Doodle",
       "url": "https://css-doodle.com/",
-      "score": 165,
+      "score": 166,
       "by": "dsego",
       "time": 1770969743,
       "comments": 16,
@@ -268,7 +268,7 @@
       "score": 110,
       "by": "jger15",
       "time": 1770953607,
-      "comments": 169,
+      "comments": 171,
       "domain": "worksinprogress.news"
     },
     {
@@ -285,10 +285,10 @@
       "id": 47003214,
       "title": "How did the Maya survive?",
       "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-      "score": 134,
+      "score": 135,
       "by": "speckx",
       "time": 1770993367,
-      "comments": 110,
+      "comments": 112,
       "domain": "theguardian.com"
     }
   ]
