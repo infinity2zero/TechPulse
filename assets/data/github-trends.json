@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-15T15:34:37.790Z",
+  "lastUpdated": "2026-02-15T15:52:30.861Z",
   "items": [
     {
       "id": 1156956890,
       "name": "theonlyhennygod/zeroclaw",
       "description": "claw done right 🦀",
-      "stars": 3216,
+      "stars": 3268,
       "language": "Rust",
       "url": "https://github.com/theonlyhennygod/zeroclaw",
       "owner": {
         "login": "theonlyhennygod",
         "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
       },
-      "updated_at": "2026-02-15T15:34:12Z"
+      "updated_at": "2026-02-15T15:52:11Z"
     },
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 2092,
+      "stars": 2096,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-15T15:32:25Z"
+      "updated_at": "2026-02-15T15:48:09Z"
     },
     {
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1629,
+      "stars": 1631,
       "language": "TypeScript",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-15T15:29:44Z"
+      "updated_at": "2026-02-15T15:51:11Z"
     },
     {
       "id": 1155639743,
       "name": "xyzeva/k-id-age-verifier",
       "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
-      "stars": 1526,
+      "stars": 1527,
       "language": "TypeScript",
       "url": "https://github.com/xyzeva/k-id-age-verifier",
       "owner": {
         "login": "xyzeva",
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
-      "updated_at": "2026-02-15T15:31:36Z"
+      "updated_at": "2026-02-15T15:50:37Z"
     },
     {
       "id": 1154626321,
@@ -70,27 +70,27 @@
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 921,
+      "stars": 922,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-15T15:25:29Z"
+      "updated_at": "2026-02-15T15:36:25Z"
     },
     {
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 871,
+      "stars": 874,
       "language": null,
       "url": "https://github.com/zai-org/GLM-5",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-15T15:27:26Z"
+      "updated_at": "2026-02-15T15:42:54Z"
     },
     {
       "id": 1157577714,
@@ -104,6 +104,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
       "updated_at": "2026-02-15T15:24:56Z"
+    },
+    {
+      "id": 1157721932,
+      "name": "vigorX777/ai-daily-digest",
+      "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "stars": 598,
+      "language": "TypeScript",
+      "url": "https://github.com/vigorX777/ai-daily-digest",
+      "owner": {
+        "login": "vigorX777",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
+      },
+      "updated_at": "2026-02-15T15:50:57Z"
     },
     {
       "id": 1153476922,
@@ -122,66 +135,53 @@
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
-      "stars": 587,
+      "stars": 590,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-15T15:22:11Z"
-    },
-    {
-      "id": 1157721932,
-      "name": "vigorX777/ai-daily-digest",
-      "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 585,
-      "language": "TypeScript",
-      "url": "https://github.com/vigorX777/ai-daily-digest",
-      "owner": {
-        "login": "vigorX777",
-        "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
-      },
-      "updated_at": "2026-02-15T15:32:53Z"
+      "updated_at": "2026-02-15T15:51:12Z"
     },
     {
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 511,
+      "stars": 513,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-15T15:26:18Z"
+      "updated_at": "2026-02-15T15:49:05Z"
     },
     {
       "id": 1154042797,
       "name": "aeromomo/claw-compactor",
       "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 505,
+      "stars": 506,
       "language": "Python",
       "url": "https://github.com/aeromomo/claw-compactor",
       "owner": {
         "login": "aeromomo",
         "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
       },
-      "updated_at": "2026-02-15T15:27:58Z"
+      "updated_at": "2026-02-15T15:48:45Z"
     },
     {
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 494,
+      "stars": 497,
       "language": "TypeScript",
       "url": "https://github.com/freestylefly/openclaw-wechat",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-02-15T15:27:52Z"
+      "updated_at": "2026-02-15T15:49:29Z"
     },
     {
       "id": 1153190876,
@@ -239,27 +239,27 @@
       "id": 1153216306,
       "name": "alibaba-damo-academy/RynnBrain",
       "description": "RynnBrain: Open Embodied Foundation Models",
-      "stars": 315,
+      "stars": 319,
       "language": "Jupyter Notebook",
       "url": "https://github.com/alibaba-damo-academy/RynnBrain",
       "owner": {
         "login": "alibaba-damo-academy",
         "avatar_url": "https://avatars.githubusercontent.com/u/115537614?v=4"
       },
-      "updated_at": "2026-02-15T15:33:46Z"
+      "updated_at": "2026-02-15T15:49:55Z"
     },
     {
       "id": 1155232855,
       "name": "FireRedTeam/FireRed-Image-Edit",
       "description": null,
-      "stars": 315,
+      "stars": 316,
       "language": "Python",
       "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
       "owner": {
         "login": "FireRedTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/178460259?v=4"
       },
-      "updated_at": "2026-02-15T15:13:18Z"
+      "updated_at": "2026-02-15T15:49:02Z"
     }
   ]
 }
