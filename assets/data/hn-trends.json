@@ -1,65 +1,75 @@
 {
-  "lastUpdated": "2026-02-15T10:35:43.003Z",
+  "lastUpdated": "2026-02-15T10:57:42.156Z",
   "items": [
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 440,
+      "score": 460,
       "by": "panic",
       "time": 1771118458,
-      "comments": 81,
+      "comments": 86,
       "domain": "k7r.eu"
     },
     {
       "id": 47021354,
       "title": "Flashpoint Archive – Over 200k web games and animations preserved",
       "url": "https://flashpointarchive.org",
-      "score": 99,
+      "score": 109,
       "by": "helloplanets",
       "time": 1771134239,
-      "comments": 27,
+      "comments": 28,
       "domain": "flashpointarchive.org"
-    },
-    {
-      "id": 47022329,
-      "title": "Two different tricks for fast LLM inference",
-      "url": "https://www.seangoedecke.com/fast-llm-inference/",
-      "score": 15,
-      "by": "swah",
-      "time": 1771147653,
-      "comments": 6,
-      "domain": "seangoedecke.com"
     },
     {
       "id": 47022238,
       "title": "Git is a file system. We need a database for the code",
       "url": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
-      "score": 24,
+      "score": 34,
       "by": "gritzko",
       "time": 1771146571,
-      "comments": 18,
+      "comments": 32,
       "domain": "gist.github.com"
+    },
+    {
+      "id": 47022329,
+      "title": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "score": 21,
+      "by": "swah",
+      "time": 1771147653,
+      "comments": 9,
+      "domain": "seangoedecke.com"
     },
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 456,
+      "score": 462,
       "by": "minimalthinker",
       "time": 1771083347,
-      "comments": 210,
+      "comments": 209,
       "domain": "aimilios.bearblog.dev"
     },
     {
       "id": 46990888,
       "title": "A practical guide to observing the night sky for real skies and real equipment",
       "url": "https://stargazingbuddy.com/",
-      "score": 12,
+      "score": 20,
       "by": "constantinum",
       "time": 1770914110,
-      "comments": 0,
+      "comments": 1,
       "domain": "stargazingbuddy.com"
+    },
+    {
+      "id": 47021980,
+      "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "url": "https://oat.ink/",
+      "score": 132,
+      "by": "twapi",
+      "time": 1771143425,
+      "comments": 27,
+      "domain": "oat.ink"
     },
     {
       "id": 47000535,
@@ -75,51 +85,41 @@
       "id": 47004689,
       "title": "Instagram's URL Blackhole",
       "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 198,
+      "score": 201,
       "by": "tkp-415",
       "time": 1771000924,
-      "comments": 29,
+      "comments": 30,
       "domain": "medium.com"
+    },
+    {
+      "id": 46998580,
+      "title": "Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction",
+      "url": "https://note.com/hydraenids/n/nbe89030deaba",
+      "score": 30,
+      "by": "uolmir",
+      "time": 1770953327,
+      "comments": 5,
+      "domain": "note.com"
     },
     {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 893,
+      "score": 899,
       "by": "i5heu",
       "time": 1771090605,
-      "comments": 273,
+      "comments": 274,
       "domain": "github.com"
     },
     {
       "id": 47020791,
       "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
       "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-      "score": 41,
+      "score": 43,
       "by": "bpierre",
       "time": 1771126179,
       "comments": 5,
       "domain": "caucascapades.wordpress.com"
-    },
-    {
-      "id": 47021992,
-      "title": "No Coding Before 10am",
-      "url": "https://michaelxbloch.substack.com/p/no-coding-before-10am",
-      "score": 33,
-      "by": "imartin2k",
-      "time": 1771143670,
-      "comments": 27,
-      "domain": "michaelxbloch.substack.com"
-    },
-    {
-      "id": 46998580,
-      "title": "Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction",
-      "url": "https://note.com/hydraenids/n/nbe89030deaba",
-      "score": 27,
-      "by": "uolmir",
-      "time": 1770953327,
-      "comments": 5,
-      "domain": "note.com"
     },
     {
       "id": 46970733,
@@ -132,44 +132,24 @@
       "domain": "ncl.ac.uk"
     },
     {
-      "id": 47008607,
-      "title": "How often do full-body MRIs find cancer?",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
-      "score": 112,
-      "by": "brandonb",
-      "time": 1771021315,
-      "comments": 137,
-      "domain": "usatoday.com"
-    },
-    {
       "id": 47017138,
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 497,
+      "score": 499,
       "by": "ninjagoo",
       "time": 1771094792,
-      "comments": 307,
+      "comments": 309,
       "domain": "niemanlab.org"
     },
     {
-      "id": 47021980,
-      "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-      "url": "https://oat.ink/",
-      "score": 126,
-      "by": "twapi",
-      "time": 1771143425,
-      "comments": 26,
-      "domain": "oat.ink"
-    },
-    {
-      "id": 47022067,
-      "title": "Seeing Theory",
-      "url": "https://seeing-theory.brown.edu/",
-      "score": 18,
-      "by": "Tomte",
-      "time": 1771144812,
-      "comments": 0,
-      "domain": "seeing-theory.brown.edu"
+      "id": 47008607,
+      "title": "How often do full-body MRIs find cancer?",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "score": 113,
+      "by": "brandonb",
+      "time": 1771021315,
+      "comments": 140,
+      "domain": "usatoday.com"
     },
     {
       "id": 47016008,
@@ -178,88 +158,108 @@
       "score": 131,
       "by": "andsoitis",
       "time": 1771087847,
-      "comments": 38,
+      "comments": 40,
       "domain": "github.com"
+    },
+    {
+      "id": 47012553,
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "score": 171,
+      "by": "swyx",
+      "time": 1771055413,
+      "comments": 194,
+      "domain": "latent.space"
     },
     {
       "id": 46975112,
       "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
       "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-      "score": 20,
+      "score": 21,
       "by": "vmirnv",
       "time": 1770818953,
       "comments": 3,
       "domain": "mdst.app"
     },
     {
-      "id": 47012553,
-      "title": "OpenAI should build Slack",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "score": 168,
-      "by": "swyx",
-      "time": 1771055413,
-      "comments": 193,
-      "domain": "latent.space"
+      "id": 47022067,
+      "title": "Seeing Theory",
+      "url": "https://seeing-theory.brown.edu/",
+      "score": 19,
+      "by": "Tomte",
+      "time": 1771144812,
+      "comments": 0,
+      "domain": "seeing-theory.brown.edu"
+    },
+    {
+      "id": 47021421,
+      "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
+      "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
+      "score": 72,
+      "by": "thisislife2",
+      "time": 1771135242,
+      "comments": 30,
+      "domain": "kotaku.com"
+    },
+    {
+      "id": 46989859,
+      "title": "Inspecting the Source of Go Modules",
+      "url": "https://words.filippo.io/go-source/",
+      "score": 4,
+      "by": "todsacerdoti",
+      "time": 1770909445,
+      "comments": 0,
+      "domain": "words.filippo.io"
+    },
+    {
+      "id": 47006615,
+      "title": "Breaking the spell of vibe coding",
+      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "score": 251,
+      "by": "arjunbanker",
+      "time": 1771010538,
+      "comments": 199,
+      "domain": "fast.ai"
+    },
+    {
+      "id": 47021992,
+      "title": "No Coding Before 10am",
+      "url": "https://michaelxbloch.substack.com/p/no-coding-before-10am",
+      "score": 38,
+      "by": "imartin2k",
+      "time": 1771143670,
+      "comments": 36,
+      "domain": "michaelxbloch.substack.com"
+    },
+    {
+      "id": 47014449,
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "url": "https://ooh.directory/",
+      "score": 515,
+      "by": "hisamafahri",
+      "time": 1771076420,
+      "comments": 131,
+      "domain": "ooh.directory"
     },
     {
       "id": 47005856,
       "title": "The consequences of task switching in supervisory programming",
       "url": "https://martinfowler.com/fragments/2026-02-13.html",
-      "score": 88,
+      "score": 89,
       "by": "bigwheels",
       "time": 1771006728,
       "comments": 39,
       "domain": "martinfowler.com"
     },
     {
-      "id": 47021421,
-      "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
-      "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
-      "score": 69,
-      "by": "thisislife2",
-      "time": 1771135242,
-      "comments": 25,
-      "domain": "kotaku.com"
-    },
-    {
-      "id": 47006615,
-      "title": "Breaking the spell of vibe coding",
-      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "score": 245,
-      "by": "arjunbanker",
-      "time": 1771010538,
-      "comments": 198,
-      "domain": "fast.ai"
-    },
-    {
-      "id": 47014449,
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "url": "https://ooh.directory/",
-      "score": 512,
-      "by": "hisamafahri",
-      "time": 1771076420,
-      "comments": 130,
-      "domain": "ooh.directory"
-    },
-    {
       "id": 47020218,
       "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
       "url": "https://newpipe.net/",
-      "score": 253,
+      "score": 259,
       "by": "nvader",
       "time": 1771118656,
       "comments": 77,
       "domain": "newpipe.net"
-    },
-    {
-      "id": 46977966,
-      "title": "A Visual Source for Shakespeare's 'Tempest'",
-      "url": "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares",
-      "score": 7,
-      "by": "seegodanddie",
-      "time": 1770831103,
-      "comments": 0,
-      "domain": "profadamroberts.substack.com"
     },
     {
       "id": 47015579,
@@ -272,30 +272,30 @@
       "domain": "microscopy-uk.org.uk"
     },
     {
+      "id": 46977966,
+      "title": "A Visual Source for Shakespeare's 'Tempest'",
+      "url": "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares",
+      "score": 8,
+      "by": "seegodanddie",
+      "time": 1770831103,
+      "comments": 0,
+      "domain": "profadamroberts.substack.com"
+    },
+    {
       "id": 46968641,
       "title": "Windows NT/OS2 Design Workbook",
       "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
-      "score": 113,
+      "score": 115,
       "by": "markus_zhang",
       "time": 1770766695,
       "comments": 44,
       "domain": "computernewb.com"
     },
     {
-      "id": 46973299,
-      "title": "Flood Fill vs. The Magic Circle",
-      "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
-      "score": 74,
-      "by": "tobr",
-      "time": 1770805881,
-      "comments": 19,
-      "domain": "robinsloan.com"
-    },
-    {
       "id": 47017545,
       "title": "Descent, ported to the web",
       "url": "https://mrdoob.github.io/three-descent/",
-      "score": 245,
+      "score": 248,
       "by": "memalign",
       "time": 1771097604,
       "comments": 48,
