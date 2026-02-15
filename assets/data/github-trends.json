@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-15T22:11:39.125Z",
+  "lastUpdated": "2026-02-15T22:43:55.207Z",
   "items": [
     {
       "id": 1156956890,
-      "name": "theonlyhennygod/zeroclaw",
+      "name": "zeroclaw-labs/zeroclaw",
       "description": "claw done right 🦀",
-      "stars": 3756,
+      "stars": 3787,
       "language": "Rust",
-      "url": "https://github.com/theonlyhennygod/zeroclaw",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
-        "login": "theonlyhennygod",
-        "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
+        "login": "zeroclaw-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-15T22:10:48Z"
+      "updated_at": "2026-02-15T22:43:44Z"
     },
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 2117,
+      "stars": 2118,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-15T21:35:56Z"
+      "updated_at": "2026-02-15T22:16:16Z"
     },
     {
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1705,
-      "language": "TypeScript",
+      "stars": 1707,
+      "language": "Shell",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-15T22:10:18Z"
+      "updated_at": "2026-02-15T22:40:10Z"
     },
     {
       "id": 1155639743,
@@ -57,14 +57,14 @@
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1123,
+      "stars": 1126,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-15T21:53:12Z"
+      "updated_at": "2026-02-15T22:34:46Z"
     },
     {
       "id": 1155791602,
@@ -96,14 +96,27 @@
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 721,
+      "stars": 724,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-15T22:08:02Z"
+      "updated_at": "2026-02-15T22:31:59Z"
+    },
+    {
+      "id": 1157656960,
+      "name": "bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the new Jetbrains islands theme ",
+      "stars": 649,
+      "language": "PowerShell",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "owner": {
+        "login": "bwya77",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
+      },
+      "updated_at": "2026-02-15T22:43:41Z"
     },
     {
       "id": 1157721932,
@@ -122,27 +135,14 @@
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
-      "stars": 624,
+      "stars": 627,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-15T21:50:54Z"
-    },
-    {
-      "id": 1157656960,
-      "name": "bwya77/vscode-dark-islands",
-      "description": "VSCode theme based off the new Jetbrains islands theme ",
-      "stars": 608,
-      "language": "PowerShell",
-      "url": "https://github.com/bwya77/vscode-dark-islands",
-      "owner": {
-        "login": "bwya77",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
-      },
-      "updated_at": "2026-02-15T22:11:13Z"
+      "updated_at": "2026-02-15T22:41:17Z"
     },
     {
       "id": 1153476922,
@@ -161,53 +161,66 @@
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 538,
+      "stars": 542,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-15T21:59:43Z"
+      "updated_at": "2026-02-15T22:43:13Z"
     },
     {
       "id": 1154042797,
       "name": "aeromomo/claw-compactor",
       "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 531,
+      "stars": 534,
       "language": "Python",
       "url": "https://github.com/aeromomo/claw-compactor",
       "owner": {
         "login": "aeromomo",
         "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
       },
-      "updated_at": "2026-02-15T22:09:03Z"
+      "updated_at": "2026-02-15T22:36:14Z"
     },
     {
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 518,
+      "stars": 519,
       "language": "TypeScript",
       "url": "https://github.com/freestylefly/openclaw-wechat",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-02-15T21:46:13Z"
+      "updated_at": "2026-02-15T22:25:59Z"
     },
     {
       "id": 1153190876,
       "name": "zilliztech/memsearch",
       "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "stars": 427,
+      "stars": 428,
       "language": "Python",
       "url": "https://github.com/zilliztech/memsearch",
       "owner": {
         "login": "zilliztech",
         "avatar_url": "https://avatars.githubusercontent.com/u/18416694?v=4"
       },
-      "updated_at": "2026-02-15T20:33:51Z"
+      "updated_at": "2026-02-15T22:13:10Z"
+    },
+    {
+      "id": 1155249807,
+      "name": "QDenka/awesome-software-design",
+      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
+      "stars": 420,
+      "language": null,
+      "url": "https://github.com/QDenka/awesome-software-design",
+      "owner": {
+        "login": "QDenka",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
+      },
+      "updated_at": "2026-02-15T22:37:45Z"
     },
     {
       "id": 1155091202,
@@ -234,19 +247,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/876920?v=4"
       },
       "updated_at": "2026-02-15T21:22:09Z"
-    },
-    {
-      "id": 1155249807,
-      "name": "QDenka/awesome-software-design",
-      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
-      "stars": 413,
-      "language": null,
-      "url": "https://github.com/QDenka/awesome-software-design",
-      "owner": {
-        "login": "QDenka",
-        "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
-      },
-      "updated_at": "2026-02-15T22:05:31Z"
     },
     {
       "id": 1153780962,
