@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-15T20:51:50.132Z",
+  "lastUpdated": "2026-02-15T21:12:29.389Z",
   "items": [
     {
       "id": 1156956890,
       "name": "theonlyhennygod/zeroclaw",
       "description": "claw done right 🦀",
-      "stars": 3699,
+      "stars": 3713,
       "language": "Rust",
       "url": "https://github.com/theonlyhennygod/zeroclaw",
       "owner": {
         "login": "theonlyhennygod",
         "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
       },
-      "updated_at": "2026-02-15T20:51:24Z"
+      "updated_at": "2026-02-15T21:11:55Z"
     },
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 2111,
+      "stars": 2114,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-15T20:51:16Z"
+      "updated_at": "2026-02-15T21:07:34Z"
     },
     {
       "id": 1153146773,
       "name": "jlia0/tinyclaw",
       "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1695,
+      "stars": 1698,
       "language": "TypeScript",
       "url": "https://github.com/jlia0/tinyclaw",
       "owner": {
         "login": "jlia0",
         "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
       },
-      "updated_at": "2026-02-15T20:44:03Z"
+      "updated_at": "2026-02-15T21:11:23Z"
     },
     {
       "id": 1155639743,
@@ -83,14 +83,14 @@
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 896,
+      "stars": 897,
       "language": null,
       "url": "https://github.com/zai-org/GLM-5",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-15T20:47:56Z"
+      "updated_at": "2026-02-15T21:09:46Z"
     },
     {
       "id": 1157577714,
@@ -122,14 +122,14 @@
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
-      "stars": 619,
+      "stars": 622,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-15T20:49:36Z"
+      "updated_at": "2026-02-15T21:10:50Z"
     },
     {
       "id": 1153476922,
@@ -148,14 +148,27 @@
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 535,
+      "stars": 536,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-15T20:28:43Z"
+      "updated_at": "2026-02-15T21:01:06Z"
+    },
+    {
+      "id": 1157656960,
+      "name": "bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the new Jetbrains islands theme ",
+      "stars": 533,
+      "language": "PowerShell",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "owner": {
+        "login": "bwya77",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
+      },
+      "updated_at": "2026-02-15T21:12:22Z"
     },
     {
       "id": 1154042797,
@@ -174,27 +187,14 @@
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 513,
+      "stars": 515,
       "language": "TypeScript",
       "url": "https://github.com/freestylefly/openclaw-wechat",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-02-15T20:36:57Z"
-    },
-    {
-      "id": 1157656960,
-      "name": "bwya77/vscode-dark-islands",
-      "description": "VSCode theme based off the new Jetbrains islands theme ",
-      "stars": 492,
-      "language": "PowerShell",
-      "url": "https://github.com/bwya77/vscode-dark-islands",
-      "owner": {
-        "login": "bwya77",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
-      },
-      "updated_at": "2026-02-15T20:51:01Z"
+      "updated_at": "2026-02-15T21:09:43Z"
     },
     {
       "id": 1153190876,
@@ -239,14 +239,14 @@
       "id": 1155249807,
       "name": "QDenka/awesome-software-design",
       "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
-      "stars": 401,
+      "stars": 408,
       "language": null,
       "url": "https://github.com/QDenka/awesome-software-design",
       "owner": {
         "login": "QDenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
       },
-      "updated_at": "2026-02-15T20:42:02Z"
+      "updated_at": "2026-02-15T21:11:49Z"
     },
     {
       "id": 1153780962,
