@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-02-15T04:47:13.199Z",
+  "lastUpdated": "2026-02-15T05:45:04.710Z",
   "items": [
     {
       "id": 1154009261,
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
-      "stars": 2044,
+      "stars": 2052,
       "language": "Shell",
       "url": "https://github.com/PeonPing/peon-ping",
       "owner": {
         "login": "PeonPing",
         "avatar_url": "https://avatars.githubusercontent.com/u/261260381?v=4"
       },
-      "updated_at": "2026-02-15T04:26:53Z"
-    },
-    {
-      "id": 1155639743,
-      "name": "xyzeva/k-id-age-verifier",
-      "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
-      "stars": 1505,
-      "language": "TypeScript",
-      "url": "https://github.com/xyzeva/k-id-age-verifier",
-      "owner": {
-        "login": "xyzeva",
-        "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
-      },
-      "updated_at": "2026-02-15T04:42:20Z"
-    },
-    {
-      "id": 1153146773,
-      "name": "jlia0/tinyclaw",
-      "description": "TinyClaw is a team of personal agents that collaborate with each other",
-      "stars": 1424,
-      "language": "TypeScript",
-      "url": "https://github.com/jlia0/tinyclaw",
-      "owner": {
-        "login": "jlia0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
-      },
-      "updated_at": "2026-02-15T04:44:46Z"
+      "updated_at": "2026-02-15T05:39:41Z"
     },
     {
       "id": 1156956890,
       "name": "theonlyhennygod/zeroclaw",
       "description": "claw done right 🦀",
-      "stars": 1390,
+      "stars": 1515,
       "language": "Rust",
       "url": "https://github.com/theonlyhennygod/zeroclaw",
       "owner": {
         "login": "theonlyhennygod",
         "avatar_url": "https://avatars.githubusercontent.com/u/144828210?v=4"
       },
-      "updated_at": "2026-02-15T04:47:05Z"
+      "updated_at": "2026-02-15T05:44:06Z"
+    },
+    {
+      "id": 1155639743,
+      "name": "xyzeva/k-id-age-verifier",
+      "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "stars": 1506,
+      "language": "TypeScript",
+      "url": "https://github.com/xyzeva/k-id-age-verifier",
+      "owner": {
+        "login": "xyzeva",
+        "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
+      },
+      "updated_at": "2026-02-15T05:11:17Z"
+    },
+    {
+      "id": 1153146773,
+      "name": "jlia0/tinyclaw",
+      "description": "TinyClaw is a team of personal agents that collaborate with each other",
+      "stars": 1440,
+      "language": "TypeScript",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "owner": {
+        "login": "jlia0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24471281?v=4"
+      },
+      "updated_at": "2026-02-15T05:37:38Z"
     },
     {
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1088,
+      "stars": 1090,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-15T03:52:53Z"
+      "updated_at": "2026-02-15T05:42:03Z"
     },
     {
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 813,
+      "stars": 814,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-15T02:30:33Z"
+      "updated_at": "2026-02-15T05:04:05Z"
     },
     {
       "id": 1153372704,
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 803,
+      "stars": 808,
       "language": null,
       "url": "https://github.com/zai-org/GLM-5",
       "owner": {
         "login": "zai-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
       },
-      "updated_at": "2026-02-15T04:38:09Z"
+      "updated_at": "2026-02-15T05:18:49Z"
     },
     {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 601,
+      "stars": 608,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-15T04:41:38Z"
+      "updated_at": "2026-02-15T05:38:07Z"
     },
     {
       "id": 1156437015,
@@ -122,53 +122,53 @@
       "id": 1154042797,
       "name": "aeromomo/claw-compactor",
       "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 462,
+      "stars": 467,
       "language": "Python",
       "url": "https://github.com/aeromomo/claw-compactor",
       "owner": {
         "login": "aeromomo",
         "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
       },
-      "updated_at": "2026-02-15T04:39:20Z"
+      "updated_at": "2026-02-15T05:40:45Z"
     },
     {
       "id": 1157721932,
       "name": "vigorX777/ai-daily-digest",
       "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 450,
+      "stars": 457,
       "language": "TypeScript",
       "url": "https://github.com/vigorX777/ai-daily-digest",
       "owner": {
         "login": "vigorX777",
         "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
       },
-      "updated_at": "2026-02-15T04:44:40Z"
+      "updated_at": "2026-02-15T05:43:59Z"
     },
     {
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
-      "stars": 441,
+      "stars": 456,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-15T04:44:21Z"
+      "updated_at": "2026-02-15T05:44:20Z"
     },
     {
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 434,
+      "stars": 444,
       "language": "TypeScript",
       "url": "https://github.com/freestylefly/openclaw-wechat",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-02-15T04:46:18Z"
+      "updated_at": "2026-02-15T05:32:53Z"
     },
     {
       "id": 1154178809,
@@ -187,66 +187,66 @@
       "id": 1153190876,
       "name": "zilliztech/memsearch",
       "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "stars": 391,
+      "stars": 395,
       "language": "Python",
       "url": "https://github.com/zilliztech/memsearch",
       "owner": {
         "login": "zilliztech",
         "avatar_url": "https://avatars.githubusercontent.com/u/18416694?v=4"
       },
-      "updated_at": "2026-02-15T04:25:44Z"
+      "updated_at": "2026-02-15T05:41:56Z"
     },
     {
       "id": 1153780962,
       "name": "MemeCalculate/moyin-creator",
       "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support",
-      "stars": 344,
+      "stars": 345,
       "language": "TypeScript",
       "url": "https://github.com/MemeCalculate/moyin-creator",
       "owner": {
         "login": "MemeCalculate",
         "avatar_url": "https://avatars.githubusercontent.com/u/177394945?v=4"
       },
-      "updated_at": "2026-02-15T04:02:05Z"
+      "updated_at": "2026-02-15T05:27:56Z"
     },
     {
       "id": 1155091202,
       "name": "KimYx0207/Claude-Code-Guide-Zh",
       "description": "老金版ClaudeCode初学者教程",
-      "stars": 337,
+      "stars": 341,
       "language": null,
       "url": "https://github.com/KimYx0207/Claude-Code-Guide-Zh",
       "owner": {
         "login": "KimYx0207",
         "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4"
       },
-      "updated_at": "2026-02-15T04:24:08Z"
+      "updated_at": "2026-02-15T05:25:51Z"
     },
     {
       "id": 1153216306,
       "name": "alibaba-damo-academy/RynnBrain",
       "description": "RynnBrain: Open Embodied Foundation Models",
-      "stars": 297,
+      "stars": 298,
       "language": "Jupyter Notebook",
       "url": "https://github.com/alibaba-damo-academy/RynnBrain",
       "owner": {
         "login": "alibaba-damo-academy",
         "avatar_url": "https://avatars.githubusercontent.com/u/115537614?v=4"
       },
-      "updated_at": "2026-02-15T02:25:20Z"
+      "updated_at": "2026-02-15T05:42:29Z"
     },
     {
       "id": 1155232855,
       "name": "FireRedTeam/FireRed-Image-Edit",
       "description": null,
-      "stars": 291,
+      "stars": 292,
       "language": "Python",
       "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
       "owner": {
         "login": "FireRedTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/178460259?v=4"
       },
-      "updated_at": "2026-02-15T04:36:27Z"
+      "updated_at": "2026-02-15T05:33:40Z"
     },
     {
       "id": 1155817029,

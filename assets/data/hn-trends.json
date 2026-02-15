@@ -1,265 +1,275 @@
 {
-  "lastUpdated": "2026-02-15T04:47:12.971Z",
+  "lastUpdated": "2026-02-15T05:45:04.499Z",
   "items": [
-    {
-      "id": 47016443,
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 716,
-      "by": "i5heu",
-      "time": 1771090605,
-      "comments": 233,
-      "domain": "github.com"
-    },
-    {
-      "id": 47017138,
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 443,
-      "by": "ninjagoo",
-      "time": 1771094792,
-      "comments": 286,
-      "domain": "niemanlab.org"
-    },
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 96,
+      "score": 153,
       "by": "panic",
       "time": 1771118458,
-      "comments": 17,
+      "comments": 29,
       "domain": "k7r.eu"
-    },
-    {
-      "id": 47009327,
-      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-      "score": 321,
-      "by": "WhatsTheBigIdea",
-      "time": 1771025649,
-      "comments": 186,
-      "domain": "fortune.com"
     },
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 365,
+      "score": 376,
       "by": "minimalthinker",
       "time": 1771083347,
-      "comments": 181,
+      "comments": 184,
       "domain": "aimilios.bearblog.dev"
-    },
-    {
-      "id": 47014449,
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "url": "https://ooh.directory/",
-      "score": 465,
-      "by": "hisamafahri",
-      "time": 1771076420,
-      "comments": 120,
-      "domain": "ooh.directory"
-    },
-    {
-      "id": 47006615,
-      "title": "Breaking the spell of vibe coding",
-      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "score": 152,
-      "by": "arjunbanker",
-      "time": 1771010538,
-      "comments": 115,
-      "domain": "fast.ai"
     },
     {
       "id": 47000535,
       "title": "Zvec: A lightweight, fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 91,
+      "score": 106,
       "by": "dvrp",
       "time": 1770972831,
-      "comments": 16,
+      "comments": 18,
       "domain": "github.com"
     },
     {
       "id": 47004689,
       "title": "Instagram's URL Blackhole",
       "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 114,
+      "score": 127,
       "by": "tkp-415",
       "time": 1771000924,
-      "comments": 15,
+      "comments": 19,
       "domain": "medium.com"
-    },
-    {
-      "id": 47012553,
-      "title": "OpenAI should build Slack",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "score": 111,
-      "by": "swyx",
-      "time": 1771055413,
-      "comments": 112,
-      "domain": "latent.space"
     },
     {
       "id": 46970733,
       "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
       "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
-      "score": 87,
+      "score": 92,
       "by": "geox",
       "time": 1770783120,
-      "comments": 9,
+      "comments": 12,
       "domain": "ncl.ac.uk"
+    },
+    {
+      "id": 47016443,
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "score": 741,
+      "by": "i5heu",
+      "time": 1771090605,
+      "comments": 245,
+      "domain": "github.com"
+    },
+    {
+      "id": 46970832,
+      "title": "I'm building a clarity-first language (compiles to C++)",
+      "url": "https://github.com/taman-islam/rox",
+      "score": 7,
+      "by": "hedayet",
+      "time": 1770784218,
+      "comments": 7,
+      "domain": "github.com"
+    },
+    {
+      "id": 47017138,
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "score": 450,
+      "by": "ninjagoo",
+      "time": 1771094792,
+      "comments": 288,
+      "domain": "niemanlab.org"
     },
     {
       "id": 47020218,
       "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
       "url": "https://newpipe.net/",
-      "score": 153,
+      "score": 176,
       "by": "nvader",
       "time": 1771118656,
-      "comments": 40,
+      "comments": 45,
       "domain": "newpipe.net"
-    },
-    {
-      "id": 46973299,
-      "title": "Flood Fill vs. The Magic Circle",
-      "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
-      "score": 48,
-      "by": "tobr",
-      "time": 1770805881,
-      "comments": 16,
-      "domain": "robinsloan.com"
     },
     {
       "id": 47016008,
       "title": "Amsterdam Compiler Kit",
       "url": "https://github.com/davidgiven/ack",
-      "score": 106,
+      "score": 112,
       "by": "andsoitis",
       "time": 1771087847,
       "comments": 29,
       "domain": "github.com"
     },
     {
+      "id": 47021065,
+      "title": "Linear Representations and Superposition",
+      "url": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+      "score": 7,
+      "by": "paladin314159",
+      "time": 1771129784,
+      "comments": 0,
+      "domain": "ternarysearch.blogspot.com"
+    },
+    {
       "id": 47019133,
       "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
       "url": "https://github.com/alichherawalla/off-grid-mobile",
-      "score": 59,
+      "score": 74,
       "by": "ali_chherawalla",
       "time": 1771108764,
-      "comments": 26,
+      "comments": 28,
       "domain": "github.com"
     },
     {
-      "id": 46993647,
-      "title": "Connes Embedding Problem",
-      "url": "https://en.wikipedia.org/wiki/Connes_embedding_problem",
-      "score": 9,
-      "by": "jerlendds",
-      "time": 1770923970,
-      "comments": 1,
-      "domain": "en.wikipedia.org"
+      "id": 47006615,
+      "title": "Breaking the spell of vibe coding",
+      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "score": 167,
+      "by": "arjunbanker",
+      "time": 1771010538,
+      "comments": 128,
+      "domain": "fast.ai"
+    },
+    {
+      "id": 47012553,
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "score": 126,
+      "by": "swyx",
+      "time": 1771055413,
+      "comments": 124,
+      "domain": "latent.space"
     },
     {
       "id": 47008607,
       "title": "How often do full-body MRIs find cancer?",
       "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
-      "score": 72,
+      "score": 78,
       "by": "brandonb",
       "time": 1771021315,
-      "comments": 70,
+      "comments": 79,
       "domain": "usatoday.com"
     },
     {
       "id": 46961931,
       "title": "Can my SPARC server host a website?",
       "url": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
-      "score": 39,
+      "score": 41,
       "by": "e145bc455f1",
       "time": 1770740096,
-      "comments": 30,
+      "comments": 35,
       "domain": "rup12.net"
     },
     {
       "id": 47005856,
       "title": "The consequences of task switching in supervisory programming",
       "url": "https://martinfowler.com/fragments/2026-02-13.html",
-      "score": 55,
+      "score": 58,
       "by": "bigwheels",
       "time": 1771006728,
-      "comments": 25,
+      "comments": 27,
       "domain": "martinfowler.com"
+    },
+    {
+      "id": 46993647,
+      "title": "Connes Embedding Problem",
+      "url": "https://en.wikipedia.org/wiki/Connes_embedding_problem",
+      "score": 10,
+      "by": "jerlendds",
+      "time": 1770923970,
+      "comments": 1,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "id": 46973299,
+      "title": "Flood Fill vs. The Magic Circle",
+      "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
+      "score": 55,
+      "by": "tobr",
+      "time": 1770805881,
+      "comments": 16,
+      "domain": "robinsloan.com"
     },
     {
       "id": 47014500,
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 204,
+      "score": 207,
       "by": "datavorous_",
       "time": 1771076864,
       "comments": 62,
       "domain": "github.com"
     },
     {
-      "id": 46975112,
-      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
-      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-      "score": 3,
-      "by": "vmirnv",
-      "time": 1770818953,
-      "comments": 1,
-      "domain": "mdst.app"
-    },
-    {
-      "id": 46970832,
-      "title": "I'm building a clarity-first language (compiles to C++)",
-      "url": "https://github.com/taman-islam/rox",
-      "score": 3,
-      "by": "hedayet",
-      "time": 1770784218,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
       "id": 46977967,
       "title": "Show HN: MOL – A programming language where pipelines trace themselves",
       "url": "https://github.com/crux-ecosystem/mol-lang",
-      "score": 27,
+      "score": 29,
       "by": "MouneshK",
       "time": 1770831108,
       "comments": 9,
       "domain": "github.com"
     },
     {
-      "id": 46977742,
-      "title": "The Perfect Device",
-      "url": "https://sometimes.digital/posts/the-perfect-device/",
-      "score": 13,
-      "by": "surprisetalk",
-      "time": 1770830255,
-      "comments": 1,
-      "domain": "sometimes.digital"
-    },
-    {
-      "id": 47015579,
-      "title": "A review of M Disc archival capability with long term testing results (2016)",
-      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "score": 70,
-      "by": "1970-01-01",
-      "time": 1771085264,
-      "comments": 87,
-      "domain": "microscopy-uk.org.uk"
+      "id": 47014449,
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "url": "https://ooh.directory/",
+      "score": 477,
+      "by": "hisamafahri",
+      "time": 1771076420,
+      "comments": 121,
+      "domain": "ooh.directory"
     },
     {
       "id": 47012964,
       "title": "YouTube as Storage",
       "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 179,
+      "score": 185,
       "by": "saswatms",
       "time": 1771060215,
-      "comments": 135,
+      "comments": 138,
       "domain": "github.com"
+    },
+    {
+      "id": 47015579,
+      "title": "A review of M Disc archival capability with long term testing results (2016)",
+      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+      "score": 72,
+      "by": "1970-01-01",
+      "time": 1771085264,
+      "comments": 88,
+      "domain": "microscopy-uk.org.uk"
+    },
+    {
+      "id": 47020791,
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "score": 6,
+      "by": "bpierre",
+      "time": 1771126179,
+      "comments": 0,
+      "domain": "caucascapades.wordpress.com"
+    },
+    {
+      "id": 47017545,
+      "title": "Descent, ported to the web",
+      "url": "https://mrdoob.github.io/three-descent/",
+      "score": 193,
+      "by": "memalign",
+      "time": 1771097604,
+      "comments": 41,
+      "domain": "mrdoob.github.io"
+    },
+    {
+      "id": 46977742,
+      "title": "The Perfect Device",
+      "url": "https://sometimes.digital/posts/the-perfect-device/",
+      "score": 16,
+      "by": "surprisetalk",
+      "time": 1770830255,
+      "comments": 2,
+      "domain": "sometimes.digital"
     },
     {
       "id": 47018405,
@@ -272,34 +282,24 @@
       "domain": "blog.sao.dev"
     },
     {
-      "id": 47014260,
-      "title": "Unicorn Jelly",
-      "url": "https://unicornjelly.com/",
-      "score": 50,
-      "by": "avaer",
-      "time": 1771074515,
-      "comments": 11,
-      "domain": "unicornjelly.com"
+      "id": 47000505,
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "score": 602,
+      "by": "walterbell",
+      "time": 1770972542,
+      "comments": 312,
+      "domain": "cordcuttersnews.com"
     },
     {
-      "id": 47017545,
-      "title": "Descent, ported to the web",
-      "url": "https://mrdoob.github.io/three-descent/",
-      "score": 178,
-      "by": "memalign",
-      "time": 1771097604,
-      "comments": 37,
-      "domain": "mrdoob.github.io"
-    },
-    {
-      "id": 47008821,
-      "title": "Launching Interop 2026",
-      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
-      "score": 55,
-      "by": "linolevan",
-      "time": 1771022428,
-      "comments": 3,
-      "domain": "hacks.mozilla.org"
+      "id": 46968641,
+      "title": "Windows NT/OS2 Design Workbook",
+      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+      "score": 93,
+      "by": "markus_zhang",
+      "time": 1770766695,
+      "comments": 34,
+      "domain": "computernewb.com"
     }
   ]
 }
