@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-16T22:13:47.179Z",
+  "lastUpdated": "2026-02-16T22:49:17.468Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 6856,
+      "stars": 6920,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-16T22:12:45Z"
+      "updated_at": "2026-02-16T22:48:37Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 2241,
+      "stars": 2266,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-16T22:12:36Z"
+      "updated_at": "2026-02-16T22:48:09Z"
     },
     {
       "id": 1155639743,
@@ -44,14 +44,14 @@
       "id": 1154626321,
       "name": "promptpirate-x/discord-id-bypass-tool",
       "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1161,
+      "stars": 1163,
       "language": "HTML",
       "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
       "owner": {
         "login": "promptpirate-x",
         "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
       },
-      "updated_at": "2026-02-16T21:42:58Z"
+      "updated_at": "2026-02-16T22:48:55Z"
     },
     {
       "id": 1155791602,
@@ -70,14 +70,14 @@
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 812,
+      "stars": 814,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-16T21:44:51Z"
+      "updated_at": "2026-02-16T22:39:05Z"
     },
     {
       "id": 1156879010,
@@ -106,56 +106,56 @@
       "updated_at": "2026-02-16T21:30:38Z"
     },
     {
-      "id": 1156437015,
-      "name": "devops-interviews/devops-interviews",
-      "description": "DevOps Interview Questions",
-      "stars": 630,
-      "language": null,
-      "url": "https://github.com/devops-interviews/devops-interviews",
-      "owner": {
-        "login": "devops-interviews",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
-      },
-      "updated_at": "2026-02-16T22:08:50Z"
-    },
-    {
-      "id": 1155249807,
-      "name": "QDenka/awesome-software-design",
-      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
-      "stars": 627,
-      "language": null,
-      "url": "https://github.com/QDenka/awesome-software-design",
-      "owner": {
-        "login": "QDenka",
-        "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
-      },
-      "updated_at": "2026-02-16T21:17:44Z"
-    },
-    {
-      "id": 1154042797,
-      "name": "aeromomo/claw-compactor",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 619,
-      "language": "Python",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "owner": {
-        "login": "aeromomo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
-      },
-      "updated_at": "2026-02-16T22:01:51Z"
-    },
-    {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 619,
+      "stars": 641,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-16T22:10:37Z"
+      "updated_at": "2026-02-16T22:47:34Z"
+    },
+    {
+      "id": 1156437015,
+      "name": "devops-interviews/devops-interviews",
+      "description": "DevOps Interview Questions",
+      "stars": 632,
+      "language": null,
+      "url": "https://github.com/devops-interviews/devops-interviews",
+      "owner": {
+        "login": "devops-interviews",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
+      },
+      "updated_at": "2026-02-16T22:39:29Z"
+    },
+    {
+      "id": 1155249807,
+      "name": "QDenka/awesome-software-design",
+      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
+      "stars": 628,
+      "language": null,
+      "url": "https://github.com/QDenka/awesome-software-design",
+      "owner": {
+        "login": "QDenka",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
+      },
+      "updated_at": "2026-02-16T22:32:59Z"
+    },
+    {
+      "id": 1154042797,
+      "name": "aeromomo/claw-compactor",
+      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
+      "stars": 621,
+      "language": "Python",
+      "url": "https://github.com/aeromomo/claw-compactor",
+      "owner": {
+        "login": "aeromomo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
+      },
+      "updated_at": "2026-02-16T22:46:34Z"
     },
     {
       "id": 1156162551,
@@ -171,6 +171,19 @@
       "updated_at": "2026-02-16T21:05:50Z"
     },
     {
+      "id": 1158537997,
+      "name": "vercel-labs/portless",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "stars": 453,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/portless",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+      },
+      "updated_at": "2026-02-16T22:48:26Z"
+    },
+    {
       "id": 1155091202,
       "name": "KimYx0207/Claude-Code-Guide-Zh",
       "description": "老金版ClaudeCode初学者教程",
@@ -184,30 +197,17 @@
       "updated_at": "2026-02-16T17:36:26Z"
     },
     {
-      "id": 1158537997,
-      "name": "vercel-labs/portless",
-      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 447,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/portless",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "updated_at": "2026-02-16T22:10:50Z"
-    },
-    {
       "id": 1156317000,
       "name": "MooseGoose0701/skill-compose",
       "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 442,
+      "stars": 445,
       "language": "Python",
       "url": "https://github.com/MooseGoose0701/skill-compose",
       "owner": {
         "login": "MooseGoose0701",
         "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
       },
-      "updated_at": "2026-02-16T21:43:59Z"
+      "updated_at": "2026-02-16T22:35:02Z"
     },
     {
       "id": 1154178809,
