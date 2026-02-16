@@ -1,245 +1,285 @@
 {
-  "lastUpdated": "2026-02-16T22:49:16.851Z",
+  "lastUpdated": "2026-02-16T23:15:01.885Z",
   "items": [
-    {
-      "id": 47038546,
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 270,
-      "by": "bookofjoe",
-      "time": 1771267310,
-      "comments": 48,
-      "domain": "smithsonianmag.com"
-    },
     {
       "id": 47040430,
       "title": "Study: Self-generated Agent Skills are useless",
       "url": "https://arxiv.org/abs/2602.12670",
-      "score": 83,
+      "score": 114,
       "by": "mustaphah",
       "time": 1771276556,
-      "comments": 42,
+      "comments": 56,
       "domain": "arxiv.org"
+    },
+    {
+      "id": 47038546,
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "score": 300,
+      "by": "bookofjoe",
+      "time": 1771267310,
+      "comments": 60,
+      "domain": "smithsonianmag.com"
+    },
+    {
+      "id": 47041456,
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "score": 13,
+      "by": "four_fifths",
+      "time": 1771282382,
+      "comments": 0,
+      "domain": "docker.com"
     },
     {
       "id": 47039966,
       "title": "Suicide Linux (2009)",
       "url": "https://qntm.org/suicide",
-      "score": 52,
+      "score": 58,
       "by": "icwtyjj",
       "time": 1771274067,
-      "comments": 35,
+      "comments": 36,
       "domain": "qntm.org"
-    },
-    {
-      "id": 47039834,
-      "title": "Testing Postgres race conditions with synchronization barriers",
-      "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-      "score": 35,
-      "by": "lirbank",
-      "time": 1771273416,
-      "comments": 15,
-      "domain": "lirbank.com"
     },
     {
       "id": 47040390,
       "title": "Show HN: Wildex – we built Pokémon Go for real wildlife",
       "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
-      "score": 37,
+      "score": 48,
       "by": "AnujNayyar",
       "time": 1771276327,
-      "comments": 22,
+      "comments": 28,
       "domain": "apps.apple.com"
     },
     {
-      "id": 47035560,
-      "title": "What your Bluetooth devices reveal",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 251,
-      "by": "ssgodderidge",
-      "time": 1771252772,
-      "comments": 88,
-      "domain": "blog.dmcc.io"
-    },
-    {
-      "id": 47002231,
-      "title": "Visual Introduction to PyTorch",
-      "url": "https://0byte.io/articles/pytorch_introduction.html",
-      "score": 69,
-      "by": "0bytematt",
-      "time": 1770987573,
-      "comments": 6,
-      "domain": "0byte.io"
+      "id": 47039834,
+      "title": "Testing Postgres race conditions with synchronization barriers",
+      "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+      "score": 38,
+      "by": "lirbank",
+      "time": 1771273416,
+      "comments": 16,
+      "domain": "lirbank.com"
     },
     {
       "id": 47040375,
       "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
       "url": "https://github.com/zachlatta/freeflow",
-      "score": 30,
+      "score": 37,
       "by": "zachlatta",
       "time": 1771276244,
-      "comments": 14,
+      "comments": 22,
       "domain": "github.com"
+    },
+    {
+      "id": 47002231,
+      "title": "Visual Introduction to PyTorch",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "score": 75,
+      "by": "0bytematt",
+      "time": 1770987573,
+      "comments": 8,
+      "domain": "0byte.io"
+    },
+    {
+      "id": 47035560,
+      "title": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "score": 258,
+      "by": "ssgodderidge",
+      "time": 1771252772,
+      "comments": 98,
+      "domain": "blog.dmcc.io"
     },
     {
       "id": 47014460,
       "title": "PCB Rework and Repair Guide [pdf]",
       "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "score": 63,
+      "score": 69,
       "by": "varjag",
       "time": 1771076524,
-      "comments": 11,
+      "comments": 13,
       "domain": "intertronics.co.uk"
+    },
+    {
+      "id": 47040781,
+      "title": "10 years building vertical software: are we cooked?",
+      "url": "https://twitter.com/nicbstme/status/2023501562480644501",
+      "score": 15,
+      "by": "nbstme",
+      "time": 1771278480,
+      "comments": 10,
+      "domain": "twitter.com"
     },
     {
       "id": 47039478,
       "title": "State of Show HN: 2025",
       "url": "https://blog.sturdystatistics.com/posts/show_hn/",
-      "score": 38,
+      "score": 42,
       "by": "kianN",
       "time": 1771271723,
       "comments": 4,
       "domain": "blog.sturdystatistics.com"
     },
     {
-      "id": 47040781,
-      "title": "10 years building vertical software: are we cooked?",
-      "url": "https://twitter.com/nicbstme/status/2023501562480644501",
-      "score": 6,
-      "by": "nbstme",
-      "time": 1771278480,
-      "comments": 1,
-      "domain": "twitter.com"
-    },
-    {
       "id": 47031334,
       "title": "Show HN: Jemini – Gemini for the Epstein Files",
       "url": "https://jmail.world/jemini",
-      "score": 182,
+      "score": 200,
       "by": "dvrp",
       "time": 1771221183,
-      "comments": 40,
+      "comments": 41,
       "domain": "jmail.world"
+    },
+    {
+      "id": 47036063,
+      "title": "Show HN: Maths, CS and AI Compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "score": 42,
+      "by": "HenryNdubuaku",
+      "time": 1771254950,
+      "comments": 13,
+      "domain": "github.com"
     },
     {
       "id": 47039044,
       "title": "Show HN: 2D Coulomb Gas Simulator",
       "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
-      "score": 19,
+      "score": 21,
       "by": "swesnow",
       "time": 1771269466,
       "comments": 4,
       "domain": "simonhalvdansson.github.io"
     },
     {
-      "id": 47038270,
-      "title": "The long tail of LLM-assisted decompilation",
-      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
-      "score": 27,
-      "by": "knackers",
-      "time": 1771265956,
+      "id": 46977901,
+      "title": "Camera that captures photos to cassette tape",
+      "url": "https://hackaday.io/project/205004-digital-analog-tape-picture-camera",
+      "score": 20,
+      "by": "Jun8",
+      "time": 1770830901,
+      "comments": 1,
+      "domain": "hackaday.io"
+    },
+    {
+      "id": 47037568,
+      "title": "Building a model that visualizes strategic golf",
+      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "score": 5,
+      "by": "scoofy",
+      "time": 1771262127,
+      "comments": 1,
+      "domain": "golfcoursewiki.substack.com"
+    },
+    {
+      "id": 47038411,
+      "title": "LCM: Lossless Context Management [pdf]",
+      "url": "http://papers.voltropy.com/LCM",
+      "score": 8,
+      "by": "ClintEhrlich",
+      "time": 1771266679,
       "comments": 7,
-      "domain": "blog.chrislewis.au"
+      "domain": "papers.voltropy.com"
     },
     {
       "id": 47032876,
       "title": "Qwen3.5: Towards Native Multimodal Agents",
       "url": "https://qwen.ai/blog?id=qwen3.5",
-      "score": 347,
+      "score": 352,
       "by": "danielhanchen",
       "time": 1771234341,
-      "comments": 165,
+      "comments": 174,
       "domain": "qwen.ai"
     },
     {
       "id": 47038731,
       "title": "Neurons outside the brain",
       "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-      "score": 27,
+      "score": 31,
       "by": "yichab0d",
       "time": 1771268077,
-      "comments": 10,
+      "comments": 14,
       "domain": "essays.debugyourpain.com"
+    },
+    {
+      "id": 47038270,
+      "title": "The long tail of LLM-assisted decompilation",
+      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+      "score": 29,
+      "by": "knackers",
+      "time": 1771265956,
+      "comments": 8,
+      "domain": "blog.chrislewis.au"
     },
     {
       "id": 47013556,
       "title": "Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh",
       "url": "https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/",
-      "score": 13,
+      "score": 15,
       "by": "transpute",
       "time": 1771067228,
-      "comments": 7,
+      "comments": 9,
       "domain": "eejournal.com"
     },
     {
-      "id": 47036921,
-      "title": "History of AT&T Long Lines",
-      "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-      "score": 55,
-      "by": "p_ing",
-      "time": 1771258944,
-      "comments": 32,
-      "domain": "telephoneworld.org"
+      "id": 47037501,
+      "title": "WebMCP Proposal",
+      "url": "https://webmachinelearning.github.io/webmcp/",
+      "score": 123,
+      "by": "Alifatisk",
+      "time": 1771261700,
+      "comments": 63,
+      "domain": "webmachinelearning.github.io"
     },
     {
       "id": 47037313,
       "title": "How to take a photo with scotch tape (lensless imaging) [video]",
       "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
-      "score": 81,
+      "score": 84,
       "by": "surprisetalk",
       "time": 1771260902,
       "comments": 4,
       "domain": "youtube.com"
     },
     {
+      "id": 47036921,
+      "title": "History of AT&T Long Lines",
+      "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
+      "score": 56,
+      "by": "p_ing",
+      "time": 1771258944,
+      "comments": 34,
+      "domain": "telephoneworld.org"
+    },
+    {
       "id": 47011548,
       "title": "Ghidra by NSA",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "score": 282,
+      "score": 287,
       "by": "handfuloflight",
       "time": 1771043058,
-      "comments": 156,
+      "comments": 159,
       "domain": "github.com"
     },
     {
       "id": 47038125,
       "title": "Privilege is bad grammar",
       "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-      "score": 141,
+      "score": 152,
       "by": "surprisetalk",
       "time": 1771265132,
-      "comments": 139,
+      "comments": 154,
       "domain": "tadaima.bearblog.dev"
-    },
-    {
-      "id": 47037501,
-      "title": "WebMCP Proposal",
-      "url": "https://webmachinelearning.github.io/webmcp/",
-      "score": 118,
-      "by": "Alifatisk",
-      "time": 1771261700,
-      "comments": 62,
-      "domain": "webmachinelearning.github.io"
     },
     {
       "id": 47038588,
       "title": "Use protocols, not services",
       "url": "https://notnotp.com/notes/use-protocols-not-services/",
-      "score": 242,
+      "score": 248,
       "by": "enz",
       "time": 1771267498,
-      "comments": 78,
+      "comments": 81,
       "domain": "notnotp.com"
-    },
-    {
-      "id": 47039440,
-      "title": "Fff.nvim – Typo-resistant code search",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "score": 19,
-      "by": "neogoose",
-      "time": 1771271550,
-      "comments": 1,
-      "domain": "github.com"
     },
     {
       "id": 47036891,
@@ -250,46 +290,6 @@
       "time": 1771258756,
       "comments": 5,
       "domain": "github.com"
-    },
-    {
-      "id": 46977901,
-      "title": "Camera that captures photos to cassette tape",
-      "url": "https://hackaday.io/project/205004-digital-analog-tape-picture-camera",
-      "score": 14,
-      "by": "Jun8",
-      "time": 1770830901,
-      "comments": 1,
-      "domain": "hackaday.io"
-    },
-    {
-      "id": 47010018,
-      "title": "Looks: A Halide Mark III Preview",
-      "url": "https://www.lux.camera/mark-iii-looks/",
-      "score": 70,
-      "by": "patrikcsak",
-      "time": 1771029962,
-      "comments": 22,
-      "domain": "lux.camera"
-    },
-    {
-      "id": 47038411,
-      "title": "LCM: Lossless Context Management [pdf]",
-      "url": "http://papers.voltropy.com/LCM",
-      "score": 3,
-      "by": "ClintEhrlich",
-      "time": 1771266679,
-      "comments": 1,
-      "domain": "papers.voltropy.com"
-    },
-    {
-      "id": 47034713,
-      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
-      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "score": 467,
-      "by": "harel",
-      "time": 1771248607,
-      "comments": 319,
-      "domain": "legalcheek.com"
     }
   ]
 }
