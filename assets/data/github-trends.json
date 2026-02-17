@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-17T23:00:27.522Z",
+  "lastUpdated": "2026-02-17T23:35:01.109Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 10210,
+      "stars": 10257,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-17T22:59:48Z"
+      "updated_at": "2026-02-17T23:33:51Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3271,
+      "stars": 3282,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-17T22:59:48Z"
+      "updated_at": "2026-02-17T23:33:27Z"
     },
     {
       "id": 1155639743,
@@ -38,20 +38,20 @@
         "login": "xyzeva",
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
-      "updated_at": "2026-02-17T22:45:32Z"
+      "updated_at": "2026-02-17T23:32:34Z"
     },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 1544,
+      "stars": 1561,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-17T22:59:04Z"
+      "updated_at": "2026-02-17T23:32:24Z"
     },
     {
       "id": 1155791602,
@@ -70,40 +70,40 @@
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 897,
+      "stars": 903,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-17T22:57:09Z"
+      "updated_at": "2026-02-17T23:33:02Z"
     },
     {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 867,
+      "stars": 868,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-17T22:50:09Z"
+      "updated_at": "2026-02-17T23:34:32Z"
     },
     {
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
-      "stars": 785,
+      "stars": 786,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-17T22:31:02Z"
+      "updated_at": "2026-02-17T23:05:11Z"
     },
     {
       "id": 1157721932,
@@ -122,79 +122,79 @@
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 689,
+      "stars": 690,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-17T22:52:09Z"
+      "updated_at": "2026-02-17T23:34:12Z"
     },
     {
       "id": 1155249807,
       "name": "QDenka/awesome-software-design",
       "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
-      "stars": 674,
+      "stars": 676,
       "language": null,
       "url": "https://github.com/QDenka/awesome-software-design",
       "owner": {
         "login": "QDenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/77678360?v=4"
       },
-      "updated_at": "2026-02-17T22:19:48Z"
+      "updated_at": "2026-02-17T23:30:10Z"
     },
     {
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 642,
+      "stars": 643,
       "language": "TypeScript",
       "url": "https://github.com/freestylefly/openclaw-wechat",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-02-17T17:13:55Z"
-    },
-    {
-      "id": 1156317000,
-      "name": "MooseGoose0701/skill-compose",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 589,
-      "language": "Python",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "owner": {
-        "login": "MooseGoose0701",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
-      },
-      "updated_at": "2026-02-17T22:58:13Z"
+      "updated_at": "2026-02-17T23:13:16Z"
     },
     {
       "id": 1156960719,
       "name": "millionco/react-doctor",
       "description": "Let coding agents diagnose and fix your React code",
-      "stars": 579,
+      "stars": 607,
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor",
       "owner": {
         "login": "millionco",
         "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
       },
-      "updated_at": "2026-02-17T23:00:06Z"
+      "updated_at": "2026-02-17T23:32:57Z"
+    },
+    {
+      "id": 1156317000,
+      "name": "MooseGoose0701/skill-compose",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "stars": 592,
+      "language": "Python",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "owner": {
+        "login": "MooseGoose0701",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
+      },
+      "updated_at": "2026-02-17T23:05:02Z"
     },
     {
       "id": 1158734451,
       "name": "zachlatta/freeflow",
       "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 532,
+      "stars": 538,
       "language": "Swift",
       "url": "https://github.com/zachlatta/freeflow",
       "owner": {
         "login": "zachlatta",
         "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
       },
-      "updated_at": "2026-02-17T22:52:16Z"
+      "updated_at": "2026-02-17T23:32:03Z"
     },
     {
       "id": 1155091202,
@@ -213,14 +213,14 @@
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 465,
+      "stars": 474,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-17T22:56:25Z"
+      "updated_at": "2026-02-17T23:33:39Z"
     },
     {
       "id": 1158588224,
@@ -239,27 +239,27 @@
       "id": 1157073757,
       "name": "Mathews-Tom/no-magic",
       "description": "Because `model.fit()` isn't an explanation",
-      "stars": 420,
+      "stars": 424,
       "language": "Python",
       "url": "https://github.com/Mathews-Tom/no-magic",
       "owner": {
         "login": "Mathews-Tom",
         "avatar_url": "https://avatars.githubusercontent.com/u/9562152?v=4"
       },
-      "updated_at": "2026-02-17T22:00:36Z"
+      "updated_at": "2026-02-17T23:26:21Z"
     },
     {
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 418,
+      "stars": 419,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-17T22:37:08Z"
+      "updated_at": "2026-02-17T23:25:57Z"
     }
   ]
 }
