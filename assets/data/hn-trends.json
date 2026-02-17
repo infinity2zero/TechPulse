@@ -1,165 +1,205 @@
 {
-  "lastUpdated": "2026-02-17T20:59:31.436Z",
+  "lastUpdated": "2026-02-17T21:38:42.034Z",
   "items": [
-    {
-      "id": 47051852,
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 87,
-      "by": "moWerk",
-      "time": 1771356295,
-      "comments": 6,
-      "domain": "asteroidos.org"
-    },
     {
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 536,
+      "score": 609,
       "by": "adocomplete",
       "time": 1771350532,
-      "comments": 439,
+      "comments": 493,
       "domain": "anthropic.com"
+    },
+    {
+      "id": 47051852,
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "score": 141,
+      "by": "moWerk",
+      "time": 1771356295,
+      "comments": 12,
+      "domain": "asteroidos.org"
     },
     {
       "id": 47049479,
       "title": "Using go fix to modernize Go code",
       "url": "https://go.dev/blog/gofix",
-      "score": 179,
+      "score": 198,
       "by": "todsacerdoti",
       "time": 1771346555,
-      "comments": 33,
+      "comments": 38,
       "domain": "go.dev"
     },
     {
       "id": 47050067,
       "title": "Gentoo on Codeberg",
       "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "score": 152,
+      "score": 166,
       "by": "todsacerdoti",
       "time": 1771348864,
-      "comments": 37,
+      "comments": 42,
       "domain": "gentoo.org"
-    },
-    {
-      "id": 47052007,
-      "title": "Meta to retire messenger desktop app and messenger.com in April 2026",
-      "url": "https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms",
-      "score": 34,
-      "by": "SoKamil",
-      "time": 1771356909,
-      "comments": 27,
-      "domain": "dzrh.com.ph"
     },
     {
       "id": 47007117,
       "title": "Physicists Make Electrons Flow Like Water",
       "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
-      "score": 40,
+      "score": 50,
       "by": "rbanffy",
       "time": 1771013127,
-      "comments": 0,
+      "comments": 2,
       "domain": "quantamagazine.org"
+    },
+    {
+      "id": 47049628,
+      "title": "Async/Await on the GPU",
+      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+      "score": 114,
+      "by": "Philpax",
+      "time": 1771347185,
+      "comments": 35,
+      "domain": "vectorware.com"
     },
     {
       "id": 47049718,
       "title": "So you want to build a tunnel",
       "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
-      "score": 98,
+      "score": 107,
       "by": "crescit_eundo",
       "time": 1771347574,
-      "comments": 32,
+      "comments": 36,
       "domain": "practical.engineering"
     },
     {
       "id": 47045612,
       "title": "GrapheneOS – Break Free from Google and Apple",
       "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 939,
+      "score": 964,
       "by": "to3k",
       "time": 1771322556,
-      "comments": 646,
+      "comments": 682,
       "domain": "blog.tomaszdunia.pl"
-    },
-    {
-      "id": 47049628,
-      "title": "Async/Await on the GPU",
-      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-      "score": 104,
-      "by": "Philpax",
-      "time": 1771347185,
-      "comments": 31,
-      "domain": "vectorware.com"
-    },
-    {
-      "id": 47051956,
-      "title": "An AI Agent Published a Hit Piece on Me – Forensics and More Fallout",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-      "score": 35,
-      "by": "scottshambaugh",
-      "time": 1771356705,
-      "comments": 15,
-      "domain": "theshamblog.com"
     },
     {
       "id": 47048733,
       "title": "Show HN: I wrote a technical history book on Lisp",
       "url": "https://berksoft.ca/gol/",
-      "score": 99,
+      "score": 115,
       "by": "cdegroot",
       "time": 1771343019,
-      "comments": 22,
+      "comments": 26,
       "domain": "berksoft.ca"
-    },
-    {
-      "id": 47049845,
-      "title": "Chess engines do weird stuff",
-      "url": "https://girl.surgery/chess",
-      "score": 106,
-      "by": "admiringly",
-      "time": 1771348079,
-      "comments": 54,
-      "domain": "girl.surgery"
     },
     {
       "id": 47051546,
       "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans",
       "url": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
-      "score": 158,
+      "score": 223,
       "by": "Bender",
       "time": 1771354964,
-      "comments": 76,
+      "comments": 114,
       "domain": "electrek.co"
-    },
-    {
-      "id": 47049573,
-      "title": "HackMyClaw",
-      "url": "https://hackmyclaw.com/",
-      "score": 199,
-      "by": "hentrep",
-      "time": 1771346923,
-      "comments": 105,
-      "domain": "hackmyclaw.com"
     },
     {
       "id": 47048004,
       "title": "I converted 2D conventional flight tracking into 3D",
       "url": "https://aeris.edbn.me/?city=SFO",
-      "score": 168,
+      "score": 174,
       "by": "kewonit",
       "time": 1771339394,
       "comments": 41,
       "domain": "aeris.edbn.me"
     },
     {
+      "id": 47049227,
+      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+      "url": "https://mage-bench.com/",
+      "score": 74,
+      "by": "GregorStocks",
+      "time": 1771345369,
+      "comments": 52,
+      "domain": "mage-bench.com"
+    },
+    {
       "id": 47045804,
       "title": "Is Show HN dead? No, but it's drowning",
       "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "score": 329,
+      "score": 351,
       "by": "acnops",
       "time": 1771324154,
-      "comments": 272,
+      "comments": 290,
       "domain": "arthurcnops.blog"
+    },
+    {
+      "id": 47049573,
+      "title": "HackMyClaw",
+      "url": "https://hackmyclaw.com/",
+      "score": 207,
+      "by": "hentrep",
+      "time": 1771346923,
+      "comments": 114,
+      "domain": "hackmyclaw.com"
+    },
+    {
+      "id": 47050872,
+      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "url": "https://github.com/n-e/pg-typesafe",
+      "score": 6,
+      "by": "n_e",
+      "time": 1771352136,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
+      "id": 47052579,
+      "title": "Property taxes going up? The 340B Program might be partly responsible",
+      "url": "https://www.pricepoints.health/cp/188296406",
+      "score": 14,
+      "by": "larsiusprime",
+      "time": 1771358960,
+      "comments": 5,
+      "domain": "pricepoints.health"
+    },
+    {
+      "id": 47019902,
+      "title": "Don't pass on small block ciphers",
+      "url": "https://00f.net/2026/02/10/small-block-ciphers/",
+      "score": 41,
+      "by": "jstrieb",
+      "time": 1771115545,
+      "comments": 17,
+      "domain": "00f.net"
+    },
+    {
+      "id": 47002926,
+      "title": "Assistant to the Regional Manager",
+      "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
+      "score": 6,
+      "by": "NaOH",
+      "time": 1770991902,
+      "comments": 0,
+      "domain": "smallpotatoes.paulbloom.net"
+    },
+    {
+      "id": 47052007,
+      "title": "Meta to retire messenger desktop app and messenger.com in April 2026",
+      "url": "https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms",
+      "score": 53,
+      "by": "SoKamil",
+      "time": 1771356909,
+      "comments": 58,
+      "domain": "dzrh.com.ph"
+    },
+    {
+      "id": 47050227,
+      "title": "Climbing Mount Fuji visualized through milestone stamps",
+      "url": "https://fuji.halfof8.com/",
+      "score": 34,
+      "by": "gessha",
+      "time": 1771349389,
+      "comments": 5,
+      "domain": "fuji.halfof8.com"
     },
     {
       "id": 47049776,
@@ -168,68 +208,68 @@
       "score": 21,
       "by": "Dimittri",
       "time": 1771347789,
-      "comments": 1,
+      "comments": 2,
       "domain": "sonarly.com"
-    },
-    {
-      "id": 47049227,
-      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "url": "https://mage-bench.com/",
-      "score": 68,
-      "by": "GregorStocks",
-      "time": 1771345369,
-      "comments": 51,
-      "domain": "mage-bench.com"
-    },
-    {
-      "id": 47050227,
-      "title": "Climbing Mount Fuji visualized through milestone stamps",
-      "url": "https://fuji.halfof8.com/",
-      "score": 30,
-      "by": "gessha",
-      "time": 1771349389,
-      "comments": 5,
-      "domain": "fuji.halfof8.com"
-    },
-    {
-      "id": 47030509,
-      "title": "Contra \"Grandmaster-level chess without search\" (2024)",
-      "url": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
-      "score": 8,
-      "by": "luu",
-      "time": 1771212151,
-      "comments": 0,
-      "domain": "cosmo.tardis.ac"
-    },
-    {
-      "id": 47019902,
-      "title": "Don't pass on small block ciphers",
-      "url": "https://00f.net/2026/02/10/small-block-ciphers/",
-      "score": 36,
-      "by": "jstrieb",
-      "time": 1771115545,
-      "comments": 13,
-      "domain": "00f.net"
-    },
-    {
-      "id": 47052674,
-      "title": "Show HN: I'm launching a LPFM radio station",
-      "url": "https://www.kpbj.fm/",
-      "score": 13,
-      "by": "solomonb",
-      "time": 1771359357,
-      "comments": 3,
-      "domain": "kpbj.fm"
     },
     {
       "id": 47050376,
       "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
       "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "score": 96,
+      "score": 122,
       "by": "thunderbong",
       "time": 1771350050,
-      "comments": 38,
+      "comments": 47,
       "domain": "kotaku.com"
+    },
+    {
+      "id": 47030509,
+      "title": "Contra \"Grandmaster-level chess without search\" (2024)",
+      "url": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
+      "score": 10,
+      "by": "luu",
+      "time": 1771212151,
+      "comments": 1,
+      "domain": "cosmo.tardis.ac"
+    },
+    {
+      "id": 47052674,
+      "title": "Show HN: I'm launching a LPFM radio station",
+      "url": "https://www.kpbj.fm/",
+      "score": 23,
+      "by": "solomonb",
+      "time": 1771359357,
+      "comments": 9,
+      "domain": "kpbj.fm"
+    },
+    {
+      "id": 47049845,
+      "title": "Chess engines do weird stuff",
+      "url": "https://girl.surgery/chess",
+      "score": 116,
+      "by": "admiringly",
+      "time": 1771348079,
+      "comments": 56,
+      "domain": "girl.surgery"
+    },
+    {
+      "id": 47051956,
+      "title": "An AI Agent Published a Hit Piece on Me – Forensics and More Fallout",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
+      "score": 55,
+      "by": "scottshambaugh",
+      "time": 1771356705,
+      "comments": 31,
+      "domain": "theshamblog.com"
+    },
+    {
+      "id": 47022270,
+      "title": "Four Column ASCII (2017)",
+      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "score": 318,
+      "by": "tempodox",
+      "time": 1771146916,
+      "comments": 76,
+      "domain": "garbagecollected.org"
     },
     {
       "id": 47049743,
@@ -242,54 +282,14 @@
       "domain": "github.com"
     },
     {
-      "id": 47022270,
-      "title": "Four Column ASCII (2017)",
-      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-      "score": 316,
-      "by": "tempodox",
-      "time": 1771146916,
-      "comments": 76,
-      "domain": "garbagecollected.org"
-    },
-    {
-      "id": 47049848,
-      "title": "Show HN: Continue – Source-controlled AI checks, enforceable in CI",
-      "url": "https://docs.continue.dev",
-      "score": 32,
-      "by": "sestinj",
-      "time": 1771348094,
-      "comments": 5,
-      "domain": "docs.continue.dev"
-    },
-    {
-      "id": 47049088,
-      "title": "Semantic ablation: Why AI writing is generic and boring",
-      "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-      "score": 179,
-      "by": "benji8000",
-      "time": 1771344749,
-      "comments": 154,
-      "domain": "theregister.com"
-    },
-    {
-      "id": 47007331,
-      "title": "Labyrinth Locator",
-      "url": "https://labyrinthlocator.org/",
-      "score": 28,
-      "by": "emigre",
-      "time": 1771014083,
-      "comments": 6,
-      "domain": "labyrinthlocator.org"
-    },
-    {
-      "id": 47021711,
-      "title": "Hamming Distance for Hybrid Search in SQLite",
-      "url": "https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/",
-      "score": 65,
-      "by": "enz",
-      "time": 1771140118,
-      "comments": 11,
-      "domain": "notnotp.com"
+      "id": 47048731,
+      "title": "Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File",
+      "url": "https://github.com/christopherkarani/Wax",
+      "score": 56,
+      "by": "ckarani",
+      "time": 1771343017,
+      "comments": 17,
+      "domain": "github.com"
     }
   ]
 }
