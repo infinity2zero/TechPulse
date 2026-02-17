@@ -1,81 +1,71 @@
 {
-  "lastUpdated": "2026-02-16T23:45:46.275Z",
+  "lastUpdated": "2026-02-17T00:01:11.898Z",
   "items": [
     {
       "id": 47040430,
       "title": "Study: Self-generated Agent Skills are useless",
       "url": "https://arxiv.org/abs/2602.12670",
-      "score": 151,
+      "score": 160,
       "by": "mustaphah",
       "time": 1771276556,
-      "comments": 66,
+      "comments": 72,
       "domain": "arxiv.org"
     },
     {
       "id": 47038546,
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 322,
+      "score": 336,
       "by": "bookofjoe",
       "time": 1771267310,
-      "comments": 66,
+      "comments": 67,
       "domain": "smithsonianmag.com"
+    },
+    {
+      "id": 47041836,
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "score": 12,
+      "by": "dogline",
+      "time": 1771285233,
+      "comments": 1,
+      "domain": "forestrydiary.com"
     },
     {
       "id": 47040375,
       "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
       "url": "https://github.com/zachlatta/freeflow",
-      "score": 52,
+      "score": 56,
       "by": "zachlatta",
       "time": 1771276244,
-      "comments": 28,
+      "comments": 29,
       "domain": "github.com"
     },
     {
       "id": 47041456,
       "title": "Running NanoClaw in a Docker Shell Sandbox",
       "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
-      "score": 25,
+      "score": 26,
       "by": "four_fifths",
       "time": 1771282382,
-      "comments": 1,
+      "comments": 4,
       "domain": "docker.com"
-    },
-    {
-      "id": 47039966,
-      "title": "Suicide Linux (2009)",
-      "url": "https://qntm.org/suicide",
-      "score": 63,
-      "by": "icwtyjj",
-      "time": 1771274067,
-      "comments": 39,
-      "domain": "qntm.org"
     },
     {
       "id": 47040390,
       "title": "Show HN: Wildex – we built Pokémon Go for real wildlife",
       "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
-      "score": 52,
+      "score": 55,
       "by": "AnujNayyar",
       "time": 1771276327,
-      "comments": 35,
+      "comments": 39,
       "domain": "apps.apple.com"
-    },
-    {
-      "id": 47041836,
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
-      "score": 5,
-      "by": "dogline",
-      "time": 1771285233,
-      "comments": 0,
-      "domain": "forestrydiary.com"
     },
     {
       "id": 47039834,
       "title": "Testing Postgres race conditions with synchronization barriers",
       "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-      "score": 42,
+      "score": 44,
       "by": "lirbank",
       "time": 1771273416,
       "comments": 19,
@@ -85,41 +75,41 @@
       "id": 47002231,
       "title": "Visual Introduction to PyTorch",
       "url": "https://0byte.io/articles/pytorch_introduction.html",
-      "score": 87,
+      "score": 89,
       "by": "0bytematt",
       "time": 1770987573,
-      "comments": 10,
+      "comments": 11,
       "domain": "0byte.io"
-    },
-    {
-      "id": 47016024,
-      "title": "PascalABC.net",
-      "url": "https://pascalabc.net:443/en",
-      "score": 13,
-      "by": "andsoitis",
-      "time": 1771087931,
-      "comments": 0,
-      "domain": "pascalabc.net"
     },
     {
       "id": 47035560,
       "title": "What your Bluetooth devices reveal",
       "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 267,
+      "score": 271,
       "by": "ssgodderidge",
       "time": 1771252772,
       "comments": 105,
       "domain": "blog.dmcc.io"
     },
     {
-      "id": 47040781,
-      "title": "10 years building vertical software: are we cooked?",
-      "url": "https://twitter.com/nicbstme/status/2023501562480644501",
-      "score": 22,
-      "by": "nbstme",
-      "time": 1771278480,
-      "comments": 21,
-      "domain": "twitter.com"
+      "id": 47039966,
+      "title": "Suicide Linux (2009)",
+      "url": "https://qntm.org/suicide",
+      "score": 66,
+      "by": "icwtyjj",
+      "time": 1771274067,
+      "comments": 42,
+      "domain": "qntm.org"
+    },
+    {
+      "id": 47016024,
+      "title": "PascalABC.net",
+      "url": "https://pascalabc.net:443/en",
+      "score": 16,
+      "by": "andsoitis",
+      "time": 1771087931,
+      "comments": 2,
+      "domain": "pascalabc.net"
     },
     {
       "id": 47014460,
@@ -128,48 +118,58 @@
       "score": 75,
       "by": "varjag",
       "time": 1771076524,
-      "comments": 19,
+      "comments": 22,
       "domain": "intertronics.co.uk"
     },
     {
       "id": 46977901,
       "title": "Camera that captures photos to cassette tape",
       "url": "https://hackaday.io/project/205004-digital-analog-tape-picture-camera",
-      "score": 28,
+      "score": 30,
       "by": "Jun8",
       "time": 1770830901,
-      "comments": 1,
+      "comments": 2,
       "domain": "hackaday.io"
     },
     {
       "id": 47039478,
       "title": "State of Show HN: 2025",
       "url": "https://blog.sturdystatistics.com/posts/show_hn/",
-      "score": 48,
+      "score": 50,
       "by": "kianN",
       "time": 1771271723,
-      "comments": 6,
+      "comments": 7,
       "domain": "blog.sturdystatistics.com"
     },
     {
-      "id": 47038411,
-      "title": "LCM: Lossless Context Management [pdf]",
-      "url": "http://papers.voltropy.com/LCM",
-      "score": 15,
-      "by": "ClintEhrlich",
-      "time": 1771266679,
-      "comments": 10,
-      "domain": "papers.voltropy.com"
+      "id": 47040524,
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "score": 17,
+      "by": "max-m",
+      "time": 1771277044,
+      "comments": 1,
+      "domain": "dolphin-emu.org"
     },
     {
       "id": 47031334,
       "title": "Show HN: Jemini – Gemini for the Epstein Files",
       "url": "https://jmail.world/jemini",
-      "score": 216,
+      "score": 223,
       "by": "dvrp",
       "time": 1771221183,
       "comments": 43,
       "domain": "jmail.world"
+    },
+    {
+      "id": 47038411,
+      "title": "LCM: Lossless Context Management [pdf]",
+      "url": "http://papers.voltropy.com/LCM",
+      "score": 17,
+      "by": "ClintEhrlich",
+      "time": 1771266679,
+      "comments": 11,
+      "domain": "papers.voltropy.com"
     },
     {
       "id": 47036063,
@@ -195,31 +195,31 @@
       "id": 47038731,
       "title": "Neurons outside the brain",
       "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-      "score": 40,
+      "score": 41,
       "by": "yichab0d",
       "time": 1771268077,
-      "comments": 16,
+      "comments": 18,
       "domain": "essays.debugyourpain.com"
     },
     {
       "id": 47032876,
       "title": "Qwen3.5: Towards Native Multimodal Agents",
       "url": "https://qwen.ai/blog?id=qwen3.5",
-      "score": 361,
+      "score": 363,
       "by": "danielhanchen",
       "time": 1771234341,
-      "comments": 174,
+      "comments": 173,
       "domain": "qwen.ai"
     },
     {
-      "id": 47040524,
-      "title": "Rise of the Triforce",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "score": 10,
-      "by": "max-m",
-      "time": 1771277044,
-      "comments": 1,
-      "domain": "dolphin-emu.org"
+      "id": 47040781,
+      "title": "10 years building vertical software: are we cooked?",
+      "url": "https://twitter.com/nicbstme/status/2023501562480644501",
+      "score": 25,
+      "by": "nbstme",
+      "time": 1771278480,
+      "comments": 25,
+      "domain": "twitter.com"
     },
     {
       "id": 47038270,
@@ -228,8 +228,18 @@
       "score": 34,
       "by": "knackers",
       "time": 1771265956,
-      "comments": 8,
+      "comments": 9,
       "domain": "blog.chrislewis.au"
+    },
+    {
+      "id": 47011548,
+      "title": "Ghidra by NSA",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "score": 297,
+      "by": "handfuloflight",
+      "time": 1771043058,
+      "comments": 166,
+      "domain": "github.com"
     },
     {
       "id": 47013556,
@@ -242,14 +252,14 @@
       "domain": "eejournal.com"
     },
     {
-      "id": 47011548,
-      "title": "Ghidra by NSA",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "score": 296,
-      "by": "handfuloflight",
-      "time": 1771043058,
-      "comments": 165,
-      "domain": "github.com"
+      "id": 47038125,
+      "title": "Privilege is bad grammar",
+      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+      "score": 171,
+      "by": "surprisetalk",
+      "time": 1771265132,
+      "comments": 168,
+      "domain": "tadaima.bearblog.dev"
     },
     {
       "id": 47037568,
@@ -262,26 +272,6 @@
       "domain": "golfcoursewiki.substack.com"
     },
     {
-      "id": 47038125,
-      "title": "Privilege is bad grammar",
-      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-      "score": 165,
-      "by": "surprisetalk",
-      "time": 1771265132,
-      "comments": 162,
-      "domain": "tadaima.bearblog.dev"
-    },
-    {
-      "id": 47036921,
-      "title": "History of AT&T Long Lines",
-      "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-      "score": 59,
-      "by": "p_ing",
-      "time": 1771258944,
-      "comments": 35,
-      "domain": "telephoneworld.org"
-    },
-    {
       "id": 47037313,
       "title": "How to take a photo with scotch tape (lensless imaging) [video]",
       "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
@@ -290,6 +280,16 @@
       "time": 1771260902,
       "comments": 4,
       "domain": "youtube.com"
+    },
+    {
+      "id": 47037501,
+      "title": "WebMCP Proposal",
+      "url": "https://webmachinelearning.github.io/webmcp/",
+      "score": 126,
+      "by": "Alifatisk",
+      "time": 1771261700,
+      "comments": 66,
+      "domain": "webmachinelearning.github.io"
     }
   ]
 }
