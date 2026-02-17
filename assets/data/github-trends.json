@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-16T23:45:46.491Z",
+  "lastUpdated": "2026-02-17T00:01:12.174Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 7027,
+      "stars": 7058,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-16T23:45:34Z"
+      "updated_at": "2026-02-17T00:00:46Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 2300,
+      "stars": 2313,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-16T23:43:45Z"
+      "updated_at": "2026-02-17T00:01:08Z"
     },
     {
       "id": 1155639743,
@@ -39,19 +39,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/133499694?v=4"
       },
       "updated_at": "2026-02-16T23:05:11Z"
-    },
-    {
-      "id": 1154626321,
-      "name": "promptpirate-x/discord-id-bypass-tool",
-      "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
-      "stars": 1164,
-      "language": "HTML",
-      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
-      "owner": {
-        "login": "promptpirate-x",
-        "avatar_url": "https://avatars.githubusercontent.com/u/214351522?v=4"
-      },
-      "updated_at": "2026-02-16T23:21:00Z"
     },
     {
       "id": 1155791602,
@@ -109,14 +96,14 @@
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 675,
+      "stars": 685,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-16T23:43:39Z"
+      "updated_at": "2026-02-17T00:01:05Z"
     },
     {
       "id": 1156437015,
@@ -145,19 +132,6 @@
       "updated_at": "2026-02-16T23:41:17Z"
     },
     {
-      "id": 1154042797,
-      "name": "aeromomo/claw-compactor",
-      "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.",
-      "stars": 624,
-      "language": "Python",
-      "url": "https://github.com/aeromomo/claw-compactor",
-      "owner": {
-        "login": "aeromomo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7247541?v=4"
-      },
-      "updated_at": "2026-02-16T23:12:46Z"
-    },
-    {
       "id": 1156162551,
       "name": "freestylefly/openclaw-wechat",
       "description": "让 OpenClaw稳定的连上你的个人微信",
@@ -174,14 +148,27 @@
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 461,
+      "stars": 464,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-16T23:44:54Z"
+      "updated_at": "2026-02-17T00:01:08Z"
+    },
+    {
+      "id": 1156317000,
+      "name": "MooseGoose0701/skill-compose",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "stars": 452,
+      "language": "Python",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "owner": {
+        "login": "MooseGoose0701",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
+      },
+      "updated_at": "2026-02-16T23:56:48Z"
     },
     {
       "id": 1155091202,
@@ -197,43 +184,17 @@
       "updated_at": "2026-02-16T17:36:26Z"
     },
     {
-      "id": 1156317000,
-      "name": "MooseGoose0701/skill-compose",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 450,
-      "language": "Python",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "owner": {
-        "login": "MooseGoose0701",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
-      },
-      "updated_at": "2026-02-16T23:45:35Z"
-    },
-    {
-      "id": 1154178809,
-      "name": "rebornix/Agmente",
-      "description": "iOS client for coding agents via ACP",
-      "stars": 414,
-      "language": "Swift",
-      "url": "https://github.com/rebornix/Agmente",
-      "owner": {
-        "login": "rebornix",
-        "avatar_url": "https://avatars.githubusercontent.com/u/876920?v=4"
-      },
-      "updated_at": "2026-02-16T23:09:54Z"
-    },
-    {
       "id": 1155232855,
       "name": "FireRedTeam/FireRed-Image-Edit",
       "description": null,
-      "stars": 377,
+      "stars": 378,
       "language": "Python",
       "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
       "owner": {
         "login": "FireRedTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/178460259?v=4"
       },
-      "updated_at": "2026-02-16T21:55:53Z"
+      "updated_at": "2026-02-16T23:57:08Z"
     },
     {
       "id": 1156021248,
@@ -249,17 +210,56 @@
       "updated_at": "2026-02-16T23:07:56Z"
     },
     {
-      "id": 1154147877,
-      "name": "digitalknk/openclaw-runbook",
-      "description": null,
-      "stars": 335,
-      "language": null,
-      "url": "https://github.com/digitalknk/openclaw-runbook",
+      "id": 1156359631,
+      "name": "antirez/qwen-asr",
+      "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models",
+      "stars": 332,
+      "language": "C",
+      "url": "https://github.com/antirez/qwen-asr",
       "owner": {
-        "login": "digitalknk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/713?v=4"
+        "login": "antirez",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
-      "updated_at": "2026-02-16T23:07:36Z"
+      "updated_at": "2026-02-16T22:48:31Z"
+    },
+    {
+      "id": 1157128270,
+      "name": "andyhuo520/openclaw-assistant-mvp",
+      "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+      "stars": 329,
+      "language": "JavaScript",
+      "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+      "owner": {
+        "login": "andyhuo520",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+      },
+      "updated_at": "2026-02-16T22:09:59Z"
+    },
+    {
+      "id": 1157073757,
+      "name": "Mathews-Tom/no-magic",
+      "description": "Because `model.fit()` isn't an explanation",
+      "stars": 324,
+      "language": "Python",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "owner": {
+        "login": "Mathews-Tom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9562152?v=4"
+      },
+      "updated_at": "2026-02-16T23:58:27Z"
+    },
+    {
+      "id": 1158269547,
+      "name": "klawsh/klaw.sh",
+      "description": "kubectl for AI Agents",
+      "stars": 318,
+      "language": "Go",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "owner": {
+        "login": "klawsh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
+      },
+      "updated_at": "2026-02-16T23:56:29Z"
     }
   ]
 }
