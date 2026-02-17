@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-17T11:28:23.234Z",
+  "lastUpdated": "2026-02-17T12:00:03.165Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 8565,
+      "stars": 8646,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-17T11:28:05Z"
+      "updated_at": "2026-02-17T11:59:56Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 2700,
+      "stars": 2731,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-17T11:27:45Z"
+      "updated_at": "2026-02-17T11:59:57Z"
     },
     {
       "id": 1155639743,
@@ -44,40 +44,40 @@
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 1051,
+      "stars": 1077,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-17T11:27:55Z"
+      "updated_at": "2026-02-17T11:58:36Z"
     },
     {
       "id": 1155791602,
       "name": "RevylAI/greenlight",
       "description": "Pre-submission compliance scanner for the Apple App Store",
-      "stars": 1033,
+      "stars": 1035,
       "language": "Go",
       "url": "https://github.com/RevylAI/greenlight",
       "owner": {
         "login": "RevylAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/137441477?v=4"
       },
-      "updated_at": "2026-02-17T10:22:40Z"
+      "updated_at": "2026-02-17T11:37:57Z"
     },
     {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 830,
+      "stars": 831,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-17T10:49:47Z"
+      "updated_at": "2026-02-17T11:32:50Z"
     },
     {
       "id": 1156879010,
@@ -106,6 +106,19 @@
       "updated_at": "2026-02-17T10:48:09Z"
     },
     {
+      "id": 1158537997,
+      "name": "vercel-labs/portless",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "stars": 666,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/portless",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+      },
+      "updated_at": "2026-02-17T11:59:58Z"
+    },
+    {
       "id": 1155249807,
       "name": "QDenka/awesome-software-design",
       "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
@@ -119,30 +132,17 @@
       "updated_at": "2026-02-17T11:22:59Z"
     },
     {
-      "id": 1158537997,
-      "name": "vercel-labs/portless",
-      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 655,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/portless",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "updated_at": "2026-02-17T11:27:51Z"
-    },
-    {
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 644,
+      "stars": 645,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-17T10:53:38Z"
+      "updated_at": "2026-02-17T11:54:19Z"
     },
     {
       "id": 1156162551,
@@ -161,79 +161,79 @@
       "id": 1156317000,
       "name": "MooseGoose0701/skill-compose",
       "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 509,
+      "stars": 515,
       "language": "Python",
       "url": "https://github.com/MooseGoose0701/skill-compose",
       "owner": {
         "login": "MooseGoose0701",
         "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
       },
-      "updated_at": "2026-02-17T11:22:15Z"
+      "updated_at": "2026-02-17T11:59:52Z"
     },
     {
       "id": 1155091202,
       "name": "KimYx0207/Claude-Code-Guide-Zh",
       "description": "老金版ClaudeCode初学者教程",
-      "stars": 464,
+      "stars": 465,
       "language": null,
       "url": "https://github.com/KimYx0207/Claude-Code-Guide-Zh",
       "owner": {
         "login": "KimYx0207",
         "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4"
       },
-      "updated_at": "2026-02-17T11:16:29Z"
+      "updated_at": "2026-02-17T11:45:53Z"
     },
     {
       "id": 1155232855,
       "name": "FireRedTeam/FireRed-Image-Edit",
       "description": null,
-      "stars": 386,
+      "stars": 387,
       "language": "Python",
       "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
       "owner": {
         "login": "FireRedTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/178460259?v=4"
       },
-      "updated_at": "2026-02-17T09:10:50Z"
+      "updated_at": "2026-02-17T11:49:06Z"
     },
     {
       "id": 1157073757,
       "name": "Mathews-Tom/no-magic",
       "description": "Because `model.fit()` isn't an explanation",
-      "stars": 381,
+      "stars": 384,
       "language": "Python",
       "url": "https://github.com/Mathews-Tom/no-magic",
       "owner": {
         "login": "Mathews-Tom",
         "avatar_url": "https://avatars.githubusercontent.com/u/9562152?v=4"
       },
-      "updated_at": "2026-02-17T11:20:42Z"
-    },
-    {
-      "id": 1158269547,
-      "name": "klawsh/klaw.sh",
-      "description": "kubectl for AI Agents",
-      "stars": 370,
-      "language": "Go",
-      "url": "https://github.com/klawsh/klaw.sh",
-      "owner": {
-        "login": "klawsh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
-      },
-      "updated_at": "2026-02-17T11:23:25Z"
+      "updated_at": "2026-02-17T11:52:50Z"
     },
     {
       "id": 1158734451,
       "name": "zachlatta/freeflow",
       "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 367,
+      "stars": 383,
       "language": "Swift",
       "url": "https://github.com/zachlatta/freeflow",
       "owner": {
         "login": "zachlatta",
         "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
       },
-      "updated_at": "2026-02-17T11:26:29Z"
+      "updated_at": "2026-02-17T11:59:52Z"
+    },
+    {
+      "id": 1158269547,
+      "name": "klawsh/klaw.sh",
+      "description": "kubectl for AI Agents",
+      "stars": 373,
+      "language": "Go",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "owner": {
+        "login": "klawsh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
+      },
+      "updated_at": "2026-02-17T11:58:00Z"
     },
     {
       "id": 1156021248,
@@ -252,14 +252,14 @@
       "id": 1157128270,
       "name": "andyhuo520/openclaw-assistant-mvp",
       "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
-      "stars": 343,
+      "stars": 346,
       "language": "JavaScript",
       "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-17T08:25:38Z"
+      "updated_at": "2026-02-17T11:43:10Z"
     }
   ]
 }
