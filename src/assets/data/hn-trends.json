@@ -1,244 +1,254 @@
 {
-  "lastUpdated": "2026-02-17T22:35:06.252Z",
+  "lastUpdated": "2026-02-17T23:00:27.027Z",
   "items": [
     {
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 692,
+      "score": 718,
       "by": "adocomplete",
       "time": 1771350532,
-      "comments": 569,
+      "comments": 598,
       "domain": "anthropic.com"
     },
     {
       "id": 47051852,
       "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
       "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 189,
+      "score": 206,
       "by": "moWerk",
       "time": 1771356295,
-      "comments": 22,
+      "comments": 26,
       "domain": "asteroidos.org"
+    },
+    {
+      "id": 47052941,
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 56,
+      "by": "rurban",
+      "time": 1771360518,
+      "comments": 12,
+      "domain": "github.com"
     },
     {
       "id": 47050067,
       "title": "Gentoo on Codeberg",
       "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "score": 199,
+      "score": 208,
       "by": "todsacerdoti",
       "time": 1771348864,
-      "comments": 50,
+      "comments": 53,
       "domain": "gentoo.org"
     },
     {
       "id": 47049479,
       "title": "Using go fix to modernize Go code",
       "url": "https://go.dev/blog/gofix",
-      "score": 228,
+      "score": 239,
       "by": "todsacerdoti",
       "time": 1771346555,
-      "comments": 45,
+      "comments": 47,
       "domain": "go.dev"
-    },
-    {
-      "id": 47023273,
-      "title": "After 800 episodes, 'The Simpsons' creators look back – and ahead",
-      "url": "https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a",
-      "score": 14,
-      "by": "1659447091",
-      "time": 1771159762,
-      "comments": 0,
-      "domain": "apnews.com"
-    },
-    {
-      "id": 47052941,
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "url": "https://github.com/Zaneham/BarraCUDA",
-      "score": 24,
-      "by": "rurban",
-      "time": 1771360518,
-      "comments": 6,
-      "domain": "github.com"
     },
     {
       "id": 47007117,
       "title": "Physicists Make Electrons Flow Like Water",
       "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
-      "score": 61,
+      "score": 65,
       "by": "rbanffy",
       "time": 1771013127,
-      "comments": 5,
+      "comments": 6,
       "domain": "quantamagazine.org"
-    },
-    {
-      "id": 47052579,
-      "title": "Property taxes going up? The 340B Program might be partly responsible",
-      "url": "https://www.pricepoints.health/cp/188296406",
-      "score": 36,
-      "by": "larsiusprime",
-      "time": 1771358960,
-      "comments": 23,
-      "domain": "pricepoints.health"
     },
     {
       "id": 47049718,
       "title": "So you want to build a tunnel",
       "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
-      "score": 125,
+      "score": 130,
       "by": "crescit_eundo",
       "time": 1771347574,
-      "comments": 46,
+      "comments": 50,
       "domain": "practical.engineering"
-    },
-    {
-      "id": 47002926,
-      "title": "Assistant to the Regional Manager",
-      "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
-      "score": 27,
-      "by": "NaOH",
-      "time": 1770991902,
-      "comments": 1,
-      "domain": "smallpotatoes.paulbloom.net"
-    },
-    {
-      "id": 47051546,
-      "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans",
-      "url": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
-      "score": 326,
-      "by": "Bender",
-      "time": 1771354964,
-      "comments": 179,
-      "domain": "electrek.co"
     },
     {
       "id": 47049628,
       "title": "Async/Await on the GPU",
       "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-      "score": 125,
+      "score": 132,
       "by": "Philpax",
       "time": 1771347185,
-      "comments": 35,
+      "comments": 38,
       "domain": "vectorware.com"
     },
     {
-      "id": 47048733,
-      "title": "Show HN: I wrote a technical history book on Lisp",
-      "url": "https://berksoft.ca/gol/",
-      "score": 125,
-      "by": "cdegroot",
-      "time": 1771343019,
-      "comments": 30,
-      "domain": "berksoft.ca"
+      "id": 47052579,
+      "title": "Property taxes going up? The 340B Program might be partly responsible",
+      "url": "https://www.pricepoints.health/cp/188296406",
+      "score": 39,
+      "by": "larsiusprime",
+      "time": 1771358960,
+      "comments": 33,
+      "domain": "pricepoints.health"
+    },
+    {
+      "id": 47002926,
+      "title": "Assistant to the Regional Manager",
+      "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
+      "score": 31,
+      "by": "NaOH",
+      "time": 1770991902,
+      "comments": 4,
+      "domain": "smallpotatoes.paulbloom.net"
     },
     {
       "id": 47050872,
       "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
       "url": "https://github.com/n-e/pg-typesafe",
-      "score": 16,
+      "score": 21,
       "by": "n_e",
       "time": 1771352136,
-      "comments": 1,
+      "comments": 3,
       "domain": "github.com"
     },
     {
       "id": 47045612,
       "title": "GrapheneOS – Break Free from Google and Apple",
       "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 991,
+      "score": 1007,
       "by": "to3k",
       "time": 1771322556,
-      "comments": 728,
+      "comments": 731,
       "domain": "blog.tomaszdunia.pl"
     },
     {
-      "id": 47048004,
-      "title": "I converted 2D conventional flight tracking into 3D",
-      "url": "https://aeris.edbn.me/?city=SFO",
-      "score": 190,
-      "by": "kewonit",
-      "time": 1771339394,
-      "comments": 41,
-      "domain": "aeris.edbn.me"
-    },
-    {
-      "id": 47052674,
-      "title": "Show HN: I'm launching a LPFM radio station",
-      "url": "https://www.kpbj.fm/",
-      "score": 37,
-      "by": "solomonb",
-      "time": 1771359357,
-      "comments": 25,
-      "domain": "kpbj.fm"
+      "id": 47048733,
+      "title": "Show HN: I wrote a technical history book on Lisp",
+      "url": "https://berksoft.ca/gol/",
+      "score": 133,
+      "by": "cdegroot",
+      "time": 1771343019,
+      "comments": 32,
+      "domain": "berksoft.ca"
     },
     {
       "id": 47053912,
-      "title": "America's Future Leaders Are Learning to Become Grifters",
+      "title": "Claims of disability are highest at elite universities",
       "url": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-      "score": 24,
+      "score": 40,
       "by": "paulpauper",
       "time": 1771365023,
-      "comments": 6,
+      "comments": 26,
       "domain": "robkhenderson.com"
     },
     {
-      "id": 47045804,
-      "title": "Is Show HN dead? No, but it's drowning",
-      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "score": 363,
-      "by": "acnops",
-      "time": 1771324154,
-      "comments": 312,
-      "domain": "arthurcnops.blog"
+      "id": 47054464,
+      "title": "pg_background: Make Postgres do the long work (while your session stays light)",
+      "url": "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/",
+      "score": 3,
+      "by": "tanelpoder",
+      "time": 1771368011,
+      "comments": 0,
+      "domain": "vibhorkumar.wordpress.com"
     },
     {
       "id": 47049573,
       "title": "HackMyClaw",
       "url": "https://hackmyclaw.com/",
-      "score": 214,
+      "score": 222,
       "by": "hentrep",
       "time": 1771346923,
       "comments": 117,
       "domain": "hackmyclaw.com"
     },
     {
+      "id": 47048004,
+      "title": "I converted 2D conventional flight tracking into 3D",
+      "url": "https://aeris.edbn.me/?city=SFO",
+      "score": 194,
+      "by": "kewonit",
+      "time": 1771339394,
+      "comments": 41,
+      "domain": "aeris.edbn.me"
+    },
+    {
+      "id": 47045804,
+      "title": "Is Show HN dead? No, but it's drowning",
+      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+      "score": 365,
+      "by": "acnops",
+      "time": 1771324154,
+      "comments": 313,
+      "domain": "arthurcnops.blog"
+    },
+    {
+      "id": 47023273,
+      "title": "After 800 episodes, 'The Simpsons' creators look back and ahead",
+      "url": "https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a",
+      "score": 19,
+      "by": "1659447091",
+      "time": 1771159762,
+      "comments": 11,
+      "domain": "apnews.com"
+    },
+    {
+      "id": 47052674,
+      "title": "Show HN: I'm launching a LPFM radio station",
+      "url": "https://www.kpbj.fm/",
+      "score": 40,
+      "by": "solomonb",
+      "time": 1771359357,
+      "comments": 27,
+      "domain": "kpbj.fm"
+    },
+    {
+      "id": 47054134,
+      "title": "I swear the UFO is coming any minute",
+      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "score": 6,
+      "by": "Ariarule",
+      "time": 1771366222,
+      "comments": 0,
+      "domain": "experimental-history.com"
+    },
+    {
       "id": 47030509,
       "title": "Contra \"Grandmaster-level chess without search\" (2024)",
       "url": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
-      "score": 15,
+      "score": 18,
       "by": "luu",
       "time": 1771212151,
       "comments": 0,
       "domain": "cosmo.tardis.ac"
     },
     {
-      "id": 47049227,
-      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "url": "https://mage-bench.com/",
-      "score": 78,
-      "by": "GregorStocks",
-      "time": 1771345369,
-      "comments": 59,
-      "domain": "mage-bench.com"
-    },
-    {
       "id": 47050376,
       "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
       "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "score": 149,
+      "score": 164,
       "by": "thunderbong",
       "time": 1771350050,
-      "comments": 61,
+      "comments": 65,
       "domain": "kotaku.com"
+    },
+    {
+      "id": 47047301,
+      "title": "Show HN: I built the Million Dollar Homepage for agents",
+      "url": "https://onemillionpixels.ai/",
+      "score": 3,
+      "by": "talboren",
+      "time": 1771335105,
+      "comments": 2,
+      "domain": "onemillionpixels.ai"
     },
     {
       "id": 47050227,
       "title": "Climbing Mount Fuji visualized through milestone stamps",
       "url": "https://fuji.halfof8.com/",
-      "score": 41,
+      "score": 42,
       "by": "gessha",
       "time": 1771349389,
-      "comments": 6,
+      "comments": 7,
       "domain": "fuji.halfof8.com"
     },
     {
@@ -248,7 +258,7 @@
       "score": 46,
       "by": "jstrieb",
       "time": 1771115545,
-      "comments": 27,
+      "comments": 31,
       "domain": "00f.net"
     },
     {
@@ -258,38 +268,18 @@
       "score": 22,
       "by": "Dimittri",
       "time": 1771347789,
-      "comments": 2,
+      "comments": 3,
       "domain": "sonarly.com"
     },
     {
-      "id": 47049845,
-      "title": "Chess engines do weird stuff",
-      "url": "https://girl.surgery/chess",
-      "score": 125,
-      "by": "admiringly",
-      "time": 1771348079,
-      "comments": 59,
-      "domain": "girl.surgery"
-    },
-    {
-      "id": 47053410,
-      "title": "Approaches to writing two-sentence journal entries",
-      "url": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
-      "score": 3,
-      "by": "fi-le",
-      "time": 1771362688,
-      "comments": 0,
-      "domain": "alexanderbjoy.com"
-    },
-    {
-      "id": 47049743,
-      "title": "Show HN: 6cy – Experimental streaming archive format with per-block codecs",
-      "url": "https://github.com/byte271/6cy",
-      "score": 25,
-      "by": "yihac1",
-      "time": 1771347668,
-      "comments": 8,
-      "domain": "github.com"
+      "id": 47049227,
+      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+      "url": "https://mage-bench.com/",
+      "score": 81,
+      "by": "GregorStocks",
+      "time": 1771345369,
+      "comments": 62,
+      "domain": "mage-bench.com"
     }
   ]
 }
