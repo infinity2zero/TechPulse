@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-02-18T11:59:20.176Z",
+  "lastUpdated": "2026-02-18T13:08:53.414Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 11747,
+      "stars": 11934,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-18T11:59:01Z"
+      "updated_at": "2026-02-18T13:07:22Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3569,
+      "stars": 3574,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-18T11:50:47Z"
+      "updated_at": "2026-02-18T12:57:18Z"
     },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 1872,
+      "stars": 1949,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-18T11:59:08Z"
+      "updated_at": "2026-02-18T13:07:22Z"
     },
     {
       "id": 1156960719,
       "name": "millionco/react-doctor",
       "description": "Let coding agents diagnose and fix your React code",
-      "stars": 1277,
+      "stars": 1357,
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor",
       "owner": {
         "login": "millionco",
         "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
       },
-      "updated_at": "2026-02-18T11:57:23Z"
+      "updated_at": "2026-02-18T13:08:22Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 983,
+      "stars": 990,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-18T11:37:07Z"
+      "updated_at": "2026-02-18T13:06:53Z"
     },
     {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 887,
+      "stars": 888,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-18T11:22:55Z"
+      "updated_at": "2026-02-18T12:28:02Z"
     },
     {
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "stars": 819,
+      "stars": 820,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-18T11:56:22Z"
+      "updated_at": "2026-02-18T12:40:37Z"
     },
     {
       "id": 1157721932,
       "name": "vigorX777/ai-daily-digest",
       "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 755,
+      "stars": 757,
       "language": "TypeScript",
       "url": "https://github.com/vigorX777/ai-daily-digest",
       "owner": {
         "login": "vigorX777",
         "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
       },
-      "updated_at": "2026-02-18T11:19:31Z"
+      "updated_at": "2026-02-18T13:07:47Z"
     },
     {
       "id": 1156437015,
       "name": "devops-interviews/devops-interviews",
       "description": "DevOps Interview Questions",
-      "stars": 703,
+      "stars": 704,
       "language": null,
       "url": "https://github.com/devops-interviews/devops-interviews",
       "owner": {
         "login": "devops-interviews",
         "avatar_url": "https://avatars.githubusercontent.com/u/261252522?v=4"
       },
-      "updated_at": "2026-02-18T11:57:47Z"
-    },
-    {
-      "id": 1156317000,
-      "name": "MooseGoose0701/skill-compose",
-      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 673,
-      "language": "Python",
-      "url": "https://github.com/MooseGoose0701/skill-compose",
-      "owner": {
-        "login": "MooseGoose0701",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
-      },
-      "updated_at": "2026-02-18T11:03:15Z"
+      "updated_at": "2026-02-18T12:15:14Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 665,
+      "stars": 690,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-18T11:53:57Z"
-    },
-    {
-      "id": 1156162551,
-      "name": "freestylefly/openclaw-wechat",
-      "description": "让 OpenClaw稳定的连上你的个人微信",
-      "stars": 658,
-      "language": "TypeScript",
-      "url": "https://github.com/freestylefly/openclaw-wechat",
-      "owner": {
-        "login": "freestylefly",
-        "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
-      },
-      "updated_at": "2026-02-18T11:48:44Z"
+      "updated_at": "2026-02-18T13:08:45Z"
     },
     {
       "id": 1158123451,
       "name": "Conway-Research/automaton",
       "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "stars": 653,
+      "stars": 688,
       "language": "TypeScript",
       "url": "https://github.com/Conway-Research/automaton",
       "owner": {
         "login": "Conway-Research",
         "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
       },
-      "updated_at": "2026-02-18T11:58:18Z"
+      "updated_at": "2026-02-18T13:02:58Z"
+    },
+    {
+      "id": 1156317000,
+      "name": "MooseGoose0701/skill-compose",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "stars": 677,
+      "language": "Python",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "owner": {
+        "login": "MooseGoose0701",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
+      },
+      "updated_at": "2026-02-18T12:53:20Z"
+    },
+    {
+      "id": 1156162551,
+      "name": "freestylefly/openclaw-wechat",
+      "description": "让 OpenClaw稳定的连上你的个人微信",
+      "stars": 659,
+      "language": "TypeScript",
+      "url": "https://github.com/freestylefly/openclaw-wechat",
+      "owner": {
+        "login": "freestylefly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+      },
+      "updated_at": "2026-02-18T12:28:52Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "94 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 610,
+      "stars": 631,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-18T11:58:48Z"
+      "updated_at": "2026-02-18T13:08:37Z"
     },
     {
       "id": 1158734451,
       "name": "zachlatta/freeflow",
       "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 598,
+      "stars": 602,
       "language": "Swift",
       "url": "https://github.com/zachlatta/freeflow",
       "owner": {
         "login": "zachlatta",
         "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
       },
-      "updated_at": "2026-02-18T11:47:49Z"
+      "updated_at": "2026-02-18T12:39:38Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
-      "stars": 506,
+      "stars": 564,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-18T11:58:29Z"
+      "updated_at": "2026-02-18T13:08:09Z"
     },
     {
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": null,
-      "stars": 468,
+      "stars": 490,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-18T11:57:27Z"
-    },
-    {
-      "id": 1157073757,
-      "name": "Mathews-Tom/no-magic",
-      "description": "Because `model.fit()` isn't an explanation",
-      "stars": 446,
-      "language": "Python",
-      "url": "https://github.com/Mathews-Tom/no-magic",
-      "owner": {
-        "login": "Mathews-Tom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9562152?v=4"
-      },
-      "updated_at": "2026-02-18T10:06:27Z"
+      "updated_at": "2026-02-18T13:06:33Z"
     },
     {
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 445,
+      "stars": 449,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-18T11:24:28Z"
+      "updated_at": "2026-02-18T13:04:35Z"
+    },
+    {
+      "id": 1157073757,
+      "name": "Mathews-Tom/no-magic",
+      "description": "Because `model.fit()` isn't an explanation",
+      "stars": 448,
+      "language": "Python",
+      "url": "https://github.com/Mathews-Tom/no-magic",
+      "owner": {
+        "login": "Mathews-Tom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9562152?v=4"
+      },
+      "updated_at": "2026-02-18T12:47:55Z"
     },
     {
       "id": 1158678506,
       "name": "davidhariri/life-system",
       "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
-      "stars": 409,
+      "stars": 419,
       "language": "Shell",
       "url": "https://github.com/davidhariri/life-system",
       "owner": {
         "login": "davidhariri",
         "avatar_url": "https://avatars.githubusercontent.com/u/5245670?v=4"
       },
-      "updated_at": "2026-02-18T11:34:12Z"
+      "updated_at": "2026-02-18T13:08:40Z"
     }
   ]
 }
