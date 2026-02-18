@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-18T21:42:10.777Z",
+  "lastUpdated": "2026-02-18T22:04:20.661Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 13034,
+      "stars": 13072,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-18T21:41:29Z"
+      "updated_at": "2026-02-18T22:03:59Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3611,
+      "stars": 3612,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-18T20:55:24Z"
+      "updated_at": "2026-02-18T21:43:35Z"
     },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 2488,
+      "stars": 2501,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-18T21:40:34Z"
+      "updated_at": "2026-02-18T22:01:38Z"
     },
     {
       "id": 1156960719,
       "name": "millionco/react-doctor",
       "description": "Let coding agents diagnose and fix your React code",
-      "stars": 1854,
+      "stars": 1879,
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor",
       "owner": {
         "login": "millionco",
         "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
       },
-      "updated_at": "2026-02-18T21:41:39Z"
+      "updated_at": "2026-02-18T22:04:03Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1093,
+      "stars": 1096,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-18T21:34:25Z"
+      "updated_at": "2026-02-18T21:54:45Z"
     },
     {
       "id": 1158123451,
       "name": "Conway-Research/automaton",
       "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "stars": 949,
+      "stars": 953,
       "language": "TypeScript",
       "url": "https://github.com/Conway-Research/automaton",
       "owner": {
         "login": "Conway-Research",
         "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
       },
-      "updated_at": "2026-02-18T21:35:47Z"
+      "updated_at": "2026-02-18T22:01:42Z"
     },
     {
       "id": 1157577714,
@@ -109,14 +109,14 @@
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
-      "stars": 808,
+      "stars": 816,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-18T21:40:10Z"
+      "updated_at": "2026-02-18T22:04:06Z"
     },
     {
       "id": 1159484260,
@@ -148,14 +148,14 @@
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "94 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 742,
+      "stars": 747,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-18T21:41:06Z"
+      "updated_at": "2026-02-18T22:03:13Z"
     },
     {
       "id": 1156437015,
@@ -210,56 +210,56 @@
       "updated_at": "2026-02-18T20:51:41Z"
     },
     {
-      "id": 1158432527,
-      "name": "pinchtab/pinchtab",
-      "description": null,
-      "stars": 603,
-      "language": "Go",
-      "url": "https://github.com/pinchtab/pinchtab",
-      "owner": {
-        "login": "pinchtab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
-      },
-      "updated_at": "2026-02-18T21:32:48Z"
-    },
-    {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 602,
+      "stars": 611,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-18T21:40:16Z"
+      "updated_at": "2026-02-18T22:00:49Z"
+    },
+    {
+      "id": 1158432527,
+      "name": "pinchtab/pinchtab",
+      "description": null,
+      "stars": 605,
+      "language": "Go",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "owner": {
+        "login": "pinchtab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
+      },
+      "updated_at": "2026-02-18T21:48:19Z"
     },
     {
       "id": 1159483541,
       "name": "DataExpert-io/ai-engineer-handbook",
       "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
-      "stars": 478,
+      "stars": 481,
       "language": null,
       "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
       "owner": {
         "login": "DataExpert-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/147096519?v=4"
       },
-      "updated_at": "2026-02-18T21:41:20Z"
+      "updated_at": "2026-02-18T21:51:28Z"
     },
     {
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 461,
+      "stars": 462,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-18T20:49:58Z"
+      "updated_at": "2026-02-18T21:54:56Z"
     }
   ]
 }
