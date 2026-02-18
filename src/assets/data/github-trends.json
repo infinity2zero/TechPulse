@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-02-18T04:11:56.042Z",
+  "lastUpdated": "2026-02-18T05:39:10.283Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 10723,
+      "stars": 10878,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-18T04:11:23Z"
+      "updated_at": "2026-02-18T05:38:33Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3382,
+      "stars": 3423,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-18T04:11:26Z"
+      "updated_at": "2026-02-18T05:38:12Z"
     },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 1673,
+      "stars": 1698,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-18T04:11:09Z"
+      "updated_at": "2026-02-18T05:35:14Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 941,
+      "stars": 954,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-18T04:11:07Z"
-    },
-    {
-      "id": 1157577714,
-      "name": "mickamy/sql-tap",
-      "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 877,
-      "language": "Go",
-      "url": "https://github.com/mickamy/sql-tap",
-      "owner": {
-        "login": "mickamy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
-      },
-      "updated_at": "2026-02-18T03:24:50Z"
+      "updated_at": "2026-02-18T05:39:07Z"
     },
     {
       "id": 1156960719,
       "name": "millionco/react-doctor",
       "description": "Let coding agents diagnose and fix your React code",
-      "stars": 842,
+      "stars": 913,
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor",
       "owner": {
         "login": "millionco",
         "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
       },
-      "updated_at": "2026-02-18T04:10:02Z"
+      "updated_at": "2026-02-18T05:39:08Z"
+    },
+    {
+      "id": 1157577714,
+      "name": "mickamy/sql-tap",
+      "description": "Watch SQL traffic in real-time with a TUI",
+      "stars": 880,
+      "language": "Go",
+      "url": "https://github.com/mickamy/sql-tap",
+      "owner": {
+        "login": "mickamy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
+      },
+      "updated_at": "2026-02-18T05:16:55Z"
     },
     {
       "id": 1156879010,
       "name": "HKUDS/FastCode",
       "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "stars": 795,
+      "stars": 798,
       "language": "Python",
       "url": "https://github.com/HKUDS/FastCode",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-18T04:10:53Z"
+      "updated_at": "2026-02-18T04:55:14Z"
     },
     {
       "id": 1157721932,
       "name": "vigorX777/ai-daily-digest",
       "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 741,
+      "stars": 742,
       "language": "TypeScript",
       "url": "https://github.com/vigorX777/ai-daily-digest",
       "owner": {
         "login": "vigorX777",
         "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
       },
-      "updated_at": "2026-02-18T04:01:28Z"
+      "updated_at": "2026-02-18T05:27:31Z"
     },
     {
       "id": 1156437015,
@@ -135,53 +135,53 @@
       "id": 1156317000,
       "name": "MooseGoose0701/skill-compose",
       "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
-      "stars": 632,
+      "stars": 642,
       "language": "Python",
       "url": "https://github.com/MooseGoose0701/skill-compose",
       "owner": {
         "login": "MooseGoose0701",
         "avatar_url": "https://avatars.githubusercontent.com/u/259146465?v=4"
       },
-      "updated_at": "2026-02-18T04:02:57Z"
-    },
-    {
-      "id": 1158734451,
-      "name": "zachlatta/freeflow",
-      "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 555,
-      "language": "Swift",
-      "url": "https://github.com/zachlatta/freeflow",
-      "owner": {
-        "login": "zachlatta",
-        "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
-      },
-      "updated_at": "2026-02-18T04:05:29Z"
+      "updated_at": "2026-02-18T05:35:22Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 549,
+      "stars": 565,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-18T04:10:19Z"
+      "updated_at": "2026-02-18T05:35:39Z"
+    },
+    {
+      "id": 1158734451,
+      "name": "zachlatta/freeflow",
+      "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "stars": 564,
+      "language": "Swift",
+      "url": "https://github.com/zachlatta/freeflow",
+      "owner": {
+        "login": "zachlatta",
+        "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
+      },
+      "updated_at": "2026-02-18T05:21:27Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "94 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 461,
+      "stars": 480,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-18T04:03:03Z"
+      "updated_at": "2026-02-18T05:38:53Z"
     },
     {
       "id": 1157073757,
@@ -200,27 +200,40 @@
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 430,
+      "stars": 434,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-18T03:42:27Z"
+      "updated_at": "2026-02-18T04:49:33Z"
+    },
+    {
+      "id": 1158123451,
+      "name": "Conway-Research/automaton",
+      "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+      "stars": 394,
+      "language": "TypeScript",
+      "url": "https://github.com/Conway-Research/automaton",
+      "owner": {
+        "login": "Conway-Research",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
+      },
+      "updated_at": "2026-02-18T05:39:07Z"
     },
     {
       "id": 1157899809,
       "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
       "description": "🚀https://t.me/soulcrancerdev polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot",
-      "stars": 368,
+      "stars": 367,
       "language": "Rust",
       "url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot",
       "owner": {
         "login": "dev-protocol",
         "avatar_url": "https://avatars.githubusercontent.com/u/49816297?v=4"
       },
-      "updated_at": "2026-02-18T01:15:40Z"
+      "updated_at": "2026-02-18T05:13:19Z"
     },
     {
       "id": 1156021248,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
       "updated_at": "2026-02-18T02:17:01Z"
-    },
-    {
-      "id": 1156359631,
-      "name": "antirez/qwen-asr",
-      "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models",
-      "stars": 343,
-      "language": "C",
-      "url": "https://github.com/antirez/qwen-asr",
-      "owner": {
-        "login": "antirez",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65632?v=4"
-      },
-      "updated_at": "2026-02-18T00:32:13Z"
     }
   ]
 }
