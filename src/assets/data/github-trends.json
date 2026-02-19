@@ -1,96 +1,109 @@
 {
-  "lastUpdated": "2026-02-19T20:22:06.003Z",
+  "lastUpdated": "2026-02-19T20:54:10.560Z",
   "items": [
     {
       "id": 1156956890,
       "name": "zeroclaw-labs/zeroclaw",
       "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 14934,
+      "stars": 14957,
       "language": "Rust",
       "url": "https://github.com/zeroclaw-labs/zeroclaw",
       "owner": {
         "login": "zeroclaw-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
       },
-      "updated_at": "2026-02-19T20:21:23Z"
+      "updated_at": "2026-02-19T20:53:56Z"
     },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 3709,
+      "stars": 3732,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-19T20:18:17Z"
+      "updated_at": "2026-02-19T20:54:08Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3665,
+      "stars": 3668,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-19T19:52:22Z"
+      "updated_at": "2026-02-19T20:48:44Z"
     },
     {
       "id": 1156960719,
       "name": "millionco/react-doctor",
       "description": "Let coding agents diagnose and fix your React code",
-      "stars": 3082,
+      "stars": 3105,
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor",
       "owner": {
         "login": "millionco",
         "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
       },
-      "updated_at": "2026-02-19T20:21:21Z"
+      "updated_at": "2026-02-19T20:53:15Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1387,
+      "stars": 1390,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-19T20:19:59Z"
+      "updated_at": "2026-02-19T20:35:11Z"
     },
     {
       "id": 1158123451,
       "name": "Conway-Research/automaton",
       "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "stars": 1344,
+      "stars": 1352,
       "language": "TypeScript",
       "url": "https://github.com/Conway-Research/automaton",
       "owner": {
         "login": "Conway-Research",
         "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
       },
-      "updated_at": "2026-02-19T20:18:22Z"
+      "updated_at": "2026-02-19T20:47:09Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
-      "stars": 1053,
+      "stars": 1054,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-19T20:19:58Z"
+      "updated_at": "2026-02-19T20:39:29Z"
+    },
+    {
+      "id": 1158631460,
+      "name": "agenticnotetaking/arscontexta",
+      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+      "stars": 917,
+      "language": "Shell",
+      "url": "https://github.com/agenticnotetaking/arscontexta",
+      "owner": {
+        "login": "agenticnotetaking",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
+      },
+      "updated_at": "2026-02-19T20:43:17Z"
     },
     {
       "id": 1157577714,
@@ -106,43 +119,30 @@
       "updated_at": "2026-02-19T19:58:26Z"
     },
     {
-      "id": 1158631460,
-      "name": "agenticnotetaking/arscontexta",
-      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 909,
-      "language": "Shell",
-      "url": "https://github.com/agenticnotetaking/arscontexta",
-      "owner": {
-        "login": "agenticnotetaking",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
-      },
-      "updated_at": "2026-02-19T20:19:27Z"
-    },
-    {
       "id": 1157721932,
       "name": "vigorX777/ai-daily-digest",
       "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 904,
+      "stars": 906,
       "language": "TypeScript",
       "url": "https://github.com/vigorX777/ai-daily-digest",
       "owner": {
         "login": "vigorX777",
         "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
       },
-      "updated_at": "2026-02-19T19:51:34Z"
+      "updated_at": "2026-02-19T20:52:57Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 875,
+      "stars": 876,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-19T20:14:46Z"
+      "updated_at": "2026-02-19T20:51:36Z"
     },
     {
       "id": 1158588224,
@@ -174,27 +174,27 @@
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": null,
-      "stars": 840,
+      "stars": 841,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-19T20:14:09Z"
+      "updated_at": "2026-02-19T20:52:29Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 702,
+      "stars": 707,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-19T20:21:50Z"
+      "updated_at": "2026-02-19T20:53:08Z"
     },
     {
       "id": 1159483541,
@@ -213,53 +213,53 @@
       "id": 1157218614,
       "name": "SuperCmdLabs/SuperCmd",
       "description": "What Apple Intelligence should have been",
-      "stars": 671,
+      "stars": 673,
       "language": "TypeScript",
       "url": "https://github.com/SuperCmdLabs/SuperCmd",
       "owner": {
         "login": "SuperCmdLabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/168767593?v=4"
       },
-      "updated_at": "2026-02-19T19:59:41Z"
+      "updated_at": "2026-02-19T20:35:40Z"
     },
     {
       "id": 1158734451,
       "name": "zachlatta/freeflow",
       "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 667,
+      "stars": 668,
       "language": "Swift",
       "url": "https://github.com/zachlatta/freeflow",
       "owner": {
         "login": "zachlatta",
         "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
       },
-      "updated_at": "2026-02-19T19:44:16Z"
+      "updated_at": "2026-02-19T20:40:37Z"
     },
     {
       "id": 1158678506,
       "name": "davidhariri/life-system",
       "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
-      "stars": 531,
+      "stars": 533,
       "language": "Shell",
       "url": "https://github.com/davidhariri/life-system",
       "owner": {
         "login": "davidhariri",
         "avatar_url": "https://avatars.githubusercontent.com/u/5245670?v=4"
       },
-      "updated_at": "2026-02-19T20:20:54Z"
+      "updated_at": "2026-02-19T20:46:05Z"
     },
     {
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 482,
+      "stars": 483,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-19T18:51:11Z"
+      "updated_at": "2026-02-19T20:51:37Z"
     }
   ]
 }
