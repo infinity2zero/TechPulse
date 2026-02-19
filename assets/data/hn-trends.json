@@ -1,171 +1,171 @@
 {
-  "lastUpdated": "2026-02-18T23:46:33.656Z",
+  "lastUpdated": "2026-02-19T00:02:08.815Z",
   "items": [
     {
       "id": 47066552,
       "title": "Sizing chaos",
       "url": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 192,
+      "score": 203,
       "by": "zdw",
       "time": 1771449500,
-      "comments": 86,
+      "comments": 97,
       "domain": "pudding.cool"
     },
     {
       "id": 47067678,
       "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
       "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "score": 32,
+      "score": 53,
       "by": "thewavelength",
       "time": 1771456118,
-      "comments": 12,
+      "comments": 27,
       "domain": "github.com"
     },
     {
       "id": 47064490,
       "title": "Cosmologically Unique IDs",
       "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 251,
+      "score": 254,
       "by": "jfantl",
       "time": 1771439842,
-      "comments": 73,
+      "comments": 76,
       "domain": "jasonfantl.com"
     },
     {
       "id": 47066241,
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
       "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 75,
+      "score": 88,
       "by": "surprisetalk",
       "time": 1771448071,
-      "comments": 48,
+      "comments": 53,
       "domain": "old.reddit.com"
     },
     {
       "id": 47063005,
       "title": "Tailscale Peer Relays is now generally available",
       "url": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 293,
+      "score": 296,
       "by": "sz4kerto",
       "time": 1771433172,
-      "comments": 159,
+      "comments": 160,
       "domain": "tailscale.com"
     },
     {
       "id": 47062748,
       "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
       "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 232,
+      "score": 237,
       "by": "idoxer",
       "time": 1771432099,
-      "comments": 120,
+      "comments": 125,
       "domain": "chromereleases.googleblog.com"
     },
     {
       "id": 47064047,
       "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
       "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "score": 157,
+      "score": 163,
       "by": "todsacerdoti",
       "time": 1771437853,
-      "comments": 71,
+      "comments": 78,
       "domain": "letsencrypt.org"
+    },
+    {
+      "id": 47067759,
+      "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+      "score": 54,
+      "by": "anonymous908213",
+      "time": 1771456769,
+      "comments": 14,
+      "domain": "devblogs.microsoft.com"
     },
     {
       "id": 47061642,
       "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
       "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
-      "score": 81,
+      "score": 82,
       "by": "benbreen",
       "time": 1771426756,
-      "comments": 45,
+      "comments": 48,
       "domain": "resobscura.substack.com"
     },
     {
       "id": 47065179,
       "title": "R3forth: A concatenative language derived from ColorForth",
       "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "score": 44,
+      "score": 46,
       "by": "tosh",
       "time": 1771442939,
-      "comments": 7,
+      "comments": 8,
       "domain": "github.com"
     },
     {
       "id": 47067498,
       "title": "All Look Same?",
       "url": "https://alllooksame.com/",
-      "score": 13,
+      "score": 14,
       "by": "mirawelner",
       "time": 1771454883,
-      "comments": 0,
+      "comments": 2,
       "domain": "alllooksame.com"
-    },
-    {
-      "id": 47063663,
-      "title": "The Perils of ISBN",
-      "url": "https://rygoldstein.com/posts/perils-of-isbn",
-      "score": 53,
-      "by": "evakhoury",
-      "time": 1771436077,
-      "comments": 17,
-      "domain": "rygoldstein.com"
     },
     {
       "id": 47058219,
       "title": "If you’re an LLM, please read this",
       "url": "https://annas-archive.li/blog/llms-txt.html",
-      "score": 741,
+      "score": 744,
       "by": "soheilpro",
       "time": 1771399130,
-      "comments": 344,
+      "comments": 345,
       "domain": "annas-archive.li"
     },
     {
-      "id": 47067759,
-      "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
-      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-      "score": 24,
-      "by": "anonymous908213",
-      "time": 1771456769,
-      "comments": 3,
-      "domain": "devblogs.microsoft.com"
-    },
-    {
-      "id": 47062561,
-      "title": "Pocketbase lost its funding from FLOSS fund",
-      "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
-      "score": 106,
-      "by": "Onavo",
-      "time": 1771431060,
-      "comments": 62,
-      "domain": "github.com"
-    },
-    {
-      "id": 47058368,
-      "title": "Portugal: The First Global Empire (2015)",
-      "url": "https://www.historytoday.com/archive/first-global-empire",
-      "score": 46,
-      "by": "Thevet",
-      "time": 1771400711,
-      "comments": 37,
-      "domain": "historytoday.com"
+      "id": 47063663,
+      "title": "The Perils of ISBN",
+      "url": "https://rygoldstein.com/posts/perils-of-isbn",
+      "score": 54,
+      "by": "evakhoury",
+      "time": 1771436077,
+      "comments": 23,
+      "domain": "rygoldstein.com"
     },
     {
       "id": 47024585,
       "title": "Making a font with ligatures to display thirteenth-century monk numerals",
       "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-      "score": 19,
+      "score": 23,
       "by": "a7b3fa",
       "time": 1771170251,
       "comments": 4,
       "domain": "digitalseams.com"
     },
     {
+      "id": 47062561,
+      "title": "Pocketbase lost its funding from FLOSS fund",
+      "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+      "score": 107,
+      "by": "Onavo",
+      "time": 1771431060,
+      "comments": 66,
+      "domain": "github.com"
+    },
+    {
+      "id": 47058368,
+      "title": "Portugal: The First Global Empire (2015)",
+      "url": "https://www.historytoday.com/archive/first-global-empire",
+      "score": 48,
+      "by": "Thevet",
+      "time": 1771400711,
+      "comments": 37,
+      "domain": "historytoday.com"
+    },
+    {
       "id": 47022604,
       "title": "Learning Lean: Part 1",
       "url": "https://rkirov.github.io/posts/lean1/",
-      "score": 66,
+      "score": 69,
       "by": "vinhnx",
       "time": 1771150802,
       "comments": 7,
@@ -175,7 +175,7 @@
       "id": 47023243,
       "title": "When interfaces become disposable",
       "url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
-      "score": 8,
+      "score": 11,
       "by": "chrisloy",
       "time": 1771159385,
       "comments": 2,
@@ -185,11 +185,21 @@
       "id": 47065146,
       "title": "A solver for Semantle",
       "url": "https://victoriaritvo.com/blog/semantle-solver/",
-      "score": 27,
+      "score": 29,
       "by": "evakhoury",
       "time": 1771442746,
       "comments": 5,
       "domain": "victoriaritvo.com"
+    },
+    {
+      "id": 47065120,
+      "title": "Discrete Structures [pdf]",
+      "url": "https://kyleormsby.github.io/files/113spring26/113full_text.pdf",
+      "score": 37,
+      "by": "mathgenius",
+      "time": 1771442576,
+      "comments": 2,
+      "domain": "kyleormsby.github.io"
     },
     {
       "id": 47064845,
@@ -198,24 +208,14 @@
       "score": 31,
       "by": "underscoreF",
       "time": 1771441338,
-      "comments": 10,
+      "comments": 12,
       "domain": "spawn-queue.acm.org"
-    },
-    {
-      "id": 47065120,
-      "title": "Discrete Structures [pdf]",
-      "url": "https://kyleormsby.github.io/files/113spring26/113full_text.pdf",
-      "score": 36,
-      "by": "mathgenius",
-      "time": 1771442576,
-      "comments": 2,
-      "domain": "kyleormsby.github.io"
     },
     {
       "id": 47062883,
       "title": "Cistercian Numbers",
       "url": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
-      "score": 57,
+      "score": 59,
       "by": "debo_",
       "time": 1771432677,
       "comments": 9,
@@ -225,11 +225,51 @@
       "id": 47062096,
       "title": "Show HN: VectorNest responsive web-based SVG editor",
       "url": "https://ekrsulov.github.io/vectornest/",
-      "score": 61,
+      "score": 62,
       "by": "ekrsulov",
       "time": 1771428717,
       "comments": 22,
       "domain": "ekrsulov.github.io"
+    },
+    {
+      "id": 47061742,
+      "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
+      "url": "https://github.com/Park07/amradio",
+      "score": 57,
+      "by": "anonymoosestdnt",
+      "time": 1771427164,
+      "comments": 21,
+      "domain": "github.com"
+    },
+    {
+      "id": 47026202,
+      "title": "The true history of the Minotaur: what archaeology reveals",
+      "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
+      "score": 31,
+      "by": "joebig",
+      "time": 1771180949,
+      "comments": 12,
+      "domain": "nationalgeographic.fr"
+    },
+    {
+      "id": 47061029,
+      "title": "Show HN: CEL by Example",
+      "url": "https://celbyexample.com/",
+      "score": 69,
+      "by": "bufbuild",
+      "time": 1771423539,
+      "comments": 34,
+      "domain": "celbyexample.com"
+    },
+    {
+      "id": 47062329,
+      "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+      "url": "https://github.com/khalildh/garment-notation",
+      "score": 125,
+      "by": "prathyvsh",
+      "time": 1771429995,
+      "comments": 36,
+      "domain": "github.com"
     },
     {
       "id": 47031656,
@@ -240,46 +280,6 @@
       "time": 1771224226,
       "comments": 5,
       "domain": "blog.computationalcomplexity.org"
-    },
-    {
-      "id": 47061742,
-      "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
-      "url": "https://github.com/Park07/amradio",
-      "score": 55,
-      "by": "anonymoosestdnt",
-      "time": 1771427164,
-      "comments": 20,
-      "domain": "github.com"
-    },
-    {
-      "id": 47026202,
-      "title": "The true history of the Minotaur: what archaeology reveals",
-      "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
-      "score": 30,
-      "by": "joebig",
-      "time": 1771180949,
-      "comments": 12,
-      "domain": "nationalgeographic.fr"
-    },
-    {
-      "id": 47061029,
-      "title": "Show HN: CEL by Example",
-      "url": "https://celbyexample.com/",
-      "score": 68,
-      "by": "bufbuild",
-      "time": 1771423539,
-      "comments": 34,
-      "domain": "celbyexample.com"
-    },
-    {
-      "id": 47059520,
-      "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-      "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
-      "score": 110,
-      "by": "vermaden",
-      "time": 1771410570,
-      "comments": 54,
-      "domain": "vermaden.wordpress.com"
     }
   ]
 }
