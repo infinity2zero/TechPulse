@@ -1,295 +1,295 @@
 {
-  "lastUpdated": "2026-02-19T11:58:41.964Z",
+  "lastUpdated": "2026-02-19T13:06:02.273Z",
   "items": [
-    {
-      "id": 47066552,
-      "title": "Sizing chaos",
-      "url": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 634,
-      "by": "zdw",
-      "time": 1771449500,
-      "comments": 345,
-      "domain": "pudding.cool"
-    },
-    {
-      "id": 47066241,
-      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 368,
-      "by": "surprisetalk",
-      "time": 1771448071,
-      "comments": 202,
-      "domain": "old.reddit.com"
-    },
-    {
-      "id": 47041225,
-      "title": "The Mongol Khans of Medieval France",
-      "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
-      "score": 4,
-      "by": "Thevet",
-      "time": 1771280867,
-      "comments": 0,
-      "domain": "historytoday.com"
-    },
     {
       "id": 47038032,
       "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
       "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "score": 7,
+      "score": 58,
       "by": "benbreen",
       "time": 1771264666,
       "comments": 0,
       "domain": "royapakzad.substack.com"
     },
     {
+      "id": 47072863,
+      "title": "Show HN: An encrypted, local, cross-platform journaling app",
+      "url": "https://github.com/fjrevoredo/mini-diarium",
+      "score": 30,
+      "by": "holyknight",
+      "time": 1771502061,
+      "comments": 12,
+      "domain": "github.com"
+    },
+    {
+      "id": 47073044,
+      "title": "Coding Tricks Used in the C64 Game Seawolves",
+      "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+      "score": 6,
+      "by": "atan2",
+      "time": 1771503873,
+      "comments": 1,
+      "domain": "kodiak64.co.uk"
+    },
+    {
+      "id": 47072539,
+      "title": "Bridging Elixir and Python with Oban",
+      "url": "https://oban.pro/articles/bridging-with-oban",
+      "score": 24,
+      "by": "sorentwo",
+      "time": 1771499235,
+      "comments": 3,
+      "domain": "oban.pro"
+    },
+    {
+      "id": 47041225,
+      "title": "The Mongol Khans of Medieval France",
+      "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+      "score": 30,
+      "by": "Thevet",
+      "time": 1771280867,
+      "comments": 3,
+      "domain": "historytoday.com"
+    },
+    {
+      "id": 47066552,
+      "title": "Sizing chaos",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "score": 664,
+      "by": "zdw",
+      "time": 1771449500,
+      "comments": 356,
+      "domain": "pudding.cool"
+    },
+    {
+      "id": 47072444,
+      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "url": "https://makie.org/website/blogposts/raytracing/",
+      "score": 26,
+      "by": "simondanisch",
+      "time": 1771498513,
+      "comments": 7,
+      "domain": "makie.org"
+    },
+    {
+      "id": 47072968,
+      "title": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "score": 11,
+      "by": "SteveHawk27",
+      "time": 1771503224,
+      "comments": 2,
+      "domain": "pagedout.institute"
+    },
+    {
+      "id": 47073112,
+      "title": "Pebble Production: February Update",
+      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "score": 4,
+      "by": "smig0",
+      "time": 1771504560,
+      "comments": 0,
+      "domain": "repebble.com"
+    },
+    {
+      "id": 47066241,
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "score": 383,
+      "by": "surprisetalk",
+      "time": 1771448071,
+      "comments": 209,
+      "domain": "old.reddit.com"
+    },
+    {
       "id": 47068890,
       "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
       "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-      "score": 132,
+      "score": 140,
       "by": "fp64enjoyer",
       "time": 1771465567,
-      "comments": 48,
+      "comments": 51,
       "domain": "nicolasdickenmann.com"
-    },
-    {
-      "id": 47069179,
-      "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-      "score": 112,
-      "by": "kristianp",
-      "time": 1771468320,
-      "comments": 36,
-      "domain": "static.stepfun.com"
-    },
-    {
-      "id": 47064490,
-      "title": "Cosmologically Unique IDs",
-      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 405,
-      "by": "jfantl",
-      "time": 1771439842,
-      "comments": 121,
-      "domain": "jasonfantl.com"
-    },
-    {
-      "id": 47070680,
-      "title": "Old School Visual Effects: The Cloud Tank (2010)",
-      "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
-      "score": 35,
-      "by": "exvi",
-      "time": 1771483433,
-      "comments": 4,
-      "domain": "singlemindedmovieblog.blogspot.com"
-    },
-    {
-      "id": 47069299,
-      "title": "Anthropic officially bans using subscription auth for third party use",
-      "url": "https://code.claude.com/docs/en/legal-and-compliance",
-      "score": 418,
-      "by": "theahura",
-      "time": 1771469546,
-      "comments": 495,
-      "domain": "code.claude.com"
-    },
-    {
-      "id": 47063005,
-      "title": "Tailscale Peer Relays is now generally available",
-      "url": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 418,
-      "by": "sz4kerto",
-      "time": 1771433172,
-      "comments": 208,
-      "domain": "tailscale.com"
     },
     {
       "id": 47027171,
       "title": "Voith Schneider Propeller",
       "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-      "score": 14,
+      "score": 28,
       "by": "Luc",
       "time": 1771186953,
-      "comments": 1,
+      "comments": 6,
       "domain": "en.wikipedia.org"
-    },
-    {
-      "id": 47028803,
-      "title": "Visualizing the ARM64 Instruction Set (2024)",
-      "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
-      "score": 47,
-      "by": "userbinator",
-      "time": 1771197604,
-      "comments": 6,
-      "domain": "zyedidia.github.io"
-    },
-    {
-      "id": 47025885,
-      "title": "How to choose between Hindley-Milner and bidirectional typing",
-      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
-      "score": 108,
-      "by": "thunderseethe",
-      "time": 1771178864,
-      "comments": 26,
-      "domain": "thunderseethe.dev"
-    },
-    {
-      "id": 47062748,
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 344,
-      "by": "idoxer",
-      "time": 1771432099,
-      "comments": 188,
-      "domain": "chromereleases.googleblog.com"
-    },
-    {
-      "id": 47064047,
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "score": 279,
-      "by": "todsacerdoti",
-      "time": 1771437853,
-      "comments": 126,
-      "domain": "letsencrypt.org"
-    },
-    {
-      "id": 47038578,
-      "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
-      "url": "https://tempus-word.de/en/index",
-      "score": 59,
-      "by": "muzzy19",
-      "time": 1771267452,
-      "comments": 22,
-      "domain": "tempus-word.de"
-    },
-    {
-      "id": 47039440,
-      "title": "Fff.nvim – Typo-resistant code search",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "score": 48,
-      "by": "neogoose",
-      "time": 1771271550,
-      "comments": 6,
-      "domain": "github.com"
     },
     {
       "id": 47042065,
       "title": "Lilush – LuaJIT static runtime and shell",
       "url": "https://lilush.link/",
-      "score": 3,
+      "score": 18,
       "by": "ksymph",
       "time": 1771287297,
       "comments": 0,
       "domain": "lilush.link"
     },
     {
+      "id": 47072930,
+      "title": "Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)",
+      "url": "https://latentscore.com/demo",
+      "score": 6,
+      "by": "prabal97",
+      "time": 1771502765,
+      "comments": 4,
+      "domain": "latentscore.com"
+    },
+    {
+      "id": 47070680,
+      "title": "Old School Visual Effects: The Cloud Tank (2010)",
+      "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+      "score": 46,
+      "by": "exvi",
+      "time": 1771483433,
+      "comments": 6,
+      "domain": "singlemindedmovieblog.blogspot.com"
+    },
+    {
+      "id": 47069179,
+      "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "score": 128,
+      "by": "kristianp",
+      "time": 1771468320,
+      "comments": 51,
+      "domain": "static.stepfun.com"
+    },
+    {
+      "id": 47064490,
+      "title": "Cosmologically Unique IDs",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "score": 416,
+      "by": "jfantl",
+      "time": 1771439842,
+      "comments": 125,
+      "domain": "jasonfantl.com"
+    },
+    {
+      "id": 47069299,
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "score": 447,
+      "by": "theahura",
+      "time": 1771469546,
+      "comments": 537,
+      "domain": "code.claude.com"
+    },
+    {
+      "id": 47063005,
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "score": 425,
+      "by": "sz4kerto",
+      "time": 1771433172,
+      "comments": 210,
+      "domain": "tailscale.com"
+    },
+    {
+      "id": 47028803,
+      "title": "Visualizing the ARM64 Instruction Set (2024)",
+      "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
+      "score": 55,
+      "by": "userbinator",
+      "time": 1771197604,
+      "comments": 9,
+      "domain": "zyedidia.github.io"
+    },
+    {
+      "id": 47025885,
+      "title": "How to choose between Hindley-Milner and bidirectional typing",
+      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+      "score": 116,
+      "by": "thunderseethe",
+      "time": 1771178864,
+      "comments": 30,
+      "domain": "thunderseethe.dev"
+    },
+    {
+      "id": 47062748,
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "score": 350,
+      "by": "idoxer",
+      "time": 1771432099,
+      "comments": 192,
+      "domain": "chromereleases.googleblog.com"
+    },
+    {
+      "id": 47036836,
+      "title": "Virgins, Unicorns and Medieval Literature (2017)",
+      "url": "https://www.bowdoin.edu/news/2017/11/virgins-unicorns-and-medieval-literature.html",
+      "score": 3,
+      "by": "mooreds",
+      "time": 1771258453,
+      "comments": 0,
+      "domain": "bowdoin.edu"
+    },
+    {
+      "id": 47072603,
+      "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+      "url": "https://github.com/sstraust/shannonmax",
+      "score": 6,
+      "by": "sammy0910",
+      "time": 1771499738,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
+      "id": 47038578,
+      "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+      "url": "https://tempus-word.de/en/index",
+      "score": 65,
+      "by": "muzzy19",
+      "time": 1771267452,
+      "comments": 28,
+      "domain": "tempus-word.de"
+    },
+    {
+      "id": 47039440,
+      "title": "Fff.nvim – Typo-resistant code search",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "score": 55,
+      "by": "neogoose",
+      "time": 1771271550,
+      "comments": 7,
+      "domain": "github.com"
+    },
+    {
+      "id": 47064047,
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "score": 285,
+      "by": "todsacerdoti",
+      "time": 1771437853,
+      "comments": 127,
+      "domain": "letsencrypt.org"
+    },
+    {
       "id": 47069876,
       "title": "Show HN: A Lisp where each function call runs a Docker container",
       "url": "https://github.com/a11ce/docker-lisp",
-      "score": 49,
+      "score": 58,
       "by": "a11ce",
       "time": 1771474760,
       "comments": 17,
       "domain": "github.com"
     },
     {
-      "id": 47067498,
-      "title": "All Look Same?",
-      "url": "https://alllooksame.com/",
-      "score": 78,
-      "by": "mirawelner",
-      "time": 1771454883,
-      "comments": 57,
-      "domain": "alllooksame.com"
-    },
-    {
-      "id": 47067395,
-      "title": "What years of production-grade concurrency teaches us about building AI agents",
-      "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
-      "score": 87,
-      "by": "ellieh",
-      "time": 1771454255,
-      "comments": 16,
-      "domain": "georgeguimaraes.com"
-    },
-    {
-      "id": 47068948,
-      "title": "Minecraft Java is switching from OpenGL to Vulkan",
-      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-      "score": 226,
-      "by": "tuananh",
-      "time": 1771466133,
-      "comments": 101,
-      "domain": "gamingonlinux.com"
-    },
-    {
-      "id": 47063663,
-      "title": "The Perils of ISBN",
-      "url": "https://rygoldstein.com/posts/perils-of-isbn",
-      "score": 134,
-      "by": "evakhoury",
-      "time": 1771436077,
-      "comments": 68,
-      "domain": "rygoldstein.com"
-    },
-    {
-      "id": 47022704,
-      "title": "A Pokémon of a Different Color",
-      "url": "https://matthew.verive.me/blog/color/",
-      "score": 118,
-      "by": "Risse",
-      "time": 1771152049,
-      "comments": 17,
-      "domain": "matthew.verive.me"
-    },
-    {
-      "id": 47070446,
-      "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
-      "url": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
-      "score": 23,
-      "by": "murat3ok",
-      "time": 1771481398,
-      "comments": 15,
-      "domain": "stoolap.io"
-    },
-    {
       "id": 47037652,
       "title": "Antarctica sits above Earth's strongest 'gravity hole' – how it got that way",
       "url": "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html",
-      "score": 10,
+      "score": 17,
       "by": "bikenaga",
       "time": 1771262636,
-      "comments": 6,
+      "comments": 8,
       "domain": "phys.org"
-    },
-    {
-      "id": 47024585,
-      "title": "Making a font with ligatures to display thirteenth-century monk numerals",
-      "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-      "score": 87,
-      "by": "a7b3fa",
-      "time": 1771170251,
-      "comments": 12,
-      "domain": "digitalseams.com"
-    },
-    {
-      "id": 47065179,
-      "title": "R3forth: A concatenative language derived from ColorForth",
-      "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "score": 89,
-      "by": "tosh",
-      "time": 1771442939,
-      "comments": 17,
-      "domain": "github.com"
-    },
-    {
-      "id": 47064845,
-      "title": "What Every Experimenter Must Know About Randomization",
-      "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
-      "score": 86,
-      "by": "underscoreF",
-      "time": 1771441338,
-      "comments": 54,
-      "domain": "spawn-queue.acm.org"
     }
   ]
 }
