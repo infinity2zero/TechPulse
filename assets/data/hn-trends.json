@@ -1,195 +1,205 @@
 {
-  "lastUpdated": "2026-02-20T22:54:02.155Z",
+  "lastUpdated": "2026-02-20T23:17:17.981Z",
   "items": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 812,
+      "score": 842,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 335,
+      "comments": 339,
       "domain": "f-droid.org"
     },
     {
       "id": 47094192,
       "title": "Turn Dependabot Off",
       "url": "https://words.filippo.io/dependabot/",
-      "score": 120,
+      "score": 150,
       "by": "todsacerdoti",
       "time": 1771622741,
-      "comments": 24,
+      "comments": 41,
       "domain": "words.filippo.io"
-    },
-    {
-      "id": 47088037,
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 612,
-      "by": "lairv",
-      "time": 1771595464,
-      "comments": 146,
-      "domain": "github.com"
-    },
-    {
-      "id": 47092006,
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 197,
-      "by": "nobody9999",
-      "time": 1771612941,
-      "comments": 106,
-      "domain": "arstechnica.com"
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 188,
+      "score": 225,
       "by": "toomuchtodo",
       "time": 1771615198,
-      "comments": 94,
+      "comments": 104,
       "domain": "dixken.de"
     },
     {
       "id": 47091748,
       "title": "Facebook is cooked",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 494,
+      "score": 538,
       "by": "npilk",
       "time": 1771611907,
-      "comments": 328,
+      "comments": 338,
       "domain": "pilk.website"
+    },
+    {
+      "id": 47088037,
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "score": 621,
+      "by": "lairv",
+      "time": 1771595464,
+      "comments": 150,
+      "domain": "github.com"
+    },
+    {
+      "id": 47092006,
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 211,
+      "by": "nobody9999",
+      "time": 1771612941,
+      "comments": 115,
+      "domain": "arstechnica.com"
+    },
+    {
+      "id": 47094149,
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "url": "https://mines.fyi/",
+      "score": 30,
+      "by": "irasigman",
+      "time": 1771622547,
+      "comments": 9,
+      "domain": "mines.fyi"
     },
     {
       "id": 47093724,
       "title": "OpenScan",
       "url": "https://openscan.eu/pages/scan-gallery",
-      "score": 49,
+      "score": 56,
       "by": "joebig",
       "time": 1771620468,
       "comments": 2,
       "domain": "openscan.eu"
     },
     {
-      "id": 47094149,
-      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
-      "url": "https://mines.fyi/",
-      "score": 24,
-      "by": "irasigman",
-      "time": 1771622547,
-      "comments": 7,
-      "domain": "mines.fyi"
+      "id": 47094637,
+      "title": "I hate AI side projects",
+      "url": "https://dylancastillo.co/posts/ai-side-projects.html",
+      "score": 16,
+      "by": "dcastm",
+      "time": 1771624980,
+      "comments": 5,
+      "domain": "dylancastillo.co"
     },
     {
       "id": 47091557,
       "title": "Uncovering insiders and alpha on Polymarket with AI",
       "url": "https://twitter.com/peterjliu/status/2024901585806225723",
-      "score": 35,
+      "score": 44,
       "by": "somerandomness",
       "time": 1771611062,
-      "comments": 16,
+      "comments": 19,
       "domain": "twitter.com"
     },
     {
       "id": 47091606,
       "title": "Blue light filters don't work – controlling total luminance is a better bet",
       "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 80,
+      "score": 89,
       "by": "pminimax",
       "time": 1771611253,
-      "comments": 120,
+      "comments": 128,
       "domain": "neuroai.science"
+    },
+    {
+      "id": 47092203,
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "score": 39,
+      "by": "ajuhasz",
+      "time": 1771613715,
+      "comments": 21,
+      "domain": "juno-labs.com"
     },
     {
       "id": 47091469,
       "title": "Making frontier cybersecurity capabilities available to defenders",
       "url": "https://www.anthropic.com/news/claude-code-security",
-      "score": 84,
+      "score": 87,
       "by": "surprisetalk",
       "time": 1771610599,
-      "comments": 36,
+      "comments": 37,
       "domain": "anthropic.com"
     },
     {
       "id": 47089213,
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 1106,
+      "score": 1130,
       "by": "blackguardx",
       "time": 1771601258,
-      "comments": 912,
+      "comments": 926,
       "domain": "bbc.com"
     },
     {
       "id": 47091071,
       "title": "Lil' Fun Langs",
       "url": "https://taylor.town/scrapscript-000",
-      "score": 77,
+      "score": 81,
       "by": "surprisetalk",
       "time": 1771608852,
-      "comments": 9,
+      "comments": 10,
       "domain": "taylor.town"
-    },
-    {
-      "id": 47092203,
-      "title": "Every company building your AI assistant is now an ad company",
-      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-      "score": 31,
-      "by": "ajuhasz",
-      "time": 1771613715,
-      "comments": 17,
-      "domain": "juno-labs.com"
     },
     {
       "id": 47086181,
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 636,
+      "score": 643,
       "by": "sidnarsipur",
       "time": 1771583572,
-      "comments": 368,
+      "comments": 370,
       "domain": "taalas.com"
+    },
+    {
+      "id": 47088166,
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "score": 159,
+      "by": "IronsideXXVI",
+      "time": 1771596125,
+      "comments": 116,
+      "domain": "github.com"
     },
     {
       "id": 47044700,
       "title": "How to Review an AUR Package",
       "url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
-      "score": 37,
+      "score": 41,
       "by": "exploraz",
       "time": 1771313697,
       "comments": 3,
       "domain": "bertptrs.nl"
     },
     {
-      "id": 47088166,
-      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://github.com/IronsideXXVI/Hacker-News",
-      "score": 153,
-      "by": "IronsideXXVI",
-      "time": 1771596125,
-      "comments": 114,
-      "domain": "github.com"
-    },
-    {
       "id": 47088181,
       "title": "I found a useful Git one liner buried in leaked CIA developer docs",
       "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 564,
+      "score": 572,
       "by": "spencerldixon",
       "time": 1771596186,
-      "comments": 199,
+      "comments": 202,
       "domain": "spencer.wtf"
     },
     {
-      "id": 47094635,
-      "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
-      "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-      "score": 46,
-      "by": "pseudalopex",
-      "time": 1771624978,
-      "comments": 39,
-      "domain": "arstechnica.com"
+      "id": 47085425,
+      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "score": 187,
+      "by": "andreabergia",
+      "time": 1771577537,
+      "comments": 32,
+      "domain": "jimmyhmiller.com"
     },
     {
       "id": 47029651,
@@ -202,74 +212,44 @@
       "domain": "film-tech.com"
     },
     {
-      "id": 47085425,
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 181,
-      "by": "andreabergia",
-      "time": 1771577537,
-      "comments": 31,
-      "domain": "jimmyhmiller.com"
+      "id": 47093953,
+      "title": "Phil Spencer is exiting Microsoft as AI executive takes over Xbox",
+      "url": "https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/",
+      "score": 27,
+      "by": "bundie",
+      "time": 1771621544,
+      "comments": 20,
+      "domain": "neowin.net"
     },
     {
       "id": 47072849,
       "title": "The Popper Principle",
       "url": "https://theamericanscholar.org/the-popper-principle/",
-      "score": 55,
+      "score": 57,
       "by": "lermontov",
       "time": 1771501969,
-      "comments": 29,
+      "comments": 31,
       "domain": "theamericanscholar.org"
     },
     {
       "id": 47088685,
       "title": "Child's Play: Tech's new generation and the end of thinking",
       "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "score": 303,
+      "score": 310,
       "by": "ramimac",
       "time": 1771598914,
-      "comments": 196,
+      "comments": 201,
       "domain": "harpers.org"
     },
     {
       "id": 47087719,
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "score": 244,
+      "score": 248,
       "by": "el_duderino",
       "time": 1771593752,
-      "comments": 75,
+      "comments": 78,
       "domain": "bleepingcomputer.com"
-    },
-    {
-      "id": 47093953,
-      "title": "Phil Spencer is exiting Microsoft as AI executive takes over Xbox",
-      "url": "https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/",
-      "score": 19,
-      "by": "bundie",
-      "time": 1771621544,
-      "comments": 12,
-      "domain": "neowin.net"
-    },
-    {
-      "id": 47043345,
-      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "score": 486,
-      "by": "Meetvelde",
-      "time": 1771298596,
-      "comments": 217,
-      "domain": "cep.dev"
-    },
-    {
-      "id": 47078324,
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "score": 485,
-      "by": "benbeingbin",
-      "time": 1771530911,
-      "comments": 508,
-      "domain": "kasava.dev"
     },
     {
       "id": 47085387,
@@ -278,18 +258,38 @@
       "score": 128,
       "by": "Lwrless",
       "time": 1771577285,
-      "comments": 46,
+      "comments": 47,
       "domain": "learn.pimoroni.com"
+    },
+    {
+      "id": 47083648,
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "score": 202,
+      "by": "zagwdt",
+      "time": 1771560958,
+      "comments": 91,
+      "domain": "together.ai"
     },
     {
       "id": 47046486,
       "title": "A chatbot's worst enemy is page refresh",
       "url": "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/",
-      "score": 20,
+      "score": 23,
       "by": "zknill",
       "time": 1771328872,
       "comments": 7,
       "domain": "zknill.io"
+    },
+    {
+      "id": 47030387,
+      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+      "score": 61,
+      "by": "debo_",
+      "time": 1771210735,
+      "comments": 7,
+      "domain": "japan-forward.com"
     }
   ]
 }
