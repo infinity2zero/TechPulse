@@ -1,122 +1,135 @@
 {
-  "lastUpdated": "2026-02-20T18:27:05.118Z",
+  "lastUpdated": "2026-02-20T19:11:26.317Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4469,
+      "stars": 4483,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-20T18:26:12Z"
+      "updated_at": "2026-02-20T19:03:28Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3703,
+      "stars": 3705,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-20T18:16:02Z"
+      "updated_at": "2026-02-20T18:57:26Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1760,
+      "stars": 1767,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-20T18:10:10Z"
+      "updated_at": "2026-02-20T19:09:28Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 1673,
+      "stars": 1694,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-20T18:24:06Z"
+      "updated_at": "2026-02-20T19:02:44Z"
     },
     {
       "id": 1158123451,
       "name": "Conway-Research/automaton",
       "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "stars": 1667,
+      "stars": 1672,
       "language": "TypeScript",
       "url": "https://github.com/Conway-Research/automaton",
       "owner": {
         "login": "Conway-Research",
         "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
       },
-      "updated_at": "2026-02-20T18:22:40Z"
+      "updated_at": "2026-02-20T19:05:16Z"
     },
     {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1203,
+      "stars": 1220,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-20T18:17:19Z"
+      "updated_at": "2026-02-20T19:10:23Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
-      "stars": 1188,
+      "stars": 1192,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-20T18:21:19Z"
+      "updated_at": "2026-02-20T19:08:29Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1109,
+      "stars": 1114,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-20T18:10:33Z"
+      "updated_at": "2026-02-20T19:07:57Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1102,
+      "stars": 1109,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-20T18:19:44Z"
+      "updated_at": "2026-02-20T19:05:39Z"
+    },
+    {
+      "id": 1158432527,
+      "name": "pinchtab/pinchtab",
+      "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+      "stars": 994,
+      "language": "Go",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "owner": {
+        "login": "pinchtab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
+      },
+      "updated_at": "2026-02-20T19:09:41Z"
     },
     {
       "id": 1157721932,
@@ -132,43 +145,30 @@
       "updated_at": "2026-02-20T17:46:41Z"
     },
     {
-      "id": 1158432527,
-      "name": "pinchtab/pinchtab",
-      "description": null,
-      "stars": 990,
-      "language": "Go",
-      "url": "https://github.com/pinchtab/pinchtab",
-      "owner": {
-        "login": "pinchtab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
-      },
-      "updated_at": "2026-02-20T17:41:11Z"
-    },
-    {
       "id": 1157577714,
       "name": "mickamy/sql-tap",
       "description": "Watch SQL traffic in real-time with a TUI",
-      "stars": 924,
+      "stars": 926,
       "language": "Go",
       "url": "https://github.com/mickamy/sql-tap",
       "owner": {
         "login": "mickamy",
         "avatar_url": "https://avatars.githubusercontent.com/u/11856337?v=4"
       },
-      "updated_at": "2026-02-20T14:31:41Z"
+      "updated_at": "2026-02-20T19:09:58Z"
     },
     {
       "id": 1159483541,
       "name": "DataExpert-io/ai-engineer-handbook",
       "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
-      "stars": 742,
+      "stars": 743,
       "language": null,
       "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
       "owner": {
         "login": "DataExpert-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/147096519?v=4"
       },
-      "updated_at": "2026-02-20T18:18:42Z"
+      "updated_at": "2026-02-20T18:59:06Z"
     },
     {
       "id": 1158734451,
@@ -200,27 +200,27 @@
       "id": 1158269547,
       "name": "klawsh/klaw.sh",
       "description": "kubectl for AI Agents",
-      "stars": 502,
+      "stars": 504,
       "language": "Go",
       "url": "https://github.com/klawsh/klaw.sh",
       "owner": {
         "login": "klawsh",
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
-      "updated_at": "2026-02-20T18:05:04Z"
+      "updated_at": "2026-02-20T18:56:22Z"
     },
     {
       "id": 1158560615,
       "name": "owenlejeune/ArrMatey",
       "description": null,
-      "stars": 436,
+      "stars": 437,
       "language": "Kotlin",
       "url": "https://github.com/owenlejeune/ArrMatey",
       "owner": {
         "login": "owenlejeune",
         "avatar_url": "https://avatars.githubusercontent.com/u/20568035?v=4"
       },
-      "updated_at": "2026-02-20T18:21:35Z"
+      "updated_at": "2026-02-20T18:28:59Z"
     },
     {
       "id": 1158541291,
@@ -239,27 +239,27 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 412,
+      "stars": 428,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-20T18:24:51Z"
+      "updated_at": "2026-02-20T19:10:07Z"
     },
     {
       "id": 1158094477,
       "name": "anl331/goey-toast",
       "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations",
-      "stars": 394,
+      "stars": 395,
       "language": "TypeScript",
       "url": "https://github.com/anl331/goey-toast",
       "owner": {
         "login": "anl331",
         "avatar_url": "https://avatars.githubusercontent.com/u/25465286?v=4"
       },
-      "updated_at": "2026-02-20T17:15:51Z"
+      "updated_at": "2026-02-20T18:47:34Z"
     }
   ]
 }
