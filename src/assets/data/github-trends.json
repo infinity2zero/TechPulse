@@ -1,122 +1,96 @@
 {
-  "lastUpdated": "2026-02-19T23:47:38.502Z",
+  "lastUpdated": "2026-02-20T00:01:54.475Z",
   "items": [
-    {
-      "id": 1156956890,
-      "name": "zeroclaw-labs/zeroclaw",
-      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
-      "stars": 15028,
-      "language": "Rust",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "owner": {
-        "login": "zeroclaw-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
-      },
-      "updated_at": "2026-02-19T23:47:06Z"
-    },
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 3841,
+      "stars": 3847,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-19T23:45:18Z"
+      "updated_at": "2026-02-19T23:59:05Z"
     },
     {
       "id": 1157656960,
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 3671,
+      "stars": 3673,
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "owner": {
         "login": "bwya77",
         "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
       },
-      "updated_at": "2026-02-19T23:39:48Z"
-    },
-    {
-      "id": 1156960719,
-      "name": "millionco/react-doctor",
-      "description": "Let coding agents diagnose and fix your React code",
-      "stars": 3184,
-      "language": "TypeScript",
-      "url": "https://github.com/millionco/react-doctor",
-      "owner": {
-        "login": "millionco",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
-      },
-      "updated_at": "2026-02-19T23:46:29Z"
+      "updated_at": "2026-02-19T23:53:52Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1438,
+      "stars": 1442,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-19T23:44:20Z"
+      "updated_at": "2026-02-19T23:59:28Z"
     },
     {
       "id": 1158123451,
       "name": "Conway-Research/automaton",
       "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "stars": 1397,
+      "stars": 1400,
       "language": "TypeScript",
       "url": "https://github.com/Conway-Research/automaton",
       "owner": {
         "login": "Conway-Research",
         "avatar_url": "https://avatars.githubusercontent.com/u/259196925?v=4"
       },
-      "updated_at": "2026-02-19T23:47:17Z"
+      "updated_at": "2026-02-19T23:57:20Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
-      "stars": 1068,
+      "stars": 1070,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-19T23:41:26Z"
+      "updated_at": "2026-02-19T23:56:47Z"
     },
     {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 952,
+      "stars": 958,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-19T23:40:10Z"
+      "updated_at": "2026-02-20T00:00:39Z"
     },
     {
       "id": 1157721932,
       "name": "vigorX777/ai-daily-digest",
       "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
-      "stars": 916,
+      "stars": 917,
       "language": "TypeScript",
       "url": "https://github.com/vigorX777/ai-daily-digest",
       "owner": {
         "login": "vigorX777",
         "avatar_url": "https://avatars.githubusercontent.com/u/129197750?v=4"
       },
-      "updated_at": "2026-02-19T23:42:51Z"
+      "updated_at": "2026-02-19T23:50:30Z"
     },
     {
       "id": 1157577714,
@@ -135,14 +109,14 @@
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 889,
+      "stars": 894,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-19T23:40:27Z"
+      "updated_at": "2026-02-19T23:59:17Z"
     },
     {
       "id": 1159484260,
@@ -158,43 +132,30 @@
       "updated_at": "2026-02-19T23:25:43Z"
     },
     {
-      "id": 1156879010,
-      "name": "HKUDS/FastCode",
-      "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
-      "stars": 868,
-      "language": "Python",
-      "url": "https://github.com/HKUDS/FastCode",
-      "owner": {
-        "login": "HKUDS",
-        "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
-      },
-      "updated_at": "2026-02-19T22:40:56Z"
-    },
-    {
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": null,
-      "stars": 861,
+      "stars": 864,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-19T23:30:03Z"
+      "updated_at": "2026-02-19T23:55:57Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 769,
+      "stars": 772,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-19T23:44:24Z"
+      "updated_at": "2026-02-20T00:01:41Z"
     },
     {
       "id": 1159483541,
@@ -207,20 +168,7 @@
         "login": "DataExpert-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/147096519?v=4"
       },
-      "updated_at": "2026-02-19T23:40:17Z"
-    },
-    {
-      "id": 1157218614,
-      "name": "SuperCmdLabs/SuperCmd",
-      "description": "What Apple Intelligence should have been",
-      "stars": 681,
-      "language": "TypeScript",
-      "url": "https://github.com/SuperCmdLabs/SuperCmd",
-      "owner": {
-        "login": "SuperCmdLabs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/168767593?v=4"
-      },
-      "updated_at": "2026-02-19T23:41:54Z"
+      "updated_at": "2026-02-20T00:01:52Z"
     },
     {
       "id": 1158734451,
@@ -239,14 +187,14 @@
       "id": 1158678506,
       "name": "davidhariri/life-system",
       "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
-      "stars": 543,
+      "stars": 544,
       "language": "Shell",
       "url": "https://github.com/davidhariri/life-system",
       "owner": {
         "login": "davidhariri",
         "avatar_url": "https://avatars.githubusercontent.com/u/5245670?v=4"
       },
-      "updated_at": "2026-02-19T22:58:10Z"
+      "updated_at": "2026-02-19T23:50:17Z"
     },
     {
       "id": 1158269547,
@@ -260,6 +208,58 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261694247?v=4"
       },
       "updated_at": "2026-02-19T23:32:43Z"
+    },
+    {
+      "id": 1158560615,
+      "name": "owenlejeune/ArrMatey",
+      "description": null,
+      "stars": 368,
+      "language": "Kotlin",
+      "url": "https://github.com/owenlejeune/ArrMatey",
+      "owner": {
+        "login": "owenlejeune",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20568035?v=4"
+      },
+      "updated_at": "2026-02-19T23:32:10Z"
+    },
+    {
+      "id": 1158094477,
+      "name": "anl331/goey-toast",
+      "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations",
+      "stars": 354,
+      "language": "TypeScript",
+      "url": "https://github.com/anl331/goey-toast",
+      "owner": {
+        "login": "anl331",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25465286?v=4"
+      },
+      "updated_at": "2026-02-19T23:02:03Z"
+    },
+    {
+      "id": 1157928891,
+      "name": "tomascupr/sandstorm",
+      "description": "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure.",
+      "stars": 329,
+      "language": "Python",
+      "url": "https://github.com/tomascupr/sandstorm",
+      "owner": {
+        "login": "tomascupr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/201650992?v=4"
+      },
+      "updated_at": "2026-02-19T18:49:56Z"
+    },
+    {
+      "id": 1157702154,
+      "name": "joshavant/clawbox",
+      "description": "OpenClaw-ready macOS VMs",
+      "stars": 315,
+      "language": "Python",
+      "url": "https://github.com/joshavant/clawbox",
+      "owner": {
+        "login": "joshavant",
+        "avatar_url": "https://avatars.githubusercontent.com/u/830519?v=4"
+      },
+      "updated_at": "2026-02-19T23:24:02Z"
     }
   ]
 }
