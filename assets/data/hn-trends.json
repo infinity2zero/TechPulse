@@ -1,125 +1,215 @@
 {
-  "lastUpdated": "2026-02-20T06:32:00.780Z",
+  "lastUpdated": "2026-02-20T07:31:51.096Z",
   "items": [
     {
-      "id": 47082496,
-      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-      "score": 205,
-      "by": "interpidused",
-      "time": 1771550927,
-      "comments": 81,
-      "domain": "gist.github.com"
-    },
-    {
-      "id": 47083735,
-      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
-      "score": 36,
-      "by": "tartoran",
-      "time": 1771561671,
-      "comments": 14,
-      "domain": "bbc.com"
+      "id": 47031197,
+      "title": "Defer available in gcc and clang",
+      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+      "score": 68,
+      "by": "r4um",
+      "time": 1771219655,
+      "comments": 24,
+      "domain": "gustedt.wordpress.com"
     },
     {
       "id": 47083648,
       "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
       "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "score": 39,
+      "score": 56,
       "by": "zagwdt",
       "time": 1771560958,
-      "comments": 5,
+      "comments": 11,
       "domain": "together.ai"
     },
     {
       "id": 47074735,
       "title": "Gemini 3.1 Pro",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 658,
+      "score": 687,
       "by": "MallocVoidstar",
       "time": 1771514397,
-      "comments": 758,
+      "comments": 770,
       "domain": "blog.google"
-    },
-    {
-      "id": 47031197,
-      "title": "Defer Available in GCC and Clang",
-      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "score": 30,
-      "by": "r4um",
-      "time": 1771219655,
-      "comments": 9,
-      "domain": "gustedt.wordpress.com"
     },
     {
       "id": 47083145,
       "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
       "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "score": 264,
+      "score": 299,
       "by": "scottshambaugh",
       "time": 1771556708,
-      "comments": 203,
+      "comments": 233,
       "domain": "theshamblog.com"
+    },
+    {
+      "id": 47082854,
+      "title": "Pi for Excel: AI sidebar add-in for Excel",
+      "url": "https://github.com/tmustier/pi-for-excel",
+      "score": 47,
+      "by": "rahimnathwani",
+      "time": 1771554006,
+      "comments": 7,
+      "domain": "github.com"
+    },
+    {
+      "id": 47084000,
+      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "score": 21,
+      "by": "todsacerdoti",
+      "time": 1771564000,
+      "comments": 8,
+      "domain": "github.com"
+    },
+    {
+      "id": 47082548,
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "score": 56,
+      "by": "neelc",
+      "time": 1771551216,
+      "comments": 44,
+      "domain": "sour.coffee"
     },
     {
       "id": 47075124,
       "title": "Show HN: Micasa – track your house from the terminal",
       "url": "https://micasa.dev",
-      "score": 502,
+      "score": 515,
       "by": "cpcloud",
       "time": 1771516454,
-      "comments": 164,
+      "comments": 167,
       "domain": "micasa.dev"
     },
     {
-      "id": 47082854,
-      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
-      "url": "https://github.com/tmustier/pi-for-excel",
-      "score": 33,
-      "by": "rahimnathwani",
-      "time": 1771554006,
-      "comments": 5,
-      "domain": "github.com"
+      "id": 47047010,
+      "title": "FreeCAD",
+      "url": "https://www.freecad.org/index.php",
+      "score": 49,
+      "by": "doener",
+      "time": 1771333058,
+      "comments": 19,
+      "domain": "freecad.org"
+    },
+    {
+      "id": 47043345,
+      "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "score": 182,
+      "by": "Meetvelde",
+      "time": 1771298596,
+      "comments": 83,
+      "domain": "cep.dev"
+    },
+    {
+      "id": 47083735,
+      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+      "score": 67,
+      "by": "tartoran",
+      "time": 1771561671,
+      "comments": 29,
+      "domain": "bbc.com"
     },
     {
       "id": 47067270,
       "title": "US plans online portal to bypass content bans in Europe and elsewhere",
       "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "score": 244,
+      "score": 267,
       "by": "c420",
       "time": 1771453513,
-      "comments": 335,
+      "comments": 370,
       "domain": "reuters.com"
+    },
+    {
+      "id": 47029368,
+      "title": "A beginner's guide to split keyboards",
+      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+      "score": 96,
+      "by": "thehaikuza",
+      "time": 1771201861,
+      "comments": 107,
+      "domain": "justinmklam.com"
+    },
+    {
+      "id": 47084431,
+      "title": "Show HN: Fostrom, an IoT Cloud Platform built for developers",
+      "url": "https://fostrom.io/",
+      "score": 3,
+      "by": "arjunbajaj",
+      "time": 1771568434,
+      "comments": 0,
+      "domain": "fostrom.io"
     },
     {
       "id": 47078167,
       "title": "Micropayments as a reality check for news sites",
       "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
-      "score": 144,
+      "score": 151,
       "by": "speckx",
       "time": 1771530151,
-      "comments": 319,
+      "comments": 322,
       "domain": "blog.zgp.org"
-    },
-    {
-      "id": 47035698,
-      "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
-      "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
-      "score": 39,
-      "by": "WillMorr",
-      "time": 1771253364,
-      "comments": 2,
-      "domain": "cormullion.github.io"
     },
     {
       "id": 47074389,
       "title": "America vs. Singapore: You can't save your way out of economic shocks",
       "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "score": 265,
+      "score": 267,
       "by": "guardianbob",
       "time": 1771512738,
-      "comments": 390,
+      "comments": 395,
       "domain": "governance.fyi"
+    },
+    {
+      "id": 47076659,
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 204,
+      "by": "forinti",
+      "time": 1771523245,
+      "comments": 35,
+      "domain": "github.com"
+    },
+    {
+      "id": 47083882,
+      "title": "Fast KV Compaction via Attention Matching",
+      "url": "https://arxiv.org/abs/2602.16284",
+      "score": 7,
+      "by": "cbracketdash",
+      "time": 1771562797,
+      "comments": 0,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 47082496,
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "score": 246,
+      "by": "interpidused",
+      "time": 1771550927,
+      "comments": 100,
+      "domain": "gist.github.com"
+    },
+    {
+      "id": 47072968,
+      "title": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "score": 366,
+      "by": "SteveHawk27",
+      "time": 1771503224,
+      "comments": 57,
+      "domain": "pagedout.institute"
+    },
+    {
+      "id": 47039504,
+      "title": "Debugging Kernel Oops (2024)",
+      "url": "https://lfhernandez.com/posts/debugging-kernel-oops/",
+      "score": 3,
+      "by": "linolevan",
+      "time": 1771271843,
+      "comments": 0,
+      "domain": "lfhernandez.com"
     },
     {
       "id": 47058350,
@@ -132,174 +222,84 @@
       "domain": "clereviewofbooks.com"
     },
     {
-      "id": 47029368,
-      "title": "A beginner's guide to split keyboards",
-      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
-      "score": 79,
-      "by": "thehaikuza",
-      "time": 1771201861,
-      "comments": 94,
-      "domain": "justinmklam.com"
-    },
-    {
-      "id": 47076659,
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "url": "https://github.com/Veirt/weathr",
-      "score": 200,
-      "by": "forinti",
-      "time": 1771523245,
-      "comments": 34,
-      "domain": "github.com"
-    },
-    {
-      "id": 47043345,
-      "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "score": 146,
-      "by": "Meetvelde",
-      "time": 1771298596,
-      "comments": 72,
-      "domain": "cep.dev"
-    },
-    {
-      "id": 47072968,
-      "title": "Paged Out Issue #8 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "score": 361,
-      "by": "SteveHawk27",
-      "time": 1771503224,
-      "comments": 57,
-      "domain": "pagedout.institute"
-    },
-    {
-      "id": 47047010,
-      "title": "FreeCAD is an open-source parametric 3D modeler",
-      "url": "https://www.freecad.org/index.php",
-      "score": 7,
-      "by": "doener",
-      "time": 1771333058,
-      "comments": 1,
-      "domain": "freecad.org"
-    },
-    {
       "id": 47077245,
       "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
       "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
-      "score": 98,
+      "score": 100,
       "by": "bryanrasmussen",
       "time": 1771525910,
-      "comments": 25,
+      "comments": 27,
       "domain": "smithsonianmag.com"
+    },
+    {
+      "id": 47035698,
+      "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+      "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+      "score": 42,
+      "by": "WillMorr",
+      "time": 1771253364,
+      "comments": 2,
+      "domain": "cormullion.github.io"
     },
     {
       "id": 47073112,
       "title": "Pebble Production: February Update",
       "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "score": 276,
+      "score": 278,
       "by": "smig0",
       "time": 1771504560,
-      "comments": 129,
+      "comments": 130,
       "domain": "repebble.com"
     },
     {
       "id": 47080873,
       "title": "Show HN: A small, simple music theory library in C99",
       "url": "https://github.com/thelowsunoverthemoon/mahler.c",
-      "score": 29,
+      "score": 32,
       "by": "lowsun",
       "time": 1771541668,
-      "comments": 6,
+      "comments": 8,
       "domain": "github.com"
-    },
-    {
-      "id": 47079718,
-      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "score": 119,
-      "by": "lawrencechen",
-      "time": 1771536604,
-      "comments": 57,
-      "domain": "github.com"
-    },
-    {
-      "id": 47082548,
-      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
-      "score": 49,
-      "by": "neelc",
-      "time": 1771551216,
-      "comments": 40,
-      "domain": "sour.coffee"
     },
     {
       "id": 47041294,
       "title": "My 1981 adventure game is now a multimedia extravaganza",
       "url": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
-      "score": 88,
+      "score": 94,
       "by": "vontzy",
       "time": 1771281350,
       "comments": 29,
       "domain": "technologizer.com"
     },
     {
+      "id": 47079718,
+      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "score": 121,
+      "by": "lawrencechen",
+      "time": 1771536604,
+      "comments": 58,
+      "domain": "github.com"
+    },
+    {
       "id": 47038032,
       "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
       "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "score": 197,
+      "score": 202,
       "by": "benbreen",
       "time": 1771264666,
-      "comments": 79,
+      "comments": 80,
       "domain": "royapakzad.substack.com"
     },
     {
       "id": 47073947,
       "title": "Measuring AI agent autonomy in practice",
       "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-      "score": 94,
+      "score": 97,
       "by": "jbredeche",
       "time": 1771510454,
-      "comments": 46,
+      "comments": 47,
       "domain": "anthropic.com"
-    },
-    {
-      "id": 47074869,
-      "title": "Dinosaur Food: 100M year old foods we still eat today (2022)",
-      "url": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-      "score": 115,
-      "by": "simonebrunozzi",
-      "time": 1771515042,
-      "comments": 93,
-      "domain": "borischerny.com"
-    },
-    {
-      "id": 47072444,
-      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-      "url": "https://makie.org/website/blogposts/raytracing/",
-      "score": 176,
-      "by": "simondanisch",
-      "time": 1771498513,
-      "comments": 69,
-      "domain": "makie.org"
-    },
-    {
-      "id": 47037781,
-      "title": "Zero downtime migrations at petabyte scale (2024)",
-      "url": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
-      "score": 101,
-      "by": "Ozzie_osman",
-      "time": 1771263300,
-      "comments": 23,
-      "domain": "planetscale.com"
-    },
-    {
-      "id": 47072863,
-      "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
-      "url": "https://github.com/fjrevoredo/mini-diarium",
-      "score": 120,
-      "by": "holyknight",
-      "time": 1771502061,
-      "comments": 55,
-      "domain": "github.com"
     }
   ]
 }
