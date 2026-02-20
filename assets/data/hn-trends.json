@@ -1,155 +1,205 @@
 {
-  "lastUpdated": "2026-02-20T20:58:54.232Z",
+  "lastUpdated": "2026-02-20T21:26:23.795Z",
   "items": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 599,
+      "score": 659,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 237,
+      "comments": 256,
       "domain": "f-droid.org"
     },
     {
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 566,
+      "score": 574,
       "by": "lairv",
       "time": 1771595464,
-      "comments": 134,
+      "comments": 137,
       "domain": "github.com"
-    },
-    {
-      "id": 47088181,
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 529,
-      "by": "spencerldixon",
-      "time": 1771596186,
-      "comments": 194,
-      "domain": "spencer.wtf"
     },
     {
       "id": 47092006,
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
       "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 83,
+      "score": 127,
       "by": "nobody9999",
       "time": 1771612941,
-      "comments": 42,
+      "comments": 65,
       "domain": "arstechnica.com"
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 82,
+      "score": 105,
       "by": "toomuchtodo",
       "time": 1771615198,
-      "comments": 50,
+      "comments": 64,
       "domain": "dixken.de"
-    },
-    {
-      "id": 47091071,
-      "title": "Lil' Fun Langs",
-      "url": "https://taylor.town/scrapscript-000",
-      "score": 64,
-      "by": "surprisetalk",
-      "time": 1771608852,
-      "comments": 4,
-      "domain": "taylor.town"
     },
     {
       "id": 47091748,
       "title": "Facebook is cooked",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 317,
+      "score": 370,
       "by": "npilk",
       "time": 1771611907,
-      "comments": 233,
+      "comments": 257,
       "domain": "pilk.website"
+    },
+    {
+      "id": 47093724,
+      "title": "OpenScan",
+      "url": "https://openscan.eu/pages/scan-gallery",
+      "score": 8,
+      "by": "joebig",
+      "time": 1771620468,
+      "comments": 0,
+      "domain": "openscan.eu"
+    },
+    {
+      "id": 47091071,
+      "title": "Lil' Fun Langs",
+      "url": "https://taylor.town/scrapscript-000",
+      "score": 70,
+      "by": "surprisetalk",
+      "time": 1771608852,
+      "comments": 6,
+      "domain": "taylor.town"
     },
     {
       "id": 47091469,
       "title": "Making frontier cybersecurity capabilities available to defenders",
       "url": "https://www.anthropic.com/news/claude-code-security",
-      "score": 63,
+      "score": 69,
       "by": "surprisetalk",
       "time": 1771610599,
-      "comments": 23,
+      "comments": 26,
       "domain": "anthropic.com"
-    },
-    {
-      "id": 47089213,
-      "title": "Trump's global tariffs struck down by US Supreme Court",
-      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 972,
-      "by": "blackguardx",
-      "time": 1771601258,
-      "comments": 786,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 47086181,
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 605,
-      "by": "sidnarsipur",
-      "time": 1771583572,
-      "comments": 348,
-      "domain": "taalas.com"
     },
     {
       "id": 47091606,
       "title": "Blue light filters don't work – controlling total luminance is a better bet",
       "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 37,
+      "score": 50,
       "by": "pminimax",
       "time": 1771611253,
-      "comments": 67,
+      "comments": 80,
       "domain": "neuroai.science"
+    },
+    {
+      "id": 47089213,
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "score": 1015,
+      "by": "blackguardx",
+      "time": 1771601258,
+      "comments": 816,
+      "domain": "bbc.com"
+    },
+    {
+      "id": 47091557,
+      "title": "Uncovering insiders and alpha on Polymarket with AI",
+      "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+      "score": 8,
+      "by": "somerandomness",
+      "time": 1771611062,
+      "comments": 0,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47086181,
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "score": 612,
+      "by": "sidnarsipur",
+      "time": 1771583572,
+      "comments": 355,
+      "domain": "taalas.com"
     },
     {
       "id": 47044700,
       "title": "How to Review an AUR Package",
       "url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
-      "score": 24,
+      "score": 28,
       "by": "exploraz",
       "time": 1771313697,
       "comments": 1,
       "domain": "bertptrs.nl"
     },
     {
+      "id": 47088181,
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "score": 537,
+      "by": "spencerldixon",
+      "time": 1771596186,
+      "comments": 198,
+      "domain": "spencer.wtf"
+    },
+    {
+      "id": 47088166,
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "score": 133,
+      "by": "IronsideXXVI",
+      "time": 1771596125,
+      "comments": 102,
+      "domain": "github.com"
+    },
+    {
+      "id": 47093604,
+      "title": "Escaping Misconfigured VSCode Extensions (2023)",
+      "url": "https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/",
+      "score": 4,
+      "by": "abelanger",
+      "time": 1771619946,
+      "comments": 0,
+      "domain": "blog.trailofbits.com"
+    },
+    {
       "id": 47088685,
       "title": "Child's Play: Tech's new generation and the end of thinking",
       "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "score": 265,
+      "score": 279,
       "by": "ramimac",
       "time": 1771598914,
-      "comments": 164,
+      "comments": 175,
       "domain": "harpers.org"
-    },
-    {
-      "id": 47046486,
-      "title": "A chatbot's worst enemy is page refresh",
-      "url": "https://zknill.io/posts/chatbots-worst-enemy-is-page-refresh/",
-      "score": 10,
-      "by": "zknill",
-      "time": 1771328872,
-      "comments": 1,
-      "domain": "zknill.io"
     },
     {
       "id": 47085425,
       "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
       "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 165,
+      "score": 171,
       "by": "andreabergia",
       "time": 1771577537,
       "comments": 28,
       "domain": "jimmyhmiller.com"
+    },
+    {
+      "id": 47072849,
+      "title": "The Popper Principle",
+      "url": "https://theamericanscholar.org/the-popper-principle/",
+      "score": 46,
+      "by": "lermontov",
+      "time": 1771501969,
+      "comments": 26,
+      "domain": "theamericanscholar.org"
+    },
+    {
+      "id": 47087719,
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+      "score": 226,
+      "by": "el_duderino",
+      "time": 1771593752,
+      "comments": 69,
+      "domain": "bleepingcomputer.com"
     },
     {
       "id": 47092348,
@@ -162,100 +212,70 @@
       "domain": "testflows.com"
     },
     {
-      "id": 47072849,
-      "title": "The Popper Principle",
-      "url": "https://theamericanscholar.org/the-popper-principle/",
-      "score": 45,
-      "by": "lermontov",
-      "time": 1771501969,
-      "comments": 25,
-      "domain": "theamericanscholar.org"
-    },
-    {
-      "id": 47087719,
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "score": 222,
-      "by": "el_duderino",
-      "time": 1771593752,
-      "comments": 67,
-      "domain": "bleepingcomputer.com"
-    },
-    {
       "id": 47048181,
       "title": "Do you want to build a community where users search or hang? (2021)",
       "url": "https://www.mooreds.com/wordpress/archives/3486",
-      "score": 10,
+      "score": 11,
       "by": "mooreds",
       "time": 1771340297,
-      "comments": 3,
+      "comments": 4,
       "domain": "mooreds.com"
-    },
-    {
-      "id": 47030387,
-      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
-      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
-      "score": 55,
-      "by": "debo_",
-      "time": 1771210735,
-      "comments": 6,
-      "domain": "japan-forward.com"
     },
     {
       "id": 47085387,
       "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
       "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
-      "score": 118,
+      "score": 120,
       "by": "Lwrless",
       "time": 1771577285,
-      "comments": 39,
+      "comments": 41,
       "domain": "learn.pimoroni.com"
     },
     {
       "id": 47043345,
       "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
       "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "score": 459,
+      "score": 463,
       "by": "Meetvelde",
       "time": 1771298596,
-      "comments": 204,
+      "comments": 207,
       "domain": "cep.dev"
     },
     {
       "id": 47083648,
       "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
       "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "score": 194,
+      "score": 195,
       "by": "zagwdt",
       "time": 1771560958,
-      "comments": 86,
+      "comments": 87,
       "domain": "together.ai"
-    },
-    {
-      "id": 47089907,
-      "title": "No Skill. No Taste",
-      "url": "https://blog.kinglycrow.com/no-skill-no-taste/",
-      "score": 144,
-      "by": "ianbutler",
-      "time": 1771604012,
-      "comments": 144,
-      "domain": "blog.kinglycrow.com"
     },
     {
       "id": 47078324,
       "title": "AI is not a coworker, it's an exoskeleton",
       "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "score": 463,
+      "score": 470,
       "by": "benbeingbin",
       "time": 1771530911,
-      "comments": 477,
+      "comments": 490,
       "domain": "kasava.dev"
+    },
+    {
+      "id": 47030387,
+      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+      "score": 58,
+      "by": "debo_",
+      "time": 1771210735,
+      "comments": 7,
+      "domain": "japan-forward.com"
     },
     {
       "id": 47056516,
       "title": "Lessons learned from `oapi-codegen`'s time in the GitHub Secure Open Source Fund",
       "url": "https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/",
-      "score": 14,
+      "score": 15,
       "by": "zdw",
       "time": 1771382514,
       "comments": 0,
@@ -265,31 +285,11 @@
       "id": 47046981,
       "title": "Visible Spectra of the Elements",
       "url": "https://atomic-spectra.net/",
-      "score": 33,
+      "score": 35,
       "by": "djoldman",
       "time": 1771332844,
       "comments": 2,
       "domain": "atomic-spectra.net"
-    },
-    {
-      "id": 47085370,
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "score": 174,
-      "by": "mpweiher",
-      "time": 1771577157,
-      "comments": 119,
-      "domain": "caimito.net"
-    },
-    {
-      "id": 47084000,
-      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "score": 129,
-      "by": "todsacerdoti",
-      "time": 1771564000,
-      "comments": 55,
-      "domain": "github.com"
     }
   ]
 }
