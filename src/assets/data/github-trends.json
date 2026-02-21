@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-21T19:18:37.875Z",
+  "lastUpdated": "2026-02-21T19:40:41.472Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4791,
+      "stars": 4797,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T19:17:57Z"
+      "updated_at": "2026-02-21T19:33:47Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2150,
+      "stars": 2153,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T19:11:43Z"
+      "updated_at": "2026-02-21T19:27:05Z"
     },
     {
       "id": 1158537997,
@@ -57,66 +57,66 @@
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1430,
+      "stars": 1435,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-21T19:15:53Z"
+      "updated_at": "2026-02-21T19:32:49Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1300,
+      "stars": 1320,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-21T19:16:11Z"
+      "updated_at": "2026-02-21T19:40:27Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
-      "stars": 1245,
+      "stars": 1246,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-21T19:05:04Z"
+      "updated_at": "2026-02-21T19:20:37Z"
     },
     {
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "stars": 1073,
+      "stars": 1076,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-21T19:13:47Z"
+      "updated_at": "2026-02-21T19:38:56Z"
     },
     {
       "id": 1159483541,
       "name": "DataExpert-io/ai-engineer-handbook",
       "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
-      "stars": 768,
+      "stars": 770,
       "language": null,
       "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
       "owner": {
         "login": "DataExpert-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/147096519?v=4"
       },
-      "updated_at": "2026-02-21T18:58:25Z"
+      "updated_at": "2026-02-21T19:34:29Z"
     },
     {
       "id": 1158734451,
@@ -135,14 +135,14 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 744,
+      "stars": 745,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T19:18:27Z"
+      "updated_at": "2026-02-21T19:19:12Z"
     },
     {
       "id": 1158678506,
@@ -174,14 +174,14 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 511,
+      "stars": 513,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-21T19:12:11Z"
+      "updated_at": "2026-02-21T19:26:24Z"
     },
     {
       "id": 1162163663,
@@ -194,7 +194,7 @@
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T18:46:39Z"
+      "updated_at": "2026-02-21T19:36:26Z"
     },
     {
       "id": 1158560615,
@@ -207,7 +207,7 @@
         "login": "owenlejeune",
         "avatar_url": "https://avatars.githubusercontent.com/u/20568035?v=4"
       },
-      "updated_at": "2026-02-21T18:25:22Z"
+      "updated_at": "2026-02-21T19:32:08Z"
     },
     {
       "id": 1158541291,
@@ -226,14 +226,27 @@
       "id": 1160175822,
       "name": "Pickle-Pixel/ApplyPilot",
       "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 307,
+      "stars": 308,
       "language": "Python",
       "url": "https://github.com/Pickle-Pixel/ApplyPilot",
       "owner": {
         "login": "Pickle-Pixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
       },
-      "updated_at": "2026-02-21T18:14:43Z"
+      "updated_at": "2026-02-21T19:23:39Z"
+    },
+    {
+      "id": 1163317794,
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "description": null,
+      "stars": 306,
+      "language": "Python",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "owner": {
+        "login": "CraftyGeezer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
+      },
+      "updated_at": "2026-02-21T19:38:18Z"
     },
     {
       "id": 1161025758,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
       "updated_at": "2026-02-21T18:16:07Z"
-    },
-    {
-      "id": 1160953701,
-      "name": "socprime/detectflow-main",
-      "description": "Detection intelligence turbocharged with Al.",
-      "stars": 293,
-      "language": null,
-      "url": "https://github.com/socprime/detectflow-main",
-      "owner": {
-        "login": "socprime",
-        "avatar_url": "https://avatars.githubusercontent.com/u/37212749?v=4"
-      },
-      "updated_at": "2026-02-21T18:54:05Z"
     }
   ]
 }
