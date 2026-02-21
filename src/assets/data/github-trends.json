@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-21T11:49:22.522Z",
+  "lastUpdated": "2026-02-21T11:58:16.476Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4690,
+      "stars": 4692,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T11:44:22Z"
+      "updated_at": "2026-02-21T11:57:44Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2021,
+      "stars": 2022,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T11:46:29Z"
+      "updated_at": "2026-02-21T11:55:07Z"
     },
     {
       "id": 1158537997,
@@ -44,14 +44,14 @@
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1370,
+      "stars": 1374,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-21T11:40:51Z"
+      "updated_at": "2026-02-21T11:56:07Z"
     },
     {
       "id": 1159542259,
@@ -83,40 +83,40 @@
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1196,
+      "stars": 1197,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-21T11:46:37Z"
+      "updated_at": "2026-02-21T11:58:10Z"
     },
     {
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "stars": 1052,
+      "stars": 1054,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-21T11:29:52Z"
+      "updated_at": "2026-02-21T11:57:52Z"
     },
     {
       "id": 1159483541,
       "name": "DataExpert-io/ai-engineer-handbook",
       "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
-      "stars": 759,
+      "stars": 760,
       "language": null,
       "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
       "owner": {
         "login": "DataExpert-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/147096519?v=4"
       },
-      "updated_at": "2026-02-21T08:24:41Z"
+      "updated_at": "2026-02-21T11:51:11Z"
     },
     {
       "id": 1158734451,
@@ -135,14 +135,14 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 641,
+      "stars": 644,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T11:44:34Z"
+      "updated_at": "2026-02-21T11:58:00Z"
     },
     {
       "id": 1158678506,
@@ -187,14 +187,14 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 462,
+      "stars": 463,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-21T11:36:38Z"
+      "updated_at": "2026-02-21T11:51:40Z"
     },
     {
       "id": 1158541291,
@@ -213,14 +213,14 @@
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 426,
+      "stars": 427,
       "language": "Rust",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T11:47:48Z"
+      "updated_at": "2026-02-21T11:51:49Z"
     },
     {
       "id": 1161025758,
