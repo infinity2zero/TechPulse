@@ -1,115 +1,105 @@
 {
-  "lastUpdated": "2026-02-21T11:35:14.268Z",
+  "lastUpdated": "2026-02-21T11:49:22.204Z",
   "items": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1562,
+      "score": 1574,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 577,
+      "comments": 579,
       "domain": "f-droid.org"
     },
     {
       "id": 47099160,
       "title": "Andrej Karpathy talks about \"Claws\"",
       "url": "https://simonwillison.net/2026/Feb/21/claws/",
-      "score": 69,
+      "score": 82,
       "by": "helloplanets",
       "time": 1771667595,
-      "comments": 78,
+      "comments": 103,
       "domain": "simonwillison.net"
+    },
+    {
+      "id": 47098245,
+      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 86,
+      "by": "ColinWright",
+      "time": 1771657578,
+      "comments": 21,
+      "domain": "thelocalstack.eu"
     },
     {
       "id": 47094192,
       "title": "Turn Dependabot off",
       "url": "https://words.filippo.io/dependabot/",
-      "score": 477,
+      "score": 480,
       "by": "todsacerdoti",
       "time": 1771622741,
-      "comments": 136,
+      "comments": 138,
       "domain": "words.filippo.io"
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 628,
+      "score": 630,
       "by": "toomuchtodo",
       "time": 1771615198,
-      "comments": 286,
+      "comments": 287,
       "domain": "dixken.de"
     },
     {
       "id": 47091748,
       "title": "Facebook is cooked",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 1129,
+      "score": 1137,
       "by": "npilk",
       "time": 1771611907,
-      "comments": 616,
+      "comments": 623,
       "domain": "pilk.website"
-    },
-    {
-      "id": 47098245,
-      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 70,
-      "by": "ColinWright",
-      "time": 1771657578,
-      "comments": 18,
-      "domain": "thelocalstack.eu"
     },
     {
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 744,
+      "score": 747,
       "by": "lairv",
       "time": 1771595464,
-      "comments": 183,
+      "comments": 185,
       "domain": "github.com"
     },
     {
       "id": 47098687,
       "title": "EU mandates replaceable batteries by 2027 (2023)",
       "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-      "score": 123,
+      "score": 133,
       "by": "cyrusmg",
       "time": 1771662522,
-      "comments": 70,
+      "comments": 74,
       "domain": "environment.ec.europa.eu"
-    },
-    {
-      "id": 47092006,
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 458,
-      "by": "nobody9999",
-      "time": 1771612941,
-      "comments": 275,
-      "domain": "arstechnica.com"
     },
     {
       "id": 47049499,
       "title": "Understanding Std:Shared_mutex from C++17",
       "url": "https://www.cppstories.com/2026/shared_mutex/",
-      "score": 13,
+      "score": 14,
       "by": "ibobev",
       "time": 1771346619,
       "comments": 0,
       "domain": "cppstories.com"
     },
     {
-      "id": 47098296,
-      "title": "Acme Weather",
-      "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "score": 62,
-      "by": "cryptoz",
-      "time": 1771658018,
-      "comments": 41,
-      "domain": "acmeweather.com"
+      "id": 47092006,
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 463,
+      "by": "nobody9999",
+      "time": 1771612941,
+      "comments": 276,
+      "domain": "arstechnica.com"
     },
     {
       "id": 47095429,
@@ -122,24 +112,34 @@
       "domain": "worldwideweb.cern.ch"
     },
     {
-      "id": 47098828,
-      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
-      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
-      "score": 58,
-      "by": "XzetaU8",
-      "time": 1771664076,
-      "comments": 35,
-      "domain": "neowin.net"
-    },
-    {
       "id": 47047027,
       "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
       "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-      "score": 41,
+      "score": 43,
       "by": "tesserato",
       "time": 1771333117,
       "comments": 21,
       "domain": "venturebeat.com"
+    },
+    {
+      "id": 47098828,
+      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
+      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
+      "score": 61,
+      "by": "XzetaU8",
+      "time": 1771664076,
+      "comments": 36,
+      "domain": "neowin.net"
+    },
+    {
+      "id": 47098296,
+      "title": "Acme Weather",
+      "url": "https://acmeweather.com/blog/introducing-acme-weather",
+      "score": 66,
+      "by": "cryptoz",
+      "time": 1771658018,
+      "comments": 44,
+      "domain": "acmeweather.com"
     },
     {
       "id": 47098669,
@@ -158,14 +158,14 @@
       "score": 17,
       "by": "letmutex",
       "time": 1771318301,
-      "comments": 6,
+      "comments": 7,
       "domain": "github.com"
     },
     {
       "id": 47096520,
       "title": "What Is OAuth?",
       "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-      "score": 129,
+      "score": 130,
       "by": "cratermoon",
       "time": 1771637620,
       "comments": 40,
@@ -175,21 +175,11 @@
       "id": 47092203,
       "title": "Every company building your AI assistant is now an ad company",
       "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-      "score": 197,
+      "score": 200,
       "by": "ajuhasz",
       "time": 1771613715,
       "comments": 103,
       "domain": "juno-labs.com"
-    },
-    {
-      "id": 47050308,
-      "title": "The bare minimum for syncing Git repos",
-      "url": "https://alexwlchan.net/2026/bare-git/",
-      "score": 5,
-      "by": "speckx",
-      "time": 1771349723,
-      "comments": 0,
-      "domain": "alexwlchan.net"
     },
     {
       "id": 47096466,
@@ -198,14 +188,24 @@
       "score": 102,
       "by": "gfortaine",
       "time": 1771637255,
-      "comments": 44,
+      "comments": 45,
       "domain": "june.kim"
+    },
+    {
+      "id": 47050308,
+      "title": "The bare minimum for syncing Git repos",
+      "url": "https://alexwlchan.net/2026/bare-git/",
+      "score": 6,
+      "by": "speckx",
+      "time": 1771349723,
+      "comments": 2,
+      "domain": "alexwlchan.net"
     },
     {
       "id": 47098839,
       "title": "Large Language Model Reasoning Failures",
       "url": "https://arxiv.org/abs/2602.06176",
-      "score": 10,
+      "score": 11,
       "by": "T-A",
       "time": 1771664160,
       "comments": 2,
@@ -222,34 +222,24 @@
       "domain": "tigerbeetle.com"
     },
     {
+      "id": 47091606,
+      "title": "Blue light filters don't work – controlling total luminance is a better bet",
+      "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
+      "score": 174,
+      "by": "pminimax",
+      "time": 1771611253,
+      "comments": 185,
+      "domain": "neuroai.science"
+    },
+    {
       "id": 47098324,
       "title": "When etcd crashes, check your disks first",
       "url": "https://nubificus.co.uk/blog/etcd/",
       "score": 11,
       "by": "_ananos_",
       "time": 1771658289,
-      "comments": 3,
+      "comments": 4,
       "domain": "nubificus.co.uk"
-    },
-    {
-      "id": 47098744,
-      "title": "24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it",
-      "url": "https://ahmedkaddoura.com/projects/24hf-unsubscribe",
-      "score": 54,
-      "by": "daem",
-      "time": 1771663187,
-      "comments": 13,
-      "domain": "ahmedkaddoura.com"
-    },
-    {
-      "id": 47091606,
-      "title": "Blue light filters don't work – controlling total luminance is a better bet",
-      "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 173,
-      "by": "pminimax",
-      "time": 1771611253,
-      "comments": 184,
-      "domain": "neuroai.science"
     },
     {
       "id": 47094149,
@@ -262,43 +252,53 @@
       "domain": "mines.fyi"
     },
     {
+      "id": 47093724,
+      "title": "OpenScan",
+      "url": "https://openscan.eu/pages/scan-gallery",
+      "score": 166,
+      "by": "joebig",
+      "time": 1771620468,
+      "comments": 13,
+      "domain": "openscan.eu"
+    },
+    {
       "id": 47086181,
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 748,
+      "score": 749,
       "by": "sidnarsipur",
       "time": 1771583572,
       "comments": 414,
       "domain": "taalas.com"
     },
     {
-      "id": 47093724,
-      "title": "OpenScan",
-      "url": "https://openscan.eu/pages/scan-gallery",
-      "score": 164,
-      "by": "joebig",
-      "time": 1771620468,
-      "comments": 11,
-      "domain": "openscan.eu"
+      "id": 47098744,
+      "title": "24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it",
+      "url": "https://ahmedkaddoura.com/projects/24hf-unsubscribe",
+      "score": 56,
+      "by": "daem",
+      "time": 1771663187,
+      "comments": 13,
+      "domain": "ahmedkaddoura.com"
     },
     {
       "id": 47089213,
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 1411,
+      "score": 1415,
       "by": "blackguardx",
       "time": 1771601258,
-      "comments": 1149,
+      "comments": 1157,
       "domain": "bbc.com"
     },
     {
       "id": 47095134,
       "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
       "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "score": 350,
+      "score": 353,
       "by": "latexr",
       "time": 1771627835,
-      "comments": 170,
+      "comments": 175,
       "domain": "bloodinthemachine.com"
     }
   ]
