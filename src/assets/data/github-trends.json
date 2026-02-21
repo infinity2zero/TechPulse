@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-02-21T06:32:30.926Z",
+  "lastUpdated": "2026-02-21T07:09:33.905Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4627,
+      "stars": 4632,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T06:32:31Z"
+      "updated_at": "2026-02-21T07:06:01Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 1956,
+      "stars": 1967,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T06:16:10Z"
+      "updated_at": "2026-02-21T07:02:57Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1849,
+      "stars": 1854,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-21T06:22:38Z"
+      "updated_at": "2026-02-21T07:09:19Z"
     },
     {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1339,
+      "stars": 1346,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-21T05:55:38Z"
+      "updated_at": "2026-02-21T07:08:28Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1243,
+      "stars": 1246,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-21T06:27:51Z"
+      "updated_at": "2026-02-21T06:49:51Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
-      "stars": 1226,
+      "stars": 1227,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-21T06:18:02Z"
+      "updated_at": "2026-02-21T06:46:07Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1171,
+      "stars": 1173,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-21T05:52:15Z"
+      "updated_at": "2026-02-21T07:04:10Z"
     },
     {
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "stars": 1031,
+      "stars": 1035,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-21T06:26:40Z"
+      "updated_at": "2026-02-21T07:03:09Z"
     },
     {
       "id": 1159483541,
@@ -122,40 +122,40 @@
       "id": 1158734451,
       "name": "zachlatta/freeflow",
       "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
-      "stars": 730,
+      "stars": 734,
       "language": "Swift",
       "url": "https://github.com/zachlatta/freeflow",
       "owner": {
         "login": "zachlatta",
         "avatar_url": "https://avatars.githubusercontent.com/u/992248?v=4"
       },
-      "updated_at": "2026-02-21T06:02:27Z"
+      "updated_at": "2026-02-21T06:53:21Z"
     },
     {
       "id": 1158678506,
       "name": "davidhariri/life-system",
       "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
-      "stars": 595,
+      "stars": 597,
       "language": "Shell",
       "url": "https://github.com/davidhariri/life-system",
       "owner": {
         "login": "davidhariri",
         "avatar_url": "https://avatars.githubusercontent.com/u/5245670?v=4"
       },
-      "updated_at": "2026-02-21T06:25:39Z"
+      "updated_at": "2026-02-21T07:00:55Z"
     },
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 576,
+      "stars": 587,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T06:31:39Z"
+      "updated_at": "2026-02-21T07:06:33Z"
     },
     {
       "id": 1158269547,
@@ -174,53 +174,66 @@
       "id": 1158560615,
       "name": "owenlejeune/ArrMatey",
       "description": null,
-      "stars": 457,
+      "stars": 459,
       "language": "Kotlin",
       "url": "https://github.com/owenlejeune/ArrMatey",
       "owner": {
         "login": "owenlejeune",
         "avatar_url": "https://avatars.githubusercontent.com/u/20568035?v=4"
       },
-      "updated_at": "2026-02-21T06:17:07Z"
+      "updated_at": "2026-02-21T06:59:12Z"
     },
     {
       "id": 1158541291,
       "name": "frank-vpl/IRBox",
       "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes",
-      "stars": 441,
+      "stars": 443,
       "language": "Rust",
       "url": "https://github.com/frank-vpl/IRBox",
       "owner": {
         "login": "frank-vpl",
         "avatar_url": "https://avatars.githubusercontent.com/u/91052736?v=4"
       },
-      "updated_at": "2026-02-21T05:41:04Z"
+      "updated_at": "2026-02-21T07:00:53Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 424,
+      "stars": 429,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-21T06:26:37Z"
+      "updated_at": "2026-02-21T07:05:42Z"
     },
     {
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 382,
+      "stars": 389,
       "language": "Rust",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T06:31:06Z"
+      "updated_at": "2026-02-21T07:08:57Z"
+    },
+    {
+      "id": 1161025758,
+      "name": "TraderAlice/OpenAlice",
+      "description": "File-driven AI trading agent engine for crypto and securities markets",
+      "stars": 285,
+      "language": "TypeScript",
+      "url": "https://github.com/TraderAlice/OpenAlice",
+      "owner": {
+        "login": "TraderAlice",
+        "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
+      },
+      "updated_at": "2026-02-21T06:54:56Z"
     },
     {
       "id": 1161754368,
@@ -236,30 +249,17 @@
       "updated_at": "2026-02-21T06:22:33Z"
     },
     {
-      "id": 1161025758,
-      "name": "TraderAlice/OpenAlice",
-      "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 283,
-      "language": "TypeScript",
-      "url": "https://github.com/TraderAlice/OpenAlice",
-      "owner": {
-        "login": "TraderAlice",
-        "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
-      },
-      "updated_at": "2026-02-21T06:24:57Z"
-    },
-    {
       "id": 1160175822,
       "name": "Pickle-Pixel/ApplyPilot",
       "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 256,
+      "stars": 260,
       "language": "Python",
       "url": "https://github.com/Pickle-Pixel/ApplyPilot",
       "owner": {
         "login": "Pickle-Pixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
       },
-      "updated_at": "2026-02-21T06:29:26Z"
+      "updated_at": "2026-02-21T06:54:06Z"
     }
   ]
 }
