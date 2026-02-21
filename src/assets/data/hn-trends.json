@@ -1,51 +1,61 @@
 {
-  "lastUpdated": "2026-02-21T21:49:12.290Z",
+  "lastUpdated": "2026-02-21T21:58:58.657Z",
   "items": [
     {
       "id": 47104185,
       "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
       "url": "https://www.eduke32.com/",
-      "score": 58,
+      "score": 61,
       "by": "reconnecting",
       "time": 1771704613,
-      "comments": 19,
+      "comments": 21,
       "domain": "eduke32.com"
     },
     {
       "id": 47103931,
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 60,
+      "score": 64,
       "by": "todsacerdoti",
       "time": 1771702806,
-      "comments": 24,
+      "comments": 25,
       "domain": "harudagondi.space"
     },
     {
       "id": 47059147,
       "title": "I Don't Like Magic",
       "url": "https://adactio.com/journal/22399",
-      "score": 43,
+      "score": 49,
       "by": "edent",
       "time": 1771407760,
-      "comments": 17,
+      "comments": 21,
       "domain": "adactio.com"
     },
     {
       "id": 47098245,
       "title": "I verified my LinkedIn identity. Here's what I handed over",
       "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 1010,
+      "score": 1013,
       "by": "ColinWright",
       "time": 1771657578,
-      "comments": 376,
+      "comments": 378,
       "domain": "thelocalstack.eu"
+    },
+    {
+      "id": 47103136,
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "score": 34,
+      "by": "iancmceachern",
+      "time": 1771697364,
+      "comments": 83,
+      "domain": "carbuzz.com"
     },
     {
       "id": 47103945,
       "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
       "url": "https://inputlag.science",
-      "score": 37,
+      "score": 38,
       "by": "akyuu",
       "time": 1771702912,
       "comments": 5,
@@ -55,67 +65,37 @@
       "id": 47098172,
       "title": "How an inference provider can prove they're not serving a quantized model",
       "url": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
-      "score": 49,
+      "score": 53,
       "by": "FrasiertheLion",
       "time": 1771656837,
-      "comments": 25,
+      "comments": 28,
       "domain": "tinfoil.sh"
-    },
-    {
-      "id": 47103136,
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 33,
-      "by": "iancmceachern",
-      "time": 1771697364,
-      "comments": 77,
-      "domain": "carbuzz.com"
     },
     {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 238,
+      "score": 244,
       "by": "spzb",
       "time": 1771426618,
-      "comments": 150,
+      "comments": 156,
       "domain": "deadlanguagesociety.com"
-    },
-    {
-      "id": 47102975,
-      "title": "Personal Statement of a CIA Analyst",
-      "url": "https://antipolygraph.org/statements/statement-038.shtml",
-      "score": 75,
-      "by": "grubbs",
-      "time": 1771696142,
-      "comments": 38,
-      "domain": "antipolygraph.org"
     },
     {
       "id": 47102576,
       "title": "What not to write on your security clearance form (1988)",
       "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 322,
+      "score": 328,
       "by": "wizardforhire",
       "time": 1771693692,
-      "comments": 124,
+      "comments": 128,
       "domain": "milk.com"
-    },
-    {
-      "id": 47101171,
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "score": 106,
-      "by": "phront",
-      "time": 1771684336,
-      "comments": 74,
-      "domain": "koreaherald.com"
     },
     {
       "id": 47103506,
       "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
       "url": "https://github.com/a-e-k/canvas_ity",
-      "score": 28,
+      "score": 30,
       "by": "PaulHoule",
       "time": 1771699819,
       "comments": 13,
@@ -125,11 +105,41 @@
       "id": 47100232,
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "url": "https://github.com/tnm/zclaw",
-      "score": 22,
+      "score": 24,
       "by": "tosh",
       "time": 1771677472,
       "comments": 15,
       "domain": "github.com"
+    },
+    {
+      "id": 47101171,
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "score": 110,
+      "by": "phront",
+      "time": 1771684336,
+      "comments": 76,
+      "domain": "koreaherald.com"
+    },
+    {
+      "id": 47102975,
+      "title": "Personal Statement of a CIA Analyst",
+      "url": "https://antipolygraph.org/statements/statement-038.shtml",
+      "score": 81,
+      "by": "grubbs",
+      "time": 1771696142,
+      "comments": 42,
+      "domain": "antipolygraph.org"
+    },
+    {
+      "id": 47103649,
+      "title": "Cloudflare outage on February 20, 2026",
+      "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
+      "score": 111,
+      "by": "nomaxx117",
+      "time": 1771700731,
+      "comments": 78,
+      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47104223,
@@ -138,27 +148,17 @@
       "score": 10,
       "by": "todsacerdoti",
       "time": 1771704840,
-      "comments": 2,
+      "comments": 3,
       "domain": "github.com"
-    },
-    {
-      "id": 47103649,
-      "title": "Cloudflare outage on February 20, 2026",
-      "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "score": 107,
-      "by": "nomaxx117",
-      "time": 1771700731,
-      "comments": 77,
-      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47096253,
       "title": "Claws are now a new layer on top of LLM agents",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 125,
+      "score": 128,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 536,
+      "comments": 539,
       "domain": "twitter.com"
     },
     {
@@ -168,7 +168,7 @@
       "score": 50,
       "by": "surprisetalk",
       "time": 1771623931,
-      "comments": 28,
+      "comments": 29,
       "domain": "loonlang.com"
     },
     {
@@ -178,7 +178,7 @@
       "score": 62,
       "by": "tosh",
       "time": 1771332037,
-      "comments": 11,
+      "comments": 12,
       "domain": "wiki.xxiivv.com"
     },
     {
@@ -190,6 +190,16 @@
       "time": 1771658018,
       "comments": 96,
       "domain": "acmeweather.com"
+    },
+    {
+      "id": 47104613,
+      "title": "Online Pebble Development",
+      "url": "https://cloudpebble.repebble.com/",
+      "score": 3,
+      "by": "teekert",
+      "time": 1771707046,
+      "comments": 0,
+      "domain": "cloudpebble.repebble.com"
     },
     {
       "id": 47065146,
@@ -205,7 +215,7 @@
       "id": 47101890,
       "title": "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
       "url": "https://github.com/Ragnaroek/iron-wolf",
-      "score": 46,
+      "score": 47,
       "by": "ragnaroekX",
       "time": 1771689140,
       "comments": 17,
@@ -235,10 +245,10 @@
       "id": 47095597,
       "title": "Be wary of Bluesky",
       "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "score": 171,
+      "score": 173,
       "by": "kevinak",
       "time": 1771630533,
-      "comments": 130,
+      "comments": 132,
       "domain": "kevinak.se"
     },
     {
@@ -252,6 +262,16 @@
       "domain": "nature.com"
     },
     {
+      "id": 47103418,
+      "title": "The Software Development Lifecycle Is Dead",
+      "url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
+      "score": 13,
+      "by": "zenon_paradox",
+      "time": 1771699244,
+      "comments": 12,
+      "domain": "boristane.com"
+    },
+    {
       "id": 47095105,
       "title": "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
       "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
@@ -262,34 +282,14 @@
       "domain": "aol.com"
     },
     {
-      "id": 47094877,
-      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "score": 114,
-      "by": "frou_dh",
-      "time": 1771626476,
-      "comments": 71,
-      "domain": "adamj.eu"
-    },
-    {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1947,
+      "score": 1949,
       "by": "LorenDB",
       "time": 1771610331,
       "comments": 670,
       "domain": "f-droid.org"
-    },
-    {
-      "id": 47102208,
-      "title": "The Nekonomicon – Nekochan.net Archive, Updated",
-      "url": "http://nekonomicon.irixnet.org/",
-      "score": 40,
-      "by": "ThatGuyRaion",
-      "time": 1771691221,
-      "comments": 8,
-      "domain": "nekonomicon.irixnet.org"
     }
   ]
 }
