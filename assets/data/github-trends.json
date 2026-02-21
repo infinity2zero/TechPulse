@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-21T10:32:58.344Z",
+  "lastUpdated": "2026-02-21T10:54:48.061Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4674,
+      "stars": 4676,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T10:26:26Z"
+      "updated_at": "2026-02-21T10:50:20Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2012,
+      "stars": 2013,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T10:28:14Z"
+      "updated_at": "2026-02-21T10:53:20Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1882,
+      "stars": 1888,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-21T10:22:53Z"
+      "updated_at": "2026-02-21T10:53:43Z"
     },
     {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1364,
+      "stars": 1365,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-21T10:32:58Z"
+      "updated_at": "2026-02-21T10:35:18Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1282,
+      "stars": 1288,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-21T10:31:24Z"
+      "updated_at": "2026-02-21T10:53:00Z"
     },
     {
       "id": 1159122506,
       "name": "Zaneham/BarraCUDA",
       "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
-      "stars": 1230,
+      "stars": 1232,
       "language": "C",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "owner": {
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-21T07:37:05Z"
+      "updated_at": "2026-02-21T10:52:52Z"
     },
     {
       "id": 1158588224,
@@ -135,14 +135,14 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 630,
+      "stars": 633,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T10:20:25Z"
+      "updated_at": "2026-02-21T10:42:59Z"
     },
     {
       "id": 1158678506,
@@ -184,6 +184,19 @@
       "updated_at": "2026-02-21T09:51:55Z"
     },
     {
+      "id": 1161318197,
+      "name": "RightNow-AI/picolm",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "stars": 451,
+      "language": "C",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "owner": {
+        "login": "RightNow-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+      },
+      "updated_at": "2026-02-21T10:44:41Z"
+    },
+    {
       "id": 1158541291,
       "name": "frank-vpl/IRBox",
       "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes",
@@ -197,30 +210,17 @@
       "updated_at": "2026-02-21T09:48:30Z"
     },
     {
-      "id": 1161318197,
-      "name": "RightNow-AI/picolm",
-      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 447,
-      "language": "C",
-      "url": "https://github.com/RightNow-AI/picolm",
-      "owner": {
-        "login": "RightNow-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
-      },
-      "updated_at": "2026-02-21T10:18:28Z"
-    },
-    {
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 421,
+      "stars": 423,
       "language": "Rust",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T10:28:36Z"
+      "updated_at": "2026-02-21T10:41:17Z"
     },
     {
       "id": 1161025758,
@@ -252,14 +252,14 @@
       "id": 1160175822,
       "name": "Pickle-Pixel/ApplyPilot",
       "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 268,
+      "stars": 270,
       "language": "Python",
       "url": "https://github.com/Pickle-Pixel/ApplyPilot",
       "owner": {
         "login": "Pickle-Pixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
       },
-      "updated_at": "2026-02-21T09:15:14Z"
+      "updated_at": "2026-02-21T10:40:24Z"
     }
   ]
 }
