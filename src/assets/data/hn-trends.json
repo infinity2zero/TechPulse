@@ -1,81 +1,91 @@
 {
-  "lastUpdated": "2026-02-21T20:51:09.015Z",
+  "lastUpdated": "2026-02-21T21:01:39.907Z",
   "items": [
     {
       "id": 47103931,
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 42,
+      "score": 43,
       "by": "todsacerdoti",
       "time": 1771702806,
-      "comments": 13,
+      "comments": 15,
       "domain": "harudagondi.space"
     },
     {
       "id": 47104185,
       "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
       "url": "https://www.eduke32.com/",
-      "score": 12,
+      "score": 21,
       "by": "reconnecting",
       "time": 1771704613,
-      "comments": 2,
+      "comments": 3,
       "domain": "eduke32.com"
     },
     {
       "id": 47102975,
       "title": "Personal Statement of a CIA Analyst",
       "url": "https://antipolygraph.org/statements/statement-038.shtml",
-      "score": 55,
+      "score": 57,
       "by": "grubbs",
       "time": 1771696142,
-      "comments": 26,
+      "comments": 27,
       "domain": "antipolygraph.org"
     },
     {
       "id": 47098245,
       "title": "I verified my LinkedIn identity. Here's what I handed over",
       "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 951,
+      "score": 962,
       "by": "ColinWright",
       "time": 1771657578,
-      "comments": 358,
+      "comments": 363,
       "domain": "thelocalstack.eu"
     },
     {
       "id": 47103945,
       "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
       "url": "https://inputlag.science",
-      "score": 26,
+      "score": 27,
       "by": "akyuu",
       "time": 1771702912,
-      "comments": 2,
+      "comments": 3,
       "domain": "inputlag.science"
     },
     {
       "id": 47098172,
       "title": "How an inference provider can prove they're not serving a quantized model",
       "url": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
-      "score": 30,
+      "score": 33,
       "by": "FrasiertheLion",
       "time": 1771656837,
       "comments": 5,
       "domain": "tinfoil.sh"
     },
     {
+      "id": 47059147,
+      "title": "I Don't Like Magic",
+      "url": "https://adactio.com/journal/22399",
+      "score": 17,
+      "by": "edent",
+      "time": 1771407760,
+      "comments": 2,
+      "domain": "adactio.com"
+    },
+    {
       "id": 47102576,
       "title": "What not to write on your security clearance form (1988)",
       "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 305,
+      "score": 307,
       "by": "wizardforhire",
       "time": 1771693692,
-      "comments": 110,
+      "comments": 113,
       "domain": "milk.com"
     },
     {
       "id": 47103506,
       "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
       "url": "https://github.com/a-e-k/canvas_ity",
-      "score": 22,
+      "score": 23,
       "by": "PaulHoule",
       "time": 1771699819,
       "comments": 9,
@@ -85,31 +95,31 @@
       "id": 47103649,
       "title": "Cloudflare outage on February 20, 2026",
       "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "score": 88,
+      "score": 94,
       "by": "nomaxx117",
       "time": 1771700731,
-      "comments": 57,
+      "comments": 65,
       "domain": "blog.cloudflare.com"
-    },
-    {
-      "id": 47059147,
-      "title": "I Don't Like Magic",
-      "url": "https://adactio.com/journal/22399",
-      "score": 13,
-      "by": "edent",
-      "time": 1771407760,
-      "comments": 1,
-      "domain": "adactio.com"
     },
     {
       "id": 47094429,
       "title": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
       "url": "https://loonlang.com",
-      "score": 37,
+      "score": 41,
       "by": "surprisetalk",
       "time": 1771623931,
-      "comments": 11,
+      "comments": 12,
       "domain": "loonlang.com"
+    },
+    {
+      "id": 47061614,
+      "title": "How far back in time can you understand English?",
+      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+      "score": 222,
+      "by": "spzb",
+      "time": 1771426618,
+      "comments": 129,
+      "domain": "deadlanguagesociety.com"
     },
     {
       "id": 47100232,
@@ -118,54 +128,44 @@
       "score": 14,
       "by": "tosh",
       "time": 1771677472,
-      "comments": 6,
+      "comments": 8,
       "domain": "github.com"
-    },
-    {
-      "id": 47061614,
-      "title": "How far back in time can you understand English?",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 218,
-      "by": "spzb",
-      "time": 1771426618,
-      "comments": 125,
-      "domain": "deadlanguagesociety.com"
     },
     {
       "id": 47096253,
       "title": "Claws are now a new layer on top of LLM agents",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 106,
+      "score": 110,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 495,
+      "comments": 505,
       "domain": "twitter.com"
-    },
-    {
-      "id": 47046858,
-      "title": "Permacomputing",
-      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "score": 48,
-      "by": "tosh",
-      "time": 1771332037,
-      "comments": 8,
-      "domain": "wiki.xxiivv.com"
     },
     {
       "id": 47098296,
       "title": "Acme Weather",
       "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "score": 144,
+      "score": 145,
       "by": "cryptoz",
       "time": 1771658018,
       "comments": 93,
       "domain": "acmeweather.com"
     },
     {
+      "id": 47046858,
+      "title": "Permacomputing",
+      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
+      "score": 50,
+      "by": "tosh",
+      "time": 1771332037,
+      "comments": 9,
+      "domain": "wiki.xxiivv.com"
+    },
+    {
       "id": 47101890,
       "title": "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
       "url": "https://github.com/Ragnaroek/iron-wolf",
-      "score": 38,
+      "score": 41,
       "by": "ragnaroekX",
       "time": 1771689140,
       "comments": 13,
@@ -178,14 +178,14 @@
       "score": 99,
       "by": "somerandomness",
       "time": 1771611062,
-      "comments": 83,
+      "comments": 84,
       "domain": "twitter.com"
     },
     {
       "id": 47098582,
       "title": "AI uBlock Blacklist",
       "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "score": 178,
+      "score": 181,
       "by": "rdmuser",
       "time": 1771661449,
       "comments": 75,
@@ -202,24 +202,24 @@
       "domain": "nature.com"
     },
     {
-      "id": 47095105,
-      "title": "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
-      "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
-      "score": 54,
-      "by": "paulpauper",
-      "time": 1771627678,
-      "comments": 58,
-      "domain": "aol.com"
-    },
-    {
       "id": 47095597,
       "title": "Be wary of Bluesky",
       "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "score": 153,
+      "score": 156,
       "by": "kevinak",
       "time": 1771630533,
-      "comments": 108,
+      "comments": 112,
       "domain": "kevinak.se"
+    },
+    {
+      "id": 47095105,
+      "title": "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
+      "score": 55,
+      "by": "paulpauper",
+      "time": 1771627678,
+      "comments": 59,
+      "domain": "aol.com"
     },
     {
       "id": 47091419,
@@ -228,37 +228,37 @@
       "score": 1944,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 660,
+      "comments": 661,
       "domain": "f-droid.org"
-    },
-    {
-      "id": 47094877,
-      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "score": 100,
-      "by": "frou_dh",
-      "time": 1771626476,
-      "comments": 65,
-      "domain": "adamj.eu"
     },
     {
       "id": 47102208,
       "title": "The Nekonomicon – Nekochan.net Archive, Updated",
       "url": "http://nekonomicon.irixnet.org/",
-      "score": 33,
+      "score": 35,
       "by": "ThatGuyRaion",
       "time": 1771691221,
       "comments": 8,
       "domain": "nekonomicon.irixnet.org"
     },
     {
+      "id": 47094877,
+      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
+      "score": 101,
+      "by": "frou_dh",
+      "time": 1771626476,
+      "comments": 65,
+      "domain": "adamj.eu"
+    },
+    {
       "id": 47101200,
       "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
       "url": "https://igorstechnoclub.com/sandbox-exec/",
-      "score": 171,
+      "score": 174,
       "by": "Igor_Wiwi",
       "time": 1771684485,
-      "comments": 68,
+      "comments": 69,
       "domain": "igorstechnoclub.com"
     },
     {
