@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T16:48:15.555Z",
+  "lastUpdated": "2026-02-21T17:04:10.658Z",
   "items": [
     {
       "id": 1158605484,
@@ -18,66 +18,66 @@
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2118,
+      "stars": 2122,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T16:41:51Z"
+      "updated_at": "2026-02-21T17:00:29Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1918,
+      "stars": 1920,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-21T16:45:12Z"
+      "updated_at": "2026-02-21T16:52:07Z"
     },
     {
       "id": 1158631460,
       "name": "agenticnotetaking/arscontexta",
       "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1423,
+      "stars": 1426,
       "language": "Shell",
       "url": "https://github.com/agenticnotetaking/arscontexta",
       "owner": {
         "login": "agenticnotetaking",
         "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
       },
-      "updated_at": "2026-02-21T16:43:50Z"
+      "updated_at": "2026-02-21T17:03:38Z"
     },
     {
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1385,
+      "stars": 1392,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-21T16:40:56Z"
+      "updated_at": "2026-02-21T17:02:14Z"
     },
     {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1255,
+      "stars": 1259,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-21T16:37:54Z"
+      "updated_at": "2026-02-21T17:03:31Z"
     },
     {
       "id": 1159122506,
@@ -135,27 +135,27 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 714,
+      "stars": 718,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T16:46:40Z"
+      "updated_at": "2026-02-21T17:04:07Z"
     },
     {
       "id": 1158678506,
       "name": "davidhariri/life-system",
       "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
-      "stars": 606,
+      "stars": 607,
       "language": "Shell",
       "url": "https://github.com/davidhariri/life-system",
       "owner": {
         "login": "davidhariri",
         "avatar_url": "https://avatars.githubusercontent.com/u/5245670?v=4"
       },
-      "updated_at": "2026-02-21T15:47:00Z"
+      "updated_at": "2026-02-21T16:58:08Z"
     },
     {
       "id": 1158269547,
@@ -174,14 +174,14 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 500,
+      "stars": 502,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-21T16:29:47Z"
+      "updated_at": "2026-02-21T16:56:55Z"
     },
     {
       "id": 1158560615,
@@ -200,14 +200,14 @@
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 469,
+      "stars": 472,
       "language": "Rust",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T16:39:47Z"
+      "updated_at": "2026-02-21T16:56:12Z"
     },
     {
       "id": 1158541291,
@@ -226,14 +226,14 @@
       "id": 1160175822,
       "name": "Pickle-Pixel/ApplyPilot",
       "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 300,
+      "stars": 302,
       "language": "Python",
       "url": "https://github.com/Pickle-Pixel/ApplyPilot",
       "owner": {
         "login": "Pickle-Pixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
       },
-      "updated_at": "2026-02-21T15:33:57Z"
+      "updated_at": "2026-02-21T16:51:40Z"
     },
     {
       "id": 1161025758,
@@ -252,14 +252,14 @@
       "id": 1161754368,
       "name": "angel10x/Crash-Frontend",
       "description": "About Crash game - frontend",
-      "stars": 292,
+      "stars": 293,
       "language": "TypeScript",
       "url": "https://github.com/angel10x/Crash-Frontend",
       "owner": {
         "login": "angel10x",
         "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
       },
-      "updated_at": "2026-02-21T16:39:47Z"
+      "updated_at": "2026-02-21T17:01:32Z"
     }
   ]
 }
