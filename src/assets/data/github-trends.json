@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-21T21:32:07.857Z",
+  "lastUpdated": "2026-02-21T21:49:12.659Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4815,
+      "stars": 4818,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T21:22:07Z"
+      "updated_at": "2026-02-21T21:48:37Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2179,
+      "stars": 2183,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T21:24:16Z"
+      "updated_at": "2026-02-21T21:45:17Z"
     },
     {
       "id": 1158537997,
@@ -41,43 +41,43 @@
       "updated_at": "2026-02-21T21:14:56Z"
     },
     {
-      "id": 1159542259,
-      "name": "nullclaw/nullclaw",
-      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1454,
-      "language": "Zig",
-      "url": "https://github.com/nullclaw/nullclaw",
-      "owner": {
-        "login": "nullclaw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
-      },
-      "updated_at": "2026-02-21T21:25:15Z"
-    },
-    {
-      "id": 1158631460,
-      "name": "agenticnotetaking/arscontexta",
-      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-      "stars": 1452,
-      "language": "Shell",
-      "url": "https://github.com/agenticnotetaking/arscontexta",
-      "owner": {
-        "login": "agenticnotetaking",
-        "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
-      },
-      "updated_at": "2026-02-21T21:13:53Z"
-    },
-    {
       "id": 1158588224,
       "name": "AlexsJones/llmfit",
       "description": "157 models. 30 providers. One command to find what runs on your hardware.",
-      "stars": 1445,
+      "stars": 1464,
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit",
       "owner": {
         "login": "AlexsJones",
         "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
       },
-      "updated_at": "2026-02-21T21:31:17Z"
+      "updated_at": "2026-02-21T21:47:33Z"
+    },
+    {
+      "id": 1159542259,
+      "name": "nullclaw/nullclaw",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "stars": 1458,
+      "language": "Zig",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "owner": {
+        "login": "nullclaw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
+      },
+      "updated_at": "2026-02-21T21:48:34Z"
+    },
+    {
+      "id": 1158631460,
+      "name": "agenticnotetaking/arscontexta",
+      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+      "stars": 1455,
+      "language": "Shell",
+      "url": "https://github.com/agenticnotetaking/arscontexta",
+      "owner": {
+        "login": "agenticnotetaking",
+        "avatar_url": "https://avatars.githubusercontent.com/u/261767629?v=4"
+      },
+      "updated_at": "2026-02-21T21:48:21Z"
     },
     {
       "id": 1159122506,
@@ -96,14 +96,14 @@
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "stars": 1078,
+      "stars": 1079,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-21T21:04:48Z"
+      "updated_at": "2026-02-21T21:37:39Z"
     },
     {
       "id": 1159483541,
@@ -194,7 +194,7 @@
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T21:28:06Z"
+      "updated_at": "2026-02-21T21:41:34Z"
     },
     {
       "id": 1158560615,
@@ -226,14 +226,14 @@
       "id": 1163317794,
       "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "description": null,
-      "stars": 334,
+      "stars": 339,
       "language": "Python",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "owner": {
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-21T21:26:46Z"
+      "updated_at": "2026-02-21T21:46:09Z"
     },
     {
       "id": 1160175822,
@@ -249,17 +249,17 @@
       "updated_at": "2026-02-21T20:50:40Z"
     },
     {
-      "id": 1161025758,
-      "name": "TraderAlice/OpenAlice",
-      "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 295,
-      "language": "TypeScript",
-      "url": "https://github.com/TraderAlice/OpenAlice",
+      "id": 1160953701,
+      "name": "socprime/detectflow-main",
+      "description": "Detection intelligence turbocharged with Al.",
+      "stars": 298,
+      "language": null,
+      "url": "https://github.com/socprime/detectflow-main",
       "owner": {
-        "login": "TraderAlice",
-        "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
+        "login": "socprime",
+        "avatar_url": "https://avatars.githubusercontent.com/u/37212749?v=4"
       },
-      "updated_at": "2026-02-21T18:16:07Z"
+      "updated_at": "2026-02-21T21:45:43Z"
     }
   ]
 }
