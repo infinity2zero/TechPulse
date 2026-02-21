@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-02-21T07:43:56.505Z",
+  "lastUpdated": "2026-02-21T07:58:02.332Z",
   "items": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1365,
+      "score": 1377,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 513,
+      "comments": 518,
       "domain": "f-droid.org"
     },
     {
       "id": 47094192,
       "title": "Turn Dependabot Off",
       "url": "https://words.filippo.io/dependabot/",
-      "score": 403,
+      "score": 411,
       "by": "todsacerdoti",
       "time": 1771622741,
-      "comments": 106,
+      "comments": 108,
       "domain": "words.filippo.io"
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 510,
+      "score": 517,
       "by": "toomuchtodo",
       "time": 1771615198,
-      "comments": 214,
+      "comments": 218,
       "domain": "dixken.de"
     },
     {
       "id": 47091748,
       "title": "Facebook is cooked",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 977,
+      "score": 990,
       "by": "npilk",
       "time": 1771611907,
-      "comments": 542,
+      "comments": 545,
       "domain": "pilk.website"
     },
     {
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 719,
+      "score": 720,
       "by": "lairv",
       "time": 1771595464,
       "comments": 178,
@@ -55,81 +55,71 @@
       "id": 47095429,
       "title": "CERN rebuilt the original browser from 1989 (2019)",
       "url": "https://worldwideweb.cern.ch",
-      "score": 151,
+      "score": 155,
       "by": "tylerdane",
       "time": 1771629552,
-      "comments": 50,
+      "comments": 52,
       "domain": "worldwideweb.cern.ch"
     },
     {
       "id": 47092006,
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
       "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 398,
+      "score": 402,
       "by": "nobody9999",
       "time": 1771612941,
-      "comments": 234,
+      "comments": 237,
       "domain": "arstechnica.com"
-    },
-    {
-      "id": 47097502,
-      "title": "Meta Deployed AI and It Is Killing Our Agency",
-      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-      "score": 110,
-      "by": "zenincognito",
-      "time": 1771648180,
-      "comments": 63,
-      "domain": "mojodojo.io"
     },
     {
       "id": 47065729,
       "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
       "url": "https://www.nature.com/articles/d41586-026-00502-2",
-      "score": 33,
+      "score": 37,
       "by": "gnabgib",
       "time": 1771445533,
-      "comments": 21,
+      "comments": 22,
       "domain": "nature.com"
     },
     {
       "id": 47096520,
       "title": "What Is OAuth?",
       "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-      "score": 93,
+      "score": 98,
       "by": "cratermoon",
       "time": 1771637620,
-      "comments": 19,
+      "comments": 21,
       "domain": "leaflet.pub"
     },
     {
       "id": 47058584,
       "title": "Index, Count, Offset, Size",
       "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
-      "score": 67,
+      "score": 72,
       "by": "ingve",
       "time": 1771402817,
       "comments": 19,
       "domain": "tigerbeetle.com"
     },
     {
+      "id": 47097502,
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "score": 115,
+      "by": "zenincognito",
+      "time": 1771648180,
+      "comments": 69,
+      "domain": "mojodojo.io"
+    },
+    {
       "id": 47092203,
       "title": "Every company building your AI assistant is now an ad company",
       "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-      "score": 162,
+      "score": 166,
       "by": "ajuhasz",
       "time": 1771613715,
-      "comments": 82,
+      "comments": 84,
       "domain": "juno-labs.com"
-    },
-    {
-      "id": 47093724,
-      "title": "OpenScan",
-      "url": "https://openscan.eu/pages/scan-gallery",
-      "score": 146,
-      "by": "joebig",
-      "time": 1771620468,
-      "comments": 7,
-      "domain": "openscan.eu"
     },
     {
       "id": 47096466,
@@ -138,14 +128,24 @@
       "score": 69,
       "by": "gfortaine",
       "time": 1771637255,
-      "comments": 36,
+      "comments": 37,
       "domain": "june.kim"
+    },
+    {
+      "id": 47093724,
+      "title": "OpenScan",
+      "url": "https://openscan.eu/pages/scan-gallery",
+      "score": 148,
+      "by": "joebig",
+      "time": 1771620468,
+      "comments": 8,
+      "domain": "openscan.eu"
     },
     {
       "id": 47094149,
       "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
       "url": "https://mines.fyi/",
-      "score": 74,
+      "score": 75,
       "by": "irasigman",
       "time": 1771622547,
       "comments": 40,
@@ -155,47 +155,57 @@
       "id": 47091606,
       "title": "Blue light filters don't work – controlling total luminance is a better bet",
       "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 153,
+      "score": 156,
       "by": "pminimax",
       "time": 1771611253,
       "comments": 174,
       "domain": "neuroai.science"
     },
     {
-      "id": 47086181,
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 717,
-      "by": "sidnarsipur",
-      "time": 1771583572,
-      "comments": 405,
-      "domain": "taalas.com"
-    },
-    {
       "id": 47095134,
       "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
       "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "score": 292,
+      "score": 299,
       "by": "latexr",
       "time": 1771627835,
-      "comments": 134,
+      "comments": 135,
       "domain": "bloodinthemachine.com"
+    },
+    {
+      "id": 47086181,
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "score": 719,
+      "by": "sidnarsipur",
+      "time": 1771583572,
+      "comments": 407,
+      "domain": "taalas.com"
     },
     {
       "id": 47089213,
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 1362,
+      "score": 1366,
       "by": "blackguardx",
       "time": 1771601258,
-      "comments": 1110,
+      "comments": 1116,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47047027,
+      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+      "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+      "score": 3,
+      "by": "tesserato",
+      "time": 1771333117,
+      "comments": 1,
+      "domain": "venturebeat.com"
     },
     {
       "id": 47045194,
       "title": "SwiftForth IDE for Windows, Linux, macOS",
       "url": "https://www.forth.com/swiftforth/",
-      "score": 17,
+      "score": 18,
       "by": "tosh",
       "time": 1771318513,
       "comments": 5,
@@ -222,16 +232,6 @@
       "domain": "macleans.ca"
     },
     {
-      "id": 47064048,
-      "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
-      "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
-      "score": 15,
-      "by": "ibobev",
-      "time": 1771437858,
-      "comments": 3,
-      "domain": "blog.conan.io"
-    },
-    {
       "id": 47091469,
       "title": "Making frontier cybersecurity capabilities available to defenders",
       "url": "https://www.anthropic.com/news/claude-code-security",
@@ -245,31 +245,31 @@
       "id": 47088166,
       "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
       "url": "https://github.com/IronsideXXVI/Hacker-News",
-      "score": 204,
+      "score": 206,
       "by": "IronsideXXVI",
       "time": 1771596125,
       "comments": 142,
       "domain": "github.com"
     },
     {
+      "id": 47064048,
+      "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
+      "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
+      "score": 16,
+      "by": "ibobev",
+      "time": 1771437858,
+      "comments": 3,
+      "domain": "blog.conan.io"
+    },
+    {
       "id": 47085425,
       "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
       "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 218,
+      "score": 220,
       "by": "andreabergia",
       "time": 1771577537,
-      "comments": 36,
+      "comments": 37,
       "domain": "jimmyhmiller.com"
-    },
-    {
-      "id": 47097904,
-      "title": "Colorado moves age checks from websites to operating systems",
-      "url": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
-      "score": 21,
-      "by": "iamnothere",
-      "time": 1771653689,
-      "comments": 14,
-      "domain": "biometricupdate.com"
     },
     {
       "id": 47037568,
@@ -292,14 +292,14 @@
       "domain": "bertptrs.nl"
     },
     {
-      "id": 47088181,
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 642,
-      "by": "spencerldixon",
-      "time": 1771596186,
-      "comments": 219,
-      "domain": "spencer.wtf"
+      "id": 47097904,
+      "title": "Colorado moves age checks from websites to operating systems",
+      "url": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+      "score": 24,
+      "by": "iamnothere",
+      "time": 1771653689,
+      "comments": 17,
+      "domain": "biometricupdate.com"
     }
   ]
 }
