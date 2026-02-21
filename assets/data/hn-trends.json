@@ -1,81 +1,71 @@
 {
-  "lastUpdated": "2026-02-21T09:49:22.747Z",
+  "lastUpdated": "2026-02-21T10:00:43.740Z",
   "items": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1479,
+      "score": 1484,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 546,
+      "comments": 553,
       "domain": "f-droid.org"
-    },
-    {
-      "id": 47098744,
-      "title": "24 Hour Fitness Won't Let You Unsubscribe From Marketing Spam, So I Fixed It",
-      "url": "https://ahmedkaddoura.com/projects/24hf-unsubscribe",
-      "score": 19,
-      "by": "daem",
-      "time": 1771663187,
-      "comments": 0,
-      "domain": "ahmedkaddoura.com"
     },
     {
       "id": 47098296,
       "title": "Acme Weather",
       "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "score": 31,
+      "score": 36,
       "by": "cryptoz",
       "time": 1771658018,
-      "comments": 10,
+      "comments": 14,
       "domain": "acmeweather.com"
+    },
+    {
+      "id": 47098252,
+      "title": "Trunk Based Development",
+      "url": "https://trunkbaseddevelopment.com/",
+      "score": 27,
+      "by": "handfuloflight",
+      "time": 1771657632,
+      "comments": 15,
+      "domain": "trunkbaseddevelopment.com"
     },
     {
       "id": 47094192,
       "title": "Turn Dependabot off",
       "url": "https://words.filippo.io/dependabot/",
-      "score": 453,
+      "score": 456,
       "by": "todsacerdoti",
       "time": 1771622741,
-      "comments": 116,
+      "comments": 117,
       "domain": "words.filippo.io"
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 578,
+      "score": 582,
       "by": "toomuchtodo",
       "time": 1771615198,
-      "comments": 259,
+      "comments": 261,
       "domain": "dixken.de"
-    },
-    {
-      "id": 47098252,
-      "title": "Trunk Based Development",
-      "url": "https://trunkbaseddevelopment.com/",
-      "score": 25,
-      "by": "handfuloflight",
-      "time": 1771657632,
-      "comments": 13,
-      "domain": "trunkbaseddevelopment.com"
     },
     {
       "id": 47091748,
       "title": "Facebook is cooked",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 1075,
+      "score": 1081,
       "by": "npilk",
       "time": 1771611907,
-      "comments": 581,
+      "comments": 587,
       "domain": "pilk.website"
     },
     {
       "id": 47047027,
       "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
       "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-      "score": 30,
+      "score": 32,
       "by": "tesserato",
       "time": 1771333117,
       "comments": 16,
@@ -95,31 +85,31 @@
       "id": 47092006,
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
       "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 434,
+      "score": 436,
       "by": "nobody9999",
       "time": 1771612941,
-      "comments": 261,
+      "comments": 265,
       "domain": "arstechnica.com"
-    },
-    {
-      "id": 47095429,
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "url": "https://worldwideweb.cern.ch",
-      "score": 177,
-      "by": "tylerdane",
-      "time": 1771629552,
-      "comments": 61,
-      "domain": "worldwideweb.cern.ch"
     },
     {
       "id": 47098687,
       "title": "EU mandates replaceable batteries by 2027 (2023)",
       "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-      "score": 36,
+      "score": 44,
       "by": "cyrusmg",
       "time": 1771662522,
-      "comments": 17,
+      "comments": 23,
       "domain": "environment.ec.europa.eu"
+    },
+    {
+      "id": 47095429,
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "url": "https://worldwideweb.cern.ch",
+      "score": 178,
+      "by": "tylerdane",
+      "time": 1771629552,
+      "comments": 61,
+      "domain": "worldwideweb.cern.ch"
     },
     {
       "id": 47045175,
@@ -132,24 +122,34 @@
       "domain": "github.com"
     },
     {
+      "id": 47098245,
+      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 21,
+      "by": "ColinWright",
+      "time": 1771657578,
+      "comments": 6,
+      "domain": "thelocalstack.eu"
+    },
+    {
+      "id": 47098828,
+      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
+      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
+      "score": 23,
+      "by": "XzetaU8",
+      "time": 1771664076,
+      "comments": 4,
+      "domain": "neowin.net"
+    },
+    {
       "id": 47096520,
       "title": "What Is OAuth?",
       "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
       "score": 115,
       "by": "cratermoon",
       "time": 1771637620,
-      "comments": 36,
+      "comments": 37,
       "domain": "leaflet.pub"
-    },
-    {
-      "id": 47098245,
-      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 14,
-      "by": "ColinWright",
-      "time": 1771657578,
-      "comments": 4,
-      "domain": "thelocalstack.eu"
     },
     {
       "id": 47092203,
@@ -162,34 +162,64 @@
       "domain": "juno-labs.com"
     },
     {
+      "id": 47098744,
+      "title": "24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it",
+      "url": "https://ahmedkaddoura.com/projects/24hf-unsubscribe",
+      "score": 37,
+      "by": "daem",
+      "time": 1771663187,
+      "comments": 2,
+      "domain": "ahmedkaddoura.com"
+    },
+    {
       "id": 47096466,
       "title": "Cord: Coordinating Trees of AI Agents",
       "url": "https://www.june.kim/cord",
       "score": 93,
       "by": "gfortaine",
       "time": 1771637255,
-      "comments": 42,
+      "comments": 41,
       "domain": "june.kim"
     },
     {
-      "id": 47098828,
-      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
-      "url": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
-      "score": 15,
-      "by": "XzetaU8",
-      "time": 1771664076,
-      "comments": 1,
-      "domain": "neowin.net"
+      "id": 47049499,
+      "title": "Understanding Std:Shared_mutex from C++17",
+      "url": "https://www.cppstories.com/2026/shared_mutex/",
+      "score": 3,
+      "by": "ibobev",
+      "time": 1771346619,
+      "comments": 0,
+      "domain": "cppstories.com"
     },
     {
       "id": 47058584,
       "title": "Index, Count, Offset, Size",
       "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
-      "score": 81,
+      "score": 82,
       "by": "ingve",
       "time": 1771402817,
       "comments": 24,
       "domain": "tigerbeetle.com"
+    },
+    {
+      "id": 47094149,
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "url": "https://mines.fyi/",
+      "score": 80,
+      "by": "irasigman",
+      "time": 1771622547,
+      "comments": 40,
+      "domain": "mines.fyi"
+    },
+    {
+      "id": 47091606,
+      "title": "Blue light filters don't work – controlling total luminance is a better bet",
+      "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
+      "score": 167,
+      "by": "pminimax",
+      "time": 1771611253,
+      "comments": 182,
+      "domain": "neuroai.science"
     },
     {
       "id": 47093724,
@@ -198,37 +228,17 @@
       "score": 158,
       "by": "joebig",
       "time": 1771620468,
-      "comments": 9,
+      "comments": 10,
       "domain": "openscan.eu"
-    },
-    {
-      "id": 47091606,
-      "title": "Blue light filters don't work – controlling total luminance is a better bet",
-      "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 166,
-      "by": "pminimax",
-      "time": 1771611253,
-      "comments": 181,
-      "domain": "neuroai.science"
-    },
-    {
-      "id": 47094149,
-      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
-      "url": "https://mines.fyi/",
-      "score": 79,
-      "by": "irasigman",
-      "time": 1771622547,
-      "comments": 40,
-      "domain": "mines.fyi"
     },
     {
       "id": 47086181,
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 736,
+      "score": 737,
       "by": "sidnarsipur",
       "time": 1771583572,
-      "comments": 410,
+      "comments": 411,
       "domain": "taalas.com"
     },
     {
@@ -245,20 +255,20 @@
       "id": 47089213,
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 1387,
+      "score": 1391,
       "by": "blackguardx",
       "time": 1771601258,
-      "comments": 1135,
+      "comments": 1139,
       "domain": "bbc.com"
     },
     {
       "id": 47095134,
       "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
       "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "score": 330,
+      "score": 334,
       "by": "latexr",
       "time": 1771627835,
-      "comments": 149,
+      "comments": 152,
       "domain": "bloodinthemachine.com"
     },
     {
@@ -270,16 +280,6 @@
       "time": 1771658289,
       "comments": 0,
       "domain": "nubificus.co.uk"
-    },
-    {
-      "id": 47088166,
-      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://github.com/IronsideXXVI/Hacker-News",
-      "score": 219,
-      "by": "IronsideXXVI",
-      "time": 1771596125,
-      "comments": 150,
-      "domain": "github.com"
     },
     {
       "id": 47055261,
@@ -295,7 +295,7 @@
       "id": 47091071,
       "title": "Lil' Fun Langs",
       "url": "https://taylor.town/scrapscript-000",
-      "score": 114,
+      "score": 115,
       "by": "surprisetalk",
       "time": 1771608852,
       "comments": 17,

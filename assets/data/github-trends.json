@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-21T09:49:23.141Z",
+  "lastUpdated": "2026-02-21T10:00:44.038Z",
   "items": [
     {
       "id": 1158605484,
       "name": "HKUDS/ClawWork",
       "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
-      "stars": 4666,
+      "stars": 4669,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawWork",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-02-21T09:48:53Z"
+      "updated_at": "2026-02-21T09:58:21Z"
     },
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2005,
+      "stars": 2007,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-21T09:46:47Z"
+      "updated_at": "2026-02-21T09:58:53Z"
     },
     {
       "id": 1158537997,
       "name": "vercel-labs/portless",
       "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
-      "stars": 1879,
+      "stars": 1880,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/portless",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-21T09:38:10Z"
+      "updated_at": "2026-02-21T09:53:19Z"
     },
     {
       "id": 1158631460,
@@ -57,14 +57,14 @@
       "id": 1159542259,
       "name": "nullclaw/nullclaw",
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "stars": 1274,
+      "stars": 1275,
       "language": "Zig",
       "url": "https://github.com/nullclaw/nullclaw",
       "owner": {
         "login": "nullclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
       },
-      "updated_at": "2026-02-21T09:48:49Z"
+      "updated_at": "2026-02-21T09:52:56Z"
     },
     {
       "id": 1159122506,
@@ -96,14 +96,14 @@
       "id": 1158432527,
       "name": "pinchtab/pinchtab",
       "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
-      "stars": 1047,
+      "stars": 1048,
       "language": "Go",
       "url": "https://github.com/pinchtab/pinchtab",
       "owner": {
         "login": "pinchtab",
         "avatar_url": "https://avatars.githubusercontent.com/u/261754368?v=4"
       },
-      "updated_at": "2026-02-21T09:18:21Z"
+      "updated_at": "2026-02-21T09:55:46Z"
     },
     {
       "id": 1159483541,
@@ -135,14 +135,14 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 622,
+      "stars": 625,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-21T09:38:53Z"
+      "updated_at": "2026-02-21T09:58:50Z"
     },
     {
       "id": 1158678506,
@@ -174,14 +174,14 @@
       "id": 1158560615,
       "name": "owenlejeune/ArrMatey",
       "description": null,
-      "stars": 460,
+      "stars": 461,
       "language": "Kotlin",
       "url": "https://github.com/owenlejeune/ArrMatey",
       "owner": {
         "login": "owenlejeune",
         "avatar_url": "https://avatars.githubusercontent.com/u/20568035?v=4"
       },
-      "updated_at": "2026-02-21T08:22:26Z"
+      "updated_at": "2026-02-21T09:51:55Z"
     },
     {
       "id": 1158541291,
@@ -200,53 +200,53 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 441,
+      "stars": 443,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-21T09:44:41Z"
+      "updated_at": "2026-02-21T10:00:41Z"
     },
     {
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 414,
+      "stars": 416,
       "language": "Rust",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-21T09:47:13Z"
+      "updated_at": "2026-02-21T10:00:38Z"
     },
     {
       "id": 1161025758,
       "name": "TraderAlice/OpenAlice",
       "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 288,
+      "stars": 291,
       "language": "TypeScript",
       "url": "https://github.com/TraderAlice/OpenAlice",
       "owner": {
         "login": "TraderAlice",
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
-      "updated_at": "2026-02-21T09:36:30Z"
+      "updated_at": "2026-02-21T09:57:54Z"
     },
     {
       "id": 1161754368,
       "name": "angel10x/Crash-Frontend",
       "description": "About Crash game - frontend",
-      "stars": 285,
+      "stars": 286,
       "language": "TypeScript",
       "url": "https://github.com/angel10x/Crash-Frontend",
       "owner": {
         "login": "angel10x",
         "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
       },
-      "updated_at": "2026-02-21T07:31:26Z"
+      "updated_at": "2026-02-21T09:51:49Z"
     },
     {
       "id": 1160175822,
