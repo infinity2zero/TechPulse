@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-22T22:30:21.486Z",
+  "lastUpdated": "2026-02-22T22:52:58.198Z",
   "items": [
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2355,
+      "stars": 2358,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-22T22:15:16Z"
+      "updated_at": "2026-02-22T22:50:43Z"
     },
     {
       "id": 1159542259,
@@ -38,33 +38,33 @@
         "login": "Zaneham",
         "avatar_url": "https://avatars.githubusercontent.com/u/222171382?v=4"
       },
-      "updated_at": "2026-02-22T22:04:48Z"
+      "updated_at": "2026-02-22T22:34:40Z"
     },
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1005,
+      "stars": 1010,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-22T22:30:11Z"
+      "updated_at": "2026-02-22T22:49:46Z"
     },
     {
       "id": 1159494869,
       "name": "tnm/zclaw",
       "description": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.",
-      "stars": 885,
+      "stars": 894,
       "language": "C",
       "url": "https://github.com/tnm/zclaw",
       "owner": {
         "login": "tnm",
         "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=4"
       },
-      "updated_at": "2026-02-22T22:22:56Z"
+      "updated_at": "2026-02-22T22:50:37Z"
     },
     {
       "id": 1159483541,
@@ -83,79 +83,79 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 652,
+      "stars": 654,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-22T22:16:23Z"
+      "updated_at": "2026-02-22T22:48:02Z"
     },
     {
       "id": 1163317794,
       "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "description": null,
-      "stars": 643,
+      "stars": 644,
       "language": "Python",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "owner": {
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-22T22:17:30Z"
+      "updated_at": "2026-02-22T22:47:20Z"
     },
     {
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
-      "stars": 599,
+      "stars": 600,
       "language": "TypeScript",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-22T22:03:11Z"
+      "updated_at": "2026-02-22T22:40:21Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 530,
+      "stars": 539,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-22T22:29:58Z"
+      "updated_at": "2026-02-22T22:46:52Z"
     },
     {
       "id": 1161025758,
       "name": "TraderAlice/OpenAlice",
       "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 380,
+      "stars": 386,
       "language": "TypeScript",
       "url": "https://github.com/TraderAlice/OpenAlice",
       "owner": {
         "login": "TraderAlice",
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
-      "updated_at": "2026-02-22T21:50:04Z"
+      "updated_at": "2026-02-22T22:52:50Z"
     },
     {
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 374,
+      "stars": 381,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-22T22:21:04Z"
+      "updated_at": "2026-02-22T22:52:37Z"
     },
     {
       "id": 1160175822,
@@ -174,14 +174,14 @@
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 340,
+      "stars": 341,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-22T22:06:05Z"
+      "updated_at": "2026-02-22T22:42:26Z"
     },
     {
       "id": 1159234860,
@@ -200,14 +200,27 @@
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 333,
+      "stars": 335,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-22T22:28:43Z"
+      "updated_at": "2026-02-22T22:52:07Z"
+    },
+    {
+      "id": 1159472174,
+      "name": "IronsideXXVI/Hacker-News",
+      "description": "A native macOS client for Hacker News, built with SwiftUI",
+      "stars": 333,
+      "language": "Swift",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "owner": {
+        "login": "IronsideXXVI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124108462?v=4"
+      },
+      "updated_at": "2026-02-22T22:46:16Z"
     },
     {
       "id": 1160953701,
@@ -223,17 +236,17 @@
       "updated_at": "2026-02-22T18:02:59Z"
     },
     {
-      "id": 1159472174,
-      "name": "IronsideXXVI/Hacker-News",
-      "description": "A native macOS client for Hacker News, built with SwiftUI",
-      "stars": 329,
-      "language": "Swift",
-      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "id": 1161754368,
+      "name": "angel10x/Crash-Frontend",
+      "description": "About Crash game - frontend",
+      "stars": 307,
+      "language": "TypeScript",
+      "url": "https://github.com/angel10x/Crash-Frontend",
       "owner": {
-        "login": "IronsideXXVI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124108462?v=4"
+        "login": "angel10x",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
       },
-      "updated_at": "2026-02-22T22:01:51Z"
+      "updated_at": "2026-02-22T22:47:39Z"
     },
     {
       "id": 1161940285,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
       "updated_at": "2026-02-22T22:04:40Z"
-    },
-    {
-      "id": 1161754368,
-      "name": "angel10x/Crash-Frontend",
-      "description": "About Crash game - frontend",
-      "stars": 303,
-      "language": "TypeScript",
-      "url": "https://github.com/angel10x/Crash-Frontend",
-      "owner": {
-        "login": "angel10x",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
-      },
-      "updated_at": "2026-02-22T17:11:15Z"
     }
   ]
 }
