@@ -1,91 +1,101 @@
 {
-  "lastUpdated": "2026-02-22T09:56:33.475Z",
+  "lastUpdated": "2026-02-22T10:19:41.529Z",
   "items": [
     {
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 523,
+      "score": 539,
       "by": "vinhnx",
       "time": 1771720145,
-      "comments": 320,
+      "comments": 328,
       "domain": "boristane.com"
     },
     {
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "url": "https://ukiyo-e.org/",
-      "score": 95,
+      "score": 99,
       "by": "curmudgeon22",
       "time": 1771730316,
-      "comments": 15,
+      "comments": 16,
       "domain": "ukiyo-e.org"
     },
     {
       "id": 47103661,
       "title": "How Taalas “prints” LLM onto a chip?",
       "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 129,
+      "score": 135,
       "by": "beAroundHere",
       "time": 1771700840,
-      "comments": 57,
+      "comments": 63,
       "domain": "anuragk.com"
     },
     {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 243,
+      "score": 246,
       "by": "xaskasdf",
       "time": 1771707450,
-      "comments": 57,
+      "comments": 60,
       "domain": "github.com"
-    },
-    {
-      "id": 47046070,
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "score": 95,
-      "by": "matheusalmeida",
-      "time": 1771326069,
-      "comments": 15,
-      "domain": "floedb.ai"
     },
     {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 536,
+      "score": 544,
       "by": "spzb",
       "time": 1771426618,
-      "comments": 287,
+      "comments": 291,
       "domain": "deadlanguagesociety.com"
     },
     {
-      "id": 47106985,
-      "title": "A Botnet Accidentally Destroyed I2P",
-      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "score": 105,
-      "by": "Cider9986",
-      "time": 1771722497,
-      "comments": 64,
-      "domain": "sambent.com"
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 98,
+      "by": "matheusalmeida",
+      "time": 1771326069,
+      "comments": 16,
+      "domain": "floedb.ai"
     },
     {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "url": "https://gamedate.org/",
-      "score": 104,
+      "score": 113,
       "by": "msuniverse2026",
       "time": 1771634668,
       "comments": 11,
       "domain": "gamedate.org"
     },
     {
+      "id": 47106985,
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "score": 110,
+      "by": "Cider9986",
+      "time": 1771722497,
+      "comments": 63,
+      "domain": "sambent.com"
+    },
+    {
+      "id": 47108989,
+      "title": "Back to FreeBSD: Part 1",
+      "url": "https://hypha.pub/back-to-freebsd-part-1",
+      "score": 13,
+      "by": "enz",
+      "time": 1771744587,
+      "comments": 0,
+      "domain": "hypha.pub"
+    },
+    {
       "id": 47105198,
       "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
       "url": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 127,
+      "score": 129,
       "by": "suddenlybananas",
       "time": 1771710718,
       "comments": 39,
@@ -95,7 +105,7 @@
       "id": 47103931,
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 187,
+      "score": 189,
       "by": "todsacerdoti",
       "time": 1771702806,
       "comments": 44,
@@ -108,57 +118,57 @@
       "score": 300,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 733,
+      "comments": 737,
       "domain": "twitter.com"
-    },
-    {
-      "id": 47100232,
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
-      "score": 169,
-      "by": "tosh",
-      "time": 1771677472,
-      "comments": 92,
-      "domain": "github.com"
-    },
-    {
-      "id": 47101171,
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "score": 203,
-      "by": "phront",
-      "time": 1771684336,
-      "comments": 186,
-      "domain": "koreaherald.com"
-    },
-    {
-      "id": 47051709,
-      "title": "Scientists discover recent tectonic activity on the moon",
-      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
-      "score": 49,
-      "by": "bookmtn",
-      "time": 1771355617,
-      "comments": 3,
-      "domain": "phys.org"
     },
     {
       "id": 47044369,
       "title": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
       "url": "https://yuyz0112.github.io/glitch-art-maker/",
-      "score": 7,
+      "score": 8,
       "by": "yz-yu",
       "time": 1771310148,
       "comments": 4,
       "domain": "yuyz0112.github.io"
     },
     {
+      "id": 47100232,
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 173,
+      "by": "tosh",
+      "time": 1771677472,
+      "comments": 94,
+      "domain": "github.com"
+    },
+    {
+      "id": 47101171,
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "score": 205,
+      "by": "phront",
+      "time": 1771684336,
+      "comments": 188,
+      "domain": "koreaherald.com"
+    },
+    {
+      "id": 47051709,
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "score": 50,
+      "by": "bookmtn",
+      "time": 1771355617,
+      "comments": 3,
+      "domain": "phys.org"
+    },
+    {
       "id": 47103136,
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
       "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 145,
+      "score": 148,
       "by": "iancmceachern",
       "time": 1771697364,
-      "comments": 324,
+      "comments": 330,
       "domain": "carbuzz.com"
     },
     {
@@ -172,73 +182,63 @@
       "domain": "github.com"
     },
     {
-      "id": 47074671,
-      "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
-      "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
-      "score": 15,
-      "by": "zepearl",
-      "time": 1771514058,
-      "comments": 5,
-      "domain": "arstechnica.com"
-    },
-    {
       "id": 47098245,
       "title": "I verified my LinkedIn identity. Here's what I handed over",
       "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 1273,
+      "score": 1277,
       "by": "ColinWright",
       "time": 1771657578,
       "comments": 433,
       "domain": "thelocalstack.eu"
     },
     {
-      "id": 47060334,
-      "title": "Carelessness versus Craftsmanship in Cryptography",
-      "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
-      "score": 25,
-      "by": "ingve",
-      "time": 1771418092,
-      "comments": 5,
-      "domain": "blog.trailofbits.com"
-    },
-    {
-      "id": 47108989,
-      "title": "Back to FreeBSD: Part 1",
-      "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 5,
-      "by": "enz",
-      "time": 1771744587,
-      "comments": 0,
-      "domain": "hypha.pub"
+      "id": 47074671,
+      "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
+      "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
+      "score": 15,
+      "by": "zepearl",
+      "time": 1771514058,
+      "comments": 6,
+      "domain": "arstechnica.com"
     },
     {
       "id": 47103506,
       "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
       "url": "https://github.com/a-e-k/canvas_ity",
-      "score": 95,
+      "score": 97,
       "by": "PaulHoule",
       "time": 1771699819,
-      "comments": 34,
+      "comments": 35,
       "domain": "github.com"
+    },
+    {
+      "id": 47060334,
+      "title": "Carelessness versus craftsmanship in cryptography",
+      "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
+      "score": 28,
+      "by": "ingve",
+      "time": 1771418092,
+      "comments": 6,
+      "domain": "blog.trailofbits.com"
     },
     {
       "id": 47095105,
       "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
       "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
-      "score": 138,
+      "score": 141,
       "by": "paulpauper",
       "time": 1771627678,
-      "comments": 198,
+      "comments": 202,
       "domain": "aol.com"
     },
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 2074,
+      "score": 2079,
       "by": "LorenDB",
       "time": 1771610331,
-      "comments": 697,
+      "comments": 699,
       "domain": "f-droid.org"
     },
     {
@@ -265,41 +265,41 @@
       "id": 47104185,
       "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
       "url": "https://www.eduke32.com/",
-      "score": 187,
+      "score": 189,
       "by": "reconnecting",
       "time": 1771704613,
       "comments": 66,
       "domain": "eduke32.com"
     },
     {
-      "id": 47102576,
-      "title": "What not to write on your security clearance form (1988)",
-      "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 450,
-      "by": "wizardforhire",
-      "time": 1771693692,
-      "comments": 196,
-      "domain": "milk.com"
-    },
-    {
-      "id": 47042779,
-      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
-      "score": 41,
-      "by": "todsacerdoti",
-      "time": 1771293460,
-      "comments": 2,
-      "domain": "dl.acm.org"
-    },
-    {
       "id": 47046858,
       "title": "Permacomputing",
       "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "score": 143,
+      "score": 145,
       "by": "tosh",
       "time": 1771332037,
       "comments": 35,
       "domain": "wiki.xxiivv.com"
+    },
+    {
+      "id": 47102576,
+      "title": "What not to write on your security clearance form (1988)",
+      "url": "https://milk.com/wall-o-shame/security_clearance.html",
+      "score": 453,
+      "by": "wizardforhire",
+      "time": 1771693692,
+      "comments": 197,
+      "domain": "milk.com"
+    },
+    {
+      "id": 47094877,
+      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
+      "score": 146,
+      "by": "frou_dh",
+      "time": 1771626476,
+      "comments": 85,
+      "domain": "adamj.eu"
     }
   ]
 }
