@@ -1,91 +1,101 @@
 {
-  "lastUpdated": "2026-02-22T20:47:53.425Z",
+  "lastUpdated": "2026-02-22T21:02:02.516Z",
   "items": [
     {
       "id": 47113728,
       "title": "I built Timeframe, our family e-paper dashboard",
       "url": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 110,
+      "score": 143,
       "by": "saeedesmaili",
       "time": 1771787551,
-      "comments": 25,
+      "comments": 34,
       "domain": "hawksley.org"
     },
     {
       "id": 47110515,
       "title": "Attention Media ≠ Social Networks",
       "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 445,
+      "score": 455,
       "by": "susam",
       "time": 1771763806,
-      "comments": 198,
+      "comments": 202,
       "domain": "susam.net"
     },
     {
       "id": 47113567,
       "title": "Show HN: Local-First Linux MicroVMs for macOS",
       "url": "https://shuru.run",
-      "score": 36,
+      "score": 41,
       "by": "harshdoesdev",
       "time": 1771786214,
-      "comments": 8,
+      "comments": 10,
       "domain": "shuru.run"
     },
     {
       "id": 47112174,
       "title": "Fix your tools",
       "url": "https://ochagavia.nl/blog/fix-your-tools/",
-      "score": 137,
+      "score": 142,
       "by": "vinhnx",
       "time": 1771776751,
-      "comments": 52,
+      "comments": 53,
       "domain": "ochagavia.nl"
     },
     {
       "id": 47113527,
       "title": "Linuxulator on FreeBSD Feels Like Magic",
       "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "score": 25,
+      "score": 27,
       "by": "vermaden",
       "time": 1771785956,
-      "comments": 10,
+      "comments": 11,
       "domain": "hayzam.com"
     },
     {
       "id": 47111981,
       "title": "Show HN: 3D Mahjong, Built in CSS",
       "url": "https://voxjong.com",
-      "score": 67,
+      "score": 73,
       "by": "rofko",
       "time": 1771775582,
-      "comments": 36,
+      "comments": 37,
       "domain": "voxjong.com"
-    },
-    {
-      "id": 47113325,
-      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
-      "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
-      "score": 41,
-      "by": "frehu",
-      "time": 1771784431,
-      "comments": 13,
-      "domain": "github.com"
     },
     {
       "id": 47110473,
       "title": "What is a database transaction?",
       "url": "https://planetscale.com/blog/database-transactions",
-      "score": 179,
+      "score": 181,
       "by": "0x54MUR41",
       "time": 1771763321,
       "comments": 36,
       "domain": "planetscale.com"
     },
     {
+      "id": 47113325,
+      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+      "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+      "score": 42,
+      "by": "frehu",
+      "time": 1771784431,
+      "comments": 13,
+      "domain": "github.com"
+    },
+    {
+      "id": 47114235,
+      "title": "Spain has blocked access to freedom.gov",
+      "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+      "score": 38,
+      "by": "akyuu",
+      "time": 1771791432,
+      "comments": 10,
+      "domain": "twitter.com"
+    },
+    {
       "id": 47112925,
       "title": "Hello Worg, the Org-Mode Community",
       "url": "https://orgmode.org/worg/",
-      "score": 22,
+      "score": 27,
       "by": "dargscisyhp",
       "time": 1771781990,
       "comments": 6,
@@ -95,11 +105,111 @@
       "id": 47111626,
       "title": "Xweather Live – Interactive global vector weather map",
       "url": "https://live.xweather.com/",
-      "score": 94,
+      "score": 96,
       "by": "unstyledcontent",
       "time": 1771773135,
       "comments": 23,
       "domain": "live.xweather.com"
+    },
+    {
+      "id": 47111218,
+      "title": "Git's Magic Files",
+      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+      "score": 79,
+      "by": "chmaynard",
+      "time": 1771770095,
+      "comments": 19,
+      "domain": "nesbitt.io"
+    },
+    {
+      "id": 47113731,
+      "title": "NanoClaw Moved from Apple Containers to Docker",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+      "score": 50,
+      "by": "simplesort",
+      "time": 1771787570,
+      "comments": 35,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47113793,
+      "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
+      "url": "https://github.com/olserra/symplex",
+      "score": 8,
+      "by": "olserra",
+      "time": 1771788059,
+      "comments": 4,
+      "domain": "github.com"
+    },
+    {
+      "id": 47113769,
+      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+      "score": 40,
+      "by": "rbanffy",
+      "time": 1771787883,
+      "comments": 22,
+      "domain": "gizmodo.com"
+    },
+    {
+      "id": 47108989,
+      "title": "Back to FreeBSD: Part 1",
+      "url": "https://hypha.pub/back-to-freebsd-part-1",
+      "score": 184,
+      "by": "enz",
+      "time": 1771744587,
+      "comments": 86,
+      "domain": "hypha.pub"
+    },
+    {
+      "id": 47046433,
+      "title": "Write-Only Code",
+      "url": "https://www.heavybit.com/library/article/write-only-code",
+      "score": 4,
+      "by": "PretzelFisch",
+      "time": 1771328414,
+      "comments": 5,
+      "domain": "heavybit.com"
+    },
+    {
+      "id": 47113618,
+      "title": "Loops is a federated, open-source TikTok",
+      "url": "https://joinloops.org/",
+      "score": 9,
+      "by": "Gooblebrai",
+      "time": 1771786600,
+      "comments": 0,
+      "domain": "joinloops.org"
+    },
+    {
+      "id": 47113892,
+      "title": "Factory-built housing hasn't taken off in California",
+      "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+      "score": 23,
+      "by": "PaulHoule",
+      "time": 1771788802,
+      "comments": 20,
+      "domain": "latimes.com"
+    },
+    {
+      "id": 47112892,
+      "title": "Emulated Windows 3.11 in the Browser",
+      "url": "https://pieter.com/",
+      "score": 9,
+      "by": "jalev",
+      "time": 1771781834,
+      "comments": 5,
+      "domain": "pieter.com"
+    },
+    {
+      "id": 47111440,
+      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+      "url": "https://quesma.com/blog/introducing-binaryaudit/",
+      "score": 181,
+      "by": "jakozaur",
+      "time": 1771771844,
+      "comments": 74,
+      "domain": "quesma.com"
     },
     {
       "id": 47074287,
@@ -112,114 +222,34 @@
       "domain": "css-tricks.com"
     },
     {
-      "id": 47111218,
-      "title": "Git's Magic Files",
-      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-      "score": 77,
-      "by": "chmaynard",
-      "time": 1771770095,
-      "comments": 18,
-      "domain": "nesbitt.io"
-    },
-    {
-      "id": 47113793,
-      "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
-      "url": "https://github.com/olserra/symplex",
-      "score": 7,
-      "by": "olserra",
-      "time": 1771788059,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 47113731,
-      "title": "NanoClaw Moved from Apple Containers to Docker",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "score": 48,
-      "by": "simplesort",
-      "time": 1771787570,
-      "comments": 31,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47114235,
-      "title": "Spain has blocked access to freedom.gov",
-      "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
-      "score": 14,
-      "by": "akyuu",
-      "time": 1771791432,
-      "comments": 0,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47113892,
-      "title": "Factory-built housing hasn't taken off in California",
-      "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
-      "score": 22,
-      "by": "PaulHoule",
-      "time": 1771788802,
-      "comments": 14,
-      "domain": "latimes.com"
-    },
-    {
-      "id": 47113769,
-      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
-      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
-      "score": 35,
-      "by": "rbanffy",
-      "time": 1771787883,
-      "comments": 17,
-      "domain": "gizmodo.com"
-    },
-    {
-      "id": 47108989,
-      "title": "Back to FreeBSD: Part 1",
-      "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 183,
-      "by": "enz",
-      "time": 1771744587,
-      "comments": 85,
-      "domain": "hypha.pub"
-    },
-    {
-      "id": 47112892,
-      "title": "Emulated Windows 3.11 in the Browser",
-      "url": "https://pieter.com/",
-      "score": 9,
-      "by": "jalev",
-      "time": 1771781834,
-      "comments": 4,
-      "domain": "pieter.com"
-    },
-    {
-      "id": 47111440,
-      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "url": "https://quesma.com/blog/introducing-binaryaudit/",
-      "score": 175,
-      "by": "jakozaur",
-      "time": 1771771844,
-      "comments": 72,
-      "domain": "quesma.com"
-    },
-    {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "url": "https://gamedate.org/",
-      "score": 299,
+      "score": 300,
       "by": "msuniverse2026",
       "time": 1771634668,
-      "comments": 42,
+      "comments": 43,
       "domain": "gamedate.org"
     },
     {
       "id": 47103661,
       "title": "How Taalas “prints” LLM onto a chip?",
       "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 369,
+      "score": 373,
       "by": "beAroundHere",
       "time": 1771700840,
-      "comments": 224,
+      "comments": 225,
       "domain": "anuragk.com"
+    },
+    {
+      "id": 47059516,
+      "title": "Monkey Patching in VBA",
+      "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
+      "score": 35,
+      "by": "n013",
+      "time": 1771410548,
+      "comments": 4,
+      "domain": "ecp-solutions.github.io"
     },
     {
       "id": 47108977,
@@ -228,18 +258,8 @@
       "score": 68,
       "by": "1659447091",
       "time": 1771744462,
-      "comments": 57,
+      "comments": 61,
       "domain": "bbc.com"
-    },
-    {
-      "id": 47059516,
-      "title": "Monkey Patching in VBA",
-      "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
-      "score": 32,
-      "by": "n013",
-      "time": 1771410548,
-      "comments": 4,
-      "domain": "ecp-solutions.github.io"
     },
     {
       "id": 47046647,
@@ -252,54 +272,34 @@
       "domain": "github.com"
     },
     {
-      "id": 47111400,
-      "title": "Man accidentally gains control of 7k robot vacuums",
-      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "score": 145,
-      "by": "Brajeshwar",
-      "time": 1771771482,
-      "comments": 91,
-      "domain": "popsci.com"
-    },
-    {
-      "id": 47114043,
-      "title": "'Peanut butter' pay raises could cost companies their top performers",
-      "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
-      "score": 9,
-      "by": "cebert",
-      "time": 1771789972,
-      "comments": 6,
-      "domain": "cnbc.com"
-    },
-    {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 356,
+      "score": 358,
       "by": "xaskasdf",
       "time": 1771707450,
       "comments": 93,
       "domain": "github.com"
     },
     {
-      "id": 47106686,
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 849,
-      "by": "vinhnx",
-      "time": 1771720145,
-      "comments": 534,
-      "domain": "boristane.com"
+      "id": 47111400,
+      "title": "Man accidentally gains control of 7k robot vacuums",
+      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+      "score": 146,
+      "by": "Brajeshwar",
+      "time": 1771771482,
+      "comments": 94,
+      "domain": "popsci.com"
     },
     {
-      "id": 47107781,
-      "title": "Japanese Woodblock Print Search",
-      "url": "https://ukiyo-e.org/",
-      "score": 186,
-      "by": "curmudgeon22",
-      "time": 1771730316,
-      "comments": 29,
-      "domain": "ukiyo-e.org"
+      "id": 47114043,
+      "title": "'Peanut butter' pay raises could cost companies their top performers",
+      "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
+      "score": 16,
+      "by": "cebert",
+      "time": 1771789972,
+      "comments": 14,
+      "domain": "cnbc.com"
     }
   ]
 }
