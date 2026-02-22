@@ -1,101 +1,101 @@
 {
-  "lastUpdated": "2026-02-22T07:05:22.831Z",
+  "lastUpdated": "2026-02-22T07:44:22.397Z",
   "items": [
     {
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 362,
+      "score": 403,
       "by": "vinhnx",
       "time": 1771720145,
-      "comments": 211,
+      "comments": 236,
       "domain": "boristane.com"
     },
     {
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "url": "https://ukiyo-e.org/",
-      "score": 52,
+      "score": 60,
       "by": "curmudgeon22",
       "time": 1771730316,
-      "comments": 10,
+      "comments": 11,
       "domain": "ukiyo-e.org"
     },
     {
       "id": 47106985,
       "title": "A Botnet Accidentally Destroyed I2P",
       "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "score": 77,
+      "score": 84,
       "by": "Cider9986",
       "time": 1771722497,
-      "comments": 37,
+      "comments": 42,
       "domain": "sambent.com"
-    },
-    {
-      "id": 47046070,
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "score": 63,
-      "by": "matheusalmeida",
-      "time": 1771326069,
-      "comments": 9,
-      "domain": "floedb.ai"
     },
     {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 197,
+      "score": 213,
       "by": "xaskasdf",
       "time": 1771707450,
-      "comments": 49,
+      "comments": 51,
       "domain": "github.com"
     },
     {
       "id": 47103661,
       "title": "How Taalas \"prints\" LLM onto a chip?",
       "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 47,
+      "score": 64,
       "by": "beAroundHere",
       "time": 1771700840,
-      "comments": 9,
+      "comments": 25,
       "domain": "anuragk.com"
+    },
+    {
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 72,
+      "by": "matheusalmeida",
+      "time": 1771326069,
+      "comments": 13,
+      "domain": "floedb.ai"
     },
     {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 480,
+      "score": 496,
       "by": "spzb",
       "time": 1771426618,
-      "comments": 259,
+      "comments": 264,
       "domain": "deadlanguagesociety.com"
-    },
-    {
-      "id": 47105198,
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "url": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 113,
-      "by": "suddenlybananas",
-      "time": 1771710718,
-      "comments": 30,
-      "domain": "science.org"
     },
     {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "url": "https://gamedate.org/",
-      "score": 52,
+      "score": 64,
       "by": "msuniverse2026",
       "time": 1771634668,
-      "comments": 5,
+      "comments": 6,
       "domain": "gamedate.org"
+    },
+    {
+      "id": 47105198,
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "url": "https://www.science.org/doi/10.1126/science.adq7188",
+      "score": 117,
+      "by": "suddenlybananas",
+      "time": 1771710718,
+      "comments": 31,
+      "domain": "science.org"
     },
     {
       "id": 47103931,
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 168,
+      "score": 171,
       "by": "todsacerdoti",
       "time": 1771702806,
       "comments": 40,
@@ -105,61 +105,61 @@
       "id": 47051709,
       "title": "Scientists discover recent tectonic activity on the moon",
       "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
-      "score": 44,
+      "score": 45,
       "by": "bookmtn",
       "time": 1771355617,
-      "comments": 2,
+      "comments": 3,
       "domain": "phys.org"
     },
     {
       "id": 47100232,
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "url": "https://github.com/tnm/zclaw",
-      "score": 145,
+      "score": 150,
       "by": "tosh",
       "time": 1771677472,
-      "comments": 79,
+      "comments": 81,
       "domain": "github.com"
-    },
-    {
-      "id": 47101171,
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "score": 191,
-      "by": "phront",
-      "time": 1771684336,
-      "comments": 171,
-      "domain": "koreaherald.com"
-    },
-    {
-      "id": 47061350,
-      "title": "A New Perspective on Drawing Venn Diagrams for Data Visualization",
-      "url": "https://arxiv.org/abs/2601.06980",
-      "score": 5,
-      "by": "IdealeZahlen",
-      "time": 1771425241,
-      "comments": 1,
-      "domain": "arxiv.org"
     },
     {
       "id": 47096253,
       "title": "Claws are now a new layer on top of LLM agents",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 260,
+      "score": 266,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 713,
+      "comments": 715,
       "domain": "twitter.com"
+    },
+    {
+      "id": 47101171,
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "score": 193,
+      "by": "phront",
+      "time": 1771684336,
+      "comments": 175,
+      "domain": "koreaherald.com"
     },
     {
       "id": 47098669,
       "title": "Coccinelle: Source-to-source transformation tool",
       "url": "https://github.com/coccinelle/coccinelle",
-      "score": 84,
+      "score": 90,
       "by": "anon111332142",
       "time": 1771662396,
-      "comments": 26,
+      "comments": 27,
       "domain": "github.com"
+    },
+    {
+      "id": 47103136,
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "score": 132,
+      "by": "iancmceachern",
+      "time": 1771697364,
+      "comments": 304,
+      "domain": "carbuzz.com"
     },
     {
       "id": 47071770,
@@ -172,30 +172,70 @@
       "domain": "nicolaszucchet.github.io"
     },
     {
+      "id": 47061350,
+      "title": "A New Perspective on Drawing Venn Diagrams for Data Visualization",
+      "url": "https://arxiv.org/abs/2601.06980",
+      "score": 5,
+      "by": "IdealeZahlen",
+      "time": 1771425241,
+      "comments": 2,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 47098245,
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 1238,
+      "by": "ColinWright",
+      "time": 1771657578,
+      "comments": 431,
+      "domain": "thelocalstack.eu"
+    },
+    {
+      "id": 47059830,
+      "title": "Wave Twisters (2001)",
+      "url": "https://www.youtube.com/watch?v=cQVRTdRnQiQ",
+      "score": 4,
+      "by": "hyperific",
+      "time": 1771413421,
+      "comments": 2,
+      "domain": "youtube.com"
+    },
+    {
       "id": 47060334,
       "title": "Carelessness versus Craftsmanship in Cryptography",
       "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
-      "score": 11,
+      "score": 12,
       "by": "ingve",
       "time": 1771418092,
       "comments": 0,
       "domain": "blog.trailofbits.com"
     },
     {
-      "id": 47103136,
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 130,
-      "by": "iancmceachern",
-      "time": 1771697364,
-      "comments": 300,
-      "domain": "carbuzz.com"
+      "id": 47103506,
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "url": "https://github.com/a-e-k/canvas_ity",
+      "score": 84,
+      "by": "PaulHoule",
+      "time": 1771699819,
+      "comments": 31,
+      "domain": "github.com"
+    },
+    {
+      "id": 47095597,
+      "title": "Be wary of Bluesky",
+      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "score": 301,
+      "by": "kevinak",
+      "time": 1771630533,
+      "comments": 195,
+      "domain": "kevinak.se"
     },
     {
       "id": 47100935,
       "title": "The Human Root of Trust – public domain framework for agent accountability",
       "url": "https://humanrootoftrust.org/",
-      "score": 8,
+      "score": 10,
       "by": "3du4rd0v3g4",
       "time": 1771682505,
       "comments": 5,
@@ -208,98 +248,58 @@
       "score": 14,
       "by": "fortran77",
       "time": 1771596873,
-      "comments": 3,
-      "domain": "newyorker.com"
-    },
-    {
-      "id": 47103506,
-      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
-      "url": "https://github.com/a-e-k/canvas_ity",
-      "score": 82,
-      "by": "PaulHoule",
-      "time": 1771699819,
-      "comments": 29,
-      "domain": "github.com"
-    },
-    {
-      "id": 47098245,
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 1226,
-      "by": "ColinWright",
-      "time": 1771657578,
-      "comments": 428,
-      "domain": "thelocalstack.eu"
-    },
-    {
-      "id": 47095597,
-      "title": "Be wary of Bluesky",
-      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "score": 292,
-      "by": "kevinak",
-      "time": 1771630533,
-      "comments": 190,
-      "domain": "kevinak.se"
-    },
-    {
-      "id": 47042779,
-      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
-      "score": 32,
-      "by": "todsacerdoti",
-      "time": 1771293460,
       "comments": 2,
-      "domain": "dl.acm.org"
+      "domain": "newyorker.com"
     },
     {
       "id": 47104185,
       "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
       "url": "https://www.eduke32.com/",
-      "score": 176,
+      "score": 179,
       "by": "reconnecting",
       "time": 1771704613,
-      "comments": 62,
+      "comments": 64,
       "domain": "eduke32.com"
     },
     {
       "id": 47095105,
       "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
       "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
-      "score": 119,
+      "score": 121,
       "by": "paulpauper",
       "time": 1771627678,
-      "comments": 181,
+      "comments": 188,
       "domain": "aol.com"
     },
     {
-      "id": 47108256,
-      "title": "Iranian Students Protest as Anger Grows",
-      "url": "https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e",
-      "score": 48,
-      "by": "JumpCrisscross",
-      "time": 1771735506,
-      "comments": 17,
-      "domain": "wsj.com"
+      "id": 47042779,
+      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
+      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
+      "score": 35,
+      "by": "todsacerdoti",
+      "time": 1771293460,
+      "comments": 2,
+      "domain": "dl.acm.org"
+    },
+    {
+      "id": 47091419,
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 2042,
+      "by": "LorenDB",
+      "time": 1771610331,
+      "comments": 694,
+      "domain": "f-droid.org"
     },
     {
       "id": 47102576,
       "title": "What not to write on your security clearance form (1988)",
       "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 430,
+      "score": 433,
       "by": "wizardforhire",
       "time": 1771693692,
-      "comments": 190,
+      "comments": 191,
       "domain": "milk.com"
-    },
-    {
-      "id": 47108538,
-      "title": "U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974",
-      "url": "https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/",
-      "score": 26,
-      "by": "JumpCrisscross",
-      "time": 1771738822,
-      "comments": 2,
-      "domain": "ielp.worldtradelaw.net"
     }
   ]
 }
