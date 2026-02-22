@@ -1,101 +1,101 @@
 {
-  "lastUpdated": "2026-02-22T11:28:54.291Z",
+  "lastUpdated": "2026-02-22T11:45:26.119Z",
   "items": [
-    {
-      "id": 47106686,
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 586,
-      "by": "vinhnx",
-      "time": 1771720145,
-      "comments": 353,
-      "domain": "boristane.com"
-    },
     {
       "id": 47100328,
       "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
       "url": "https://github.com/kurouna/elecxzy",
-      "score": 9,
+      "score": 12,
       "by": "kurouna",
       "time": 1771678164,
-      "comments": 10,
+      "comments": 12,
       "domain": "github.com"
     },
     {
       "id": 47108989,
       "title": "Back to FreeBSD: Part 1",
       "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 37,
+      "score": 43,
       "by": "enz",
       "time": 1771744587,
-      "comments": 5,
+      "comments": 9,
       "domain": "hypha.pub"
     },
     {
-      "id": 47103661,
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 162,
-      "by": "beAroundHere",
-      "time": 1771700840,
-      "comments": 79,
-      "domain": "anuragk.com"
+      "id": 47106686,
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "score": 601,
+      "by": "vinhnx",
+      "time": 1771720145,
+      "comments": 369,
+      "domain": "boristane.com"
+    },
+    {
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 117,
+      "by": "matheusalmeida",
+      "time": 1771326069,
+      "comments": 18,
+      "domain": "floedb.ai"
     },
     {
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "url": "https://ukiyo-e.org/",
-      "score": 110,
+      "score": 113,
       "by": "curmudgeon22",
       "time": 1771730316,
       "comments": 20,
       "domain": "ukiyo-e.org"
     },
     {
-      "id": 47046070,
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "score": 113,
-      "by": "matheusalmeida",
-      "time": 1771326069,
-      "comments": 17,
-      "domain": "floedb.ai"
+      "id": 47103661,
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 169,
+      "by": "beAroundHere",
+      "time": 1771700840,
+      "comments": 82,
+      "domain": "anuragk.com"
     },
     {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 557,
+      "score": 559,
       "by": "spzb",
       "time": 1771426618,
-      "comments": 305,
+      "comments": 309,
       "domain": "deadlanguagesociety.com"
-    },
-    {
-      "id": 47104667,
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 260,
-      "by": "xaskasdf",
-      "time": 1771707450,
-      "comments": 61,
-      "domain": "github.com"
     },
     {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "url": "https://gamedate.org/",
-      "score": 139,
+      "score": 145,
       "by": "msuniverse2026",
       "time": 1771634668,
-      "comments": 14,
+      "comments": 15,
       "domain": "gamedate.org"
+    },
+    {
+      "id": 47104667,
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "score": 261,
+      "by": "xaskasdf",
+      "time": 1771707450,
+      "comments": 62,
+      "domain": "github.com"
     },
     {
       "id": 47046853,
       "title": "Unreal Numbers",
       "url": "https://lcamtuf.substack.com/p/unreal-numbers",
-      "score": 10,
+      "score": 12,
       "by": "surprisetalk",
       "time": 1771332010,
       "comments": 0,
@@ -115,21 +115,31 @@
       "id": 47103931,
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 195,
+      "score": 196,
       "by": "todsacerdoti",
       "time": 1771702806,
-      "comments": 46,
+      "comments": 48,
       "domain": "harudagondi.space"
     },
     {
       "id": 47096253,
       "title": "Claws are now a new layer on top of LLM agents",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 313,
+      "score": 317,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 747,
+      "comments": 750,
       "domain": "twitter.com"
+    },
+    {
+      "id": 47100232,
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 185,
+      "by": "tosh",
+      "time": 1771677472,
+      "comments": 102,
+      "domain": "github.com"
     },
     {
       "id": 47106985,
@@ -142,30 +152,40 @@
       "domain": "sambent.com"
     },
     {
-      "id": 47100232,
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
-      "score": 181,
-      "by": "tosh",
-      "time": 1771677472,
-      "comments": 100,
-      "domain": "github.com"
-    },
-    {
       "id": 47101171,
       "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
       "url": "https://www.koreaherald.com/article/10679206",
       "score": 212,
       "by": "phront",
       "time": 1771684336,
-      "comments": 194,
+      "comments": 195,
       "domain": "koreaherald.com"
+    },
+    {
+      "id": 47069918,
+      "title": "ReferenceFinder: Find coordinates on a piece of paper with only folds",
+      "url": "https://mutsuntsai.github.io/reference-finder/",
+      "score": 3,
+      "by": "icwtyjj",
+      "time": 1771475243,
+      "comments": 0,
+      "domain": "mutsuntsai.github.io"
+    },
+    {
+      "id": 47060334,
+      "title": "Carelessness versus craftsmanship in cryptography",
+      "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
+      "score": 38,
+      "by": "ingve",
+      "time": 1771418092,
+      "comments": 6,
+      "domain": "blog.trailofbits.com"
     },
     {
       "id": 47074671,
       "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
       "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
-      "score": 20,
+      "score": 21,
       "by": "zepearl",
       "time": 1771514058,
       "comments": 10,
@@ -178,7 +198,7 @@
       "score": 152,
       "by": "iancmceachern",
       "time": 1771697364,
-      "comments": 345,
+      "comments": 347,
       "domain": "carbuzz.com"
     },
     {
@@ -188,28 +208,18 @@
       "score": 102,
       "by": "anon111332142",
       "time": 1771662396,
-      "comments": 28,
+      "comments": 29,
       "domain": "github.com"
     },
     {
-      "id": 47060334,
-      "title": "Carelessness versus craftsmanship in cryptography",
-      "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
-      "score": 35,
-      "by": "ingve",
-      "time": 1771418092,
-      "comments": 6,
-      "domain": "blog.trailofbits.com"
-    },
-    {
-      "id": 47051709,
-      "title": "Scientists discover recent tectonic activity on the moon",
-      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
-      "score": 57,
-      "by": "bookmtn",
-      "time": 1771355617,
-      "comments": 3,
-      "domain": "phys.org"
+      "id": 47108977,
+      "title": "What's the best way to learn a new language?",
+      "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+      "score": 9,
+      "by": "1659447091",
+      "time": 1771744462,
+      "comments": 4,
+      "domain": "bbc.com"
     },
     {
       "id": 47098245,
@@ -218,14 +228,24 @@
       "score": 1294,
       "by": "ColinWright",
       "time": 1771657578,
-      "comments": 440,
+      "comments": 445,
       "domain": "thelocalstack.eu"
+    },
+    {
+      "id": 47051709,
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "score": 58,
+      "by": "bookmtn",
+      "time": 1771355617,
+      "comments": 3,
+      "domain": "phys.org"
     },
     {
       "id": 47103506,
       "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
       "url": "https://github.com/a-e-k/canvas_ity",
-      "score": 102,
+      "score": 105,
       "by": "PaulHoule",
       "time": 1771699819,
       "comments": 35,
@@ -235,31 +255,21 @@
       "id": 47095105,
       "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
       "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
-      "score": 147,
+      "score": 149,
       "by": "paulpauper",
       "time": 1771627678,
-      "comments": 210,
+      "comments": 213,
       "domain": "aol.com"
     },
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 2095,
+      "score": 2099,
       "by": "LorenDB",
       "time": 1771610331,
       "comments": 699,
       "domain": "f-droid.org"
-    },
-    {
-      "id": 47044369,
-      "title": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
-      "url": "https://yuyz0112.github.io/glitch-art-maker/",
-      "score": 16,
-      "by": "yz-yu",
-      "time": 1771310148,
-      "comments": 6,
-      "domain": "yuyz0112.github.io"
     },
     {
       "id": 47100935,
@@ -272,34 +282,24 @@
       "domain": "humanrootoftrust.org"
     },
     {
+      "id": 47044369,
+      "title": "Show HN: Minimalist Glitch Art Maker (100% client-side)",
+      "url": "https://yuyz0112.github.io/glitch-art-maker/",
+      "score": 18,
+      "by": "yz-yu",
+      "time": 1771310148,
+      "comments": 6,
+      "domain": "yuyz0112.github.io"
+    },
+    {
       "id": 47103945,
       "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
       "url": "https://inputlag.science",
       "score": 94,
       "by": "akyuu",
       "time": 1771702912,
-      "comments": 30,
+      "comments": 32,
       "domain": "inputlag.science"
-    },
-    {
-      "id": 47046858,
-      "title": "Permacomputing",
-      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "score": 156,
-      "by": "tosh",
-      "time": 1771332037,
-      "comments": 38,
-      "domain": "wiki.xxiivv.com"
-    },
-    {
-      "id": 47094877,
-      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "score": 155,
-      "by": "frou_dh",
-      "time": 1771626476,
-      "comments": 86,
-      "domain": "adamj.eu"
     }
   ]
 }
