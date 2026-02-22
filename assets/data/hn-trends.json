@@ -1,45 +1,45 @@
 {
-  "lastUpdated": "2026-02-22T21:51:15.058Z",
+  "lastUpdated": "2026-02-22T22:00:29.545Z",
   "items": [
     {
       "id": 47113728,
       "title": "I built Timeframe, our family e-paper dashboard",
       "url": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 257,
+      "score": 274,
       "by": "saeedesmaili",
       "time": 1771787551,
-      "comments": 70,
+      "comments": 76,
       "domain": "hawksley.org"
+    },
+    {
+      "id": 47113618,
+      "title": "Loops is a federated, open-source TikTok",
+      "url": "https://joinloops.org/",
+      "score": 57,
+      "by": "Gooblebrai",
+      "time": 1771786600,
+      "comments": 26,
+      "domain": "joinloops.org"
     },
     {
       "id": 47114579,
       "title": "Global Intelligence Crisis",
       "url": "https://www.citriniresearch.com/p/2028gic",
-      "score": 21,
+      "score": 29,
       "by": "tin7in",
       "time": 1771793778,
-      "comments": 5,
+      "comments": 12,
       "domain": "citriniresearch.com"
     },
     {
       "id": 47110515,
       "title": "Attention Media ≠ Social Networks",
       "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 475,
+      "score": 479,
       "by": "susam",
       "time": 1771763806,
       "comments": 210,
       "domain": "susam.net"
-    },
-    {
-      "id": 47113618,
-      "title": "Loops is a federated, open-source TikTok",
-      "url": "https://joinloops.org/",
-      "score": 51,
-      "by": "Gooblebrai",
-      "time": 1771786600,
-      "comments": 19,
-      "domain": "joinloops.org"
     },
     {
       "id": 47113567,
@@ -58,14 +58,14 @@
       "score": 158,
       "by": "vinhnx",
       "time": 1771776751,
-      "comments": 56,
+      "comments": 59,
       "domain": "ochagavia.nl"
     },
     {
       "id": 47113796,
       "title": "Six Math Essentials",
       "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-      "score": 26,
+      "score": 31,
       "by": "digital55",
       "time": 1771788081,
       "comments": 1,
@@ -75,7 +75,7 @@
       "id": 47113527,
       "title": "Linuxulator on FreeBSD Feels Like Magic",
       "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "score": 41,
+      "score": 42,
       "by": "vermaden",
       "time": 1771785956,
       "comments": 19,
@@ -88,7 +88,7 @@
       "score": 40,
       "by": "dargscisyhp",
       "time": 1771781990,
-      "comments": 7,
+      "comments": 8,
       "domain": "orgmode.org"
     },
     {
@@ -98,18 +98,8 @@
       "score": 9,
       "by": "eriatarka",
       "time": 1771794377,
-      "comments": 5,
+      "comments": 8,
       "domain": "secondtrack.co"
-    },
-    {
-      "id": 47111981,
-      "title": "Show HN: 3D Mahjong, Built in CSS",
-      "url": "https://voxjong.com",
-      "score": 78,
-      "by": "rofko",
-      "time": 1771775582,
-      "comments": 39,
-      "domain": "voxjong.com"
     },
     {
       "id": 47110473,
@@ -118,7 +108,7 @@
       "score": 186,
       "by": "0x54MUR41",
       "time": 1771763321,
-      "comments": 45,
+      "comments": 46,
       "domain": "planetscale.com"
     },
     {
@@ -132,44 +122,64 @@
       "domain": "github.com"
     },
     {
+      "id": 47111981,
+      "title": "Show HN: 3D Mahjong, Built in CSS",
+      "url": "https://voxjong.com",
+      "score": 78,
+      "by": "rofko",
+      "time": 1771775582,
+      "comments": 39,
+      "domain": "voxjong.com"
+    },
+    {
       "id": 47046433,
       "title": "Write-Only Code",
       "url": "https://www.heavybit.com/library/article/write-only-code",
       "score": 18,
       "by": "PretzelFisch",
       "time": 1771328414,
-      "comments": 18,
+      "comments": 20,
       "domain": "heavybit.com"
     },
     {
       "id": 47111626,
       "title": "Xweather Live – Interactive global vector weather map",
       "url": "https://live.xweather.com/",
-      "score": 105,
+      "score": 109,
       "by": "unstyledcontent",
       "time": 1771773135,
-      "comments": 24,
+      "comments": 25,
       "domain": "live.xweather.com"
+    },
+    {
+      "id": 47112892,
+      "title": "Emulated Windows 3.11 in the Browser",
+      "url": "https://pieter.com/",
+      "score": 25,
+      "by": "jalev",
+      "time": 1771781834,
+      "comments": 14,
+      "domain": "pieter.com"
     },
     {
       "id": 47111218,
       "title": "Git's Magic Files",
       "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-      "score": 85,
+      "score": 86,
       "by": "chmaynard",
       "time": 1771770095,
       "comments": 24,
       "domain": "nesbitt.io"
     },
     {
-      "id": 47112892,
-      "title": "Emulated Windows 3.11 in the Browser",
-      "url": "https://pieter.com/",
-      "score": 19,
-      "by": "jalev",
-      "time": 1771781834,
-      "comments": 12,
-      "domain": "pieter.com"
+      "id": 47089933,
+      "title": "Procedural Tron",
+      "url": "https://www.tripgeo.com/huntforredoctangles",
+      "score": 3,
+      "by": "tripgeo",
+      "time": 1771604096,
+      "comments": 2,
+      "domain": "tripgeo.com"
     },
     {
       "id": 47113793,
@@ -178,18 +188,8 @@
       "score": 9,
       "by": "olserra",
       "time": 1771788059,
-      "comments": 9,
+      "comments": 10,
       "domain": "github.com"
-    },
-    {
-      "id": 47113731,
-      "title": "NanoClaw Moved from Apple Containers to Docker",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "score": 66,
-      "by": "simplesort",
-      "time": 1771787570,
-      "comments": 49,
-      "domain": "twitter.com"
     },
     {
       "id": 47113782,
@@ -212,34 +212,44 @@
       "domain": "hypha.pub"
     },
     {
+      "id": 47113731,
+      "title": "NanoClaw Moved from Apple Containers to Docker",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+      "score": 67,
+      "by": "simplesort",
+      "time": 1771787570,
+      "comments": 50,
+      "domain": "twitter.com"
+    },
+    {
       "id": 47113892,
       "title": "Factory-built housing hasn't taken off in California",
       "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
-      "score": 30,
+      "score": 31,
       "by": "PaulHoule",
       "time": 1771788802,
-      "comments": 37,
+      "comments": 39,
       "domain": "latimes.com"
     },
     {
       "id": 47114412,
       "title": "In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback",
       "url": "https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/",
-      "score": 12,
+      "score": 13,
       "by": "thunderbong",
       "time": 1771792735,
-      "comments": 4,
+      "comments": 6,
       "domain": "cnet.com"
     },
     {
-      "id": 47113769,
-      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
-      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
-      "score": 61,
-      "by": "rbanffy",
-      "time": 1771787883,
-      "comments": 33,
-      "domain": "gizmodo.com"
+      "id": 47046647,
+      "title": "Show HN: Data Studio – Open-Source Data Notebooks",
+      "url": "https://github.com/dataspren-analytics/data-studio",
+      "score": 17,
+      "by": "alx-net",
+      "time": 1771330245,
+      "comments": 1,
+      "domain": "github.com"
     },
     {
       "id": 47111440,
@@ -248,8 +258,18 @@
       "score": 187,
       "by": "jakozaur",
       "time": 1771771844,
-      "comments": 80,
+      "comments": 81,
       "domain": "quesma.com"
+    },
+    {
+      "id": 47113769,
+      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+      "score": 62,
+      "by": "rbanffy",
+      "time": 1771787883,
+      "comments": 34,
+      "domain": "gizmodo.com"
     },
     {
       "id": 47059516,
@@ -262,6 +282,16 @@
       "domain": "ecp-solutions.github.io"
     },
     {
+      "id": 47108977,
+      "title": "What's the best way to learn a new language?",
+      "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+      "score": 72,
+      "by": "1659447091",
+      "time": 1771744462,
+      "comments": 66,
+      "domain": "bbc.com"
+    },
+    {
       "id": 47074287,
       "title": "International box-sizing Awareness Day (2014)",
       "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
@@ -270,36 +300,6 @@
       "time": 1771512205,
       "comments": 1,
       "domain": "css-tricks.com"
-    },
-    {
-      "id": 47108977,
-      "title": "What's the best way to learn a new language?",
-      "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
-      "score": 71,
-      "by": "1659447091",
-      "time": 1771744462,
-      "comments": 66,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 47114043,
-      "title": "'Peanut butter' pay raises could cost companies their top performers",
-      "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
-      "score": 30,
-      "by": "cebert",
-      "time": 1771789972,
-      "comments": 20,
-      "domain": "cnbc.com"
-    },
-    {
-      "id": 47046647,
-      "title": "Show HN: Data Studio – Open-Source Data Notebooks",
-      "url": "https://github.com/dataspren-analytics/data-studio",
-      "score": 16,
-      "by": "alx-net",
-      "time": 1771330245,
-      "comments": 1,
-      "domain": "github.com"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-22T21:51:15.600Z",
+  "lastUpdated": "2026-02-22T22:00:29.828Z",
   "items": [
     {
       "id": 1159484260,
       "name": "nicobailon/visual-explainer",
       "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
-      "stars": 2351,
+      "stars": 2352,
       "language": "HTML",
       "url": "https://github.com/nicobailon/visual-explainer",
       "owner": {
         "login": "nicobailon",
         "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
       },
-      "updated_at": "2026-02-22T21:33:00Z"
+      "updated_at": "2026-02-22T21:55:13Z"
     },
     {
       "id": 1159542259,
@@ -44,27 +44,27 @@
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 993,
+      "stars": 997,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-22T21:35:11Z"
+      "updated_at": "2026-02-22T21:53:43Z"
     },
     {
       "id": 1159494869,
       "name": "tnm/zclaw",
       "description": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.",
-      "stars": 881,
+      "stars": 883,
       "language": "C",
       "url": "https://github.com/tnm/zclaw",
       "owner": {
         "login": "tnm",
         "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=4"
       },
-      "updated_at": "2026-02-22T21:49:15Z"
+      "updated_at": "2026-02-22T22:00:28Z"
     },
     {
       "id": 1159483541,
@@ -83,14 +83,14 @@
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 648,
+      "stars": 649,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-22T21:22:59Z"
+      "updated_at": "2026-02-22T21:54:14Z"
     },
     {
       "id": 1163317794,
@@ -122,14 +122,14 @@
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 520,
+      "stars": 522,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-22T21:50:39Z"
+      "updated_at": "2026-02-22T21:58:29Z"
     },
     {
       "id": 1161025758,
@@ -148,40 +148,40 @@
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 365,
+      "stars": 370,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-22T21:47:59Z"
+      "updated_at": "2026-02-22T21:58:20Z"
     },
     {
       "id": 1160175822,
       "name": "Pickle-Pixel/ApplyPilot",
       "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 351,
+      "stars": 352,
       "language": "Python",
       "url": "https://github.com/Pickle-Pixel/ApplyPilot",
       "owner": {
         "login": "Pickle-Pixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
       },
-      "updated_at": "2026-02-22T21:36:38Z"
+      "updated_at": "2026-02-22T21:52:59Z"
     },
     {
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 338,
+      "stars": 339,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-22T21:35:02Z"
+      "updated_at": "2026-02-22T21:52:29Z"
     },
     {
       "id": 1159234860,
@@ -239,14 +239,14 @@
       "id": 1161940285,
       "name": "quoroom-ai/room",
       "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
-      "stars": 303,
+      "stars": 304,
       "language": "TypeScript",
       "url": "https://github.com/quoroom-ai/room",
       "owner": {
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-22T21:49:30Z"
+      "updated_at": "2026-02-22T21:57:35Z"
     },
     {
       "id": 1161754368,
