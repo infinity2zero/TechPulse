@@ -1,31 +1,41 @@
 {
-  "lastUpdated": "2026-02-22T19:31:00.314Z",
+  "lastUpdated": "2026-02-22T19:48:01.730Z",
   "items": [
     {
       "id": 47110515,
       "title": "Attention Media ≠ Social Networks",
       "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 393,
+      "score": 402,
       "by": "susam",
       "time": 1771763806,
-      "comments": 176,
+      "comments": 181,
       "domain": "susam.net"
     },
     {
       "id": 47112174,
       "title": "Fix Your Tools",
       "url": "https://ochagavia.nl/blog/fix-your-tools/",
-      "score": 103,
+      "score": 115,
       "by": "vinhnx",
       "time": 1771776751,
-      "comments": 44,
+      "comments": 46,
       "domain": "ochagavia.nl"
+    },
+    {
+      "id": 47110473,
+      "title": "What Is a Database Transaction?",
+      "url": "https://planetscale.com/blog/database-transactions",
+      "score": 166,
+      "by": "0x54MUR41",
+      "time": 1771763321,
+      "comments": 31,
+      "domain": "planetscale.com"
     },
     {
       "id": 47111981,
       "title": "Show HN: 3D Mahjong, Built in CSS",
       "url": "https://voxjong.com",
-      "score": 50,
+      "score": 54,
       "by": "rofko",
       "time": 1771775582,
       "comments": 25,
@@ -35,157 +45,177 @@
       "id": 47113325,
       "title": "Fresh File Explorer – VS Code extension for navigating recent work",
       "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
-      "score": 24,
+      "score": 28,
       "by": "frehu",
       "time": 1771784431,
-      "comments": 9,
+      "comments": 12,
       "domain": "github.com"
-    },
-    {
-      "id": 47110473,
-      "title": "What Is a Database Transaction?",
-      "url": "https://planetscale.com/blog/database-transactions",
-      "score": 159,
-      "by": "0x54MUR41",
-      "time": 1771763321,
-      "comments": 31,
-      "domain": "planetscale.com"
     },
     {
       "id": 47113527,
       "title": "Linuxulator on FreeBSD Feels Like Magic",
       "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "score": 10,
+      "score": 11,
       "by": "vermaden",
       "time": 1771785956,
-      "comments": 4,
+      "comments": 7,
       "domain": "hayzam.com"
     },
     {
       "id": 47111626,
       "title": "Xweather Live – Interactive global vector weather map",
       "url": "https://live.xweather.com/",
-      "score": 81,
+      "score": 85,
       "by": "unstyledcontent",
       "time": 1771773135,
-      "comments": 21,
+      "comments": 22,
       "domain": "live.xweather.com"
-    },
-    {
-      "id": 47111218,
-      "title": "Git's Magic Files",
-      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-      "score": 52,
-      "by": "chmaynard",
-      "time": 1771770095,
-      "comments": 10,
-      "domain": "nesbitt.io"
     },
     {
       "id": 47113731,
       "title": "NanoClaw Moved from Apple Containers to Docker",
       "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "score": 15,
+      "score": 28,
       "by": "simplesort",
       "time": 1771787570,
-      "comments": 0,
+      "comments": 10,
       "domain": "twitter.com"
     },
     {
       "id": 47074287,
       "title": "International box-sizing Awareness Day",
       "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
-      "score": 13,
+      "score": 20,
       "by": "hisamafahri",
       "time": 1771512205,
-      "comments": 0,
+      "comments": 1,
       "domain": "css-tricks.com"
+    },
+    {
+      "id": 47111218,
+      "title": "Git's Magic Files",
+      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+      "score": 59,
+      "by": "chmaynard",
+      "time": 1771770095,
+      "comments": 12,
+      "domain": "nesbitt.io"
     },
     {
       "id": 47108989,
       "title": "Back to FreeBSD: Part 1",
       "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 173,
+      "score": 175,
       "by": "enz",
       "time": 1771744587,
-      "comments": 84,
+      "comments": 85,
       "domain": "hypha.pub"
     },
     {
       "id": 47111440,
       "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
       "url": "https://quesma.com/blog/introducing-binaryaudit/",
-      "score": 156,
+      "score": 162,
       "by": "jakozaur",
       "time": 1771771844,
-      "comments": 61,
+      "comments": 63,
       "domain": "quesma.com"
     },
     {
-      "id": 47111400,
-      "title": "Man accidentally gains control of 7k robot vacuums",
-      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "score": 130,
-      "by": "Brajeshwar",
-      "time": 1771771482,
-      "comments": 80,
-      "domain": "popsci.com"
+      "id": 47112925,
+      "title": "Hello Worg, the Org-Mode Community",
+      "url": "https://orgmode.org/worg/",
+      "score": 5,
+      "by": "dargscisyhp",
+      "time": 1771781990,
+      "comments": 4,
+      "domain": "orgmode.org"
+    },
+    {
+      "id": 47103661,
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 357,
+      "by": "beAroundHere",
+      "time": 1771700840,
+      "comments": 212,
+      "domain": "anuragk.com"
     },
     {
       "id": 47059516,
       "title": "Monkey Patching in VBA",
       "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
-      "score": 30,
+      "score": 31,
       "by": "n013",
       "time": 1771410548,
       "comments": 4,
       "domain": "ecp-solutions.github.io"
     },
     {
-      "id": 47103661,
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 348,
-      "by": "beAroundHere",
-      "time": 1771700840,
-      "comments": 209,
-      "domain": "anuragk.com"
+      "id": 47111400,
+      "title": "Man accidentally gains control of 7k robot vacuums",
+      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+      "score": 134,
+      "by": "Brajeshwar",
+      "time": 1771771482,
+      "comments": 86,
+      "domain": "popsci.com"
     },
     {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "url": "https://gamedate.org/",
-      "score": 282,
+      "score": 290,
       "by": "msuniverse2026",
       "time": 1771634668,
       "comments": 41,
       "domain": "gamedate.org"
     },
     {
-      "id": 47061614,
-      "title": "How far back in time can you understand English?",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 707,
-      "by": "spzb",
-      "time": 1771426618,
-      "comments": 355,
-      "domain": "deadlanguagesociety.com"
+      "id": 47113817,
+      "title": "America's most partisan voters hold the most voting power",
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control",
+      "score": 10,
+      "by": "rbanffy",
+      "time": 1771788319,
+      "comments": 4,
+      "domain": "npr.org"
     },
     {
       "id": 47108977,
       "title": "What's the best way to learn a new language?",
       "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
-      "score": 54,
+      "score": 59,
       "by": "1659447091",
       "time": 1771744462,
-      "comments": 50,
+      "comments": 53,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47113892,
+      "title": "Factory-built housing hasn't taken off in California",
+      "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+      "score": 4,
+      "by": "PaulHoule",
+      "time": 1771788802,
+      "comments": 1,
+      "domain": "latimes.com"
+    },
+    {
+      "id": 47110946,
+      "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
+      "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
+      "score": 23,
+      "by": "youio",
+      "time": 1771767867,
+      "comments": 2,
+      "domain": "github.com"
     },
     {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 344,
+      "score": 346,
       "by": "xaskasdf",
       "time": 1771707450,
       "comments": 91,
@@ -195,21 +225,31 @@
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 820,
+      "score": 823,
       "by": "vinhnx",
       "time": 1771720145,
-      "comments": 522,
+      "comments": 525,
       "domain": "boristane.com"
     },
     {
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "url": "https://ukiyo-e.org/",
-      "score": 178,
+      "score": 180,
       "by": "curmudgeon22",
       "time": 1771730316,
       "comments": 29,
       "domain": "ukiyo-e.org"
+    },
+    {
+      "id": 47113769,
+      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+      "score": 5,
+      "by": "rbanffy",
+      "time": 1771787883,
+      "comments": 0,
+      "domain": "gizmodo.com"
     },
     {
       "id": 47110781,
@@ -218,7 +258,17 @@
       "score": 34,
       "by": "transpute",
       "time": 1771766407,
-      "comments": 2,
+      "comments": 3,
+      "domain": "github.com"
+    },
+    {
+      "id": 47100232,
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 253,
+      "by": "tosh",
+      "time": 1771677472,
+      "comments": 135,
       "domain": "github.com"
     },
     {
@@ -232,16 +282,6 @@
       "domain": "mutsuntsai.github.io"
     },
     {
-      "id": 47100232,
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
-      "score": 250,
-      "by": "tosh",
-      "time": 1771677472,
-      "comments": 135,
-      "domain": "github.com"
-    },
-    {
       "id": 47046070,
       "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
       "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
@@ -252,54 +292,14 @@
       "domain": "floedb.ai"
     },
     {
-      "id": 47110946,
-      "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
-      "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
-      "score": 19,
-      "by": "youio",
-      "time": 1771767867,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 47096253,
-      "title": "Claws are now a new layer on top of LLM agents",
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 378,
-      "by": "Cyphase",
-      "time": 1771635389,
-      "comments": 849,
-      "domain": "twitter.com"
-    },
-    {
       "id": 47105198,
       "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
       "url": "https://www.science.org/doi/10.1126/science.adq7188",
       "score": 182,
       "by": "suddenlybananas",
       "time": 1771710718,
-      "comments": 56,
+      "comments": 58,
       "domain": "science.org"
-    },
-    {
-      "id": 47103931,
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 241,
-      "by": "todsacerdoti",
-      "time": 1771702806,
-      "comments": 68,
-      "domain": "harudagondi.space"
-    },
-    {
-      "id": 47074671,
-      "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
-      "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
-      "score": 63,
-      "by": "zepearl",
-      "time": 1771514058,
-      "comments": 22,
-      "domain": "arstechnica.com"
     }
   ]
 }
