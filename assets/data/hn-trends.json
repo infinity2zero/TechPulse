@@ -1,115 +1,125 @@
 {
-  "lastUpdated": "2026-02-22T10:47:35.833Z",
+  "lastUpdated": "2026-02-22T11:01:24.269Z",
   "items": [
     {
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 555,
+      "score": 566,
       "by": "vinhnx",
       "time": 1771720145,
-      "comments": 336,
+      "comments": 344,
       "domain": "boristane.com"
     },
     {
       "id": 47100328,
       "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
       "url": "https://github.com/kurouna/elecxzy",
-      "score": 5,
+      "score": 8,
       "by": "kurouna",
       "time": 1771678164,
-      "comments": 5,
+      "comments": 7,
       "domain": "github.com"
     },
     {
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "url": "https://ukiyo-e.org/",
-      "score": 104,
+      "score": 107,
       "by": "curmudgeon22",
       "time": 1771730316,
-      "comments": 18,
+      "comments": 20,
       "domain": "ukiyo-e.org"
-    },
-    {
-      "id": 47103661,
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 146,
-      "by": "beAroundHere",
-      "time": 1771700840,
-      "comments": 73,
-      "domain": "anuragk.com"
-    },
-    {
-      "id": 47104667,
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 250,
-      "by": "xaskasdf",
-      "time": 1771707450,
-      "comments": 59,
-      "domain": "github.com"
-    },
-    {
-      "id": 47061614,
-      "title": "How far back in time can you understand English?",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 549,
-      "by": "spzb",
-      "time": 1771426618,
-      "comments": 300,
-      "domain": "deadlanguagesociety.com"
-    },
-    {
-      "id": 47046070,
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "score": 103,
-      "by": "matheusalmeida",
-      "time": 1771326069,
-      "comments": 16,
-      "domain": "floedb.ai"
-    },
-    {
-      "id": 47096167,
-      "title": "Gamedate – A site to revive dead multiplayer games",
-      "url": "https://gamedate.org/",
-      "score": 122,
-      "by": "msuniverse2026",
-      "time": 1771634668,
-      "comments": 12,
-      "domain": "gamedate.org"
     },
     {
       "id": 47108989,
       "title": "Back to FreeBSD: Part 1",
       "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 24,
+      "score": 32,
       "by": "enz",
       "time": 1771744587,
       "comments": 4,
       "domain": "hypha.pub"
     },
     {
+      "id": 47061614,
+      "title": "How far back in time can you understand English?",
+      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+      "score": 550,
+      "by": "spzb",
+      "time": 1771426618,
+      "comments": 301,
+      "domain": "deadlanguagesociety.com"
+    },
+    {
+      "id": 47103661,
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 148,
+      "by": "beAroundHere",
+      "time": 1771700840,
+      "comments": 75,
+      "domain": "anuragk.com"
+    },
+    {
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 105,
+      "by": "matheusalmeida",
+      "time": 1771326069,
+      "comments": 16,
+      "domain": "floedb.ai"
+    },
+    {
+      "id": 47104667,
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "score": 253,
+      "by": "xaskasdf",
+      "time": 1771707450,
+      "comments": 61,
+      "domain": "github.com"
+    },
+    {
+      "id": 47096167,
+      "title": "Gamedate – A site to revive dead multiplayer games",
+      "url": "https://gamedate.org/",
+      "score": 125,
+      "by": "msuniverse2026",
+      "time": 1771634668,
+      "comments": 13,
+      "domain": "gamedate.org"
+    },
+    {
       "id": 47106985,
       "title": "A Botnet Accidentally Destroyed I2P",
       "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "score": 111,
+      "score": 113,
       "by": "Cider9986",
       "time": 1771722497,
-      "comments": 68,
+      "comments": 69,
       "domain": "sambent.com"
     },
     {
       "id": 47105198,
       "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
       "url": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 134,
+      "score": 136,
       "by": "suddenlybananas",
       "time": 1771710718,
       "comments": 39,
       "domain": "science.org"
+    },
+    {
+      "id": 47103931,
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "score": 194,
+      "by": "todsacerdoti",
+      "time": 1771702806,
+      "comments": 46,
+      "domain": "harudagondi.space"
     },
     {
       "id": 47044369,
@@ -122,23 +132,23 @@
       "domain": "yuyz0112.github.io"
     },
     {
-      "id": 47103931,
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 192,
-      "by": "todsacerdoti",
-      "time": 1771702806,
-      "comments": 46,
-      "domain": "harudagondi.space"
+      "id": 47046853,
+      "title": "Unreal Numbers",
+      "url": "https://lcamtuf.substack.com/p/unreal-numbers",
+      "score": 5,
+      "by": "surprisetalk",
+      "time": 1771332010,
+      "comments": 0,
+      "domain": "lcamtuf.substack.com"
     },
     {
       "id": 47096253,
       "title": "Claws are now a new layer on top of LLM agents",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 306,
+      "score": 308,
       "by": "Cyphase",
       "time": 1771635389,
-      "comments": 741,
+      "comments": 743,
       "domain": "twitter.com"
     },
     {
@@ -152,44 +162,24 @@
       "domain": "github.com"
     },
     {
-      "id": 47051709,
-      "title": "Scientists discover recent tectonic activity on the moon",
-      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
-      "score": 55,
-      "by": "bookmtn",
-      "time": 1771355617,
-      "comments": 3,
-      "domain": "phys.org"
-    },
-    {
       "id": 47101171,
       "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
       "url": "https://www.koreaherald.com/article/10679206",
-      "score": 208,
+      "score": 209,
       "by": "phront",
       "time": 1771684336,
-      "comments": 189,
+      "comments": 191,
       "domain": "koreaherald.com"
     },
     {
       "id": 47103136,
       "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
       "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 149,
+      "score": 151,
       "by": "iancmceachern",
       "time": 1771697364,
-      "comments": 336,
+      "comments": 340,
       "domain": "carbuzz.com"
-    },
-    {
-      "id": 47046853,
-      "title": "Unreal Numbers",
-      "url": "https://lcamtuf.substack.com/p/unreal-numbers",
-      "score": 3,
-      "by": "surprisetalk",
-      "time": 1771332010,
-      "comments": 0,
-      "domain": "lcamtuf.substack.com"
     },
     {
       "id": 47098669,
@@ -200,6 +190,16 @@
       "time": 1771662396,
       "comments": 28,
       "domain": "github.com"
+    },
+    {
+      "id": 47051709,
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "score": 55,
+      "by": "bookmtn",
+      "time": 1771355617,
+      "comments": 3,
+      "domain": "phys.org"
     },
     {
       "id": 47074671,
@@ -218,7 +218,7 @@
       "score": 1284,
       "by": "ColinWright",
       "time": 1771657578,
-      "comments": 434,
+      "comments": 438,
       "domain": "thelocalstack.eu"
     },
     {
@@ -235,7 +235,7 @@
       "id": 47060334,
       "title": "Carelessness versus craftsmanship in cryptography",
       "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
-      "score": 31,
+      "score": 32,
       "by": "ingve",
       "time": 1771418092,
       "comments": 6,
@@ -245,7 +245,7 @@
       "id": 47095105,
       "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
       "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
-      "score": 144,
+      "score": 145,
       "by": "paulpauper",
       "time": 1771627678,
       "comments": 205,
@@ -285,21 +285,21 @@
       "id": 47046858,
       "title": "Permacomputing",
       "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "score": 152,
+      "score": 153,
       "by": "tosh",
       "time": 1771332037,
       "comments": 38,
       "domain": "wiki.xxiivv.com"
     },
     {
-      "id": 47108977,
-      "title": "What's the best way to learn a new language?",
-      "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
-      "score": 5,
-      "by": "1659447091",
-      "time": 1771744462,
-      "comments": 0,
-      "domain": "bbc.com"
+      "id": 47094877,
+      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
+      "score": 151,
+      "by": "frou_dh",
+      "time": 1771626476,
+      "comments": 85,
+      "domain": "adamj.eu"
     }
   ]
 }
