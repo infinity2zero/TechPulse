@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-23T06:46:36.882Z",
+  "lastUpdated": "2026-02-23T07:43:10.861Z",
   "items": [
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1086,
+      "stars": 1100,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-23T06:44:52Z"
+      "updated_at": "2026-02-23T07:41:34Z"
     },
     {
       "id": 1163317794,
       "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "description": null,
-      "stars": 679,
+      "stars": 684,
       "language": "Python",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "owner": {
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-23T06:42:20Z"
+      "updated_at": "2026-02-23T07:25:44Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 671,
+      "stars": 673,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-23T06:29:46Z"
+      "updated_at": "2026-02-23T07:32:00Z"
     },
     {
       "id": 1162163663,
@@ -51,46 +51,59 @@
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-23T06:16:19Z"
+      "updated_at": "2026-02-23T06:53:38Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 601,
+      "stars": 608,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-23T06:23:01Z"
+      "updated_at": "2026-02-23T07:28:41Z"
     },
     {
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 541,
+      "stars": 549,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-23T06:39:47Z"
+      "updated_at": "2026-02-23T07:37:39Z"
     },
     {
       "id": 1161025758,
       "name": "TraderAlice/OpenAlice",
       "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 468,
+      "stars": 488,
       "language": "TypeScript",
       "url": "https://github.com/TraderAlice/OpenAlice",
       "owner": {
         "login": "TraderAlice",
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
-      "updated_at": "2026-02-23T06:44:35Z"
+      "updated_at": "2026-02-23T07:42:08Z"
+    },
+    {
+      "id": 1163982597,
+      "name": "Kirubel125/Kalshi-Claw",
+      "description": null,
+      "stars": 384,
+      "language": "TypeScript",
+      "url": "https://github.com/Kirubel125/Kalshi-Claw",
+      "owner": {
+        "login": "Kirubel125",
+        "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
+      },
+      "updated_at": "2026-02-23T07:42:18Z"
     },
     {
       "id": 1160175822,
@@ -109,40 +122,27 @@
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 360,
+      "stars": 364,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-23T05:49:44Z"
+      "updated_at": "2026-02-23T07:30:44Z"
     },
     {
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 349,
+      "stars": 350,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-23T06:12:42Z"
-    },
-    {
-      "id": 1163982597,
-      "name": "Kirubel125/Kalshi-Claw",
-      "description": null,
-      "stars": 348,
-      "language": "TypeScript",
-      "url": "https://github.com/Kirubel125/Kalshi-Claw",
-      "owner": {
-        "login": "Kirubel125",
-        "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
-      },
-      "updated_at": "2026-02-23T06:46:16Z"
+      "updated_at": "2026-02-23T07:21:44Z"
     },
     {
       "id": 1160953701,
@@ -161,14 +161,40 @@
       "id": 1161896420,
       "name": "Done-0/value-realization",
       "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
-      "stars": 320,
+      "stars": 327,
       "language": null,
       "url": "https://github.com/Done-0/value-realization",
       "owner": {
         "login": "Done-0",
         "avatar_url": "https://avatars.githubusercontent.com/u/168193380?v=4"
       },
-      "updated_at": "2026-02-23T06:32:03Z"
+      "updated_at": "2026-02-23T07:42:13Z"
+    },
+    {
+      "id": 1161267371,
+      "name": "xaskasdf/ntransformer",
+      "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
+      "stars": 315,
+      "language": "C++",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "owner": {
+        "login": "xaskasdf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7344616?v=4"
+      },
+      "updated_at": "2026-02-23T07:13:09Z"
+    },
+    {
+      "id": 1161071790,
+      "name": "badaramoni/wave-field-llm",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "stars": 311,
+      "language": "Python",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "owner": {
+        "login": "badaramoni",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80014354?v=4"
+      },
+      "updated_at": "2026-02-23T07:10:24Z"
     },
     {
       "id": 1161940285,
@@ -181,59 +207,33 @@
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-23T06:36:32Z"
-    },
-    {
-      "id": 1161267371,
-      "name": "xaskasdf/ntransformer",
-      "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-      "stars": 310,
-      "language": "C++",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "owner": {
-        "login": "xaskasdf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7344616?v=4"
-      },
-      "updated_at": "2026-02-23T05:41:12Z"
-    },
-    {
-      "id": 1161071790,
-      "name": "badaramoni/wave-field-llm",
-      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "stars": 309,
-      "language": "Python",
-      "url": "https://github.com/badaramoni/wave-field-llm",
-      "owner": {
-        "login": "badaramoni",
-        "avatar_url": "https://avatars.githubusercontent.com/u/80014354?v=4"
-      },
-      "updated_at": "2026-02-23T06:08:58Z"
+      "updated_at": "2026-02-23T07:01:43Z"
     },
     {
       "id": 1161754368,
       "name": "angel10x/Crash-Frontend",
       "description": "About Crash game - frontend",
-      "stars": 305,
+      "stars": 306,
       "language": "TypeScript",
       "url": "https://github.com/angel10x/Crash-Frontend",
       "owner": {
         "login": "angel10x",
         "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
       },
-      "updated_at": "2026-02-23T05:58:07Z"
+      "updated_at": "2026-02-23T07:00:42Z"
     },
     {
       "id": 1159791030,
       "name": "khalildh/garment-notation",
       "description": null,
-      "stars": 291,
+      "stars": 293,
       "language": "JavaScript",
       "url": "https://github.com/khalildh/garment-notation",
       "owner": {
         "login": "khalildh",
         "avatar_url": "https://avatars.githubusercontent.com/u/16530987?v=4"
       },
-      "updated_at": "2026-02-23T06:16:24Z"
+      "updated_at": "2026-02-23T07:27:57Z"
     },
     {
       "id": 1161070751,
@@ -252,14 +252,14 @@
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 285,
+      "stars": 286,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-23T05:56:10Z"
+      "updated_at": "2026-02-23T07:05:26Z"
     }
   ]
 }
