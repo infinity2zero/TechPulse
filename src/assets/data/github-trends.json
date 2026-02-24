@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-24T10:59:56.024Z",
+  "lastUpdated": "2026-02-24T11:43:05.085Z",
   "items": [
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1263,
+      "stars": 1264,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-24T09:56:50Z"
+      "updated_at": "2026-02-24T11:28:11Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1090,
+      "stars": 1110,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-24T10:56:54Z"
+      "updated_at": "2026-02-24T11:43:00Z"
     },
     {
       "id": 1161318197,
@@ -44,53 +44,53 @@
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 731,
+      "stars": 735,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-24T10:53:43Z"
+      "updated_at": "2026-02-24T11:42:09Z"
     },
     {
       "id": 1163317794,
       "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "description": null,
-      "stars": 689,
+      "stars": 692,
       "language": "Python",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "owner": {
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-24T10:56:45Z"
+      "updated_at": "2026-02-24T11:41:52Z"
     },
     {
       "id": 1161025758,
       "name": "TraderAlice/OpenAlice",
       "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 605,
+      "stars": 607,
       "language": "TypeScript",
       "url": "https://github.com/TraderAlice/OpenAlice",
       "owner": {
         "login": "TraderAlice",
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
-      "updated_at": "2026-02-24T10:37:56Z"
+      "updated_at": "2026-02-24T11:32:44Z"
     },
     {
       "id": 1163982597,
       "name": "Kirubel125/Kalshi-Claw",
       "description": null,
-      "stars": 538,
+      "stars": 540,
       "language": "TypeScript",
       "url": "https://github.com/Kirubel125/Kalshi-Claw",
       "owner": {
         "login": "Kirubel125",
         "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
       },
-      "updated_at": "2026-02-24T10:51:06Z"
+      "updated_at": "2026-02-24T11:26:34Z"
     },
     {
       "id": 1162163663,
@@ -109,14 +109,14 @@
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 475,
+      "stars": 478,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-24T10:59:54Z"
+      "updated_at": "2026-02-24T11:31:40Z"
     },
     {
       "id": 1164025244,
@@ -132,6 +132,19 @@
       "updated_at": "2026-02-24T10:33:33Z"
     },
     {
+      "id": 1163121560,
+      "name": "dnakov/litter",
+      "description": null,
+      "stars": 369,
+      "language": "Kotlin",
+      "url": "https://github.com/dnakov/litter",
+      "owner": {
+        "login": "dnakov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
+      },
+      "updated_at": "2026-02-24T11:30:37Z"
+    },
+    {
       "id": 1161940285,
       "name": "quoroom-ai/room",
       "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
@@ -142,59 +155,46 @@
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-24T10:39:51Z"
+      "updated_at": "2026-02-24T11:43:03Z"
     },
     {
       "id": 1161280162,
       "name": "NikkeTryHard/zerogravity",
       "description": "OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.",
-      "stars": 368,
+      "stars": 369,
       "language": "Dockerfile",
       "url": "https://github.com/NikkeTryHard/zerogravity",
       "owner": {
         "login": "NikkeTryHard",
         "avatar_url": "https://avatars.githubusercontent.com/u/111729769?v=4"
       },
-      "updated_at": "2026-02-24T10:33:28Z"
+      "updated_at": "2026-02-24T11:25:41Z"
     },
     {
       "id": 1161267371,
       "name": "xaskasdf/ntransformer",
       "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-      "stars": 366,
+      "stars": 367,
       "language": "C++",
       "url": "https://github.com/xaskasdf/ntransformer",
       "owner": {
         "login": "xaskasdf",
         "avatar_url": "https://avatars.githubusercontent.com/u/7344616?v=4"
       },
-      "updated_at": "2026-02-24T10:07:45Z"
-    },
-    {
-      "id": 1163121560,
-      "name": "dnakov/litter",
-      "description": null,
-      "stars": 364,
-      "language": "Kotlin",
-      "url": "https://github.com/dnakov/litter",
-      "owner": {
-        "login": "dnakov",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
-      },
-      "updated_at": "2026-02-24T10:53:02Z"
+      "updated_at": "2026-02-24T11:11:12Z"
     },
     {
       "id": 1161071790,
       "name": "badaramoni/wave-field-llm",
       "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
-      "stars": 363,
+      "stars": 364,
       "language": "Python",
       "url": "https://github.com/badaramoni/wave-field-llm",
       "owner": {
         "login": "badaramoni",
         "avatar_url": "https://avatars.githubusercontent.com/u/80014354?v=4"
       },
-      "updated_at": "2026-02-24T10:52:29Z"
+      "updated_at": "2026-02-24T11:12:23Z"
     },
     {
       "id": 1161896420,
@@ -213,14 +213,27 @@
       "id": 1163746666,
       "name": "ochyai/vibe-local",
       "description": "Free AI coding environment: Ollama + Python",
-      "stars": 360,
+      "stars": 362,
       "language": "Python",
       "url": "https://github.com/ochyai/vibe-local",
       "owner": {
         "login": "ochyai",
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
-      "updated_at": "2026-02-24T10:43:50Z"
+      "updated_at": "2026-02-24T11:39:17Z"
+    },
+    {
+      "id": 1163037979,
+      "name": "hamelsmu/claude-review-loop",
+      "description": "Claude Code plugin: automated code review loop with Codex",
+      "stars": 350,
+      "language": "Shell",
+      "url": "https://github.com/hamelsmu/claude-review-loop",
+      "owner": {
+        "login": "hamelsmu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
+      },
+      "updated_at": "2026-02-24T11:38:05Z"
     },
     {
       "id": 1160953701,
@@ -236,30 +249,17 @@
       "updated_at": "2026-02-24T09:37:42Z"
     },
     {
-      "id": 1163037979,
-      "name": "hamelsmu/claude-review-loop",
-      "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 348,
-      "language": "Shell",
-      "url": "https://github.com/hamelsmu/claude-review-loop",
-      "owner": {
-        "login": "hamelsmu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
-      },
-      "updated_at": "2026-02-24T10:53:04Z"
-    },
-    {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 345,
+      "stars": 347,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-24T10:33:13Z"
+      "updated_at": "2026-02-24T11:15:35Z"
     }
   ]
 }
