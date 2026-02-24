@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T23:44:31.529Z",
+  "lastUpdated": "2026-02-24T00:00:52.863Z",
   "items": [
     {
       "id": 1162194563,
@@ -18,27 +18,27 @@
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 906,
+      "stars": 909,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-23T23:38:18Z"
+      "updated_at": "2026-02-24T00:00:52Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 716,
+      "stars": 717,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-23T22:46:58Z"
+      "updated_at": "2026-02-23T23:56:12Z"
     },
     {
       "id": 1163317794,
@@ -109,40 +109,14 @@
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 442,
+      "stars": 445,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-23T23:35:03Z"
-    },
-    {
-      "id": 1160175822,
-      "name": "Pickle-Pixel/ApplyPilot",
-      "description": "AI agent that applies to jobs for you. Any site. Any form.",
-      "stars": 427,
-      "language": "Python",
-      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
-      "owner": {
-        "login": "Pickle-Pixel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/142660885?v=4"
-      },
-      "updated_at": "2026-02-23T23:16:07Z"
-    },
-    {
-      "id": 1160327105,
-      "name": "superhq-ai/shuru",
-      "description": "A local-first microVM sandbox for running AI agents safely on macOS",
-      "stars": 383,
-      "language": "Rust",
-      "url": "https://github.com/superhq-ai/shuru",
-      "owner": {
-        "login": "superhq-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/219734521?v=4"
-      },
-      "updated_at": "2026-02-23T23:33:10Z"
+      "updated_at": "2026-02-24T00:00:22Z"
     },
     {
       "id": 1163121560,
@@ -171,30 +145,17 @@
       "updated_at": "2026-02-23T22:57:55Z"
     },
     {
-      "id": 1159866842,
-      "name": "dimartarmizi/map-to-poster",
-      "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.",
-      "stars": 358,
-      "language": "JavaScript",
-      "url": "https://github.com/dimartarmizi/map-to-poster",
-      "owner": {
-        "login": "dimartarmizi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124131559?v=4"
-      },
-      "updated_at": "2026-02-23T23:39:30Z"
-    },
-    {
       "id": 1161267371,
       "name": "xaskasdf/ntransformer",
       "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-      "stars": 350,
+      "stars": 352,
       "language": "C++",
       "url": "https://github.com/xaskasdf/ntransformer",
       "owner": {
         "login": "xaskasdf",
         "avatar_url": "https://avatars.githubusercontent.com/u/7344616?v=4"
       },
-      "updated_at": "2026-02-23T23:31:27Z"
+      "updated_at": "2026-02-23T23:57:21Z"
     },
     {
       "id": 1161896420,
@@ -239,27 +200,66 @@
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 333,
+      "stars": 336,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-23T23:23:35Z"
+      "updated_at": "2026-02-23T23:59:44Z"
     },
     {
-      "id": 1159791030,
-      "name": "khalildh/garment-notation",
-      "description": null,
-      "stars": 312,
-      "language": "JavaScript",
-      "url": "https://github.com/khalildh/garment-notation",
+      "id": 1163037979,
+      "name": "hamelsmu/claude-review-loop",
+      "description": "Claude Code plugin: automated code review loop with Codex",
+      "stars": 313,
+      "language": "Shell",
+      "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
-        "login": "khalildh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16530987?v=4"
+        "login": "hamelsmu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-23T22:00:18Z"
+      "updated_at": "2026-02-24T00:00:34Z"
+    },
+    {
+      "id": 1163746666,
+      "name": "ochyai/vibe-local",
+      "description": "Free AI coding environment: Ollama + Python",
+      "stars": 303,
+      "language": "Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "owner": {
+        "login": "ochyai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+      },
+      "updated_at": "2026-02-23T23:57:37Z"
+    },
+    {
+      "id": 1161070751,
+      "name": "paradigmxyz/evmbench",
+      "description": "A benchmark and harness for finding and exploiting smart contract bugs",
+      "stars": 289,
+      "language": "TypeScript",
+      "url": "https://github.com/paradigmxyz/evmbench",
+      "owner": {
+        "login": "paradigmxyz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/97369466?v=4"
+      },
+      "updated_at": "2026-02-23T11:23:16Z"
+    },
+    {
+      "id": 1163850095,
+      "name": "runesleo/x-reader",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "stars": 280,
+      "language": "Python",
+      "url": "https://github.com/runesleo/x-reader",
+      "owner": {
+        "login": "runesleo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+      },
+      "updated_at": "2026-02-23T23:52:48Z"
     }
   ]
 }
