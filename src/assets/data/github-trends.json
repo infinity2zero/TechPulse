@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-24T19:34:45.127Z",
+  "lastUpdated": "2026-02-24T20:00:16.004Z",
   "items": [
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1331,
+      "stars": 1338,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-24T19:32:41Z"
+      "updated_at": "2026-02-24T19:59:27Z"
     },
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1283,
+      "stars": 1285,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-24T19:15:53Z"
+      "updated_at": "2026-02-24T19:52:25Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 791,
+      "stars": 795,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-24T19:33:42Z"
+      "updated_at": "2026-02-24T19:59:05Z"
     },
     {
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 766,
+      "stars": 768,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-24T18:56:35Z"
+      "updated_at": "2026-02-24T19:54:33Z"
     },
     {
       "id": 1163317794,
@@ -70,14 +70,14 @@
       "id": 1161025758,
       "name": "TraderAlice/OpenAlice",
       "description": "File-driven AI trading agent engine for crypto and securities markets",
-      "stars": 620,
+      "stars": 621,
       "language": "TypeScript",
       "url": "https://github.com/TraderAlice/OpenAlice",
       "owner": {
         "login": "TraderAlice",
         "avatar_url": "https://avatars.githubusercontent.com/u/243907072?v=4"
       },
-      "updated_at": "2026-02-24T19:03:56Z"
+      "updated_at": "2026-02-24T19:55:44Z"
     },
     {
       "id": 1163982597,
@@ -135,14 +135,14 @@
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 416,
+      "stars": 418,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-24T19:24:09Z"
+      "updated_at": "2026-02-24T19:54:50Z"
     },
     {
       "id": 1161280162,
@@ -184,6 +184,19 @@
       "updated_at": "2026-02-24T18:37:12Z"
     },
     {
+      "id": 1163037979,
+      "name": "hamelsmu/claude-review-loop",
+      "description": "Claude Code plugin: automated code review loop with Codex",
+      "stars": 389,
+      "language": "Shell",
+      "url": "https://github.com/hamelsmu/claude-review-loop",
+      "owner": {
+        "login": "hamelsmu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
+      },
+      "updated_at": "2026-02-24T19:57:12Z"
+    },
+    {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
@@ -197,19 +210,6 @@
       "updated_at": "2026-02-24T18:54:03Z"
     },
     {
-      "id": 1163037979,
-      "name": "hamelsmu/claude-review-loop",
-      "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 387,
-      "language": "Shell",
-      "url": "https://github.com/hamelsmu/claude-review-loop",
-      "owner": {
-        "login": "hamelsmu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
-      },
-      "updated_at": "2026-02-24T19:16:35Z"
-    },
-    {
       "id": 1161940285,
       "name": "quoroom-ai/room",
       "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
@@ -220,7 +220,7 @@
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-24T18:52:47Z"
+      "updated_at": "2026-02-24T19:44:09Z"
     },
     {
       "id": 1161267371,
