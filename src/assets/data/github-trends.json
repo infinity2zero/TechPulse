@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-24T23:22:21.415Z",
+  "lastUpdated": "2026-02-24T23:51:04.781Z",
   "items": [
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1389,
+      "stars": 1394,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-24T23:09:31Z"
+      "updated_at": "2026-02-24T23:41:37Z"
     },
     {
       "id": 1162194563,
@@ -64,7 +64,7 @@
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-24T22:57:44Z"
+      "updated_at": "2026-02-24T23:49:07Z"
     },
     {
       "id": 1161025758,
@@ -83,27 +83,27 @@
       "id": 1163982597,
       "name": "Kirubel125/Kalshi-Claw",
       "description": null,
-      "stars": 563,
+      "stars": 567,
       "language": "TypeScript",
       "url": "https://github.com/Kirubel125/Kalshi-Claw",
       "owner": {
         "login": "Kirubel125",
         "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
       },
-      "updated_at": "2026-02-24T23:19:07Z"
+      "updated_at": "2026-02-24T23:47:32Z"
     },
     {
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 503,
+      "stars": 505,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-24T21:14:36Z"
+      "updated_at": "2026-02-24T23:47:51Z"
     },
     {
       "id": 1162163663,
@@ -119,6 +119,19 @@
       "updated_at": "2026-02-24T23:14:37Z"
     },
     {
+      "id": 1165371200,
+      "name": "cloudflare/vinext",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "stars": 475,
+      "language": "TypeScript",
+      "url": "https://github.com/cloudflare/vinext",
+      "owner": {
+        "login": "cloudflare",
+        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+      },
+      "updated_at": "2026-02-24T23:50:42Z"
+    },
+    {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
@@ -130,19 +143,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
       "updated_at": "2026-02-24T22:24:04Z"
-    },
-    {
-      "id": 1165371200,
-      "name": "cloudflare/vinext",
-      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 423,
-      "language": "TypeScript",
-      "url": "https://github.com/cloudflare/vinext",
-      "owner": {
-        "login": "cloudflare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
-      },
-      "updated_at": "2026-02-24T23:22:06Z"
     },
     {
       "id": 1163121560,
@@ -200,40 +200,40 @@
       "id": 1163746666,
       "name": "ochyai/vibe-local",
       "description": "Free AI coding environment: Ollama + Python",
-      "stars": 399,
+      "stars": 400,
       "language": "Python",
       "url": "https://github.com/ochyai/vibe-local",
       "owner": {
         "login": "ochyai",
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
-      "updated_at": "2026-02-24T23:11:43Z"
+      "updated_at": "2026-02-24T23:48:53Z"
     },
     {
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 394,
+      "stars": 399,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-24T22:56:18Z"
+      "updated_at": "2026-02-24T23:50:58Z"
     },
     {
       "id": 1161940285,
       "name": "quoroom-ai/room",
       "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
-      "stars": 384,
+      "stars": 385,
       "language": "TypeScript",
       "url": "https://github.com/quoroom-ai/room",
       "owner": {
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-24T22:26:36Z"
+      "updated_at": "2026-02-24T23:34:03Z"
     },
     {
       "id": 1161071790,
@@ -249,17 +249,17 @@
       "updated_at": "2026-02-24T23:14:50Z"
     },
     {
-      "id": 1161267371,
-      "name": "xaskasdf/ntransformer",
-      "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-      "stars": 379,
-      "language": "C++",
-      "url": "https://github.com/xaskasdf/ntransformer",
+      "id": 1165733654,
+      "name": "Polymarket/polymarket-cli",
+      "description": null,
+      "stars": 380,
+      "language": "Rust",
+      "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
-        "login": "xaskasdf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7344616?v=4"
+        "login": "Polymarket",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-24T21:39:37Z"
+      "updated_at": "2026-02-24T23:49:33Z"
     }
   ]
 }
