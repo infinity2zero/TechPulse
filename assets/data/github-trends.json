@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-25T21:51:45.452Z",
+  "lastUpdated": "2026-02-25T22:16:50.583Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 2877,
+      "stars": 2898,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-25T21:51:25Z"
+      "updated_at": "2026-02-25T22:16:15Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1559,
+      "stars": 1561,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-25T21:50:05Z"
+      "updated_at": "2026-02-25T22:07:50Z"
     },
     {
       "id": 1162194563,
@@ -44,53 +44,53 @@
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 1058,
+      "stars": 1060,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-25T21:46:57Z"
+      "updated_at": "2026-02-25T21:58:49Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 928,
+      "stars": 932,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-25T21:47:56Z"
+      "updated_at": "2026-02-25T22:16:10Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 921,
+      "stars": 923,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-25T21:49:52Z"
+      "updated_at": "2026-02-25T22:01:45Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 908,
+      "stars": 913,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-25T21:42:37Z"
+      "updated_at": "2026-02-25T22:13:03Z"
     },
     {
       "id": 1161415745,
@@ -109,27 +109,27 @@
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 786,
+      "stars": 790,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-25T21:50:33Z"
+      "updated_at": "2026-02-25T22:14:51Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 693,
+      "stars": 696,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-25T21:49:04Z"
+      "updated_at": "2026-02-25T22:10:48Z"
     },
     {
       "id": 1163317794,
@@ -148,14 +148,14 @@
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 522,
+      "stars": 523,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-25T20:33:39Z"
+      "updated_at": "2026-02-25T21:52:36Z"
     },
     {
       "id": 1164025244,
@@ -174,14 +174,14 @@
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
-      "stars": 485,
+      "stars": 482,
       "language": "TypeScript",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-25T21:38:24Z"
+      "updated_at": "2026-02-25T22:15:39Z"
     },
     {
       "id": 1163037979,
@@ -207,7 +207,7 @@
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-25T20:39:20Z"
+      "updated_at": "2026-02-25T21:53:27Z"
     },
     {
       "id": 1161896420,
@@ -249,17 +249,17 @@
       "updated_at": "2026-02-25T19:32:00Z"
     },
     {
-      "id": 1161940285,
-      "name": "quoroom-ai/room",
-      "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
+      "id": 1165265099,
+      "name": "rebane2001/x86CSS",
+      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
       "stars": 419,
-      "language": "TypeScript",
-      "url": "https://github.com/quoroom-ai/room",
+      "language": "HTML",
+      "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
-        "login": "quoroom-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
+        "login": "rebane2001",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-25T21:33:21Z"
+      "updated_at": "2026-02-25T22:12:01Z"
     }
   ]
 }
