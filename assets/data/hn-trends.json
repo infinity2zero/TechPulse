@@ -1,101 +1,111 @@
 {
-  "lastUpdated": "2026-02-25T10:02:00.247Z",
+  "lastUpdated": "2026-02-25T10:59:20.973Z",
   "items": [
     {
       "id": 47149151,
       "title": "LLM=True",
       "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-      "score": 36,
+      "score": 75,
       "by": "avh3",
       "time": 1772010340,
-      "comments": 35,
+      "comments": 55,
       "domain": "blog.codemine.be"
     },
     {
       "id": 47139675,
       "title": "I'm helping my dog vibe code games",
       "url": "https://www.calebleak.com/posts/dog-game/",
-      "score": 915,
+      "score": 930,
       "by": "cleak",
       "time": 1771953317,
-      "comments": 279,
+      "comments": 289,
       "domain": "calebleak.com"
     },
     {
-      "id": 47130997,
-      "title": "Meta problem with URPF our bundle in Boca raton",
-      "url": "https://metafixthis.com/",
-      "score": 19,
-      "by": "synthesis5x",
-      "time": 1771891964,
+      "id": 47149811,
+      "title": "Vinext – The Next.js API surface, reimplemented on Vite",
+      "url": "https://github.com/cloudflare/vinext",
+      "score": 7,
+      "by": "billwashere",
+      "time": 1772015681,
       "comments": 0,
-      "domain": "metafixthis.com"
+      "domain": "github.com"
     },
     {
-      "id": 47138631,
-      "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
-      "url": "https://shouldhavebought.com/",
-      "score": 17,
-      "by": "b0bbi",
-      "time": 1771948254,
-      "comments": 14,
-      "domain": "shouldhavebought.com"
+      "id": 47149701,
+      "title": "Danish Gov agency to ditch Microsoft software in push for digital independence",
+      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "score": 22,
+      "by": "robtherobber",
+      "time": 1772014582,
+      "comments": 4,
+      "domain": "therecord.media"
     },
     {
       "id": 47143754,
       "title": "Pi – A minimal terminal coding harness",
       "url": "https://pi.dev",
-      "score": 372,
+      "score": 394,
       "by": "kristianpaul",
       "time": 1771970039,
-      "comments": 165,
+      "comments": 174,
       "domain": "pi.dev"
     },
     {
       "id": 47147609,
       "title": "Turing Completeness of GNU find",
       "url": "https://arxiv.org/abs/2602.20762",
-      "score": 45,
+      "score": 56,
       "by": "todsacerdoti",
       "time": 1771996599,
-      "comments": 5,
+      "comments": 10,
       "domain": "arxiv.org"
-    },
-    {
-      "id": 47114165,
-      "title": "Japanese Death Poems",
-      "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
-      "score": 36,
-      "by": "NaOH",
-      "time": 1771790898,
-      "comments": 9,
-      "domain": "secretorum.life"
     },
     {
       "id": 47143755,
       "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
       "url": "https://github.com/moonshine-ai/moonshine",
-      "score": 243,
+      "score": 252,
       "by": "petewarden",
       "time": 1771970047,
-      "comments": 52,
+      "comments": 56,
       "domain": "github.com"
     },
     {
       "id": 47144464,
       "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "score": 221,
+      "score": 237,
       "by": "fittingopposite",
       "time": 1771973183,
-      "comments": 97,
+      "comments": 101,
       "domain": "inceptionlabs.ai"
+    },
+    {
+      "id": 47114165,
+      "title": "Japanese Death Poems",
+      "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
+      "score": 45,
+      "by": "NaOH",
+      "time": 1771790898,
+      "comments": 13,
+      "domain": "secretorum.life"
+    },
+    {
+      "id": 47138631,
+      "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+      "url": "https://shouldhavebought.com/",
+      "score": 20,
+      "by": "b0bbi",
+      "time": 1771948254,
+      "comments": 28,
+      "domain": "shouldhavebought.com"
     },
     {
       "id": 47110384,
       "title": "Cl-kawa: Scheme on Java on Common Lisp",
       "url": "https://github.com/atgreen/cl-kawa",
-      "score": 37,
+      "score": 39,
       "by": "varjag",
       "time": 1771762359,
       "comments": 8,
@@ -105,21 +115,111 @@
       "id": 47143152,
       "title": "Mac mini will be made at a new facility in Houston",
       "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "score": 514,
+      "score": 526,
       "by": "haunter",
       "time": 1771967625,
-      "comments": 500,
+      "comments": 513,
       "domain": "apple.com"
     },
     {
       "id": 47141797,
       "title": "Hacking an old Kindle to display bus arrival times",
       "url": "https://www.mariannefeng.com/portfolio/kindle/",
-      "score": 261,
+      "score": 271,
       "by": "mengchengfeng",
       "time": 1771962214,
-      "comments": 65,
+      "comments": 68,
       "domain": "mariannefeng.com"
+    },
+    {
+      "id": 47148454,
+      "title": "Claude Code Remote Control",
+      "url": "https://code.claude.com/docs/en/remote-control",
+      "score": 17,
+      "by": "empressplay",
+      "time": 1772004176,
+      "comments": 1,
+      "domain": "code.claude.com"
+    },
+    {
+      "id": 47140322,
+      "title": "Show HN: Emdash – Open-source agentic development environment",
+      "url": "https://github.com/generalaction/emdash",
+      "score": 162,
+      "by": "onecommit",
+      "time": 1771956037,
+      "comments": 60,
+      "domain": "github.com"
+    },
+    {
+      "id": 47136604,
+      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+      "url": "https://wordglyph.xyz/one-piece-at-a-time",
+      "score": 466,
+      "by": "wordglyph",
+      "time": 1771938231,
+      "comments": 168,
+      "domain": "wordglyph.xyz"
+    },
+    {
+      "id": 47140042,
+      "title": "Nearby Glasses",
+      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "score": 345,
+      "by": "zingerlio",
+      "time": 1771954840,
+      "comments": 141,
+      "domain": "github.com"
+    },
+    {
+      "id": 47110300,
+      "title": "Running RISC-V in a VM to test my snaps",
+      "url": "https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/",
+      "score": 3,
+      "by": "jandeboevrie",
+      "time": 1771761286,
+      "comments": 0,
+      "domain": "blog.popey.com"
+    },
+    {
+      "id": 47140657,
+      "title": "Steel Bank Common Lisp",
+      "url": "https://www.sbcl.org/",
+      "score": 220,
+      "by": "tosh",
+      "time": 1771957457,
+      "comments": 87,
+      "domain": "sbcl.org"
+    },
+    {
+      "id": 47145907,
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "score": 451,
+      "by": "toomuchtodo",
+      "time": 1771981245,
+      "comments": 149,
+      "domain": "thebignewsletter.com"
+    },
+    {
+      "id": 47125287,
+      "title": "Half million 'Words with Spaces' missing from dictionaries",
+      "url": "https://www.linguabase.org/words-with-spaces.html",
+      "score": 68,
+      "by": "gligierko",
+      "time": 1771866922,
+      "comments": 108,
+      "domain": "linguabase.org"
+    },
+    {
+      "id": 47144325,
+      "title": "Cell Service for the Fairly Paranoid",
+      "url": "https://www.cape.co/",
+      "score": 101,
+      "by": "0xWTF",
+      "time": 1771972674,
+      "comments": 99,
+      "domain": "cape.co"
     },
     {
       "id": 47133716,
@@ -132,164 +232,54 @@
       "domain": "github.com"
     },
     {
-      "id": 47140322,
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "url": "https://github.com/generalaction/emdash",
-      "score": 156,
-      "by": "onecommit",
-      "time": 1771956037,
-      "comments": 59,
-      "domain": "github.com"
-    },
-    {
-      "id": 47136604,
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "url": "https://wordglyph.xyz/one-piece-at-a-time",
-      "score": 460,
-      "by": "wordglyph",
-      "time": 1771938231,
-      "comments": 164,
-      "domain": "wordglyph.xyz"
-    },
-    {
-      "id": 47140042,
-      "title": "Nearby Glasses",
-      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "score": 329,
-      "by": "zingerlio",
-      "time": 1771954840,
-      "comments": 129,
-      "domain": "github.com"
-    },
-    {
-      "id": 47108894,
-      "title": "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)",
-      "url": "https://mahaloz.re/dec-history-pt1",
-      "score": 3,
-      "by": "userbinator",
-      "time": 1771743493,
-      "comments": 0,
-      "domain": "mahaloz.re"
-    },
-    {
-      "id": 47140657,
-      "title": "Steel Bank Common Lisp",
-      "url": "https://www.sbcl.org/",
-      "score": 212,
-      "by": "tosh",
-      "time": 1771957457,
-      "comments": 84,
-      "domain": "sbcl.org"
-    },
-    {
-      "id": 47145907,
-      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
-      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
-      "score": 426,
-      "by": "toomuchtodo",
-      "time": 1771981245,
-      "comments": 143,
-      "domain": "thebignewsletter.com"
-    },
-    {
-      "id": 47137013,
-      "title": "Sovereignty in a System Prompt",
-      "url": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
-      "score": 55,
-      "by": "0x5FC3",
-      "time": 1771940334,
-      "comments": 33,
-      "domain": "pop.rdi.sh"
-    },
-    {
-      "id": 47125287,
-      "title": "Half million 'Words with Spaces' missing from dictionaries",
-      "url": "https://www.linguabase.org/words-with-spaces.html",
-      "score": 61,
-      "by": "gligierko",
-      "time": 1771866922,
-      "comments": 97,
-      "domain": "linguabase.org"
-    },
-    {
-      "id": 47144325,
-      "title": "Cell Service for the Fairly Paranoid",
-      "url": "https://www.cape.co/",
-      "score": 95,
-      "by": "0xWTF",
-      "time": 1771972674,
-      "comments": 94,
-      "domain": "cape.co"
+      "id": 47130997,
+      "title": "Meta problem with URPF our bundle in Boca raton",
+      "url": "https://metafixthis.com/",
+      "score": 28,
+      "by": "synthesis5x",
+      "time": 1771891964,
+      "comments": 1,
+      "domain": "metafixthis.com"
     },
     {
       "id": 47145963,
       "title": "Anthropic Drops Flagship Safety Pledge",
       "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-      "score": 315,
+      "score": 338,
       "by": "cwwc",
       "time": 1771981726,
-      "comments": 134,
+      "comments": 147,
       "domain": "time.com"
     },
     {
       "id": 47139902,
       "title": "Hugging Face Skills",
       "url": "https://github.com/huggingface/skills",
-      "score": 169,
+      "score": 172,
       "by": "armcat",
       "time": 1771954219,
-      "comments": 46,
+      "comments": 47,
       "domain": "github.com"
+    },
+    {
+      "id": 47137013,
+      "title": "Sovereignty in a System Prompt",
+      "url": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
+      "score": 62,
+      "by": "0x5FC3",
+      "time": 1771940334,
+      "comments": 37,
+      "domain": "pop.rdi.sh"
     },
     {
       "id": 47114678,
       "title": "We installed a single turnstile to feel secure",
       "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
-      "score": 337,
+      "score": 340,
       "by": "firefoxd",
       "time": 1771794431,
-      "comments": 162,
+      "comments": 169,
       "domain": "idiallo.com"
-    },
-    {
-      "id": 47143211,
-      "title": "Looks like it is happening",
-      "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
-      "score": 179,
-      "by": "jjgreen",
-      "time": 1771967943,
-      "comments": 135,
-      "domain": "math.columbia.edu"
-    },
-    {
-      "id": 47104227,
-      "title": "Aesthetics of single threading",
-      "url": "https://ta.fo/aesthetics-of-single-threading/",
-      "score": 80,
-      "by": "todsacerdoti",
-      "time": 1771704853,
-      "comments": 21,
-      "domain": "ta.fo"
-    },
-    {
-      "id": 47103668,
-      "title": "3D-Printed electric motor via multi-modal, multi-material extrusion",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185",
-      "score": 16,
-      "by": "westurner",
-      "time": 1771700889,
-      "comments": 7,
-      "domain": "tandfonline.com"
-    },
-    {
-      "id": 47137711,
-      "title": "Stripe valued at $159B, 2025 annual letter",
-      "url": "https://stripe.com/newsroom/news/stripe-2025-update",
-      "score": 207,
-      "by": "jez",
-      "time": 1771943872,
-      "comments": 212,
-      "domain": "stripe.com"
     }
   ]
 }
