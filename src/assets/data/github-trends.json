@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-25T13:39:34.536Z",
+  "lastUpdated": "2026-02-25T14:34:37.264Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 2157,
+      "stars": 2268,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-25T13:39:02Z"
+      "updated_at": "2026-02-25T14:34:27Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1521,
+      "stars": 1527,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-25T13:36:41Z"
+      "updated_at": "2026-02-25T14:18:01Z"
     },
     {
       "id": 1162194563,
@@ -44,79 +44,79 @@
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 896,
+      "stars": 928,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-25T13:37:49Z"
+      "updated_at": "2026-02-25T14:33:17Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 882,
+      "stars": 885,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-25T13:30:39Z"
+      "updated_at": "2026-02-25T14:31:19Z"
     },
     {
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 797,
+      "stars": 799,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-25T12:09:08Z"
+      "updated_at": "2026-02-25T14:32:34Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 764,
+      "stars": 787,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-25T13:38:17Z"
+      "updated_at": "2026-02-25T14:34:20Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": null,
-      "stars": 725,
+      "stars": 755,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-25T13:38:37Z"
+      "updated_at": "2026-02-25T14:33:22Z"
     },
     {
       "id": 1163982597,
       "name": "Kirubel125/Kalshi-Claw",
       "description": null,
-      "stars": 685,
+      "stars": 699,
       "language": "TypeScript",
       "url": "https://github.com/Kirubel125/Kalshi-Claw",
       "owner": {
         "login": "Kirubel125",
         "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
       },
-      "updated_at": "2026-02-25T13:37:16Z"
+      "updated_at": "2026-02-25T14:27:23Z"
     },
     {
       "id": 1163317794,
@@ -135,131 +135,131 @@
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 637,
+      "stars": 647,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-25T13:35:35Z"
-    },
-    {
-      "id": 1163024903,
-      "name": "vercel-labs/visual-json",
-      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 516,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/visual-json",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "updated_at": "2026-02-25T10:52:42Z"
+      "updated_at": "2026-02-25T14:32:09Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 514,
+      "stars": 574,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-25T13:35:17Z"
+      "updated_at": "2026-02-25T14:33:50Z"
+    },
+    {
+      "id": 1163024903,
+      "name": "vercel-labs/visual-json",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "stars": 518,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+      },
+      "updated_at": "2026-02-25T14:27:33Z"
     },
     {
       "id": 1162163663,
       "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
-      "stars": 490,
+      "stars": 491,
       "language": "TypeScript",
       "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
       "owner": {
         "login": "Daniel-Dias001",
         "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
       },
-      "updated_at": "2026-02-25T12:51:27Z"
+      "updated_at": "2026-02-25T14:06:45Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 487,
+      "stars": 489,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-25T12:45:24Z"
+      "updated_at": "2026-02-25T13:52:31Z"
     },
     {
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 450,
+      "stars": 453,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-25T13:34:01Z"
+      "updated_at": "2026-02-25T14:30:13Z"
     },
     {
       "id": 1161896420,
       "name": "Done-0/value-realization",
       "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
-      "stars": 447,
+      "stars": 453,
       "language": null,
       "url": "https://github.com/Done-0/value-realization",
       "owner": {
         "login": "Done-0",
         "avatar_url": "https://avatars.githubusercontent.com/u/168193380?v=4"
       },
-      "updated_at": "2026-02-25T13:35:06Z"
+      "updated_at": "2026-02-25T14:25:47Z"
     },
     {
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 446,
+      "stars": 450,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-25T13:39:19Z"
+      "updated_at": "2026-02-25T13:55:38Z"
     },
     {
       "id": 1163746666,
       "name": "ochyai/vibe-local",
       "description": "Free AI coding environment: Ollama + Python",
-      "stars": 441,
+      "stars": 447,
       "language": "Python",
       "url": "https://github.com/ochyai/vibe-local",
       "owner": {
         "login": "ochyai",
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
-      "updated_at": "2026-02-25T12:50:22Z"
+      "updated_at": "2026-02-25T14:25:48Z"
     },
     {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 434,
+      "stars": 436,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-25T13:34:28Z"
+      "updated_at": "2026-02-25T14:07:54Z"
     }
   ]
 }
