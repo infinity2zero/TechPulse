@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-02-25T16:45:05.103Z",
+  "lastUpdated": "2026-02-25T17:44:25.419Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 2509,
+      "stars": 2586,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-25T16:44:59Z"
+      "updated_at": "2026-02-25T17:44:25Z"
     },
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1536,
+      "stars": 1545,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-25T16:20:50Z"
+      "updated_at": "2026-02-25T17:41:54Z"
     },
     {
       "id": 1162194563,
@@ -44,53 +44,53 @@
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 981,
+      "stars": 997,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-25T16:44:54Z"
+      "updated_at": "2026-02-25T17:40:47Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 897,
+      "stars": 902,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-25T16:40:28Z"
-    },
-    {
-      "id": 1165733654,
-      "name": "Polymarket/polymarket-cli",
-      "description": null,
-      "stars": 843,
-      "language": "Rust",
-      "url": "https://github.com/Polymarket/polymarket-cli",
-      "owner": {
-        "login": "Polymarket",
-        "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
-      },
-      "updated_at": "2026-02-25T16:41:57Z"
+      "updated_at": "2026-02-25T17:08:22Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": null,
-      "stars": 842,
+      "stars": 869,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-25T16:45:01Z"
+      "updated_at": "2026-02-25T17:40:50Z"
+    },
+    {
+      "id": 1165733654,
+      "name": "Polymarket/polymarket-cli",
+      "description": null,
+      "stars": 868,
+      "language": "Rust",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "owner": {
+        "login": "Polymarket",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
+      },
+      "updated_at": "2026-02-25T17:44:12Z"
     },
     {
       "id": 1161415745,
@@ -109,53 +109,53 @@
       "id": 1163982597,
       "name": "Kirubel125/Kalshi-Claw",
       "description": null,
-      "stars": 736,
+      "stars": 742,
       "language": "TypeScript",
       "url": "https://github.com/Kirubel125/Kalshi-Claw",
       "owner": {
         "login": "Kirubel125",
         "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
       },
-      "updated_at": "2026-02-25T16:45:03Z"
-    },
-    {
-      "id": 1163317794,
-      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "description": null,
-      "stars": 680,
-      "language": "Python",
-      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "owner": {
-        "login": "CraftyGeezer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
-      },
-      "updated_at": "2026-02-25T13:09:31Z"
-    },
-    {
-      "id": 1163251644,
-      "name": "kevinho/clawfeed",
-      "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 674,
-      "language": "HTML",
-      "url": "https://github.com/kevinho/clawfeed",
-      "owner": {
-        "login": "kevinho",
-        "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
-      },
-      "updated_at": "2026-02-25T16:42:31Z"
+      "updated_at": "2026-02-25T17:43:35Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 658,
+      "stars": 688,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-25T16:44:22Z"
+      "updated_at": "2026-02-25T17:43:47Z"
+    },
+    {
+      "id": 1163251644,
+      "name": "kevinho/clawfeed",
+      "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "stars": 680,
+      "language": "HTML",
+      "url": "https://github.com/kevinho/clawfeed",
+      "owner": {
+        "login": "kevinho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
+      },
+      "updated_at": "2026-02-25T17:40:34Z"
+    },
+    {
+      "id": 1163317794,
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "description": null,
+      "stars": 679,
+      "language": "Python",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "owner": {
+        "login": "CraftyGeezer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
+      },
+      "updated_at": "2026-02-25T17:37:12Z"
     },
     {
       "id": 1163024903,
@@ -200,14 +200,14 @@
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 463,
+      "stars": 467,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-25T16:31:12Z"
+      "updated_at": "2026-02-25T17:40:31Z"
     },
     {
       "id": 1163121560,
@@ -226,40 +226,40 @@
       "id": 1161896420,
       "name": "Done-0/value-realization",
       "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
-      "stars": 453,
+      "stars": 454,
       "language": null,
       "url": "https://github.com/Done-0/value-realization",
       "owner": {
         "login": "Done-0",
         "avatar_url": "https://avatars.githubusercontent.com/u/168193380?v=4"
       },
-      "updated_at": "2026-02-25T14:25:47Z"
+      "updated_at": "2026-02-25T17:03:15Z"
     },
     {
       "id": 1163746666,
       "name": "ochyai/vibe-local",
       "description": "Free AI coding environment: Ollama + Python",
-      "stars": 450,
+      "stars": 452,
       "language": "Python",
       "url": "https://github.com/ochyai/vibe-local",
       "owner": {
         "login": "ochyai",
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
-      "updated_at": "2026-02-25T16:12:17Z"
+      "updated_at": "2026-02-25T17:28:35Z"
     },
     {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 438,
+      "stars": 439,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-25T16:27:57Z"
+      "updated_at": "2026-02-25T16:48:15Z"
     }
   ]
 }
