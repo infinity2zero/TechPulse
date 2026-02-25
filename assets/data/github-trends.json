@@ -1,57 +1,70 @@
 {
-  "lastUpdated": "2026-02-25T01:00:03.295Z",
+  "lastUpdated": "2026-02-25T03:37:34.381Z",
   "items": [
     {
       "id": 1162099055,
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "stars": 1407,
+      "stars": 1444,
       "language": null,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-02-25T00:56:03Z"
+      "updated_at": "2026-02-25T03:35:17Z"
     },
     {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1291,
+      "stars": 1297,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-25T00:43:45Z"
+      "updated_at": "2026-02-25T02:52:57Z"
+    },
+    {
+      "id": 1165371200,
+      "name": "cloudflare/vinext",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "stars": 951,
+      "language": "TypeScript",
+      "url": "https://github.com/cloudflare/vinext",
+      "owner": {
+        "login": "cloudflare",
+        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+      },
+      "updated_at": "2026-02-25T03:37:03Z"
     },
     {
       "id": 1161318197,
       "name": "RightNow-AI/picolm",
       "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
-      "stars": 828,
+      "stars": 841,
       "language": "C",
       "url": "https://github.com/RightNow-AI/picolm",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-25T00:32:05Z"
+      "updated_at": "2026-02-25T03:16:55Z"
     },
     {
       "id": 1161415745,
       "name": "olvvier/apple-silicon-accelerometer",
       "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-      "stars": 771,
+      "stars": 779,
       "language": "Python",
       "url": "https://github.com/olvvier/apple-silicon-accelerometer",
       "owner": {
         "login": "olvvier",
         "avatar_url": "https://avatars.githubusercontent.com/u/45577527?v=4"
       },
-      "updated_at": "2026-02-24T23:51:51Z"
+      "updated_at": "2026-02-25T03:20:30Z"
     },
     {
       "id": 1163317794,
@@ -64,202 +77,189 @@
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-25T00:14:52Z"
-    },
-    {
-      "id": 1165371200,
-      "name": "cloudflare/vinext",
-      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 605,
-      "language": "TypeScript",
-      "url": "https://github.com/cloudflare/vinext",
-      "owner": {
-        "login": "cloudflare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
-      },
-      "updated_at": "2026-02-25T00:59:39Z"
+      "updated_at": "2026-02-25T03:35:49Z"
     },
     {
       "id": 1163982597,
       "name": "Kirubel125/Kalshi-Claw",
       "description": null,
-      "stars": 568,
+      "stars": 570,
       "language": "TypeScript",
       "url": "https://github.com/Kirubel125/Kalshi-Claw",
       "owner": {
         "login": "Kirubel125",
         "avatar_url": "https://avatars.githubusercontent.com/u/68920411?v=4"
       },
-      "updated_at": "2026-02-25T00:21:45Z"
-    },
-    {
-      "id": 1163024903,
-      "name": "vercel-labs/visual-json",
-      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 507,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/visual-json",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "updated_at": "2026-02-25T00:55:04Z"
-    },
-    {
-      "id": 1162163663,
-      "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-      "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
-      "stars": 491,
-      "language": "TypeScript",
-      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-      "owner": {
-        "login": "Daniel-Dias001",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
-      },
-      "updated_at": "2026-02-25T00:43:48Z"
-    },
-    {
-      "id": 1164025244,
-      "name": "andyhuo520/aetherviz-master",
-      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 454,
-      "language": null,
-      "url": "https://github.com/andyhuo520/aetherviz-master",
-      "owner": {
-        "login": "andyhuo520",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
-      },
-      "updated_at": "2026-02-25T00:48:26Z"
-    },
-    {
-      "id": 1163121560,
-      "name": "dnakov/litter",
-      "description": null,
-      "stars": 426,
-      "language": "Kotlin",
-      "url": "https://github.com/dnakov/litter",
-      "owner": {
-        "login": "dnakov",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
-      },
-      "updated_at": "2026-02-25T00:47:53Z"
+      "updated_at": "2026-02-25T03:29:29Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 417,
+      "stars": 522,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-25T00:59:45Z"
+      "updated_at": "2026-02-25T03:35:40Z"
     },
     {
-      "id": 1163850095,
-      "name": "runesleo/x-reader",
-      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 409,
-      "language": "Python",
-      "url": "https://github.com/runesleo/x-reader",
+      "id": 1163024903,
+      "name": "vercel-labs/visual-json",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "stars": 510,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
-        "login": "runesleo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-25T00:58:29Z"
+      "updated_at": "2026-02-25T03:27:39Z"
     },
     {
-      "id": 1163746666,
-      "name": "ochyai/vibe-local",
-      "description": "Free AI coding environment: Ollama + Python",
-      "stars": 408,
+      "id": 1165056385,
+      "name": "anthropics/financial-services-plugins",
+      "description": null,
+      "stars": 494,
       "language": "Python",
-      "url": "https://github.com/ochyai/vibe-local",
+      "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
-        "login": "ochyai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-25T00:57:39Z"
+      "updated_at": "2026-02-25T03:36:50Z"
+    },
+    {
+      "id": 1162163663,
+      "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
+      "stars": 493,
+      "language": "TypeScript",
+      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "owner": {
+        "login": "Daniel-Dias001",
+        "avatar_url": "https://avatars.githubusercontent.com/u/94090454?v=4"
+      },
+      "updated_at": "2026-02-25T03:25:22Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 406,
+      "stars": 467,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-25T00:57:32Z"
+      "updated_at": "2026-02-25T03:36:47Z"
+    },
+    {
+      "id": 1164025244,
+      "name": "andyhuo520/aetherviz-master",
+      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "stars": 464,
+      "language": null,
+      "url": "https://github.com/andyhuo520/aetherviz-master",
+      "owner": {
+        "login": "andyhuo520",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+      },
+      "updated_at": "2026-02-25T03:05:52Z"
+    },
+    {
+      "id": 1163121560,
+      "name": "dnakov/litter",
+      "description": null,
+      "stars": 430,
+      "language": "Kotlin",
+      "url": "https://github.com/dnakov/litter",
+      "owner": {
+        "login": "dnakov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
+      },
+      "updated_at": "2026-02-25T03:08:33Z"
+    },
+    {
+      "id": 1163850095,
+      "name": "runesleo/x-reader",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "stars": 419,
+      "language": "Python",
+      "url": "https://github.com/runesleo/x-reader",
+      "owner": {
+        "login": "runesleo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+      },
+      "updated_at": "2026-02-25T03:15:52Z"
+    },
+    {
+      "id": 1163746666,
+      "name": "ochyai/vibe-local",
+      "description": "Free AI coding environment: Ollama + Python",
+      "stars": 414,
+      "language": "Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "owner": {
+        "login": "ochyai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+      },
+      "updated_at": "2026-02-25T03:35:04Z"
     },
     {
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 403,
+      "stars": 411,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-25T00:41:18Z"
+      "updated_at": "2026-02-25T03:36:14Z"
     },
     {
       "id": 1161896420,
       "name": "Done-0/value-realization",
       "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
-      "stars": 386,
+      "stars": 408,
       "language": null,
       "url": "https://github.com/Done-0/value-realization",
       "owner": {
         "login": "Done-0",
         "avatar_url": "https://avatars.githubusercontent.com/u/168193380?v=4"
       },
-      "updated_at": "2026-02-25T00:55:12Z"
+      "updated_at": "2026-02-25T03:33:34Z"
     },
     {
       "id": 1161940285,
       "name": "quoroom-ai/room",
       "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
-      "stars": 385,
+      "stars": 387,
       "language": "TypeScript",
       "url": "https://github.com/quoroom-ai/room",
       "owner": {
         "login": "quoroom-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/262635923?v=4"
       },
-      "updated_at": "2026-02-25T00:15:41Z"
+      "updated_at": "2026-02-25T02:42:12Z"
     },
     {
       "id": 1161355400,
       "name": "yeuxuan/openclaw-docs",
       "description": "openclaw 剖析、拆解、教程在线文档",
-      "stars": 345,
+      "stars": 348,
       "language": "JavaScript",
       "url": "https://github.com/yeuxuan/openclaw-docs",
       "owner": {
         "login": "yeuxuan",
         "avatar_url": "https://avatars.githubusercontent.com/u/77331948?v=4"
       },
-      "updated_at": "2026-02-24T17:43:30Z"
-    },
-    {
-      "id": 1163993054,
-      "name": "GreatScott/enveil",
-      "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.",
-      "stars": 307,
-      "language": "Rust",
-      "url": "https://github.com/GreatScott/enveil",
-      "owner": {
-        "login": "GreatScott",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1652604?v=4"
-      },
-      "updated_at": "2026-02-25T00:47:47Z"
+      "updated_at": "2026-02-25T03:29:31Z"
     }
   ]
 }
