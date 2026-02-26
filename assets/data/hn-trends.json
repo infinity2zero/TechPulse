@@ -1,285 +1,285 @@
 {
-  "lastUpdated": "2026-02-26T17:18:14.828Z",
+  "lastUpdated": "2026-02-26T18:06:51.724Z",
   "items": [
     {
       "id": 47167763,
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "score": 104,
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "score": 166,
       "by": "DamnInteresting",
       "time": 1772121348,
-      "comments": 46,
-      "domain": "arstechnica.com"
-    },
-    {
-      "id": 47167858,
-      "title": "Nano Banana 2: Google's latest AI image generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 155,
-      "by": "davidbarker",
-      "time": 1772121757,
-      "comments": 147,
-      "domain": "blog.google"
+      "comments": 74,
+      "domain": "ndss-symposium.org"
     },
     {
       "id": 47168012,
       "title": "Open Source Endowment – new funding source for open source maintainers",
       "url": "https://endowment.dev/",
-      "score": 30,
+      "score": 75,
       "by": "kvinogradov",
       "time": 1772122386,
-      "comments": 10,
-      "domain": "endowment.dev"
-    },
-    {
-      "id": 47164270,
-      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "url": "https://gitlab.com/here_forawhile/terminalphone",
-      "score": 220,
-      "by": "smalltorch",
-      "time": 1772102445,
-      "comments": 54,
-      "domain": "gitlab.com"
-    },
-    {
-      "id": 47165397,
-      "title": "Anthropic ditches its core safety promise",
-      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "score": 442,
-      "by": "motbus3",
-      "time": 1772110370,
-      "comments": 241,
-      "domain": "cnn.com"
-    },
-    {
-      "id": 47156925,
-      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 1031,
-      "by": "hiisthisthingon",
-      "time": 1772049254,
-      "comments": 248,
-      "domain": "trufflesecurity.com"
-    },
-    {
-      "id": 47166264,
-      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
-      "score": 40,
-      "by": "jasonpeacock",
-      "time": 1772114746,
-      "comments": 17,
-      "domain": "tuananh.net"
-    },
-    {
-      "id": 47165648,
-      "title": "just-bash: Bash for Agents",
-      "url": "https://github.com/vercel-labs/just-bash",
-      "score": 46,
-      "by": "tosh",
-      "time": 1772111790,
       "comments": 32,
-      "domain": "github.com"
+      "domain": "endowment.dev"
     },
     {
       "id": 47168726,
       "title": "Palm OS User Interface Guidelines [pdf, 2003]",
       "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
-      "score": 4,
+      "score": 30,
       "by": "spiffytech",
       "time": 1772125265,
-      "comments": 0,
+      "comments": 6,
       "domain": "cs.uml.edu"
+    },
+    {
+      "id": 47169278,
+      "title": "Google Street View in 2026",
+      "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
+      "score": 15,
+      "by": "marklit",
+      "time": 1772127483,
+      "comments": 1,
+      "domain": "tech.marksblogg.com"
+    },
+    {
+      "id": 47167858,
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "score": 247,
+      "by": "davidbarker",
+      "time": 1772121757,
+      "comments": 241,
+      "domain": "blog.google"
+    },
+    {
+      "id": 47164270,
+      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+      "url": "https://gitlab.com/here_forawhile/terminalphone",
+      "score": 230,
+      "by": "smalltorch",
+      "time": 1772102445,
+      "comments": 53,
+      "domain": "gitlab.com"
+    },
+    {
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 1063,
+      "by": "hiisthisthingon",
+      "time": 1772049254,
+      "comments": 256,
+      "domain": "trufflesecurity.com"
+    },
+    {
+      "id": 47165397,
+      "title": "Anthropic ditches its core safety promise",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "score": 495,
+      "by": "motbus3",
+      "time": 1772110370,
+      "comments": 280,
+      "domain": "cnn.com"
+    },
+    {
+      "id": 47166264,
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "score": 58,
+      "by": "jasonpeacock",
+      "time": 1772114746,
+      "comments": 21,
+      "domain": "tuananh.net"
     },
     {
       "id": 47167931,
       "title": "Will vibe coding end like the maker movement?",
       "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-      "score": 14,
+      "score": 44,
       "by": "itunpredictable",
       "time": 1772122031,
-      "comments": 3,
+      "comments": 39,
       "domain": "read.technically.dev"
+    },
+    {
+      "id": 47169146,
+      "title": "SynthID",
+      "url": "https://deepmind.google/models/synthid/",
+      "score": 7,
+      "by": "tosh",
+      "time": 1772126915,
+      "comments": 1,
+      "domain": "deepmind.google"
+    },
+    {
+      "id": 47165648,
+      "title": "just-bash: Bash for Agents",
+      "url": "https://github.com/vercel-labs/just-bash",
+      "score": 59,
+      "by": "tosh",
+      "time": 1772111790,
+      "comments": 37,
+      "domain": "github.com"
+    },
+    {
+      "id": 47159833,
+      "title": "Steering interpretable language models with concept algebra",
+      "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+      "score": 4,
+      "by": "luulinh90s",
+      "time": 1772063734,
+      "comments": 1,
+      "domain": "guidelabs.ai"
+    },
+    {
+      "id": 47141119,
+      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "url": "https://hackersmacker.org",
+      "score": 7,
+      "by": "conesus",
+      "time": 1771959616,
+      "comments": 0,
+      "domain": "hackersmacker.org"
     },
     {
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 599,
+      "score": 612,
       "by": "tintinnabula",
       "time": 1772050607,
-      "comments": 198,
+      "comments": 201,
       "domain": "spectrum.ieee.org"
-    },
-    {
-      "id": 47122272,
-      "title": "Better to Skip a Year for Hardware Upgrades?",
-      "url": "https://boilingsteam.com/poll-better-to-skip-a-year-for-pc-upgrades/",
-      "score": 7,
-      "by": "ekianjo",
-      "time": 1771854405,
-      "comments": 2,
-      "domain": "boilingsteam.com"
-    },
-    {
-      "id": 47165792,
-      "title": "Time Is Different",
-      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
-      "score": 18,
-      "by": "speckx",
-      "time": 1772112539,
-      "comments": 12,
-      "domain": "shkspr.mobi"
     },
     {
       "id": 47106275,
       "title": "Those who can, teach history",
       "url": "https://www.historytoday.com/archive/making-history/those-who-can-teach-history",
-      "score": 26,
+      "score": 32,
       "by": "hhs",
       "time": 1771717024,
-      "comments": 25,
+      "comments": 32,
       "domain": "historytoday.com"
     },
     {
       "id": 47159430,
       "title": "Banned in California",
       "url": "https://www.bannedincalifornia.org/",
-      "score": 384,
+      "score": 404,
       "by": "pie_flavor",
       "time": 1772061400,
-      "comments": 436,
+      "comments": 477,
       "domain": "bannedincalifornia.org"
+    },
+    {
+      "id": 47128645,
+      "title": "I baked a pie every day for a year and it changed my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "score": 3,
+      "by": "NaOH",
+      "time": 1771880074,
+      "comments": 0,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47168165,
+      "title": "The Pentagon Feuding with an AI Company Is a Bad Sign",
+      "url": "https://foreignpolicy.com/2026/02/25/anthropic-pentagon-feud-ai/",
+      "score": 40,
+      "by": "Jimmc414",
+      "time": 1772122987,
+      "comments": 16,
+      "domain": "foreignpolicy.com"
     },
     {
       "id": 47158975,
       "title": "How will OpenAI compete?",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "score": 394,
+      "score": 403,
       "by": "iamskeole",
       "time": 1772058565,
-      "comments": 543,
+      "comments": 560,
       "domain": "ben-evans.com"
     },
     {
       "id": 47107974,
       "title": "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
       "url": "https://machinelearning.apple.com/research/ferret-ui",
-      "score": 16,
+      "score": 19,
       "by": "CharlesW",
       "time": 1771732441,
-      "comments": 2,
+      "comments": 3,
       "domain": "machinelearning.apple.com"
-    },
-    {
-      "id": 47167171,
-      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
-      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
-      "score": 159,
-      "by": "doener",
-      "time": 1772118860,
-      "comments": 96,
-      "domain": "bsky.app"
     },
     {
       "id": 47159302,
       "title": "First Website (1992)",
       "url": "https://info.cern.ch",
-      "score": 283,
+      "score": 290,
       "by": "shrikaranhanda",
       "time": 1772060578,
-      "comments": 80,
+      "comments": 82,
       "domain": "info.cern.ch"
+    },
+    {
+      "id": 47154399,
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "score": 335,
+      "by": "andreynering",
+      "time": 1772039659,
+      "comments": 502,
+      "domain": "blogs.windows.com"
     },
     {
       "id": 47111164,
       "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
       "url": "https://arxiv.org/abs/2602.06811",
-      "score": 50,
+      "score": 54,
       "by": "Terretta",
       "time": 1771769709,
-      "comments": 12,
+      "comments": 15,
       "domain": "arxiv.org"
     },
     {
       "id": 47166473,
       "title": "Story of XZ Backdoor [video]",
       "url": "https://www.youtube.com/watch?v=aoag03mSuXQ",
-      "score": 60,
+      "score": 75,
       "by": "Ulf950",
       "time": 1772115665,
-      "comments": 19,
+      "comments": 29,
       "domain": "youtube.com"
     },
     {
-      "id": 47168343,
-      "title": "How AI skills are quietly automating my workday",
-      "url": "https://medium.com/@ricardskrizanovskis/how-ai-skills-are-quietly-automating-my-workday-220a1b7b4707",
-      "score": 17,
-      "by": "rkrizanovskis",
-      "time": 1772123731,
-      "comments": 10,
-      "domain": "medium.com"
-    },
-    {
-      "id": 47154399,
-      "title": "Windows 11 Notepad to support Markdown",
-      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "score": 331,
-      "by": "andreynering",
-      "time": 1772039659,
-      "comments": 500,
-      "domain": "blogs.windows.com"
+      "id": 47165792,
+      "title": "Time Is Different",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "score": 30,
+      "by": "speckx",
+      "time": 1772112539,
+      "comments": 29,
+      "domain": "shkspr.mobi"
     },
     {
       "id": 47157398,
       "title": "Making MCP cheaper via CLI",
       "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "score": 290,
+      "score": 291,
       "by": "thellimist",
       "time": 1772051377,
-      "comments": 111,
+      "comments": 112,
       "domain": "kanyilmaz.me"
     },
     {
       "id": 47112299,
       "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
       "url": "https://simonbergerart.com",
-      "score": 229,
+      "score": 230,
       "by": "cs702",
       "time": 1771777548,
-      "comments": 99,
+      "comments": 101,
       "domain": "simonbergerart.com"
-    },
-    {
-      "id": 47153798,
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "score": 405,
-      "by": "surprisetalk",
-      "time": 1772037086,
-      "comments": 584,
-      "domain": "worksinprogress.co"
-    },
-    {
-      "id": 47110393,
-      "title": "Writers and Their Day Jobs",
-      "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
-      "score": 74,
-      "by": "simplegeek",
-      "time": 1771762395,
-      "comments": 26,
-      "domain": "lithub.com"
-    },
-    {
-      "id": 47125044,
-      "title": "Some silly Z3 scripts I wrote",
-      "url": "https://www.hillelwayne.com/post/z3-examples/",
-      "score": 23,
-      "by": "azhenley",
-      "time": 1771866086,
-      "comments": 5,
-      "domain": "hillelwayne.com"
     }
   ]
 }
