@@ -1,41 +1,51 @@
 {
-  "lastUpdated": "2026-02-26T11:30:05.571Z",
+  "lastUpdated": "2026-02-26T12:02:20.278Z",
   "items": [
     {
       "id": 47164270,
       "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
       "url": "https://gitlab.com/here_forawhile/terminalphone",
-      "score": 30,
+      "score": 42,
       "by": "smalltorch",
       "time": 1772102445,
-      "comments": 7,
+      "comments": 14,
       "domain": "gitlab.com"
     },
     {
       "id": 47156925,
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
       "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 732,
+      "score": 759,
       "by": "hiisthisthingon",
       "time": 1772049254,
-      "comments": 149,
+      "comments": 152,
       "domain": "trufflesecurity.com"
+    },
+    {
+      "id": 47164605,
+      "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+      "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+      "score": 70,
+      "by": "rhazn",
+      "time": 1772105170,
+      "comments": 71,
+      "domain": "heltweg.org"
     },
     {
       "id": 47164079,
       "title": "Show HN: Better Hub – A better GitHub experience",
       "url": "https://www.better-hub.com/",
-      "score": 23,
+      "score": 32,
       "by": "bekacru",
       "time": 1772100481,
-      "comments": 21,
+      "comments": 31,
       "domain": "better-hub.com"
     },
     {
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 516,
+      "score": 523,
       "by": "tintinnabula",
       "time": 1772050607,
       "comments": 164,
@@ -45,27 +55,27 @@
       "id": 47158975,
       "title": "How will OpenAI compete?",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "score": 267,
+      "score": 273,
       "by": "iamskeole",
       "time": 1772058565,
-      "comments": 356,
+      "comments": 376,
       "domain": "ben-evans.com"
     },
     {
       "id": 47159430,
       "title": "Banned in California",
       "url": "https://www.bannedincalifornia.org/",
-      "score": 177,
+      "score": 185,
       "by": "pie_flavor",
       "time": 1772061400,
-      "comments": 191,
+      "comments": 207,
       "domain": "bannedincalifornia.org"
     },
     {
       "id": 47159302,
       "title": "First Website (1992)",
       "url": "https://info.cern.ch",
-      "score": 233,
+      "score": 238,
       "by": "shrikaranhanda",
       "time": 1772060578,
       "comments": 64,
@@ -75,31 +85,51 @@
       "id": 47157398,
       "title": "Making MCP cheaper via CLI",
       "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "score": 236,
+      "score": 239,
       "by": "thellimist",
       "time": 1772051377,
-      "comments": 96,
+      "comments": 98,
       "domain": "kanyilmaz.me"
     },
     {
       "id": 47154399,
       "title": "Windows 11 Notepad to support Markdown",
       "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "score": 294,
+      "score": 298,
       "by": "andreynering",
       "time": 1772039659,
-      "comments": 435,
+      "comments": 445,
       "domain": "blogs.windows.com"
     },
     {
       "id": 47112299,
       "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
       "url": "https://simonbergerart.com",
-      "score": 176,
+      "score": 185,
       "by": "cs702",
       "time": 1771777548,
-      "comments": 72,
+      "comments": 81,
       "domain": "simonbergerart.com"
+    },
+    {
+      "id": 47153798,
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "score": 371,
+      "by": "surprisetalk",
+      "time": 1772037086,
+      "comments": 537,
+      "domain": "worksinprogress.co"
+    },
+    {
+      "id": 47110393,
+      "title": "Writers and Their Day Jobs",
+      "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
+      "score": 38,
+      "by": "simplegeek",
+      "time": 1771762395,
+      "comments": 11,
+      "domain": "lithub.com"
     },
     {
       "id": 47119119,
@@ -112,64 +142,54 @@
       "domain": "harpers.org"
     },
     {
-      "id": 47161160,
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "score": 280,
-      "by": "jnord",
-      "time": 1772073806,
-      "comments": 210,
-      "domain": "arstechnica.com"
-    },
-    {
-      "id": 47110393,
-      "title": "Writers and Their Day Jobs",
-      "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
-      "score": 36,
-      "by": "simplegeek",
-      "time": 1771762395,
-      "comments": 10,
-      "domain": "lithub.com"
-    },
-    {
-      "id": 47153798,
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "score": 369,
-      "by": "surprisetalk",
-      "time": 1772037086,
-      "comments": 534,
-      "domain": "worksinprogress.co"
-    },
-    {
       "id": 47139716,
       "title": "Large-Scale Online Deanonymization with LLMs",
       "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "score": 278,
+      "score": 280,
       "by": "DalasNoin",
       "time": 1771953497,
-      "comments": 200,
+      "comments": 203,
       "domain": "simonlermen.substack.com"
+    },
+    {
+      "id": 47161160,
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "score": 286,
+      "by": "jnord",
+      "time": 1772073806,
+      "comments": 221,
+      "domain": "arstechnica.com"
     },
     {
       "id": 47151842,
       "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
       "url": "https://respectify.org/",
-      "score": 176,
+      "score": 177,
       "by": "vintagedave",
       "time": 1772029279,
-      "comments": 158,
+      "comments": 162,
       "domain": "respectify.org"
     },
     {
       "id": 47125014,
       "title": "The First Fully General Computer Action Model",
       "url": "https://si.inc/posts/fdm1/",
-      "score": 260,
+      "score": 263,
       "by": "nee1r",
       "time": 1771866000,
-      "comments": 68,
+      "comments": 69,
       "domain": "si.inc"
+    },
+    {
+      "id": 47110049,
+      "title": "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
+      "url": "https://github.com/vangelov/modern-speck",
+      "score": 5,
+      "by": "vlad_angelov",
+      "time": 1771758199,
+      "comments": 0,
+      "domain": "github.com"
     },
     {
       "id": 47111164,
@@ -182,44 +202,24 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 47110049,
-      "title": "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
-      "url": "https://github.com/vangelov/modern-speck",
-      "score": 3,
-      "by": "vlad_angelov",
-      "time": 1771758199,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
       "id": 47154971,
       "title": "The Om Programming Language",
       "url": "https://www.om-language.com/",
-      "score": 269,
+      "score": 271,
       "by": "tosh",
       "time": 1772041701,
-      "comments": 74,
+      "comments": 76,
       "domain": "om-language.com"
     },
     {
       "id": 47160226,
       "title": "Tech companies shouldn't be bullied into doing surveillance",
       "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
-      "score": 288,
+      "score": 297,
       "by": "pseudolus",
       "time": 1772066252,
-      "comments": 97,
+      "comments": 100,
       "domain": "eff.org"
-    },
-    {
-      "id": 47101271,
-      "title": "What Pressure Does to an Athlete's Body",
-      "url": "https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/",
-      "score": 37,
-      "by": "bookofjoe",
-      "time": 1771684901,
-      "comments": 8,
-      "domain": "theatlantic.com"
     },
     {
       "id": 47137140,
@@ -228,8 +228,28 @@
       "score": 96,
       "by": "jonasn",
       "time": 1771940979,
-      "comments": 24,
+      "comments": 26,
       "domain": "norlinder.nu"
+    },
+    {
+      "id": 47157841,
+      "title": "An autopsy of AI-generated 3D slop",
+      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+      "score": 78,
+      "by": "sech8420",
+      "time": 1772053515,
+      "comments": 46,
+      "domain": "aircada.com"
+    },
+    {
+      "id": 47101271,
+      "title": "What Pressure Does to an Athlete's Body",
+      "url": "https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/",
+      "score": 38,
+      "by": "bookofjoe",
+      "time": 1771684901,
+      "comments": 9,
+      "domain": "theatlantic.com"
     },
     {
       "id": 47105175,
@@ -242,30 +262,10 @@
       "domain": "lukasmetzner.github.io"
     },
     {
-      "id": 47157841,
-      "title": "An autopsy of AI-generated 3D slop",
-      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
-      "score": 73,
-      "by": "sech8420",
-      "time": 1772053515,
-      "comments": 45,
-      "domain": "aircada.com"
-    },
-    {
-      "id": 47108861,
-      "title": "The Pleasures and Pains of Coffee (1830)",
-      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
-      "score": 88,
-      "by": "jxmorris12",
-      "time": 1771743039,
-      "comments": 61,
-      "domain": "quod.lib.umich.edu"
-    },
-    {
       "id": 47152982,
       "title": "GNU Texmacs",
       "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
-      "score": 171,
+      "score": 173,
       "by": "remywang",
       "time": 1772033849,
       "comments": 48,
@@ -275,7 +275,7 @@
       "id": 47141107,
       "title": "Learnings from 4 months of Image-Video VAE experiments",
       "url": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
-      "score": 116,
+      "score": 117,
       "by": "schopra909",
       "time": 1771959571,
       "comments": 15,
@@ -285,7 +285,7 @@
       "id": 47151598,
       "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
       "url": "https://app.teamout.com/ai",
-      "score": 52,
+      "score": 53,
       "by": "vincentalbouy",
       "time": 1772028122,
       "comments": 57,
