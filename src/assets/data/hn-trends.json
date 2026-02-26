@@ -1,105 +1,125 @@
 {
-  "lastUpdated": "2026-02-25T23:47:10.346Z",
+  "lastUpdated": "2026-02-26T00:01:57.566Z",
   "items": [
-    {
-      "id": 47159430,
-      "title": "Banned in California",
-      "url": "https://www.bannedincalifornia.org/",
-      "score": 73,
-      "by": "pie_flavor",
-      "time": 1772061400,
-      "comments": 36,
-      "domain": "bannedincalifornia.org"
-    },
     {
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 230,
+      "score": 237,
       "by": "tintinnabula",
       "time": 1772050607,
-      "comments": 88,
+      "comments": 92,
       "domain": "spectrum.ieee.org"
+    },
+    {
+      "id": 47159430,
+      "title": "Banned in California",
+      "url": "https://www.bannedincalifornia.org/",
+      "score": 115,
+      "by": "pie_flavor",
+      "time": 1772061400,
+      "comments": 93,
+      "domain": "bannedincalifornia.org"
+    },
+    {
+      "id": 47159302,
+      "title": "First Website",
+      "url": "https://info.cern.ch",
+      "score": 25,
+      "by": "shrikaranhanda",
+      "time": 1772060578,
+      "comments": 2,
+      "domain": "info.cern.ch"
     },
     {
       "id": 47157398,
       "title": "Making MCP cheaper via CLI",
       "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "score": 83,
+      "score": 89,
       "by": "thellimist",
       "time": 1772051377,
-      "comments": 47,
+      "comments": 48,
       "domain": "kanyilmaz.me"
     },
     {
       "id": 47154971,
       "title": "The Om Programming Language",
       "url": "https://www.om-language.com/",
-      "score": 214,
+      "score": 218,
       "by": "tosh",
       "time": 1772041701,
-      "comments": 43,
+      "comments": 47,
       "domain": "om-language.com"
     },
     {
       "id": 47153798,
       "title": "Bus stop balancing is fast, cheap, and effective",
       "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "score": 268,
+      "score": 274,
       "by": "surprisetalk",
       "time": 1772037086,
-      "comments": 431,
+      "comments": 434,
       "domain": "worksinprogress.co"
-    },
-    {
-      "id": 47159302,
-      "title": "First Website",
-      "url": "https://info.cern.ch",
-      "score": 17,
-      "by": "shrikaranhanda",
-      "time": 1772060578,
-      "comments": 1,
-      "domain": "info.cern.ch"
     },
     {
       "id": 47154399,
       "title": "Windows 11 Notepad to support Markdown",
       "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "score": 145,
+      "score": 153,
       "by": "andreynering",
       "time": 1772039659,
-      "comments": 281,
+      "comments": 290,
       "domain": "blogs.windows.com"
     },
     {
       "id": 47151842,
       "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
       "url": "https://respectify.org/",
-      "score": 63,
+      "score": 68,
       "by": "vintagedave",
       "time": 1772029279,
-      "comments": 94,
+      "comments": 100,
       "domain": "respectify.org"
-    },
-    {
-      "id": 47139716,
-      "title": "Large-Scale Online Deanonymization with LLMs",
-      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "score": 166,
-      "by": "DalasNoin",
-      "time": 1771953497,
-      "comments": 149,
-      "domain": "simonlermen.substack.com"
     },
     {
       "id": 47125014,
       "title": "The First Fully General Computer Action Model",
       "url": "https://si.inc/posts/fdm1/",
-      "score": 95,
+      "score": 107,
       "by": "nee1r",
       "time": 1771866000,
-      "comments": 34,
+      "comments": 37,
       "domain": "si.inc"
+    },
+    {
+      "id": 47139716,
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "score": 170,
+      "by": "DalasNoin",
+      "time": 1771953497,
+      "comments": 152,
+      "domain": "simonlermen.substack.com"
+    },
+    {
+      "id": 47137140,
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+      "score": 33,
+      "by": "jonasn",
+      "time": 1771940979,
+      "comments": 9,
+      "domain": "norlinder.nu"
+    },
+    {
+      "id": 47110155,
+      "title": "Why every automaker is quietly bringing back the inline-six engine",
+      "url": "https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/",
+      "score": 23,
+      "by": "teleforce",
+      "time": 1771759591,
+      "comments": 28,
+      "domain": "carbuzz.com"
     },
     {
       "id": 47141107,
@@ -112,54 +132,54 @@
       "domain": "linum.ai"
     },
     {
-      "id": 47137140,
-      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
-      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
-      "score": 31,
-      "by": "jonasn",
-      "time": 1771940979,
-      "comments": 9,
-      "domain": "norlinder.nu"
-    },
-    {
-      "id": 47110155,
-      "title": "Why every automaker is quietly bringing back the inline-six engine",
-      "url": "https://carbuzz.com/why-automakers-bringing-back-the-inline-six-engine/",
-      "score": 20,
-      "by": "teleforce",
-      "time": 1771759591,
-      "comments": 15,
-      "domain": "carbuzz.com"
-    },
-    {
       "id": 47155597,
       "title": "Show HN: I ported Tree-sitter to Go",
       "url": "https://github.com/odvcencio/gotreesitter",
-      "score": 167,
+      "score": 169,
       "by": "odvcencio",
       "time": 1772044117,
-      "comments": 69,
+      "comments": 70,
       "domain": "github.com"
     },
     {
       "id": 47154009,
       "title": "Following 35% growth, solar has passed hydro on US grid",
       "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
-      "score": 361,
+      "score": 369,
       "by": "rbanffy",
       "time": 1772037894,
-      "comments": 289,
+      "comments": 294,
       "domain": "arstechnica.com"
     },
     {
       "id": 47115574,
       "title": "How to fold the Blade Runner origami unicorn (1996)",
       "url": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
-      "score": 241,
+      "score": 246,
       "by": "exvi",
       "time": 1771800132,
       "comments": 35,
       "domain": "web.archive.org"
+    },
+    {
+      "id": 47110066,
+      "title": "Access to a Shared Unix Computer",
+      "url": "http://tilde.club/",
+      "score": 32,
+      "by": "TigerUniversity",
+      "time": 1771758445,
+      "comments": 9,
+      "domain": "tilde.club"
+    },
+    {
+      "id": 47159364,
+      "title": "Origin of the rule that swap size should be 2x of the physical memory",
+      "url": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
+      "score": 7,
+      "by": "SeenNotHeard",
+      "time": 1772060973,
+      "comments": 0,
+      "domain": "retrocomputing.stackexchange.com"
     },
     {
       "id": 47152982,
@@ -172,63 +192,63 @@
       "domain": "texmacs.org"
     },
     {
-      "id": 47153924,
-      "title": "The Misuses of the University",
-      "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
-      "score": 112,
-      "by": "ubasu",
-      "time": 1772037520,
-      "comments": 80,
-      "domain": "publicbooks.org"
-    },
-    {
-      "id": 47110066,
-      "title": "Access to a Shared Unix Computer",
-      "url": "http://tilde.club/",
-      "score": 31,
-      "by": "TigerUniversity",
-      "time": 1771758445,
-      "comments": 9,
-      "domain": "tilde.club"
-    },
-    {
       "id": 47155811,
       "title": "Devirtualization and Static Polymorphism",
       "url": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
-      "score": 32,
+      "score": 33,
       "by": "dalvrosa",
       "time": 1772044883,
       "comments": 11,
       "domain": "david.alvarezrosa.com"
     },
     {
+      "id": 47153924,
+      "title": "The Misuses of the University",
+      "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
+      "score": 114,
+      "by": "ubasu",
+      "time": 1772037520,
+      "comments": 82,
+      "domain": "publicbooks.org"
+    },
+    {
+      "id": 47135542,
+      "title": "The Hydrogen Truck Problem Isn't the Truck",
+      "url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+      "score": 4,
+      "by": "mikeayles",
+      "time": 1771930709,
+      "comments": 2,
+      "domain": "mikeayles.com"
+    },
+    {
       "id": 47148454,
       "title": "Claude Code Remote Control",
       "url": "https://code.claude.com/docs/en/remote-control",
-      "score": 469,
+      "score": 472,
       "by": "empressplay",
       "time": 1772004176,
-      "comments": 272,
+      "comments": 273,
       "domain": "code.claude.com"
     },
     {
       "id": 47151233,
       "title": "Never buy a .online domain",
       "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "score": 639,
+      "score": 642,
       "by": "ssiddharth",
       "time": 1772026277,
-      "comments": 402,
+      "comments": 403,
       "domain": "0xsid.com"
     },
     {
       "id": 47154076,
       "title": "Why isn't LA repaving streets?",
       "url": "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/",
-      "score": 83,
+      "score": 87,
       "by": "speckx",
       "time": 1772038176,
-      "comments": 164,
+      "comments": 167,
       "domain": "lapublicpress.org"
     },
     {
@@ -245,51 +265,31 @@
       "id": 47152085,
       "title": "New accounts on HN more likely to use em-dashes",
       "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
-      "score": 557,
+      "score": 563,
       "by": "todsacerdoti",
       "time": 1772030241,
-      "comments": 472,
+      "comments": 476,
       "domain": "marginalia.nu"
-    },
-    {
-      "id": 47102610,
-      "title": "Text-Based Google Directions",
-      "url": "https://gdir.telae.net/",
-      "score": 46,
-      "by": "TigerUniversity",
-      "time": 1771693855,
-      "comments": 15,
-      "domain": "gdir.telae.net"
     },
     {
       "id": 47149701,
       "title": "Danish government agency to ditch Microsoft software (2025)",
       "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "score": 713,
+      "score": 718,
       "by": "robtherobber",
       "time": 1772014582,
-      "comments": 364,
+      "comments": 365,
       "domain": "therecord.media"
     },
     {
-      "id": 47157160,
-      "title": "PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks",
-      "url": "https://vibrantlabs.com/blog/pa-bench",
-      "score": 9,
-      "by": "shahules",
-      "time": 1772050297,
-      "comments": 3,
-      "domain": "vibrantlabs.com"
-    },
-    {
-      "id": 47152252,
-      "title": "US orders diplomats to fight data sovereignty initiatives",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
-      "score": 413,
-      "by": "colinhb",
-      "time": 1772030897,
-      "comments": 358,
-      "domain": "reuters.com"
+      "id": 47102610,
+      "title": "Text-Based Google Directions",
+      "url": "https://gdir.telae.net/",
+      "score": 48,
+      "by": "TigerUniversity",
+      "time": 1771693855,
+      "comments": 15,
+      "domain": "gdir.telae.net"
     }
   ]
 }
