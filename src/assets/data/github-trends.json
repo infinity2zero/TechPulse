@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-02-26T06:38:43.086Z",
+  "lastUpdated": "2026-02-26T07:36:36.753Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 3307,
+      "stars": 3373,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-26T06:35:53Z"
+      "updated_at": "2026-02-26T07:33:34Z"
     },
     {
       "id": 1162194563,
@@ -31,66 +31,66 @@
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 1273,
+      "stars": 1302,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-26T06:32:28Z"
+      "updated_at": "2026-02-26T07:34:06Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 1184,
+      "stars": 1259,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-26T06:38:04Z"
+      "updated_at": "2026-02-26T07:36:18Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1051,
+      "stars": 1061,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-26T06:33:39Z"
+      "updated_at": "2026-02-26T07:29:35Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1035,
+      "stars": 1054,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-26T06:38:16Z"
+      "updated_at": "2026-02-26T07:34:16Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 767,
+      "stars": 774,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-26T06:27:23Z"
+      "updated_at": "2026-02-26T07:34:58Z"
     },
     {
       "id": 1163024903,
@@ -109,92 +109,92 @@
       "id": 1163317794,
       "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "description": null,
-      "stars": 501,
+      "stars": 498,
       "language": "Python",
       "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
       "owner": {
         "login": "CraftyGeezer",
         "avatar_url": "https://avatars.githubusercontent.com/u/104236309?v=4"
       },
-      "updated_at": "2026-02-26T06:02:41Z"
+      "updated_at": "2026-02-26T07:10:40Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 495,
+      "stars": 497,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-26T05:50:20Z"
-    },
-    {
-      "id": 1163037979,
-      "name": "hamelsmu/claude-review-loop",
-      "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 479,
-      "language": "Shell",
-      "url": "https://github.com/hamelsmu/claude-review-loop",
-      "owner": {
-        "login": "hamelsmu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
-      },
-      "updated_at": "2026-02-26T04:29:27Z"
-    },
-    {
-      "id": 1163121560,
-      "name": "dnakov/litter",
-      "description": null,
-      "stars": 477,
-      "language": "Kotlin",
-      "url": "https://github.com/dnakov/litter",
-      "owner": {
-        "login": "dnakov",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
-      },
-      "updated_at": "2026-02-26T06:16:33Z"
-    },
-    {
-      "id": 1163746666,
-      "name": "ochyai/vibe-local",
-      "description": "Free AI coding environment: Ollama + Python",
-      "stars": 476,
-      "language": "Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "owner": {
-        "login": "ochyai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
-      },
-      "updated_at": "2026-02-26T06:31:03Z"
-    },
-    {
-      "id": 1165265099,
-      "name": "rebane2001/x86CSS",
-      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 471,
-      "language": "HTML",
-      "url": "https://github.com/rebane2001/x86CSS",
-      "owner": {
-        "login": "rebane2001",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
-      },
-      "updated_at": "2026-02-26T06:33:11Z"
+      "updated_at": "2026-02-26T07:23:55Z"
     },
     {
       "id": 1162643962,
       "name": "better-auth/better-hub",
       "description": "Re-imagining code collaboration for humans and agents",
-      "stars": 468,
+      "stars": 485,
       "language": "TypeScript",
       "url": "https://github.com/better-auth/better-hub",
       "owner": {
         "login": "better-auth",
         "avatar_url": "https://avatars.githubusercontent.com/u/163827765?v=4"
       },
-      "updated_at": "2026-02-26T06:37:55Z"
+      "updated_at": "2026-02-26T07:36:32Z"
+    },
+    {
+      "id": 1163037979,
+      "name": "hamelsmu/claude-review-loop",
+      "description": "Claude Code plugin: automated code review loop with Codex",
+      "stars": 480,
+      "language": "Shell",
+      "url": "https://github.com/hamelsmu/claude-review-loop",
+      "owner": {
+        "login": "hamelsmu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
+      },
+      "updated_at": "2026-02-26T07:03:28Z"
+    },
+    {
+      "id": 1163121560,
+      "name": "dnakov/litter",
+      "description": null,
+      "stars": 478,
+      "language": "Kotlin",
+      "url": "https://github.com/dnakov/litter",
+      "owner": {
+        "login": "dnakov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
+      },
+      "updated_at": "2026-02-26T07:23:59Z"
+    },
+    {
+      "id": 1163746666,
+      "name": "ochyai/vibe-local",
+      "description": "Free AI coding environment: Ollama + Python",
+      "stars": 478,
+      "language": "Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "owner": {
+        "login": "ochyai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+      },
+      "updated_at": "2026-02-26T07:14:17Z"
+    },
+    {
+      "id": 1165265099,
+      "name": "rebane2001/x86CSS",
+      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "stars": 475,
+      "language": "HTML",
+      "url": "https://github.com/rebane2001/x86CSS",
+      "owner": {
+        "login": "rebane2001",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
+      },
+      "updated_at": "2026-02-26T07:32:27Z"
     },
     {
       "id": 1163850095,
@@ -213,40 +213,40 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 394,
+      "stars": 407,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-26T06:29:52Z"
+      "updated_at": "2026-02-26T07:34:29Z"
     },
     {
       "id": 1163309888,
       "name": "carlosazaustre/tenacitOS",
       "description": "OpenClaw Mission Control Dashboard",
-      "stars": 389,
+      "stars": 394,
       "language": "TypeScript",
       "url": "https://github.com/carlosazaustre/tenacitOS",
       "owner": {
         "login": "carlosazaustre",
         "avatar_url": "https://avatars.githubusercontent.com/u/650752?v=4"
       },
-      "updated_at": "2026-02-26T06:36:28Z"
+      "updated_at": "2026-02-26T07:27:35Z"
     },
     {
       "id": 1162971794,
       "name": "vava-nessa/free-coding-models",
       "description": "Find the fastest coding LLM models in seconds",
-      "stars": 367,
+      "stars": 370,
       "language": "JavaScript",
       "url": "https://github.com/vava-nessa/free-coding-models",
       "owner": {
         "login": "vava-nessa",
         "avatar_url": "https://avatars.githubusercontent.com/u/5466264?v=4"
       },
-      "updated_at": "2026-02-26T06:25:48Z"
+      "updated_at": "2026-02-26T07:09:55Z"
     },
     {
       "id": 1163993054,
