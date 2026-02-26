@@ -1,31 +1,44 @@
 {
-  "lastUpdated": "2026-02-26T21:33:55.028Z",
+  "lastUpdated": "2026-02-26T21:59:07.277Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 3853,
+      "stars": 3862,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-26T21:32:27Z"
+      "updated_at": "2026-02-26T21:55:33Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 2351,
+      "stars": 2384,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-26T21:33:37Z"
+      "updated_at": "2026-02-26T21:58:53Z"
+    },
+    {
+      "id": 1166139870,
+      "name": "RightNow-AI/openfang",
+      "description": "Open-source Agent Operating System",
+      "stars": 1772,
+      "language": "Rust",
+      "url": "https://github.com/RightNow-AI/openfang",
+      "owner": {
+        "login": "RightNow-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+      },
+      "updated_at": "2026-02-26T21:59:01Z"
     },
     {
       "id": 1165277268,
@@ -41,82 +54,69 @@
       "updated_at": "2026-02-26T21:29:22Z"
     },
     {
-      "id": 1166139870,
-      "name": "RightNow-AI/openfang",
-      "description": "Open-source Agent Operating System",
-      "stars": 1749,
-      "language": "Rust",
-      "url": "https://github.com/RightNow-AI/openfang",
-      "owner": {
-        "login": "RightNow-AI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
-      },
-      "updated_at": "2026-02-26T21:33:39Z"
-    },
-    {
       "id": 1162194563,
       "name": "ShinMegamiBoson/OpenPlanter",
       "description": null,
-      "stars": 1341,
+      "stars": 1342,
       "language": "Python",
       "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
       "owner": {
         "login": "ShinMegamiBoson",
         "avatar_url": "https://avatars.githubusercontent.com/u/191285399?v=4"
       },
-      "updated_at": "2026-02-26T20:52:22Z"
+      "updated_at": "2026-02-26T21:41:36Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1287,
+      "stars": 1290,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-26T21:23:48Z"
+      "updated_at": "2026-02-26T21:39:23Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1182,
+      "stars": 1185,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-26T21:31:05Z"
+      "updated_at": "2026-02-26T21:50:20Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 884,
+      "stars": 885,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-26T21:31:13Z"
+      "updated_at": "2026-02-26T21:54:26Z"
     },
     {
       "id": 1162643962,
       "name": "better-auth/better-hub",
       "description": "Re-imagining code collaboration for humans and agents",
-      "stars": 701,
+      "stars": 703,
       "language": "TypeScript",
       "url": "https://github.com/better-auth/better-hub",
       "owner": {
         "login": "better-auth",
         "avatar_url": "https://avatars.githubusercontent.com/u/163827765?v=4"
       },
-      "updated_at": "2026-02-26T21:31:07Z"
+      "updated_at": "2026-02-26T21:58:57Z"
     },
     {
       "id": 1164025244,
@@ -135,27 +135,27 @@
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 565,
+      "stars": 574,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-26T21:31:47Z"
+      "updated_at": "2026-02-26T21:58:47Z"
     },
     {
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 553,
+      "stars": 555,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-26T21:32:53Z"
+      "updated_at": "2026-02-26T21:41:01Z"
     },
     {
       "id": 1163024903,
@@ -174,14 +174,14 @@
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 506,
+      "stars": 508,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-26T21:32:41Z"
+      "updated_at": "2026-02-26T21:58:50Z"
     },
     {
       "id": 1163746666,
@@ -200,14 +200,14 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 490,
+      "stars": 495,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-26T21:31:21Z"
+      "updated_at": "2026-02-26T21:57:01Z"
     },
     {
       "id": 1163037979,
@@ -226,14 +226,14 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 483,
+      "stars": 484,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-26T21:24:18Z"
+      "updated_at": "2026-02-26T21:54:49Z"
     },
     {
       "id": 1163121560,
@@ -252,14 +252,14 @@
       "id": 1163309888,
       "name": "carlosazaustre/tenacitOS",
       "description": "OpenClaw Mission Control Dashboard",
-      "stars": 420,
+      "stars": 421,
       "language": "TypeScript",
       "url": "https://github.com/carlosazaustre/tenacitOS",
       "owner": {
         "login": "carlosazaustre",
         "avatar_url": "https://avatars.githubusercontent.com/u/650752?v=4"
       },
-      "updated_at": "2026-02-26T20:45:54Z"
+      "updated_at": "2026-02-26T21:56:10Z"
     }
   ]
 }
