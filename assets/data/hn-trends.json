@@ -1,144 +1,154 @@
 {
-  "lastUpdated": "2026-02-26T10:51:57.600Z",
+  "lastUpdated": "2026-02-26T11:30:05.571Z",
   "items": [
-    {
-      "id": 47156925,
-      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 700,
-      "by": "hiisthisthingon",
-      "time": 1772049254,
-      "comments": 138,
-      "domain": "trufflesecurity.com"
-    },
     {
       "id": 47164270,
       "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
       "url": "https://gitlab.com/here_forawhile/terminalphone",
-      "score": 4,
+      "score": 30,
       "by": "smalltorch",
       "time": 1772102445,
-      "comments": 0,
+      "comments": 7,
       "domain": "gitlab.com"
     },
     {
-      "id": 47157224,
-      "title": "Jimi Hendrix was a systems engineer",
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 505,
-      "by": "tintinnabula",
-      "time": 1772050607,
-      "comments": 156,
-      "domain": "spectrum.ieee.org"
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 732,
+      "by": "hiisthisthingon",
+      "time": 1772049254,
+      "comments": 149,
+      "domain": "trufflesecurity.com"
     },
     {
       "id": 47164079,
       "title": "Show HN: Better Hub – A better GitHub experience",
       "url": "https://www.better-hub.com/",
-      "score": 4,
+      "score": 23,
       "by": "bekacru",
       "time": 1772100481,
-      "comments": 2,
+      "comments": 21,
       "domain": "better-hub.com"
+    },
+    {
+      "id": 47157224,
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "score": 516,
+      "by": "tintinnabula",
+      "time": 1772050607,
+      "comments": 164,
+      "domain": "spectrum.ieee.org"
     },
     {
       "id": 47158975,
       "title": "How will OpenAI compete?",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "score": 255,
+      "score": 267,
       "by": "iamskeole",
       "time": 1772058565,
-      "comments": 328,
+      "comments": 356,
       "domain": "ben-evans.com"
+    },
+    {
+      "id": 47159430,
+      "title": "Banned in California",
+      "url": "https://www.bannedincalifornia.org/",
+      "score": 177,
+      "by": "pie_flavor",
+      "time": 1772061400,
+      "comments": 191,
+      "domain": "bannedincalifornia.org"
     },
     {
       "id": 47159302,
       "title": "First Website (1992)",
       "url": "https://info.cern.ch",
-      "score": 227,
+      "score": 233,
       "by": "shrikaranhanda",
       "time": 1772060578,
-      "comments": 61,
+      "comments": 64,
       "domain": "info.cern.ch"
     },
     {
       "id": 47157398,
       "title": "Making MCP cheaper via CLI",
       "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "score": 230,
+      "score": 236,
       "by": "thellimist",
       "time": 1772051377,
-      "comments": 92,
+      "comments": 96,
       "domain": "kanyilmaz.me"
     },
     {
       "id": 47154399,
       "title": "Windows 11 Notepad to support Markdown",
       "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "score": 289,
+      "score": 294,
       "by": "andreynering",
       "time": 1772039659,
-      "comments": 434,
+      "comments": 435,
       "domain": "blogs.windows.com"
-    },
-    {
-      "id": 47119119,
-      "title": "Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention",
-      "url": "https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/",
-      "score": 21,
-      "by": "prismatic",
-      "time": 1771831185,
-      "comments": 0,
-      "domain": "harpers.org"
     },
     {
       "id": 47112299,
       "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
       "url": "https://simonbergerart.com",
-      "score": 170,
+      "score": 176,
       "by": "cs702",
       "time": 1771777548,
-      "comments": 69,
+      "comments": 72,
       "domain": "simonbergerart.com"
+    },
+    {
+      "id": 47119119,
+      "title": "Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention",
+      "url": "https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/",
+      "score": 22,
+      "by": "prismatic",
+      "time": 1771831185,
+      "comments": 1,
+      "domain": "harpers.org"
     },
     {
       "id": 47161160,
       "title": "RAM now represents 35 percent of bill of materials for HP PCs",
       "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "score": 272,
+      "score": 280,
       "by": "jnord",
       "time": 1772073806,
-      "comments": 196,
+      "comments": 210,
       "domain": "arstechnica.com"
-    },
-    {
-      "id": 47153798,
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "score": 367,
-      "by": "surprisetalk",
-      "time": 1772037086,
-      "comments": 529,
-      "domain": "worksinprogress.co"
     },
     {
       "id": 47110393,
       "title": "Writers and Their Day Jobs",
       "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
-      "score": 31,
+      "score": 36,
       "by": "simplegeek",
       "time": 1771762395,
-      "comments": 7,
+      "comments": 10,
       "domain": "lithub.com"
+    },
+    {
+      "id": 47153798,
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "score": 369,
+      "by": "surprisetalk",
+      "time": 1772037086,
+      "comments": 534,
+      "domain": "worksinprogress.co"
     },
     {
       "id": 47139716,
       "title": "Large-Scale Online Deanonymization with LLMs",
       "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "score": 274,
+      "score": 278,
       "by": "DalasNoin",
       "time": 1771953497,
-      "comments": 199,
+      "comments": 200,
       "domain": "simonlermen.substack.com"
     },
     {
@@ -148,74 +158,114 @@
       "score": 176,
       "by": "vintagedave",
       "time": 1772029279,
-      "comments": 156,
+      "comments": 158,
       "domain": "respectify.org"
     },
     {
       "id": 47125014,
       "title": "The First Fully General Computer Action Model",
       "url": "https://si.inc/posts/fdm1/",
-      "score": 254,
+      "score": 260,
       "by": "nee1r",
       "time": 1771866000,
-      "comments": 69,
+      "comments": 68,
       "domain": "si.inc"
     },
     {
-      "id": 47160226,
-      "title": "Tech companies shouldn't be bullied into doing surveillance",
-      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
-      "score": 279,
-      "by": "pseudolus",
-      "time": 1772066252,
-      "comments": 91,
-      "domain": "eff.org"
+      "id": 47111164,
+      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
+      "url": "https://arxiv.org/abs/2602.06811",
+      "score": 9,
+      "by": "Terretta",
+      "time": 1771769709,
+      "comments": 3,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 47110049,
+      "title": "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
+      "url": "https://github.com/vangelov/modern-speck",
+      "score": 3,
+      "by": "vlad_angelov",
+      "time": 1771758199,
+      "comments": 0,
+      "domain": "github.com"
     },
     {
       "id": 47154971,
       "title": "The Om Programming Language",
       "url": "https://www.om-language.com/",
-      "score": 266,
+      "score": 269,
       "by": "tosh",
       "time": 1772041701,
       "comments": 74,
       "domain": "om-language.com"
     },
     {
-      "id": 47137140,
-      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
-      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
-      "score": 93,
-      "by": "jonasn",
-      "time": 1771940979,
-      "comments": 22,
-      "domain": "norlinder.nu"
+      "id": 47160226,
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "score": 288,
+      "by": "pseudolus",
+      "time": 1772066252,
+      "comments": 97,
+      "domain": "eff.org"
     },
     {
       "id": 47101271,
       "title": "What Pressure Does to an Athlete's Body",
       "url": "https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/",
-      "score": 33,
+      "score": 37,
       "by": "bookofjoe",
       "time": 1771684901,
-      "comments": 7,
+      "comments": 8,
       "domain": "theatlantic.com"
+    },
+    {
+      "id": 47137140,
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+      "score": 96,
+      "by": "jonasn",
+      "time": 1771940979,
+      "comments": 24,
+      "domain": "norlinder.nu"
     },
     {
       "id": 47105175,
       "title": "Gauss's Weekday Algorithm, Visualized",
       "url": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
-      "score": 40,
+      "score": 41,
       "by": "lukasmetzner",
       "time": 1771710563,
       "comments": 7,
       "domain": "lukasmetzner.github.io"
     },
     {
+      "id": 47157841,
+      "title": "An autopsy of AI-generated 3D slop",
+      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+      "score": 73,
+      "by": "sech8420",
+      "time": 1772053515,
+      "comments": 45,
+      "domain": "aircada.com"
+    },
+    {
+      "id": 47108861,
+      "title": "The Pleasures and Pains of Coffee (1830)",
+      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+      "score": 88,
+      "by": "jxmorris12",
+      "time": 1771743039,
+      "comments": 61,
+      "domain": "quod.lib.umich.edu"
+    },
+    {
       "id": 47152982,
       "title": "GNU Texmacs",
       "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
-      "score": 170,
+      "score": 171,
       "by": "remywang",
       "time": 1772033849,
       "comments": 48,
@@ -232,36 +282,6 @@
       "domain": "linum.ai"
     },
     {
-      "id": 47157841,
-      "title": "An autopsy of AI-generated 3D slop",
-      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
-      "score": 69,
-      "by": "sech8420",
-      "time": 1772053515,
-      "comments": 43,
-      "domain": "aircada.com"
-    },
-    {
-      "id": 47111164,
-      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
-      "url": "https://arxiv.org/abs/2602.06811",
-      "score": 5,
-      "by": "Terretta",
-      "time": 1771769709,
-      "comments": 2,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 47157160,
-      "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
-      "url": "https://vibrantlabs.com/blog/pa-bench",
-      "score": 34,
-      "by": "shahules",
-      "time": 1772050297,
-      "comments": 4,
-      "domain": "vibrantlabs.com"
-    },
-    {
       "id": 47151598,
       "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
       "url": "https://app.teamout.com/ai",
@@ -270,26 +290,6 @@
       "time": 1772028122,
       "comments": 57,
       "domain": "app.teamout.com"
-    },
-    {
-      "id": 47108861,
-      "title": "The Pleasures and Pains of Coffee (1830)",
-      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
-      "score": 86,
-      "by": "jxmorris12",
-      "time": 1771743039,
-      "comments": 60,
-      "domain": "quod.lib.umich.edu"
-    },
-    {
-      "id": 47151233,
-      "title": "Never buy a .online domain",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "score": 731,
-      "by": "ssiddharth",
-      "time": 1772026277,
-      "comments": 449,
-      "domain": "0xsid.com"
     }
   ]
 }
