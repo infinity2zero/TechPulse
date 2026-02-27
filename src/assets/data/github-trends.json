@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-27T17:51:44.369Z",
+  "lastUpdated": "2026-02-27T18:23:40.440Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4329,
+      "stars": 4339,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T17:46:52Z"
+      "updated_at": "2026-02-27T18:22:36Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 3815,
+      "stars": 3850,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T17:50:55Z"
+      "updated_at": "2026-02-27T18:23:17Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3474,
+      "stars": 3495,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T17:48:46Z"
+      "updated_at": "2026-02-27T18:19:52Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2308,
+      "stars": 2314,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T17:38:29Z"
+      "updated_at": "2026-02-27T18:14:01Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1442,
+      "stars": 1447,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-27T17:33:45Z"
+      "updated_at": "2026-02-27T18:23:21Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1249,
+      "stars": 1250,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-27T17:23:18Z"
+      "updated_at": "2026-02-27T18:09:39Z"
     },
     {
       "id": 1163251644,
@@ -96,27 +96,27 @@
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 782,
+      "stars": 785,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T17:47:21Z"
+      "updated_at": "2026-02-27T18:12:24Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 691,
+      "stars": 692,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-27T17:41:24Z"
+      "updated_at": "2026-02-27T17:56:33Z"
     },
     {
       "id": 1166946564,
@@ -148,14 +148,14 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 591,
+      "stars": 595,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T17:48:06Z"
+      "updated_at": "2026-02-27T18:20:48Z"
     },
     {
       "id": 1163024903,
@@ -174,27 +174,27 @@
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 585,
+      "stars": 587,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-27T16:47:14Z"
+      "updated_at": "2026-02-27T18:20:10Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 554,
+      "stars": 555,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T17:39:44Z"
+      "updated_at": "2026-02-27T17:52:32Z"
     },
     {
       "id": 1163746666,
@@ -213,14 +213,14 @@
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 495,
+      "stars": 496,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-27T17:28:49Z"
+      "updated_at": "2026-02-27T18:04:06Z"
     },
     {
       "id": 1163037979,
@@ -252,14 +252,14 @@
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 462,
+      "stars": 464,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-27T17:38:52Z"
+      "updated_at": "2026-02-27T18:06:37Z"
     }
   ]
 }
