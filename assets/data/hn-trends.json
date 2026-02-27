@@ -1,145 +1,155 @@
 {
-  "lastUpdated": "2026-02-27T21:48:21.410Z",
+  "lastUpdated": "2026-02-27T22:00:22.051Z",
   "items": [
     {
       "id": 47184288,
       "title": "Leaving Google has actively improved my life",
       "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
-      "score": 209,
+      "score": 226,
       "by": "speckx",
       "time": 1772219305,
-      "comments": 115,
+      "comments": 128,
       "domain": "pseudosingleton.com"
     },
     {
       "id": 47181211,
       "title": "OpenAI raises $110B on $730B pre-money valuation",
       "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "score": 194,
+      "score": 205,
       "by": "zlatkov",
       "time": 1772204165,
-      "comments": 305,
+      "comments": 330,
       "domain": "techcrunch.com"
     },
     {
       "id": 47184744,
       "title": "The Robotic Dexterity Deadlock",
       "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
-      "score": 49,
+      "score": 52,
       "by": "shmublu",
       "time": 1772221893,
-      "comments": 31,
+      "comments": 33,
       "domain": "origami-robotics.com"
-    },
-    {
-      "id": 47182483,
-      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-      "score": 132,
-      "by": "voxadam",
-      "time": 1772210019,
-      "comments": 148,
-      "domain": "cbsnews.com"
     },
     {
       "id": 47180569,
       "title": "A better streams API is possible for JavaScript",
       "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "score": 319,
+      "score": 323,
       "by": "nnx",
       "time": 1772200973,
       "comments": 110,
       "domain": "blog.cloudflare.com"
     },
     {
+      "id": 47182483,
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "score": 137,
+      "by": "voxadam",
+      "time": 1772210019,
+      "comments": 152,
+      "domain": "cbsnews.com"
+    },
+    {
       "id": 47184049,
       "title": "Let's discuss sandbox isolation",
       "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-      "score": 55,
+      "score": 58,
       "by": "shayonj",
       "time": 1772218190,
-      "comments": 15,
+      "comments": 16,
       "domain": "shayon.dev"
-    },
-    {
-      "id": 47181944,
-      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
-      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-      "score": 60,
-      "by": "cwwc",
-      "time": 1772207547,
-      "comments": 37,
-      "domain": "cnn.com"
     },
     {
       "id": 47183578,
       "title": "Dan Simmons, author of Hyperion, has died",
       "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-      "score": 330,
+      "score": 345,
       "by": "throw0101a",
       "time": 1772216019,
       "comments": 140,
       "domain": "dignitymemorial.com"
     },
     {
-      "id": 47182387,
-      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
-      "url": "https://github.com/hjtenklooster/claude-file-recovery",
-      "score": 11,
-      "by": "rikk3rt",
-      "time": 1772209582,
-      "comments": 3,
-      "domain": "github.com"
+      "id": 47181208,
+      "title": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "score": 149,
+      "by": "WalterSobchak",
+      "time": 1772204149,
+      "comments": 154,
+      "domain": "pcgamer.com"
     },
     {
       "id": 47183725,
       "title": "Writing a Guide to SDF Fonts",
       "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "score": 42,
+      "score": 43,
       "by": "chunkles",
       "time": 1772216649,
       "comments": 4,
       "domain": "redblobgames.com"
     },
     {
-      "id": 47181208,
-      "title": "A new California law says all operating systems need to have age verification",
-      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
-      "score": 139,
-      "by": "WalterSobchak",
-      "time": 1772204149,
-      "comments": 140,
-      "domain": "pcgamer.com"
+      "id": 47182387,
+      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+      "url": "https://github.com/hjtenklooster/claude-file-recovery",
+      "score": 13,
+      "by": "rikk3rt",
+      "time": 1772209582,
+      "comments": 4,
+      "domain": "github.com"
     },
     {
       "id": 47182487,
       "title": "Allocating on the Stack",
       "url": "https://go.dev/blog/allocation-optimizations",
-      "score": 94,
+      "score": 95,
       "by": "spacey",
       "time": 1772210045,
-      "comments": 38,
+      "comments": 39,
       "domain": "go.dev"
     },
     {
       "id": 47137199,
       "title": "Modeling cycles of grift with evolutionary game theory",
       "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-      "score": 64,
+      "score": 65,
       "by": "ibobev",
       "time": 1771941261,
-      "comments": 25,
+      "comments": 28,
       "domain": "oranlooney.com"
     },
     {
       "id": 47181753,
       "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
       "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-      "score": 81,
+      "score": 88,
       "by": "iamnothere",
       "time": 1772206673,
-      "comments": 36,
+      "comments": 38,
       "domain": "github.com"
+    },
+    {
+      "id": 47178371,
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "score": 344,
+      "by": "zhisme",
+      "time": 1772183338,
+      "comments": 171,
+      "domain": "claude.com"
+    },
+    {
+      "id": 47181391,
+      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "score": 412,
+      "by": "hn_acker",
+      "time": 1772204944,
+      "comments": 67,
+      "domain": "eff.org"
     },
     {
       "id": 47181316,
@@ -152,40 +162,20 @@
       "domain": "browser-use.com"
     },
     {
-      "id": 47178371,
-      "title": "Get free Claude max 20x for open-source maintainers",
-      "url": "https://claude.com/contact-sales/claude-for-oss",
-      "score": 338,
-      "by": "zhisme",
-      "time": 1772183338,
-      "comments": 167,
-      "domain": "claude.com"
-    },
-    {
-      "id": 47181391,
-      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
-      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "score": 401,
-      "by": "hn_acker",
-      "time": 1772204944,
-      "comments": 67,
-      "domain": "eff.org"
-    },
-    {
-      "id": 47135009,
-      "title": "PCB Tracer",
-      "url": "https://pcbtracer.com",
-      "score": 10,
-      "by": "Luc",
-      "time": 1771926360,
-      "comments": 4,
-      "domain": "pcbtracer.com"
+      "id": 47133585,
+      "title": "\"Just a little detail that wouldn't sell anything\"",
+      "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
+      "score": 72,
+      "by": "bobbiechen",
+      "time": 1771914847,
+      "comments": 15,
+      "domain": "unsung.aresluna.org"
     },
     {
       "id": 47131980,
       "title": "Reading English from 1000 AD",
       "url": "https://lewiscampbell.tech/blog/260224.html",
-      "score": 85,
+      "score": 86,
       "by": "LAC-Tech",
       "time": 1771898810,
       "comments": 30,
@@ -198,58 +188,68 @@
       "score": 103,
       "by": "antirez",
       "time": 1772015803,
-      "comments": 54,
+      "comments": 55,
       "domain": "antirez.com"
-    },
-    {
-      "id": 47133585,
-      "title": "\"Just a little detail that wouldn't sell anything\"",
-      "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
-      "score": 68,
-      "by": "bobbiechen",
-      "time": 1771914847,
-      "comments": 14,
-      "domain": "unsung.aresluna.org"
     },
     {
       "id": 47146487,
       "title": "Can you reverse engineer our neural network?",
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "score": 240,
+      "score": 242,
       "by": "jsomers",
       "time": 1771986013,
-      "comments": 172,
+      "comments": 174,
       "domain": "blog.janestreet.com"
+    },
+    {
+      "id": 47181801,
+      "title": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "score": 139,
+      "by": "shad42",
+      "time": 1772206873,
+      "comments": 82,
+      "domain": "mendral.com"
+    },
+    {
+      "id": 47135009,
+      "title": "PCB Tracer",
+      "url": "https://pcbtracer.com",
+      "score": 11,
+      "by": "Luc",
+      "time": 1771926360,
+      "comments": 4,
+      "domain": "pcbtracer.com"
+    },
+    {
+      "id": 47181944,
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "score": 64,
+      "by": "cwwc",
+      "time": 1772207547,
+      "comments": 45,
+      "domain": "cnn.com"
     },
     {
       "id": 47180083,
       "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
       "url": "https://retrotick.com/",
-      "score": 154,
+      "score": 156,
       "by": "lqs_",
       "time": 1772197610,
       "comments": 45,
       "domain": "retrotick.com"
     },
     {
-      "id": 47184480,
-      "title": "Rob Grant, creator of Red Dwarf, has died",
-      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "score": 143,
-      "by": "nephihaha",
-      "time": 1772220398,
-      "comments": 40,
-      "domain": "beyondthejoke.co.uk"
-    },
-    {
-      "id": 47181801,
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "score": 131,
-      "by": "shad42",
-      "time": 1772206873,
-      "comments": 81,
-      "domain": "mendral.com"
+      "id": 47173121,
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "score": 2810,
+      "by": "qwertox",
+      "time": 1772145767,
+      "comments": 1489,
+      "domain": "anthropic.com"
     },
     {
       "id": 47135159,
@@ -262,23 +262,23 @@
       "domain": "joshwcomeau.com"
     },
     {
-      "id": 47173121,
-      "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 2804,
-      "by": "qwertox",
-      "time": 1772145767,
-      "comments": 1486,
-      "domain": "anthropic.com"
+      "id": 47184480,
+      "title": "Rob Grant, creator of Red Dwarf, has died",
+      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+      "score": 150,
+      "by": "nephihaha",
+      "time": 1772220398,
+      "comments": 41,
+      "domain": "beyondthejoke.co.uk"
     },
     {
       "id": 47178863,
       "title": "F-Droid Board of Directors nominations 2026",
       "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-      "score": 153,
+      "score": 155,
       "by": "edent",
       "time": 1772188049,
-      "comments": 105,
+      "comments": 106,
       "domain": "f-droid.org"
     }
   ]
