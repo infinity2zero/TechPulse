@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-02-27T22:00:22.274Z",
+  "lastUpdated": "2026-02-27T22:29:05.483Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4414,
+      "stars": 4420,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T21:59:44Z"
+      "updated_at": "2026-02-27T22:26:44Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4024,
+      "stars": 4039,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T21:58:04Z"
+      "updated_at": "2026-02-27T22:26:30Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3604,
+      "stars": 3617,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T21:59:36Z"
+      "updated_at": "2026-02-27T22:29:01Z"
     },
     {
       "id": 1165277268,
@@ -57,14 +57,14 @@
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1452,
+      "stars": 1454,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-27T21:31:26Z"
+      "updated_at": "2026-02-27T22:04:48Z"
     },
     {
       "id": 1165733654,
@@ -83,27 +83,27 @@
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 1156,
+      "stars": 1158,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-27T21:59:08Z"
+      "updated_at": "2026-02-27T22:20:28Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 803,
+      "stars": 804,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T21:20:39Z"
+      "updated_at": "2026-02-27T22:10:54Z"
     },
     {
       "id": 1164025244,
@@ -122,14 +122,14 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 666,
+      "stars": 668,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-27T21:43:34Z"
+      "updated_at": "2026-02-27T22:16:31Z"
     },
     {
       "id": 1165265099,
@@ -148,14 +148,14 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 603,
+      "stars": 605,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T21:44:35Z"
+      "updated_at": "2026-02-27T22:09:13Z"
     },
     {
       "id": 1163850095,
@@ -187,14 +187,14 @@
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 565,
+      "stars": 566,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T21:32:45Z"
+      "updated_at": "2026-02-27T22:20:47Z"
     },
     {
       "id": 1163746666,
@@ -236,30 +236,30 @@
       "updated_at": "2026-02-27T21:05:33Z"
     },
     {
-      "id": 1167284837,
-      "name": "6551Team/opennews-mcp",
-      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 475,
-      "language": "Python",
-      "url": "https://github.com/6551Team/opennews-mcp",
-      "owner": {
-        "login": "6551Team",
-        "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
-      },
-      "updated_at": "2026-02-27T21:40:10Z"
-    },
-    {
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 474,
+      "stars": 482,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-27T21:58:05Z"
+      "updated_at": "2026-02-27T22:28:40Z"
+    },
+    {
+      "id": 1167284837,
+      "name": "6551Team/opennews-mcp",
+      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "stars": 477,
+      "language": "Python",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "owner": {
+        "login": "6551Team",
+        "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
+      },
+      "updated_at": "2026-02-27T22:10:20Z"
     }
   ]
 }
