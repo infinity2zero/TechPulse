@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-02-27T08:32:47.723Z",
+  "lastUpdated": "2026-02-27T09:09:55.619Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4131,
+      "stars": 4140,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T08:31:06Z"
+      "updated_at": "2026-02-27T09:01:21Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 3148,
+      "stars": 3202,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T08:32:38Z"
+      "updated_at": "2026-02-27T09:09:47Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 2594,
+      "stars": 2642,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T08:32:06Z"
+      "updated_at": "2026-02-27T09:09:33Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2089,
+      "stars": 2118,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T08:30:58Z"
+      "updated_at": "2026-02-27T09:08:31Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1393,
+      "stars": 1394,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-27T08:24:23Z"
+      "updated_at": "2026-02-27T09:03:09Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1228,
+      "stars": 1231,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-27T08:09:21Z"
+      "updated_at": "2026-02-27T09:05:40Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 1063,
+      "stars": 1065,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-27T08:32:30Z"
+      "updated_at": "2026-02-27T08:43:56Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 685,
+      "stars": 690,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T08:29:44Z"
+      "updated_at": "2026-02-27T09:05:14Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 656,
+      "stars": 658,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-27T08:01:36Z"
+      "updated_at": "2026-02-27T08:55:36Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 620,
+      "stars": 626,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-27T08:11:48Z"
+      "updated_at": "2026-02-27T09:07:58Z"
     },
     {
       "id": 1165265099,
@@ -161,27 +161,27 @@
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 562,
+      "stars": 566,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-27T08:31:52Z"
+      "updated_at": "2026-02-27T09:05:47Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 536,
+      "stars": 538,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T08:32:41Z"
+      "updated_at": "2026-02-27T09:04:25Z"
     },
     {
       "id": 1163746666,
@@ -195,6 +195,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
       "updated_at": "2026-02-27T06:59:15Z"
+    },
+    {
+      "id": 1166326043,
+      "name": "wh1te4ever/super-tart-vphone-writeup",
+      "description": null,
+      "stars": 495,
+      "language": "Swift",
+      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+      "owner": {
+        "login": "wh1te4ever",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
+      },
+      "updated_at": "2026-02-27T09:09:05Z"
     },
     {
       "id": 1163121560,
@@ -223,19 +236,6 @@
       "updated_at": "2026-02-27T06:59:59Z"
     },
     {
-      "id": 1166326043,
-      "name": "wh1te4ever/super-tart-vphone-writeup",
-      "description": null,
-      "stars": 488,
-      "language": "Swift",
-      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
-      "owner": {
-        "login": "wh1te4ever",
-        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
-      },
-      "updated_at": "2026-02-27T08:23:22Z"
-    },
-    {
       "id": 1163309888,
       "name": "carlosazaustre/tenacitOS",
       "description": "OpenClaw Mission Control Dashboard",
@@ -252,14 +252,14 @@
       "id": 1163993054,
       "name": "GreatScott/enject",
       "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.",
-      "stars": 381,
+      "stars": 382,
       "language": "Rust",
       "url": "https://github.com/GreatScott/enject",
       "owner": {
         "login": "GreatScott",
         "avatar_url": "https://avatars.githubusercontent.com/u/1652604?v=4"
       },
-      "updated_at": "2026-02-27T03:27:06Z"
+      "updated_at": "2026-02-27T09:04:46Z"
     }
   ]
 }
