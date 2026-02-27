@@ -1,235 +1,275 @@
 {
-  "lastUpdated": "2026-02-27T05:30:27.696Z",
+  "lastUpdated": "2026-02-27T06:11:33.003Z",
   "items": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1331,
+      "score": 1432,
       "by": "qwertox",
       "time": 1772145767,
-      "comments": 724,
+      "comments": 754,
       "domain": "anthropic.com"
     },
     {
       "id": 47176257,
       "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 75,
+      "score": 99,
       "by": "moultano",
       "time": 1772164188,
-      "comments": 30,
+      "comments": 40,
       "domain": "moultano.wordpress.com"
     },
     {
       "id": 47175931,
       "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
       "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-      "score": 155,
+      "score": 199,
       "by": "mikece",
       "time": 1772161689,
-      "comments": 61,
+      "comments": 80,
       "domain": "nytimes.com"
+    },
+    {
+      "id": 47176581,
+      "title": "Dear Time Lords: Freeze Computers in 1993",
+      "url": "https://graydon2.dreamwidth.org/322461.html",
+      "score": 18,
+      "by": "zdw",
+      "time": 1772167126,
+      "comments": 2,
+      "domain": "graydon2.dreamwidth.org"
     },
     {
       "id": 47169757,
       "title": "What Claude Code Chooses",
       "url": "https://amplifying.ai/research/claude-code-picks",
-      "score": 317,
+      "score": 339,
       "by": "tin7in",
       "time": 1772129546,
-      "comments": 130,
+      "comments": 135,
       "domain": "amplifying.ai"
+    },
+    {
+      "id": 47138698,
+      "title": "80386 Protection",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "score": 14,
+      "by": "nand2mario",
+      "time": 1771948592,
+      "comments": 1,
+      "domain": "nand2mario.github.io"
     },
     {
       "id": 47172119,
       "title": "Layoffs at Block",
       "url": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 600,
+      "score": 617,
       "by": "mlex",
       "time": 1772140676,
-      "comments": 623,
+      "comments": 645,
       "domain": "twitter.com"
     },
     {
       "id": 47167931,
       "title": "Will vibe coding end like the maker movement?",
       "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-      "score": 351,
+      "score": 357,
       "by": "itunpredictable",
       "time": 1772122031,
-      "comments": 347,
+      "comments": 353,
       "domain": "read.technically.dev"
     },
     {
       "id": 47167763,
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 334,
+      "score": 338,
       "by": "DamnInteresting",
       "time": 1772121348,
-      "comments": 161,
+      "comments": 162,
       "domain": "ndss-symposium.org"
-    },
-    {
-      "id": 47161889,
-      "title": "Move tests to closed source repo",
-      "url": "https://github.com/tldraw/tldraw/issues/8082",
-      "score": 22,
-      "by": "nilsbunger",
-      "time": 1772080466,
-      "comments": 16,
-      "domain": "github.com"
     },
     {
       "id": 47171233,
       "title": "What does \" 2>&1 \" mean?",
       "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 191,
+      "score": 200,
       "by": "alexmolas",
       "time": 1772135926,
-      "comments": 113,
+      "comments": 119,
       "domain": "stackoverflow.com"
     },
     {
       "id": 47176239,
       "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "url": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 12,
+      "score": 16,
       "by": "noahkay13",
       "time": 1772164085,
       "comments": 2,
       "domain": "github.com"
     },
     {
-      "id": 47170174,
-      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-      "url": "https://www.usecardboard.com/",
-      "score": 103,
-      "by": "sxmawl",
-      "time": 1772131118,
-      "comments": 52,
-      "domain": "usecardboard.com"
-    },
-    {
       "id": 47172664,
       "title": "Smartphone market forecast to decline this year due to memory shortage",
       "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
-      "score": 199,
+      "score": 207,
       "by": "littlexsparkee",
       "time": 1772143785,
-      "comments": 194,
+      "comments": 196,
       "domain": "idc.com"
+    },
+    {
+      "id": 47170174,
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "url": "https://www.usecardboard.com/",
+      "score": 104,
+      "by": "sxmawl",
+      "time": 1772131118,
+      "comments": 53,
+      "domain": "usecardboard.com"
+    },
+    {
+      "id": 47150674,
+      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+      "score": 19,
+      "by": "paultendo",
+      "time": 1772022636,
+      "comments": 5,
+      "domain": "paultendo.github.io"
     },
     {
       "id": 47124454,
       "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
       "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "score": 48,
+      "score": 53,
       "by": "vinhnx",
       "time": 1771863781,
-      "comments": 11,
+      "comments": 12,
       "domain": "openculture.com"
+    },
+    {
+      "id": 47128645,
+      "title": "I baked a pie every day for a year and it changed my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "score": 254,
+      "by": "NaOH",
+      "time": 1771880074,
+      "comments": 165,
+      "domain": "theguardian.com"
     },
     {
       "id": 47172730,
       "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
       "url": "https://coderush.me/hydroph0bia-part3/",
-      "score": 46,
+      "score": 48,
       "by": "transpute",
       "time": 1772144051,
       "comments": 1,
       "domain": "coderush.me"
     },
     {
-      "id": 47176157,
-      "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
-      "url": "https://bookriot.com/hr7661-book-ban-legislation/",
-      "score": 56,
-      "by": "LostMyLogin",
-      "time": 1772163252,
-      "comments": 24,
-      "domain": "bookriot.com"
-    },
-    {
-      "id": 47128645,
-      "title": "I baked a pie every day for a year and it changed my life",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
-      "score": 250,
-      "by": "NaOH",
-      "time": 1771880074,
-      "comments": 163,
-      "domain": "theguardian.com"
-    },
-    {
       "id": 47170157,
       "title": "OsmAnd's Faster Offline Navigation (2025)",
       "url": "https://osmand.net/blog/fast-routing/",
-      "score": 132,
+      "score": 138,
       "by": "todsacerdoti",
       "time": 1772131079,
-      "comments": 37,
+      "comments": 43,
       "domain": "osmand.net"
-    },
-    {
-      "id": 47150674,
-      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
-      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "score": 15,
-      "by": "paultendo",
-      "time": 1772022636,
-      "comments": 4,
-      "domain": "paultendo.github.io"
     },
     {
       "id": 47168726,
       "title": "Palm OS User Interface Guidelines (2003) [pdf]",
       "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
-      "score": 174,
+      "score": 178,
       "by": "spiffytech",
       "time": 1772125265,
-      "comments": 82,
+      "comments": 85,
       "domain": "cs.uml.edu"
     },
     {
-      "id": 47138698,
-      "title": "80386 Protection",
-      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 4,
-      "by": "nand2mario",
-      "time": 1771948592,
-      "comments": 0,
-      "domain": "nand2mario.github.io"
+      "id": 47176157,
+      "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+      "url": "https://bookriot.com/hr7661-book-ban-legislation/",
+      "score": 83,
+      "by": "LostMyLogin",
+      "time": 1772163252,
+      "comments": 47,
+      "domain": "bookriot.com"
     },
     {
       "id": 47124999,
       "title": "Museum of Plugs and Sockets",
       "url": "https://plugsocketmuseum.nl/index.html",
-      "score": 91,
+      "score": 94,
       "by": "ohjeez",
       "time": 1771865938,
       "comments": 34,
       "domain": "plugsocketmuseum.nl"
     },
     {
+      "id": 47161889,
+      "title": "Move tests to closed source repo",
+      "url": "https://github.com/tldraw/tldraw/issues/8082",
+      "score": 27,
+      "by": "nilsbunger",
+      "time": 1772080466,
+      "comments": 19,
+      "domain": "github.com"
+    },
+    {
       "id": 47166264,
       "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
       "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
-      "score": 162,
+      "score": 164,
       "by": "jasonpeacock",
       "time": 1772114746,
-      "comments": 55,
+      "comments": 56,
       "domain": "tuananh.net"
     },
     {
       "id": 47129801,
       "title": "Understanding the Go Runtime: The Memory Allocator",
       "url": "https://internals-for-interns.com/posts/go-memory-allocator/",
-      "score": 45,
+      "score": 46,
       "by": "valyala",
       "time": 1771885103,
-      "comments": 7,
+      "comments": 8,
       "domain": "internals-for-interns.com"
+    },
+    {
+      "id": 47141119,
+      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+      "url": "https://hackersmacker.org",
+      "score": 104,
+      "by": "conesus",
+      "time": 1771959616,
+      "comments": 116,
+      "domain": "hackersmacker.org"
+    },
+    {
+      "id": 47169518,
+      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+      "url": "https://github.com/flamestro/deff",
+      "score": 92,
+      "by": "flamestro",
+      "time": 1772128446,
+      "comments": 53,
+      "domain": "github.com"
+    },
+    {
+      "id": 47145082,
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "url": "https://www.playlinex.com/",
+      "score": 57,
+      "by": "Humanista75",
+      "time": 1771976038,
+      "comments": 20,
+      "domain": "playlinex.com"
     },
     {
       "id": 47126286,
@@ -242,54 +282,14 @@
       "domain": "exhibits.stanford.edu"
     },
     {
-      "id": 47141119,
-      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
-      "url": "https://hackersmacker.org",
-      "score": 104,
-      "by": "conesus",
-      "time": 1771959616,
-      "comments": 109,
-      "domain": "hackersmacker.org"
-    },
-    {
-      "id": 47169518,
-      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
-      "url": "https://github.com/flamestro/deff",
-      "score": 91,
-      "by": "flamestro",
-      "time": 1772128446,
-      "comments": 52,
-      "domain": "github.com"
-    },
-    {
-      "id": 47145082,
-      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
-      "url": "https://www.playlinex.com/",
-      "score": 57,
-      "by": "Humanista75",
-      "time": 1771976038,
-      "comments": 19,
-      "domain": "playlinex.com"
-    },
-    {
       "id": 47167858,
       "title": "Nano Banana 2: Google's latest AI image generation model",
       "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 526,
+      "score": 533,
       "by": "davidbarker",
       "time": 1772121757,
-      "comments": 496,
+      "comments": 501,
       "domain": "blog.google"
-    },
-    {
-      "id": 47165792,
-      "title": "This time is different",
-      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
-      "score": 141,
-      "by": "speckx",
-      "time": 1772112539,
-      "comments": 223,
-      "domain": "shkspr.mobi"
     }
   ]
 }
