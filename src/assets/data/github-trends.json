@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-27T20:33:28.911Z",
+  "lastUpdated": "2026-02-27T20:56:21.660Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4377,
+      "stars": 4383,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T20:29:43Z"
+      "updated_at": "2026-02-27T20:54:36Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 3954,
+      "stars": 3971,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T20:33:18Z"
+      "updated_at": "2026-02-27T20:55:12Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3559,
+      "stars": 3576,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T20:33:03Z"
+      "updated_at": "2026-02-27T20:53:12Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2320,
+      "stars": 2323,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T20:17:04Z"
+      "updated_at": "2026-02-27T20:48:52Z"
     },
     {
       "id": 1166050402,
@@ -70,40 +70,40 @@
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1253,
+      "stars": 1254,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-27T19:34:46Z"
+      "updated_at": "2026-02-27T20:36:12Z"
     },
     {
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 1153,
+      "stars": 1154,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-27T19:29:29Z"
+      "updated_at": "2026-02-27T20:46:31Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 799,
+      "stars": 802,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T20:25:51Z"
+      "updated_at": "2026-02-27T20:48:24Z"
     },
     {
       "id": 1164025244,
@@ -148,27 +148,27 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 599,
+      "stars": 601,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T19:07:29Z"
+      "updated_at": "2026-02-27T20:38:11Z"
     },
     {
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 588,
+      "stars": 589,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-27T17:28:27Z"
+      "updated_at": "2026-02-27T20:52:25Z"
     },
     {
       "id": 1163850095,
@@ -187,14 +187,14 @@
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 561,
+      "stars": 563,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T20:30:46Z"
+      "updated_at": "2026-02-27T20:51:53Z"
     },
     {
       "id": 1163746666,
@@ -226,40 +226,40 @@
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
-      "stars": 493,
+      "stars": 494,
       "language": "Shell",
       "url": "https://github.com/hamelsmu/claude-review-loop",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-02-27T20:19:15Z"
+      "updated_at": "2026-02-27T20:39:35Z"
     },
     {
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 473,
+      "stars": 474,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-27T20:23:42Z"
+      "updated_at": "2026-02-27T20:44:20Z"
     },
     {
       "id": 1163309888,
       "name": "carlosazaustre/tenacitOS",
       "description": "OpenClaw Mission Control Dashboard",
-      "stars": 467,
+      "stars": 468,
       "language": "TypeScript",
       "url": "https://github.com/carlosazaustre/tenacitOS",
       "owner": {
         "login": "carlosazaustre",
         "avatar_url": "https://avatars.githubusercontent.com/u/650752?v=4"
       },
-      "updated_at": "2026-02-27T19:48:23Z"
+      "updated_at": "2026-02-27T20:50:04Z"
     }
   ]
 }
