@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-27T23:33:51.286Z",
+  "lastUpdated": "2026-02-27T23:51:22.268Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4431,
+      "stars": 4433,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T23:33:27Z"
+      "updated_at": "2026-02-27T23:42:13Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4081,
+      "stars": 4087,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T23:33:38Z"
+      "updated_at": "2026-02-27T23:49:59Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3648,
+      "stars": 3661,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T23:32:55Z"
+      "updated_at": "2026-02-27T23:50:24Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2329,
+      "stars": 2331,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T22:35:37Z"
+      "updated_at": "2026-02-27T23:46:48Z"
     },
     {
       "id": 1166050402,
@@ -83,66 +83,66 @@
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 1161,
+      "stars": 1162,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-27T23:18:00Z"
+      "updated_at": "2026-02-27T23:34:09Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 810,
+      "stars": 813,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T23:29:56Z"
+      "updated_at": "2026-02-27T23:44:53Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 693,
+      "stars": 694,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-27T23:33:36Z"
+      "updated_at": "2026-02-27T23:48:09Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 672,
+      "stars": 673,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-27T23:09:34Z"
+      "updated_at": "2026-02-27T23:40:02Z"
     },
     {
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 628,
+      "stars": 629,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-27T22:56:46Z"
+      "updated_at": "2026-02-27T23:49:40Z"
     },
     {
       "id": 1165507389,
@@ -161,53 +161,53 @@
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 591,
+      "stars": 592,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-27T23:08:42Z"
+      "updated_at": "2026-02-27T23:43:59Z"
     },
     {
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
-      "stars": 590,
+      "stars": 591,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/visual-json",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-02-27T23:12:30Z"
+      "updated_at": "2026-02-27T23:46:16Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 568,
+      "stars": 569,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T23:17:09Z"
+      "updated_at": "2026-02-27T23:34:46Z"
     },
     {
       "id": 1163746666,
       "name": "ochyai/vibe-local",
       "description": "Free AI coding environment: Ollama + Python",
-      "stars": 518,
+      "stars": 519,
       "language": "Python",
       "url": "https://github.com/ochyai/vibe-local",
       "owner": {
         "login": "ochyai",
         "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
       },
-      "updated_at": "2026-02-27T11:21:20Z"
+      "updated_at": "2026-02-27T23:47:46Z"
     },
     {
       "id": 1163121560,
@@ -223,6 +223,19 @@
       "updated_at": "2026-02-27T21:40:53Z"
     },
     {
+      "id": 1165885512,
+      "name": "xjtulyc/MedgeClaw",
+      "description": "Medge AI X OpenClaw",
+      "stars": 497,
+      "language": "HTML",
+      "url": "https://github.com/xjtulyc/MedgeClaw",
+      "owner": {
+        "login": "xjtulyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
+      },
+      "updated_at": "2026-02-27T23:48:53Z"
+    },
+    {
       "id": 1163037979,
       "name": "hamelsmu/claude-review-loop",
       "description": "Claude Code plugin: automated code review loop with Codex",
@@ -236,30 +249,17 @@
       "updated_at": "2026-02-27T22:52:41Z"
     },
     {
-      "id": 1165885512,
-      "name": "xjtulyc/MedgeClaw",
-      "description": "Medge AI X OpenClaw",
-      "stars": 494,
-      "language": "HTML",
-      "url": "https://github.com/xjtulyc/MedgeClaw",
-      "owner": {
-        "login": "xjtulyc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
-      },
-      "updated_at": "2026-02-27T23:28:57Z"
-    },
-    {
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 479,
+      "stars": 480,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-27T23:23:27Z"
+      "updated_at": "2026-02-27T23:35:14Z"
     }
   ]
 }
