@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-27T21:48:21.751Z",
+  "lastUpdated": "2026-02-27T22:00:22.274Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4409,
+      "stars": 4414,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T21:47:03Z"
+      "updated_at": "2026-02-27T21:59:44Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4012,
+      "stars": 4024,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T21:47:57Z"
+      "updated_at": "2026-02-27T21:58:04Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3597,
+      "stars": 3604,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T21:44:49Z"
+      "updated_at": "2026-02-27T21:59:36Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2327,
+      "stars": 2328,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T21:38:05Z"
+      "updated_at": "2026-02-27T21:51:54Z"
     },
     {
       "id": 1166050402,
@@ -83,14 +83,14 @@
       "id": 1163251644,
       "name": "kevinho/clawfeed",
       "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
-      "stars": 1155,
+      "stars": 1156,
       "language": "HTML",
       "url": "https://github.com/kevinho/clawfeed",
       "owner": {
         "login": "kevinho",
         "avatar_url": "https://avatars.githubusercontent.com/u/546824?v=4"
       },
-      "updated_at": "2026-02-27T21:20:13Z"
+      "updated_at": "2026-02-27T21:59:08Z"
     },
     {
       "id": 1166020413,
@@ -158,6 +158,19 @@
       "updated_at": "2026-02-27T21:44:35Z"
     },
     {
+      "id": 1163850095,
+      "name": "runesleo/x-reader",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "stars": 590,
+      "language": "Python",
+      "url": "https://github.com/runesleo/x-reader",
+      "owner": {
+        "login": "runesleo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+      },
+      "updated_at": "2026-02-27T21:54:40Z"
+    },
+    {
       "id": 1163024903,
       "name": "vercel-labs/visual-json",
       "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
@@ -169,19 +182,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
       "updated_at": "2026-02-27T20:52:25Z"
-    },
-    {
-      "id": 1163850095,
-      "name": "runesleo/x-reader",
-      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 589,
-      "language": "Python",
-      "url": "https://github.com/runesleo/x-reader",
-      "owner": {
-        "login": "runesleo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
-      },
-      "updated_at": "2026-02-27T21:36:32Z"
     },
     {
       "id": 1166326043,
@@ -252,14 +252,14 @@
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 471,
+      "stars": 474,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-27T21:47:42Z"
+      "updated_at": "2026-02-27T21:58:05Z"
     }
   ]
 }
