@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-02-27T21:23:17.041Z",
+  "lastUpdated": "2026-02-27T21:48:21.751Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4399,
+      "stars": 4409,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T21:23:12Z"
+      "updated_at": "2026-02-27T21:47:03Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 3994,
+      "stars": 4012,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-27T21:22:20Z"
+      "updated_at": "2026-02-27T21:47:57Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3587,
+      "stars": 3597,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T21:20:59Z"
+      "updated_at": "2026-02-27T21:44:49Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2325,
+      "stars": 2327,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T21:04:34Z"
+      "updated_at": "2026-02-27T21:38:05Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1450,
+      "stars": 1452,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-27T20:19:17Z"
+      "updated_at": "2026-02-27T21:31:26Z"
     },
     {
       "id": 1165733654,
@@ -122,14 +122,14 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 665,
+      "stars": 666,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-27T21:14:22Z"
+      "updated_at": "2026-02-27T21:43:34Z"
     },
     {
       "id": 1165265099,
@@ -148,14 +148,14 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 601,
+      "stars": 603,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T20:38:11Z"
+      "updated_at": "2026-02-27T21:44:35Z"
     },
     {
       "id": 1163024903,
@@ -174,27 +174,27 @@
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 587,
+      "stars": 589,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-27T18:20:10Z"
+      "updated_at": "2026-02-27T21:36:32Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 564,
+      "stars": 565,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T21:08:04Z"
+      "updated_at": "2026-02-27T21:32:45Z"
     },
     {
       "id": 1163746666,
@@ -213,14 +213,14 @@
       "id": 1163121560,
       "name": "dnakov/litter",
       "description": null,
-      "stars": 497,
+      "stars": 498,
       "language": "Kotlin",
       "url": "https://github.com/dnakov/litter",
       "owner": {
         "login": "dnakov",
         "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
       },
-      "updated_at": "2026-02-27T20:23:01Z"
+      "updated_at": "2026-02-27T21:40:53Z"
     },
     {
       "id": 1163037979,
@@ -239,27 +239,27 @@
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 474,
+      "stars": 475,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-27T20:44:20Z"
+      "updated_at": "2026-02-27T21:40:10Z"
     },
     {
-      "id": 1163309888,
-      "name": "carlosazaustre/tenacitOS",
-      "description": "OpenClaw Mission Control Dashboard",
-      "stars": 468,
-      "language": "TypeScript",
-      "url": "https://github.com/carlosazaustre/tenacitOS",
+      "id": 1165885512,
+      "name": "xjtulyc/MedgeClaw",
+      "description": "Medge AI X OpenClaw",
+      "stars": 471,
+      "language": "HTML",
+      "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
-        "login": "carlosazaustre",
-        "avatar_url": "https://avatars.githubusercontent.com/u/650752?v=4"
+        "login": "xjtulyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-27T20:50:04Z"
+      "updated_at": "2026-02-27T21:47:42Z"
     }
   ]
 }
