@@ -1,174 +1,187 @@
 {
-  "lastUpdated": "2026-02-28T00:00:36.602Z",
+  "lastUpdated": "2026-02-28T02:22:16.337Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4433,
+      "stars": 4461,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-27T23:42:13Z"
+      "updated_at": "2026-02-28T02:19:44Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4092,
+      "stars": 4204,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T00:00:23Z"
+      "updated_at": "2026-02-28T02:22:12Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 3667,
+      "stars": 3915,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-27T23:59:19Z"
+      "updated_at": "2026-02-28T02:22:02Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2334,
+      "stars": 2376,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-27T23:59:02Z"
+      "updated_at": "2026-02-28T02:20:04Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1455,
+      "stars": 1463,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-27T23:54:00Z"
+      "updated_at": "2026-02-28T02:15:42Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1256,
+      "stars": 1264,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-27T23:59:13Z"
+      "updated_at": "2026-02-28T02:02:32Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 815,
+      "stars": 824,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-27T23:59:49Z"
+      "updated_at": "2026-02-28T02:04:34Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 695,
+      "stars": 700,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-27T23:54:35Z"
+      "updated_at": "2026-02-28T02:01:24Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 674,
+      "stars": 676,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-27T23:57:27Z"
+      "updated_at": "2026-02-28T00:18:15Z"
     },
     {
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 630,
+      "stars": 633,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-27T23:56:50Z"
+      "updated_at": "2026-02-28T01:24:58Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 605,
+      "stars": 616,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-27T22:09:13Z"
+      "updated_at": "2026-02-28T02:17:07Z"
     },
     {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 592,
+      "stars": 602,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-27T23:43:59Z"
+      "updated_at": "2026-02-28T01:51:53Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 569,
+      "stars": 573,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-27T23:34:46Z"
+      "updated_at": "2026-02-28T02:19:46Z"
+    },
+    {
+      "id": 1165885512,
+      "name": "xjtulyc/MedgeClaw",
+      "description": "Medge AI X OpenClaw",
+      "stars": 524,
+      "language": "HTML",
+      "url": "https://github.com/xjtulyc/MedgeClaw",
+      "owner": {
+        "login": "xjtulyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
+      },
+      "updated_at": "2026-02-28T02:14:40Z"
     },
     {
       "id": 1163746666,
@@ -184,82 +197,69 @@
       "updated_at": "2026-02-27T23:47:46Z"
     },
     {
-      "id": 1165885512,
-      "name": "xjtulyc/MedgeClaw",
-      "description": "Medge AI X OpenClaw",
-      "stars": 499,
-      "language": "HTML",
-      "url": "https://github.com/xjtulyc/MedgeClaw",
-      "owner": {
-        "login": "xjtulyc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
-      },
-      "updated_at": "2026-02-27T23:56:30Z"
-    },
-    {
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 480,
+      "stars": 496,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-27T23:35:14Z"
+      "updated_at": "2026-02-28T01:57:46Z"
+    },
+    {
+      "id": 1163821468,
+      "name": "eooce/python-ws",
+      "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
+      "stars": 435,
+      "language": "Python",
+      "url": "https://github.com/eooce/python-ws",
+      "owner": {
+        "login": "eooce",
+        "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
+      },
+      "updated_at": "2026-02-28T02:20:11Z"
     },
     {
       "id": 1164790132,
       "name": "thellimist/clihub",
       "description": null,
-      "stars": 409,
+      "stars": 415,
       "language": "Go",
       "url": "https://github.com/thellimist/clihub",
       "owner": {
         "login": "thellimist",
         "avatar_url": "https://avatars.githubusercontent.com/u/6690196?v=4"
       },
-      "updated_at": "2026-02-27T23:05:41Z"
-    },
-    {
-      "id": 1163993054,
-      "name": "GreatScott/enject",
-      "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.",
-      "stars": 392,
-      "language": "Rust",
-      "url": "https://github.com/GreatScott/enject",
-      "owner": {
-        "login": "GreatScott",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1652604?v=4"
-      },
-      "updated_at": "2026-02-27T23:40:43Z"
+      "updated_at": "2026-02-28T02:08:15Z"
     },
     {
       "id": 1165924657,
       "name": "whyzhow/PersonalStyleAI-Framework-",
       "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-      "stars": 391,
+      "stars": 398,
       "language": "Python",
       "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
       "owner": {
         "login": "whyzhow",
         "avatar_url": "https://avatars.githubusercontent.com/u/213056117?v=4"
       },
-      "updated_at": "2026-02-27T23:56:42Z"
+      "updated_at": "2026-02-28T02:02:59Z"
     },
     {
-      "id": 1166482581,
-      "name": "3DCF-Labs/safepilot",
-      "description": "AI assistant that executes real work, safely.",
-      "stars": 381,
+      "id": 1163993054,
+      "name": "GreatScott/enject",
+      "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.",
+      "stars": 395,
       "language": "Rust",
-      "url": "https://github.com/3DCF-Labs/safepilot",
+      "url": "https://github.com/GreatScott/enject",
       "owner": {
-        "login": "3DCF-Labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/246549109?v=4"
+        "login": "GreatScott",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1652604?v=4"
       },
-      "updated_at": "2026-02-27T22:55:34Z"
+      "updated_at": "2026-02-28T01:24:10Z"
     }
   ]
 }
