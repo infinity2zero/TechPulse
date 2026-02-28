@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-02-28T23:47:59.422Z",
+  "lastUpdated": "2026-02-28T23:57:38.321Z",
   "items": [
-    {
-      "id": 47200342,
-      "title": "MinIO Is Dead, Long Live MinIO",
-      "url": "https://blog.vonng.com/en/db/minio-resurrect/",
-      "score": 141,
-      "by": "zufallsheld",
-      "time": 1772313413,
-      "comments": 47,
-      "domain": "blog.vonng.com"
-    },
     {
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 50,
+      "score": 60,
       "by": "ksec",
       "time": 1772317176,
-      "comments": 14,
+      "comments": 17,
       "domain": "dl.acm.org"
+    },
+    {
+      "id": 47200342,
+      "title": "MinIO Is Dead, Long Live MinIO",
+      "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+      "score": 146,
+      "by": "zufallsheld",
+      "time": 1772313413,
+      "comments": 51,
+      "domain": "blog.vonng.com"
     },
     {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 50,
+      "score": 61,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 9,
+      "comments": 16,
       "domain": "twitter.com"
     },
     {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 353,
+      "score": 354,
       "by": "adilmoujahid",
       "time": 1772296313,
       "comments": 127,
@@ -45,17 +45,17 @@
       "id": 47161759,
       "title": "The happiest I've ever been",
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 270,
+      "score": 272,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 118,
+      "comments": 120,
       "domain": "ben-mini.com"
     },
     {
       "id": 47200828,
       "title": "Building a Minimal Transformer for 10-digit Addition",
       "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "score": 22,
+      "score": 24,
       "by": "kelseyfrog",
       "time": 1772316621,
       "comments": 4,
@@ -65,21 +65,31 @@
       "id": 47201283,
       "title": "The war against PDFs is heating up",
       "url": "https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up",
-      "score": 11,
+      "score": 12,
       "by": "pseudolus",
       "time": 1772319282,
-      "comments": 5,
+      "comments": 7,
       "domain": "economist.com"
     },
     {
       "id": 47198977,
       "title": "Block the “Upgrade to Tahoe” Alerts",
       "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 96,
+      "score": 99,
       "by": "todsacerdoti",
       "time": 1772305441,
       "comments": 35,
       "domain": "robservatory.com"
+    },
+    {
+      "id": 47195371,
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "score": 191,
+      "by": "RyanShook",
+      "time": 1772286613,
+      "comments": 152,
+      "domain": "github.com"
     },
     {
       "id": 47197595,
@@ -92,54 +102,44 @@
       "domain": "gist.github.com"
     },
     {
-      "id": 47195371,
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 189,
-      "by": "RyanShook",
-      "time": 1772286613,
-      "comments": 150,
-      "domain": "github.com"
-    },
-    {
       "id": 47199781,
       "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
       "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "score": 141,
+      "score": 147,
       "by": "lostmsu",
       "time": 1772310000,
-      "comments": 89,
+      "comments": 94,
       "domain": "venturebeat.com"
     },
     {
       "id": 47155526,
       "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "url": "https://github.com/ad-si/Woxi",
-      "score": 224,
+      "score": 225,
       "by": "adamnemecek",
       "time": 1772043886,
-      "comments": 98,
+      "comments": 99,
       "domain": "github.com"
-    },
-    {
-      "id": 47178051,
-      "title": "Werner Herzog Between Fact and Fiction",
-      "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
-      "score": 58,
-      "by": "Hooke",
-      "time": 1772180865,
-      "comments": 10,
-      "domain": "thenation.com"
     },
     {
       "id": 47154637,
       "title": "New evidence that Cantor plagiarized Dedekind?",
       "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
-      "score": 97,
+      "score": 98,
       "by": "rbanffy",
       "time": 1772040513,
       "comments": 65,
       "domain": "quantamagazine.org"
+    },
+    {
+      "id": 47178051,
+      "title": "Werner Herzog Between Fact and Fiction",
+      "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+      "score": 59,
+      "by": "Hooke",
+      "time": 1772180865,
+      "comments": 10,
+      "domain": "thenation.com"
     },
     {
       "id": 47195123,
@@ -155,10 +155,10 @@
       "id": 47197505,
       "title": "The whole thing was a scam",
       "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 505,
+      "score": 511,
       "by": "guilamu",
       "time": 1772297509,
-      "comments": 141,
+      "comments": 144,
       "domain": "garymarcus.substack.com"
     },
     {
@@ -168,18 +168,38 @@
       "score": 114,
       "by": "cckolon",
       "time": 1772212920,
-      "comments": 51,
+      "comments": 52,
       "domain": "carlkolon.com"
     },
     {
       "id": 47152835,
       "title": "The archivist preserving decaying floppy disks",
       "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
-      "score": 37,
+      "score": 38,
       "by": "Brajeshwar",
       "time": 1772033332,
       "comments": 4,
       "domain": "popsci.com"
+    },
+    {
+      "id": 47199948,
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "score": 179,
+      "by": "surprisetalk",
+      "time": 1772310929,
+      "comments": 161,
+      "domain": "openai.com"
+    },
+    {
+      "id": 47158834,
+      "title": "Deterministic Programming with LLMs",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "score": 3,
+      "by": "todsacerdoti",
+      "time": 1772057849,
+      "comments": 0,
+      "domain": "mcherm.com"
     },
     {
       "id": 47150352,
@@ -192,20 +212,10 @@
       "domain": "github.com"
     },
     {
-      "id": 47199948,
-      "title": "Our Agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 175,
-      "by": "surprisetalk",
-      "time": 1772310929,
-      "comments": 160,
-      "domain": "openai.com"
-    },
-    {
       "id": 47155235,
       "title": "Ghosts'n Goblins – “Worse danger is ahead”",
       "url": "https://superchartisland.com/ghostsn-goblins/",
-      "score": 54,
+      "score": 56,
       "by": "elvis70",
       "time": 1772042829,
       "comments": 24,
@@ -225,11 +235,21 @@
       "id": 47193064,
       "title": "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
       "url": "https://mksg.lu/blog/context-mode",
-      "score": 193,
+      "score": 198,
       "by": "mksglu",
       "time": 1772272880,
       "comments": 47,
       "domain": "mksg.lu"
+    },
+    {
+      "id": 47147597,
+      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+      "score": 222,
+      "by": "dinvlad",
+      "time": 1771996449,
+      "comments": 156,
+      "domain": "ivanturkovic.com"
     },
     {
       "id": 47170847,
@@ -240,16 +260,6 @@
       "time": 1772134175,
       "comments": 0,
       "domain": "theguardian.com"
-    },
-    {
-      "id": 47147597,
-      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
-      "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
-      "score": 218,
-      "by": "dinvlad",
-      "time": 1771996449,
-      "comments": 156,
-      "domain": "ivanturkovic.com"
     },
     {
       "id": 47192505,
@@ -265,7 +275,7 @@
       "id": 47193476,
       "title": "The Future of AI",
       "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-      "score": 109,
+      "score": 110,
       "by": "BerislavLopac",
       "time": 1772275313,
       "comments": 87,
@@ -275,31 +285,11 @@
       "id": 47191232,
       "title": "The United States and Israel have launched a major attack on Iran",
       "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-      "score": 978,
+      "score": 986,
       "by": "lavp",
       "time": 1772260447,
-      "comments": 2206,
+      "comments": 2225,
       "domain": "cnn.com"
-    },
-    {
-      "id": 47189650,
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "url": "https://twitter.com/sama/status/2027578652477821175",
-      "score": 1325,
-      "by": "eoskx",
-      "time": 1772247542,
-      "comments": 613,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47163554,
-      "title": "Laravel Inertia Toast",
-      "url": "https://github.com/veekthoven/laravel-inertia-toast",
-      "score": 3,
-      "by": "veekthoven",
-      "time": 1772095591,
-      "comments": 2,
-      "domain": "github.com"
     }
   ]
 }
