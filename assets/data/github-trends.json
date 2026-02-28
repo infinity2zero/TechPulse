@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-02-28T21:55:47.479Z",
+  "lastUpdated": "2026-02-28T22:15:09.329Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 5438,
+      "stars": 5455,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T21:55:27Z"
+      "updated_at": "2026-02-28T22:14:19Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4859,
+      "stars": 4863,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T21:55:46Z"
+      "updated_at": "2026-02-28T22:12:20Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4698,
+      "stars": 4700,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T21:45:51Z"
+      "updated_at": "2026-02-28T22:06:29Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 3015,
+      "stars": 3017,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T21:36:23Z"
+      "updated_at": "2026-02-28T22:00:17Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 1954,
+      "stars": 1960,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-02-28T21:52:04Z"
+      "updated_at": "2026-02-28T22:05:33Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1600,
+      "stars": 1601,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-28T21:26:08Z"
+      "updated_at": "2026-02-28T22:08:04Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1332,
+      "stars": 1333,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-28T20:11:57Z"
+      "updated_at": "2026-02-28T22:01:41Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 881,
+      "stars": 882,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-28T21:25:47Z"
+      "updated_at": "2026-02-28T22:10:37Z"
     },
     {
       "id": 1163821468,
       "name": "eooce/python-ws",
       "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 816,
+      "stars": 817,
       "language": "Python",
       "url": "https://github.com/eooce/python-ws",
       "owner": {
         "login": "eooce",
         "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
       },
-      "updated_at": "2026-02-28T21:39:49Z"
+      "updated_at": "2026-02-28T22:07:48Z"
     },
     {
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 748,
+      "stars": 751,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-02-28T21:46:09Z"
+      "updated_at": "2026-02-28T22:08:20Z"
     },
     {
       "id": 1166946564,
@@ -213,27 +213,27 @@
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 575,
+      "stars": 576,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-28T21:42:46Z"
+      "updated_at": "2026-02-28T22:08:28Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 549,
+      "stars": 550,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-02-28T21:49:48Z"
+      "updated_at": "2026-02-28T22:08:26Z"
     },
     {
       "id": 1167284837,
