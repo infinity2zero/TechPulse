@@ -1,75 +1,85 @@
 {
-  "lastUpdated": "2026-02-27T23:51:21.873Z",
+  "lastUpdated": "2026-02-28T00:00:36.428Z",
   "items": [
     {
       "id": 47181211,
       "title": "OpenAI raises $110B on $730B pre-money valuation",
       "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "score": 317,
+      "score": 326,
       "by": "zlatkov",
       "time": 1772204165,
-      "comments": 416,
+      "comments": 424,
       "domain": "techcrunch.com"
     },
     {
-      "id": 47186277,
-      "title": "The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
-      "url": "https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/",
-      "score": 36,
-      "by": "corvad",
-      "time": 1772229629,
-      "comments": 39,
-      "domain": "blog.cloudflare.com"
-    },
-    {
       "id": 47186677,
-      "title": "I am directing the Department of War to designate Anthropic a Supply-Chain Risk",
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
       "url": "https://twitter.com/secwar/status/2027507717469049070",
-      "score": 517,
+      "score": 552,
       "by": "jacobedawson",
       "time": 1772231478,
-      "comments": 374,
+      "comments": 425,
       "domain": "twitter.com"
+    },
+    {
+      "id": 47187649,
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "url": "https://www.science.org/doi/10.1126/science.adt2760",
+      "score": 7,
+      "by": "ppnpm",
+      "time": 1772235734,
+      "comments": 1,
+      "domain": "science.org"
     },
     {
       "id": 47181208,
       "title": "A new California law says all operating systems need to have age verification",
       "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
-      "score": 270,
+      "score": 277,
       "by": "WalterSobchak",
       "time": 1772204149,
-      "comments": 269,
+      "comments": 277,
       "domain": "pcgamer.com"
+    },
+    {
+      "id": 47182483,
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "score": 191,
+      "by": "voxadam",
+      "time": 1772210019,
+      "comments": 192,
+      "domain": "cbsnews.com"
     },
     {
       "id": 47187121,
       "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
       "url": "https://github.com/wkoszek/emuko",
-      "score": 9,
+      "score": 13,
       "by": "felipap",
       "time": 1772233309,
       "comments": 0,
       "domain": "github.com"
     },
     {
-      "id": 47182483,
-      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-      "score": 188,
-      "by": "voxadam",
-      "time": 1772210019,
-      "comments": 190,
-      "domain": "cbsnews.com"
-    },
-    {
       "id": 47180569,
       "title": "A better streams API is possible for JavaScript",
       "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "score": 353,
+      "score": 358,
       "by": "nnx",
       "time": 1772200973,
-      "comments": 115,
+      "comments": 116,
       "domain": "blog.cloudflare.com"
+    },
+    {
+      "id": 47187450,
+      "title": "Show HN: I built a site where you hire yourself instead of applying for jobs",
+      "url": "https://hired.wtf",
+      "score": 6,
+      "by": "apwn",
+      "time": 1772234759,
+      "comments": 1,
+      "domain": "hired.wtf"
     },
     {
       "id": 47186444,
@@ -85,7 +95,7 @@
       "id": 47184049,
       "title": "Let's discuss sandbox isolation",
       "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-      "score": 84,
+      "score": 88,
       "by": "shayonj",
       "time": 1772218190,
       "comments": 22,
@@ -95,7 +105,7 @@
       "id": 47182387,
       "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
       "url": "https://github.com/hjtenklooster/claude-file-recovery",
-      "score": 26,
+      "score": 28,
       "by": "rikk3rt",
       "time": 1772209582,
       "comments": 9,
@@ -105,7 +115,7 @@
       "id": 47183725,
       "title": "Writing a Guide to SDF Fonts",
       "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "score": 59,
+      "score": 61,
       "by": "chunkles",
       "time": 1772216649,
       "comments": 5,
@@ -115,10 +125,10 @@
       "id": 47181753,
       "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
       "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-      "score": 120,
+      "score": 125,
       "by": "iamnothere",
       "time": 1772206673,
-      "comments": 56,
+      "comments": 57,
       "domain": "github.com"
     },
     {
@@ -132,44 +142,44 @@
       "domain": "clojure.stream"
     },
     {
-      "id": 47187450,
-      "title": "Show HN: I built a site where you hire yourself instead of applying for jobs",
-      "url": "https://hired.wtf",
-      "score": 3,
-      "by": "apwn",
-      "time": 1772234759,
-      "comments": 1,
-      "domain": "hired.wtf"
+      "id": 47178371,
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "score": 397,
+      "by": "zhisme",
+      "time": 1772183338,
+      "comments": 184,
+      "domain": "claude.com"
     },
     {
       "id": 47182487,
       "title": "Allocating on the Stack",
       "url": "https://go.dev/blog/allocation-optimizations",
-      "score": 111,
+      "score": 113,
       "by": "spacey",
       "time": 1772210045,
-      "comments": 45,
+      "comments": 46,
       "domain": "go.dev"
     },
     {
       "id": 47184480,
       "title": "Rob Grant, creator of Red Dwarf, has died",
       "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "score": 189,
+      "score": 194,
       "by": "nephihaha",
       "time": 1772220398,
-      "comments": 56,
+      "comments": 58,
       "domain": "beyondthejoke.co.uk"
     },
     {
-      "id": 47178371,
-      "title": "Get free Claude max 20x for open-source maintainers",
-      "url": "https://claude.com/contact-sales/claude-for-oss",
-      "score": 392,
-      "by": "zhisme",
-      "time": 1772183338,
-      "comments": 183,
-      "domain": "claude.com"
+      "id": 47135009,
+      "title": "PCB Tracer",
+      "url": "https://pcbtracer.com",
+      "score": 37,
+      "by": "Luc",
+      "time": 1771926360,
+      "comments": 16,
+      "domain": "pcbtracer.com"
     },
     {
       "id": 47137199,
@@ -182,40 +192,40 @@
       "domain": "oranlooney.com"
     },
     {
-      "id": 47135009,
-      "title": "PCB Tracer",
-      "url": "https://pcbtracer.com",
-      "score": 36,
-      "by": "Luc",
-      "time": 1771926360,
-      "comments": 16,
-      "domain": "pcbtracer.com"
+      "id": 47186277,
+      "title": "The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
+      "url": "https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/",
+      "score": 37,
+      "by": "corvad",
+      "time": 1772229629,
+      "comments": 44,
+      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47184288,
       "title": "Leaving Google has actively improved my life",
       "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
-      "score": 358,
+      "score": 361,
       "by": "speckx",
       "time": 1772219305,
-      "comments": 195,
+      "comments": 199,
       "domain": "pseudosingleton.com"
     },
     {
       "id": 47149829,
       "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
       "url": "https://antirez.com/news/160",
-      "score": 117,
+      "score": 119,
       "by": "antirez",
       "time": 1772015803,
-      "comments": 57,
+      "comments": 58,
       "domain": "antirez.com"
     },
     {
       "id": 47181391,
       "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
       "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "score": 461,
+      "score": 462,
       "by": "hn_acker",
       "time": 1772204944,
       "comments": 83,
@@ -225,21 +235,11 @@
       "id": 47131980,
       "title": "Reading English from 1000 AD",
       "url": "https://lewiscampbell.tech/blog/260224.html",
-      "score": 101,
+      "score": 102,
       "by": "LAC-Tech",
       "time": 1771898810,
-      "comments": 36,
+      "comments": 37,
       "domain": "lewiscampbell.tech"
-    },
-    {
-      "id": 47181316,
-      "title": "Building secure, scalable agent sandbox infrastructure",
-      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-      "score": 44,
-      "by": "gregpr07",
-      "time": 1772204592,
-      "comments": 9,
-      "domain": "browser-use.com"
     },
     {
       "id": 47146487,
@@ -252,34 +252,44 @@
       "domain": "blog.janestreet.com"
     },
     {
+      "id": 47181316,
+      "title": "Building secure, scalable agent sandbox infrastructure",
+      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+      "score": 44,
+      "by": "gregpr07",
+      "time": 1772204592,
+      "comments": 9,
+      "domain": "browser-use.com"
+    },
+    {
       "id": 47133585,
       "title": "\"Just a little detail that wouldn't sell anything\"",
       "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
-      "score": 95,
+      "score": 96,
       "by": "bobbiechen",
       "time": 1771914847,
       "comments": 19,
       "domain": "unsung.aresluna.org"
     },
     {
-      "id": 47138429,
-      "title": "Distributed Systems for Fun and Profit",
-      "url": "https://book.mixu.net/distsys/single-page.html",
-      "score": 7,
-      "by": "vinhnx",
-      "time": 1771947120,
-      "comments": 0,
-      "domain": "book.mixu.net"
-    },
-    {
       "id": 47180083,
       "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
       "url": "https://retrotick.com/",
-      "score": 170,
+      "score": 171,
       "by": "lqs_",
       "time": 1772197610,
       "comments": 49,
       "domain": "retrotick.com"
+    },
+    {
+      "id": 47181944,
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "score": 99,
+      "by": "cwwc",
+      "time": 1772207547,
+      "comments": 81,
+      "domain": "cnn.com"
     }
   ]
 }
