@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-02-28T13:53:46.853Z",
+  "lastUpdated": "2026-02-28T14:10:35.685Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 4799,
+      "stars": 4822,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T13:53:31Z"
+      "updated_at": "2026-02-28T14:10:13Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4783,
+      "stars": 4789,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T13:48:38Z"
+      "updated_at": "2026-02-28T14:08:16Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4618,
+      "stars": 4620,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T13:52:52Z"
+      "updated_at": "2026-02-28T14:10:03Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2857,
+      "stars": 2871,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T13:52:50Z"
+      "updated_at": "2026-02-28T14:10:27Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 1571,
+      "stars": 1603,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-02-28T13:52:59Z"
+      "updated_at": "2026-02-28T14:10:02Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1560,
+      "stars": 1564,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-28T13:15:52Z"
+      "updated_at": "2026-02-28T14:03:38Z"
     },
     {
       "id": 1165733654,
@@ -96,27 +96,27 @@
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 868,
+      "stars": 869,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-28T13:39:29Z"
+      "updated_at": "2026-02-28T13:58:16Z"
     },
     {
       "id": 1163821468,
       "name": "eooce/python-ws",
       "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 747,
+      "stars": 752,
       "language": "Python",
       "url": "https://github.com/eooce/python-ws",
       "owner": {
         "login": "eooce",
         "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
       },
-      "updated_at": "2026-02-28T13:53:34Z"
+      "updated_at": "2026-02-28T14:07:10Z"
     },
     {
       "id": 1164025244,
@@ -135,14 +135,14 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 699,
+      "stars": 700,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-28T13:32:14Z"
+      "updated_at": "2026-02-28T13:55:43Z"
     },
     {
       "id": 1165507389,
@@ -184,30 +184,30 @@
       "updated_at": "2026-02-28T13:38:27Z"
     },
     {
-      "id": 1166326043,
-      "name": "wh1te4ever/super-tart-vphone-writeup",
-      "description": null,
-      "stars": 613,
-      "language": "Swift",
-      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
-      "owner": {
-        "login": "wh1te4ever",
-        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
-      },
-      "updated_at": "2026-02-28T13:28:16Z"
-    },
-    {
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 609,
+      "stars": 619,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-02-28T13:51:03Z"
+      "updated_at": "2026-02-28T14:09:41Z"
+    },
+    {
+      "id": 1166326043,
+      "name": "wh1te4ever/super-tart-vphone-writeup",
+      "description": null,
+      "stars": 615,
+      "language": "Swift",
+      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+      "owner": {
+        "login": "wh1te4ever",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
+      },
+      "updated_at": "2026-02-28T13:58:11Z"
     },
     {
       "id": 1165885512,
