@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-02-28T05:00:27.097Z",
+  "lastUpdated": "2026-02-28T05:36:30.425Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4500,
+      "stars": 4511,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T04:58:57Z"
+      "updated_at": "2026-02-28T05:35:59Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4366,
+      "stars": 4401,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T05:00:19Z"
+      "updated_at": "2026-02-28T05:35:51Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 4136,
+      "stars": 4187,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T05:00:15Z"
+      "updated_at": "2026-02-28T05:35:45Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2435,
+      "stars": 2451,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T04:49:46Z"
+      "updated_at": "2026-02-28T05:33:35Z"
     },
     {
       "id": 1166050402,
@@ -70,40 +70,40 @@
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1273,
+      "stars": 1274,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-28T04:47:50Z"
+      "updated_at": "2026-02-28T05:08:45Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 836,
+      "stars": 839,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-28T05:00:26Z"
+      "updated_at": "2026-02-28T05:32:14Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 706,
+      "stars": 707,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-28T04:49:32Z"
+      "updated_at": "2026-02-28T05:20:36Z"
     },
     {
       "id": 1166946564,
@@ -122,92 +122,92 @@
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 635,
+      "stars": 636,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-28T04:38:10Z"
+      "updated_at": "2026-02-28T05:22:18Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 628,
+      "stars": 632,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-28T04:59:35Z"
+      "updated_at": "2026-02-28T05:30:30Z"
     },
     {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 608,
+      "stars": 610,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-28T04:49:27Z"
+      "updated_at": "2026-02-28T05:35:44Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 573,
+      "stars": 577,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-28T04:46:40Z"
-    },
-    {
-      "id": 1165885512,
-      "name": "xjtulyc/MedgeClaw",
-      "description": "Medge AI X OpenClaw",
-      "stars": 534,
-      "language": "HTML",
-      "url": "https://github.com/xjtulyc/MedgeClaw",
-      "owner": {
-        "login": "xjtulyc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
-      },
-      "updated_at": "2026-02-28T04:58:23Z"
-    },
-    {
-      "id": 1163746666,
-      "name": "ochyai/vibe-local",
-      "description": "Free AI coding environment: Ollama + Python",
-      "stars": 524,
-      "language": "Python",
-      "url": "https://github.com/ochyai/vibe-local",
-      "owner": {
-        "login": "ochyai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
-      },
-      "updated_at": "2026-02-28T04:16:45Z"
+      "updated_at": "2026-02-28T05:20:25Z"
     },
     {
       "id": 1163821468,
       "name": "eooce/python-ws",
       "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 515,
+      "stars": 535,
       "language": "Python",
       "url": "https://github.com/eooce/python-ws",
       "owner": {
         "login": "eooce",
         "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
       },
-      "updated_at": "2026-02-28T04:54:41Z"
+      "updated_at": "2026-02-28T05:36:03Z"
+    },
+    {
+      "id": 1165885512,
+      "name": "xjtulyc/MedgeClaw",
+      "description": "Medge AI X OpenClaw",
+      "stars": 535,
+      "language": "HTML",
+      "url": "https://github.com/xjtulyc/MedgeClaw",
+      "owner": {
+        "login": "xjtulyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
+      },
+      "updated_at": "2026-02-28T05:34:24Z"
+    },
+    {
+      "id": 1163746666,
+      "name": "ochyai/vibe-local",
+      "description": "Free AI coding environment: Ollama + Python",
+      "stars": 525,
+      "language": "Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "owner": {
+        "login": "ochyai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+      },
+      "updated_at": "2026-02-28T05:31:53Z"
     },
     {
       "id": 1167284837,
@@ -220,7 +220,20 @@
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-28T04:35:28Z"
+      "updated_at": "2026-02-28T05:35:24Z"
+    },
+    {
+      "id": 1165324947,
+      "name": "agentscope-ai/CoPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 477,
+      "language": "Python",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "owner": {
+        "login": "agentscope-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+      },
+      "updated_at": "2026-02-28T05:36:23Z"
     },
     {
       "id": 1164790132,
@@ -236,30 +249,17 @@
       "updated_at": "2026-02-28T04:34:56Z"
     },
     {
-      "id": 1165324947,
-      "name": "agentscope-ai/CoPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 415,
-      "language": "Python",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "owner": {
-        "login": "agentscope-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
-      },
-      "updated_at": "2026-02-28T04:59:43Z"
-    },
-    {
       "id": 1165924657,
       "name": "whyzhow/PersonalStyleAI-Framework-",
       "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-      "stars": 411,
+      "stars": 416,
       "language": "Python",
       "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
       "owner": {
         "login": "whyzhow",
         "avatar_url": "https://avatars.githubusercontent.com/u/213056117?v=4"
       },
-      "updated_at": "2026-02-28T04:56:38Z"
+      "updated_at": "2026-02-28T05:35:39Z"
     }
   ]
 }
