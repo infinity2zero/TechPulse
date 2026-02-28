@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-02-28T11:10:30.094Z",
+  "lastUpdated": "2026-02-28T11:30:41.734Z",
   "items": [
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4750,
+      "stars": 4753,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T11:03:24Z"
+      "updated_at": "2026-02-28T11:25:49Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4590,
+      "stars": 4595,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T11:09:48Z"
+      "updated_at": "2026-02-28T11:30:00Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 4538,
+      "stars": 4571,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T11:10:17Z"
+      "updated_at": "2026-02-28T11:29:18Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2754,
+      "stars": 2759,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T11:05:38Z"
+      "updated_at": "2026-02-28T11:30:29Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1526,
+      "stars": 1531,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-28T11:08:43Z"
+      "updated_at": "2026-02-28T11:27:50Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 1368,
+      "stars": 1392,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-02-28T11:09:59Z"
+      "updated_at": "2026-02-28T11:27:36Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1300,
+      "stars": 1301,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-28T10:56:45Z"
+      "updated_at": "2026-02-28T11:17:47Z"
     },
     {
       "id": 1166020413,
@@ -119,6 +119,19 @@
       "updated_at": "2026-02-28T11:09:29Z"
     },
     {
+      "id": 1163821468,
+      "name": "eooce/python-ws",
+      "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
+      "stars": 699,
+      "language": "Python",
+      "url": "https://github.com/eooce/python-ws",
+      "owner": {
+        "login": "eooce",
+        "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
+      },
+      "updated_at": "2026-02-28T11:30:06Z"
+    },
+    {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
@@ -132,30 +145,17 @@
       "updated_at": "2026-02-28T11:01:32Z"
     },
     {
-      "id": 1163821468,
-      "name": "eooce/python-ws",
-      "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 687,
-      "language": "Python",
-      "url": "https://github.com/eooce/python-ws",
-      "owner": {
-        "login": "eooce",
-        "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
-      },
-      "updated_at": "2026-02-28T11:07:30Z"
-    },
-    {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 657,
+      "stars": 658,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-28T11:00:29Z"
+      "updated_at": "2026-02-28T11:20:56Z"
     },
     {
       "id": 1165265099,
@@ -187,27 +187,27 @@
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 604,
+      "stars": 605,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-28T11:04:07Z"
+      "updated_at": "2026-02-28T11:15:16Z"
     },
     {
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 549,
+      "stars": 550,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-28T10:44:01Z"
+      "updated_at": "2026-02-28T11:10:43Z"
     },
     {
       "id": 1167284837,
@@ -239,14 +239,14 @@
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 504,
+      "stars": 522,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-02-28T11:09:26Z"
+      "updated_at": "2026-02-28T11:29:11Z"
     },
     {
       "id": 1168261320,
