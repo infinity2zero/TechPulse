@@ -1,122 +1,148 @@
 {
-  "lastUpdated": "2026-02-28T05:59:19.382Z",
+  "lastUpdated": "2026-02-28T06:41:19.288Z",
   "items": [
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4516,
+      "stars": 4530,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T05:58:43Z"
+      "updated_at": "2026-02-28T06:37:34Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4428,
+      "stars": 4489,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-02-28T05:58:02Z"
+      "updated_at": "2026-02-28T06:39:45Z"
     },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 4218,
+      "stars": 4289,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T05:58:59Z"
+      "updated_at": "2026-02-28T06:40:28Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2463,
+      "stars": 2492,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T05:58:39Z"
+      "updated_at": "2026-02-28T06:38:53Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1473,
+      "stars": 1477,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-02-28T05:57:07Z"
+      "updated_at": "2026-02-28T06:37:31Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1276,
+      "stars": 1278,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-28T05:54:42Z"
+      "updated_at": "2026-02-28T06:19:20Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 839,
+      "stars": 842,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-28T05:32:14Z"
+      "updated_at": "2026-02-28T06:39:09Z"
     },
     {
       "id": 1164025244,
       "name": "andyhuo520/aetherviz-master",
       "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
-      "stars": 707,
+      "stars": 708,
       "language": null,
       "url": "https://github.com/andyhuo520/aetherviz-master",
       "owner": {
         "login": "andyhuo520",
         "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
       },
-      "updated_at": "2026-02-28T05:20:36Z"
+      "updated_at": "2026-02-28T06:39:14Z"
+    },
+    {
+      "id": 1165324947,
+      "name": "agentscope-ai/CoPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 702,
+      "language": "Python",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "owner": {
+        "login": "agentscope-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+      },
+      "updated_at": "2026-02-28T06:40:35Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 678,
+      "stars": 681,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-28T05:37:01Z"
+      "updated_at": "2026-02-28T06:33:19Z"
+    },
+    {
+      "id": 1165507389,
+      "name": "win4r/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "stars": 638,
+      "language": "TypeScript",
+      "url": "https://github.com/win4r/memory-lancedb-pro",
+      "owner": {
+        "login": "win4r",
+        "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
+      },
+      "updated_at": "2026-02-28T06:31:24Z"
     },
     {
       "id": 1165265099,
@@ -132,82 +158,56 @@
       "updated_at": "2026-02-28T05:44:50Z"
     },
     {
-      "id": 1165507389,
-      "name": "win4r/memory-lancedb-pro",
-      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 633,
-      "language": "TypeScript",
-      "url": "https://github.com/win4r/memory-lancedb-pro",
-      "owner": {
-        "login": "win4r",
-        "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
-      },
-      "updated_at": "2026-02-28T05:50:59Z"
-    },
-    {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 612,
+      "stars": 614,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-28T05:58:33Z"
+      "updated_at": "2026-02-28T06:21:05Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 577,
+      "stars": 578,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-02-28T05:20:25Z"
-    },
-    {
-      "id": 1165324947,
-      "name": "agentscope-ai/CoPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 556,
-      "language": "Python",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "owner": {
-        "login": "agentscope-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
-      },
-      "updated_at": "2026-02-28T05:58:43Z"
+      "updated_at": "2026-02-28T06:36:04Z"
     },
     {
       "id": 1163821468,
       "name": "eooce/python-ws",
       "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 552,
+      "stars": 578,
       "language": "Python",
       "url": "https://github.com/eooce/python-ws",
       "owner": {
         "login": "eooce",
         "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
       },
-      "updated_at": "2026-02-28T05:58:42Z"
+      "updated_at": "2026-02-28T06:40:00Z"
     },
     {
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 536,
+      "stars": 537,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-28T05:44:39Z"
+      "updated_at": "2026-02-28T06:12:52Z"
     },
     {
       "id": 1163746666,
@@ -226,14 +226,27 @@
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 513,
+      "stars": 515,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-02-28T05:50:02Z"
+      "updated_at": "2026-02-28T06:40:48Z"
+    },
+    {
+      "id": 1165924657,
+      "name": "whyzhow/PersonalStyleAI-Framework-",
+      "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+      "stars": 420,
+      "language": "Python",
+      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
+      "owner": {
+        "login": "whyzhow",
+        "avatar_url": "https://avatars.githubusercontent.com/u/213056117?v=4"
+      },
+      "updated_at": "2026-02-28T06:40:57Z"
     },
     {
       "id": 1164790132,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6690196?v=4"
       },
       "updated_at": "2026-02-28T05:58:02Z"
-    },
-    {
-      "id": 1165924657,
-      "name": "whyzhow/PersonalStyleAI-Framework-",
-      "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-      "stars": 417,
-      "language": "Python",
-      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
-      "owner": {
-        "login": "whyzhow",
-        "avatar_url": "https://avatars.githubusercontent.com/u/213056117?v=4"
-      },
-      "updated_at": "2026-02-28T05:52:17Z"
     }
   ]
 }
