@@ -1,57 +1,70 @@
 {
-  "lastUpdated": "2026-02-28T13:28:34.808Z",
+  "lastUpdated": "2026-02-28T13:53:46.853Z",
   "items": [
-    {
-      "id": 1165056385,
-      "name": "anthropics/financial-services-plugins",
-      "description": null,
-      "stars": 4779,
-      "language": "Python",
-      "url": "https://github.com/anthropics/financial-services-plugins",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      "updated_at": "2026-02-28T13:28:16Z"
-    },
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 4758,
+      "stars": 4799,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-02-28T13:27:54Z"
+      "updated_at": "2026-02-28T13:53:31Z"
+    },
+    {
+      "id": 1165056385,
+      "name": "anthropics/financial-services-plugins",
+      "description": null,
+      "stars": 4783,
+      "language": "Python",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "owner": {
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+      },
+      "updated_at": "2026-02-28T13:48:38Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4615,
+      "stars": 4618,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-02-28T13:09:24Z"
+      "updated_at": "2026-02-28T13:52:52Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 2837,
+      "stars": 2857,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-02-28T13:27:42Z"
+      "updated_at": "2026-02-28T13:52:50Z"
+    },
+    {
+      "id": 1165324947,
+      "name": "agentscope-ai/CoPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 1571,
+      "language": "Python",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "owner": {
+        "login": "agentscope-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+      },
+      "updated_at": "2026-02-28T13:52:59Z"
     },
     {
       "id": 1166050402,
@@ -67,56 +80,43 @@
       "updated_at": "2026-02-28T13:15:52Z"
     },
     {
-      "id": 1165324947,
-      "name": "agentscope-ai/CoPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 1541,
-      "language": "Python",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "owner": {
-        "login": "agentscope-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
-      },
-      "updated_at": "2026-02-28T13:28:28Z"
-    },
-    {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1308,
+      "stars": 1310,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-02-28T13:01:12Z"
+      "updated_at": "2026-02-28T13:38:59Z"
     },
     {
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 866,
+      "stars": 868,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-02-28T13:06:32Z"
+      "updated_at": "2026-02-28T13:39:29Z"
     },
     {
       "id": 1163821468,
       "name": "eooce/python-ws",
       "description": "build vless / trojan /shadowsocks  proxies on python server,no need core",
-      "stars": 737,
+      "stars": 747,
       "language": "Python",
       "url": "https://github.com/eooce/python-ws",
       "owner": {
         "login": "eooce",
         "avatar_url": "https://avatars.githubusercontent.com/u/142894633?v=4"
       },
-      "updated_at": "2026-02-28T13:22:05Z"
+      "updated_at": "2026-02-28T13:53:34Z"
     },
     {
       "id": 1164025244,
@@ -135,53 +135,53 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 698,
+      "stars": 699,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-02-28T12:48:16Z"
+      "updated_at": "2026-02-28T13:32:14Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 664,
+      "stars": 666,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-02-28T13:18:38Z"
+      "updated_at": "2026-02-28T13:43:10Z"
     },
     {
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 641,
+      "stars": 643,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-02-28T13:09:08Z"
+      "updated_at": "2026-02-28T13:51:47Z"
     },
     {
       "id": 1163850095,
       "name": "runesleo/x-reader",
       "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
-      "stars": 621,
+      "stars": 623,
       "language": "Python",
       "url": "https://github.com/runesleo/x-reader",
       "owner": {
         "login": "runesleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
       },
-      "updated_at": "2026-02-28T12:44:35Z"
+      "updated_at": "2026-02-28T13:38:27Z"
     },
     {
       "id": 1166326043,
@@ -200,27 +200,27 @@
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 598,
+      "stars": 609,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-02-28T13:27:12Z"
+      "updated_at": "2026-02-28T13:51:03Z"
     },
     {
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 554,
+      "stars": 555,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-02-28T13:12:21Z"
+      "updated_at": "2026-02-28T13:42:15Z"
     },
     {
       "id": 1167284837,
@@ -252,14 +252,14 @@
       "id": 1168261320,
       "name": "xstongxue/best-prompts",
       "description": "通用高质量 Prompt 合集🔥",
-      "stars": 460,
+      "stars": 461,
       "language": null,
       "url": "https://github.com/xstongxue/best-prompts",
       "owner": {
         "login": "xstongxue",
         "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
       },
-      "updated_at": "2026-02-28T13:17:43Z"
+      "updated_at": "2026-02-28T13:37:33Z"
     }
   ]
 }
