@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-03-01T13:31:19.856Z",
+  "lastUpdated": "2026-03-01T13:56:40.013Z",
   "items": [
     {
       "id": 47205890,
       "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
       "url": "https://99helpers.com/tools/ad-supported-chat",
-      "score": 67,
+      "score": 115,
       "by": "nickk81",
       "time": 1772365741,
-      "comments": 35,
+      "comments": 54,
       "domain": "99helpers.com"
     },
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1118,
+      "score": 1143,
       "by": "tambourine_man",
       "time": 1772329166,
-      "comments": 204,
+      "comments": 207,
       "domain": "karpathy.github.io"
     },
     {
       "id": 47204964,
       "title": "Decision trees – the unreasonable power of nested decision rules",
       "url": "https://mlu-explain.github.io/decision-tree/",
-      "score": 158,
+      "score": 169,
       "by": "mschnell",
       "time": 1772355352,
-      "comments": 19,
+      "comments": 20,
       "domain": "mlu-explain.github.io"
     },
     {
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
-      "score": 102,
+      "score": 106,
       "by": "vismit2000",
       "time": 1772350503,
-      "comments": 18,
+      "comments": 22,
       "domain": "modernaicourse.org"
     },
     {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 611,
+      "score": 618,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 321,
+      "comments": 327,
       "domain": "twitter.com"
     },
     {
       "id": 47205129,
       "title": "Why is the first C++ (m)allocation always 72 KB?",
       "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
-      "score": 57,
+      "score": 60,
       "by": "joelsiks",
       "time": 1772357254,
       "comments": 6,
@@ -65,70 +65,90 @@
       "id": 47204571,
       "title": "Switch to Claude without starting over",
       "url": "https://claude.com/import-memory",
-      "score": 256,
+      "score": 278,
       "by": "doener",
       "time": 1772350612,
-      "comments": 142,
+      "comments": 149,
       "domain": "claude.com"
     },
     {
       "id": 47181542,
       "title": "An ode to houseplant programming (2025)",
       "url": "https://hannahilea.com/blog/houseplant-programming/",
-      "score": 59,
+      "score": 65,
       "by": "evakhoury",
       "time": 1772205550,
-      "comments": 11,
+      "comments": 12,
       "domain": "hannahilea.com"
     },
     {
       "id": 47183396,
       "title": "Robust and efficient quantum-safe HTTPS",
       "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-      "score": 45,
+      "score": 48,
       "by": "tptacek",
       "time": 1772215128,
-      "comments": 2,
+      "comments": 4,
       "domain": "security.googleblog.com"
+    },
+    {
+      "id": 47205659,
+      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+      "url": "https://lukeb42.github.io/vertex-manual.html",
+      "score": 7,
+      "by": "LukeB42",
+      "time": 1772363128,
+      "comments": 2,
+      "domain": "lukeb42.github.io"
     },
     {
       "id": 47165230,
       "title": "The real cost of random I/O",
       "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
-      "score": 23,
+      "score": 27,
       "by": "jpineman",
       "time": 1772109528,
       "comments": 1,
       "domain": "vondra.me"
     },
     {
-      "id": 47205659,
-      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
-      "url": "https://lukeb42.github.io/vertex-manual.html",
-      "score": 5,
-      "by": "LukeB42",
-      "time": 1772363128,
-      "comments": 0,
-      "domain": "lukeb42.github.io"
+      "id": 47205637,
+      "title": "Flightradar24 for Ships",
+      "url": "https://atlas.flexport.com/",
+      "score": 10,
+      "by": "chromy",
+      "time": 1772362877,
+      "comments": 4,
+      "domain": "atlas.flexport.com"
     },
     {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 505,
+      "score": 510,
       "by": "adilmoujahid",
       "time": 1772296313,
       "comments": 172,
       "domain": "help.obsidian.md"
     },
     {
+      "id": 47168405,
+      "title": "Interview with Øyvind Kolås, GIMP developer",
+      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "score": 7,
+      "by": "ibobev",
+      "time": 1772123947,
+      "comments": 0,
+      "domain": "gimp.org"
+    },
+    {
       "id": 47161759,
       "title": "The happiest I've ever been",
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 541,
+      "score": 546,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 288,
+      "comments": 291,
       "domain": "ben-mini.com"
     },
     {
@@ -138,44 +158,34 @@
       "score": 22,
       "by": "Brajeshwar",
       "time": 1772212062,
-      "comments": 6,
+      "comments": 8,
       "domain": "phys.org"
-    },
-    {
-      "id": 47205637,
-      "title": "Flightradar24 for Ships",
-      "url": "https://atlas.flexport.com/",
-      "score": 7,
-      "by": "chromy",
-      "time": 1772362877,
-      "comments": 3,
-      "domain": "atlas.flexport.com"
     },
     {
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 294,
+      "score": 301,
       "by": "ksec",
       "time": 1772317176,
-      "comments": 209,
+      "comments": 212,
       "domain": "dl.acm.org"
     },
     {
       "id": 47198977,
       "title": "Block the “Upgrade to Tahoe” Alerts",
       "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 262,
+      "score": 264,
       "by": "todsacerdoti",
       "time": 1772305441,
-      "comments": 129,
+      "comments": 130,
       "domain": "robservatory.com"
     },
     {
       "id": 47163779,
       "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
       "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 103,
+      "score": 104,
       "by": "mrngm",
       "time": 1772097537,
       "comments": 29,
@@ -185,11 +195,31 @@
       "id": 47152448,
       "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
       "url": "https://www.nature.com/articles/s41586-026-10114-5",
-      "score": 73,
+      "score": 75,
       "by": "zdw",
       "time": 1772031680,
       "comments": 13,
       "domain": "nature.com"
+    },
+    {
+      "id": 47167432,
+      "title": "Hardwood: A New Parser for Apache Parquet",
+      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+      "score": 53,
+      "by": "rmoff",
+      "time": 1772119899,
+      "comments": 4,
+      "domain": "morling.dev"
+    },
+    {
+      "id": 47193064,
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "url": "https://mksg.lu/blog/context-mode",
+      "score": 449,
+      "by": "mksglu",
+      "time": 1772272880,
+      "comments": 92,
+      "domain": "mksg.lu"
     },
     {
       "id": 47164336,
@@ -202,50 +232,30 @@
       "domain": "pigeonsandplanes.com"
     },
     {
-      "id": 47167432,
-      "title": "Hardwood: A New Parser for Apache Parquet",
-      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 52,
-      "by": "rmoff",
-      "time": 1772119899,
-      "comments": 4,
-      "domain": "morling.dev"
-    },
-    {
-      "id": 47193064,
-      "title": "MCP server that reduces Claude Code context consumption by 98%",
-      "url": "https://mksg.lu/blog/context-mode",
-      "score": 440,
-      "by": "mksglu",
-      "time": 1772272880,
-      "comments": 92,
-      "domain": "mksg.lu"
-    },
-    {
       "id": 47155526,
       "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "url": "https://github.com/ad-si/Woxi",
       "score": 306,
       "by": "adamnemecek",
       "time": 1772043886,
-      "comments": 123,
+      "comments": 124,
       "domain": "github.com"
     },
     {
       "id": 47199948,
       "title": "Our Agreement with the Department of War",
       "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 331,
+      "score": 333,
       "by": "surprisetalk",
       "time": 1772310929,
-      "comments": 234,
+      "comments": 236,
       "domain": "openai.com"
     },
     {
       "id": 47195371,
       "title": "Addressing Antigravity Bans and Reinstating Access",
       "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 242,
+      "score": 243,
       "by": "RyanShook",
       "time": 1772286613,
       "comments": 202,
@@ -255,11 +265,21 @@
       "id": 47195123,
       "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
       "url": "https://nowigetit.us",
-      "score": 251,
+      "score": 252,
       "by": "jbdamask",
       "time": 1772285376,
       "comments": 116,
       "domain": "nowigetit.us"
+    },
+    {
+      "id": 47206009,
+      "title": "Ghostty – Terminal Emulator",
+      "url": "https://ghostty.org/docs",
+      "score": 12,
+      "by": "oli5679",
+      "time": 1772367183,
+      "comments": 0,
+      "domain": "ghostty.org"
     },
     {
       "id": 47197595,
@@ -275,31 +295,11 @@
       "id": 47200879,
       "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
       "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-      "score": 343,
+      "score": 354,
       "by": "andsoitis",
       "time": 1772316968,
-      "comments": 550,
+      "comments": 584,
       "domain": "npr.org"
-    },
-    {
-      "id": 47199781,
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "score": 407,
-      "by": "lostmsu",
-      "time": 1772310000,
-      "comments": 217,
-      "domain": "venturebeat.com"
-    },
-    {
-      "id": 47157265,
-      "title": "SpacetimeDB ThreeJS Support",
-      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
-      "score": 32,
-      "by": "ryker2000",
-      "time": 1772050821,
-      "comments": 9,
-      "domain": "discourse.threejs.org"
     }
   ]
 }
