@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-01T09:58:48.317Z",
+  "lastUpdated": "2026-03-01T10:25:39.644Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 6384,
+      "stars": 6419,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-01T09:57:49Z"
+      "updated_at": "2026-03-01T10:25:38Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4967,
+      "stars": 4970,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-03-01T09:51:24Z"
+      "updated_at": "2026-03-01T10:19:21Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4775,
+      "stars": 4779,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-03-01T09:58:36Z"
+      "updated_at": "2026-03-01T10:22:28Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 3235,
+      "stars": 3243,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-03-01T09:58:08Z"
+      "updated_at": "2026-03-01T10:24:31Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 2633,
+      "stars": 2654,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-03-01T09:57:28Z"
+      "updated_at": "2026-03-01T10:25:24Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1643,
+      "stars": 1646,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-03-01T09:41:51Z"
+      "updated_at": "2026-03-01T10:09:12Z"
     },
     {
       "id": 1165733654,
@@ -96,66 +96,66 @@
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 910,
+      "stars": 911,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-03-01T09:43:48Z"
+      "updated_at": "2026-03-01T10:24:09Z"
     },
     {
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 863,
+      "stars": 869,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-03-01T09:53:39Z"
+      "updated_at": "2026-03-01T10:24:18Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 813,
+      "stars": 825,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-01T09:57:40Z"
+      "updated_at": "2026-03-01T10:22:29Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 784,
+      "stars": 790,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-01T09:57:57Z"
+      "updated_at": "2026-03-01T10:22:45Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 771,
+      "stars": 775,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-01T09:56:38Z"
+      "updated_at": "2026-03-01T10:21:42Z"
     },
     {
       "id": 1166946564,
@@ -174,40 +174,40 @@
       "id": 1164477708,
       "name": "mksglu/claude-context-mode",
       "description": "Stop losing context to large outputs.",
-      "stars": 723,
+      "stars": 731,
       "language": "JavaScript",
       "url": "https://github.com/mksglu/claude-context-mode",
       "owner": {
         "login": "mksglu",
         "avatar_url": "https://avatars.githubusercontent.com/u/6067714?v=4"
       },
-      "updated_at": "2026-03-01T09:58:45Z"
+      "updated_at": "2026-03-01T10:21:34Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 711,
+      "stars": 712,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-01T09:38:29Z"
+      "updated_at": "2026-03-01T10:19:01Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 667,
+      "stars": 668,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-03-01T09:47:13Z"
+      "updated_at": "2026-03-01T10:00:45Z"
     },
     {
       "id": 1165265099,
