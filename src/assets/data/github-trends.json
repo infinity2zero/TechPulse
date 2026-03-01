@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-03-01T21:55:46.451Z",
+  "lastUpdated": "2026-03-01T22:15:33.990Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 7310,
+      "stars": 7322,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-01T21:55:06Z"
+      "updated_at": "2026-03-01T22:13:26Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 5044,
+      "stars": 5047,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-03-01T20:43:07Z"
+      "updated_at": "2026-03-01T22:15:08Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4922,
+      "stars": 4926,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-03-01T21:54:35Z"
+      "updated_at": "2026-03-01T22:11:38Z"
     },
     {
       "id": 1165277268,
@@ -57,14 +57,14 @@
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 3164,
+      "stars": 3169,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-03-01T21:50:22Z"
+      "updated_at": "2026-03-01T22:14:02Z"
     },
     {
       "id": 1166050402,
@@ -96,66 +96,66 @@
       "id": 1164477708,
       "name": "mksglu/claude-context-mode",
       "description": "Stop losing context to large outputs.",
-      "stars": 1301,
+      "stars": 1314,
       "language": "JavaScript",
       "url": "https://github.com/mksglu/claude-context-mode",
       "owner": {
         "login": "mksglu",
         "avatar_url": "https://avatars.githubusercontent.com/u/6067714?v=4"
       },
-      "updated_at": "2026-03-01T21:55:38Z"
+      "updated_at": "2026-03-01T22:14:43Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 1270,
+      "stars": 1274,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-01T21:52:50Z"
+      "updated_at": "2026-03-01T22:14:42Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1022,
+      "stars": 1028,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-01T21:53:36Z"
+      "updated_at": "2026-03-01T22:13:20Z"
     },
     {
       "id": 1164336049,
       "name": "taigrr/spank",
       "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 1011,
+      "stars": 1013,
       "language": "Go",
       "url": "https://github.com/taigrr/spank",
       "owner": {
         "login": "taigrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
       },
-      "updated_at": "2026-03-01T21:36:33Z"
+      "updated_at": "2026-03-01T22:13:54Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 939,
+      "stars": 940,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-01T21:47:34Z"
+      "updated_at": "2026-03-01T22:06:35Z"
     },
     {
       "id": 1166020413,
@@ -187,14 +187,14 @@
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 752,
+      "stars": 753,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-03-01T21:32:16Z"
+      "updated_at": "2026-03-01T22:14:57Z"
     },
     {
       "id": 1166326043,
@@ -213,14 +213,14 @@
       "id": 1167209519,
       "name": "ringhyacinth/Star-Office-UI",
       "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 700,
+      "stars": 705,
       "language": "HTML",
       "url": "https://github.com/ringhyacinth/Star-Office-UI",
       "owner": {
         "login": "ringhyacinth",
         "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
       },
-      "updated_at": "2026-03-01T21:50:57Z"
+      "updated_at": "2026-03-01T22:13:39Z"
     },
     {
       "id": 1165265099,
@@ -239,27 +239,27 @@
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 628,
+      "stars": 629,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-03-01T21:44:50Z"
+      "updated_at": "2026-03-01T22:06:59Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 608,
+      "stars": 626,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-01T21:55:44Z"
+      "updated_at": "2026-03-01T22:14:57Z"
     }
   ]
 }
