@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-03-01T10:48:07.764Z",
+  "lastUpdated": "2026-03-01T11:00:37.731Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 6460,
+      "stars": 6470,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-01T10:47:15Z"
+      "updated_at": "2026-03-01T11:00:06Z"
     },
     {
       "id": 1165056385,
       "name": "anthropics/financial-services-plugins",
       "description": null,
-      "stars": 4975,
+      "stars": 4976,
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services-plugins",
       "owner": {
         "login": "anthropics",
         "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "updated_at": "2026-03-01T10:44:50Z"
+      "updated_at": "2026-03-01T10:57:29Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4781,
+      "stars": 4782,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-03-01T10:37:47Z"
+      "updated_at": "2026-03-01T10:54:57Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 3254,
+      "stars": 3256,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-03-01T10:43:35Z"
+      "updated_at": "2026-03-01T10:58:54Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 2675,
+      "stars": 2688,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-03-01T10:47:22Z"
+      "updated_at": "2026-03-01T11:00:12Z"
     },
     {
       "id": 1166050402,
@@ -96,14 +96,14 @@
       "id": 1166020413,
       "name": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
-      "stars": 911,
+      "stars": 912,
       "language": null,
       "url": "https://github.com/mgechev/skills-best-practices",
       "owner": {
         "login": "mgechev",
         "avatar_url": "https://avatars.githubusercontent.com/u/455023?v=4"
       },
-      "updated_at": "2026-03-01T10:24:09Z"
+      "updated_at": "2026-03-01T10:57:34Z"
     },
     {
       "id": 1164336049,
@@ -122,53 +122,53 @@
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 831,
+      "stars": 836,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-01T10:46:59Z"
+      "updated_at": "2026-03-01T10:57:47Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 796,
+      "stars": 799,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-01T10:40:53Z"
+      "updated_at": "2026-03-01T10:59:19Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 780,
+      "stars": 781,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-01T10:38:30Z"
+      "updated_at": "2026-03-01T10:57:22Z"
     },
     {
       "id": 1164477708,
       "name": "mksglu/claude-context-mode",
       "description": "Stop losing context to large outputs.",
-      "stars": 744,
+      "stars": 750,
       "language": "JavaScript",
       "url": "https://github.com/mksglu/claude-context-mode",
       "owner": {
         "login": "mksglu",
         "avatar_url": "https://avatars.githubusercontent.com/u/6067714?v=4"
       },
-      "updated_at": "2026-03-01T10:44:20Z"
+      "updated_at": "2026-03-01T10:57:08Z"
     },
     {
       "id": 1166946564,
@@ -200,14 +200,14 @@
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 669,
+      "stars": 672,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-03-01T10:47:02Z"
+      "updated_at": "2026-03-01T10:52:09Z"
     },
     {
       "id": 1165265099,
