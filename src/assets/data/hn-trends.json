@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-03-01T09:45:23.420Z",
+  "lastUpdated": "2026-03-01T09:58:48.051Z",
   "items": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 787,
+      "score": 806,
       "by": "tambourine_man",
       "time": 1772329166,
-      "comments": 132,
+      "comments": 138,
       "domain": "karpathy.github.io"
+    },
+    {
+      "id": 47204964,
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "score": 16,
+      "by": "mschnell",
+      "time": 1772355352,
+      "comments": 1,
+      "domain": "mlu-explain.github.io"
     },
     {
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
-      "score": 36,
+      "score": 40,
       "by": "vismit2000",
       "time": 1772350503,
-      "comments": 7,
+      "comments": 9,
       "domain": "modernaicourse.org"
     },
     {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 534,
+      "score": 539,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 255,
+      "comments": 258,
       "domain": "twitter.com"
-    },
-    {
-      "id": 47204964,
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "url": "https://mlu-explain.github.io/decision-tree/",
-      "score": 7,
-      "by": "mschnell",
-      "time": 1772355352,
-      "comments": 0,
-      "domain": "mlu-explain.github.io"
     },
     {
       "id": 47204571,
       "title": "Switch to Claude without starting over",
       "url": "https://claude.com/import-memory",
-      "score": 109,
+      "score": 114,
       "by": "doener",
       "time": 1772350612,
-      "comments": 64,
+      "comments": 68,
       "domain": "claude.com"
     },
     {
       "id": 47181542,
       "title": "An ode to houseplant programming (2025)",
       "url": "https://hannahilea.com/blog/houseplant-programming/",
-      "score": 18,
+      "score": 21,
       "by": "evakhoury",
       "time": 1772205550,
       "comments": 4,
@@ -65,10 +65,10 @@
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 263,
+      "score": 264,
       "by": "ksec",
       "time": 1772317176,
-      "comments": 163,
+      "comments": 166,
       "domain": "dl.acm.org"
     },
     {
@@ -85,17 +85,17 @@
       "id": 47161759,
       "title": "The happiest I've ever been",
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 488,
+      "score": 489,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 252,
+      "comments": 257,
       "domain": "ben-mini.com"
     },
     {
       "id": 47152448,
       "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
       "url": "https://www.nature.com/articles/s41586-026-10114-5",
-      "score": 61,
+      "score": 62,
       "by": "zdw",
       "time": 1772031680,
       "comments": 11,
@@ -105,67 +105,87 @@
       "id": 47163779,
       "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
       "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 85,
+      "score": 87,
       "by": "mrngm",
       "time": 1772097537,
-      "comments": 22,
+      "comments": 23,
       "domain": "inconspicuous.info"
     },
     {
       "id": 47198977,
       "title": "Block the “Upgrade to Tahoe” Alerts",
       "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 231,
+      "score": 233,
       "by": "todsacerdoti",
       "time": 1772305441,
       "comments": 108,
       "domain": "robservatory.com"
     },
     {
+      "id": 47183396,
+      "title": "Robust and efficient quantum-safe HTTPS",
+      "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+      "score": 7,
+      "by": "tptacek",
+      "time": 1772215128,
+      "comments": 0,
+      "domain": "security.googleblog.com"
+    },
+    {
       "id": 47167432,
       "title": "Hardwood: A New Parser for Apache Parquet",
       "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 30,
+      "score": 31,
       "by": "rmoff",
       "time": 1772119899,
-      "comments": 1,
+      "comments": 2,
       "domain": "morling.dev"
     },
     {
       "id": 47155526,
       "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "url": "https://github.com/ad-si/Woxi",
-      "score": 294,
+      "score": 295,
       "by": "adamnemecek",
       "time": 1772043886,
-      "comments": 118,
+      "comments": 119,
       "domain": "github.com"
     },
     {
       "id": 47195371,
       "title": "Addressing Antigravity Bans and Reinstating Access",
       "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 235,
+      "score": 237,
       "by": "RyanShook",
       "time": 1772286613,
-      "comments": 193,
+      "comments": 194,
       "domain": "github.com"
     },
     {
       "id": 47193064,
       "title": "MCP server that reduces Claude Code context consumption by 98%",
       "url": "https://mksg.lu/blog/context-mode",
-      "score": 384,
+      "score": 388,
       "by": "mksglu",
       "time": 1772272880,
       "comments": 82,
       "domain": "mksg.lu"
     },
     {
+      "id": 47172608,
+      "title": "Cracking the Python Monorepo",
+      "url": "https://gafni.dev/blog/cracking-the-python-monorepo/",
+      "score": 18,
+      "by": "amcvitty",
+      "time": 1772143548,
+      "comments": 4,
+      "domain": "gafni.dev"
+    },
+    {
       "id": 47199948,
       "title": "Our Agreement with the Department of War",
       "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 302,
+      "score": 307,
       "by": "surprisetalk",
       "time": 1772310929,
       "comments": 218,
@@ -182,20 +202,10 @@
       "domain": "gist.github.com"
     },
     {
-      "id": 47172608,
-      "title": "Cracking the Python Monorepo",
-      "url": "https://gafni.dev/blog/cracking-the-python-monorepo/",
-      "score": 15,
-      "by": "amcvitty",
-      "time": 1772143548,
-      "comments": 4,
-      "domain": "gafni.dev"
-    },
-    {
       "id": 47195123,
       "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
       "url": "https://nowigetit.us",
-      "score": 238,
+      "score": 239,
       "by": "jbdamask",
       "time": 1772285376,
       "comments": 106,
@@ -205,27 +215,27 @@
       "id": 47202864,
       "title": "The Science of Detecting LLM-Generated Text",
       "url": "https://dl.acm.org/doi/10.1145/3624725",
-      "score": 30,
+      "score": 32,
       "by": "vinhnx",
       "time": 1772330981,
-      "comments": 12,
+      "comments": 13,
       "domain": "dl.acm.org"
     },
     {
       "id": 47199781,
       "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
       "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "score": 356,
+      "score": 362,
       "by": "lostmsu",
       "time": 1772310000,
-      "comments": 201,
+      "comments": 202,
       "domain": "venturebeat.com"
     },
     {
       "id": 47154637,
       "title": "New evidence that Cantor plagiarized Dedekind?",
       "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
-      "score": 129,
+      "score": 130,
       "by": "rbanffy",
       "time": 1772040513,
       "comments": 77,
@@ -242,34 +252,24 @@
       "domain": "discourse.threejs.org"
     },
     {
-      "id": 47158834,
-      "title": "Deterministic Programming with LLMs",
-      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-      "score": 50,
-      "by": "todsacerdoti",
-      "time": 1772057849,
-      "comments": 25,
-      "domain": "mcherm.com"
-    },
-    {
       "id": 47200879,
       "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
       "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-      "score": 248,
+      "score": 256,
       "by": "andsoitis",
       "time": 1772316968,
-      "comments": 327,
+      "comments": 335,
       "domain": "npr.org"
     },
     {
-      "id": 47200828,
-      "title": "Building a Minimal Transformer for 10-digit Addition",
-      "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "score": 57,
-      "by": "kelseyfrog",
-      "time": 1772316621,
-      "comments": 9,
-      "domain": "alexlitzenberger.com"
+      "id": 47158834,
+      "title": "Deterministic Programming with LLMs",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "score": 51,
+      "by": "todsacerdoti",
+      "time": 1772057849,
+      "comments": 27,
+      "domain": "mcherm.com"
     },
     {
       "id": 47178051,
@@ -282,24 +282,24 @@
       "domain": "thenation.com"
     },
     {
-      "id": 47197505,
-      "title": "The whole thing was a scam",
-      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 808,
-      "by": "guilamu",
-      "time": 1772297509,
-      "comments": 251,
-      "domain": "garymarcus.substack.com"
-    },
-    {
       "id": 47202808,
       "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
       "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
-      "score": 120,
+      "score": 122,
       "by": "pabs3",
       "time": 1772330340,
       "comments": 28,
       "domain": "9to5google.com"
+    },
+    {
+      "id": 47200828,
+      "title": "Building a Minimal Transformer for 10-digit Addition",
+      "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+      "score": 57,
+      "by": "kelseyfrog",
+      "time": 1772316621,
+      "comments": 9,
+      "domain": "alexlitzenberger.com"
     }
   ]
 }
