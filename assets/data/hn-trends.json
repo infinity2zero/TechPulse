@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-03-01T17:47:04.176Z",
+  "lastUpdated": "2026-03-01T17:58:28.731Z",
   "items": [
     {
       "id": 47206009,
       "title": "Ghostty – Terminal Emulator",
       "url": "https://ghostty.org/docs",
-      "score": 253,
+      "score": 267,
       "by": "oli5679",
       "time": 1772367183,
-      "comments": 119,
+      "comments": 124,
       "domain": "ghostty.org"
-    },
-    {
-      "id": 47206824,
-      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-      "score": 308,
-      "by": "saikatsg",
-      "time": 1772374164,
-      "comments": 215,
-      "domain": "ivanturkovic.com"
     },
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1361,
+      "score": 1372,
       "by": "tambourine_man",
       "time": 1772329166,
-      "comments": 248,
+      "comments": 249,
       "domain": "karpathy.github.io"
     },
     {
-      "id": 47165965,
-      "title": "Long Range E-Bike",
-      "url": "https://jacquesmattheij.com/long-range-ebike/",
-      "score": 39,
-      "by": "birdculture",
-      "time": 1772113292,
-      "comments": 37,
-      "domain": "jacquesmattheij.com"
+      "id": 47208398,
+      "title": "MCP is dead. Long live the CLI",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "score": 14,
+      "by": "ejholmes",
+      "time": 1772384089,
+      "comments": 12,
+      "domain": "ejholmes.github.io"
+    },
+    {
+      "id": 47206824,
+      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "score": 322,
+      "by": "saikatsg",
+      "time": 1772374164,
+      "comments": 232,
+      "domain": "ivanturkovic.com"
     },
     {
       "id": 47207236,
       "title": "Why XML Tags Are So Fundamental to Claude",
       "url": "https://glthr.com/XML-fundamental-to-Claude",
-      "score": 51,
+      "score": 57,
       "by": "glth",
       "time": 1772376742,
-      "comments": 18,
+      "comments": 23,
       "domain": "glthr.com"
     },
     {
       "id": 47204964,
       "title": "Decision trees – the unreasonable power of nested decision rules",
       "url": "https://mlu-explain.github.io/decision-tree/",
-      "score": 262,
+      "score": 264,
       "by": "mschnell",
       "time": 1772355352,
       "comments": 45,
@@ -65,47 +65,37 @@
       "id": 47205890,
       "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
       "url": "https://99helpers.com/tools/ad-supported-chat",
-      "score": 264,
+      "score": 269,
       "by": "nickk81",
       "time": 1772365741,
-      "comments": 181,
+      "comments": 184,
       "domain": "99helpers.com"
-    },
-    {
-      "id": 47206798,
-      "title": "Ape Coding",
-      "url": "https://rsaksida.com/blog/ape-coding/",
-      "score": 113,
-      "by": "rmsaksida",
-      "time": 1772374025,
-      "comments": 54,
-      "domain": "rsaksida.com"
     },
     {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 693,
+      "score": 700,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 376,
+      "comments": 377,
       "domain": "twitter.com"
     },
     {
       "id": 47168405,
       "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
       "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
-      "score": 64,
+      "score": 65,
       "by": "ibobev",
       "time": 1772123947,
-      "comments": 24,
+      "comments": 25,
       "domain": "gimp.org"
     },
     {
       "id": 47205637,
       "title": "Flightradar24 for Ships",
       "url": "https://atlas.flexport.com/",
-      "score": 72,
+      "score": 76,
       "by": "chromy",
       "time": 1772362877,
       "comments": 24,
@@ -115,51 +105,51 @@
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
-      "score": 153,
+      "score": 154,
       "by": "vismit2000",
       "time": 1772350503,
       "comments": 37,
       "domain": "modernaicourse.org"
     },
     {
-      "id": 47208398,
-      "title": "MCP is dead. Long live the CLI",
-      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-      "score": 7,
-      "by": "ejholmes",
-      "time": 1772384089,
-      "comments": 1,
-      "domain": "ejholmes.github.io"
+      "id": 47151367,
+      "title": "Python Type Checker Comparison: Empty Container Inference",
+      "url": "https://pyrefly.org/blog/container-inference-comparison/",
+      "score": 5,
+      "by": "ocamoss",
+      "time": 1772027102,
+      "comments": 0,
+      "domain": "pyrefly.org"
     },
     {
       "id": 47207404,
       "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
       "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
-      "score": 65,
+      "score": 72,
       "by": "gradus_ad",
       "time": 1772377795,
-      "comments": 9,
+      "comments": 12,
       "domain": "sciencedaily.com"
+    },
+    {
+      "id": 47206798,
+      "title": "Ape Coding",
+      "url": "https://rsaksida.com/blog/ape-coding/",
+      "score": 115,
+      "by": "rmsaksida",
+      "time": 1772374025,
+      "comments": 55,
+      "domain": "rsaksida.com"
     },
     {
       "id": 47178758,
       "title": "Aromatic 5-silicon rings synthesized at last",
       "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
-      "score": 47,
+      "score": 48,
       "by": "keepamovin",
       "time": 1772187022,
-      "comments": 22,
+      "comments": 23,
       "domain": "cen.acs.org"
-    },
-    {
-      "id": 47207531,
-      "title": "Lil' Fun Langs' Guts",
-      "url": "https://taylor.town/scrapscript-001",
-      "score": 8,
-      "by": "surprisetalk",
-      "time": 1772378622,
-      "comments": 1,
-      "domain": "taylor.town"
     },
     {
       "id": 47165230,
@@ -172,24 +162,34 @@
       "domain": "vondra.me"
     },
     {
-      "id": 47204571,
-      "title": "Switch to Claude without starting over",
-      "url": "https://claude.com/import-memory",
-      "score": 413,
-      "by": "doener",
-      "time": 1772350612,
-      "comments": 204,
-      "domain": "claude.com"
-    },
-    {
       "id": 47205129,
       "title": "Why is the first C++ (m)allocation always 72 KB?",
       "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
-      "score": 92,
+      "score": 93,
       "by": "joelsiks",
       "time": 1772357254,
-      "comments": 17,
+      "comments": 18,
       "domain": "joelsiks.com"
+    },
+    {
+      "id": 47204571,
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "score": 416,
+      "by": "doener",
+      "time": 1772350612,
+      "comments": 206,
+      "domain": "claude.com"
+    },
+    {
+      "id": 47207531,
+      "title": "Lil' Fun Langs' Guts",
+      "url": "https://taylor.town/scrapscript-001",
+      "score": 9,
+      "by": "surprisetalk",
+      "time": 1772378622,
+      "comments": 1,
+      "domain": "taylor.town"
     },
     {
       "id": 47181542,
@@ -205,11 +205,21 @@
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 537,
+      "score": 539,
       "by": "adilmoujahid",
       "time": 1772296313,
-      "comments": 176,
+      "comments": 178,
       "domain": "help.obsidian.md"
+    },
+    {
+      "id": 47208423,
+      "title": "I Built a Scheme Compiler with AI in 4 Days",
+      "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
+      "score": 12,
+      "by": "MatthewPhillips",
+      "time": 1772384283,
+      "comments": 3,
+      "domain": "matthewphillips.info"
     },
     {
       "id": 47183396,
@@ -222,13 +232,33 @@
       "domain": "security.googleblog.com"
     },
     {
+      "id": 47207806,
+      "title": "Show HN: Audio Toolkit for Agents",
+      "url": "https://github.com/shiehn/sas-audio-processor",
+      "score": 4,
+      "by": "stevehiehn",
+      "time": 1772380322,
+      "comments": 1,
+      "domain": "github.com"
+    },
+    {
+      "id": 47182907,
+      "title": "Rydberg atoms detect clear signals from a handheld radio",
+      "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
+      "score": 58,
+      "by": "Brajeshwar",
+      "time": 1772212062,
+      "comments": 20,
+      "domain": "phys.org"
+    },
+    {
       "id": 47205659,
       "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
       "url": "https://lukeb42.github.io/vertex-manual.html",
       "score": 19,
       "by": "LukeB42",
       "time": 1772363128,
-      "comments": 13,
+      "comments": 14,
       "domain": "lukeb42.github.io"
     },
     {
@@ -238,34 +268,14 @@
       "score": 590,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 317,
+      "comments": 318,
       "domain": "ben-mini.com"
-    },
-    {
-      "id": 47182907,
-      "title": "Rydberg atoms detect clear signals from a handheld radio",
-      "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
-      "score": 55,
-      "by": "Brajeshwar",
-      "time": 1772212062,
-      "comments": 20,
-      "domain": "phys.org"
-    },
-    {
-      "id": 47208423,
-      "title": "I Built a Scheme Compiler with AI in 4 Days",
-      "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
-      "score": 7,
-      "by": "MatthewPhillips",
-      "time": 1772384283,
-      "comments": 2,
-      "domain": "matthewphillips.info"
     },
     {
       "id": 47193064,
       "title": "MCP server that reduces Claude Code context consumption by 98%",
       "url": "https://mksg.lu/blog/context-mode",
-      "score": 511,
+      "score": 515,
       "by": "mksglu",
       "time": 1772272880,
       "comments": 96,
@@ -275,7 +285,7 @@
       "id": 47164336,
       "title": "Pigeons and Planes Has a Website Again",
       "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-      "score": 30,
+      "score": 33,
       "by": "herbertl",
       "time": 1772103089,
       "comments": 3,
@@ -285,21 +295,11 @@
       "id": 47167432,
       "title": "Hardwood: A New Parser for Apache Parquet",
       "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 83,
+      "score": 84,
       "by": "rmoff",
       "time": 1772119899,
       "comments": 9,
       "domain": "morling.dev"
-    },
-    {
-      "id": 47163779,
-      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
-      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 122,
-      "by": "mrngm",
-      "time": 1772097537,
-      "comments": 34,
-      "domain": "inconspicuous.info"
     }
   ]
 }
