@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-03-01T14:44:26.034Z",
+  "lastUpdated": "2026-03-01T14:57:39.362Z",
   "items": [
     {
       "id": 47206824,
       "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
       "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-      "score": 49,
+      "score": 71,
       "by": "saikatsg",
       "time": 1772374164,
-      "comments": 33,
+      "comments": 46,
       "domain": "ivanturkovic.com"
     },
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1214,
+      "score": 1225,
       "by": "tambourine_man",
       "time": 1772329166,
       "comments": 213,
       "domain": "karpathy.github.io"
     },
     {
-      "id": 47205890,
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
-      "score": 172,
-      "by": "nickk81",
-      "time": 1772365741,
-      "comments": 110,
-      "domain": "99helpers.com"
-    },
-    {
       "id": 47206009,
       "title": "Ghostty – Terminal Emulator",
       "url": "https://ghostty.org/docs",
-      "score": 54,
+      "score": 67,
       "by": "oli5679",
       "time": 1772367183,
-      "comments": 7,
+      "comments": 13,
       "domain": "ghostty.org"
+    },
+    {
+      "id": 47205890,
+      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "score": 177,
+      "by": "nickk81",
+      "time": 1772365741,
+      "comments": 119,
+      "domain": "99helpers.com"
     },
     {
       "id": 47204964,
       "title": "Decision trees – the unreasonable power of nested decision rules",
       "url": "https://mlu-explain.github.io/decision-tree/",
-      "score": 198,
+      "score": 207,
       "by": "mschnell",
       "time": 1772355352,
-      "comments": 29,
+      "comments": 30,
       "domain": "mlu-explain.github.io"
     },
     {
       "id": 47168405,
-      "title": "Interview with Øyvind Kolås, GIMP developer",
+      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
       "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
-      "score": 38,
+      "score": 43,
       "by": "ibobev",
       "time": 1772123947,
       "comments": 5,
@@ -65,57 +65,57 @@
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 640,
+      "score": 644,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 342,
+      "comments": 345,
       "domain": "twitter.com"
     },
     {
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
-      "score": 118,
+      "score": 124,
       "by": "vismit2000",
       "time": 1772350503,
       "comments": 30,
       "domain": "modernaicourse.org"
     },
     {
-      "id": 47204571,
-      "title": "Switch to Claude without starting over",
-      "url": "https://claude.com/import-memory",
-      "score": 320,
-      "by": "doener",
-      "time": 1772350612,
-      "comments": 160,
-      "domain": "claude.com"
-    },
-    {
-      "id": 47205637,
-      "title": "Flightradar24 for Ships",
-      "url": "https://atlas.flexport.com/",
-      "score": 22,
-      "by": "chromy",
-      "time": 1772362877,
-      "comments": 12,
-      "domain": "atlas.flexport.com"
-    },
-    {
       "id": 47205129,
       "title": "Why is the first C++ (m)allocation always 72 KB?",
       "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
-      "score": 72,
+      "score": 76,
       "by": "joelsiks",
       "time": 1772357254,
       "comments": 9,
       "domain": "joelsiks.com"
     },
     {
+      "id": 47205637,
+      "title": "Flightradar24 for Ships",
+      "url": "https://atlas.flexport.com/",
+      "score": 27,
+      "by": "chromy",
+      "time": 1772362877,
+      "comments": 14,
+      "domain": "atlas.flexport.com"
+    },
+    {
+      "id": 47204571,
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "score": 334,
+      "by": "doener",
+      "time": 1772350612,
+      "comments": 168,
+      "domain": "claude.com"
+    },
+    {
       "id": 47181542,
       "title": "An ode to houseplant programming (2025)",
       "url": "https://hannahilea.com/blog/houseplant-programming/",
-      "score": 81,
+      "score": 83,
       "by": "evakhoury",
       "time": 1772205550,
       "comments": 14,
@@ -125,77 +125,87 @@
       "id": 47165230,
       "title": "The real cost of random I/O",
       "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
-      "score": 35,
+      "score": 37,
       "by": "jpineman",
       "time": 1772109528,
       "comments": 1,
       "domain": "vondra.me"
     },
     {
+      "id": 47205659,
+      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+      "url": "https://lukeb42.github.io/vertex-manual.html",
+      "score": 13,
+      "by": "LukeB42",
+      "time": 1772363128,
+      "comments": 8,
+      "domain": "lukeb42.github.io"
+    },
+    {
       "id": 47183396,
       "title": "Robust and efficient quantum-safe HTTPS",
       "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-      "score": 55,
+      "score": 57,
       "by": "tptacek",
       "time": 1772215128,
       "comments": 4,
       "domain": "security.googleblog.com"
     },
     {
-      "id": 47205659,
-      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
-      "url": "https://lukeb42.github.io/vertex-manual.html",
-      "score": 12,
-      "by": "LukeB42",
-      "time": 1772363128,
-      "comments": 7,
-      "domain": "lukeb42.github.io"
-    },
-    {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 520,
+      "score": 522,
       "by": "adilmoujahid",
       "time": 1772296313,
       "comments": 174,
       "domain": "help.obsidian.md"
     },
     {
+      "id": 47178758,
+      "title": "Aromatic 5-silicon rings synthesized at last",
+      "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+      "score": 5,
+      "by": "keepamovin",
+      "time": 1772187022,
+      "comments": 0,
+      "domain": "cen.acs.org"
+    },
+    {
       "id": 47182907,
       "title": "Rydberg atoms detect clear signals from a handheld radio",
       "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
-      "score": 34,
+      "score": 35,
       "by": "Brajeshwar",
       "time": 1772212062,
-      "comments": 13,
+      "comments": 15,
       "domain": "phys.org"
     },
     {
       "id": 47161759,
       "title": "The happiest I've ever been",
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 555,
+      "score": 557,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 300,
+      "comments": 302,
       "domain": "ben-mini.com"
     },
     {
       "id": 47198977,
       "title": "Block the “Upgrade to Tahoe” Alerts",
       "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 275,
+      "score": 277,
       "by": "todsacerdoti",
       "time": 1772305441,
-      "comments": 134,
+      "comments": 137,
       "domain": "robservatory.com"
     },
     {
       "id": 47167432,
       "title": "Hardwood: A New Parser for Apache Parquet",
       "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 62,
+      "score": 63,
       "by": "rmoff",
       "time": 1772119899,
       "comments": 8,
@@ -205,31 +215,41 @@
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 307,
+      "score": 309,
       "by": "ksec",
       "time": 1772317176,
       "comments": 222,
       "domain": "dl.acm.org"
     },
     {
-      "id": 47163779,
-      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
-      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 108,
-      "by": "mrngm",
-      "time": 1772097537,
-      "comments": 30,
-      "domain": "inconspicuous.info"
-    },
-    {
       "id": 47193064,
       "title": "MCP server that reduces Claude Code context consumption by 98%",
       "url": "https://mksg.lu/blog/context-mode",
-      "score": 463,
+      "score": 470,
       "by": "mksglu",
       "time": 1772272880,
       "comments": 92,
       "domain": "mksg.lu"
+    },
+    {
+      "id": 47163779,
+      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
+      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+      "score": 111,
+      "by": "mrngm",
+      "time": 1772097537,
+      "comments": 31,
+      "domain": "inconspicuous.info"
+    },
+    {
+      "id": 47155526,
+      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "url": "https://github.com/ad-si/Woxi",
+      "score": 308,
+      "by": "adamnemecek",
+      "time": 1772043886,
+      "comments": 124,
+      "domain": "github.com"
     },
     {
       "id": 47152448,
@@ -242,16 +262,6 @@
       "domain": "nature.com"
     },
     {
-      "id": 47155526,
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "url": "https://github.com/ad-si/Woxi",
-      "score": 307,
-      "by": "adamnemecek",
-      "time": 1772043886,
-      "comments": 124,
-      "domain": "github.com"
-    },
-    {
       "id": 47164336,
       "title": "Pigeons and Planes Has a Website Again",
       "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
@@ -262,43 +272,33 @@
       "domain": "pigeonsandplanes.com"
     },
     {
-      "id": 47206820,
-      "title": "Pentagon Adopts Incel-Speak",
-      "url": "https://www.theguardian.com/science/2026/mar/01/incel-slang-mainstream-government-media",
-      "score": 10,
-      "by": "zabzonk",
-      "time": 1772374146,
-      "comments": 0,
-      "domain": "theguardian.com"
-    },
-    {
-      "id": 47199948,
-      "title": "Our Agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 337,
-      "by": "surprisetalk",
-      "time": 1772310929,
-      "comments": 242,
-      "domain": "openai.com"
-    },
-    {
       "id": 47195123,
       "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
       "url": "https://nowigetit.us",
-      "score": 256,
+      "score": 257,
       "by": "jbdamask",
       "time": 1772285376,
       "comments": 120,
       "domain": "nowigetit.us"
     },
     {
+      "id": 47199948,
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "score": 339,
+      "by": "surprisetalk",
+      "time": 1772310929,
+      "comments": 244,
+      "domain": "openai.com"
+    },
+    {
       "id": 47195371,
       "title": "Addressing Antigravity Bans and Reinstating Access",
       "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 244,
+      "score": 245,
       "by": "RyanShook",
       "time": 1772286613,
-      "comments": 209,
+      "comments": 211,
       "domain": "github.com"
     }
   ]
