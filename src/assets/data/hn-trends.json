@@ -1,75 +1,255 @@
 {
-  "lastUpdated": "2026-03-01T07:02:39.075Z",
+  "lastUpdated": "2026-03-01T07:38:15.040Z",
   "items": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 526,
+      "score": 589,
       "by": "tambourine_man",
       "time": 1772329166,
-      "comments": 90,
+      "comments": 107,
       "domain": "karpathy.github.io"
     },
     {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 454,
+      "score": 473,
       "by": "golfer",
       "time": 1772313856,
-      "comments": 206,
+      "comments": 227,
       "domain": "twitter.com"
     },
     {
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 222,
+      "score": 231,
       "by": "ksec",
       "time": 1772317176,
-      "comments": 132,
+      "comments": 137,
       "domain": "dl.acm.org"
     },
     {
       "id": 47152448,
       "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
       "url": "https://www.nature.com/articles/s41586-026-10114-5",
-      "score": 34,
+      "score": 43,
       "by": "zdw",
       "time": 1772031680,
       "comments": 8,
       "domain": "nature.com"
     },
     {
-      "id": 47161759,
-      "title": "The happiest I've ever been",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 431,
-      "by": "bewal416",
-      "time": 1772079227,
-      "comments": 218,
-      "domain": "ben-mini.com"
-    },
-    {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 451,
+      "score": 455,
       "by": "adilmoujahid",
       "time": 1772296313,
-      "comments": 154,
+      "comments": 158,
       "domain": "help.obsidian.md"
+    },
+    {
+      "id": 47161759,
+      "title": "The happiest I've ever been",
+      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "score": 440,
+      "by": "bewal416",
+      "time": 1772079227,
+      "comments": 223,
+      "domain": "ben-mini.com"
     },
     {
       "id": 47163779,
       "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
       "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 64,
+      "score": 71,
       "by": "mrngm",
       "time": 1772097537,
-      "comments": 14,
+      "comments": 16,
       "domain": "inconspicuous.info"
+    },
+    {
+      "id": 47167432,
+      "title": "Hardwood: A New Parser for Apache Parquet",
+      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+      "score": 17,
+      "by": "rmoff",
+      "time": 1772119899,
+      "comments": 0,
+      "domain": "morling.dev"
+    },
+    {
+      "id": 47198977,
+      "title": "Block the “Upgrade to Tahoe” Alerts",
+      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "score": 199,
+      "by": "todsacerdoti",
+      "time": 1772305441,
+      "comments": 96,
+      "domain": "robservatory.com"
+    },
+    {
+      "id": 47155526,
+      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "url": "https://github.com/ad-si/Woxi",
+      "score": 278,
+      "by": "adamnemecek",
+      "time": 1772043886,
+      "comments": 114,
+      "domain": "github.com"
+    },
+    {
+      "id": 47195371,
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "score": 228,
+      "by": "RyanShook",
+      "time": 1772286613,
+      "comments": 189,
+      "domain": "github.com"
+    },
+    {
+      "id": 47197595,
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "score": 174,
+      "by": "todsacerdoti",
+      "time": 1772297934,
+      "comments": 94,
+      "domain": "gist.github.com"
+    },
+    {
+      "id": 47193064,
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "url": "https://mksg.lu/blog/context-mode",
+      "score": 341,
+      "by": "mksglu",
+      "time": 1772272880,
+      "comments": 76,
+      "domain": "mksg.lu"
+    },
+    {
+      "id": 47195123,
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "url": "https://nowigetit.us",
+      "score": 227,
+      "by": "jbdamask",
+      "time": 1772285376,
+      "comments": 102,
+      "domain": "nowigetit.us"
+    },
+    {
+      "id": 47199781,
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "score": 322,
+      "by": "lostmsu",
+      "time": 1772310000,
+      "comments": 193,
+      "domain": "venturebeat.com"
+    },
+    {
+      "id": 47157265,
+      "title": "SpacetimeDB ThreeJS Support",
+      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
+      "score": 16,
+      "by": "ryker2000",
+      "time": 1772050821,
+      "comments": 5,
+      "domain": "discourse.threejs.org"
+    },
+    {
+      "id": 47154637,
+      "title": "New evidence that Cantor plagiarized Dedekind?",
+      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+      "score": 120,
+      "by": "rbanffy",
+      "time": 1772040513,
+      "comments": 76,
+      "domain": "quantamagazine.org"
+    },
+    {
+      "id": 47200828,
+      "title": "Building a Minimal Transformer for 10-digit Addition",
+      "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+      "score": 51,
+      "by": "kelseyfrog",
+      "time": 1772316621,
+      "comments": 7,
+      "domain": "alexlitzenberger.com"
+    },
+    {
+      "id": 47199948,
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "score": 276,
+      "by": "surprisetalk",
+      "time": 1772310929,
+      "comments": 211,
+      "domain": "openai.com"
+    },
+    {
+      "id": 47178051,
+      "title": "Werner Herzog Between Fact and Fiction",
+      "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+      "score": 74,
+      "by": "Hooke",
+      "time": 1772180865,
+      "comments": 14,
+      "domain": "thenation.com"
+    },
+    {
+      "id": 47202864,
+      "title": "The Science of Detecting LLM-Generated Text",
+      "url": "https://dl.acm.org/doi/10.1145/3624725",
+      "score": 16,
+      "by": "vinhnx",
+      "time": 1772330981,
+      "comments": 2,
+      "domain": "dl.acm.org"
+    },
+    {
+      "id": 47158834,
+      "title": "Deterministic Programming with LLMs",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "score": 42,
+      "by": "todsacerdoti",
+      "time": 1772057849,
+      "comments": 24,
+      "domain": "mcherm.com"
+    },
+    {
+      "id": 47197505,
+      "title": "The whole thing was a scam",
+      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "score": 744,
+      "by": "guilamu",
+      "time": 1772297509,
+      "comments": 227,
+      "domain": "garymarcus.substack.com"
+    },
+    {
+      "id": 47152835,
+      "title": "The archivist preserving decaying floppy disks",
+      "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+      "score": 67,
+      "by": "Brajeshwar",
+      "time": 1772033332,
+      "comments": 12,
+      "domain": "popsci.com"
+    },
+    {
+      "id": 47202808,
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "score": 89,
+      "by": "pabs3",
+      "time": 1772330340,
+      "comments": 20,
+      "domain": "9to5google.com"
     },
     {
       "id": 47201816,
@@ -78,228 +258,48 @@
       "score": 54,
       "by": "jawiggins",
       "time": 1772322281,
-      "comments": 38,
+      "comments": 48,
       "domain": "github.com"
-    },
-    {
-      "id": 47198977,
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 190,
-      "by": "todsacerdoti",
-      "time": 1772305441,
-      "comments": 86,
-      "domain": "robservatory.com"
-    },
-    {
-      "id": 47155526,
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "url": "https://github.com/ad-si/Woxi",
-      "score": 273,
-      "by": "adamnemecek",
-      "time": 1772043886,
-      "comments": 112,
-      "domain": "github.com"
-    },
-    {
-      "id": 47195371,
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 227,
-      "by": "RyanShook",
-      "time": 1772286613,
-      "comments": 187,
-      "domain": "github.com"
-    },
-    {
-      "id": 47197595,
-      "title": "Verified Spec-Driven Development (VSDD)",
-      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-      "score": 171,
-      "by": "todsacerdoti",
-      "time": 1772297934,
-      "comments": 90,
-      "domain": "gist.github.com"
-    },
-    {
-      "id": 47193064,
-      "title": "MCP server that reduces Claude Code context consumption by 98%",
-      "url": "https://mksg.lu/blog/context-mode",
-      "score": 331,
-      "by": "mksglu",
-      "time": 1772272880,
-      "comments": 71,
-      "domain": "mksg.lu"
-    },
-    {
-      "id": 47167432,
-      "title": "Hardwood: A New Parser for Apache Parquet",
-      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 10,
-      "by": "rmoff",
-      "time": 1772119899,
-      "comments": 0,
-      "domain": "morling.dev"
-    },
-    {
-      "id": 47195123,
-      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "url": "https://nowigetit.us",
-      "score": 224,
-      "by": "jbdamask",
-      "time": 1772285376,
-      "comments": 100,
-      "domain": "nowigetit.us"
-    },
-    {
-      "id": 47199781,
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "score": 308,
-      "by": "lostmsu",
-      "time": 1772310000,
-      "comments": 188,
-      "domain": "venturebeat.com"
-    },
-    {
-      "id": 47157265,
-      "title": "SpacetimeDB ThreeJS Support",
-      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
-      "score": 13,
-      "by": "ryker2000",
-      "time": 1772050821,
-      "comments": 4,
-      "domain": "discourse.threejs.org"
-    },
-    {
-      "id": 47200828,
-      "title": "Building a Minimal Transformer for 10-digit Addition",
-      "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "score": 50,
-      "by": "kelseyfrog",
-      "time": 1772316621,
-      "comments": 7,
-      "domain": "alexlitzenberger.com"
-    },
-    {
-      "id": 47154637,
-      "title": "New evidence that Cantor plagiarized Dedekind?",
-      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
-      "score": 119,
-      "by": "rbanffy",
-      "time": 1772040513,
-      "comments": 75,
-      "domain": "quantamagazine.org"
-    },
-    {
-      "id": 47178051,
-      "title": "Werner Herzog Between Fact and Fiction",
-      "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
-      "score": 73,
-      "by": "Hooke",
-      "time": 1772180865,
-      "comments": 14,
-      "domain": "thenation.com"
-    },
-    {
-      "id": 47197505,
-      "title": "The whole thing was a scam",
-      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 733,
-      "by": "guilamu",
-      "time": 1772297509,
-      "comments": 219,
-      "domain": "garymarcus.substack.com"
-    },
-    {
-      "id": 47202864,
-      "title": "The Science of Detecting LLM-Generated Text",
-      "url": "https://dl.acm.org/doi/10.1145/3624725",
-      "score": 14,
-      "by": "vinhnx",
-      "time": 1772330981,
-      "comments": 2,
-      "domain": "dl.acm.org"
-    },
-    {
-      "id": 47202808,
-      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
-      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
-      "score": 84,
-      "by": "pabs3",
-      "time": 1772330340,
-      "comments": 16,
-      "domain": "9to5google.com"
-    },
-    {
-      "id": 47199948,
-      "title": "Our Agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 271,
-      "by": "surprisetalk",
-      "time": 1772310929,
-      "comments": 211,
-      "domain": "openai.com"
-    },
-    {
-      "id": 47152835,
-      "title": "The archivist preserving decaying floppy disks",
-      "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
-      "score": 63,
-      "by": "Brajeshwar",
-      "time": 1772033332,
-      "comments": 12,
-      "domain": "popsci.com"
-    },
-    {
-      "id": 47158834,
-      "title": "Deterministic Programming with LLMs",
-      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-      "score": 39,
-      "by": "todsacerdoti",
-      "time": 1772057849,
-      "comments": 22,
-      "domain": "mcherm.com"
     },
     {
       "id": 47147597,
       "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
       "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
-      "score": 261,
+      "score": 266,
       "by": "dinvlad",
       "time": 1771996449,
-      "comments": 173,
+      "comments": 174,
       "domain": "ivanturkovic.com"
     },
     {
       "id": 47192505,
       "title": "Unsloth Dynamic 2.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
-      "score": 218,
+      "score": 220,
       "by": "tosh",
       "time": 1772268993,
       "comments": 61,
       "domain": "unsloth.ai"
     },
     {
-      "id": 47182986,
-      "title": "747s and Coding Agents",
-      "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-      "score": 142,
-      "by": "cckolon",
-      "time": 1772212920,
-      "comments": 67,
-      "domain": "carlkolon.com"
+      "id": 47155235,
+      "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+      "url": "https://superchartisland.com/ghostsn-goblins/",
+      "score": 70,
+      "by": "elvis70",
+      "time": 1772042829,
+      "comments": 26,
+      "domain": "superchartisland.com"
     },
     {
-      "id": 47202614,
-      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
-      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-      "score": 55,
-      "by": "mindcrime",
-      "time": 1772328294,
-      "comments": 11,
-      "domain": "amd.com"
+      "id": 47191232,
+      "title": "The United States and Israel have launched a major attack on Iran",
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "score": 1102,
+      "by": "lavp",
+      "time": 1772260447,
+      "comments": 2389,
+      "domain": "cnn.com"
     }
   ]
 }
