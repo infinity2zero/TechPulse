@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-01T11:51:51.441Z",
+  "lastUpdated": "2026-03-01T11:59:14.932Z",
   "items": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 960,
+      "score": 969,
       "by": "tambourine_man",
       "time": 1772329166,
-      "comments": 164,
+      "comments": 166,
       "domain": "karpathy.github.io"
     },
     {
       "id": 47204964,
       "title": "Decision trees – the unreasonable power of nested decision rules",
       "url": "https://mlu-explain.github.io/decision-tree/",
-      "score": 95,
+      "score": 106,
       "by": "mschnell",
       "time": 1772355352,
-      "comments": 7,
+      "comments": 8,
       "domain": "mlu-explain.github.io"
     },
     {
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
-      "score": 70,
+      "score": 75,
       "by": "vismit2000",
       "time": 1772350503,
       "comments": 14,
@@ -35,7 +35,7 @@
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 581,
+      "score": 585,
       "by": "golfer",
       "time": 1772313856,
       "comments": 293,
@@ -48,28 +48,18 @@
       "score": 37,
       "by": "joelsiks",
       "time": 1772357254,
-      "comments": 1,
+      "comments": 3,
       "domain": "joelsiks.com"
     },
     {
       "id": 47183396,
       "title": "Robust and efficient quantum-safe HTTPS",
       "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-      "score": 29,
+      "score": 31,
       "by": "tptacek",
       "time": 1772215128,
-      "comments": 1,
+      "comments": 2,
       "domain": "security.googleblog.com"
-    },
-    {
-      "id": 47205127,
-      "title": "Show HN: Terminal-Style Portfolio on the Internet",
-      "url": "https://kuber.studio/",
-      "score": 16,
-      "by": "kuberwastaken",
-      "time": 1772357219,
-      "comments": 9,
-      "domain": "kuber.studio"
     },
     {
       "id": 47181542,
@@ -82,24 +72,44 @@
       "domain": "hannahilea.com"
     },
     {
+      "id": 47205127,
+      "title": "Show HN: Terminal-Style Portfolio on the Internet",
+      "url": "https://kuber.studio/",
+      "score": 16,
+      "by": "kuberwastaken",
+      "time": 1772357219,
+      "comments": 9,
+      "domain": "kuber.studio"
+    },
+    {
       "id": 47161759,
       "title": "The happiest I've ever been",
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 517,
+      "score": 518,
       "by": "bewal416",
       "time": 1772079227,
-      "comments": 264,
+      "comments": 266,
       "domain": "ben-mini.com"
     },
     {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
-      "score": 493,
+      "score": 496,
       "by": "adilmoujahid",
       "time": 1772296313,
       "comments": 169,
       "domain": "help.obsidian.md"
+    },
+    {
+      "id": 47204571,
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "score": 178,
+      "by": "doener",
+      "time": 1772350612,
+      "comments": 121,
+      "domain": "claude.com"
     },
     {
       "id": 47200904,
@@ -108,28 +118,28 @@
       "score": 287,
       "by": "ksec",
       "time": 1772317176,
-      "comments": 192,
+      "comments": 195,
       "domain": "dl.acm.org"
-    },
-    {
-      "id": 47204571,
-      "title": "Switch to Claude without starting over",
-      "url": "https://claude.com/import-memory",
-      "score": 174,
-      "by": "doener",
-      "time": 1772350612,
-      "comments": 120,
-      "domain": "claude.com"
     },
     {
       "id": 47163779,
       "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
       "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 96,
+      "score": 97,
       "by": "mrngm",
       "time": 1772097537,
       "comments": 29,
       "domain": "inconspicuous.info"
+    },
+    {
+      "id": 47198977,
+      "title": "Block the “Upgrade to Tahoe” Alerts",
+      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "score": 249,
+      "by": "todsacerdoti",
+      "time": 1772305441,
+      "comments": 120,
+      "domain": "robservatory.com"
     },
     {
       "id": 47152448,
@@ -142,40 +152,20 @@
       "domain": "nature.com"
     },
     {
-      "id": 47198977,
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 248,
-      "by": "todsacerdoti",
-      "time": 1772305441,
-      "comments": 119,
-      "domain": "robservatory.com"
-    },
-    {
       "id": 47167432,
       "title": "Hardwood: A New Parser for Apache Parquet",
       "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "score": 43,
+      "score": 44,
       "by": "rmoff",
       "time": 1772119899,
       "comments": 2,
       "domain": "morling.dev"
     },
     {
-      "id": 47165230,
-      "title": "The real cost of random I/O",
-      "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
-      "score": 4,
-      "by": "jpineman",
-      "time": 1772109528,
-      "comments": 0,
-      "domain": "vondra.me"
-    },
-    {
       "id": 47155526,
       "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
       "url": "https://github.com/ad-si/Woxi",
-      "score": 299,
+      "score": 300,
       "by": "adamnemecek",
       "time": 1772043886,
       "comments": 121,
@@ -185,11 +175,21 @@
       "id": 47193064,
       "title": "MCP server that reduces Claude Code context consumption by 98%",
       "url": "https://mksg.lu/blog/context-mode",
-      "score": 418,
+      "score": 420,
       "by": "mksglu",
       "time": 1772272880,
-      "comments": 84,
+      "comments": 86,
       "domain": "mksg.lu"
+    },
+    {
+      "id": 47165230,
+      "title": "The real cost of random I/O",
+      "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+      "score": 5,
+      "by": "jpineman",
+      "time": 1772109528,
+      "comments": 0,
+      "domain": "vondra.me"
     },
     {
       "id": 47195371,
@@ -202,44 +202,34 @@
       "domain": "github.com"
     },
     {
-      "id": 47199948,
-      "title": "Our Agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "score": 316,
-      "by": "surprisetalk",
-      "time": 1772310929,
-      "comments": 225,
-      "domain": "openai.com"
-    },
-    {
       "id": 47195123,
       "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
       "url": "https://nowigetit.us",
-      "score": 245,
+      "score": 246,
       "by": "jbdamask",
       "time": 1772285376,
       "comments": 107,
       "domain": "nowigetit.us"
     },
     {
+      "id": 47199948,
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "score": 317,
+      "by": "surprisetalk",
+      "time": 1772310929,
+      "comments": 226,
+      "domain": "openai.com"
+    },
+    {
       "id": 47197595,
       "title": "Verified Spec-Driven Development (VSDD)",
       "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-      "score": 191,
+      "score": 193,
       "by": "todsacerdoti",
       "time": 1772297934,
       "comments": 103,
       "domain": "gist.github.com"
-    },
-    {
-      "id": 47164336,
-      "title": "Pigeons and Planes Has a Website Again",
-      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-      "score": 5,
-      "by": "herbertl",
-      "time": 1772103089,
-      "comments": 1,
-      "domain": "pigeonsandplanes.com"
     },
     {
       "id": 47157265,
@@ -252,10 +242,20 @@
       "domain": "discourse.threejs.org"
     },
     {
+      "id": 47164336,
+      "title": "Pigeons and Planes Has a Website Again",
+      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+      "score": 5,
+      "by": "herbertl",
+      "time": 1772103089,
+      "comments": 1,
+      "domain": "pigeonsandplanes.com"
+    },
+    {
       "id": 47199781,
       "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
       "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "score": 387,
+      "score": 388,
       "by": "lostmsu",
       "time": 1772310000,
       "comments": 210,
@@ -265,10 +265,10 @@
       "id": 47200879,
       "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
       "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-      "score": 303,
+      "score": 306,
       "by": "andsoitis",
       "time": 1772316968,
-      "comments": 424,
+      "comments": 432,
       "domain": "npr.org"
     },
     {
@@ -295,10 +295,10 @@
       "id": 47197505,
       "title": "The whole thing was a scam",
       "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 852,
+      "score": 855,
       "by": "guilamu",
       "time": 1772297509,
-      "comments": 264,
+      "comments": 265,
       "domain": "garymarcus.substack.com"
     }
   ]
