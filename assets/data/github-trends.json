@@ -1,122 +1,135 @@
 {
-  "lastUpdated": "2026-03-02T06:03:12.044Z",
+  "lastUpdated": "2026-03-02T07:11:03.732Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 8067,
+      "stars": 8189,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-02T06:03:07Z"
+      "updated_at": "2026-03-02T07:10:53Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4991,
+      "stars": 5000,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-03-02T05:43:43Z"
+      "updated_at": "2026-03-02T06:55:17Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 3936,
+      "stars": 4098,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-03-02T06:03:01Z"
+      "updated_at": "2026-03-02T07:11:02Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 3575,
+      "stars": 3606,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-03-02T06:02:17Z"
+      "updated_at": "2026-03-02T07:09:18Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 1929,
+      "stars": 2011,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-02T06:02:57Z"
+      "updated_at": "2026-03-02T07:10:49Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1721,
+      "stars": 1728,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-03-02T05:54:34Z"
+      "updated_at": "2026-03-02T07:10:57Z"
     },
     {
       "id": 1165733654,
       "name": "Polymarket/polymarket-cli",
       "description": null,
-      "stars": 1421,
+      "stars": 1426,
       "language": "Rust",
       "url": "https://github.com/Polymarket/polymarket-cli",
       "owner": {
         "login": "Polymarket",
         "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
       },
-      "updated_at": "2026-03-02T05:47:01Z"
+      "updated_at": "2026-03-02T07:07:32Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1097,
+      "stars": 1101,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-02T06:00:07Z"
+      "updated_at": "2026-03-02T07:01:07Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 1046,
+      "stars": 1080,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-02T06:02:58Z"
+      "updated_at": "2026-03-02T07:10:29Z"
+    },
+    {
+      "id": 1167209519,
+      "name": "ringhyacinth/Star-Office-UI",
+      "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+      "stars": 970,
+      "language": "HTML",
+      "url": "https://github.com/ringhyacinth/Star-Office-UI",
+      "owner": {
+        "login": "ringhyacinth",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
+      },
+      "updated_at": "2026-03-02T07:07:55Z"
     },
     {
       "id": 1166020413,
@@ -132,134 +145,121 @@
       "updated_at": "2026-03-02T05:53:40Z"
     },
     {
-      "id": 1167209519,
-      "name": "ringhyacinth/Star-Office-UI",
-      "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 937,
-      "language": "HTML",
-      "url": "https://github.com/ringhyacinth/Star-Office-UI",
-      "owner": {
-        "login": "ringhyacinth",
-        "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
-      },
-      "updated_at": "2026-03-02T06:02:26Z"
-    },
-    {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 821,
+      "stars": 824,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-02T05:38:06Z"
+      "updated_at": "2026-03-02T07:06:12Z"
     },
     {
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 792,
+      "stars": 795,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-02T05:59:01Z"
+      "updated_at": "2026-03-02T07:07:18Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 766,
+      "stars": 770,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-03-02T05:38:20Z"
+      "updated_at": "2026-03-02T07:08:22Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 746,
+      "stars": 752,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-03-02T05:54:28Z"
+      "updated_at": "2026-03-02T07:04:49Z"
     },
     {
       "id": 1165265099,
       "name": "rebane2001/x86CSS",
       "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
-      "stars": 679,
+      "stars": 680,
       "language": "HTML",
       "url": "https://github.com/rebane2001/x86CSS",
       "owner": {
         "login": "rebane2001",
         "avatar_url": "https://avatars.githubusercontent.com/u/6316541?v=4"
       },
-      "updated_at": "2026-03-02T05:50:19Z"
+      "updated_at": "2026-03-02T06:13:31Z"
     },
     {
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and RStudio/JupyterLab integration. | 开源生物医学 AI 研究助手，对话即可驱动转录组、药物发现、临床分析等工作流，集成 140 个科学技能与实时研究看板。",
-      "stars": 648,
+      "stars": 650,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-03-02T05:57:57Z"
+      "updated_at": "2026-03-02T06:55:23Z"
     },
     {
       "id": 1167284837,
       "name": "6551Team/opennews-mcp",
       "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
-      "stars": 581,
+      "stars": 584,
       "language": "Python",
       "url": "https://github.com/6551Team/opennews-mcp",
       "owner": {
         "login": "6551Team",
         "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
       },
-      "updated_at": "2026-03-02T05:48:53Z"
-    },
-    {
-      "id": 1168261320,
-      "name": "xstongxue/best-prompts",
-      "description": "通用高质量 Prompt 合集🔥",
-      "stars": 508,
-      "language": null,
-      "url": "https://github.com/xstongxue/best-prompts",
-      "owner": {
-        "login": "xstongxue",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
-      },
-      "updated_at": "2026-03-02T04:01:02Z"
+      "updated_at": "2026-03-02T06:54:21Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 504,
+      "stars": 521,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-02T06:00:51Z"
+      "updated_at": "2026-03-02T07:09:55Z"
+    },
+    {
+      "id": 1168261320,
+      "name": "xstongxue/best-prompts",
+      "description": "通用高质量 Prompt 合集🔥",
+      "stars": 511,
+      "language": null,
+      "url": "https://github.com/xstongxue/best-prompts",
+      "owner": {
+        "login": "xstongxue",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
+      },
+      "updated_at": "2026-03-02T06:49:18Z"
     }
   ]
 }
