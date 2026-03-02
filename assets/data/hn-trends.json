@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-02T17:12:04.963Z",
+  "lastUpdated": "2026-03-02T17:58:42.412Z",
   "items": [
-    {
-      "id": 47218288,
-      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
-      "url": "https://github.com/anthropics/claude-code/issues/22543",
-      "score": 243,
-      "by": "mystcb",
-      "time": 1772461279,
-      "comments": 110,
-      "domain": "github.com"
-    },
     {
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
       "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 1422,
+      "score": 1513,
       "by": "km",
       "time": 1772434087,
-      "comments": 488,
+      "comments": 535,
       "domain": "motorolanews.com"
+    },
+    {
+      "id": 47218175,
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "score": 127,
+      "by": "Garbage",
+      "time": 1772460683,
+      "comments": 156,
+      "domain": "apple.com"
     },
     {
       "id": 47218743,
       "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
       "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "score": 64,
+      "score": 89,
       "by": "gmays",
       "time": 1772463298,
       "comments": 6,
@@ -33,243 +33,243 @@
     },
     {
       "id": 47215489,
-      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
       "url": "https://e.foundation/e-os/",
-      "score": 493,
+      "score": 522,
       "by": "doener",
       "time": 1772442584,
-      "comments": 272,
+      "comments": 292,
       "domain": "e.foundation"
     },
     {
-      "id": 47218318,
-      "title": "Parallel coding agents with tmux and Markdown specs",
-      "url": "https://schipper.ai/posts/parallel-coding-agents/",
-      "score": 23,
-      "by": "schipperai",
-      "time": 1772461455,
-      "comments": 4,
-      "domain": "schipper.ai"
-    },
-    {
-      "id": 47167058,
-      "title": "Use the Mikado Method to do safe changes in a complex codebase",
-      "url": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
-      "score": 56,
-      "by": "foenix",
-      "time": 1772118214,
-      "comments": 21,
-      "domain": "understandlegacycode.com"
-    },
-    {
-      "id": 47214864,
-      "title": "How to talk to anyone and why you should",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "score": 355,
-      "by": "Looky1173",
-      "time": 1772436612,
-      "comments": 428,
-      "domain": "theguardian.com"
-    },
-    {
-      "id": 47219688,
-      "title": "Notes on Lagrange Interpolating Polynomials",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
-      "score": 10,
-      "by": "ibobev",
-      "time": 1772467280,
-      "comments": 4,
-      "domain": "eli.thegreenplace.net"
-    },
-    {
-      "id": 47194630,
-      "title": "Why Objective-C",
-      "url": "https://inessential.com/2026/02/27/why-objective-c.html",
-      "score": 45,
-      "by": "ingve",
-      "time": 1772282493,
-      "comments": 32,
-      "domain": "inessential.com"
-    },
-    {
-      "id": 47208573,
-      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-      "score": 108,
-      "by": "zdw",
-      "time": 1772385104,
-      "comments": 35,
-      "domain": "maderix.substack.com"
+      "id": 47220809,
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "url": "https://govbase.com",
+      "score": 22,
+      "by": "foxfoxx",
+      "time": 1772471333,
+      "comments": 9,
+      "domain": "govbase.com"
     },
     {
       "id": 47219558,
       "title": "Felix \"fx\" Lindner has died",
       "url": "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix",
-      "score": 15,
+      "score": 50,
       "by": "is_taken",
       "time": 1772466803,
-      "comments": 1,
+      "comments": 5,
       "domain": "blog.recurity-labs.com"
     },
     {
-      "id": 47188401,
-      "title": "Zclaw – The 888 KiB Assistant",
-      "url": "https://zclaw.dev",
-      "score": 14,
-      "by": "kristianpaul",
-      "time": 1772239659,
-      "comments": 4,
-      "domain": "zclaw.dev"
-    },
-    {
-      "id": 47218188,
-      "title": "An Interesting Find: STM32 RDP1 Decryptor",
-      "url": "https://carlossless.io/stm32-rdp1-decryptor/",
-      "score": 50,
-      "by": "carlossless",
-      "time": 1772460738,
-      "comments": 9,
-      "domain": "carlossless.io"
-    },
-    {
-      "id": 47216047,
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "score": 672,
-      "by": "robtherobber",
-      "time": 1772446986,
-      "comments": 261,
-      "domain": "windowslatest.com"
-    },
-    {
-      "id": 47176576,
-      "title": "Making Video Games in 2025 (without an engine)",
-      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
-      "score": 312,
-      "by": "alvivar",
-      "time": 1772167095,
-      "comments": 144,
-      "domain": "noelberry.ca"
-    },
-    {
-      "id": 47217402,
-      "title": "AMD Am386 released March 2, 1991",
-      "url": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "score": 60,
-      "by": "jnord",
-      "time": 1772456206,
+      "id": 47218318,
+      "title": "Parallel coding agents with tmux and Markdown specs",
+      "url": "https://schipper.ai/posts/parallel-coding-agents/",
+      "score": 36,
+      "by": "schipperai",
+      "time": 1772461455,
       "comments": 10,
-      "domain": "dfarq.homeip.net"
+      "domain": "schipper.ai"
     },
     {
-      "id": 47217812,
-      "title": "OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub",
-      "url": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
-      "score": 182,
-      "by": "whit537",
-      "time": 1772458682,
-      "comments": 182,
-      "domain": "star-history.com"
+      "id": 47194630,
+      "title": "Why Objective-C",
+      "url": "https://inessential.com/2026/02/27/why-objective-c.html",
+      "score": 65,
+      "by": "ingve",
+      "time": 1772282493,
+      "comments": 51,
+      "domain": "inessential.com"
     },
     {
-      "id": 47218364,
-      "title": "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
-      "url": "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/",
-      "score": 111,
-      "by": "gmays",
-      "time": 1772461721,
-      "comments": 90,
-      "domain": "northdakotamonitor.com"
-    },
-    {
-      "id": 47212355,
-      "title": "If AI writes code, should the session be part of the commit?",
-      "url": "https://github.com/mandel-macaque/memento",
-      "score": 412,
-      "by": "mandel_x",
-      "time": 1772411272,
-      "comments": 352,
-      "domain": "github.com"
-    },
-    {
-      "id": 47215427,
-      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
-      "url": "https://github.com/getomnico/omni",
-      "score": 115,
-      "by": "prvnsmpth",
-      "time": 1772441894,
-      "comments": 33,
-      "domain": "github.com"
-    },
-    {
-      "id": 47181656,
-      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-      "score": 137,
-      "by": "Tomte",
-      "time": 1772206137,
-      "comments": 69,
-      "domain": "copyrightlately.com"
-    },
-    {
-      "id": 47220057,
-      "title": "Show HN: I turned Claude Code into a personal assistant",
-      "url": "https://github.com/daxaur/openpaw",
-      "score": 6,
-      "by": "daxaur",
-      "time": 1772468540,
-      "comments": 1,
-      "domain": "github.com"
-    },
-    {
-      "id": 47216037,
-      "title": "Jolla phone – a full-stack European alternative",
-      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-      "score": 364,
-      "by": "spinningslate",
-      "time": 1772446884,
-      "comments": 156,
-      "domain": "commerce.jolla.com"
+      "id": 47167058,
+      "title": "Use the Mikado Method to do safe changes in a complex codebase",
+      "url": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
+      "score": 76,
+      "by": "foenix",
+      "time": 1772118214,
+      "comments": 31,
+      "domain": "understandlegacycode.com"
     },
     {
       "id": 47220020,
       "title": "Packaging a Gleam app into a single executable",
       "url": "https://www.dhzdhd.dev/blog/gleam-executable",
-      "score": 3,
+      "score": 17,
       "by": "todsacerdoti",
       "time": 1772468418,
       "comments": 0,
       "domain": "dhzdhd.dev"
     },
     {
+      "id": 47188401,
+      "title": "Zclaw – The 888 KiB Assistant",
+      "url": "https://zclaw.dev",
+      "score": 23,
+      "by": "kristianpaul",
+      "time": 1772239659,
+      "comments": 15,
+      "domain": "zclaw.dev"
+    },
+    {
+      "id": 47214864,
+      "title": "How to talk to anyone and why you should",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "score": 389,
+      "by": "Looky1173",
+      "time": 1772436612,
+      "comments": 435,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47208573,
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "score": 138,
+      "by": "zdw",
+      "time": 1772385104,
+      "comments": 44,
+      "domain": "maderix.substack.com"
+    },
+    {
+      "id": 47219688,
+      "title": "Notes on Lagrange Interpolating Polynomials",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+      "score": 15,
+      "by": "ibobev",
+      "time": 1772467280,
+      "comments": 5,
+      "domain": "eli.thegreenplace.net"
+    },
+    {
+      "id": 47218288,
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "url": "https://github.com/anthropics/claude-code/issues/22543",
+      "score": 274,
+      "by": "mystcb",
+      "time": 1772461279,
+      "comments": 144,
+      "domain": "github.com"
+    },
+    {
+      "id": 47218188,
+      "title": "An Interesting Find: STM32 RDP1 Decryptor",
+      "url": "https://carlossless.io/stm32-rdp1-decryptor/",
+      "score": 58,
+      "by": "carlossless",
+      "time": 1772460738,
+      "comments": 12,
+      "domain": "carlossless.io"
+    },
+    {
+      "id": 47216047,
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "score": 741,
+      "by": "robtherobber",
+      "time": 1772446986,
+      "comments": 297,
+      "domain": "windowslatest.com"
+    },
+    {
+      "id": 47218084,
+      "title": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "score": 55,
+      "by": "meetpateltech",
+      "time": 1772460180,
+      "comments": 34,
+      "domain": "apple.com"
+    },
+    {
+      "id": 47176576,
+      "title": "Making Video Games in 2025 (without an engine)",
+      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
+      "score": 328,
+      "by": "alvivar",
+      "time": 1772167095,
+      "comments": 149,
+      "domain": "noelberry.ca"
+    },
+    {
+      "id": 47175160,
+      "title": "Thirty years on, Pokémon is still a monster hit",
+      "url": "https://www.economist.com/culture/2026/02/26/thirty-years-on-pokemon-is-still-a-monster-hit",
+      "score": 9,
+      "by": "andsoitis",
+      "time": 1772156126,
+      "comments": 3,
+      "domain": "economist.com"
+    },
+    {
+      "id": 47217402,
+      "title": "AMD Am386 released March 2, 1991",
+      "url": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
+      "score": 66,
+      "by": "jnord",
+      "time": 1772456206,
+      "comments": 16,
+      "domain": "dfarq.homeip.net"
+    },
+    {
+      "id": 47212355,
+      "title": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
+      "score": 429,
+      "by": "mandel_x",
+      "time": 1772411272,
+      "comments": 359,
+      "domain": "github.com"
+    },
+    {
+      "id": 47181656,
+      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+      "score": 155,
+      "by": "Tomte",
+      "time": 1772206137,
+      "comments": 84,
+      "domain": "copyrightlately.com"
+    },
+    {
+      "id": 47218283,
+      "title": "A plastic made from milk that vanishes in 13 weeks",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm",
+      "score": 49,
+      "by": "JeanKage",
+      "time": 1772461235,
+      "comments": 46,
+      "domain": "sciencedaily.com"
+    },
+    {
+      "id": 47218090,
+      "title": "Why Go Can't Try",
+      "url": "https://niketpatel.com/essays/why-go-cant-try",
+      "score": 33,
+      "by": "nexneo",
+      "time": 1772460233,
+      "comments": 11,
+      "domain": "niketpatel.com"
+    },
+    {
       "id": 47218711,
       "title": "A bit of fluid mechanics from scratch not from scratch",
       "url": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
-      "score": 9,
+      "score": 15,
       "by": "surprisetalk",
       "time": 1772463172,
-      "comments": 2,
+      "comments": 3,
       "domain": "tsvibt.blogspot.com"
     },
     {
-      "id": 47215565,
-      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
-      "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
-      "score": 291,
-      "by": "JeanKage",
-      "time": 1772443206,
-      "comments": 253,
-      "domain": "science.org"
-    },
-    {
-      "id": 47216773,
-      "title": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
-      "url": "https://webaudio.studio/",
-      "score": 37,
-      "by": "alexgriss",
-      "time": 1772452064,
-      "comments": 2,
-      "domain": "webaudio.studio"
+      "id": 47215427,
+      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+      "url": "https://github.com/getomnico/omni",
+      "score": 121,
+      "by": "prvnsmpth",
+      "time": 1772441894,
+      "comments": 36,
+      "domain": "github.com"
     }
   ]
 }
