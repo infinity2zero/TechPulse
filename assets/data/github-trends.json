@@ -1,161 +1,122 @@
 {
-  "lastUpdated": "2026-03-01T23:55:38.822Z",
+  "lastUpdated": "2026-03-02T01:16:55.852Z",
   "items": [
     {
       "id": 1166139870,
       "name": "RightNow-AI/openfang",
       "description": "Open-source Agent Operating System",
-      "stars": 7403,
+      "stars": 7516,
       "language": "Rust",
       "url": "https://github.com/RightNow-AI/openfang",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-01T23:55:16Z"
-    },
-    {
-      "id": 1165056385,
-      "name": "anthropics/financial-services-plugins",
-      "description": null,
-      "stars": 5055,
-      "language": "Python",
-      "url": "https://github.com/anthropics/financial-services-plugins",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      "updated_at": "2026-03-01T23:40:12Z"
+      "updated_at": "2026-03-02T01:16:37Z"
     },
     {
       "id": 1165371200,
       "name": "cloudflare/vinext",
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
-      "stars": 4940,
+      "stars": 4945,
       "language": "TypeScript",
       "url": "https://github.com/cloudflare/vinext",
       "owner": {
         "login": "cloudflare",
         "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
       },
-      "updated_at": "2026-03-01T23:38:42Z"
+      "updated_at": "2026-03-02T01:15:08Z"
     },
     {
       "id": 1165277268,
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 3393,
+      "stars": 3418,
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "owner": {
         "login": "Panniantong",
         "avatar_url": "https://avatars.githubusercontent.com/u/73925474?v=4"
       },
-      "updated_at": "2026-03-01T23:47:37Z"
+      "updated_at": "2026-03-02T01:16:08Z"
     },
     {
       "id": 1165324947,
       "name": "agentscope-ai/CoPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 3200,
+      "stars": 3297,
       "language": "Python",
       "url": "https://github.com/agentscope-ai/CoPaw",
       "owner": {
         "login": "agentscope-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
       },
-      "updated_at": "2026-03-01T23:55:20Z"
+      "updated_at": "2026-03-02T01:16:39Z"
     },
     {
       "id": 1166050402,
       "name": "peteromallet/dataclaw",
       "description": null,
-      "stars": 1680,
+      "stars": 1687,
       "language": "Python",
       "url": "https://github.com/peteromallet/dataclaw",
       "owner": {
         "login": "peteromallet",
         "avatar_url": "https://avatars.githubusercontent.com/u/4647941?v=4"
       },
-      "updated_at": "2026-03-01T23:55:32Z"
-    },
-    {
-      "id": 1165733654,
-      "name": "Polymarket/polymarket-cli",
-      "description": null,
-      "stars": 1402,
-      "language": "Rust",
-      "url": "https://github.com/Polymarket/polymarket-cli",
-      "owner": {
-        "login": "Polymarket",
-        "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
-      },
-      "updated_at": "2026-03-01T23:50:23Z"
-    },
-    {
-      "id": 1164477708,
-      "name": "mksglu/claude-context-mode",
-      "description": "Stop losing context to large outputs.",
-      "stars": 1344,
-      "language": "JavaScript",
-      "url": "https://github.com/mksglu/claude-context-mode",
-      "owner": {
-        "login": "mksglu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6067714?v=4"
-      },
-      "updated_at": "2026-03-01T23:53:44Z"
+      "updated_at": "2026-03-02T01:05:59Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 1341,
+      "stars": 1482,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-01T23:53:17Z"
+      "updated_at": "2026-03-02T01:16:36Z"
+    },
+    {
+      "id": 1165733654,
+      "name": "Polymarket/polymarket-cli",
+      "description": null,
+      "stars": 1404,
+      "language": "Rust",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "owner": {
+        "login": "Polymarket",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31669764?v=4"
+      },
+      "updated_at": "2026-03-02T00:16:16Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1054,
+      "stars": 1060,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-01T23:53:10Z"
-    },
-    {
-      "id": 1164336049,
-      "name": "taigrr/spank",
-      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
-      "stars": 1020,
-      "language": "Go",
-      "url": "https://github.com/taigrr/spank",
-      "owner": {
-        "login": "taigrr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8261498?v=4"
-      },
-      "updated_at": "2026-03-01T23:54:10Z"
+      "updated_at": "2026-03-02T00:58:36Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 946,
+      "stars": 965,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-01T23:39:38Z"
+      "updated_at": "2026-03-02T01:16:55Z"
     },
     {
       "id": 1166020413,
@@ -174,66 +135,66 @@
       "id": 1165507389,
       "name": "win4r/memory-lancedb-pro",
       "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
-      "stars": 758,
+      "stars": 764,
       "language": "TypeScript",
       "url": "https://github.com/win4r/memory-lancedb-pro",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-01T23:47:12Z"
+      "updated_at": "2026-03-02T01:14:08Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 753,
+      "stars": 754,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-03-01T22:14:57Z"
-    },
-    {
-      "id": 1166326043,
-      "name": "wh1te4ever/super-tart-vphone-writeup",
-      "description": null,
-      "stars": 717,
-      "language": "Swift",
-      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
-      "owner": {
-        "login": "wh1te4ever",
-        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
-      },
-      "updated_at": "2026-03-01T23:45:32Z"
-    },
-    {
-      "id": 1167209519,
-      "name": "ringhyacinth/Star-Office-UI",
-      "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 715,
-      "language": "HTML",
-      "url": "https://github.com/ringhyacinth/Star-Office-UI",
-      "owner": {
-        "login": "ringhyacinth",
-        "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
-      },
-      "updated_at": "2026-03-01T23:54:16Z"
+      "updated_at": "2026-03-02T00:46:59Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 714,
+      "stars": 751,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-01T23:54:36Z"
+      "updated_at": "2026-03-02T01:06:23Z"
+    },
+    {
+      "id": 1167209519,
+      "name": "ringhyacinth/Star-Office-UI",
+      "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+      "stars": 746,
+      "language": "HTML",
+      "url": "https://github.com/ringhyacinth/Star-Office-UI",
+      "owner": {
+        "login": "ringhyacinth",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
+      },
+      "updated_at": "2026-03-02T01:16:48Z"
+    },
+    {
+      "id": 1166326043,
+      "name": "wh1te4ever/super-tart-vphone-writeup",
+      "description": null,
+      "stars": 721,
+      "language": "Swift",
+      "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+      "owner": {
+        "login": "wh1te4ever",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
+      },
+      "updated_at": "2026-03-02T01:04:39Z"
     },
     {
       "id": 1165265099,
@@ -252,14 +213,53 @@
       "id": 1165885512,
       "name": "xjtulyc/MedgeClaw",
       "description": "Medge AI X OpenClaw",
-      "stars": 633,
+      "stars": 636,
       "language": "HTML",
       "url": "https://github.com/xjtulyc/MedgeClaw",
       "owner": {
         "login": "xjtulyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/70875055?v=4"
       },
-      "updated_at": "2026-03-01T23:40:48Z"
+      "updated_at": "2026-03-02T00:58:35Z"
+    },
+    {
+      "id": 1167284837,
+      "name": "6551Team/opennews-mcp",
+      "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+      "stars": 570,
+      "language": "Python",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "owner": {
+        "login": "6551Team",
+        "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
+      },
+      "updated_at": "2026-03-02T00:59:03Z"
+    },
+    {
+      "id": 1168261320,
+      "name": "xstongxue/best-prompts",
+      "description": "通用高质量 Prompt 合集🔥",
+      "stars": 500,
+      "language": null,
+      "url": "https://github.com/xstongxue/best-prompts",
+      "owner": {
+        "login": "xstongxue",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
+      },
+      "updated_at": "2026-03-02T01:16:06Z"
+    },
+    {
+      "id": 1165924657,
+      "name": "whyzhow/PersonalStyleAI-Framework-",
+      "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+      "stars": 468,
+      "language": "Python",
+      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
+      "owner": {
+        "login": "whyzhow",
+        "avatar_url": "https://avatars.githubusercontent.com/u/213056117?v=4"
+      },
+      "updated_at": "2026-02-28T18:47:02Z"
     }
   ]
 }
