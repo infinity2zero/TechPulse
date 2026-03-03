@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-03T09:57:49.626Z",
+  "lastUpdated": "2026-03-03T10:36:21.553Z",
   "items": [
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 3337,
+      "stars": 3408,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-03T09:57:02Z"
+      "updated_at": "2026-03-03T10:35:25Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 2820,
+      "stars": 2829,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-03T09:56:02Z"
+      "updated_at": "2026-03-03T10:35:56Z"
     },
     {
       "id": 1167209519,
       "name": "ringhyacinth/Star-Office-UI",
       "description": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 1561,
+      "stars": 1574,
       "language": "HTML",
       "url": "https://github.com/ringhyacinth/Star-Office-UI",
       "owner": {
         "login": "ringhyacinth",
         "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
       },
-      "updated_at": "2026-03-03T09:57:06Z"
+      "updated_at": "2026-03-03T10:27:26Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 1386,
+      "stars": 1387,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-03T09:34:37Z"
+      "updated_at": "2026-03-03T10:08:51Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1244,
+      "stars": 1245,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-03T09:48:25Z"
+      "updated_at": "2026-03-03T10:14:07Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 1112,
+      "stars": 1123,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-03T09:55:17Z"
+      "updated_at": "2026-03-03T10:36:00Z"
     },
     {
       "id": 1170016912,
@@ -106,56 +106,56 @@
       "updated_at": "2026-03-03T08:48:19Z"
     },
     {
-      "id": 1166946564,
-      "name": "apple/python-apple-fm-sdk",
-      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 803,
-      "language": "Python",
-      "url": "https://github.com/apple/python-apple-fm-sdk",
-      "owner": {
-        "login": "apple",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
-      },
-      "updated_at": "2026-03-03T09:49:58Z"
-    },
-    {
       "id": 1169199358,
       "name": "34306/vphone-aio",
       "description": "1 script run the vphone",
-      "stars": 803,
+      "stars": 805,
       "language": "Shell",
       "url": "https://github.com/34306/vphone-aio",
       "owner": {
         "login": "34306",
         "avatar_url": "https://avatars.githubusercontent.com/u/79745143?v=4"
       },
-      "updated_at": "2026-03-03T09:47:43Z"
+      "updated_at": "2026-03-03T10:29:06Z"
+    },
+    {
+      "id": 1166946564,
+      "name": "apple/python-apple-fm-sdk",
+      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "stars": 804,
+      "language": "Python",
+      "url": "https://github.com/apple/python-apple-fm-sdk",
+      "owner": {
+        "login": "apple",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+      },
+      "updated_at": "2026-03-03T10:32:01Z"
     },
     {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 717,
+      "stars": 721,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-03T09:53:12Z"
+      "updated_at": "2026-03-03T10:35:48Z"
     },
     {
       "id": 1167576951,
       "name": "Gen-Verse/OpenClaw-RL",
       "description": "OpenClaw-RL: Personalize openclaw simply by talking to it",
-      "stars": 613,
+      "stars": 616,
       "language": "TypeScript",
       "url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "owner": {
         "login": "Gen-Verse",
         "avatar_url": "https://avatars.githubusercontent.com/u/197493814?v=4"
       },
-      "updated_at": "2026-03-03T09:51:24Z"
+      "updated_at": "2026-03-03T10:18:20Z"
     },
     {
       "id": 1167284837,
@@ -174,53 +174,53 @@
       "id": 1168261320,
       "name": "xstongxue/best-prompts",
       "description": "通用高质量 Prompt 合集🔥",
-      "stars": 596,
+      "stars": 597,
       "language": null,
       "url": "https://github.com/xstongxue/best-prompts",
       "owner": {
         "login": "xstongxue",
         "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
       },
-      "updated_at": "2026-03-03T09:45:56Z"
-    },
-    {
-      "id": 1170475068,
-      "name": "slowmist/openclaw-security-practice-guide",
-      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 473,
-      "language": "Shell",
-      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
-      "owner": {
-        "login": "slowmist",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
-      },
-      "updated_at": "2026-03-03T09:56:57Z"
-    },
-    {
-      "id": 1168900248,
-      "name": "kossisoroyce/timber",
-      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "stars": 470,
-      "language": "Python",
-      "url": "https://github.com/kossisoroyce/timber",
-      "owner": {
-        "login": "kossisoroyce",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
-      },
-      "updated_at": "2026-03-03T09:21:17Z"
+      "updated_at": "2026-03-03T10:01:29Z"
     },
     {
       "id": 1167012718,
       "name": "lochie/web-haptics",
       "description": "Haptic feedback for the mobile web",
-      "stars": 470,
+      "stars": 505,
       "language": "TypeScript",
       "url": "https://github.com/lochie/web-haptics",
       "owner": {
         "login": "lochie",
         "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
       },
-      "updated_at": "2026-03-03T09:57:08Z"
+      "updated_at": "2026-03-03T10:33:10Z"
+    },
+    {
+      "id": 1170475068,
+      "name": "slowmist/openclaw-security-practice-guide",
+      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+      "stars": 482,
+      "language": "Shell",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+      "owner": {
+        "login": "slowmist",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
+      },
+      "updated_at": "2026-03-03T10:29:59Z"
+    },
+    {
+      "id": 1168900248,
+      "name": "kossisoroyce/timber",
+      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "stars": 472,
+      "language": "Python",
+      "url": "https://github.com/kossisoroyce/timber",
+      "owner": {
+        "login": "kossisoroyce",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
+      },
+      "updated_at": "2026-03-03T10:34:17Z"
     },
     {
       "id": 1170326509,
@@ -239,27 +239,27 @@
       "id": 1169010341,
       "name": "star23/Day1Global-Skills",
       "description": "Day1Global Skills Share 美股和加密分析，生产力 Skills 分享",
-      "stars": 435,
+      "stars": 438,
       "language": null,
       "url": "https://github.com/star23/Day1Global-Skills",
       "owner": {
         "login": "star23",
         "avatar_url": "https://avatars.githubusercontent.com/u/3275529?v=4"
       },
-      "updated_at": "2026-03-03T08:30:25Z"
+      "updated_at": "2026-03-03T10:13:46Z"
     },
     {
-      "id": 1166461293,
-      "name": "sharonubsyq/trading-view-indicator-extension",
-      "description": null,
-      "stars": 411,
-      "language": "Python",
-      "url": "https://github.com/sharonubsyq/trading-view-indicator-extension",
+      "id": 1167077257,
+      "name": "puaclaw/PUAClaw",
+      "description": "在 claw 们统治人类之前，这是最后的尊严之战",
+      "stars": 417,
+      "language": null,
+      "url": "https://github.com/puaclaw/PUAClaw",
       "owner": {
-        "login": "sharonubsyq",
-        "avatar_url": "https://avatars.githubusercontent.com/u/243117981?v=4"
+        "login": "puaclaw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/263922984?v=4"
       },
-      "updated_at": "2026-03-03T09:02:36Z"
+      "updated_at": "2026-03-03T10:35:03Z"
     }
   ]
 }
