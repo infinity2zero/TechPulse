@@ -1,109 +1,135 @@
 {
-  "lastUpdated": "2026-03-03T16:31:34.047Z",
+  "lastUpdated": "2026-03-03T17:24:43.033Z",
   "items": [
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 4088,
+      "stars": 4175,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-03T16:30:59Z"
+      "updated_at": "2026-03-03T17:23:55Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 2877,
+      "stars": 2883,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-03T16:27:59Z"
+      "updated_at": "2026-03-03T17:07:29Z"
     },
     {
       "id": 1167209519,
       "name": "ringhyacinth/Star-Office-UI",
       "description": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 1713,
+      "stars": 1728,
       "language": "HTML",
       "url": "https://github.com/ringhyacinth/Star-Office-UI",
       "owner": {
         "login": "ringhyacinth",
         "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
       },
-      "updated_at": "2026-03-03T16:30:54Z"
+      "updated_at": "2026-03-03T17:24:16Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 1410,
+      "stars": 1409,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-03T16:19:08Z"
+      "updated_at": "2026-03-03T16:52:26Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1274,
+      "stars": 1277,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-03T16:27:40Z"
+      "updated_at": "2026-03-03T17:18:12Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 1234,
+      "stars": 1266,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-03T16:29:51Z"
+      "updated_at": "2026-03-03T17:22:31Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1137,
+      "stars": 1144,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-03T16:19:48Z"
+      "updated_at": "2026-03-03T17:16:19Z"
     },
     {
       "id": 1169199358,
       "name": "34306/vphone-aio",
       "description": "1 script run the vphone",
-      "stars": 832,
+      "stars": 836,
       "language": "Shell",
       "url": "https://github.com/34306/vphone-aio",
       "owner": {
         "login": "34306",
         "avatar_url": "https://avatars.githubusercontent.com/u/79745143?v=4"
       },
-      "updated_at": "2026-03-03T16:27:33Z"
+      "updated_at": "2026-03-03T17:13:50Z"
+    },
+    {
+      "id": 1168481509,
+      "name": "open-pencil/open-pencil",
+      "description": "AI-native design editor. Open-source Figma alternative.",
+      "stars": 835,
+      "language": "TypeScript",
+      "url": "https://github.com/open-pencil/open-pencil",
+      "owner": {
+        "login": "open-pencil",
+        "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
+      },
+      "updated_at": "2026-03-03T17:23:12Z"
+    },
+    {
+      "id": 1167012718,
+      "name": "lochie/web-haptics",
+      "description": "Haptic feedback for the mobile web",
+      "stars": 823,
+      "language": "TypeScript",
+      "url": "https://github.com/lochie/web-haptics",
+      "owner": {
+        "login": "lochie",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
+      },
+      "updated_at": "2026-03-03T17:24:28Z"
     },
     {
       "id": 1166326043,
@@ -119,19 +145,6 @@
       "updated_at": "2026-03-03T15:54:25Z"
     },
     {
-      "id": 1168481509,
-      "name": "open-pencil/open-pencil",
-      "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 814,
-      "language": "TypeScript",
-      "url": "https://github.com/open-pencil/open-pencil",
-      "owner": {
-        "login": "open-pencil",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
-      },
-      "updated_at": "2026-03-03T16:28:31Z"
-    },
-    {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
@@ -145,30 +158,30 @@
       "updated_at": "2026-03-03T16:29:33Z"
     },
     {
-      "id": 1167012718,
-      "name": "lochie/web-haptics",
-      "description": "Haptic feedback for the mobile web",
-      "stars": 789,
-      "language": "TypeScript",
-      "url": "https://github.com/lochie/web-haptics",
-      "owner": {
-        "login": "lochie",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
-      },
-      "updated_at": "2026-03-03T16:31:09Z"
-    },
-    {
       "id": 1167576951,
       "name": "Gen-Verse/OpenClaw-RL",
       "description": "OpenClaw-RL: Personalize openclaw simply by talking to it",
-      "stars": 624,
+      "stars": 627,
       "language": "TypeScript",
       "url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "owner": {
         "login": "Gen-Verse",
         "avatar_url": "https://avatars.githubusercontent.com/u/197493814?v=4"
       },
-      "updated_at": "2026-03-03T16:21:32Z"
+      "updated_at": "2026-03-03T17:24:12Z"
+    },
+    {
+      "id": 1170475068,
+      "name": "slowmist/openclaw-security-practice-guide",
+      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+      "stars": 616,
+      "language": "Shell",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+      "owner": {
+        "login": "slowmist",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
+      },
+      "updated_at": "2026-03-03T17:21:44Z"
     },
     {
       "id": 1167284837,
@@ -197,56 +210,43 @@
       "updated_at": "2026-03-03T15:13:14Z"
     },
     {
-      "id": 1170475068,
-      "name": "slowmist/openclaw-security-practice-guide",
-      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 604,
-      "language": "Shell",
-      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
-      "owner": {
-        "login": "slowmist",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
-      },
-      "updated_at": "2026-03-03T16:29:49Z"
-    },
-    {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 591,
+      "stars": 606,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-03T16:30:42Z"
+      "updated_at": "2026-03-03T17:20:14Z"
     },
     {
       "id": 1167077257,
       "name": "puaclaw/PUAClaw",
       "description": "在 claw 们统治人类之前，这是最后的尊严之战",
-      "stars": 530,
+      "stars": 537,
       "language": null,
       "url": "https://github.com/puaclaw/PUAClaw",
       "owner": {
         "login": "puaclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/263922984?v=4"
       },
-      "updated_at": "2026-03-03T16:31:12Z"
+      "updated_at": "2026-03-03T17:24:14Z"
     },
     {
       "id": 1168900248,
       "name": "kossisoroyce/timber",
       "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "stars": 492,
+      "stars": 494,
       "language": "Python",
       "url": "https://github.com/kossisoroyce/timber",
       "owner": {
         "login": "kossisoroyce",
         "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
       },
-      "updated_at": "2026-03-03T16:23:56Z"
+      "updated_at": "2026-03-03T16:53:26Z"
     },
     {
       "id": 1169010341,
