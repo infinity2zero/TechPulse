@@ -1,215 +1,245 @@
 {
-  "lastUpdated": "2026-03-03T23:22:32.373Z",
+  "lastUpdated": "2026-03-03T23:45:52.921Z",
   "items": [
     {
       "id": 47239943,
       "title": "Don't Make Me Talk to Your Chatbot",
       "url": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
-      "score": 82,
+      "score": 111,
       "by": "pkilgore",
       "time": 1772576646,
-      "comments": 34,
+      "comments": 53,
       "domain": "raymyers.org"
     },
     {
       "id": 47232453,
       "title": "MacBook Pro with new M5 Pro and M5 Max",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 605,
+      "score": 612,
       "by": "scrlk",
       "time": 1772546526,
-      "comments": 568,
+      "comments": 588,
       "domain": "apple.com"
     },
     {
       "id": 47236958,
       "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
       "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
-      "score": 213,
+      "score": 218,
       "by": "vanburen",
       "time": 1772564046,
-      "comments": 161,
+      "comments": 177,
       "domain": "tomshardware.com"
     },
     {
       "id": 47236169,
       "title": "GPT‑5.3 Instant",
       "url": "https://openai.com/index/gpt-5-3-instant/",
-      "score": 248,
+      "score": 252,
       "by": "meetpateltech",
       "time": 1772560653,
-      "comments": 176,
+      "comments": 185,
       "domain": "openai.com"
+    },
+    {
+      "id": 47240441,
+      "title": "Talos: Hardware accelerator for deep convolutional neural networks",
+      "url": "https://talos.wtf/",
+      "score": 8,
+      "by": "llamatheollama",
+      "time": 1772579471,
+      "comments": 0,
+      "domain": "talos.wtf"
     },
     {
       "id": 47204027,
       "title": "Textadept",
       "url": "https://orbitalquark.github.io/textadept/",
-      "score": 29,
+      "score": 36,
       "by": "giancarlostoro",
       "time": 1772343418,
-      "comments": 4,
+      "comments": 7,
       "domain": "orbitalquark.github.io"
-    },
-    {
-      "id": 47230710,
-      "title": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 400,
-      "by": "fs123",
-      "time": 1772535462,
-      "comments": 192,
-      "domain": "www-cs-faculty.stanford.edu"
     },
     {
       "id": 47239042,
       "title": "Voxile: A ray-traced game made in its own engine and programming language",
       "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "score": 46,
+      "score": 56,
       "by": "spacemarine1",
       "time": 1772572227,
-      "comments": 5,
+      "comments": 8,
       "domain": "elbowgreasegames.substack.com"
+    },
+    {
+      "id": 47230710,
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "score": 408,
+      "by": "fs123",
+      "time": 1772535462,
+      "comments": 194,
+      "domain": "www-cs-faculty.stanford.edu"
     },
     {
       "id": 47237460,
       "title": "An Interactive Intro to CRDTs (2023)",
       "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
-      "score": 72,
+      "score": 75,
       "by": "evakhoury",
       "time": 1772565752,
-      "comments": 10,
+      "comments": 13,
       "domain": "jakelazaroff.com"
     },
     {
       "id": 47230704,
       "title": "The Xkcd thing, now interactive",
       "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-      "score": 1080,
+      "score": 1092,
       "by": "memalign",
       "time": 1772535412,
-      "comments": 145,
+      "comments": 146,
       "domain": "editor.p5js.org"
+    },
+    {
+      "id": 47240212,
+      "title": "Helsinki just went a full year without a single traffic death",
+      "url": "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/",
+      "score": 34,
+      "by": "mooreds",
+      "time": 1772578194,
+      "comments": 2,
+      "domain": "politico.eu"
     },
     {
       "id": 47234917,
       "title": "When AI writes the software, who verifies it?",
       "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-      "score": 96,
+      "score": 99,
       "by": "todsacerdoti",
       "time": 1772555693,
-      "comments": 83,
+      "comments": 102,
       "domain": "leodemoura.github.io"
     },
     {
       "id": 47232727,
       "title": "Don't become an engineering manager",
       "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
-      "score": 276,
+      "score": 279,
       "by": "flail",
       "time": 1772547554,
-      "comments": 199,
+      "comments": 201,
       "domain": "newsletter.manager.dev"
     },
     {
       "id": 47233110,
       "title": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
       "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
-      "score": 388,
+      "score": 397,
       "by": "pcdavid",
       "time": 1772548950,
       "comments": 61,
       "domain": "youtube.com"
     },
     {
+      "id": 47239768,
+      "title": "OpenAI CEO Sam Altman Defends Pentagon Work to Staff",
+      "url": "https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec",
+      "score": 47,
+      "by": "cdrnsf",
+      "time": 1772575758,
+      "comments": 28,
+      "domain": "wsj.com"
+    },
+    {
       "id": 47237692,
       "title": "Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands",
       "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-      "score": 146,
+      "score": 155,
       "by": "alwillis",
       "time": 1772566477,
-      "comments": 41,
+      "comments": 44,
       "domain": "wired.com"
-    },
-    {
-      "id": 47203219,
-      "title": "TorchLean: Formalizing Neural Networks in Lean",
-      "url": "https://leandojo.org/torchlean.html",
-      "score": 59,
-      "by": "matt_d",
-      "time": 1772334226,
-      "comments": 8,
-      "domain": "leandojo.org"
     },
     {
       "id": 47238279,
       "title": "We've freed Cookie's Bustle from copyright hell",
       "url": "https://gamehistory.org/cookies-bustle/",
-      "score": 55,
+      "score": 64,
       "by": "sb057",
       "time": 1772568858,
       "comments": 7,
       "domain": "gamehistory.org"
     },
     {
+      "id": 47203219,
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "url": "https://leandojo.org/torchlean.html",
+      "score": 60,
+      "by": "matt_d",
+      "time": 1772334226,
+      "comments": 8,
+      "domain": "leandojo.org"
+    },
+    {
       "id": 47232768,
       "title": "I'm reluctant to verify my identity or age for any online services",
       "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-      "score": 849,
+      "score": 855,
       "by": "speckx",
       "time": 1772547745,
       "comments": 524,
       "domain": "neilzone.co.uk"
     },
     {
-      "id": 47239768,
-      "title": "OpenAI CEO Sam Altman Defends Pentagon Work to Staff",
-      "url": "https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec",
-      "score": 35,
-      "by": "cdrnsf",
-      "time": 1772575758,
-      "comments": 7,
-      "domain": "wsj.com"
-    },
-    {
-      "id": 47229344,
-      "title": "Arm's Cortex X925: Reaching Desktop Performance",
-      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "score": 253,
-      "by": "ingve",
-      "time": 1772523287,
-      "comments": 151,
-      "domain": "chipsandcheese.com"
-    },
-    {
       "id": 47232502,
       "title": "MacBook Air with M5",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "score": 340,
+      "score": 344,
       "by": "Garbage",
       "time": 1772546696,
-      "comments": 395,
+      "comments": 404,
       "domain": "apple.com"
-    },
-    {
-      "id": 47232158,
-      "title": "I'm losing the SEO battle for my own open source project",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
-      "score": 415,
-      "by": "devinitely",
-      "time": 1772545178,
-      "comments": 213,
-      "domain": "twitter.com"
     },
     {
       "id": 47190782,
       "title": "Disable Your SSH access accidentally with scp",
       "url": "https://sny.sh/hypha/blog/scp",
-      "score": 87,
+      "score": 88,
       "by": "zdw",
       "time": 1772255902,
-      "comments": 38,
+      "comments": 39,
       "domain": "sny.sh"
+    },
+    {
+      "id": 47232158,
+      "title": "I'm losing the SEO battle for my own open source project",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+      "score": 421,
+      "by": "devinitely",
+      "time": 1772545178,
+      "comments": 217,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47211955,
+      "title": "The Two Kinds of Error",
+      "url": "https://evanhahn.com/the-two-kinds-of-error/",
+      "score": 26,
+      "by": "zdw",
+      "time": 1772407780,
+      "comments": 14,
+      "domain": "evanhahn.com"
+    },
+    {
+      "id": 47237088,
+      "title": "GitHub Is Having Issues",
+      "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+      "score": 189,
+      "by": "Simpliplant",
+      "time": 1772564534,
+      "comments": 130,
+      "domain": "githubstatus.com"
     },
     {
       "id": 47212150,
@@ -222,64 +252,34 @@
       "domain": "blog.gingerbeardman.com"
     },
     {
-      "id": 47240212,
-      "title": "Helsinki just went a full year without a single traffic death",
-      "url": "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/",
-      "score": 14,
-      "by": "mooreds",
-      "time": 1772578194,
-      "comments": 0,
-      "domain": "politico.eu"
-    },
-    {
-      "id": 47211955,
-      "title": "The Two Kinds of Error",
-      "url": "https://evanhahn.com/the-two-kinds-of-error/",
-      "score": 25,
-      "by": "zdw",
-      "time": 1772407780,
-      "comments": 13,
-      "domain": "evanhahn.com"
-    },
-    {
-      "id": 47237088,
-      "title": "GitHub Is Having Issues",
-      "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
-      "score": 187,
-      "by": "Simpliplant",
-      "time": 1772564534,
-      "comments": 125,
-      "domain": "githubstatus.com"
-    },
-    {
-      "id": 47236582,
-      "title": "Payment fees matter more than you think",
-      "url": "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/",
-      "score": 92,
-      "by": "dxs",
-      "time": 1772562446,
-      "comments": 61,
-      "domain": "cuencahighlife.com"
-    },
-    {
-      "id": 47232421,
-      "title": "Apple Studio Display and Studio Display XDR",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
-      "score": 201,
-      "by": "victorbjorklund",
-      "time": 1772546411,
-      "comments": 228,
-      "domain": "apple.com"
-    },
-    {
       "id": 47225130,
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "score": 1362,
       "by": "sandbach",
       "time": 1772490755,
-      "comments": 760,
+      "comments": 761,
       "domain": "svd.se"
+    },
+    {
+      "id": 47232421,
+      "title": "Apple Studio Display and Studio Display XDR",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
+      "score": 203,
+      "by": "victorbjorklund",
+      "time": 1772546411,
+      "comments": 230,
+      "domain": "apple.com"
+    },
+    {
+      "id": 47235430,
+      "title": "Claude is an Electron App because we've lost native",
+      "url": "https://tonsky.me/blog/fall-of-native/",
+      "score": 102,
+      "by": "todsacerdoti",
+      "time": 1772557755,
+      "comments": 121,
+      "domain": "tonsky.me"
     }
   ]
 }
