@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-03T20:03:05.473Z",
+  "lastUpdated": "2026-03-03T20:41:39.406Z",
   "items": [
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 4358,
+      "stars": 4377,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-03T20:01:49Z"
+      "updated_at": "2026-03-03T20:37:22Z"
     },
     {
       "id": 1167515091,
       "name": "Lakr233/vphone-cli",
       "description": null,
-      "stars": 2887,
+      "stars": 2888,
       "language": "Python",
       "url": "https://github.com/Lakr233/vphone-cli",
       "owner": {
         "login": "Lakr233",
         "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
       },
-      "updated_at": "2026-03-03T19:26:06Z"
+      "updated_at": "2026-03-03T20:34:56Z"
     },
     {
       "id": 1167209519,
       "name": "ringhyacinth/Star-Office-UI",
       "description": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
-      "stars": 1734,
+      "stars": 1736,
       "language": "HTML",
       "url": "https://github.com/ringhyacinth/Star-Office-UI",
       "owner": {
         "login": "ringhyacinth",
         "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
       },
-      "updated_at": "2026-03-03T19:00:13Z"
+      "updated_at": "2026-03-03T20:26:23Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 1419,
+      "stars": 1478,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-03T20:03:02Z"
+      "updated_at": "2026-03-03T20:40:59Z"
     },
     {
       "id": 1169014161,
@@ -70,105 +70,118 @@
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1284,
+      "stars": 1285,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-03T20:02:23Z"
+      "updated_at": "2026-03-03T20:38:00Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1162,
+      "stars": 1168,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-03T19:54:44Z"
-    },
-    {
-      "id": 1167012718,
-      "name": "lochie/web-haptics",
-      "description": "Haptic feedback for the mobile web",
-      "stars": 888,
-      "language": "TypeScript",
-      "url": "https://github.com/lochie/web-haptics",
-      "owner": {
-        "login": "lochie",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
-      },
-      "updated_at": "2026-03-03T20:02:39Z"
+      "updated_at": "2026-03-03T20:37:58Z"
     },
     {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 880,
+      "stars": 903,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-03T19:57:01Z"
+      "updated_at": "2026-03-03T20:41:14Z"
+    },
+    {
+      "id": 1167012718,
+      "name": "lochie/web-haptics",
+      "description": "Haptic feedback for the mobile web",
+      "stars": 898,
+      "language": "TypeScript",
+      "url": "https://github.com/lochie/web-haptics",
+      "owner": {
+        "login": "lochie",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
+      },
+      "updated_at": "2026-03-03T20:36:15Z"
     },
     {
       "id": 1169199358,
       "name": "34306/vphone-aio",
       "description": "1 script run the vphone",
-      "stars": 844,
+      "stars": 845,
       "language": "Shell",
       "url": "https://github.com/34306/vphone-aio",
       "owner": {
         "login": "34306",
         "avatar_url": "https://avatars.githubusercontent.com/u/79745143?v=4"
       },
-      "updated_at": "2026-03-03T19:56:50Z"
+      "updated_at": "2026-03-03T20:33:12Z"
     },
     {
       "id": 1166326043,
       "name": "wh1te4ever/super-tart-vphone-writeup",
       "description": null,
-      "stars": 820,
+      "stars": 821,
       "language": "Swift",
       "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
       "owner": {
         "login": "wh1te4ever",
         "avatar_url": "https://avatars.githubusercontent.com/u/88495487?v=4"
       },
-      "updated_at": "2026-03-03T19:52:04Z"
+      "updated_at": "2026-03-03T20:06:32Z"
     },
     {
       "id": 1166946564,
       "name": "apple/python-apple-fm-sdk",
       "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
-      "stars": 809,
+      "stars": 811,
       "language": "Python",
       "url": "https://github.com/apple/python-apple-fm-sdk",
       "owner": {
         "login": "apple",
         "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
       },
-      "updated_at": "2026-03-03T19:42:21Z"
+      "updated_at": "2026-03-03T20:34:22Z"
     },
     {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 631,
+      "stars": 632,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-03T20:01:16Z"
+      "updated_at": "2026-03-03T20:38:47Z"
+    },
+    {
+      "id": 1170326509,
+      "name": "LeoYeAI/openclaw-master-skills",
+      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
+      "stars": 632,
+      "language": "Python",
+      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+      "owner": {
+        "login": "LeoYeAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
+      },
+      "updated_at": "2026-03-03T20:34:43Z"
     },
     {
       "id": 1167576951,
@@ -182,19 +195,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/197493814?v=4"
       },
       "updated_at": "2026-03-03T19:10:40Z"
-    },
-    {
-      "id": 1170326509,
-      "name": "LeoYeAI/openclaw-master-skills",
-      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 626,
-      "language": "Python",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "owner": {
-        "login": "LeoYeAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
-      },
-      "updated_at": "2026-03-03T19:50:32Z"
     },
     {
       "id": 1167284837,
@@ -226,40 +226,40 @@
       "id": 1167077257,
       "name": "puaclaw/PUAClaw",
       "description": "在 claw 们统治人类之前，这是最后的尊严之战",
-      "stars": 547,
+      "stars": 548,
       "language": null,
       "url": "https://github.com/puaclaw/PUAClaw",
       "owner": {
         "login": "puaclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/263922984?v=4"
       },
-      "updated_at": "2026-03-03T19:28:38Z"
+      "updated_at": "2026-03-03T20:18:44Z"
     },
     {
       "id": 1168900248,
       "name": "kossisoroyce/timber",
       "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "stars": 498,
+      "stars": 499,
       "language": "Python",
       "url": "https://github.com/kossisoroyce/timber",
       "owner": {
         "login": "kossisoroyce",
         "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
       },
-      "updated_at": "2026-03-03T19:10:47Z"
+      "updated_at": "2026-03-03T20:18:37Z"
     },
     {
       "id": 1170253459,
       "name": "LCEMP/LCEMP",
       "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 466,
+      "stars": 475,
       "language": "C++",
       "url": "https://github.com/LCEMP/LCEMP",
       "owner": {
         "login": "LCEMP",
         "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
       },
-      "updated_at": "2026-03-03T19:50:19Z"
+      "updated_at": "2026-03-03T20:39:52Z"
     }
   ]
 }
