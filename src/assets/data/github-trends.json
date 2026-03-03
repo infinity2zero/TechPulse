@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-03T23:45:53.166Z",
+  "lastUpdated": "2026-03-03T23:59:56.611Z",
   "items": [
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 4509,
+      "stars": 4516,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-03T23:45:41Z"
+      "updated_at": "2026-03-03T23:58:56Z"
     },
     {
       "id": 1167515091,
@@ -44,27 +44,27 @@
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 1641,
+      "stars": 1651,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-03T23:45:31Z"
+      "updated_at": "2026-03-03T23:59:31Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 1411,
+      "stars": 1412,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-03T23:32:47Z"
+      "updated_at": "2026-03-03T23:53:49Z"
     },
     {
       "id": 1168456418,
@@ -83,40 +83,40 @@
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1185,
+      "stars": 1186,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-03T23:38:01Z"
+      "updated_at": "2026-03-03T23:52:11Z"
     },
     {
       "id": 1167012718,
       "name": "lochie/web-haptics",
       "description": "Haptic feedback for the mobile web",
-      "stars": 965,
+      "stars": 967,
       "language": "TypeScript",
       "url": "https://github.com/lochie/web-haptics",
       "owner": {
         "login": "lochie",
         "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
       },
-      "updated_at": "2026-03-03T23:44:59Z"
+      "updated_at": "2026-03-03T23:51:43Z"
     },
     {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 963,
+      "stars": 966,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-03T23:38:41Z"
+      "updated_at": "2026-03-03T23:58:02Z"
     },
     {
       "id": 1169199358,
@@ -161,40 +161,40 @@
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 677,
+      "stars": 680,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-03T23:43:14Z"
+      "updated_at": "2026-03-03T23:56:07Z"
     },
     {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 645,
+      "stars": 647,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-03T23:43:34Z"
+      "updated_at": "2026-03-03T23:50:39Z"
     },
     {
       "id": 1167576951,
       "name": "Gen-Verse/OpenClaw-RL",
       "description": "OpenClaw-RL: Personalize openclaw simply by talking to it",
-      "stars": 635,
+      "stars": 637,
       "language": "TypeScript",
       "url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "owner": {
         "login": "Gen-Verse",
         "avatar_url": "https://avatars.githubusercontent.com/u/197493814?v=4"
       },
-      "updated_at": "2026-03-03T23:28:21Z"
+      "updated_at": "2026-03-03T23:54:29Z"
     },
     {
       "id": 1167284837,
@@ -239,14 +239,14 @@
       "id": 1170253459,
       "name": "LCEMP/LCEMP",
       "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 509,
+      "stars": 510,
       "language": "C++",
       "url": "https://github.com/LCEMP/LCEMP",
       "owner": {
         "login": "LCEMP",
         "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
       },
-      "updated_at": "2026-03-03T23:44:24Z"
+      "updated_at": "2026-03-03T23:56:26Z"
     },
     {
       "id": 1168900248,
