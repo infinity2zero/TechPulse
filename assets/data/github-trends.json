@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-04T22:02:46.710Z",
+  "lastUpdated": "2026-03-04T22:41:59.602Z",
   "items": [
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 5331,
+      "stars": 5352,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-04T22:00:36Z"
+      "updated_at": "2026-03-04T22:39:51Z"
     },
     {
       "id": 1167515091,
@@ -31,14 +31,14 @@
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 2347,
+      "stars": 2369,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-04T22:02:01Z"
+      "updated_at": "2026-03-04T22:36:58Z"
     },
     {
       "id": 1167209519,
@@ -67,69 +67,69 @@
       "updated_at": "2026-03-04T21:43:46Z"
     },
     {
-      "id": 1168456418,
-      "name": "ForLoopCodes/contextplus",
-      "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1342,
-      "language": "TypeScript",
-      "url": "https://github.com/ForLoopCodes/contextplus",
-      "owner": {
-        "login": "ForLoopCodes",
-        "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
-      },
-      "updated_at": "2026-03-04T20:39:30Z"
-    },
-    {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 1336,
+      "stars": 1343,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-04T22:02:23Z"
+      "updated_at": "2026-03-04T22:37:23Z"
+    },
+    {
+      "id": 1168456418,
+      "name": "ForLoopCodes/contextplus",
+      "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
+      "stars": 1343,
+      "language": "TypeScript",
+      "url": "https://github.com/ForLoopCodes/contextplus",
+      "owner": {
+        "login": "ForLoopCodes",
+        "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
+      },
+      "updated_at": "2026-03-04T22:33:04Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1233,
+      "stars": 1234,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-04T21:32:54Z"
-    },
-    {
-      "id": 1170475068,
-      "name": "slowmist/openclaw-security-practice-guide",
-      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 935,
-      "language": "Shell",
-      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
-      "owner": {
-        "login": "slowmist",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
-      },
-      "updated_at": "2026-03-04T20:18:10Z"
+      "updated_at": "2026-03-04T22:05:55Z"
     },
     {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 932,
+      "stars": 937,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-04T22:00:49Z"
+      "updated_at": "2026-03-04T22:38:58Z"
+    },
+    {
+      "id": 1170475068,
+      "name": "slowmist/openclaw-security-practice-guide",
+      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+      "stars": 936,
+      "language": "Shell",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+      "owner": {
+        "login": "slowmist",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
+      },
+      "updated_at": "2026-03-04T22:11:58Z"
     },
     {
       "id": 1169199358,
@@ -161,27 +161,40 @@
       "id": 1167576951,
       "name": "Gen-Verse/OpenClaw-RL",
       "description": "OpenClaw-RL: Personalize openclaw simply by talking to it",
-      "stars": 722,
+      "stars": 724,
       "language": "TypeScript",
       "url": "https://github.com/Gen-Verse/OpenClaw-RL",
       "owner": {
         "login": "Gen-Verse",
         "avatar_url": "https://avatars.githubusercontent.com/u/197493814?v=4"
       },
-      "updated_at": "2026-03-04T21:28:05Z"
+      "updated_at": "2026-03-04T22:35:23Z"
+    },
+    {
+      "id": 1167965563,
+      "name": "openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "stars": 700,
+      "language": "Elixir",
+      "url": "https://github.com/openai/symphony",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      },
+      "updated_at": "2026-03-04T22:41:43Z"
     },
     {
       "id": 1170321595,
       "name": "LeoYeAI/openclaw-guardian",
       "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
-      "stars": 670,
+      "stars": 675,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-guardian",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-04T22:00:24Z"
+      "updated_at": "2026-03-04T22:38:39Z"
     },
     {
       "id": 1167284837,
@@ -197,69 +210,56 @@
       "updated_at": "2026-03-04T13:17:04Z"
     },
     {
-      "id": 1170253459,
-      "name": "LCEMP/LCEMP",
-      "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 613,
-      "language": "C++",
-      "url": "https://github.com/LCEMP/LCEMP",
-      "owner": {
-        "login": "LCEMP",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
-      },
-      "updated_at": "2026-03-04T21:55:40Z"
-    },
-    {
-      "id": 1168900248,
-      "name": "kossisoroyce/timber",
-      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "stars": 540,
-      "language": "Python",
-      "url": "https://github.com/kossisoroyce/timber",
-      "owner": {
-        "login": "kossisoroyce",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
-      },
-      "updated_at": "2026-03-04T19:05:42Z"
-    },
-    {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 532,
+      "stars": 618,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-04T22:02:32Z"
+      "updated_at": "2026-03-04T22:41:38Z"
     },
     {
-      "id": 1167965563,
-      "name": "openai/symphony",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "stars": 520,
-      "language": "Elixir",
-      "url": "https://github.com/openai/symphony",
+      "id": 1170253459,
+      "name": "LCEMP/LCEMP",
+      "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
+      "stars": 614,
+      "language": "C++",
+      "url": "https://github.com/LCEMP/LCEMP",
       "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+        "login": "LCEMP",
+        "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
       },
-      "updated_at": "2026-03-04T22:02:45Z"
+      "updated_at": "2026-03-04T22:35:23Z"
+    },
+    {
+      "id": 1168900248,
+      "name": "kossisoroyce/timber",
+      "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+      "stars": 541,
+      "language": "Python",
+      "url": "https://github.com/kossisoroyce/timber",
+      "owner": {
+        "login": "kossisoroyce",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
+      },
+      "updated_at": "2026-03-04T22:41:03Z"
     },
     {
       "id": 1170210179,
       "name": "hamelsmu/evals-skills",
       "description": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs",
-      "stars": 492,
+      "stars": 495,
       "language": null,
       "url": "https://github.com/hamelsmu/evals-skills",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-03-04T21:51:43Z"
+      "updated_at": "2026-03-04T22:41:38Z"
     }
   ]
 }
