@@ -1,155 +1,165 @@
 {
-  "lastUpdated": "2026-03-04T11:47:23.346Z",
+  "lastUpdated": "2026-03-04T12:01:41.557Z",
   "items": [
     {
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 795,
+      "score": 811,
       "by": "pabs3",
       "time": 1772585911,
-      "comments": 260,
+      "comments": 270,
       "domain": "grapheneos.social"
     },
     {
       "id": 47244291,
       "title": "RFC 9849. TLS Encrypted Client Hello",
       "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "score": 103,
+      "score": 115,
       "by": "P_qRs",
       "time": 1772609124,
-      "comments": 45,
+      "comments": 51,
       "domain": "rfc-editor.org"
     },
     {
       "id": 47243272,
       "title": "Agentic Engineering Patterns",
       "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "score": 183,
+      "score": 190,
       "by": "r4um",
       "time": 1772600437,
-      "comments": 81,
+      "comments": 85,
       "domain": "simonwillison.net"
+    },
+    {
+      "id": 47206647,
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
+      "score": 31,
+      "by": "exceptione",
+      "time": 1772372856,
+      "comments": 7,
+      "domain": "iev.ee"
     },
     {
       "id": 47243804,
       "title": "Better JIT for Postgres",
       "url": "https://github.com/vladich/pg_jitter",
-      "score": 75,
+      "score": 78,
       "by": "vladich",
       "time": 1772605030,
       "comments": 28,
       "domain": "github.com"
     },
     {
-      "id": 47206647,
-      "title": "RE#: how we built the fastest regex engine in F#",
-      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
-      "score": 25,
-      "by": "exceptione",
-      "time": 1772372856,
-      "comments": 6,
-      "domain": "iev.ee"
-    },
-    {
       "id": 47243069,
       "title": "A CPU that runs entirely on GPU",
       "url": "https://github.com/robertcprice/nCPU",
-      "score": 121,
+      "score": 125,
       "by": "cypres",
       "time": 1772598632,
-      "comments": 52,
+      "comments": 55,
       "domain": "github.com"
+    },
+    {
+      "id": 47245211,
+      "title": "Bet on German Train Delays",
+      "url": "https://bahn.bet",
+      "score": 14,
+      "by": "indiantinker",
+      "time": 1772617340,
+      "comments": 9,
+      "domain": "bahn.bet"
     },
     {
       "id": 47232453,
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 794,
+      "score": 795,
       "by": "scrlk",
       "time": 1772546526,
-      "comments": 845,
+      "comments": 850,
       "domain": "apple.com"
-    },
-    {
-      "id": 47242193,
-      "title": "Graphics Programming Resources",
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 108,
-      "by": "abetusk",
-      "time": 1772590981,
-      "comments": 12,
-      "domain": "develop--gpvm-website.netlify.app"
     },
     {
       "id": 47230620,
       "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
       "url": "https://github.com/lixiasky-back/coroTracer",
-      "score": 14,
+      "score": 16,
       "by": "lixiasky",
       "time": 1772534486,
       "comments": 0,
       "domain": "github.com"
     },
     {
+      "id": 47242193,
+      "title": "Graphics Programming Resources",
+      "url": "https://develop--gpvm-website.netlify.app/resources/",
+      "score": 109,
+      "by": "abetusk",
+      "time": 1772590981,
+      "comments": 12,
+      "domain": "develop--gpvm-website.netlify.app"
+    },
+    {
       "id": 47230710,
       "title": "Claude's Cycles [pdf]",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 652,
+      "score": 654,
       "by": "fs123",
       "time": 1772535462,
-      "comments": 274,
+      "comments": 275,
       "domain": "www-cs-faculty.stanford.edu"
-    },
-    {
-      "id": 47246044,
-      "title": "Users fume over Outlook.com email 'carnage'",
-      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-      "score": 10,
-      "by": "Bender",
-      "time": 1772624026,
-      "comments": 0,
-      "domain": "theregister.com"
     },
     {
       "id": 47205031,
       "title": "On the Design of Programming Languages (1974) [pdf]",
       "url": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
-      "score": 48,
+      "score": 49,
       "by": "jruohonen",
       "time": 1772356144,
       "comments": 9,
       "domain": "web.cs.ucdavis.edu"
     },
     {
+      "id": 47246044,
+      "title": "Users fume over Outlook.com email 'carnage'",
+      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "score": 19,
+      "by": "Bender",
+      "time": 1772624026,
+      "comments": 8,
+      "domain": "theregister.com"
+    },
+    {
+      "id": 47197218,
+      "title": "Show HN: Stacked Game of Life",
+      "url": "https://stacked-game-of-life.koenvangilst.nl/",
+      "score": 32,
+      "by": "vnglst",
+      "time": 1772296134,
+      "comments": 11,
+      "domain": "stacked-game-of-life.koenvangilst.nl"
+    },
+    {
       "id": 47241817,
       "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
       "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
-      "score": 272,
+      "score": 275,
       "by": "1659447091",
       "time": 1772587865,
-      "comments": 231,
+      "comments": 239,
       "domain": "bbc.com"
     },
     {
       "id": 47239042,
       "title": "Voxile: A ray-traced game made in its own engine and programming language",
       "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "score": 208,
+      "score": 209,
       "by": "spacemarine1",
       "time": 1772572227,
       "comments": 60,
       "domain": "elbowgreasegames.substack.com"
-    },
-    {
-      "id": 47197218,
-      "title": "Show HN: Stacked Game of Life",
-      "url": "https://stacked-game-of-life.koenvangilst.nl/",
-      "score": 27,
-      "by": "vnglst",
-      "time": 1772296134,
-      "comments": 10,
-      "domain": "stacked-game-of-life.koenvangilst.nl"
     },
     {
       "id": 47204027,
@@ -158,7 +168,7 @@
       "score": 147,
       "by": "giancarlostoro",
       "time": 1772343418,
-      "comments": 26,
+      "comments": 27,
       "domain": "orbitalquark.github.io"
     },
     {
@@ -168,8 +178,28 @@
       "score": 119,
       "by": "dmckinno",
       "time": 1772581101,
-      "comments": 113,
+      "comments": 116,
       "domain": "ddmckinnon.com"
+    },
+    {
+      "id": 47243036,
+      "title": "Indefinite Book Club Hiatus",
+      "url": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
+      "score": 45,
+      "by": "cdrnsf",
+      "time": 1772598320,
+      "comments": 20,
+      "domain": "whatever.scalzi.com"
+    },
+    {
+      "id": 47234917,
+      "title": "When AI writes the software, who verifies it?",
+      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "score": 249,
+      "by": "todsacerdoti",
+      "time": 1772555693,
+      "comments": 251,
+      "domain": "leodemoura.github.io"
     },
     {
       "id": 47204504,
@@ -182,70 +212,50 @@
       "domain": "play.elevatorsaga.com"
     },
     {
-      "id": 47234917,
-      "title": "When AI writes the software, who verifies it?",
-      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-      "score": 246,
-      "by": "todsacerdoti",
-      "time": 1772555693,
-      "comments": 247,
-      "domain": "leodemoura.github.io"
+      "id": 47201598,
+      "title": "You can use newline characters in URLs",
+      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
+      "score": 89,
+      "by": "chmaynard",
+      "time": 1772321097,
+      "comments": 37,
+      "domain": "lemire.me"
     },
     {
       "id": 47242637,
       "title": "Speculative Speculative Decoding (SSD)",
       "url": "https://arxiv.org/abs/2603.03251",
-      "score": 46,
+      "score": 47,
       "by": "E-Reverance",
       "time": 1772594660,
       "comments": 9,
       "domain": "arxiv.org"
     },
     {
-      "id": 47201598,
-      "title": "You can use newline characters in URLs",
-      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
-      "score": 88,
-      "by": "chmaynard",
-      "time": 1772321097,
-      "comments": 36,
-      "domain": "lemire.me"
-    },
-    {
-      "id": 47243036,
-      "title": "Indefinite Book Club Hiatus",
-      "url": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
-      "score": 41,
-      "by": "cdrnsf",
-      "time": 1772598320,
-      "comments": 19,
-      "domain": "whatever.scalzi.com"
+      "id": 47241976,
+      "title": "Weave – A language aware merge algorithm based on entities",
+      "url": "https://github.com/Ataraxy-Labs/weave",
+      "score": 133,
+      "by": "rs545837",
+      "time": 1772589141,
+      "comments": 88,
+      "domain": "github.com"
     },
     {
       "id": 47237460,
       "title": "An Interactive Intro to CRDTs (2023)",
       "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
-      "score": 155,
+      "score": 156,
       "by": "evakhoury",
       "time": 1772565752,
       "comments": 26,
       "domain": "jakelazaroff.com"
     },
     {
-      "id": 47241976,
-      "title": "Weave – A language aware merge algorithm based on entities",
-      "url": "https://github.com/Ataraxy-Labs/weave",
-      "score": 131,
-      "by": "rs545837",
-      "time": 1772589141,
-      "comments": 87,
-      "domain": "github.com"
-    },
-    {
       "id": 47211034,
       "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
       "url": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
-      "score": 25,
+      "score": 26,
       "by": "pgte",
       "time": 1772401671,
       "comments": 10,
@@ -255,7 +265,7 @@
       "id": 47236169,
       "title": "GPT‑5.3 Instant",
       "url": "https://openai.com/index/gpt-5-3-instant/",
-      "score": 361,
+      "score": 363,
       "by": "meetpateltech",
       "time": 1772560653,
       "comments": 279,
@@ -280,16 +290,6 @@
       "time": 1772591646,
       "comments": 19,
       "domain": "numberresearch.xyz"
-    },
-    {
-      "id": 47232727,
-      "title": "Don't become an engineering manager",
-      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
-      "score": 364,
-      "by": "flail",
-      "time": 1772547554,
-      "comments": 259,
-      "domain": "newsletter.manager.dev"
     }
   ]
 }
