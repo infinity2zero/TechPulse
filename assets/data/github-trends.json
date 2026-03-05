@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-03-05T21:54:30.864Z",
+  "lastUpdated": "2026-03-05T22:19:14.541Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 11098,
+      "stars": 11172,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-05T21:54:23Z"
+      "updated_at": "2026-03-05T22:18:44Z"
     },
     {
       "id": 1169170504,
       "name": "maderix/ANE",
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 5809,
+      "stars": 5810,
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE",
       "owner": {
         "login": "maderix",
         "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
       },
-      "updated_at": "2026-03-05T21:51:02Z"
+      "updated_at": "2026-03-05T22:00:43Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 2931,
+      "stars": 2959,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-05T21:53:37Z"
+      "updated_at": "2026-03-05T22:18:24Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 2850,
+      "stars": 2861,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-05T21:53:17Z"
+      "updated_at": "2026-03-05T22:18:39Z"
     },
     {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 1627,
+      "stars": 1628,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-05T21:44:22Z"
+      "updated_at": "2026-03-05T21:56:00Z"
     },
     {
       "id": 1169014161,
@@ -96,40 +96,53 @@
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1298,
+      "stars": 1300,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-05T21:53:07Z"
+      "updated_at": "2026-03-05T22:13:01Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "obliterate the chains that bind you",
-      "stars": 1278,
+      "stars": 1294,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-05T21:51:48Z"
+      "updated_at": "2026-03-05T22:17:58Z"
     },
     {
       "id": 1170266927,
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 1239,
+      "stars": 1268,
       "language": "Python",
       "url": "https://github.com/phuryn/pm-skills",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-03-05T21:52:53Z"
+      "updated_at": "2026-03-05T22:16:02Z"
+    },
+    {
+      "id": 1170475068,
+      "name": "slowmist/openclaw-security-practice-guide",
+      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+      "stars": 1122,
+      "language": "Shell",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+      "owner": {
+        "login": "slowmist",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
+      },
+      "updated_at": "2026-03-05T21:57:16Z"
     },
     {
       "id": 1170326509,
@@ -143,19 +156,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
       "updated_at": "2026-03-05T21:15:10Z"
-    },
-    {
-      "id": 1170475068,
-      "name": "slowmist/openclaw-security-practice-guide",
-      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1121,
-      "language": "Shell",
-      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
-      "owner": {
-        "login": "slowmist",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
-      },
-      "updated_at": "2026-03-05T21:46:54Z"
     },
     {
       "id": 1169199358,
@@ -200,27 +200,27 @@
       "id": 1170253459,
       "name": "LCEMP/LCEMP",
       "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 681,
+      "stars": 685,
       "language": "C++",
       "url": "https://github.com/LCEMP/LCEMP",
       "owner": {
         "login": "LCEMP",
         "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
       },
-      "updated_at": "2026-03-05T21:17:51Z"
+      "updated_at": "2026-03-05T22:15:47Z"
     },
     {
       "id": 1169920711,
       "name": "coleam00/excalidraw-diagram-skill",
       "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
-      "stars": 581,
+      "stars": 583,
       "language": "Python",
       "url": "https://github.com/coleam00/excalidraw-diagram-skill",
       "owner": {
         "login": "coleam00",
         "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
       },
-      "updated_at": "2026-03-05T21:44:09Z"
+      "updated_at": "2026-03-05T22:15:54Z"
     },
     {
       "id": 1170210179,
@@ -233,7 +233,7 @@
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-03-05T21:23:12Z"
+      "updated_at": "2026-03-05T21:57:05Z"
     },
     {
       "id": 1170617094,
@@ -252,14 +252,14 @@
       "id": 1168900248,
       "name": "kossisoroyce/timber",
       "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
-      "stars": 553,
+      "stars": 554,
       "language": "Python",
       "url": "https://github.com/kossisoroyce/timber",
       "owner": {
         "login": "kossisoroyce",
         "avatar_url": "https://avatars.githubusercontent.com/u/65903011?v=4"
       },
-      "updated_at": "2026-03-05T19:49:18Z"
+      "updated_at": "2026-03-05T22:10:30Z"
     }
   ]
 }
