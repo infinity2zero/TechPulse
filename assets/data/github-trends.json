@@ -1,187 +1,187 @@
 {
-  "lastUpdated": "2026-03-05T07:50:16.286Z",
+  "lastUpdated": "2026-03-05T08:24:06.424Z",
   "items": [
-    {
-      "id": 1169170504,
-      "name": "maderix/ANE",
-      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 5646,
-      "language": "Objective-C",
-      "url": "https://github.com/maderix/ANE",
-      "owner": {
-        "login": "maderix",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
-      },
-      "updated_at": "2026-03-05T07:49:05Z"
-    },
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 5420,
+      "stars": 5777,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-05T07:50:12Z"
+      "updated_at": "2026-03-05T08:24:02Z"
+    },
+    {
+      "id": 1169170504,
+      "name": "maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "stars": 5666,
+      "language": "Objective-C",
+      "url": "https://github.com/maderix/ANE",
+      "owner": {
+        "login": "maderix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
+      },
+      "updated_at": "2026-03-05T08:19:51Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 2552,
+      "stars": 2559,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-05T07:48:11Z"
+      "updated_at": "2026-03-05T08:21:02Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 1825,
+      "stars": 1886,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-05T07:49:44Z"
+      "updated_at": "2026-03-05T08:23:10Z"
     },
     {
       "id": 1169014161,
       "name": "ylytdeng/wechat-decrypt",
       "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
-      "stars": 1464,
+      "stars": 1468,
       "language": "Python",
       "url": "https://github.com/ylytdeng/wechat-decrypt",
       "owner": {
         "login": "ylytdeng",
         "avatar_url": "https://avatars.githubusercontent.com/u/848478?v=4"
       },
-      "updated_at": "2026-03-05T07:46:41Z"
+      "updated_at": "2026-03-05T08:14:52Z"
     },
     {
       "id": 1168481509,
       "name": "open-pencil/open-pencil",
       "description": "AI-native design editor. Open-source Figma alternative.",
-      "stars": 1437,
+      "stars": 1446,
       "language": "TypeScript",
       "url": "https://github.com/open-pencil/open-pencil",
       "owner": {
         "login": "open-pencil",
         "avatar_url": "https://avatars.githubusercontent.com/u/264800975?v=4"
       },
-      "updated_at": "2026-03-05T07:44:43Z"
+      "updated_at": "2026-03-05T08:15:51Z"
     },
     {
       "id": 1168456418,
       "name": "ForLoopCodes/contextplus",
       "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
-      "stars": 1355,
+      "stars": 1356,
       "language": "TypeScript",
       "url": "https://github.com/ForLoopCodes/contextplus",
       "owner": {
         "login": "ForLoopCodes",
         "avatar_url": "https://avatars.githubusercontent.com/u/89027512?v=4"
       },
-      "updated_at": "2026-03-05T07:27:15Z"
+      "updated_at": "2026-03-05T08:02:19Z"
     },
     {
       "id": 1170016912,
       "name": "World-Open-Graph/br-acc",
       "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1257,
+      "stars": 1258,
       "language": "Python",
       "url": "https://github.com/World-Open-Graph/br-acc",
       "owner": {
         "login": "World-Open-Graph",
         "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
       },
-      "updated_at": "2026-03-05T05:41:45Z"
+      "updated_at": "2026-03-05T08:09:46Z"
     },
     {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1034,
+      "stars": 1041,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-05T07:36:07Z"
+      "updated_at": "2026-03-05T08:12:36Z"
     },
     {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 1034,
+      "stars": 1037,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-05T07:42:05Z"
+      "updated_at": "2026-03-05T08:13:54Z"
     },
     {
       "id": 1169199358,
       "name": "34306/vphone-aio",
       "description": "1 script run the vphone",
-      "stars": 937,
+      "stars": 938,
       "language": "Shell",
       "url": "https://github.com/34306/vphone-aio",
       "owner": {
         "login": "34306",
         "avatar_url": "https://avatars.githubusercontent.com/u/79745143?v=4"
       },
-      "updated_at": "2026-03-05T07:46:33Z"
+      "updated_at": "2026-03-05T07:58:07Z"
     },
     {
       "id": 1168261320,
       "name": "xstongxue/best-prompts",
       "description": "通用高质量 Prompt 合集🔥",
-      "stars": 792,
+      "stars": 797,
       "language": null,
       "url": "https://github.com/xstongxue/best-prompts",
       "owner": {
         "login": "xstongxue",
         "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
       },
-      "updated_at": "2026-03-05T07:48:46Z"
+      "updated_at": "2026-03-05T07:58:08Z"
     },
     {
       "id": 1170321595,
       "name": "LeoYeAI/openclaw-guardian",
       "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
-      "stars": 746,
+      "stars": 748,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-guardian",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-05T07:38:09Z"
+      "updated_at": "2026-03-05T08:21:53Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "obliterate the chains that bind you",
-      "stars": 651,
+      "stars": 684,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-05T07:48:16Z"
+      "updated_at": "2026-03-05T08:23:43Z"
     },
     {
       "id": 1170253459,
@@ -213,53 +213,53 @@
       "id": 1170210179,
       "name": "hamelsmu/evals-skills",
       "description": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs",
-      "stars": 531,
+      "stars": 533,
       "language": null,
       "url": "https://github.com/hamelsmu/evals-skills",
       "owner": {
         "login": "hamelsmu",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
       },
-      "updated_at": "2026-03-05T07:50:06Z"
+      "updated_at": "2026-03-05T08:18:11Z"
     },
     {
       "id": 1169920711,
       "name": "coleam00/excalidraw-diagram-skill",
       "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
-      "stars": 493,
+      "stars": 494,
       "language": "Python",
       "url": "https://github.com/coleam00/excalidraw-diagram-skill",
       "owner": {
         "login": "coleam00",
         "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
       },
-      "updated_at": "2026-03-05T07:41:56Z"
+      "updated_at": "2026-03-05T07:57:16Z"
     },
     {
       "id": 1169010341,
       "name": "star23/Day1Global-Skills",
       "description": "Day1Global Skills Share 美股和加密分析，生产力 Skills 分享",
-      "stars": 478,
+      "stars": 479,
       "language": null,
       "url": "https://github.com/star23/Day1Global-Skills",
       "owner": {
         "login": "star23",
         "avatar_url": "https://avatars.githubusercontent.com/u/3275529?v=4"
       },
-      "updated_at": "2026-03-05T07:08:49Z"
+      "updated_at": "2026-03-05T08:21:29Z"
     },
     {
       "id": 1168561191,
       "name": "vercel-labs/webreel",
       "description": "Record scripted browser demos as video",
-      "stars": 459,
+      "stars": 461,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/webreel",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-03-05T06:35:29Z"
+      "updated_at": "2026-03-05T08:14:12Z"
     }
   ]
 }
