@@ -1,51 +1,41 @@
 {
-  "lastUpdated": "2026-03-06T21:27:59.335Z",
+  "lastUpdated": "2026-03-06T21:51:53.769Z",
   "items": [
     {
       "id": 47280352,
       "title": "Ada 2022",
       "url": "https://www.adaic.org/ada-resources/standards/ada22/",
-      "score": 56,
+      "score": 71,
       "by": "tosh",
       "time": 1772827428,
-      "comments": 6,
+      "comments": 13,
       "domain": "adaic.org"
     },
     {
-      "id": 47280550,
-      "title": "Why it takes you and an elephant the same amount of time to poop (2017)",
-      "url": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
-      "score": 41,
-      "by": "Tomte",
-      "time": 1772828366,
-      "comments": 36,
-      "domain": "pbs.org"
-    },
-    {
-      "id": 47280200,
-      "title": "Anthropic, Please Make a New Slack",
-      "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
-      "score": 60,
-      "by": "georgewfraser",
-      "time": 1772826728,
-      "comments": 31,
-      "domain": "fivetran.com"
+      "id": 47279189,
+      "title": "TSA leaves passenger needing surgery after illegally forcing her through scanner",
+      "url": "https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/",
+      "score": 84,
+      "by": "SunshineTheCat",
+      "time": 1772822427,
+      "comments": 46,
+      "domain": "thetravel.com"
     },
     {
       "id": 47278426,
       "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
       "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 464,
+      "score": 489,
       "by": "enraged_camel",
       "time": 1772819205,
-      "comments": 323,
+      "comments": 338,
       "domain": "twitter.com"
     },
     {
       "id": 47275236,
       "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
       "url": "https://github.com/moongate-community/moongatev2",
-      "score": 189,
+      "score": 199,
       "by": "squidleon",
       "time": 1772806979,
       "comments": 111,
@@ -55,57 +45,67 @@
       "id": 47273854,
       "title": "Hardening Firefox with Anthropic's Red Team",
       "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 367,
+      "score": 380,
       "by": "todsacerdoti",
       "time": 1772797998,
-      "comments": 110,
+      "comments": 113,
       "domain": "anthropic.com"
     },
     {
       "id": 47219462,
       "title": "Open Camera is a FOSS Camera App for Android",
       "url": "https://opencamera.org.uk/",
-      "score": 168,
+      "score": 173,
       "by": "tetris11",
       "time": 1772466411,
-      "comments": 76,
+      "comments": 78,
       "domain": "opencamera.org.uk"
     },
     {
       "id": 47206990,
       "title": "Apache Otava",
       "url": "https://otava.apache.org/",
-      "score": 33,
+      "score": 41,
       "by": "djoldman",
       "time": 1772375232,
-      "comments": 2,
+      "comments": 3,
       "domain": "otava.apache.org"
+    },
+    {
+      "id": 47281080,
+      "title": "The Worst Acquisition in History, Again",
+      "url": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+      "score": 8,
+      "by": "JumpCrisscross",
+      "time": 1772831263,
+      "comments": 3,
+      "domain": "profgmedia.com"
     },
     {
       "id": 47220411,
       "title": "Payphone Go",
       "url": "https://walzr.com/payphone-go/",
-      "score": 261,
+      "score": 266,
       "by": "walz",
       "time": 1772469943,
-      "comments": 56,
+      "comments": 57,
       "domain": "walzr.com"
     },
     {
       "id": 47275152,
       "title": "CT Scans of Health Wearables",
       "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-      "score": 152,
+      "score": 153,
       "by": "radeeyate",
       "time": 1772806566,
-      "comments": 33,
+      "comments": 34,
       "domain": "lumafield.com"
     },
     {
       "id": 47215112,
       "title": "Triplet Superconductor",
       "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
-      "score": 25,
+      "score": 29,
       "by": "jonbaer",
       "time": 1772438767,
       "comments": 6,
@@ -115,51 +115,51 @@
       "id": 47276865,
       "title": "Astra: An open-source observatory control software",
       "url": "https://github.com/ppp-one/astra",
-      "score": 65,
+      "score": 66,
       "by": "pppone",
       "time": 1772813670,
       "comments": 17,
       "domain": "github.com"
     },
     {
-      "id": 47279189,
-      "title": "TSA leaves passenger needing surgery after illegally forcing her through scanner",
-      "url": "https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/",
-      "score": 24,
-      "by": "SunshineTheCat",
-      "time": 1772822427,
-      "comments": 6,
-      "domain": "thetravel.com"
-    },
-    {
       "id": 47276539,
       "title": "Entomologists use a particle accelerator to image ants at scale",
       "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-      "score": 65,
+      "score": 71,
       "by": "gmays",
       "time": 1772812412,
       "comments": 6,
       "domain": "spectrum.ieee.org"
     },
     {
+      "id": 47280200,
+      "title": "Anthropic, Please Make a New Slack",
+      "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+      "score": 88,
+      "by": "georgewfraser",
+      "time": 1772826728,
+      "comments": 63,
+      "domain": "fivetran.com"
+    },
+    {
       "id": 47272799,
       "title": "LibreSprite – open-source pixel art editor",
       "url": "https://libresprite.github.io/",
-      "score": 222,
+      "score": 225,
       "by": "nicoloren",
       "time": 1772788920,
-      "comments": 73,
+      "comments": 75,
       "domain": "libresprite.github.io"
     },
     {
-      "id": 47274676,
-      "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
-      "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 450,
-      "by": "Anon84",
-      "time": 1772803854,
-      "comments": 262,
-      "domain": "news.cornell.edu"
+      "id": 47275291,
+      "title": "A tool that removes censorship from open-weight LLMs",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "score": 66,
+      "by": "mvdwoord",
+      "time": 1772807275,
+      "comments": 28,
+      "domain": "github.com"
     },
     {
       "id": 47263441,
@@ -168,48 +168,88 @@
       "score": 74,
       "by": "surprisetalk",
       "time": 1772727164,
-      "comments": 3,
+      "comments": 4,
       "domain": "matejlou.blog"
-    },
-    {
-      "id": 47275291,
-      "title": "A tool that removes censorship from open-weight LLMs",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "score": 56,
-      "by": "mvdwoord",
-      "time": 1772807275,
-      "comments": 26,
-      "domain": "github.com"
     },
     {
       "id": 47275230,
       "title": "Good Bad ISPs",
       "url": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
-      "score": 80,
+      "score": 83,
       "by": "rzk",
       "time": 1772806945,
       "comments": 25,
       "domain": "community.torproject.org"
     },
     {
-      "id": 47275088,
-      "title": "Global warming has accelerated significantly",
-      "url": "https://www.researchsquare.com/article/rs-6079807/v1",
-      "score": 838,
-      "by": "morsch",
-      "time": 1772806203,
-      "comments": 821,
-      "domain": "researchsquare.com"
-    },
-    {
       "id": 47276604,
       "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
       "url": "https://github.com/es617/claude-replay",
-      "score": 40,
+      "score": 44,
       "by": "es617",
       "time": 1772812647,
-      "comments": 19,
+      "comments": 21,
       "domain": "github.com"
+    },
+    {
+      "id": 47275088,
+      "title": "Global warming has accelerated significantly",
+      "url": "https://www.researchsquare.com/article/rs-6079807/v1",
+      "score": 848,
+      "by": "morsch",
+      "time": 1772806203,
+      "comments": 835,
+      "domain": "researchsquare.com"
+    },
+    {
+      "id": 47280550,
+      "title": "Why it takes you and an elephant the same amount of time to poop (2017)",
+      "url": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
+      "score": 45,
+      "by": "Tomte",
+      "time": 1772828366,
+      "comments": 41,
+      "domain": "pbs.org"
+    },
+    {
+      "id": 47232339,
+      "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
+      "url": "https://github.com/taiseiue/primitive-playground",
+      "score": 9,
+      "by": "taiseiue",
+      "time": 1772546111,
+      "comments": 1,
+      "domain": "github.com"
+    },
+    {
+      "id": 47280567,
+      "title": "TypeScript 6.0 RC",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
+      "score": 32,
+      "by": "johnz",
+      "time": 1772828461,
+      "comments": 5,
+      "domain": "devblogs.microsoft.com"
+    },
+    {
+      "id": 47276220,
+      "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
+      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+      "score": 113,
+      "by": "fortran77",
+      "time": 1772811197,
+      "comments": 22,
+      "domain": "blog.adafruit.com"
+    },
+    {
+      "id": 47272734,
+      "title": "We might all be AI engineers now",
+      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+      "score": 141,
+      "by": "sn0wflak3s",
+      "time": 1772788410,
+      "comments": 213,
+      "domain": "yasint.dev"
     },
     {
       "id": 47234907,
@@ -222,64 +262,14 @@
       "domain": "sniphi.com"
     },
     {
-      "id": 47276220,
-      "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
-      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-      "score": 109,
-      "by": "fortran77",
-      "time": 1772811197,
-      "comments": 22,
-      "domain": "blog.adafruit.com"
-    },
-    {
-      "id": 47272734,
-      "title": "We might all be AI engineers now",
-      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-      "score": 133,
-      "by": "sn0wflak3s",
-      "time": 1772788410,
-      "comments": 196,
-      "domain": "yasint.dev"
-    },
-    {
-      "id": 47232339,
-      "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
-      "url": "https://github.com/taiseiue/primitive-playground",
-      "score": 6,
-      "by": "taiseiue",
-      "time": 1772546111,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
       "id": 47277420,
       "title": "Supertoast tables",
       "url": "https://hatchet.run/blog/supertoast-tables",
-      "score": 42,
+      "score": 43,
       "by": "abelanger",
       "time": 1772815610,
-      "comments": 5,
+      "comments": 6,
       "domain": "hatchet.run"
-    },
-    {
-      "id": 47280567,
-      "title": "TypeScript 6.0 RC",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
-      "score": 21,
-      "by": "johnz",
-      "time": 1772828461,
-      "comments": 3,
-      "domain": "devblogs.microsoft.com"
-    },
-    {
-      "id": 47272338,
-      "title": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
-      "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
-      "score": 116,
-      "by": "tobr",
-      "time": 1772784808,
-      "comments": 69,
-      "domain": "unsung.aresluna.org"
     }
   ]
 }
