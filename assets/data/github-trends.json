@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-07T22:18:05.913Z",
+  "lastUpdated": "2026-03-07T22:43:20.743Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 15187,
+      "stars": 15203,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-07T22:17:21Z"
+      "updated_at": "2026-03-07T22:43:11Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 7884,
+      "stars": 7941,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-07T22:18:00Z"
+      "updated_at": "2026-03-07T22:42:29Z"
     },
     {
       "id": 1170266927,
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 4604,
+      "stars": 4628,
       "language": null,
       "url": "https://github.com/phuryn/pm-skills",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-03-07T22:18:00Z"
+      "updated_at": "2026-03-07T22:43:12Z"
     },
     {
       "id": 1169696969,
       "name": "smartcmd/MinecraftConsoles",
       "description": "A certain block game",
-      "stars": 3902,
+      "stars": 3906,
       "language": "C++",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
       "owner": {
         "login": "smartcmd",
         "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
       },
-      "updated_at": "2026-03-07T22:12:12Z"
+      "updated_at": "2026-03-07T22:36:10Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "obliterate the chains that bind you",
-      "stars": 2170,
+      "stars": 2179,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-07T22:12:43Z"
+      "updated_at": "2026-03-07T22:38:24Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 1470,
+      "stars": 1574,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-07T22:18:05Z"
+      "updated_at": "2026-03-07T22:42:16Z"
     },
     {
       "id": 1170326509,
@@ -135,40 +135,40 @@
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1019,
+      "stars": 1031,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-07T22:14:20Z"
+      "updated_at": "2026-03-07T22:36:53Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 813,
+      "stars": 820,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-07T22:16:07Z"
+      "updated_at": "2026-03-07T22:37:55Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 770,
+      "stars": 771,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-07T21:51:58Z"
+      "updated_at": "2026-03-07T22:22:27Z"
     },
     {
       "id": 1170755412,
@@ -187,14 +187,14 @@
       "id": 1170253459,
       "name": "LCEMP/LCEMP",
       "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 751,
+      "stars": 752,
       "language": "C++",
       "url": "https://github.com/LCEMP/LCEMP",
       "owner": {
         "login": "LCEMP",
         "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
       },
-      "updated_at": "2026-03-07T22:10:11Z"
+      "updated_at": "2026-03-07T22:25:15Z"
     },
     {
       "id": 1169920711,
