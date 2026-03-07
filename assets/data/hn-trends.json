@@ -1,45 +1,55 @@
 {
-  "lastUpdated": "2026-03-07T09:30:46.569Z",
+  "lastUpdated": "2026-03-07T09:52:17.770Z",
   "items": [
     {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "url": "https://plasma-bigscreen.org",
-      "score": 406,
+      "score": 413,
       "by": "PaulHoule",
       "time": 1772841556,
-      "comments": 115,
+      "comments": 120,
       "domain": "plasma-bigscreen.org"
     },
     {
       "id": 47283665,
       "title": "UUID package coming to Go standard library",
       "url": "https://github.com/golang/go/issues/62026",
-      "score": 175,
+      "score": 180,
       "by": "soypat",
       "time": 1772849001,
-      "comments": 97,
+      "comments": 102,
       "domain": "github.com"
+    },
+    {
+      "id": 47285846,
+      "title": "QGIS 4.0",
+      "url": "https://changelog.qgis.org/en/version/4.0/",
+      "score": 28,
+      "by": "jonbaer",
+      "time": 1772873627,
+      "comments": 0,
+      "domain": "changelog.qgis.org"
     },
     {
       "id": 47281593,
       "title": "this css proves me human",
       "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 257,
+      "score": 262,
       "by": "todsacerdoti",
       "time": 1772833964,
       "comments": 87,
       "domain": "will-keleher.com"
     },
     {
-      "id": 47256941,
-      "title": "Maybe there's a pattern here?",
-      "url": "https://dynomight.net/pattern/",
-      "score": 109,
-      "by": "surprisetalk",
-      "time": 1772679490,
-      "comments": 65,
-      "domain": "dynomight.net"
+      "id": 47233441,
+      "title": "Working and Communicating with Japanese Engineers",
+      "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+      "score": 21,
+      "by": "zdw",
+      "time": 1772550152,
+      "comments": 7,
+      "domain": "tokyodev.com"
     },
     {
       "id": 47263938,
@@ -55,47 +65,37 @@
       "id": 47283337,
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 209,
+      "score": 214,
       "by": "dnw",
       "time": 1772846277,
-      "comments": 171,
+      "comments": 173,
       "domain": "blog.katanaquant.com"
-    },
-    {
-      "id": 47285846,
-      "title": "QGIS 4.0",
-      "url": "https://changelog.qgis.org/en/version/4.0/",
-      "score": 10,
-      "by": "jonbaer",
-      "time": 1772873627,
-      "comments": 0,
-      "domain": "changelog.qgis.org"
     },
     {
       "id": 47282701,
       "title": "Helix: A post-modern text editor",
       "url": "https://helix-editor.com/",
-      "score": 130,
+      "score": 135,
       "by": "doener",
       "time": 1772841209,
-      "comments": 42,
+      "comments": 46,
       "domain": "helix-editor.com"
     },
     {
-      "id": 47233441,
-      "title": "Working and Communicating with Japanese Engineers",
-      "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
-      "score": 14,
-      "by": "zdw",
-      "time": 1772550152,
-      "comments": 4,
-      "domain": "tokyodev.com"
+      "id": 47256941,
+      "title": "Maybe there's a pattern here?",
+      "url": "https://dynomight.net/pattern/",
+      "score": 118,
+      "by": "surprisetalk",
+      "time": 1772679490,
+      "comments": 71,
+      "domain": "dynomight.net"
     },
     {
       "id": 47231871,
       "title": "Querying 3B Vectors",
       "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
-      "score": 43,
+      "score": 45,
       "by": "surprisetalk",
       "time": 1772543831,
       "comments": 5,
@@ -105,7 +105,7 @@
       "id": 47275236,
       "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
       "url": "https://github.com/moongate-community/moongatev2",
-      "score": 252,
+      "score": 255,
       "by": "squidleon",
       "time": 1772806979,
       "comments": 139,
@@ -115,21 +115,51 @@
       "id": 47285422,
       "title": "Sarvam 105B, the first competitive Indian open source LLM",
       "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-      "score": 25,
+      "score": 32,
       "by": "logicchains",
       "time": 1772869437,
-      "comments": 2,
+      "comments": 4,
       "domain": "sarvam.ai"
     },
     {
       "id": 47247030,
       "title": "Editing changes in patch format with Jujutsu",
       "url": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
-      "score": 20,
+      "score": 22,
       "by": "cassepipe",
       "time": 1772630484,
       "comments": 2,
       "domain": "knifepoint.net"
+    },
+    {
+      "id": 47265580,
+      "title": "Modernizing swapping: virtual swap spaces",
+      "url": "https://lwn.net/Articles/1059201/",
+      "score": 26,
+      "by": "voxadam",
+      "time": 1772736477,
+      "comments": 15,
+      "domain": "lwn.net"
+    },
+    {
+      "id": 47244882,
+      "title": "What canceled my Go context?",
+      "url": "https://rednafi.com/go/context-cancellation-cause/",
+      "score": 57,
+      "by": "mweibel",
+      "time": 1772614856,
+      "comments": 29,
+      "domain": "rednafi.com"
+    },
+    {
+      "id": 47278426,
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "score": 883,
+      "by": "enraged_camel",
+      "time": 1772819205,
+      "comments": 582,
+      "domain": "twitter.com"
     },
     {
       "id": 47234689,
@@ -142,34 +172,24 @@
       "domain": "cluetrain.com"
     },
     {
-      "id": 47244882,
-      "title": "What canceled my Go context?",
-      "url": "https://rednafi.com/go/context-cancellation-cause/",
-      "score": 53,
-      "by": "mweibel",
-      "time": 1772614856,
-      "comments": 28,
-      "domain": "rednafi.com"
+      "id": 47264742,
+      "title": "My application programmer instincts failed when debugging assembler",
+      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "score": 9,
+      "by": "lifefeed",
+      "time": 1772732613,
+      "comments": 6,
+      "domain": "landedstar.com"
     },
     {
-      "id": 47265580,
-      "title": "Modernizing swapping: virtual swap spaces",
-      "url": "https://lwn.net/Articles/1059201/",
-      "score": 22,
-      "by": "voxadam",
-      "time": 1772736477,
-      "comments": 11,
-      "domain": "lwn.net"
-    },
-    {
-      "id": 47278426,
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 875,
-      "by": "enraged_camel",
-      "time": 1772819205,
-      "comments": 582,
-      "domain": "twitter.com"
+      "id": 47242775,
+      "title": "Lock Scroll with a Vengeance",
+      "url": "https://unsung.aresluna.org/lock-scroll-with-a-vengeance/",
+      "score": 6,
+      "by": "etothet",
+      "time": 1772595737,
+      "comments": 0,
+      "domain": "unsung.aresluna.org"
     },
     {
       "id": 47282807,
@@ -185,31 +205,41 @@
       "id": 47275152,
       "title": "CT Scans of Health Wearables",
       "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-      "score": 215,
+      "score": 216,
       "by": "radeeyate",
       "time": 1772806566,
-      "comments": 44,
+      "comments": 45,
       "domain": "lumafield.com"
-    },
-    {
-      "id": 47281221,
-      "title": "The shady world of IP leasing",
-      "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
-      "score": 109,
-      "by": "alibarber",
-      "time": 1772831965,
-      "comments": 60,
-      "domain": "acid.vegas"
     },
     {
       "id": 47276539,
       "title": "Entomologists use a particle accelerator to image ants at scale",
       "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-      "score": 127,
+      "score": 128,
       "by": "gmays",
       "time": 1772812412,
       "comments": 24,
       "domain": "spectrum.ieee.org"
+    },
+    {
+      "id": 47281221,
+      "title": "The shady world of IP leasing",
+      "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+      "score": 110,
+      "by": "alibarber",
+      "time": 1772831965,
+      "comments": 63,
+      "domain": "acid.vegas"
+    },
+    {
+      "id": 47273854,
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "score": 566,
+      "by": "todsacerdoti",
+      "time": 1772797998,
+      "comments": 153,
+      "domain": "anthropic.com"
     },
     {
       "id": 47282230,
@@ -218,37 +248,17 @@
       "score": 97,
       "by": "PretzelFisch",
       "time": 1772837737,
-      "comments": 68,
+      "comments": 69,
       "domain": "consultwithgriff.com"
-    },
-    {
-      "id": 47264742,
-      "title": "My application programmer instincts failed when debugging assembler",
-      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-      "score": 7,
-      "by": "lifefeed",
-      "time": 1772732613,
-      "comments": 6,
-      "domain": "landedstar.com"
-    },
-    {
-      "id": 47273854,
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 564,
-      "by": "todsacerdoti",
-      "time": 1772797998,
-      "comments": 153,
-      "domain": "anthropic.com"
     },
     {
       "id": 47275291,
       "title": "A tool that removes censorship from open-weight LLMs",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "score": 163,
+      "score": 166,
       "by": "mvdwoord",
       "time": 1772807275,
-      "comments": 76,
+      "comments": 78,
       "domain": "github.com"
     },
     {
@@ -262,20 +272,10 @@
       "domain": "yare.io"
     },
     {
-      "id": 47267998,
-      "title": "A Modular Robot Dashboard",
-      "url": "https://github.com/transitiverobotics/transact",
-      "score": 19,
-      "by": "chfritz",
-      "time": 1772748611,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
       "id": 47274676,
       "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
       "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 556,
+      "score": 558,
       "by": "Anon84",
       "time": 1772803854,
       "comments": 310,
