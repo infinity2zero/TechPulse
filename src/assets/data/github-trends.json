@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-03-07T21:48:11.230Z",
+  "lastUpdated": "2026-03-07T21:56:46.342Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 15177,
+      "stars": 15183,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-07T21:48:05Z"
+      "updated_at": "2026-03-07T21:56:28Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 7797,
+      "stars": 7830,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-07T21:48:00Z"
+      "updated_at": "2026-03-07T21:56:29Z"
     },
     {
       "id": 1170266927,
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 4573,
+      "stars": 4583,
       "language": null,
       "url": "https://github.com/phuryn/pm-skills",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-03-07T21:45:05Z"
+      "updated_at": "2026-03-07T21:56:05Z"
     },
     {
       "id": 1169696969,
@@ -57,14 +57,14 @@
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "obliterate the chains that bind you",
-      "stars": 2167,
+      "stars": 2168,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-07T21:38:34Z"
+      "updated_at": "2026-03-07T21:55:44Z"
     },
     {
       "id": 1170326509,
@@ -93,6 +93,19 @@
       "updated_at": "2026-03-07T21:36:53Z"
     },
     {
+      "id": 1174820787,
+      "name": "karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 1360,
+      "language": "Python",
+      "url": "https://github.com/karpathy/autoresearch",
+      "owner": {
+        "login": "karpathy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+      },
+      "updated_at": "2026-03-07T21:56:26Z"
+    },
+    {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
@@ -104,19 +117,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
       "updated_at": "2026-03-07T20:12:39Z"
-    },
-    {
-      "id": 1174820787,
-      "name": "karpathy/autoresearch",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 1319,
-      "language": "Python",
-      "url": "https://github.com/karpathy/autoresearch",
-      "owner": {
-        "login": "karpathy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
-      },
-      "updated_at": "2026-03-07T21:47:30Z"
     },
     {
       "id": 1170321595,
@@ -135,14 +135,14 @@
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1005,
+      "stars": 1011,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-07T21:47:56Z"
+      "updated_at": "2026-03-07T21:56:23Z"
     },
     {
       "id": 1174042197,
@@ -161,14 +161,14 @@
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 768,
+      "stars": 770,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-07T20:55:26Z"
+      "updated_at": "2026-03-07T21:51:58Z"
     },
     {
       "id": 1170755412,
@@ -213,14 +213,14 @@
       "id": 1172573009,
       "name": "tanishqkumar/ssd",
       "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "stars": 686,
+      "stars": 687,
       "language": "Python",
       "url": "https://github.com/tanishqkumar/ssd",
       "owner": {
         "login": "tanishqkumar",
         "avatar_url": "https://avatars.githubusercontent.com/u/52631353?v=4"
       },
-      "updated_at": "2026-03-07T18:20:48Z"
+      "updated_at": "2026-03-07T21:54:36Z"
     },
     {
       "id": 1170617094,
