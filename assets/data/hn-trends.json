@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-03-07T20:41:41.627Z",
+  "lastUpdated": "2026-03-07T20:56:16.051Z",
   "items": [
     {
       "id": 47289311,
       "title": "A Decade of Docker Containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 155,
+      "score": 160,
       "by": "zacwest",
       "time": 1772902518,
-      "comments": 99,
+      "comments": 103,
       "domain": "cacm.acm.org"
     },
     {
       "id": 47271988,
       "title": "Dumping Lego NXT firmware off of an existing brick",
       "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "score": 43,
+      "score": 57,
       "by": "theblazehen",
       "time": 1772781468,
-      "comments": 1,
+      "comments": 3,
       "domain": "arcanenibble.github.io"
+    },
+    {
+      "id": 47291292,
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "score": 6,
+      "by": "aebtebeten",
+      "time": 1772916231,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
+      "id": 47291036,
+      "title": "War Prediction Markets Are a National-Security Threat",
+      "url": "https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/",
+      "score": 53,
+      "by": "fortran77",
+      "time": 1772914170,
+      "comments": 17,
+      "domain": "theatlantic.com"
     },
     {
       "id": 47288533,
       "title": "The Millisecond That Could Change Cancer Treatment",
       "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "score": 140,
+      "score": 145,
       "by": "marc__1",
       "time": 1772897616,
-      "comments": 40,
+      "comments": 43,
       "domain": "spectrum.ieee.org"
     },
     {
       "id": 47286311,
       "title": "Ki Editor - an editor that operates on the AST",
       "url": "https://ki-editor.org/",
-      "score": 315,
+      "score": 318,
       "by": "ravenical",
       "time": 1772879353,
-      "comments": 107,
+      "comments": 110,
       "domain": "ki-editor.org"
-    },
-    {
-      "id": 47291036,
-      "title": "War Prediction Markets Are a National-Security Threat",
-      "url": "https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/",
-      "score": 36,
-      "by": "fortran77",
-      "time": 1772914170,
-      "comments": 6,
-      "domain": "theatlantic.com"
     },
     {
       "id": 47250500,
       "title": "macOS code injection for fun and no profit (2024)",
       "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
-      "score": 26,
+      "score": 30,
       "by": "jstrieb",
       "time": 1772643900,
-      "comments": 0,
+      "comments": 1,
       "domain": "mariozechner.at"
-    },
-    {
-      "id": 47290457,
-      "title": "We're Training Students to Write Worse to Prove They're Not Robots",
-      "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
-      "score": 73,
-      "by": "PretzelFisch",
-      "time": 1772910061,
-      "comments": 40,
-      "domain": "techdirt.com"
     },
     {
       "id": 47240169,
@@ -85,41 +85,81 @@
       "id": 47280958,
       "title": "Re-creating the complex cuisine of prehistoric Europeans",
       "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
-      "score": 41,
+      "score": 45,
       "by": "apollinaire",
       "time": 1772830627,
-      "comments": 9,
+      "comments": 10,
       "domain": "arstechnica.com"
+    },
+    {
+      "id": 47291202,
+      "title": "Sam Altman's greed and dishonesty are finally catching up to him",
+      "url": "https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty",
+      "score": 13,
+      "by": "only_in_america",
+      "time": 1772915569,
+      "comments": 0,
+      "domain": "garymarcus.substack.com"
+    },
+    {
+      "id": 47290457,
+      "title": "We're Training Students to Write Worse to Prove They're Not Robots",
+      "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
+      "score": 83,
+      "by": "PretzelFisch",
+      "time": 1772910061,
+      "comments": 60,
+      "domain": "techdirt.com"
     },
     {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "url": "https://plasma-bigscreen.org",
-      "score": 606,
+      "score": 607,
       "by": "PaulHoule",
       "time": 1772841556,
-      "comments": 203,
+      "comments": 204,
       "domain": "plasma-bigscreen.org"
+    },
+    {
+      "id": 47247644,
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+      "score": 10,
+      "by": "rfarley04",
+      "time": 1772633791,
+      "comments": 0,
+      "domain": "buttondown.com"
     },
     {
       "id": 47288007,
       "title": "Show HN: ANSI-Saver – A macOS Screensaver",
       "url": "https://github.com/lardissone/ansi-saver",
-      "score": 63,
+      "score": 66,
       "by": "lardissone",
       "time": 1772894056,
       "comments": 20,
       "domain": "github.com"
     },
     {
-      "id": 47268838,
-      "title": "Self-Portrait by Ernst Mach (1886)",
-      "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
-      "score": 65,
-      "by": "Hooke",
-      "time": 1772754506,
-      "comments": 11,
-      "domain": "publicdomainreview.org"
+      "id": 47287344,
+      "title": "The yoghurt delivery women combatting loneliness in Japan",
+      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "score": 150,
+      "by": "ranit",
+      "time": 1772889160,
+      "comments": 106,
+      "domain": "bbc.com"
+    },
+    {
+      "id": 47260028,
+      "title": "Bourdieu's theory of taste: a grumbling abrégé (2023)",
+      "url": "https://dynomight.net/bourdieu/",
+      "score": 21,
+      "by": "sebg",
+      "time": 1772706799,
+      "comments": 10,
+      "domain": "dynomight.net"
     },
     {
       "id": 47287792,
@@ -128,48 +168,28 @@
       "score": 134,
       "by": "LorenDB",
       "time": 1772892617,
-      "comments": 105,
+      "comments": 106,
       "domain": "tomshardware.com"
     },
     {
       "id": 47283665,
       "title": "UUID package coming to Go standard library",
       "url": "https://github.com/golang/go/issues/62026",
-      "score": 325,
+      "score": 329,
       "by": "soypat",
       "time": 1772849001,
-      "comments": 205,
+      "comments": 208,
       "domain": "github.com"
     },
     {
-      "id": 47286408,
-      "title": "Filesystems Are Having a Moment",
-      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-      "score": 128,
-      "by": "malgamves",
-      "time": 1772880523,
-      "comments": 68,
-      "domain": "madalitso.me"
-    },
-    {
-      "id": 47287344,
-      "title": "The yoghurt delivery women combatting loneliness in Japan",
-      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "score": 144,
-      "by": "ranit",
-      "time": 1772889160,
-      "comments": 102,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 47247644,
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-      "score": 5,
-      "by": "rfarley04",
-      "time": 1772633791,
-      "comments": 0,
-      "domain": "buttondown.com"
+      "id": 47268838,
+      "title": "Self-Portrait by Ernst Mach (1886)",
+      "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+      "score": 69,
+      "by": "Hooke",
+      "time": 1772754506,
+      "comments": 11,
+      "domain": "publicdomainreview.org"
     },
     {
       "id": 47281593,
@@ -178,17 +198,17 @@
       "score": 343,
       "by": "todsacerdoti",
       "time": 1772833964,
-      "comments": 107,
+      "comments": 108,
       "domain": "will-keleher.com"
     },
     {
       "id": 47282701,
       "title": "Helix: A post-modern text editor",
       "url": "https://helix-editor.com/",
-      "score": 301,
+      "score": 303,
       "by": "doener",
       "time": 1772841209,
-      "comments": 146,
+      "comments": 148,
       "domain": "helix-editor.com"
     },
     {
@@ -202,34 +222,34 @@
       "domain": "jacquesmattheij.com"
     },
     {
+      "id": 47286408,
+      "title": "Filesystems Are Having a Moment",
+      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+      "score": 129,
+      "by": "malgamves",
+      "time": 1772880523,
+      "comments": 72,
+      "domain": "madalitso.me"
+    },
+    {
       "id": 47287763,
       "title": "Tinnitus Is Connected to Sleep",
       "url": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
-      "score": 135,
+      "score": 141,
       "by": "bookofjoe",
       "time": 1772892406,
-      "comments": 159,
+      "comments": 167,
       "domain": "sciencealert.com"
     },
     {
       "id": 47285960,
       "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
       "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "score": 348,
+      "score": 350,
       "by": "askl",
       "time": 1772875120,
-      "comments": 200,
+      "comments": 201,
       "domain": "torrentfreak.com"
-    },
-    {
-      "id": 47260028,
-      "title": "Bourdieu's theory of taste: a grumbling abrégé",
-      "url": "https://dynomight.net/bourdieu/",
-      "score": 18,
-      "by": "sebg",
-      "time": 1772706799,
-      "comments": 10,
-      "domain": "dynomight.net"
     },
     {
       "id": 47285876,
@@ -238,48 +258,38 @@
       "score": 66,
       "by": "amaury_bouchard",
       "time": 1772873951,
-      "comments": 21,
+      "comments": 22,
       "domain": "mujs.org"
     },
     {
       "id": 47263938,
       "title": "Galileo's handwritten notes found in ancient astronomy text",
       "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "score": 200,
+      "score": 202,
       "by": "tzury",
       "time": 1772729247,
       "comments": 36,
       "domain": "science.org"
     },
     {
+      "id": 47233441,
+      "title": "Working and Communicating with Japanese Engineers",
+      "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+      "score": 122,
+      "by": "zdw",
+      "time": 1772550152,
+      "comments": 72,
+      "domain": "tokyodev.com"
+    },
+    {
       "id": 47236346,
       "title": "Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes",
       "url": "https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/",
-      "score": 19,
+      "score": 20,
       "by": "bookofjoe",
       "time": 1772561526,
       "comments": 7,
       "domain": "smithsonianmag.com"
-    },
-    {
-      "id": 47233441,
-      "title": "Working and Communicating with Japanese Engineers",
-      "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
-      "score": 119,
-      "by": "zdw",
-      "time": 1772550152,
-      "comments": 70,
-      "domain": "tokyodev.com"
-    },
-    {
-      "id": 47283337,
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 402,
-      "by": "dnw",
-      "time": 1772846277,
-      "comments": 285,
-      "domain": "blog.katanaquant.com"
     }
   ]
 }
