@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-03-07T10:51:01.448Z",
+  "lastUpdated": "2026-03-07T11:00:49.738Z",
   "items": [
     {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "url": "https://plasma-bigscreen.org",
-      "score": 443,
+      "score": 444,
       "by": "PaulHoule",
       "time": 1772841556,
       "comments": 126,
       "domain": "plasma-bigscreen.org"
     },
     {
-      "id": 47286300,
-      "title": "Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning",
-      "url": "https://tanstaafl.email",
-      "score": 4,
-      "by": "NikoBlack",
-      "time": 1772879266,
-      "comments": 1,
-      "domain": "tanstaafl.email"
-    },
-    {
       "id": 47283665,
       "title": "UUID package coming to Go standard library",
       "url": "https://github.com/golang/go/issues/62026",
-      "score": 203,
+      "score": 207,
       "by": "soypat",
       "time": 1772849001,
       "comments": 112,
       "domain": "github.com"
     },
     {
+      "id": 47286300,
+      "title": "Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning",
+      "url": "https://tanstaafl.email",
+      "score": 8,
+      "by": "NikoBlack",
+      "time": 1772879266,
+      "comments": 2,
+      "domain": "tanstaafl.email"
+    },
+    {
       "id": 47285846,
       "title": "QGIS 4.0",
       "url": "https://changelog.qgis.org/en/version/4.0/",
-      "score": 56,
+      "score": 63,
       "by": "jonbaer",
       "time": 1772873627,
-      "comments": 5,
+      "comments": 7,
       "domain": "changelog.qgis.org"
     },
     {
       "id": 47281593,
       "title": "this css proves me human",
       "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 269,
+      "score": 271,
       "by": "todsacerdoti",
       "time": 1772833964,
       "comments": 89,
@@ -55,7 +55,7 @@
       "id": 47233441,
       "title": "Working and Communicating with Japanese Engineers",
       "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
-      "score": 30,
+      "score": 33,
       "by": "zdw",
       "time": 1772550152,
       "comments": 12,
@@ -65,7 +65,7 @@
       "id": 47282701,
       "title": "Helix: A post-modern text editor",
       "url": "https://helix-editor.com/",
-      "score": 158,
+      "score": 160,
       "by": "doener",
       "time": 1772841209,
       "comments": 59,
@@ -75,7 +75,7 @@
       "id": 47263938,
       "title": "Galileo's handwritten notes found in ancient astronomy text",
       "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "score": 137,
+      "score": 138,
       "by": "tzury",
       "time": 1772729247,
       "comments": 26,
@@ -85,41 +85,51 @@
       "id": 47283337,
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 235,
+      "score": 237,
       "by": "dnw",
       "time": 1772846277,
-      "comments": 181,
+      "comments": 182,
       "domain": "blog.katanaquant.com"
     },
     {
       "id": 47242775,
       "title": "Lock Scroll with a Vengeance",
       "url": "https://unsung.aresluna.org/lock-scroll-with-a-vengeance/",
-      "score": 13,
+      "score": 14,
       "by": "etothet",
       "time": 1772595737,
       "comments": 2,
       "domain": "unsung.aresluna.org"
     },
     {
-      "id": 47285960,
-      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "score": 21,
-      "by": "askl",
-      "time": 1772875120,
+      "id": 47286236,
+      "title": "Claude AI Helped Bomb Iran. But How Exactly?",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly",
+      "score": 11,
+      "by": "helsinkiandrew",
+      "time": 1772878466,
       "comments": 8,
-      "domain": "torrentfreak.com"
+      "domain": "bloomberg.com"
     },
     {
       "id": 47285422,
       "title": "Sarvam 105B, the first competitive Indian open source LLM",
       "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-      "score": 54,
+      "score": 55,
       "by": "logicchains",
       "time": 1772869437,
       "comments": 7,
       "domain": "sarvam.ai"
+    },
+    {
+      "id": 47285960,
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "score": 25,
+      "by": "askl",
+      "time": 1772875120,
+      "comments": 9,
+      "domain": "torrentfreak.com"
     },
     {
       "id": 47275236,
@@ -132,23 +142,13 @@
       "domain": "github.com"
     },
     {
-      "id": 47286236,
-      "title": "Claude AI Helped Bomb Iran. But How Exactly?",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-03-04/iran-strikes-anthropic-claude-ai-helped-us-attack-but-how-exactly",
-      "score": 9,
-      "by": "helsinkiandrew",
-      "time": 1772878466,
-      "comments": 2,
-      "domain": "bloomberg.com"
-    },
-    {
       "id": 47231871,
       "title": "Querying 3B Vectors",
       "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
-      "score": 51,
+      "score": 52,
       "by": "surprisetalk",
       "time": 1772543831,
-      "comments": 6,
+      "comments": 7,
       "domain": "vickiboykis.com"
     },
     {
@@ -162,16 +162,6 @@
       "domain": "lwn.net"
     },
     {
-      "id": 47234689,
-      "title": "The Longing (1999)",
-      "url": "https://www.cluetrain.com/book/longing.html",
-      "score": 22,
-      "by": "herbertl",
-      "time": 1772554748,
-      "comments": 1,
-      "domain": "cluetrain.com"
-    },
-    {
       "id": 47244882,
       "title": "What canceled my Go context?",
       "url": "https://rednafi.com/go/context-cancellation-cause/",
@@ -182,34 +172,64 @@
       "domain": "rednafi.com"
     },
     {
-      "id": 47264742,
-      "title": "My application programmer instincts failed when debugging assembler",
-      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-      "score": 11,
-      "by": "lifefeed",
-      "time": 1772732613,
-      "comments": 9,
-      "domain": "landedstar.com"
+      "id": 47234689,
+      "title": "The Longing (1999)",
+      "url": "https://www.cluetrain.com/book/longing.html",
+      "score": 22,
+      "by": "herbertl",
+      "time": 1772554748,
+      "comments": 1,
+      "domain": "cluetrain.com"
     },
     {
       "id": 47247030,
       "title": "Editing changes in patch format with Jujutsu",
       "url": "https://www.knifepoint.net/~kat/kb-jj-patchedit.html",
-      "score": 27,
+      "score": 28,
       "by": "cassepipe",
       "time": 1772630484,
       "comments": 5,
       "domain": "knifepoint.net"
     },
     {
+      "id": 47264742,
+      "title": "My application programmer instincts failed when debugging assembler",
+      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "score": 12,
+      "by": "lifefeed",
+      "time": 1772732613,
+      "comments": 10,
+      "domain": "landedstar.com"
+    },
+    {
+      "id": 47282807,
+      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+      "url": "https://github.com/c0m4r/kula",
+      "score": 59,
+      "by": "c0m4r",
+      "time": 1772842045,
+      "comments": 29,
+      "domain": "github.com"
+    },
+    {
       "id": 47256941,
       "title": "Maybe there's a pattern here?",
       "url": "https://dynomight.net/pattern/",
-      "score": 129,
+      "score": 130,
       "by": "surprisetalk",
       "time": 1772679490,
-      "comments": 79,
+      "comments": 80,
       "domain": "dynomight.net"
+    },
+    {
+      "id": 47278426,
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "score": 898,
+      "by": "enraged_camel",
+      "time": 1772819205,
+      "comments": 598,
+      "domain": "twitter.com"
     },
     {
       "id": 47234756,
@@ -220,26 +240,6 @@
       "time": 1772554984,
       "comments": 0,
       "domain": "cendyne.dev"
-    },
-    {
-      "id": 47278426,
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 898,
-      "by": "enraged_camel",
-      "time": 1772819205,
-      "comments": 597,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47282807,
-      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-      "url": "https://github.com/c0m4r/kula",
-      "score": 57,
-      "by": "c0m4r",
-      "time": 1772842045,
-      "comments": 29,
-      "domain": "github.com"
     },
     {
       "id": 47275152,
@@ -265,7 +265,7 @@
       "id": 47273854,
       "title": "Hardening Firefox with Anthropic's Red Team",
       "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 569,
+      "score": 570,
       "by": "todsacerdoti",
       "time": 1772797998,
       "comments": 156,
@@ -275,10 +275,10 @@
       "id": 47282230,
       "title": "C# strings silently kill your SQL Server indexes in Dapper",
       "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-      "score": 103,
+      "score": 104,
       "by": "PretzelFisch",
       "time": 1772837737,
-      "comments": 74,
+      "comments": 76,
       "domain": "consultwithgriff.com"
     }
   ]
