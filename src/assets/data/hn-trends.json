@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-08T11:52:03.456Z",
+  "lastUpdated": "2026-03-08T11:59:29.408Z",
   "items": [
     {
       "id": 47295537,
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "url": "https://arxiv.org/abs/2603.03823",
-      "score": 56,
+      "score": 59,
       "by": "mpweiher",
       "time": 1772957510,
-      "comments": 8,
+      "comments": 9,
       "domain": "arxiv.org"
     },
     {
       "id": 47295837,
       "title": "Notes on Writing WASM",
       "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 29,
+      "score": 31,
       "by": "vinhnx",
       "time": 1772961894,
-      "comments": 8,
+      "comments": 11,
       "domain": "notes.brooklynzelenka.com"
     },
     {
       "id": 47247248,
       "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
       "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 5,
+      "score": 11,
       "by": "surprisetalk",
       "time": 1772631574,
       "comments": 0,
@@ -35,7 +35,7 @@
       "id": 47249139,
       "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
       "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "score": 41,
+      "score": 43,
       "by": "ohjeez",
       "time": 1772638969,
       "comments": 7,
@@ -45,17 +45,17 @@
       "id": 47293119,
       "title": "Cloud VM benchmarks 2026",
       "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 260,
+      "score": 261,
       "by": "dkechag",
       "time": 1772930672,
-      "comments": 117,
+      "comments": 119,
       "domain": "devblog.ecuadors.net"
     },
     {
       "id": 47295279,
       "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
       "url": "https://curiosity-telescope.vercel.app/",
-      "score": 36,
+      "score": 39,
       "by": "big_Brain69",
       "time": 1772954175,
       "comments": 5,
@@ -65,20 +65,20 @@
       "id": 47292522,
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 212,
+      "score": 216,
       "by": "Curiositry",
       "time": 1772926337,
-      "comments": 59,
+      "comments": 60,
       "domain": "unsloth.ai"
     },
     {
       "id": 47293415,
       "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 211,
+      "score": 215,
       "by": "networked",
       "time": 1772933721,
-      "comments": 86,
+      "comments": 88,
       "domain": "github.com"
     },
     {
@@ -92,63 +92,63 @@
       "domain": "github.com"
     },
     {
-      "id": 47296302,
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 19,
-      "by": "rbanffy",
-      "time": 1772967272,
-      "comments": 2,
-      "domain": "arstechnica.com"
-    },
-    {
       "id": 47245061,
       "title": "From RGB to L*a*b* color space (2024)",
       "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-      "score": 46,
+      "score": 49,
       "by": "kqr",
       "time": 1772616253,
       "comments": 16,
       "domain": "kaizoudou.com"
     },
     {
+      "id": 47296302,
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "score": 24,
+      "by": "rbanffy",
+      "time": 1772967272,
+      "comments": 4,
+      "domain": "arstechnica.com"
+    },
+    {
       "id": 47294924,
       "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
       "url": "https://github.com/ataraxy-labs/sem",
-      "score": 28,
+      "score": 29,
       "by": "pabs3",
       "time": 1772949686,
       "comments": 3,
       "domain": "github.com"
     },
     {
-      "id": 47239955,
-      "title": "The Lobster Programming Language",
-      "url": "https://strlen.com/lobster/",
-      "score": 19,
-      "by": "keyle",
-      "time": 1772576694,
-      "comments": 2,
-      "domain": "strlen.com"
-    },
-    {
       "id": 47289311,
       "title": "A decade of Docker containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 314,
+      "score": 315,
       "by": "zacwest",
       "time": 1772902518,
       "comments": 211,
       "domain": "cacm.acm.org"
     },
     {
+      "id": 47239955,
+      "title": "The Lobster Programming Language",
+      "url": "https://strlen.com/lobster/",
+      "score": 20,
+      "by": "keyle",
+      "time": 1772576694,
+      "comments": 3,
+      "domain": "strlen.com"
+    },
+    {
       "id": 47287344,
       "title": "Yoghurt delivery women combatting loneliness in Japan",
       "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "score": 307,
+      "score": 308,
       "by": "ranit",
       "time": 1772889160,
-      "comments": 162,
+      "comments": 163,
       "domain": "bbc.com"
     },
     {
@@ -165,7 +165,7 @@
       "id": 47259961,
       "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
       "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-      "score": 78,
+      "score": 79,
       "by": "thecloudlet",
       "time": 1772706195,
       "comments": 5,
@@ -175,10 +175,10 @@
       "id": 47290198,
       "title": "The surprising whimsy of the Time Zone Database",
       "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-      "score": 131,
+      "score": 132,
       "by": "jprs",
       "time": 1772908325,
-      "comments": 44,
+      "comments": 45,
       "domain": "muddy.jprs.me"
     },
     {
@@ -222,6 +222,16 @@
       "domain": "youtube.com"
     },
     {
+      "id": 47294487,
+      "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
+      "url": "https://www.bbc.com/news/articles/cy8l1d221evo",
+      "score": 19,
+      "by": "randycupertino",
+      "time": 1772945256,
+      "comments": 30,
+      "domain": "bbc.com"
+    },
+    {
       "id": 47293682,
       "title": "MonoGame: A .NET framework for making cross-platform games",
       "url": "https://github.com/MonoGame/MonoGame",
@@ -235,7 +245,7 @@
       "id": 47247762,
       "title": "Show HN: A weird thing that detects your pulse from the browser video",
       "url": "https://pulsefeedback.io/",
-      "score": 90,
+      "score": 91,
       "by": "kilroy123",
       "time": 1772634264,
       "comments": 42,
@@ -255,21 +265,11 @@
       "id": 47286408,
       "title": "Files are the interface humans and agents interact with",
       "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-      "score": 235,
+      "score": 238,
       "by": "malgamves",
       "time": 1772880523,
       "comments": 123,
       "domain": "madalitso.me"
-    },
-    {
-      "id": 47261858,
-      "title": "Ten years of deploying to production",
-      "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
-      "score": 34,
-      "by": "mooreds",
-      "time": 1772720746,
-      "comments": 6,
-      "domain": "brandonvin.github.io"
     },
     {
       "id": 47250500,
@@ -282,14 +282,14 @@
       "domain": "mariozechner.at"
     },
     {
-      "id": 47294487,
-      "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
-      "url": "https://www.bbc.com/news/articles/cy8l1d221evo",
-      "score": 17,
-      "by": "randycupertino",
-      "time": 1772945256,
-      "comments": 28,
-      "domain": "bbc.com"
+      "id": 47261858,
+      "title": "Ten years of deploying to production",
+      "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+      "score": 34,
+      "by": "mooreds",
+      "time": 1772720746,
+      "comments": 6,
+      "domain": "brandonvin.github.io"
     },
     {
       "id": 47295040,
