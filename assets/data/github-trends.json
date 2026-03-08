@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-08T22:58:55.328Z",
+  "lastUpdated": "2026-03-08T23:25:04.056Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 16248,
+      "stars": 16260,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-08T22:54:20Z"
+      "updated_at": "2026-03-08T23:23:22Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 11033,
+      "stars": 11100,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-08T22:58:36Z"
+      "updated_at": "2026-03-08T23:24:59Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 8149,
+      "stars": 8264,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-08T22:58:53Z"
+      "updated_at": "2026-03-08T23:24:41Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 2382,
+      "stars": 2389,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-08T22:49:40Z"
+      "updated_at": "2026-03-08T23:24:54Z"
     },
     {
       "id": 1170326509,
@@ -83,27 +83,27 @@
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1359,
+      "stars": 1361,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-08T22:58:01Z"
+      "updated_at": "2026-03-08T23:06:37Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 1148,
+      "stars": 1155,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-08T22:57:15Z"
+      "updated_at": "2026-03-08T23:23:06Z"
     },
     {
       "id": 1170321595,
@@ -135,14 +135,14 @@
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 948,
+      "stars": 955,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-08T22:55:05Z"
+      "updated_at": "2026-03-08T23:22:55Z"
     },
     {
       "id": 1170755412,
@@ -161,27 +161,27 @@
       "id": 1170324144,
       "name": "vercel-labs/openreview",
       "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
-      "stars": 731,
+      "stars": 733,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/openreview",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-03-08T22:52:34Z"
+      "updated_at": "2026-03-08T23:12:49Z"
     },
     {
       "id": 1170617094,
       "name": "LeoYeAI/openclaw-backup",
       "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai",
-      "stars": 719,
+      "stars": 720,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-backup",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T22:35:59Z"
+      "updated_at": "2026-03-08T23:24:02Z"
     },
     {
       "id": 1172573009,
@@ -200,14 +200,14 @@
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 642,
+      "stars": 643,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-08T22:01:15Z"
+      "updated_at": "2026-03-08T23:00:46Z"
     },
     {
       "id": 1173427820,
@@ -252,14 +252,14 @@
       "id": 1173821248,
       "name": "TinyAGI/fractals",
       "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 482,
+      "stars": 484,
       "language": "TypeScript",
       "url": "https://github.com/TinyAGI/fractals",
       "owner": {
         "login": "TinyAGI",
         "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
       },
-      "updated_at": "2026-03-08T22:48:25Z"
+      "updated_at": "2026-03-08T23:22:59Z"
     }
   ]
 }
