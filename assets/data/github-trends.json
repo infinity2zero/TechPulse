@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-03-08T21:28:28.360Z",
+  "lastUpdated": "2026-03-08T21:46:21.942Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 16203,
+      "stars": 16208,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-08T21:26:56Z"
+      "updated_at": "2026-03-08T21:44:04Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 10847,
+      "stars": 10885,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-08T21:27:01Z"
+      "updated_at": "2026-03-08T21:46:18Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 7793,
+      "stars": 7871,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-08T21:28:06Z"
+      "updated_at": "2026-03-08T21:46:10Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 2365,
+      "stars": 2369,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-08T21:21:51Z"
+      "updated_at": "2026-03-08T21:38:41Z"
     },
     {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 1494,
+      "stars": 1495,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T20:06:54Z"
+      "updated_at": "2026-03-08T21:40:01Z"
     },
     {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1395,
+      "stars": 1396,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-08T21:23:49Z"
+      "updated_at": "2026-03-08T21:45:09Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1341,
+      "stars": 1344,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-08T21:22:39Z"
+      "updated_at": "2026-03-08T21:45:16Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 1126,
+      "stars": 1128,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-08T21:27:10Z"
+      "updated_at": "2026-03-08T21:43:17Z"
     },
     {
       "id": 1170321595,
@@ -122,27 +122,27 @@
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1043,
+      "stars": 1047,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-08T21:26:01Z"
+      "updated_at": "2026-03-08T21:43:00Z"
     },
     {
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 916,
+      "stars": 925,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-08T21:28:14Z"
+      "updated_at": "2026-03-08T21:45:42Z"
     },
     {
       "id": 1170755412,
@@ -226,40 +226,40 @@
       "id": 1173349091,
       "name": "AlpinDale/parsync",
       "description": "Parallel rsync-like pull sync over SSH with resume",
-      "stars": 488,
+      "stars": 489,
       "language": "Rust",
       "url": "https://github.com/AlpinDale/parsync",
       "owner": {
         "login": "AlpinDale",
         "avatar_url": "https://avatars.githubusercontent.com/u/52078762?v=4"
       },
-      "updated_at": "2026-03-08T20:55:19Z"
+      "updated_at": "2026-03-08T21:40:07Z"
     },
     {
       "id": 1171261489,
       "name": "inspatio/worldfm",
       "description": null,
-      "stars": 485,
+      "stars": 486,
       "language": "Python",
       "url": "https://github.com/inspatio/worldfm",
       "owner": {
         "login": "inspatio",
         "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
       },
-      "updated_at": "2026-03-08T20:46:50Z"
+      "updated_at": "2026-03-08T21:39:36Z"
     },
     {
       "id": 1173821248,
       "name": "TinyAGI/fractals",
       "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 479,
+      "stars": 480,
       "language": "TypeScript",
       "url": "https://github.com/TinyAGI/fractals",
       "owner": {
         "login": "TinyAGI",
         "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
       },
-      "updated_at": "2026-03-08T20:34:01Z"
+      "updated_at": "2026-03-08T21:42:34Z"
     }
   ]
 }
