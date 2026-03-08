@@ -1,85 +1,105 @@
 {
-  "lastUpdated": "2026-03-08T19:49:32.924Z",
+  "lastUpdated": "2026-03-08T19:58:09.955Z",
   "items": [
-    {
-      "id": 47299988,
-      "title": "AI doesn't replace white collar work",
-      "url": "https://www.marble.onl/posts/ai_doesnt_replace_work.html",
-      "score": 35,
-      "by": "amarble",
-      "time": 1772996241,
-      "comments": 34,
-      "domain": "marble.onl"
-    },
     {
       "id": 47298044,
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 229,
+      "score": 235,
       "by": "todsacerdoti",
       "time": 1772983269,
-      "comments": 41,
+      "comments": 43,
       "domain": "fb.edoo.gg"
     },
     {
       "id": 47300102,
       "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "score": 17,
+      "score": 19,
       "by": "vancecookcobxin",
       "time": 1772996853,
-      "comments": 7,
+      "comments": 16,
       "domain": "github.com"
     },
     {
       "id": 47254896,
       "title": "Why can't you tune your guitar? (2019)",
       "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 109,
+      "score": 115,
       "by": "digitallogic",
       "time": 1772663427,
-      "comments": 92,
+      "comments": 95,
       "domain": "ethanhein.com"
     },
     {
       "id": 47239117,
       "title": "Log messages are mostly for the people operating your software",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
-      "score": 52,
+      "score": 54,
       "by": "todsacerdoti",
       "time": 1772572523,
-      "comments": 22,
+      "comments": 23,
       "domain": "utcc.utoronto.ca"
     },
     {
       "id": 47297919,
       "title": "Living human brain cells play DOOM on a CL1 [video]",
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-      "score": 71,
+      "score": 73,
       "by": "kevinak",
       "time": 1772982448,
-      "comments": 67,
+      "comments": 68,
       "domain": "youtube.com"
     },
     {
       "id": 47298885,
       "title": "LibreOffice Writer now supports Markdown",
       "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "score": 127,
+      "score": 134,
       "by": "todsacerdoti",
       "time": 1772989310,
-      "comments": 32,
+      "comments": 33,
       "domain": "blog.documentfoundation.org"
     },
     {
       "id": 47297913,
       "title": "What if the Apple ][ had run on Field-Sequential?",
       "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-      "score": 51,
+      "score": 52,
       "by": "zdw",
       "time": 1772982340,
       "comments": 10,
       "domain": "nicole.express"
+    },
+    {
+      "id": 47271338,
+      "title": "A basket of new fruit varieties is coming your way",
+      "url": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
+      "score": 17,
+      "by": "vinni2",
+      "time": 1772775988,
+      "comments": 10,
+      "domain": "economist.com"
+    },
+    {
+      "id": 47295837,
+      "title": "Notes on writing Rust-based Wasm",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 162,
+      "by": "vinhnx",
+      "time": 1772961894,
+      "comments": 76,
+      "domain": "notes.brooklynzelenka.com"
+    },
+    {
+      "id": 47299022,
+      "title": "Show HN: Skir – like Protocol Buffer but better",
+      "url": "https://skir.build/",
+      "score": 23,
+      "by": "gepheum",
+      "time": 1772990274,
+      "comments": 25,
+      "domain": "skir.build"
     },
     {
       "id": 47299505,
@@ -92,34 +112,14 @@
       "domain": "github.com"
     },
     {
-      "id": 47295837,
-      "title": "Notes on writing Rust-based Wasm",
-      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 161,
-      "by": "vinhnx",
-      "time": 1772961894,
-      "comments": 76,
-      "domain": "notes.brooklynzelenka.com"
-    },
-    {
       "id": 47299606,
       "title": "I made a programming language with M&Ms",
       "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-      "score": 10,
+      "score": 11,
       "by": "tosh",
       "time": 1772993920,
       "comments": 2,
       "domain": "mufeedvh.com"
-    },
-    {
-      "id": 47299022,
-      "title": "Show HN: Skir – like Protocol Buffer but better",
-      "url": "https://skir.build/",
-      "score": 21,
-      "by": "gepheum",
-      "time": 1772990274,
-      "comments": 22,
-      "domain": "skir.build"
     },
     {
       "id": 47297167,
@@ -132,84 +132,84 @@
       "domain": "github.com"
     },
     {
-      "id": 47271338,
-      "title": "A basket of new fruit varieties is coming your way",
-      "url": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
-      "score": 14,
-      "by": "vinni2",
-      "time": 1772775988,
-      "comments": 9,
-      "domain": "economist.com"
-    },
-    {
       "id": 47256810,
       "title": "Z80 Sans – a disassembler in a font (2024)",
       "url": "https://github.com/nevesnunes/z80-sans",
-      "score": 16,
+      "score": 17,
       "by": "pabs3",
       "time": 1772678287,
       "comments": 0,
       "domain": "github.com"
     },
     {
+      "id": 47256376,
+      "title": "My “grand vision” for Rust",
+      "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+      "score": 59,
+      "by": "todsacerdoti",
+      "time": 1772674662,
+      "comments": 54,
+      "domain": "blog.yoshuawuyts.com"
+    },
+    {
+      "id": 47291513,
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
+      "score": 259,
+      "by": "walterbell",
+      "time": 1772917720,
+      "comments": 122,
+      "domain": "tropes.fyi"
+    },
+    {
+      "id": 47293195,
+      "title": "Pushing and Pulling: Three reactivity algorithms",
+      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+      "score": 3,
+      "by": "frogulis",
+      "time": 1772931477,
+      "comments": 0,
+      "domain": "jonathan-frere.com"
+    },
+    {
+      "id": 47298655,
+      "title": "The human.json Protocol",
+      "url": "https://codeberg.org/robida/human.json",
+      "score": 3,
+      "by": "todsacerdoti",
+      "time": 1772987610,
+      "comments": 0,
+      "domain": "codeberg.org"
+    },
+    {
+      "id": 47297091,
+      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+      "url": "https://github.com/kantord/blogtato",
+      "score": 52,
+      "by": "todsacerdoti",
+      "time": 1772975774,
+      "comments": 15,
+      "domain": "github.com"
+    },
+    {
       "id": 47299599,
       "title": "In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue",
-      "score": 9,
+      "score": 10,
       "by": "rolph",
       "time": 1772993873,
       "comments": 3,
       "domain": "cell.com"
     },
     {
-      "id": 47256376,
-      "title": "My “grand vision” for Rust",
-      "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
-      "score": 58,
-      "by": "todsacerdoti",
-      "time": 1772674662,
-      "comments": 51,
-      "domain": "blog.yoshuawuyts.com"
-    },
-    {
-      "id": 47299794,
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "score": 91,
-      "by": "Arcuru",
-      "time": 1772995057,
-      "comments": 109,
-      "domain": "techcrunch.com"
-    },
-    {
       "id": 47297453,
       "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
       "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "score": 216,
+      "score": 218,
       "by": "maxloh",
       "time": 1772978949,
       "comments": 34,
       "domain": "blog.documentfoundation.org"
-    },
-    {
-      "id": 47298997,
-      "title": "Claude struggles to cope with ChatGPT exodus",
-      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-      "score": 85,
-      "by": "perakojotgenije",
-      "time": 1772990093,
-      "comments": 76,
-      "domain": "forbes.com"
-    },
-    {
-      "id": 47297091,
-      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-      "url": "https://github.com/kantord/blogtato",
-      "score": 50,
-      "by": "todsacerdoti",
-      "time": 1772975774,
-      "comments": 15,
-      "domain": "github.com"
     },
     {
       "id": 47249139,
@@ -232,6 +232,16 @@
       "domain": "historytoday.com"
     },
     {
+      "id": 47298997,
+      "title": "Claude struggles to cope with ChatGPT exodus",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+      "score": 88,
+      "by": "perakojotgenije",
+      "time": 1772990093,
+      "comments": 85,
+      "domain": "forbes.com"
+    },
+    {
       "id": 47295537,
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "url": "https://arxiv.org/abs/2603.03823",
@@ -242,43 +252,33 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 47299009,
-      "title": "The changing goalposts of AGI and timelines",
-      "url": "https://mlumiste.com/general/openai-charter/",
-      "score": 286,
-      "by": "skandium",
-      "time": 1772990198,
-      "comments": 152,
-      "domain": "mlumiste.com"
-    },
-    {
-      "id": 47247248,
-      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
-      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 87,
-      "by": "surprisetalk",
-      "time": 1772631574,
-      "comments": 3,
-      "domain": "mssv.net"
-    },
-    {
       "id": 47296849,
       "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
       "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "score": 265,
+      "score": 269,
       "by": "doener",
       "time": 1772973614,
       "comments": 105,
       "domain": "xcancel.com"
     },
     {
+      "id": 47247248,
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "score": 90,
+      "by": "surprisetalk",
+      "time": 1772631574,
+      "comments": 3,
+      "domain": "mssv.net"
+    },
+    {
       "id": 47292522,
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 405,
+      "score": 406,
       "by": "Curiositry",
       "time": 1772926337,
-      "comments": 134,
+      "comments": 135,
       "domain": "unsloth.ai"
     }
   ]
