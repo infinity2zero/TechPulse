@@ -1,121 +1,131 @@
 {
-  "lastUpdated": "2026-03-08T23:43:31.939Z",
+  "lastUpdated": "2026-03-08T23:56:45.041Z",
   "items": [
     {
       "id": 47301085,
       "title": "Agent Safehouse – macOS-native sandboxing for local agents",
       "url": "https://agent-safehouse.dev/",
-      "score": 205,
+      "score": 224,
       "by": "atombender",
       "time": 1773001818,
-      "comments": 46,
+      "comments": 49,
       "domain": "agent-safehouse.dev"
     },
     {
       "id": 47301808,
       "title": "Blacksky AppView",
       "url": "https://github.com/blacksky-algorithms/atproto",
-      "score": 66,
+      "score": 68,
       "by": "Kye",
       "time": 1773006035,
-      "comments": 12,
+      "comments": 15,
       "domain": "github.com"
+    },
+    {
+      "id": 47291876,
+      "title": "Microscopes can see video on a laserdisc",
+      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "score": 160,
+      "by": "zdw",
+      "time": 1772921017,
+      "comments": 13,
+      "domain": "youtube.com"
     },
     {
       "id": 47300747,
       "title": "We should revisit literate programming in the agent era",
       "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "score": 92,
+      "score": 96,
       "by": "horseradish",
       "time": 1772999895,
-      "comments": 47,
+      "comments": 50,
       "domain": "silly.business"
-    },
-    {
-      "id": 47291876,
-      "title": "Microscopes Can See Video on a LaserDisc",
-      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-      "score": 153,
-      "by": "zdw",
-      "time": 1772921017,
-      "comments": 12,
-      "domain": "youtube.com"
     },
     {
       "id": 47260812,
       "title": "Every single board computer I tested in 2025",
       "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-      "score": 83,
+      "score": 85,
       "by": "speckx",
       "time": 1772713450,
-      "comments": 20,
+      "comments": 23,
       "domain": "bret.dk"
     },
     {
       "id": 47298044,
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 334,
+      "score": 337,
       "by": "todsacerdoti",
       "time": 1772983269,
-      "comments": 61,
+      "comments": 62,
       "domain": "fb.edoo.gg"
     },
     {
       "id": 47301241,
       "title": "Lil Finder Guy",
       "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
-      "score": 49,
+      "score": 53,
       "by": "frizlab",
       "time": 1773002599,
-      "comments": 17,
+      "comments": 18,
       "domain": "basicappleguy.com"
     },
     {
       "id": 47300102,
       "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "score": 141,
+      "score": 145,
       "by": "vancecookcobxin",
       "time": 1772996853,
-      "comments": 63,
+      "comments": 69,
       "domain": "github.com"
     },
     {
       "id": 47302022,
       "title": "Most of the US economy is in a recession",
       "url": "https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3",
-      "score": 74,
+      "score": 86,
       "by": "wslh",
       "time": 1773007292,
-      "comments": 40,
+      "comments": 51,
       "domain": "businessinsider.com"
     },
     {
       "id": 47301233,
       "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
       "url": "https://github.com/Rabrg/artificial-life",
-      "score": 44,
+      "score": 47,
       "by": "tosh",
       "time": 1773002561,
       "comments": 4,
       "domain": "github.com"
     },
     {
+      "id": 47294582,
+      "title": "PCB devboard the size of a USB-C plug",
+      "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+      "score": 6,
+      "by": "zachlatta",
+      "time": 1772946254,
+      "comments": 0,
+      "domain": "github.com"
+    },
+    {
       "id": 47298743,
       "title": "My Homelab Setup",
       "url": "https://bryananthonio.com/blog/my-homelab-setup/",
-      "score": 108,
+      "score": 112,
       "by": "photon_collider",
       "time": 1772988370,
-      "comments": 100,
+      "comments": 103,
       "domain": "bryananthonio.com"
     },
     {
       "id": 47299505,
       "title": "WSL Manager",
       "url": "https://github.com/bostrot/wsl2-distro-manager",
-      "score": 59,
+      "score": 61,
       "by": "gballan",
       "time": 1772993316,
       "comments": 34,
@@ -132,24 +142,34 @@
       "domain": "jonathan-frere.com"
     },
     {
-      "id": 47297919,
-      "title": "Living human brain cells play DOOM on a CL1 [video]",
-      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-      "score": 126,
-      "by": "kevinak",
-      "time": 1772982448,
-      "comments": 111,
-      "domain": "youtube.com"
+      "id": 47302463,
+      "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+      "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+      "score": 5,
+      "by": "medbar",
+      "time": 1773010255,
+      "comments": 0,
+      "domain": "offlinemark.com"
     },
     {
       "id": 47254896,
       "title": "Why can't you tune your guitar? (2019)",
       "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 158,
+      "score": 162,
       "by": "digitallogic",
       "time": 1772663427,
-      "comments": 119,
+      "comments": 120,
       "domain": "ethanhein.com"
+    },
+    {
+      "id": 47297919,
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "score": 128,
+      "by": "kevinak",
+      "time": 1772982448,
+      "comments": 111,
+      "domain": "youtube.com"
     },
     {
       "id": 47239117,
@@ -158,8 +178,18 @@
       "score": 99,
       "by": "todsacerdoti",
       "time": 1772572523,
-      "comments": 47,
+      "comments": 48,
       "domain": "utcc.utoronto.ca"
+    },
+    {
+      "id": 47256810,
+      "title": "Z80 Sans – a disassembler in a font (2024)",
+      "url": "https://github.com/nevesnunes/z80-sans",
+      "score": 67,
+      "by": "pabs3",
+      "time": 1772678287,
+      "comments": 10,
+      "domain": "github.com"
     },
     {
       "id": 47275463,
@@ -172,16 +202,6 @@
       "domain": "dl.acm.org"
     },
     {
-      "id": 47256810,
-      "title": "Z80 Sans – a disassembler in a font (2024)",
-      "url": "https://github.com/nevesnunes/z80-sans",
-      "score": 62,
-      "by": "pabs3",
-      "time": 1772678287,
-      "comments": 10,
-      "domain": "github.com"
-    },
-    {
       "id": 47299606,
       "title": "I made a programming language with M&Ms",
       "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
@@ -192,24 +212,24 @@
       "domain": "mufeedvh.com"
     },
     {
-      "id": 47294582,
-      "title": "PCB devboard the size of a USB-C plug",
-      "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
-      "score": 3,
-      "by": "zachlatta",
-      "time": 1772946254,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
       "id": 47298885,
       "title": "LibreOffice Writer now supports Markdown",
       "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "score": 256,
+      "score": 259,
       "by": "todsacerdoti",
       "time": 1772989310,
       "comments": 47,
       "domain": "blog.documentfoundation.org"
+    },
+    {
+      "id": 47295837,
+      "title": "Notes on writing Rust-based Wasm",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 193,
+      "by": "vinhnx",
+      "time": 1772961894,
+      "comments": 84,
+      "domain": "notes.brooklynzelenka.com"
     },
     {
       "id": 47301967,
@@ -218,22 +238,12 @@
       "score": 9,
       "by": "shadowAuror",
       "time": 1773006966,
-      "comments": 3,
+      "comments": 4,
       "domain": "blog.ebbypeter.com"
     },
     {
-      "id": 47295837,
-      "title": "Notes on writing Rust-based Wasm",
-      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 192,
-      "by": "vinhnx",
-      "time": 1772961894,
-      "comments": 84,
-      "domain": "notes.brooklynzelenka.com"
-    },
-    {
       "id": 47265856,
-      "title": "SQG (SQL to Code Generator) Now with Java Streams and List Type Support",
+      "title": "SQG (SQL to Code Generator) v0.10: Java Streams and List Type Support",
       "url": "https://sqg.dev/blog/java-streams-and-list-types/",
       "score": 12,
       "by": "uwemaurer",
@@ -245,41 +255,31 @@
       "id": 47256376,
       "title": "My “grand vision” for Rust",
       "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
-      "score": 98,
+      "score": 100,
       "by": "todsacerdoti",
       "time": 1772674662,
-      "comments": 92,
+      "comments": 95,
       "domain": "blog.yoshuawuyts.com"
     },
     {
       "id": 47299009,
       "title": "The changing goalposts of AGI and timelines",
       "url": "https://mlumiste.com/general/openai-charter/",
-      "score": 324,
+      "score": 325,
       "by": "skandium",
       "time": 1772990198,
-      "comments": 225,
+      "comments": 233,
       "domain": "mlumiste.com"
     },
     {
       "id": 47297913,
       "title": "What if the Apple ][ had run on Field-Sequential?",
       "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-      "score": 72,
+      "score": 73,
       "by": "zdw",
       "time": 1772982340,
       "comments": 16,
       "domain": "nicole.express"
-    },
-    {
-      "id": 47297167,
-      "title": "Beagle, a source code management system that stores AST trees",
-      "url": "https://github.com/gritzko/librdx/tree/master/be",
-      "score": 80,
-      "by": "strogonoff",
-      "time": 1772976506,
-      "comments": 37,
-      "domain": "github.com"
     }
   ]
 }
