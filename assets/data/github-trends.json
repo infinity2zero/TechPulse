@@ -1,109 +1,70 @@
 {
-  "lastUpdated": "2026-03-07T23:53:41.348Z",
+  "lastUpdated": "2026-03-08T00:01:08.430Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 15230,
+      "stars": 15234,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-07T23:53:09Z"
+      "updated_at": "2026-03-08T00:00:07Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 8093,
+      "stars": 8104,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-07T23:52:23Z"
-    },
-    {
-      "id": 1170266927,
-      "name": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 4706,
-      "language": null,
-      "url": "https://github.com/phuryn/pm-skills",
-      "owner": {
-        "login": "phuryn",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
-      },
-      "updated_at": "2026-03-07T23:51:56Z"
-    },
-    {
-      "id": 1169696969,
-      "name": "smartcmd/MinecraftConsoles",
-      "description": "A certain block game",
-      "stars": 3927,
-      "language": "C++",
-      "url": "https://github.com/smartcmd/MinecraftConsoles",
-      "owner": {
-        "login": "smartcmd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
-      },
-      "updated_at": "2026-03-07T23:51:27Z"
+      "updated_at": "2026-03-08T00:01:07Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "obliterate the chains that bind you",
-      "stars": 2190,
+      "stars": 2192,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-07T23:36:05Z"
+      "updated_at": "2026-03-07T23:56:17Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 1859,
+      "stars": 1883,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-07T23:53:41Z"
+      "updated_at": "2026-03-08T00:00:46Z"
     },
     {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 1442,
+      "stars": 1443,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-07T23:22:11Z"
-    },
-    {
-      "id": 1170016912,
-      "name": "World-Open-Graph/br-acc",
-      "description": "World Transparency Graph public codebase (🚧 website in progress)",
-      "stars": 1386,
-      "language": "Python",
-      "url": "https://github.com/World-Open-Graph/br-acc",
-      "owner": {
-        "login": "World-Open-Graph",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264825054?v=4"
-      },
-      "updated_at": "2026-03-07T23:46:56Z"
+      "updated_at": "2026-03-07T23:57:12Z"
     },
     {
       "id": 1170475068,
@@ -122,40 +83,40 @@
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1050,
+      "stars": 1052,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-07T23:47:10Z"
+      "updated_at": "2026-03-07T23:57:36Z"
     },
     {
       "id": 1170321595,
       "name": "LeoYeAI/openclaw-guardian",
       "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
-      "stars": 1043,
+      "stars": 1045,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-guardian",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-07T23:50:35Z"
+      "updated_at": "2026-03-07T23:58:26Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 843,
+      "stars": 845,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-07T23:52:39Z"
+      "updated_at": "2026-03-07T23:58:08Z"
     },
     {
       "id": 1172198295,
@@ -182,32 +143,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
       },
       "updated_at": "2026-03-07T23:53:37Z"
-    },
-    {
-      "id": 1170253459,
-      "name": "LCEMP/LCEMP",
-      "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
-      "stars": 753,
-      "language": "C++",
-      "url": "https://github.com/LCEMP/LCEMP",
-      "owner": {
-        "login": "LCEMP",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
-      },
-      "updated_at": "2026-03-07T23:30:17Z"
-    },
-    {
-      "id": 1169920711,
-      "name": "coleam00/excalidraw-diagram-skill",
-      "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
-      "stars": 715,
-      "language": "Python",
-      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
-      "owner": {
-        "login": "coleam00",
-        "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
-      },
-      "updated_at": "2026-03-07T23:36:32Z"
     },
     {
       "id": 1170617094,
@@ -249,17 +184,82 @@
       "updated_at": "2026-03-07T23:46:30Z"
     },
     {
-      "id": 1170210179,
-      "name": "hamelsmu/evals-skills",
-      "description": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs",
-      "stars": 633,
-      "language": null,
-      "url": "https://github.com/hamelsmu/evals-skills",
+      "id": 1172617973,
+      "name": "Flowseal/tg-ws-proxy",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "stars": 585,
+      "language": "Python",
+      "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
-        "login": "hamelsmu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1483922?v=4"
+        "login": "Flowseal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-07T23:14:48Z"
+      "updated_at": "2026-03-07T23:54:33Z"
+    },
+    {
+      "id": 1173427820,
+      "name": "op7418/Claude-to-IM-skill",
+      "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+      "stars": 489,
+      "language": "TypeScript",
+      "url": "https://github.com/op7418/Claude-to-IM-skill",
+      "owner": {
+        "login": "op7418",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+      },
+      "updated_at": "2026-03-07T23:46:59Z"
+    },
+    {
+      "id": 1173349091,
+      "name": "AlpinDale/parsync",
+      "description": "Parallel rsync-like pull sync over SSH with resume",
+      "stars": 473,
+      "language": "Rust",
+      "url": "https://github.com/AlpinDale/parsync",
+      "owner": {
+        "login": "AlpinDale",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52078762?v=4"
+      },
+      "updated_at": "2026-03-07T22:00:06Z"
+    },
+    {
+      "id": 1171261489,
+      "name": "inspatio/worldfm",
+      "description": null,
+      "stars": 456,
+      "language": "Python",
+      "url": "https://github.com/inspatio/worldfm",
+      "owner": {
+        "login": "inspatio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
+      },
+      "updated_at": "2026-03-07T23:50:45Z"
+    },
+    {
+      "id": 1171738005,
+      "name": "zornade/visura-api",
+      "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER",
+      "stars": 455,
+      "language": "Python",
+      "url": "https://github.com/zornade/visura-api",
+      "owner": {
+        "login": "zornade",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139748731?v=4"
+      },
+      "updated_at": "2026-03-07T23:02:13Z"
+    },
+    {
+      "id": 1173821248,
+      "name": "TinyAGI/fractals",
+      "description": "Fractals is a recursive task orchestrator for agent swarm",
+      "stars": 443,
+      "language": "TypeScript",
+      "url": "https://github.com/TinyAGI/fractals",
+      "owner": {
+        "login": "TinyAGI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
+      },
+      "updated_at": "2026-03-08T00:00:13Z"
     }
   ]
 }
