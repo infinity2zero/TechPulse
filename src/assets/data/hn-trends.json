@@ -1,55 +1,65 @@
 {
-  "lastUpdated": "2026-03-08T18:52:59.390Z",
+  "lastUpdated": "2026-03-08T19:13:53.866Z",
   "items": [
-    {
-      "id": 47299009,
-      "title": "Based on its own charter, OpenAI should surrender the race",
-      "url": "https://mlumiste.com/general/openai-charter/",
-      "score": 264,
-      "by": "skandium",
-      "time": 1772990198,
-      "comments": 111,
-      "domain": "mlumiste.com"
-    },
-    {
-      "id": 47299625,
-      "title": "\"I Can't Do That, Dave\" – No Agent Yet",
-      "url": "https://systemic.engineering/ai-needs-identity/",
-      "score": 19,
-      "by": "freediver",
-      "time": 1772994080,
-      "comments": 9,
-      "domain": "systemic.engineering"
-    },
     {
       "id": 47298044,
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 190,
+      "score": 201,
       "by": "todsacerdoti",
       "time": 1772983269,
-      "comments": 35,
+      "comments": 37,
       "domain": "fb.edoo.gg"
+    },
+    {
+      "id": 47299794,
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "score": 51,
+      "by": "Arcuru",
+      "time": 1772995057,
+      "comments": 31,
+      "domain": "techcrunch.com"
     },
     {
       "id": 47298743,
       "title": "My Homelab Setup",
       "url": "https://bryananthonio.com/blog/my-homelab-setup/",
-      "score": 50,
+      "score": 61,
       "by": "photon_collider",
       "time": 1772988370,
-      "comments": 35,
+      "comments": 43,
       "domain": "bryananthonio.com"
     },
     {
       "id": 47239117,
       "title": "Log messages are mostly for the people operating your software",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
-      "score": 40,
+      "score": 44,
       "by": "todsacerdoti",
       "time": 1772572523,
-      "comments": 16,
+      "comments": 19,
       "domain": "utcc.utoronto.ca"
+    },
+    {
+      "id": 47298885,
+      "title": "LibreOffice Writer now supports Markdown",
+      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+      "score": 97,
+      "by": "todsacerdoti",
+      "time": 1772989310,
+      "comments": 21,
+      "domain": "blog.documentfoundation.org"
+    },
+    {
+      "id": 47297919,
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "score": 54,
+      "by": "kevinak",
+      "time": 1772982448,
+      "comments": 56,
+      "domain": "youtube.com"
     },
     {
       "id": 47297913,
@@ -62,84 +72,104 @@
       "domain": "nicole.express"
     },
     {
-      "id": 47298885,
-      "title": "LibreOffice Writer now supports Markdown",
-      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "score": 82,
-      "by": "todsacerdoti",
-      "time": 1772989310,
-      "comments": 18,
-      "domain": "blog.documentfoundation.org"
+      "id": 47299505,
+      "title": "WSL Manager",
+      "url": "https://github.com/bostrot/wsl2-distro-manager",
+      "score": 6,
+      "by": "gballan",
+      "time": 1772993316,
+      "comments": 2,
+      "domain": "github.com"
     },
     {
       "id": 47295837,
       "title": "Notes on writing Rust-based Wasm",
       "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 153,
+      "score": 156,
       "by": "vinhnx",
       "time": 1772961894,
-      "comments": 66,
+      "comments": 69,
       "domain": "notes.brooklynzelenka.com"
-    },
-    {
-      "id": 47299022,
-      "title": "Show HN: Skir – like Protocol Buffer but better",
-      "url": "https://skir.build/",
-      "score": 12,
-      "by": "gepheum",
-      "time": 1772990274,
-      "comments": 7,
-      "domain": "skir.build"
     },
     {
       "id": 47297167,
       "title": "Beagle, a source code management system that stores AST trees",
       "url": "https://github.com/gritzko/librdx/tree/master/be",
-      "score": 56,
+      "score": 59,
       "by": "strogonoff",
       "time": 1772976506,
-      "comments": 29,
+      "comments": 31,
       "domain": "github.com"
     },
     {
-      "id": 47297453,
-      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
-      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "score": 193,
-      "by": "maxloh",
-      "time": 1772978949,
-      "comments": 30,
-      "domain": "blog.documentfoundation.org"
+      "id": 47299022,
+      "title": "Show HN: Skir – like Protocol Buffer but better",
+      "url": "https://skir.build/",
+      "score": 15,
+      "by": "gepheum",
+      "time": 1772990274,
+      "comments": 15,
+      "domain": "skir.build"
     },
     {
       "id": 47271338,
       "title": "A basket of new fruit varieties is coming your way",
       "url": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
-      "score": 5,
+      "score": 8,
       "by": "vinni2",
       "time": 1772775988,
-      "comments": 1,
+      "comments": 6,
       "domain": "economist.com"
+    },
+    {
+      "id": 47299009,
+      "title": "The changing goalposts of AGI and timelines",
+      "url": "https://mlumiste.com/general/openai-charter/",
+      "score": 277,
+      "by": "skandium",
+      "time": 1772990198,
+      "comments": 132,
+      "domain": "mlumiste.com"
+    },
+    {
+      "id": 47297453,
+      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+      "score": 202,
+      "by": "maxloh",
+      "time": 1772978949,
+      "comments": 31,
+      "domain": "blog.documentfoundation.org"
+    },
+    {
+      "id": 47299606,
+      "title": "I made a programming language with M&Ms",
+      "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+      "score": 4,
+      "by": "tosh",
+      "time": 1772993920,
+      "comments": 0,
+      "domain": "mufeedvh.com"
+    },
+    {
+      "id": 47299599,
+      "title": "In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue",
+      "score": 5,
+      "by": "rolph",
+      "time": 1772993873,
+      "comments": 1,
+      "domain": "cell.com"
     },
     {
       "id": 47297091,
       "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
       "url": "https://github.com/kantord/blogtato",
-      "score": 45,
+      "score": 47,
       "by": "todsacerdoti",
       "time": 1772975774,
       "comments": 14,
       "domain": "github.com"
-    },
-    {
-      "id": 47299794,
-      "title": "Google just gave Sundar Pichai a $692M pay package",
-      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-      "score": 12,
-      "by": "Arcuru",
-      "time": 1772995057,
-      "comments": 4,
-      "domain": "techcrunch.com"
     },
     {
       "id": 47249139,
@@ -148,7 +178,7 @@
       "score": 120,
       "by": "ohjeez",
       "time": 1772638969,
-      "comments": 26,
+      "comments": 27,
       "domain": "rijksmuseum.nl"
     },
     {
@@ -162,50 +192,70 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 47296849,
-      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "score": 249,
-      "by": "doener",
-      "time": 1772973614,
-      "comments": 95,
-      "domain": "xcancel.com"
+      "id": 47298997,
+      "title": "Claude struggles to cope with ChatGPT exodus",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+      "score": 69,
+      "by": "perakojotgenije",
+      "time": 1772990093,
+      "comments": 57,
+      "domain": "forbes.com"
     },
     {
       "id": 47247248,
       "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
       "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 83,
+      "score": 85,
       "by": "surprisetalk",
       "time": 1772631574,
       "comments": 3,
       "domain": "mssv.net"
     },
     {
-      "id": 47296302,
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 315,
-      "by": "rbanffy",
-      "time": 1772967272,
-      "comments": 184,
-      "domain": "arstechnica.com"
+      "id": 47296849,
+      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+      "score": 253,
+      "by": "doener",
+      "time": 1772973614,
+      "comments": 102,
+      "domain": "xcancel.com"
     },
     {
       "id": 47292522,
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 386,
+      "score": 392,
       "by": "Curiositry",
       "time": 1772926337,
-      "comments": 125,
+      "comments": 130,
       "domain": "unsloth.ai"
+    },
+    {
+      "id": 47296302,
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "score": 318,
+      "by": "rbanffy",
+      "time": 1772967272,
+      "comments": 190,
+      "domain": "arstechnica.com"
+    },
+    {
+      "id": 47297017,
+      "title": "The new Apple begins to emerge",
+      "url": "https://parkerortolani.blog/2026/03/07/the-new-apple-finally-begins.html",
+      "score": 45,
+      "by": "atombender",
+      "time": 1772975324,
+      "comments": 75,
+      "domain": "parkerortolani.blog"
     },
     {
       "id": 47293119,
       "title": "Cloud VM benchmarks 2026",
       "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 310,
+      "score": 313,
       "by": "dkechag",
       "time": 1772930672,
       "comments": 139,
@@ -215,17 +265,27 @@
       "id": 47254896,
       "title": "Why can't you tune your guitar? (2019)",
       "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 100,
+      "score": 106,
       "by": "digitallogic",
       "time": 1772663427,
-      "comments": 87,
+      "comments": 90,
       "domain": "ethanhein.com"
+    },
+    {
+      "id": 47297054,
+      "title": "How Big Diaper absorbs billions of extra dollars from American parents",
+      "url": "https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents",
+      "score": 101,
+      "by": "Anon84",
+      "time": 1772975535,
+      "comments": 166,
+      "domain": "thehustle.co"
     },
     {
       "id": 47296355,
       "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
       "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-      "score": 56,
+      "score": 57,
       "by": "steeleduncan",
       "time": 1772967844,
       "comments": 11,
@@ -235,71 +295,11 @@
       "id": 47246594,
       "title": "Accessing inactive union members through char",
       "url": "https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB",
-      "score": 13,
+      "score": 15,
       "by": "ibobev",
       "time": 1772627763,
       "comments": 3,
       "domain": "sandordargo.com"
-    },
-    {
-      "id": 47283365,
-      "title": "Some Words on WigglyPaint",
-      "url": "https://beyondloom.com/blog/onwigglypaint.html",
-      "score": 90,
-      "by": "RebelPotato",
-      "time": 1772846507,
-      "comments": 17,
-      "domain": "beyondloom.com"
-    },
-    {
-      "id": 47296481,
-      "title": "If It Quacks Like a Package Manager",
-      "url": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html",
-      "score": 40,
-      "by": "jandeboevrie",
-      "time": 1772969269,
-      "comments": 5,
-      "domain": "nesbitt.io"
-    },
-    {
-      "id": 47239955,
-      "title": "The Lobster Programming Language",
-      "url": "https://strlen.com/lobster/",
-      "score": 107,
-      "by": "keyle",
-      "time": 1772576694,
-      "comments": 47,
-      "domain": "strlen.com"
-    },
-    {
-      "id": 47291292,
-      "title": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
-      "score": 321,
-      "by": "aebtebeten",
-      "time": 1772916231,
-      "comments": 38,
-      "domain": "github.com"
-    },
-    {
-      "id": 47293415,
-      "title": "Warn about PyPy being unmaintained",
-      "url": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 284,
-      "by": "networked",
-      "time": 1772933721,
-      "comments": 150,
-      "domain": "github.com"
-    },
-    {
-      "id": 47294924,
-      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
-      "url": "https://github.com/ataraxy-labs/sem",
-      "score": 71,
-      "by": "pabs3",
-      "time": 1772949686,
-      "comments": 11,
-      "domain": "github.com"
     }
   ]
 }
