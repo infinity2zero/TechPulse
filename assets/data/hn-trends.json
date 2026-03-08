@@ -1,85 +1,95 @@
 {
-  "lastUpdated": "2026-03-08T16:28:30.724Z",
+  "lastUpdated": "2026-03-08T16:52:26.823Z",
   "items": [
     {
       "id": 47298044,
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 74,
+      "score": 101,
       "by": "todsacerdoti",
       "time": 1772983269,
-      "comments": 13,
+      "comments": 23,
       "domain": "fb.edoo.gg"
     },
     {
       "id": 47297919,
       "title": "Living Human Brain Cells Play Doom on a CL1",
       "url": "https://corticallabs.com/doom.html",
-      "score": 23,
+      "score": 31,
       "by": "kevinak",
       "time": 1772982448,
-      "comments": 10,
+      "comments": 33,
       "domain": "corticallabs.com"
-    },
-    {
-      "id": 47295837,
-      "title": "Notes on Writing WASM",
-      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 120,
-      "by": "vinhnx",
-      "time": 1772961894,
-      "comments": 45,
-      "domain": "notes.brooklynzelenka.com"
     },
     {
       "id": 47297913,
       "title": "What if the Apple ][ had run on Field-Sequential?",
       "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-      "score": 13,
+      "score": 28,
       "by": "zdw",
       "time": 1772982340,
       "comments": 0,
       "domain": "nicole.express"
     },
     {
-      "id": 47254896,
-      "title": "Why can't you tune your guitar? (2019)",
-      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 67,
-      "by": "digitallogic",
-      "time": 1772663427,
+      "id": 47298183,
+      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+      "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
+      "score": 63,
+      "by": "ljoshua",
+      "time": 1772984252,
+      "comments": 35,
+      "domain": "cio.com"
+    },
+    {
+      "id": 47295837,
+      "title": "Notes on Writing WASM",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 127,
+      "by": "vinhnx",
+      "time": 1772961894,
       "comments": 50,
-      "domain": "ethanhein.com"
+      "domain": "notes.brooklynzelenka.com"
     },
     {
       "id": 47297167,
       "title": "Beagle, a source code management system that stores AST trees",
       "url": "https://github.com/gritzko/librdx/tree/master/be",
-      "score": 24,
+      "score": 28,
       "by": "strogonoff",
       "time": 1772976506,
-      "comments": 4,
+      "comments": 8,
       "domain": "github.com"
     },
     {
       "id": 47297091,
       "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
       "url": "https://github.com/kantord/blogtato",
-      "score": 28,
+      "score": 35,
       "by": "todsacerdoti",
       "time": 1772975774,
-      "comments": 12,
+      "comments": 13,
       "domain": "github.com"
     },
     {
       "id": 47297453,
       "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
       "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "score": 83,
+      "score": 100,
       "by": "maxloh",
       "time": 1772978949,
-      "comments": 15,
+      "comments": 17,
       "domain": "blog.documentfoundation.org"
+    },
+    {
+      "id": 47254896,
+      "title": "Why can't you tune your guitar? (2019)",
+      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "score": 72,
+      "by": "digitallogic",
+      "time": 1772663427,
+      "comments": 57,
+      "domain": "ethanhein.com"
     },
     {
       "id": 47295537,
@@ -88,14 +98,14 @@
       "score": 93,
       "by": "mpweiher",
       "time": 1772957510,
-      "comments": 28,
+      "comments": 32,
       "domain": "arxiv.org"
     },
     {
       "id": 47247248,
       "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
       "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 72,
+      "score": 74,
       "by": "surprisetalk",
       "time": 1772631574,
       "comments": 3,
@@ -105,17 +115,17 @@
       "id": 47296849,
       "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
       "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "score": 166,
+      "score": 183,
       "by": "doener",
       "time": 1772973614,
-      "comments": 59,
+      "comments": 65,
       "domain": "xcancel.com"
     },
     {
       "id": 47249139,
       "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
       "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "score": 94,
+      "score": 97,
       "by": "ohjeez",
       "time": 1772638969,
       "comments": 21,
@@ -125,41 +135,41 @@
       "id": 47296302,
       "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
       "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 251,
+      "score": 266,
       "by": "rbanffy",
       "time": 1772967272,
-      "comments": 142,
+      "comments": 147,
       "domain": "arstechnica.com"
     },
     {
-      "id": 47298183,
-      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-      "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
-      "score": 25,
-      "by": "ljoshua",
-      "time": 1772984252,
-      "comments": 17,
-      "domain": "cio.com"
-    },
-    {
-      "id": 47293119,
-      "title": "Cloud VM benchmarks 2026",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 293,
-      "by": "dkechag",
-      "time": 1772930672,
-      "comments": 131,
-      "domain": "devblog.ecuadors.net"
+      "id": 47239117,
+      "title": "Log messages are mostly for the people operating your software",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
+      "score": 5,
+      "by": "todsacerdoti",
+      "time": 1772572523,
+      "comments": 0,
+      "domain": "utcc.utoronto.ca"
     },
     {
       "id": 47292522,
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 332,
+      "score": 343,
       "by": "Curiositry",
       "time": 1772926337,
-      "comments": 102,
+      "comments": 105,
       "domain": "unsloth.ai"
+    },
+    {
+      "id": 47293119,
+      "title": "Cloud VM benchmarks 2026",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "score": 294,
+      "by": "dkechag",
+      "time": 1772930672,
+      "comments": 134,
+      "domain": "devblog.ecuadors.net"
     },
     {
       "id": 47246594,
@@ -172,54 +182,34 @@
       "domain": "sandordargo.com"
     },
     {
-      "id": 47296355,
-      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
-      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-      "score": 45,
-      "by": "steeleduncan",
-      "time": 1772967844,
-      "comments": 10,
-      "domain": "cowleyforniastudios.com"
-    },
-    {
       "id": 47258737,
       "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
       "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-      "score": 47,
+      "score": 51,
       "by": "tosh",
       "time": 1772696182,
       "comments": 4,
       "domain": "microsoft.com"
     },
     {
+      "id": 47296355,
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "score": 46,
+      "by": "steeleduncan",
+      "time": 1772967844,
+      "comments": 10,
+      "domain": "cowleyforniastudios.com"
+    },
+    {
       "id": 47239955,
       "title": "The Lobster Programming Language",
       "url": "https://strlen.com/lobster/",
-      "score": 77,
+      "score": 82,
       "by": "keyle",
       "time": 1772576694,
-      "comments": 33,
+      "comments": 35,
       "domain": "strlen.com"
-    },
-    {
-      "id": 47283365,
-      "title": "Some Words on WigglyPaint",
-      "url": "https://beyondloom.com/blog/onwigglypaint.html",
-      "score": 77,
-      "by": "RebelPotato",
-      "time": 1772846507,
-      "comments": 8,
-      "domain": "beyondloom.com"
-    },
-    {
-      "id": 47294924,
-      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
-      "url": "https://github.com/ataraxy-labs/sem",
-      "score": 62,
-      "by": "pabs3",
-      "time": 1772949686,
-      "comments": 9,
-      "domain": "github.com"
     },
     {
       "id": 47291292,
@@ -232,74 +222,84 @@
       "domain": "github.com"
     },
     {
+      "id": 47283365,
+      "title": "Some Words on WigglyPaint",
+      "url": "https://beyondloom.com/blog/onwigglypaint.html",
+      "score": 80,
+      "by": "RebelPotato",
+      "time": 1772846507,
+      "comments": 8,
+      "domain": "beyondloom.com"
+    },
+    {
       "id": 47293415,
       "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 265,
+      "score": 268,
       "by": "networked",
       "time": 1772933721,
-      "comments": 140,
+      "comments": 141,
+      "domain": "github.com"
+    },
+    {
+      "id": 47294924,
+      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+      "url": "https://github.com/ataraxy-labs/sem",
+      "score": 65,
+      "by": "pabs3",
+      "time": 1772949686,
+      "comments": 9,
       "domain": "github.com"
     },
     {
       "id": 47295279,
       "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
       "url": "https://curiosity-telescope.vercel.app/",
-      "score": 63,
+      "score": 67,
       "by": "big_Brain69",
       "time": 1772954175,
       "comments": 13,
       "domain": "curiosity-telescope.vercel.app"
     },
     {
-      "id": 47245061,
-      "title": "From RGB to L*a*b* color space (2024)",
-      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-      "score": 72,
-      "by": "kqr",
-      "time": 1772616253,
-      "comments": 26,
-      "domain": "kaizoudou.com"
-    },
-    {
       "id": 47287344,
       "title": "Yoghurt delivery women combatting loneliness in Japan",
       "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "score": 350,
+      "score": 351,
       "by": "ranit",
       "time": 1772889160,
-      "comments": 189,
+      "comments": 192,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47245061,
+      "title": "From RGB to L*a*b* color space (2024)",
+      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+      "score": 73,
+      "by": "kqr",
+      "time": 1772616253,
+      "comments": 27,
+      "domain": "kaizoudou.com"
     },
     {
       "id": 47289311,
       "title": "A decade of Docker containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 334,
+      "score": 335,
       "by": "zacwest",
       "time": 1772902518,
-      "comments": 237,
+      "comments": 240,
       "domain": "cacm.acm.org"
     },
     {
       "id": 47296481,
       "title": "If It Quacks Like a Package Manager",
       "url": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html",
-      "score": 12,
+      "score": 20,
       "by": "jandeboevrie",
       "time": 1772969269,
-      "comments": 0,
+      "comments": 1,
       "domain": "nesbitt.io"
-    },
-    {
-      "id": 47259961,
-      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-      "score": 103,
-      "by": "thecloudlet",
-      "time": 1772706195,
-      "comments": 16,
-      "domain": "thecloudlet.github.io"
     }
   ]
 }
