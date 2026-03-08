@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-08T19:35:39.621Z",
+  "lastUpdated": "2026-03-08T19:49:33.232Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 16141,
+      "stars": 16144,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-08T19:34:25Z"
+      "updated_at": "2026-03-08T19:48:20Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 10598,
+      "stars": 10631,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-08T19:35:10Z"
+      "updated_at": "2026-03-08T19:49:19Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 7297,
+      "stars": 7347,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-08T19:35:38Z"
+      "updated_at": "2026-03-08T19:49:28Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 2342,
+      "stars": 2343,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-08T19:24:01Z"
+      "updated_at": "2026-03-08T19:46:13Z"
     },
     {
       "id": 1170326509,
@@ -70,40 +70,40 @@
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1389,
+      "stars": 1390,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-08T19:20:34Z"
+      "updated_at": "2026-03-08T19:39:09Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1323,
+      "stars": 1325,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-08T19:31:34Z"
+      "updated_at": "2026-03-08T19:39:49Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 1103,
+      "stars": 1106,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-08T19:32:26Z"
+      "updated_at": "2026-03-08T19:48:31Z"
     },
     {
       "id": 1170321595,
@@ -135,14 +135,14 @@
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 878,
+      "stars": 882,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-08T19:33:56Z"
+      "updated_at": "2026-03-08T19:45:38Z"
     },
     {
       "id": 1170755412,
@@ -161,27 +161,27 @@
       "id": 1170324144,
       "name": "vercel-labs/openreview",
       "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
-      "stars": 722,
+      "stars": 724,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/openreview",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-03-08T19:27:37Z"
+      "updated_at": "2026-03-08T19:39:54Z"
     },
     {
       "id": 1170617094,
       "name": "LeoYeAI/openclaw-backup",
       "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai",
-      "stars": 714,
+      "stars": 715,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-backup",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T19:06:07Z"
+      "updated_at": "2026-03-08T19:37:20Z"
     },
     {
       "id": 1172573009,
@@ -200,14 +200,14 @@
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 637,
+      "stars": 638,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-08T19:29:22Z"
+      "updated_at": "2026-03-08T19:38:00Z"
     },
     {
       "id": 1173427820,
@@ -252,14 +252,14 @@
       "id": 1173821248,
       "name": "TinyAGI/fractals",
       "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 477,
+      "stars": 478,
       "language": "TypeScript",
       "url": "https://github.com/TinyAGI/fractals",
       "owner": {
         "login": "TinyAGI",
         "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
       },
-      "updated_at": "2026-03-08T18:43:50Z"
+      "updated_at": "2026-03-08T19:45:51Z"
     }
   ]
 }
