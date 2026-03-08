@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-03-08T06:56:54.909Z",
+  "lastUpdated": "2026-03-08T07:27:59.859Z",
   "items": [
     {
       "id": 1171026502,
       "name": "googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 15587,
+      "stars": 15616,
       "language": "Rust",
       "url": "https://github.com/googleworkspace/cli",
       "owner": {
         "login": "googleworkspace",
         "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
       },
-      "updated_at": "2026-03-08T06:56:54Z"
+      "updated_at": "2026-03-08T07:26:12Z"
     },
     {
       "id": 1170821064,
       "name": "paperclipai/paperclip",
       "description": "Open-source orchestration for zero-human companies",
-      "stars": 8762,
+      "stars": 8822,
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip",
       "owner": {
         "login": "paperclipai",
         "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
       },
-      "updated_at": "2026-03-08T06:56:52Z"
+      "updated_at": "2026-03-08T07:27:10Z"
     },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 3804,
+      "stars": 3970,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-08T06:56:54Z"
+      "updated_at": "2026-03-08T07:27:55Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 2249,
+      "stars": 2253,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-08T06:30:31Z"
+      "updated_at": "2026-03-08T07:26:53Z"
     },
     {
       "id": 1170326509,
       "name": "LeoYeAI/openclaw-master-skills",
       "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 1458,
+      "stars": 1461,
       "language": "Python",
       "url": "https://github.com/LeoYeAI/openclaw-master-skills",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T06:40:58Z"
+      "updated_at": "2026-03-08T07:16:07Z"
     },
     {
       "id": 1170475068,
       "name": "slowmist/openclaw-security-practice-guide",
       "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1346,
+      "stars": 1349,
       "language": "Shell",
       "url": "https://github.com/slowmist/openclaw-security-practice-guide",
       "owner": {
         "login": "slowmist",
         "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
       },
-      "updated_at": "2026-03-08T06:45:00Z"
+      "updated_at": "2026-03-08T07:20:28Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1153,
+      "stars": 1163,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-08T06:43:35Z"
+      "updated_at": "2026-03-08T07:22:42Z"
     },
     {
       "id": 1170321595,
       "name": "LeoYeAI/openclaw-guardian",
       "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
-      "stars": 1054,
+      "stars": 1056,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-guardian",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T05:08:36Z"
+      "updated_at": "2026-03-08T07:15:45Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 911,
+      "stars": 916,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-08T06:52:28Z"
+      "updated_at": "2026-03-08T07:27:59Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 829,
+      "stars": 833,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-08T06:32:00Z"
+      "updated_at": "2026-03-08T07:26:59Z"
     },
     {
       "id": 1170755412,
       "name": "PKU-YuanGroup/Helios",
       "description": "Helios: Real Real-Time Long Video Generation Model",
-      "stars": 804,
+      "stars": 808,
       "language": "Python",
       "url": "https://github.com/PKU-YuanGroup/Helios",
       "owner": {
         "login": "PKU-YuanGroup",
         "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
       },
-      "updated_at": "2026-03-08T06:47:28Z"
+      "updated_at": "2026-03-08T07:15:07Z"
     },
     {
       "id": 1170617094,
       "name": "LeoYeAI/openclaw-backup",
       "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai",
-      "stars": 697,
+      "stars": 699,
       "language": "Shell",
       "url": "https://github.com/LeoYeAI/openclaw-backup",
       "owner": {
         "login": "LeoYeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
       },
-      "updated_at": "2026-03-08T06:52:47Z"
+      "updated_at": "2026-03-08T07:22:38Z"
     },
     {
       "id": 1172573009,
@@ -174,53 +174,53 @@
       "id": 1170324144,
       "name": "vercel-labs/openreview",
       "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
-      "stars": 661,
+      "stars": 663,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/openreview",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-03-08T06:44:05Z"
+      "updated_at": "2026-03-08T07:16:03Z"
     },
     {
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 595,
+      "stars": 596,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-08T06:47:22Z"
+      "updated_at": "2026-03-08T07:09:25Z"
     },
     {
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 560,
+      "stars": 568,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-08T06:53:10Z"
+      "updated_at": "2026-03-08T07:20:51Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 534,
+      "stars": 541,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-08T06:49:50Z"
+      "updated_at": "2026-03-08T07:27:56Z"
     },
     {
       "id": 1173349091,
@@ -249,17 +249,17 @@
       "updated_at": "2026-03-08T06:46:18Z"
     },
     {
-      "id": 1171738005,
-      "name": "zornade/visura-api",
-      "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER",
-      "stars": 455,
-      "language": "Python",
-      "url": "https://github.com/zornade/visura-api",
+      "id": 1172156102,
+      "name": "jshachm/pi-rs",
+      "description": "基于pi-mono，rust轻量化版本",
+      "stars": 459,
+      "language": "Rust",
+      "url": "https://github.com/jshachm/pi-rs",
       "owner": {
-        "login": "zornade",
-        "avatar_url": "https://avatars.githubusercontent.com/u/139748731?v=4"
+        "login": "jshachm",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17266513?v=4"
       },
-      "updated_at": "2026-03-07T23:02:13Z"
+      "updated_at": "2026-03-08T07:22:38Z"
     }
   ]
 }
