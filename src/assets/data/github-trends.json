@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-03-08T23:56:45.276Z",
+  "lastUpdated": "2026-03-09T01:43:32.326Z",
   "items": [
-    {
-      "id": 1171026502,
-      "name": "googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 16273,
-      "language": "Rust",
-      "url": "https://github.com/googleworkspace/cli",
-      "owner": {
-        "login": "googleworkspace",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3708359?v=4"
-      },
-      "updated_at": "2026-03-08T23:56:09Z"
-    },
-    {
-      "id": 1170821064,
-      "name": "paperclipai/paperclip",
-      "description": "Open-source orchestration for zero-human companies",
-      "stars": 11160,
-      "language": "TypeScript",
-      "url": "https://github.com/paperclipai/paperclip",
-      "owner": {
-        "login": "paperclipai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
-      },
-      "updated_at": "2026-03-08T23:55:39Z"
-    },
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 8426,
+      "stars": 8952,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-08T23:56:35Z"
+      "updated_at": "2026-03-09T01:43:06Z"
     },
     {
       "id": 1171949255,
       "name": "elder-plinius/OBLITERATUS",
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 2393,
+      "stars": 2404,
       "language": "Python",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-08T23:53:38Z"
-    },
-    {
-      "id": 1170326509,
-      "name": "LeoYeAI/openclaw-master-skills",
-      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai",
-      "stars": 1498,
-      "language": "Python",
-      "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "owner": {
-        "login": "LeoYeAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
-      },
-      "updated_at": "2026-03-08T23:34:07Z"
-    },
-    {
-      "id": 1170475068,
-      "name": "slowmist/openclaw-security-practice-guide",
-      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
-      "stars": 1398,
-      "language": "Shell",
-      "url": "https://github.com/slowmist/openclaw-security-practice-guide",
-      "owner": {
-        "login": "slowmist",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38198573?v=4"
-      },
-      "updated_at": "2026-03-08T23:55:28Z"
+      "updated_at": "2026-03-09T01:22:31Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1365,
+      "stars": 1377,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-08T23:44:33Z"
+      "updated_at": "2026-03-09T01:28:24Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 1162,
+      "stars": 1190,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-08T23:47:50Z"
-    },
-    {
-      "id": 1170321595,
-      "name": "LeoYeAI/openclaw-guardian",
-      "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
-      "stars": 1077,
-      "language": "Shell",
-      "url": "https://github.com/LeoYeAI/openclaw-guardian",
-      "owner": {
-        "login": "LeoYeAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
-      },
-      "updated_at": "2026-03-08T22:40:20Z"
+      "updated_at": "2026-03-09T01:43:25Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1059,
+      "stars": 1069,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-08T23:48:27Z"
+      "updated_at": "2026-03-09T01:35:12Z"
     },
     {
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 959,
+      "stars": 984,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-08T23:54:07Z"
-    },
-    {
-      "id": 1170755412,
-      "name": "PKU-YuanGroup/Helios",
-      "description": "Helios: Real Real-Time Long Video Generation Model",
-      "stars": 852,
-      "language": "Python",
-      "url": "https://github.com/PKU-YuanGroup/Helios",
-      "owner": {
-        "login": "PKU-YuanGroup",
-        "avatar_url": "https://avatars.githubusercontent.com/u/135824553?v=4"
-      },
-      "updated_at": "2026-03-08T21:06:46Z"
-    },
-    {
-      "id": 1170324144,
-      "name": "vercel-labs/openreview",
-      "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
-      "stars": 736,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/openreview",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "updated_at": "2026-03-08T23:53:52Z"
-    },
-    {
-      "id": 1170617094,
-      "name": "LeoYeAI/openclaw-backup",
-      "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai",
-      "stars": 722,
-      "language": "Shell",
-      "url": "https://github.com/LeoYeAI/openclaw-backup",
-      "owner": {
-        "login": "LeoYeAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
-      },
-      "updated_at": "2026-03-08T23:51:29Z"
+      "updated_at": "2026-03-09T01:40:07Z"
     },
     {
       "id": 1172573009,
       "name": "tanishqkumar/ssd",
       "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "stars": 710,
+      "stars": 711,
       "language": "Python",
       "url": "https://github.com/tanishqkumar/ssd",
       "owner": {
         "login": "tanishqkumar",
         "avatar_url": "https://avatars.githubusercontent.com/u/52631353?v=4"
       },
-      "updated_at": "2026-03-08T22:22:02Z"
+      "updated_at": "2026-03-09T01:29:33Z"
     },
     {
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 644,
+      "stars": 648,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-08T23:42:05Z"
+      "updated_at": "2026-03-09T01:29:25Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 641,
+      "stars": 648,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-08T23:36:57Z"
+      "updated_at": "2026-03-09T01:37:05Z"
+    },
+    {
+      "id": 1172544020,
+      "name": "hicode002/qualcomm_gbl_exploit_poc",
+      "description": "Unlocking qualcomm bootloader via gbl exploit.",
+      "stars": 498,
+      "language": "C",
+      "url": "https://github.com/hicode002/qualcomm_gbl_exploit_poc",
+      "owner": {
+        "login": "hicode002",
+        "avatar_url": "https://avatars.githubusercontent.com/u/105335451?v=4"
+      },
+      "updated_at": "2026-03-09T01:43:05Z"
     },
     {
       "id": 1173349091,
       "name": "AlpinDale/parsync",
       "description": "Parallel rsync-like pull sync over SSH with resume",
-      "stars": 489,
+      "stars": 492,
       "language": "Rust",
       "url": "https://github.com/AlpinDale/parsync",
       "owner": {
         "login": "AlpinDale",
         "avatar_url": "https://avatars.githubusercontent.com/u/52078762?v=4"
       },
-      "updated_at": "2026-03-08T21:40:07Z"
-    },
-    {
-      "id": 1173821248,
-      "name": "TinyAGI/fractals",
-      "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 486,
-      "language": "TypeScript",
-      "url": "https://github.com/TinyAGI/fractals",
-      "owner": {
-        "login": "TinyAGI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
-      },
-      "updated_at": "2026-03-08T23:55:16Z"
+      "updated_at": "2026-03-09T01:14:03Z"
     },
     {
       "id": 1171261489,
       "name": "inspatio/worldfm",
       "description": null,
-      "stars": 486,
+      "stars": 488,
       "language": "Python",
       "url": "https://github.com/inspatio/worldfm",
       "owner": {
         "login": "inspatio",
         "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
       },
-      "updated_at": "2026-03-08T21:39:36Z"
+      "updated_at": "2026-03-09T01:39:24Z"
+    },
+    {
+      "id": 1173821248,
+      "name": "TinyAGI/fractals",
+      "description": "Fractals is a recursive task orchestrator for agent swarm",
+      "stars": 488,
+      "language": "TypeScript",
+      "url": "https://github.com/TinyAGI/fractals",
+      "owner": {
+        "login": "TinyAGI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
+      },
+      "updated_at": "2026-03-09T01:43:24Z"
+    },
+    {
+      "id": 1174547135,
+      "name": "helenigtxu/TradingView-Claw",
+      "description": null,
+      "stars": 478,
+      "language": "Python",
+      "url": "https://github.com/helenigtxu/TradingView-Claw",
+      "owner": {
+        "login": "helenigtxu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/243172870?v=4"
+      },
+      "updated_at": "2026-03-09T01:28:08Z"
+    },
+    {
+      "id": 1172156102,
+      "name": "jshachm/pi-rs",
+      "description": "基于pi-mono，rust轻量化版本",
+      "stars": 469,
+      "language": "Rust",
+      "url": "https://github.com/jshachm/pi-rs",
+      "owner": {
+        "login": "jshachm",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17266513?v=4"
+      },
+      "updated_at": "2026-03-08T08:30:42Z"
+    },
+    {
+      "id": 1171738005,
+      "name": "zornade/visura-api",
+      "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER",
+      "stars": 460,
+      "language": "Python",
+      "url": "https://github.com/zornade/visura-api",
+      "owner": {
+        "login": "zornade",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139748731?v=4"
+      },
+      "updated_at": "2026-03-08T20:47:49Z"
+    },
+    {
+      "id": 1173754094,
+      "name": "ahmadawais/chartli",
+      "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. ",
+      "stars": 446,
+      "language": "TypeScript",
+      "url": "https://github.com/ahmadawais/chartli",
+      "owner": {
+        "login": "ahmadawais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/960133?v=4"
+      },
+      "updated_at": "2026-03-09T01:07:15Z"
+    },
+    {
+      "id": 1173235250,
+      "name": "xstongxue/best-skills",
+      "description": "通用高质量 Skills 合集🔥",
+      "stars": 423,
+      "language": "Python",
+      "url": "https://github.com/xstongxue/best-skills",
+      "owner": {
+        "login": "xstongxue",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
+      },
+      "updated_at": "2026-03-08T21:18:44Z"
+    },
+    {
+      "id": 1173152133,
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "stars": 402,
+      "language": "TypeScript",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "owner": {
+        "login": "BigBodyCobain",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
+      },
+      "updated_at": "2026-03-09T01:41:42Z"
+    },
+    {
+      "id": 1175225759,
+      "name": "steipete/discrawl",
+      "description": "cli for discord with sqlite backend",
+      "stars": 365,
+      "language": "Go",
+      "url": "https://github.com/steipete/discrawl",
+      "owner": {
+        "login": "steipete",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58493?v=4"
+      },
+      "updated_at": "2026-03-09T01:36:52Z"
     }
   ]
 }
