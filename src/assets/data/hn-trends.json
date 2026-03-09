@@ -1,71 +1,71 @@
 {
-  "lastUpdated": "2026-03-09T11:46:46.804Z",
+  "lastUpdated": "2026-03-09T12:03:18.101Z",
   "items": [
     {
       "id": 47305461,
       "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
       "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "score": 215,
+      "score": 228,
       "by": "dryadin",
       "time": 1773037682,
-      "comments": 125,
+      "comments": 140,
       "domain": "cdn.ca9.uscourts.gov"
     },
     {
       "id": 47306655,
       "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
       "url": "https://arcade.pirillo.com/fontcrafter.html",
-      "score": 73,
+      "score": 79,
       "by": "rendx",
       "time": 1773048302,
-      "comments": 26,
+      "comments": 33,
       "domain": "arcade.pirillo.com"
     },
     {
       "id": 47307055,
       "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe",
       "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "score": 81,
+      "score": 112,
       "by": "robin_reala",
       "time": 1773051299,
-      "comments": 10,
+      "comments": 17,
       "domain": "pv-magazine.com"
-    },
-    {
-      "id": 47301085,
-      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-      "url": "https://agent-safehouse.dev/",
-      "score": 609,
-      "by": "atombender",
-      "time": 1773001818,
-      "comments": 149,
-      "domain": "agent-safehouse.dev"
     },
     {
       "id": 47272531,
       "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
       "url": "https://arxiv.org/abs/2603.04782",
-      "score": 20,
+      "score": 22,
       "by": "runningmike",
       "time": 1772786497,
-      "comments": 14,
+      "comments": 16,
       "domain": "arxiv.org"
+    },
+    {
+      "id": 47301085,
+      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "url": "https://agent-safehouse.dev/",
+      "score": 615,
+      "by": "atombender",
+      "time": 1773001818,
+      "comments": 150,
+      "domain": "agent-safehouse.dev"
     },
     {
       "id": 47291876,
       "title": "Microscopes can see video on a laserdisc",
       "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-      "score": 471,
+      "score": 476,
       "by": "zdw",
       "time": 1772921017,
-      "comments": 60,
+      "comments": 61,
       "domain": "youtube.com"
     },
     {
       "id": 47294582,
       "title": "PCB devboard the size of a USB-C plug",
       "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
-      "score": 191,
+      "score": 192,
       "by": "zachlatta",
       "time": 1772946254,
       "comments": 40,
@@ -75,7 +75,7 @@
       "id": 47260812,
       "title": "Every single board computer I tested in 2025",
       "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-      "score": 175,
+      "score": 177,
       "by": "speckx",
       "time": 1772713450,
       "comments": 58,
@@ -85,7 +85,7 @@
       "id": 47298044,
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 446,
+      "score": 448,
       "by": "todsacerdoti",
       "time": 1772983269,
       "comments": 76,
@@ -95,10 +95,10 @@
       "id": 47298743,
       "title": "My Homelab Setup",
       "url": "https://bryananthonio.com/blog/my-homelab-setup/",
-      "score": 249,
+      "score": 253,
       "by": "photon_collider",
       "time": 1772988370,
-      "comments": 164,
+      "comments": 166,
       "domain": "bryananthonio.com"
     },
     {
@@ -115,17 +115,17 @@
       "id": 47300747,
       "title": "We should revisit literate programming in the agent era",
       "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "score": 248,
+      "score": 254,
       "by": "horseradish",
       "time": 1772999895,
-      "comments": 161,
+      "comments": 169,
       "domain": "silly.business"
     },
     {
       "id": 47301233,
       "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
       "url": "https://github.com/Rabrg/artificial-life",
-      "score": 121,
+      "score": 122,
       "by": "tosh",
       "time": 1773002561,
       "comments": 14,
@@ -135,61 +135,81 @@
       "id": 47304831,
       "title": "How the Sriracha guys screwed over their supplier",
       "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
-      "score": 226,
+      "score": 234,
       "by": "thunderbong",
       "time": 1773029793,
-      "comments": 68,
+      "comments": 76,
       "domain": "old.reddit.com"
-    },
-    {
-      "id": 47254896,
-      "title": "Why can't you tune your guitar? (2019)",
-      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 216,
-      "by": "digitallogic",
-      "time": 1772663427,
-      "comments": 152,
-      "domain": "ethanhein.com"
     },
     {
       "id": 47299606,
       "title": "I made a programming language with M&Ms",
       "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
-      "score": 88,
+      "score": 91,
       "by": "tosh",
       "time": 1772993920,
       "comments": 35,
       "domain": "mufeedvh.com"
     },
     {
+      "id": 47254896,
+      "title": "Why can't you tune your guitar? (2019)",
+      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "score": 220,
+      "by": "digitallogic",
+      "time": 1772663427,
+      "comments": 153,
+      "domain": "ethanhein.com"
+    },
+    {
       "id": 47256376,
       "title": "My “grand vision” for Rust",
       "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
-      "score": 204,
+      "score": 207,
       "by": "todsacerdoti",
       "time": 1772674662,
-      "comments": 197,
+      "comments": 199,
       "domain": "blog.yoshuawuyts.com"
     },
     {
       "id": 47297919,
       "title": "Living human brain cells play DOOM on a CL1 [video]",
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-      "score": 197,
+      "score": 201,
       "by": "kevinak",
       "time": 1772982448,
       "comments": 200,
       "domain": "youtube.com"
     },
     {
+      "id": 47307419,
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "score": 10,
+      "by": "voxadam",
+      "time": 1773053895,
+      "comments": 2,
+      "domain": "cnbc.com"
+    },
+    {
       "id": 47304886,
       "title": "The death of social media is the renaissance of RSS (2025)",
       "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-      "score": 161,
+      "score": 162,
       "by": "jruohonen",
       "time": 1773030479,
-      "comments": 101,
+      "comments": 104,
       "domain": "smartlab.at"
+    },
+    {
+      "id": 47299505,
+      "title": "WSL Manager",
+      "url": "https://github.com/bostrot/wsl2-distro-manager",
+      "score": 112,
+      "by": "gballan",
+      "time": 1772993316,
+      "comments": 59,
+      "domain": "github.com"
     },
     {
       "id": 47264662,
@@ -198,58 +218,58 @@
       "score": 35,
       "by": "surprisetalk",
       "time": 1772732233,
-      "comments": 14,
+      "comments": 15,
       "domain": "blog.xoria.org"
-    },
-    {
-      "id": 47307419,
-      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
-      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
-      "score": 7,
-      "by": "voxadam",
-      "time": 1773053895,
-      "comments": 1,
-      "domain": "cnbc.com"
     },
     {
       "id": 47305149,
       "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
       "url": "https://github.com/knowsuchagency/mcp2cli",
-      "score": 91,
+      "score": 93,
       "by": "knowsuchagency",
       "time": 1773033526,
       "comments": 60,
       "domain": "github.com"
     },
     {
-      "id": 47299505,
-      "title": "WSL Manager",
-      "url": "https://github.com/bostrot/wsl2-distro-manager",
-      "score": 111,
-      "by": "gballan",
-      "time": 1772993316,
-      "comments": 58,
-      "domain": "github.com"
-    },
-    {
       "id": 47256810,
       "title": "Z80 Sans – a disassembler in a font (2024)",
       "url": "https://github.com/nevesnunes/z80-sans",
-      "score": 122,
+      "score": 124,
       "by": "pabs3",
       "time": 1772678287,
       "comments": 12,
       "domain": "github.com"
     },
     {
+      "id": 47306334,
+      "title": "We Stopped Using the Mathematics That Works",
+      "url": "https://gfrm.in/posts/why-decision-theory-lost/index.html",
+      "score": 5,
+      "by": "slygent",
+      "time": 1773045920,
+      "comments": 1,
+      "domain": "gfrm.in"
+    },
+    {
       "id": 47300102,
       "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "score": 252,
+      "score": 257,
       "by": "vancecookcobxin",
       "time": 1772996853,
       "comments": 105,
       "domain": "github.com"
+    },
+    {
+      "id": 47293195,
+      "title": "Pushing and Pulling: Three reactivity algorithms",
+      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+      "score": 104,
+      "by": "frogulis",
+      "time": 1772931477,
+      "comments": 18,
+      "domain": "jonathan-frere.com"
     },
     {
       "id": 47281827,
@@ -260,26 +280,6 @@
       "time": 1772835221,
       "comments": 8,
       "domain": "dailydot.com"
-    },
-    {
-      "id": 47267022,
-      "title": "Triumph of the toons: how animation came to rule the box office",
-      "url": "https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office",
-      "score": 20,
-      "by": "andsoitis",
-      "time": 1772743410,
-      "comments": 26,
-      "domain": "economist.com"
-    },
-    {
-      "id": 47293195,
-      "title": "Pushing and Pulling: Three reactivity algorithms",
-      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
-      "score": 102,
-      "by": "frogulis",
-      "time": 1772931477,
-      "comments": 18,
-      "domain": "jonathan-frere.com"
     }
   ]
 }
