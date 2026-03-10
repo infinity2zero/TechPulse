@@ -1,181 +1,191 @@
 {
-  "lastUpdated": "2026-03-10T09:04:47.465Z",
+  "lastUpdated": "2026-03-10T09:57:21.242Z",
   "items": [
     {
       "id": 47320661,
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "score": 6,
+      "score": 79,
       "by": "pjmlp",
       "time": 1773132893,
-      "comments": 0,
+      "comments": 52,
       "domain": "gitlab.redox-os.org"
     },
     {
       "id": 47279633,
       "title": "Lotus 1-2-3 on the PC with DOS",
       "url": "https://stonetools.ghost.io/lotus123-dos/",
-      "score": 70,
+      "score": 87,
       "by": "TMWNN",
       "time": 1772824284,
-      "comments": 22,
+      "comments": 28,
       "domain": "stonetools.ghost.io"
     },
     {
       "id": 47317616,
       "title": "Two Years of Emacs Solo",
       "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "score": 236,
+      "score": 250,
       "by": "celadevra_",
       "time": 1773101804,
-      "comments": 60,
+      "comments": 73,
       "domain": "rahuljuliato.com"
-    },
-    {
-      "id": 47317132,
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 183,
-      "by": "jnord",
-      "time": 1773098526,
-      "comments": 120,
-      "domain": "martinalderson.com"
     },
     {
       "id": 47302493,
       "title": "Optimizing Top K in Postgres",
       "url": "https://www.paradedb.com/blog/optimizing-top-k",
-      "score": 61,
+      "score": 75,
       "by": "philippemnoel",
       "time": 1773010457,
-      "comments": 7,
+      "comments": 10,
       "domain": "paradedb.com"
-    },
-    {
-      "id": 47311815,
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 477,
-      "by": "imadr",
-      "time": 1773075742,
-      "comments": 70,
-      "domain": "felixturner.github.io"
-    },
-    {
-      "id": 47277735,
-      "title": "A useless infinite scroll experiment",
-      "url": "https://futile.ch/en/",
-      "score": 47,
-      "by": "dolin_ch",
-      "time": 1772816619,
-      "comments": 25,
-      "domain": "futile.ch"
-    },
-    {
-      "id": 47280654,
-      "title": "Show HN: Remotely use my guitar tuner",
-      "url": "https://realtuner.online/",
-      "score": 184,
-      "by": "smith-kyle",
-      "time": 1772828870,
-      "comments": 40,
-      "domain": "realtuner.online"
-    },
-    {
-      "id": 47319620,
-      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-      "url": "https://loger-project.github.io",
-      "score": 18,
-      "by": "helloplanets",
-      "time": 1773123366,
-      "comments": 7,
-      "domain": "loger-project.github.io"
-    },
-    {
-      "id": 47311484,
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "score": 311,
-      "by": "TechTechTech",
-      "time": 1773074619,
-      "comments": 91,
-      "domain": "bellard.org"
     },
     {
       "id": 47279761,
       "title": "macOS Tahoe windows have different corner radiuses",
       "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
-      "score": 98,
+      "score": 131,
       "by": "robenkleene",
       "time": 1772824818,
-      "comments": 62,
+      "comments": 85,
       "domain": "lapcatsoftware.com"
+    },
+    {
+      "id": 47319620,
+      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+      "url": "https://loger-project.github.io",
+      "score": 32,
+      "by": "helloplanets",
+      "time": 1773123366,
+      "comments": 13,
+      "domain": "loger-project.github.io"
+    },
+    {
+      "id": 47311815,
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "url": "https://felixturner.github.io/hex-map-wfc/article/",
+      "score": 489,
+      "by": "imadr",
+      "time": 1773075742,
+      "comments": 71,
+      "domain": "felixturner.github.io"
+    },
+    {
+      "id": 47280654,
+      "title": "Show HN: Remotely use my guitar tuner",
+      "url": "https://realtuner.online/",
+      "score": 195,
+      "by": "smith-kyle",
+      "time": 1772828870,
+      "comments": 43,
+      "domain": "realtuner.online"
+    },
+    {
+      "id": 47277735,
+      "title": "A useless infinite scroll experiment",
+      "url": "https://futile.ch/en/",
+      "score": 55,
+      "by": "dolin_ch",
+      "time": 1772816619,
+      "comments": 32,
+      "domain": "futile.ch"
+    },
+    {
+      "id": 47317132,
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "score": 209,
+      "by": "jnord",
+      "time": 1773098526,
+      "comments": 147,
+      "domain": "martinalderson.com"
+    },
+    {
+      "id": 47311484,
+      "title": "JSLinux Now Supports x86_64",
+      "url": "https://bellard.org/jslinux/",
+      "score": 319,
+      "by": "TechTechTech",
+      "time": 1773074619,
+      "comments": 94,
+      "domain": "bellard.org"
     },
     {
       "id": 47310160,
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
       "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "score": 447,
+      "score": 460,
       "by": "dahlia",
       "time": 1773069173,
-      "comments": 476,
+      "comments": 486,
       "domain": "writings.hongminhee.org"
-    },
-    {
-      "id": 47318421,
-      "title": "Learnings from paying artists royalties for AI-generated art",
-      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-      "score": 127,
-      "by": "jenthoven",
-      "time": 1773109492,
-      "comments": 95,
-      "domain": "kapwing.com"
     },
     {
       "id": 47319255,
       "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
       "url": "https://washere.live",
-      "score": 21,
+      "score": 25,
       "by": "mrktsm__",
       "time": 1773119063,
-      "comments": 14,
+      "comments": 18,
       "domain": "washere.live"
+    },
+    {
+      "id": 47318421,
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "score": 133,
+      "by": "jenthoven",
+      "time": 1773109492,
+      "comments": 102,
+      "domain": "kapwing.com"
     },
     {
       "id": 47276343,
       "title": "Darkrealms BBS",
       "url": "http://www.darkrealms.ca/",
-      "score": 92,
+      "score": 99,
       "by": "TigerUniversity",
       "time": 1772811645,
-      "comments": 20,
+      "comments": 22,
       "domain": "darkrealms.ca"
     },
     {
       "id": 47317739,
       "title": "The “JVG algorithm” only wins on tiny numbers",
       "url": "https://scottaaronson.blog/?p=9615",
-      "score": 61,
+      "score": 65,
       "by": "jhalderm",
       "time": 1773102919,
-      "comments": 31,
+      "comments": 35,
       "domain": "scottaaronson.blog"
     },
     {
       "id": 47277865,
       "title": "The hidden compile-time cost of C++26 reflection",
       "url": "https://vittorioromeo.com/index/blog/refl_compiletime.html",
-      "score": 6,
+      "score": 12,
       "by": "SuperV1234",
       "time": 1772817045,
       "comments": 1,
       "domain": "vittorioromeo.com"
     },
     {
+      "id": 47286657,
+      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "score": 4,
+      "by": "janandonly",
+      "time": 1772882917,
+      "comments": 0,
+      "domain": "ribbonfarm.com"
+    },
+    {
       "id": 47309953,
       "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
       "url": "https://github.com/DenchHQ/DenchClaw",
-      "score": 116,
+      "score": 117,
       "by": "kumar_abhirup",
       "time": 1773068142,
       "comments": 96,
@@ -185,21 +195,81 @@
       "id": 47311669,
       "title": "DARPA’s new X-76",
       "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "score": 194,
+      "score": 198,
       "by": "newer_vienna",
       "time": 1773075271,
-      "comments": 182,
+      "comments": 181,
       "domain": "darpa.mil"
+    },
+    {
+      "id": 47317348,
+      "title": "Getting Started in Common Lisp",
+      "url": "https://lisp-stat.dev/blog/2026/03/09/getting-started/",
+      "score": 45,
+      "by": "oumua_don17",
+      "time": 1773099809,
+      "comments": 9,
+      "domain": "lisp-stat.dev"
     },
     {
       "id": 47289007,
       "title": "Graphing how the 10k* most common English words define each other",
       "url": "https://wyattsell.com/experiments/word-graph/",
-      "score": 54,
+      "score": 60,
       "by": "wyattsell",
       "time": 1772900664,
-      "comments": 14,
+      "comments": 16,
       "domain": "wyattsell.com"
+    },
+    {
+      "id": 47311179,
+      "title": "An opinionated take on how to do important research that matters",
+      "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+      "score": 130,
+      "by": "mad",
+      "time": 1773073462,
+      "comments": 31,
+      "domain": "nicholas.carlini.com"
+    },
+    {
+      "id": 47312090,
+      "title": "Florida judge rules red light camera tickets are unconstitutional",
+      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+      "score": 427,
+      "by": "1970-01-01",
+      "time": 1773076829,
+      "comments": 544,
+      "domain": "cbs12.com"
+    },
+    {
+      "id": 47315128,
+      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+      "score": 355,
+      "by": "spenvo",
+      "time": 1773088603,
+      "comments": 206,
+      "domain": "cnbc.com"
+    },
+    {
+      "id": 47313934,
+      "title": "Notes on Baking at the South Pole",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
+      "score": 59,
+      "by": "mitchbob",
+      "time": 1773083534,
+      "comments": 22,
+      "domain": "newyorker.com"
+    },
+    {
+      "id": 47308059,
+      "title": "No leap second will be introduced at the end of June 2026",
+      "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
+      "score": 112,
+      "by": "speckx",
+      "time": 1773058507,
+      "comments": 120,
+      "domain": "lists.iana.org"
     },
     {
       "id": 47284699,
@@ -212,84 +282,14 @@
       "domain": "iisc.ac.in"
     },
     {
-      "id": 47311179,
-      "title": "An opinionated take on how to do important research that matters",
-      "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-      "score": 125,
-      "by": "mad",
-      "time": 1773073462,
-      "comments": 30,
-      "domain": "nicholas.carlini.com"
-    },
-    {
-      "id": 47312090,
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "score": 425,
-      "by": "1970-01-01",
-      "time": 1773076829,
-      "comments": 538,
-      "domain": "cbs12.com"
-    },
-    {
-      "id": 47315128,
-      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "score": 341,
-      "by": "spenvo",
-      "time": 1773088603,
-      "comments": 198,
-      "domain": "cnbc.com"
-    },
-    {
-      "id": 47313934,
-      "title": "Notes on Baking at the South Pole",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
-      "score": 56,
-      "by": "mitchbob",
-      "time": 1773083534,
-      "comments": 21,
-      "domain": "newyorker.com"
-    },
-    {
-      "id": 47308059,
-      "title": "No leap second will be introduced at the end of June 2026",
-      "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
-      "score": 107,
-      "by": "speckx",
-      "time": 1773058507,
-      "comments": 113,
-      "domain": "lists.iana.org"
-    },
-    {
       "id": 47307055,
       "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
       "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "score": 948,
+      "score": 964,
       "by": "robin_reala",
       "time": 1773051299,
-      "comments": 585,
+      "comments": 597,
       "domain": "pv-magazine.com"
-    },
-    {
-      "id": 47298553,
-      "title": "Flash media longevity testing – 6 years later",
-      "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
-      "score": 157,
-      "by": "1970-01-01",
-      "time": 1772986944,
-      "comments": 88,
-      "domain": "old.reddit.com"
-    },
-    {
-      "id": 47317348,
-      "title": "Getting Started in Common Lisp",
-      "url": "https://lisp-stat.dev/blog/2026/03/09/getting-started/",
-      "score": 35,
-      "by": "oumua_don17",
-      "time": 1773099809,
-      "comments": 7,
-      "domain": "lisp-stat.dev"
     }
   ]
 }
