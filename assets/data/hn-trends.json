@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-03-10T21:30:06.032Z",
+  "lastUpdated": "2026-03-10T21:51:31.259Z",
   "items": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1183,
+      "score": 1221,
       "by": "speckx",
       "time": 1773154216,
-      "comments": 164,
+      "comments": 172,
       "domain": "blog.computationalcomplexity.org"
     },
     {
       "id": 47328214,
       "title": "RISC-V Is Sloooow",
       "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
-      "score": 64,
+      "score": 80,
       "by": "todsacerdoti",
       "time": 1773173514,
-      "comments": 49,
+      "comments": 66,
       "domain": "marcin.juszkiewicz.com.pl"
     },
     {
       "id": 47323017,
       "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
       "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "score": 137,
+      "score": 177,
       "by": "ndr42",
       "time": 1773149477,
-      "comments": 237,
+      "comments": 249,
       "domain": "arstechnica.com"
     },
     {
       "id": 47327559,
       "title": "Agents that run while I sleep",
       "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 125,
+      "score": 132,
       "by": "aray07",
       "time": 1773169786,
-      "comments": 86,
+      "comments": 89,
       "domain": "claudecodecamp.com"
     },
     {
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 204,
+      "score": 218,
       "by": "helloplanets",
       "time": 1773132413,
-      "comments": 279,
+      "comments": 280,
       "domain": "wired.com"
     },
     {
       "id": 47327641,
       "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
       "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
-      "score": 55,
+      "score": 60,
       "by": "naves",
       "time": 1773170246,
       "comments": 15,
@@ -65,20 +65,20 @@
       "id": 47326101,
       "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "url": "https://github.com/RunanywhereAI/rcli",
-      "score": 150,
+      "score": 152,
       "by": "sanchitmonga22",
       "time": 1773162892,
-      "comments": 67,
+      "comments": 70,
       "domain": "github.com"
     },
     {
       "id": 47324087,
       "title": "Debian decides not to decide on AI-generated contributions",
       "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "score": 226,
+      "score": 231,
       "by": "jwilk",
       "time": 1773154393,
-      "comments": 180,
+      "comments": 184,
       "domain": "lwn.net"
     },
     {
@@ -88,14 +88,14 @@
       "score": 78,
       "by": "seanlinehan",
       "time": 1773164993,
-      "comments": 44,
+      "comments": 45,
       "domain": "worldgov.org"
     },
     {
       "id": 47327015,
       "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
       "url": "https://github.com/steelbrain/ffmpeg-over-ip",
-      "score": 56,
+      "score": 64,
       "by": "steelbrain",
       "time": 1773167199,
       "comments": 26,
@@ -105,130 +105,140 @@
       "id": 47293337,
       "title": "Roblox is minting teen millionaires",
       "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
-      "score": 29,
+      "score": 36,
       "by": "petethomas",
       "time": 1772932805,
-      "comments": 23,
+      "comments": 32,
       "domain": "bloomberg.com"
     },
     {
       "id": 47289590,
       "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
       "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
-      "score": 13,
+      "score": 17,
       "by": "Brajeshwar",
       "time": 1772904594,
-      "comments": 0,
+      "comments": 1,
       "domain": "raspberrypi.com"
-    },
-    {
-      "id": 47322815,
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "url": "https://spectrum.ieee.org/fhe-intel",
-      "score": 196,
-      "by": "sohkamyung",
-      "time": 1773148248,
-      "comments": 74,
-      "domain": "spectrum.ieee.org"
     },
     {
       "id": 47320614,
       "title": "Levels of Agentic Engineering",
       "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
-      "score": 63,
+      "score": 69,
       "by": "bombastic311",
       "time": 1773132520,
-      "comments": 30,
+      "comments": 38,
       "domain": "bassimeledath.com"
     },
     {
       "id": 47320661,
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "score": 343,
+      "score": 346,
       "by": "pjmlp",
       "time": 1773132893,
       "comments": 344,
       "domain": "gitlab.redox-os.org"
     },
     {
+      "id": 47322815,
+      "title": "Intel Demos Chip to Compute with Encrypted Data",
+      "url": "https://spectrum.ieee.org/fhe-intel",
+      "score": 199,
+      "by": "sohkamyung",
+      "time": 1773148248,
+      "comments": 75,
+      "domain": "spectrum.ieee.org"
+    },
+    {
       "id": 47322635,
       "title": "Online age-verification tools for child safety are surveilling adults",
       "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 452,
+      "score": 459,
       "by": "bilsbie",
       "time": 1773147342,
-      "comments": 269,
+      "comments": 273,
       "domain": "cnbc.com"
-    },
-    {
-      "id": 47317288,
-      "title": "Open Weights isn't Open Training",
-      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
-      "score": 59,
-      "by": "addiefoote8",
-      "time": 1773099428,
-      "comments": 17,
-      "domain": "workshoplabs.ai"
-    },
-    {
-      "id": 47323105,
-      "title": "Rebasing in Magit",
-      "url": "https://entropicthoughts.com/rebasing-in-magit",
-      "score": 162,
-      "by": "ibobev",
-      "time": 1773149919,
-      "comments": 113,
-      "domain": "entropicthoughts.com"
     },
     {
       "id": 47321233,
       "title": "I put my whole life into a single database",
       "url": "https://howisfelix.today/",
-      "score": 382,
+      "score": 387,
       "by": "lukakopajtic",
       "time": 1773137268,
-      "comments": 185,
+      "comments": 187,
       "domain": "howisfelix.today"
+    },
+    {
+      "id": 47323105,
+      "title": "Rebasing in Magit",
+      "url": "https://entropicthoughts.com/rebasing-in-magit",
+      "score": 164,
+      "by": "ibobev",
+      "time": 1773149919,
+      "comments": 115,
+      "domain": "entropicthoughts.com"
+    },
+    {
+      "id": 47317288,
+      "title": "Open Weights isn't Open Training",
+      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+      "score": 61,
+      "by": "addiefoote8",
+      "time": 1773099428,
+      "comments": 18,
+      "domain": "workshoplabs.ai"
     },
     {
       "id": 47322887,
       "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
       "url": "https://dnhkng.github.io/posts/rys/",
-      "score": 215,
+      "score": 222,
       "by": "dnhkng",
       "time": 1773148735,
-      "comments": 74,
+      "comments": 76,
       "domain": "dnhkng.github.io"
     },
     {
       "id": 47323900,
       "title": "Meta acquires Moltbook",
       "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "score": 320,
+      "score": 332,
       "by": "mmayberry",
       "time": 1773153486,
-      "comments": 213,
+      "comments": 218,
       "domain": "axios.com"
     },
     {
       "id": 47326025,
       "title": "Defeat as Method",
       "url": "https://www.cabinetmagazine.org/issues/71/khosravi.php",
-      "score": 34,
+      "score": 35,
       "by": "akbarnama",
       "time": 1773162447,
       "comments": 3,
       "domain": "cabinetmagazine.org"
     },
     {
+      "id": 47325595,
+      "title": "I built a programming language using Claude Code",
+      "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+      "score": 85,
+      "by": "GeneralMaximus",
+      "time": 1773160649,
+      "comments": 122,
+      "domain": "ankursethi.com"
+    },
+    {
       "id": 47290918,
       "title": "I used pulsar detection techniques to turn a phone into a watch timegrapher",
       "url": "https://www.chronolog.watch/timegrapher",
-      "score": 56,
+      "score": 59,
       "by": "tylerjaywood",
       "time": 1772913266,
-      "comments": 22,
+      "comments": 25,
       "domain": "chronolog.watch"
     },
     {
@@ -238,38 +248,28 @@
       "score": 26,
       "by": "lukebechtel",
       "time": 1773155572,
-      "comments": 6,
+      "comments": 8,
       "domain": "infinity.inc"
-    },
-    {
-      "id": 47325595,
-      "title": "I built a programming language using Claude Code",
-      "url": "https://ankursethi.com/blog/programming-language-claude-code/",
-      "score": 82,
-      "by": "GeneralMaximus",
-      "time": 1773160649,
-      "comments": 121,
-      "domain": "ankursethi.com"
-    },
-    {
-      "id": 47324058,
-      "title": "We are building data breach machines and nobody cares",
-      "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
-      "score": 56,
-      "by": "idealloc_haris",
-      "time": 1773154243,
-      "comments": 21,
-      "domain": "idealloc.me"
     },
     {
       "id": 47286657,
       "title": "The Gervais Principle, or the Office According to “The Office” (2009)",
       "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "score": 268,
+      "score": 269,
       "by": "janandonly",
       "time": 1772882917,
       "comments": 116,
       "domain": "ribbonfarm.com"
+    },
+    {
+      "id": 47324058,
+      "title": "We are building data breach machines and nobody cares",
+      "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+      "score": 63,
+      "by": "idealloc_haris",
+      "time": 1773154243,
+      "comments": 23,
+      "domain": "idealloc.me"
     },
     {
       "id": 47283884,
@@ -282,14 +282,14 @@
       "domain": "onlinelibrary.wiley.com"
     },
     {
-      "id": 47328104,
-      "title": "Iowa Payphone Defends Itself (Associated Press, 1984)",
-      "url": "https://www.payphone-project.com/iowa-payphone-defends-itself-ap-story-from-october-1984.html",
-      "score": 5,
-      "by": "TigerUniversity",
-      "time": 1773172956,
-      "comments": 1,
-      "domain": "payphone-project.com"
+      "id": 47291767,
+      "title": "Because Algospeak",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak",
+      "score": 21,
+      "by": "zdw",
+      "time": 1772920053,
+      "comments": 7,
+      "domain": "tbray.org"
     }
   ]
 }
