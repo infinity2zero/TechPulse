@@ -1,161 +1,174 @@
 {
-  "lastUpdated": "2026-03-10T07:47:05.777Z",
+  "lastUpdated": "2026-03-10T08:23:15.593Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 18524,
+      "stars": 18700,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-10T07:46:54Z"
+      "updated_at": "2026-03-10T08:23:05Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1652,
+      "stars": 1658,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-10T07:46:48Z"
+      "updated_at": "2026-03-10T08:15:50Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 1481,
+      "stars": 1524,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-10T07:46:45Z"
+      "updated_at": "2026-03-10T08:21:56Z"
     },
     {
       "id": 1172198295,
       "name": "duoan/TorchCode",
       "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.",
-      "stars": 1464,
+      "stars": 1469,
       "language": "Jupyter Notebook",
       "url": "https://github.com/duoan/TorchCode",
       "owner": {
         "login": "duoan",
         "avatar_url": "https://avatars.githubusercontent.com/u/2378740?v=4"
       },
-      "updated_at": "2026-03-10T07:43:48Z"
+      "updated_at": "2026-03-10T08:17:59Z"
     },
     {
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 1313,
+      "stars": 1318,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-10T07:34:48Z"
+      "updated_at": "2026-03-10T08:14:28Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1253,
+      "stars": 1257,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-10T07:41:19Z"
+      "updated_at": "2026-03-10T08:11:02Z"
     },
     {
       "id": 1173308786,
       "name": "jackwener/twitter-cli",
       "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "stars": 1224,
+      "stars": 1238,
       "language": "Python",
       "url": "https://github.com/jackwener/twitter-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-10T07:41:17Z"
+      "updated_at": "2026-03-10T08:18:22Z"
     },
     {
       "id": 1173152133,
       "name": "BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1171,
+      "stars": 1181,
       "language": "TypeScript",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "owner": {
         "login": "BigBodyCobain",
         "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
       },
-      "updated_at": "2026-03-10T07:40:45Z"
+      "updated_at": "2026-03-10T08:22:22Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 794,
+      "stars": 795,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-10T07:45:25Z"
+      "updated_at": "2026-03-10T08:06:17Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 747,
+      "stars": 752,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-10T07:45:20Z"
+      "updated_at": "2026-03-10T08:23:02Z"
     },
     {
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 743,
+      "stars": 744,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-10T07:44:42Z"
+      "updated_at": "2026-03-10T07:53:21Z"
     },
     {
       "id": 1172573009,
       "name": "tanishqkumar/ssd",
       "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
-      "stars": 738,
+      "stars": 740,
       "language": "Python",
       "url": "https://github.com/tanishqkumar/ssd",
       "owner": {
         "login": "tanishqkumar",
         "avatar_url": "https://avatars.githubusercontent.com/u/52631353?v=4"
       },
-      "updated_at": "2026-03-10T07:22:54Z"
+      "updated_at": "2026-03-10T08:21:03Z"
+    },
+    {
+      "id": 1177181048,
+      "name": "karpathy/agenthub",
+      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
+      "stars": 722,
+      "language": "Go",
+      "url": "https://github.com/karpathy/agenthub",
+      "owner": {
+        "login": "karpathy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+      },
+      "updated_at": "2026-03-10T08:22:37Z"
     },
     {
       "id": 1172544020,
@@ -168,72 +181,59 @@
         "login": "hicode002",
         "avatar_url": "https://avatars.githubusercontent.com/u/105335451?v=4"
       },
-      "updated_at": "2026-03-10T07:40:17Z"
-    },
-    {
-      "id": 1177181048,
-      "name": "karpathy/agenthub",
-      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "stars": 656,
-      "language": "Go",
-      "url": "https://github.com/karpathy/agenthub",
-      "owner": {
-        "login": "karpathy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
-      },
-      "updated_at": "2026-03-10T07:44:30Z"
+      "updated_at": "2026-03-10T08:05:49Z"
     },
     {
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 651,
+      "stars": 653,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-10T07:45:21Z"
+      "updated_at": "2026-03-10T07:52:12Z"
     },
     {
       "id": 1172156102,
       "name": "jshachm/pi-rs",
       "description": "基于pi-mono，rust轻量化版本",
-      "stars": 590,
+      "stars": 592,
       "language": "Rust",
       "url": "https://github.com/jshachm/pi-rs",
       "owner": {
         "login": "jshachm",
         "avatar_url": "https://avatars.githubusercontent.com/u/17266513?v=4"
       },
-      "updated_at": "2026-03-10T07:38:21Z"
+      "updated_at": "2026-03-10T08:01:07Z"
     },
     {
       "id": 1173754094,
       "name": "ahmadawais/chartli",
       "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. ",
-      "stars": 521,
+      "stars": 522,
       "language": "TypeScript",
       "url": "https://github.com/ahmadawais/chartli",
       "owner": {
         "login": "ahmadawais",
         "avatar_url": "https://avatars.githubusercontent.com/u/960133?v=4"
       },
-      "updated_at": "2026-03-10T07:03:17Z"
+      "updated_at": "2026-03-10T08:14:58Z"
     },
     {
       "id": 1173869985,
       "name": "vulhunt-re/vulhunt",
       "description": "Vulnerability detection framework by Binarly's REsearch team",
-      "stars": 520,
+      "stars": 522,
       "language": "C++",
       "url": "https://github.com/vulhunt-re/vulhunt",
       "owner": {
         "login": "vulhunt-re",
         "avatar_url": "https://avatars.githubusercontent.com/u/265152947?v=4"
       },
-      "updated_at": "2026-03-10T07:19:52Z"
+      "updated_at": "2026-03-10T08:22:21Z"
     },
     {
       "id": 1173349091,
