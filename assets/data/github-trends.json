@@ -1,44 +1,57 @@
 {
-  "lastUpdated": "2026-03-10T16:10:53.088Z",
+  "lastUpdated": "2026-03-10T17:07:34.187Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 20978,
+      "stars": 21228,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-10T16:10:49Z"
+      "updated_at": "2026-03-10T17:07:21Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 2079,
+      "stars": 2173,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-10T16:09:58Z"
+      "updated_at": "2026-03-10T17:07:28Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1705,
+      "stars": 1713,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-10T16:07:36Z"
+      "updated_at": "2026-03-10T16:54:48Z"
+    },
+    {
+      "id": 1177181048,
+      "name": "karpathy/agenthub",
+      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
+      "stars": 1578,
+      "language": "Go",
+      "url": "https://github.com/karpathy/agenthub",
+      "owner": {
+        "login": "karpathy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+      },
+      "updated_at": "2026-03-10T17:05:33Z"
     },
     {
       "id": 1172198295,
@@ -54,108 +67,95 @@
       "updated_at": "2026-03-10T15:30:37Z"
     },
     {
-      "id": 1177181048,
-      "name": "karpathy/agenthub",
-      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "stars": 1488,
-      "language": "Go",
-      "url": "https://github.com/karpathy/agenthub",
-      "owner": {
-        "login": "karpathy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
-      },
-      "updated_at": "2026-03-10T16:10:52Z"
-    },
-    {
       "id": 1173308786,
       "name": "jackwener/twitter-cli",
       "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "stars": 1356,
+      "stars": 1368,
       "language": "Python",
       "url": "https://github.com/jackwener/twitter-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-10T16:08:37Z"
+      "updated_at": "2026-03-10T17:03:57Z"
     },
     {
       "id": 1172257670,
       "name": "viperrcrypto/Siftly",
       "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": 1354,
+      "stars": 1355,
       "language": "TypeScript",
       "url": "https://github.com/viperrcrypto/Siftly",
       "owner": {
         "login": "viperrcrypto",
         "avatar_url": "https://avatars.githubusercontent.com/u/253949741?v=4"
       },
-      "updated_at": "2026-03-10T15:52:20Z"
-    },
-    {
-      "id": 1174042197,
-      "name": "cyxzdev/Uncodixfy",
-      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1309,
-      "language": null,
-      "url": "https://github.com/cyxzdev/Uncodixfy",
-      "owner": {
-        "login": "cyxzdev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
-      },
-      "updated_at": "2026-03-10T15:48:14Z"
+      "updated_at": "2026-03-10T16:34:18Z"
     },
     {
       "id": 1173152133,
       "name": "BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1302,
+      "stars": 1320,
       "language": "TypeScript",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "owner": {
         "login": "BigBodyCobain",
         "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
       },
-      "updated_at": "2026-03-10T16:05:41Z"
+      "updated_at": "2026-03-10T17:05:09Z"
+    },
+    {
+      "id": 1174042197,
+      "name": "cyxzdev/Uncodixfy",
+      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
+      "stars": 1315,
+      "language": null,
+      "url": "https://github.com/cyxzdev/Uncodixfy",
+      "owner": {
+        "login": "cyxzdev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
+      },
+      "updated_at": "2026-03-10T16:53:33Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 866,
+      "stars": 878,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-10T16:06:36Z"
+      "updated_at": "2026-03-10T17:03:39Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 818,
+      "stars": 821,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-10T15:28:20Z"
+      "updated_at": "2026-03-10T16:59:02Z"
     },
     {
       "id": 1172617973,
       "name": "Flowseal/tg-ws-proxy",
       "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
-      "stars": 765,
+      "stars": 766,
       "language": "Python",
       "url": "https://github.com/Flowseal/tg-ws-proxy",
       "owner": {
         "login": "Flowseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
       },
-      "updated_at": "2026-03-10T15:33:15Z"
+      "updated_at": "2026-03-10T16:45:49Z"
     },
     {
       "id": 1172573009,
@@ -174,66 +174,66 @@
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 688,
+      "stars": 690,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-10T15:59:08Z"
+      "updated_at": "2026-03-10T16:51:41Z"
     },
     {
       "id": 1172544020,
       "name": "hicode002/qualcomm_gbl_exploit_poc",
       "description": "Unlocking qualcomm bootloader via gbl exploit.",
-      "stars": 673,
+      "stars": 675,
       "language": "C",
       "url": "https://github.com/hicode002/qualcomm_gbl_exploit_poc",
       "owner": {
         "login": "hicode002",
         "avatar_url": "https://avatars.githubusercontent.com/u/105335451?v=4"
       },
-      "updated_at": "2026-03-10T16:02:02Z"
-    },
-    {
-      "id": 1172156102,
-      "name": "jshachm/pi-rs",
-      "description": "基于pi-mono，rust轻量化版本",
-      "stars": 614,
-      "language": "Rust",
-      "url": "https://github.com/jshachm/pi-rs",
-      "owner": {
-        "login": "jshachm",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17266513?v=4"
-      },
-      "updated_at": "2026-03-10T15:59:45Z"
+      "updated_at": "2026-03-10T16:47:24Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 588,
+      "stars": 633,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-10T16:09:31Z"
+      "updated_at": "2026-03-10T17:04:07Z"
+    },
+    {
+      "id": 1172156102,
+      "name": "jshachm/pi-rs",
+      "description": "基于pi-mono，rust轻量化版本",
+      "stars": 615,
+      "language": "Rust",
+      "url": "https://github.com/jshachm/pi-rs",
+      "owner": {
+        "login": "jshachm",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17266513?v=4"
+      },
+      "updated_at": "2026-03-10T16:27:08Z"
     },
     {
       "id": 1173869985,
       "name": "vulhunt-re/vulhunt",
       "description": "Vulnerability detection framework by Binarly's REsearch team",
-      "stars": 535,
+      "stars": 536,
       "language": "C++",
       "url": "https://github.com/vulhunt-re/vulhunt",
       "owner": {
         "login": "vulhunt-re",
         "avatar_url": "https://avatars.githubusercontent.com/u/265152947?v=4"
       },
-      "updated_at": "2026-03-10T15:21:57Z"
+      "updated_at": "2026-03-10T16:29:50Z"
     },
     {
       "id": 1173754094,
@@ -249,17 +249,17 @@
       "updated_at": "2026-03-10T13:58:07Z"
     },
     {
-      "id": 1173821248,
-      "name": "TinyAGI/fractals",
-      "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 511,
+      "id": 1176129893,
+      "name": "tanweai/pua",
+      "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
+      "stars": 513,
       "language": "TypeScript",
-      "url": "https://github.com/TinyAGI/fractals",
+      "url": "https://github.com/tanweai/pua",
       "owner": {
-        "login": "TinyAGI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
+        "login": "tanweai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-10T15:03:43Z"
+      "updated_at": "2026-03-10T16:52:45Z"
     }
   ]
 }
