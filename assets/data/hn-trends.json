@@ -1,55 +1,55 @@
 {
-  "lastUpdated": "2026-03-10T23:48:16.323Z",
+  "lastUpdated": "2026-03-10T23:59:28.351Z",
   "items": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1362,
+      "score": 1372,
       "by": "speckx",
       "time": 1773154216,
-      "comments": 187,
+      "comments": 188,
       "domain": "blog.computationalcomplexity.org"
     },
     {
       "id": 47329605,
       "title": "U+237C ⍼ Is Azimuth",
       "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "score": 58,
+      "score": 68,
       "by": "cokernel_hacker",
       "time": 1773182025,
-      "comments": 4,
+      "comments": 5,
       "domain": "ionathan.ch"
+    },
+    {
+      "id": 47329557,
+      "title": "Cloudflare Crawl Endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "score": 52,
+      "by": "jeffpalmer",
+      "time": 1773181635,
+      "comments": 22,
+      "domain": "developers.cloudflare.com"
     },
     {
       "id": 47327559,
       "title": "Agents that run while I sleep",
       "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 181,
+      "score": 182,
       "by": "aray07",
       "time": 1773169786,
-      "comments": 128,
+      "comments": 130,
       "domain": "claudecodecamp.com"
     },
     {
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 278,
+      "score": 281,
       "by": "helloplanets",
       "time": 1773132413,
-      "comments": 303,
+      "comments": 307,
       "domain": "wired.com"
-    },
-    {
-      "id": 47329557,
-      "title": "Cloudflare Crawl Endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 42,
-      "by": "jeffpalmer",
-      "time": 1773181635,
-      "comments": 11,
-      "domain": "developers.cloudflare.com"
     },
     {
       "id": 47328214,
@@ -65,7 +65,7 @@
       "id": 47326101,
       "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "url": "https://github.com/RunanywhereAI/rcli",
-      "score": 169,
+      "score": 173,
       "by": "sanchitmonga22",
       "time": 1773162892,
       "comments": 77,
@@ -75,17 +75,17 @@
       "id": 47324087,
       "title": "Debian decides not to decide on AI-generated contributions",
       "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "score": 258,
+      "score": 260,
       "by": "jwilk",
       "time": 1773154393,
-      "comments": 204,
+      "comments": 205,
       "domain": "lwn.net"
     },
     {
       "id": 47295559,
       "title": "Invoker Commands API",
       "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
-      "score": 44,
+      "score": 46,
       "by": "maqnius",
       "time": 1772957813,
       "comments": 10,
@@ -95,37 +95,57 @@
       "id": 47329608,
       "title": "Universal vaccine against respiratory infections and allergens",
       "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "score": 41,
+      "score": 47,
       "by": "phony-account",
       "time": 1773182028,
-      "comments": 14,
+      "comments": 16,
       "domain": "med.stanford.edu"
     },
     {
       "id": 47327015,
       "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
       "url": "https://github.com/steelbrain/ffmpeg-over-ip",
-      "score": 94,
+      "score": 96,
       "by": "steelbrain",
       "time": 1773167199,
-      "comments": 39,
+      "comments": 40,
+      "domain": "github.com"
+    },
+    {
+      "id": 47327163,
+      "title": "Networking with agents: Put them in the right conversations with Tailscale",
+      "url": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
+      "score": 10,
+      "by": "matsur",
+      "time": 1773167924,
+      "comments": 0,
+      "domain": "blog.firetiger.com"
+    },
+    {
+      "id": 47327473,
+      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "url": "https://github.com/torlando-tech/columba",
+      "score": 5,
+      "by": "khimaros",
+      "time": 1773169321,
+      "comments": 0,
       "domain": "github.com"
     },
     {
       "id": 47323017,
       "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
       "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "score": 389,
+      "score": 393,
       "by": "ndr42",
       "time": 1773149477,
-      "comments": 358,
+      "comments": 361,
       "domain": "arstechnica.com"
     },
     {
       "id": 47320661,
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "score": 360,
+      "score": 361,
       "by": "pjmlp",
       "time": 1773132893,
       "comments": 365,
@@ -135,21 +155,31 @@
       "id": 47323900,
       "title": "Meta acquires Moltbook",
       "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "score": 374,
+      "score": 379,
       "by": "mmayberry",
       "time": 1773153486,
-      "comments": 248,
+      "comments": 250,
       "domain": "axios.com"
     },
     {
       "id": 47322815,
       "title": "Intel Demos Chip to Compute with Encrypted Data",
       "url": "https://spectrum.ieee.org/fhe-intel",
-      "score": 212,
+      "score": 214,
       "by": "sohkamyung",
       "time": 1773148248,
       "comments": 83,
       "domain": "spectrum.ieee.org"
+    },
+    {
+      "id": 47318528,
+      "title": "Secure Secrets Management for Cursor Cloud Agents",
+      "url": "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents",
+      "score": 4,
+      "by": "vmatsiiako",
+      "time": 1773110614,
+      "comments": 0,
+      "domain": "infisical.com"
     },
     {
       "id": 47321188,
@@ -162,44 +192,44 @@
       "domain": "keithcirkel.co.uk"
     },
     {
-      "id": 47327473,
-      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "url": "https://github.com/torlando-tech/columba",
+      "id": 47322635,
+      "title": "Online age-verification tools for child safety are surveilling adults",
+      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+      "score": 510,
+      "by": "bilsbie",
+      "time": 1773147342,
+      "comments": 292,
+      "domain": "cnbc.com"
+    },
+    {
+      "id": 47319115,
+      "title": "Appsflyer SDK Hijacked",
+      "url": "https://websdk.appsflyer.com/",
+      "score": 14,
+      "by": "jackyzhao",
+      "time": 1773117095,
+      "comments": 2,
+      "domain": "websdk.appsflyer.com"
+    },
+    {
+      "id": 47295996,
+      "title": "Bippy: React Internals Toolkit",
+      "url": "https://www.bippy.dev/",
       "score": 4,
-      "by": "khimaros",
-      "time": 1773169321,
+      "by": "handfuloflight",
+      "time": 1772964083,
       "comments": 0,
-      "domain": "github.com"
+      "domain": "bippy.dev"
     },
     {
       "id": 47289590,
       "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
       "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
-      "score": 30,
+      "score": 31,
       "by": "Brajeshwar",
       "time": 1772904594,
       "comments": 5,
       "domain": "raspberrypi.com"
-    },
-    {
-      "id": 47328071,
-      "title": "Against vibes: When is a generative model useful",
-      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-      "score": 4,
-      "by": "takira",
-      "time": 1773172779,
-      "comments": 0,
-      "domain": "williamjbowman.com"
-    },
-    {
-      "id": 47322635,
-      "title": "Online age-verification tools for child safety are surveilling adults",
-      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 507,
-      "by": "bilsbie",
-      "time": 1773147342,
-      "comments": 290,
-      "domain": "cnbc.com"
     },
     {
       "id": 47326555,
@@ -208,28 +238,18 @@
       "score": 85,
       "by": "seanlinehan",
       "time": 1773164993,
-      "comments": 59,
+      "comments": 61,
       "domain": "worldgov.org"
     },
     {
-      "id": 47327641,
-      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
-      "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
-      "score": 88,
-      "by": "naves",
-      "time": 1773170246,
-      "comments": 23,
-      "domain": "macintoshgarden.org"
-    },
-    {
-      "id": 47295151,
-      "title": "Show HN: Joha – a free browser-based drawing playground with preset shape tools",
-      "url": "https://joha-app.pages.dev/",
-      "score": 7,
-      "by": "smlee",
-      "time": 1772952345,
-      "comments": 0,
-      "domain": "joha-app.pages.dev"
+      "id": 47318797,
+      "title": "SSH Secret Menu",
+      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "score": 4,
+      "by": "piccirello",
+      "time": 1773113318,
+      "comments": 1,
+      "domain": "twitter.com"
     },
     {
       "id": 47321233,
@@ -242,44 +262,14 @@
       "domain": "howisfelix.today"
     },
     {
-      "id": 47320614,
-      "title": "Levels of Agentic Engineering",
-      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
-      "score": 102,
-      "by": "bombastic311",
-      "time": 1773132520,
-      "comments": 58,
-      "domain": "bassimeledath.com"
-    },
-    {
-      "id": 47322887,
-      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
-      "url": "https://dnhkng.github.io/posts/rys/",
-      "score": 256,
-      "by": "dnhkng",
-      "time": 1773148735,
-      "comments": 79,
-      "domain": "dnhkng.github.io"
-    },
-    {
-      "id": 47323105,
-      "title": "Rebasing in Magit",
-      "url": "https://entropicthoughts.com/rebasing-in-magit",
-      "score": 177,
-      "by": "ibobev",
-      "time": 1773149919,
-      "comments": 121,
-      "domain": "entropicthoughts.com"
-    },
-    {
-      "id": 47317288,
-      "title": "Open Weights isn't Open Training",
-      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
-      "score": 73,
-      "by": "addiefoote8",
-      "time": 1773099428,
+      "id": 47327641,
+      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
+      "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+      "score": 90,
+      "by": "naves",
+      "time": 1773170246,
       "comments": 23,
-      "domain": "workshoplabs.ai"
+      "domain": "macintoshgarden.org"
     }
   ]
 }
