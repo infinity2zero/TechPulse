@@ -1,51 +1,71 @@
 {
-  "lastUpdated": "2026-03-11T22:43:20.970Z",
+  "lastUpdated": "2026-03-11T22:58:08.702Z",
   "items": [
     {
       "id": 47340079,
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "score": 2029,
+      "score": 2138,
       "by": "usefulposter",
       "time": 1773257369,
-      "comments": 778,
+      "comments": 821,
       "domain": "news.ycombinator.com"
     },
     {
       "id": 47336989,
       "title": "Temporal: A nine-year journey to fix time in JavaScript",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 426,
+      "score": 433,
       "by": "robpalmer",
       "time": 1773243350,
-      "comments": 145,
+      "comments": 153,
       "domain": "bloomberg.github.io"
     },
     {
       "id": 47341645,
       "title": "Many SWE-bench-Passing PRs would not be merged",
       "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "score": 40,
+      "score": 51,
       "by": "mustaphah",
       "time": 1773262612,
-      "comments": 2,
+      "comments": 3,
       "domain": "metr.org"
+    },
+    {
+      "id": 47343156,
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+      "score": 18,
+      "by": "jp0d",
+      "time": 1773268182,
+      "comments": 9,
+      "domain": "reuters.com"
     },
     {
       "id": 47331811,
       "title": "Making WebAssembly a first-class language on the Web",
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 331,
+      "score": 336,
       "by": "mikece",
       "time": 1773204286,
-      "comments": 125,
+      "comments": 131,
       "domain": "hacks.mozilla.org"
+    },
+    {
+      "id": 47339223,
+      "title": "Personal Computer by Perplexity",
+      "url": "https://www.perplexity.ai/personal-computer-waitlist",
+      "score": 65,
+      "by": "josephwegner",
+      "time": 1773253341,
+      "comments": 42,
+      "domain": "perplexity.ai"
     },
     {
       "id": 47337607,
       "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
       "url": "https://sitespy.app",
-      "score": 121,
+      "score": 125,
       "by": "vkuprin",
       "time": 1773246066,
       "comments": 37,
@@ -55,111 +75,91 @@
       "id": 47336476,
       "title": "Google closes deal to acquire Wiz",
       "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "score": 187,
+      "score": 194,
       "by": "aldarisbm",
       "time": 1773241100,
-      "comments": 131,
+      "comments": 133,
       "domain": "wiz.io"
-    },
-    {
-      "id": 47339223,
-      "title": "Personal Computer by Perplexity",
-      "url": "https://www.perplexity.ai/personal-computer-waitlist",
-      "score": 58,
-      "by": "josephwegner",
-      "time": 1773253341,
-      "comments": 39,
-      "domain": "perplexity.ai"
-    },
-    {
-      "id": 47334293,
-      "title": "The MacBook Neo",
-      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "score": 317,
-      "by": "etothet",
-      "time": 1773229044,
-      "comments": 536,
-      "domain": "daringfireball.net"
-    },
-    {
-      "id": 47342139,
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "score": 12,
-      "by": "donutshop",
-      "time": 1773264204,
-      "comments": 3,
-      "domain": "newsletter.getdx.com"
     },
     {
       "id": 47341845,
       "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
       "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-      "score": 61,
+      "score": 82,
       "by": "divbzero",
       "time": 1773263166,
-      "comments": 41,
+      "comments": 55,
       "domain": "apnews.com"
     },
     {
-      "id": 47334694,
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "score": 278,
-      "by": "redm",
-      "time": 1773232035,
-      "comments": 142,
-      "domain": "github.com"
-    },
-    {
-      "id": 47335349,
-      "title": "Entities enabling scientific fraud at scale (2025)",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "score": 243,
-      "by": "peyton",
-      "time": 1773235932,
-      "comments": 171,
-      "domain": "doi.org"
+      "id": 47334293,
+      "title": "The MacBook Neo",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "score": 321,
+      "by": "etothet",
+      "time": 1773229044,
+      "comments": 544,
+      "domain": "daringfireball.net"
     },
     {
       "id": 47339164,
       "title": "I was interviewed by an AI bot for a job",
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "score": 69,
+      "score": 75,
       "by": "speckx",
       "time": 1773253050,
-      "comments": 63,
+      "comments": 71,
       "domain": "theverge.com"
+    },
+    {
+      "id": 47334694,
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet",
+      "score": 281,
+      "by": "redm",
+      "time": 1773232035,
+      "comments": 147,
+      "domain": "github.com"
     },
     {
       "id": 47337249,
       "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
       "url": "https://klausai.com/",
-      "score": 101,
+      "score": 103,
       "by": "robthompson2018",
       "time": 1773244463,
-      "comments": 59,
+      "comments": 60,
       "domain": "klausai.com"
+    },
+    {
+      "id": 47342139,
+      "title": "Preliminary data from a longitudinal AI impact study",
+      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+      "score": 14,
+      "by": "donutshop",
+      "time": 1773264204,
+      "comments": 4,
+      "domain": "newsletter.getdx.com"
+    },
+    {
+      "id": 47335349,
+      "title": "Entities enabling scientific fraud at scale (2025)",
+      "url": "https://doi.org/10.1073/pnas.2420092122",
+      "score": 244,
+      "by": "peyton",
+      "time": 1773235932,
+      "comments": 174,
+      "domain": "doi.org"
     },
     {
       "id": 47319520,
       "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
       "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-      "score": 74,
+      "score": 76,
       "by": "defrost",
       "time": 1773122336,
       "comments": 42,
       "domain": "newatlas.com"
-    },
-    {
-      "id": 47340071,
-      "title": "I'm glad the Anthropic fight is happening now",
-      "url": "https://www.dwarkesh.com/p/dow-anthropic",
-      "score": 100,
-      "by": "emschwartz",
-      "time": 1773257339,
-      "comments": 108,
-      "domain": "dwarkesh.com"
     },
     {
       "id": 47337177,
@@ -182,24 +182,34 @@
       "domain": "codewall.ai"
     },
     {
-      "id": 47320040,
-      "title": "Can the Dictionary Keep Up?",
-      "url": "https://www.thenation.com/article/culture/stefan-fatsis-dictionary-history/",
-      "score": 5,
-      "by": "pepys",
-      "time": 1773127345,
-      "comments": 1,
-      "domain": "thenation.com"
+      "id": 47340071,
+      "title": "I'm glad the Anthropic fight is happening now",
+      "url": "https://www.dwarkesh.com/p/dow-anthropic",
+      "score": 105,
+      "by": "emschwartz",
+      "time": 1773257339,
+      "comments": 118,
+      "domain": "dwarkesh.com"
     },
     {
       "id": 47336171,
       "title": "Show HN: Open-source browser for AI agents",
       "url": "https://github.com/theredsix/agent-browser-protocol",
-      "score": 89,
+      "score": 90,
       "by": "theredsix",
       "time": 1773239970,
       "comments": 27,
       "domain": "github.com"
+    },
+    {
+      "id": 47340768,
+      "title": "What Is a Tort?",
+      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+      "score": 20,
+      "by": "bookofjoe",
+      "time": 1773259956,
+      "comments": 22,
+      "domain": "harvardlawreview.org"
     },
     {
       "id": 47337548,
@@ -215,11 +225,21 @@
       "id": 47334982,
       "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
       "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-      "score": 124,
+      "score": 131,
       "by": "jjgreen",
       "time": 1773233861,
-      "comments": 296,
+      "comments": 297,
       "domain": "theregister.com"
+    },
+    {
+      "id": 47320040,
+      "title": "Can the Dictionary Keep Up?",
+      "url": "https://www.thenation.com/article/culture/stefan-fatsis-dictionary-history/",
+      "score": 5,
+      "by": "pepys",
+      "time": 1773127345,
+      "comments": 1,
+      "domain": "thenation.com"
     },
     {
       "id": 47305979,
@@ -238,24 +258,14 @@
       "score": 22,
       "by": "anayrshukla",
       "time": 1773246257,
-      "comments": 8,
+      "comments": 9,
       "domain": "sentrial.com"
-    },
-    {
-      "id": 47340768,
-      "title": "What Is a Tort?",
-      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
-      "score": 19,
-      "by": "bookofjoe",
-      "time": 1773259956,
-      "comments": 22,
-      "domain": "harvardlawreview.org"
     },
     {
       "id": 47338091,
       "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
       "url": "https://fuelingcuriosity.com/game.html",
-      "score": 77,
+      "score": 78,
       "by": "fuelingcurious",
       "time": 1773248211,
       "comments": 37,
@@ -272,20 +282,10 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 47340935,
-      "title": "The dead Internet is not a theory anymore",
-      "url": "https://www.adriankrebs.ch/blog/dead-internet/",
-      "score": 286,
-      "by": "hubraumhugo",
-      "time": 1773260422,
-      "comments": 195,
-      "domain": "adriankrebs.ch"
-    },
-    {
       "id": 47291574,
       "title": "Building a TB-303 from Scratch",
       "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "score": 201,
+      "score": 203,
       "by": "stagas",
       "time": 1772918291,
       "comments": 82,
