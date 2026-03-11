@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-11T10:34:12.774Z",
+  "lastUpdated": "2026-03-11T11:09:13.817Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 24727,
+      "stars": 24822,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-11T10:33:52Z"
+      "updated_at": "2026-03-11T11:09:09Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 3898,
+      "stars": 3960,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-11T10:34:05Z"
+      "updated_at": "2026-03-11T11:08:51Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 1813,
+      "stars": 1890,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-11T10:33:23Z"
+      "updated_at": "2026-03-11T11:08:56Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1777,
+      "stars": 1779,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-11T10:26:00Z"
+      "updated_at": "2026-03-11T11:04:11Z"
     },
     {
       "id": 1173308786,
       "name": "jackwener/twitter-cli",
       "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "stars": 1575,
+      "stars": 1579,
       "language": "Python",
       "url": "https://github.com/jackwener/twitter-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T10:20:56Z"
+      "updated_at": "2026-03-11T11:05:38Z"
     },
     {
       "id": 1173152133,
       "name": "BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1488,
+      "stars": 1508,
       "language": "TypeScript",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "owner": {
         "login": "BigBodyCobain",
         "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
       },
-      "updated_at": "2026-03-11T10:33:02Z"
+      "updated_at": "2026-03-11T11:07:35Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1436,
+      "stars": 1464,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-11T10:33:25Z"
+      "updated_at": "2026-03-11T11:03:17Z"
     },
     {
       "id": 1174042197,
@@ -109,66 +109,66 @@
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 973,
+      "stars": 977,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-11T10:29:23Z"
+      "updated_at": "2026-03-11T10:59:30Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 869,
+      "stars": 871,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-11T10:24:31Z"
+      "updated_at": "2026-03-11T11:01:52Z"
     },
     {
       "id": 1173582824,
       "name": "livehl/aimirror",
       "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "stars": 796,
+      "stars": 795,
       "language": "Python",
       "url": "https://github.com/livehl/aimirror",
       "owner": {
         "login": "livehl",
         "avatar_url": "https://avatars.githubusercontent.com/u/3094557?v=4"
       },
-      "updated_at": "2026-03-11T10:21:03Z"
+      "updated_at": "2026-03-11T11:05:28Z"
     },
     {
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 689,
+      "stars": 691,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-11T08:38:17Z"
+      "updated_at": "2026-03-11T11:05:28Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 583,
+      "stars": 584,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-11T10:24:20Z"
+      "updated_at": "2026-03-11T10:41:53Z"
     },
     {
       "id": 1173869985,
@@ -187,27 +187,27 @@
       "id": 1173754094,
       "name": "ahmadawais/chartli",
       "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. ",
-      "stars": 546,
+      "stars": 547,
       "language": "TypeScript",
       "url": "https://github.com/ahmadawais/chartli",
       "owner": {
         "login": "ahmadawais",
         "avatar_url": "https://avatars.githubusercontent.com/u/960133?v=4"
       },
-      "updated_at": "2026-03-11T09:31:19Z"
+      "updated_at": "2026-03-11T10:39:32Z"
     },
     {
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 535,
+      "stars": 536,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-11T10:32:43Z"
+      "updated_at": "2026-03-11T11:07:27Z"
     },
     {
       "id": 1173821248,
@@ -223,43 +223,43 @@
       "updated_at": "2026-03-11T10:02:40Z"
     },
     {
-      "id": 1173349091,
-      "name": "AlpinDale/parsync",
-      "description": "Parallel rsync-like pull sync over SSH with resume",
-      "stars": 510,
-      "language": "Rust",
-      "url": "https://github.com/AlpinDale/parsync",
-      "owner": {
-        "login": "AlpinDale",
-        "avatar_url": "https://avatars.githubusercontent.com/u/52078762?v=4"
-      },
-      "updated_at": "2026-03-11T09:59:55Z"
-    },
-    {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 506,
+      "stars": 515,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T10:33:34Z"
+      "updated_at": "2026-03-11T11:03:44Z"
+    },
+    {
+      "id": 1173349091,
+      "name": "AlpinDale/parsync",
+      "description": "Parallel rsync-like pull sync over SSH with resume",
+      "stars": 511,
+      "language": "Rust",
+      "url": "https://github.com/AlpinDale/parsync",
+      "owner": {
+        "login": "AlpinDale",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52078762?v=4"
+      },
+      "updated_at": "2026-03-11T10:47:33Z"
     },
     {
       "id": 1173235250,
       "name": "xstongxue/best-skills",
       "description": "通用高质量 Skills 合集🔥",
-      "stars": 504,
+      "stars": 505,
       "language": "Python",
       "url": "https://github.com/xstongxue/best-skills",
       "owner": {
         "login": "xstongxue",
         "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
       },
-      "updated_at": "2026-03-11T08:54:54Z"
+      "updated_at": "2026-03-11T10:57:03Z"
     }
   ]
 }
