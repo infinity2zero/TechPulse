@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-03-11T13:22:18.799Z",
+  "lastUpdated": "2026-03-11T14:14:16.892Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 25107,
+      "stars": 25221,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-11T13:21:36Z"
+      "updated_at": "2026-03-11T14:12:44Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 4238,
+      "stars": 4365,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-11T13:22:08Z"
+      "updated_at": "2026-03-11T14:14:16Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 2198,
+      "stars": 2308,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-11T13:21:30Z"
+      "updated_at": "2026-03-11T14:13:47Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1788,
+      "stars": 1791,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-11T12:57:49Z"
-    },
-    {
-      "id": 1173308786,
-      "name": "jackwener/twitter-cli",
-      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "stars": 1593,
-      "language": "Python",
-      "url": "https://github.com/jackwener/twitter-cli",
-      "owner": {
-        "login": "jackwener",
-        "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
-      },
-      "updated_at": "2026-03-11T13:10:46Z"
+      "updated_at": "2026-03-11T14:11:55Z"
     },
     {
       "id": 1173152133,
       "name": "BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1591,
+      "stars": 1620,
       "language": "TypeScript",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "owner": {
         "login": "BigBodyCobain",
         "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
       },
-      "updated_at": "2026-03-11T13:15:46Z"
+      "updated_at": "2026-03-11T14:10:04Z"
+    },
+    {
+      "id": 1173308786,
+      "name": "jackwener/twitter-cli",
+      "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
+      "stars": 1597,
+      "language": "Python",
+      "url": "https://github.com/jackwener/twitter-cli",
+      "owner": {
+        "login": "jackwener",
+        "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+      },
+      "updated_at": "2026-03-11T14:03:32Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1546,
+      "stars": 1581,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-11T13:21:19Z"
+      "updated_at": "2026-03-11T14:13:50Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1393,
+      "stars": 1395,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-11T12:47:08Z"
+      "updated_at": "2026-03-11T14:04:41Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 984,
+      "stars": 987,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-11T12:59:06Z"
+      "updated_at": "2026-03-11T14:13:30Z"
     },
     {
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 877,
+      "stars": 882,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-11T13:00:06Z"
+      "updated_at": "2026-03-11T14:10:48Z"
     },
     {
       "id": 1173582824,
@@ -161,66 +161,66 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 595,
+      "stars": 596,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-11T13:19:11Z"
-    },
-    {
-      "id": 1173869985,
-      "name": "vulhunt-re/vulhunt",
-      "description": "Vulnerability detection framework by Binarly's REsearch team",
-      "stars": 567,
-      "language": "C++",
-      "url": "https://github.com/vulhunt-re/vulhunt",
-      "owner": {
-        "login": "vulhunt-re",
-        "avatar_url": "https://avatars.githubusercontent.com/u/265152947?v=4"
-      },
-      "updated_at": "2026-03-11T10:16:51Z"
-    },
-    {
-      "id": 1177515818,
-      "name": "photon-hq/qclaw-wechat-client",
-      "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 557,
-      "language": "TypeScript",
-      "url": "https://github.com/photon-hq/qclaw-wechat-client",
-      "owner": {
-        "login": "photon-hq",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
-      },
-      "updated_at": "2026-03-11T13:21:42Z"
+      "updated_at": "2026-03-11T14:01:00Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 552,
+      "stars": 569,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T13:21:37Z"
+      "updated_at": "2026-03-11T14:11:53Z"
+    },
+    {
+      "id": 1173869985,
+      "name": "vulhunt-re/vulhunt",
+      "description": "Vulnerability detection framework by Binarly's REsearch team",
+      "stars": 568,
+      "language": "C++",
+      "url": "https://github.com/vulhunt-re/vulhunt",
+      "owner": {
+        "login": "vulhunt-re",
+        "avatar_url": "https://avatars.githubusercontent.com/u/265152947?v=4"
+      },
+      "updated_at": "2026-03-11T13:32:54Z"
+    },
+    {
+      "id": 1177515818,
+      "name": "photon-hq/qclaw-wechat-client",
+      "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
+      "stars": 558,
+      "language": "TypeScript",
+      "url": "https://github.com/photon-hq/qclaw-wechat-client",
+      "owner": {
+        "login": "photon-hq",
+        "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
+      },
+      "updated_at": "2026-03-11T14:12:15Z"
     },
     {
       "id": 1173754094,
       "name": "ahmadawais/chartli",
       "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. ",
-      "stars": 547,
+      "stars": 548,
       "language": "TypeScript",
       "url": "https://github.com/ahmadawais/chartli",
       "owner": {
         "login": "ahmadawais",
         "avatar_url": "https://avatars.githubusercontent.com/u/960133?v=4"
       },
-      "updated_at": "2026-03-11T10:39:32Z"
+      "updated_at": "2026-03-11T13:53:58Z"
     },
     {
       "id": 1173821248,
@@ -252,14 +252,14 @@
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 509,
+      "stars": 512,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-11T13:09:59Z"
+      "updated_at": "2026-03-11T14:01:18Z"
     }
   ]
 }
