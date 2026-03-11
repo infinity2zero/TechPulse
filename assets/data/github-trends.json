@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-03-11T15:58:59.047Z",
+  "lastUpdated": "2026-03-11T16:53:29.787Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 25443,
+      "stars": 25537,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-11T15:57:55Z"
+      "updated_at": "2026-03-11T16:52:55Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 4743,
+      "stars": 4912,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-11T15:58:45Z"
+      "updated_at": "2026-03-11T16:52:29Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 2535,
+      "stars": 2629,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-11T15:58:38Z"
+      "updated_at": "2026-03-11T16:52:47Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1810,
+      "stars": 1823,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-11T15:51:16Z"
+      "updated_at": "2026-03-11T16:51:00Z"
     },
     {
       "id": 1173152133,
       "name": "BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1657,
+      "stars": 1690,
       "language": "TypeScript",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "owner": {
         "login": "BigBodyCobain",
         "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
       },
-      "updated_at": "2026-03-11T15:58:21Z"
+      "updated_at": "2026-03-11T16:51:34Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1652,
+      "stars": 1684,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-11T15:56:38Z"
+      "updated_at": "2026-03-11T16:53:08Z"
     },
     {
       "id": 1173308786,
       "name": "jackwener/twitter-cli",
       "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
-      "stars": 1615,
+      "stars": 1621,
       "language": "Python",
       "url": "https://github.com/jackwener/twitter-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T15:49:49Z"
+      "updated_at": "2026-03-11T16:42:54Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1400,
+      "stars": 1401,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-11T15:37:33Z"
+      "updated_at": "2026-03-11T16:49:04Z"
     },
     {
       "id": 1175870738,
@@ -122,14 +122,14 @@
       "id": 1173427820,
       "name": "op7418/Claude-to-IM-skill",
       "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stars": 886,
+      "stars": 891,
       "language": "TypeScript",
       "url": "https://github.com/op7418/Claude-to-IM-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-03-11T15:18:10Z"
+      "updated_at": "2026-03-11T16:26:07Z"
     },
     {
       "id": 1173582824,
@@ -161,40 +161,40 @@
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 607,
+      "stars": 621,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T15:58:48Z"
+      "updated_at": "2026-03-11T16:45:03Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 600,
+      "stars": 604,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-11T15:44:05Z"
+      "updated_at": "2026-03-11T16:46:29Z"
     },
     {
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 573,
+      "stars": 586,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-11T15:50:16Z"
+      "updated_at": "2026-03-11T16:47:56Z"
     },
     {
       "id": 1173869985,
@@ -223,6 +223,19 @@
       "updated_at": "2026-03-11T13:53:58Z"
     },
     {
+      "id": 1175937361,
+      "name": "trevin-creator/autoresearch-mlx",
+      "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
+      "stars": 523,
+      "language": "Python",
+      "url": "https://github.com/trevin-creator/autoresearch-mlx",
+      "owner": {
+        "login": "trevin-creator",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
+      },
+      "updated_at": "2026-03-11T16:14:47Z"
+    },
+    {
       "id": 1173821248,
       "name": "TinyAGI/fractals",
       "description": "Fractals is a recursive task orchestrator for agent swarm",
@@ -234,19 +247,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
       },
       "updated_at": "2026-03-11T15:55:32Z"
-    },
-    {
-      "id": 1175937361,
-      "name": "trevin-creator/autoresearch-mlx",
-      "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 520,
-      "language": "Python",
-      "url": "https://github.com/trevin-creator/autoresearch-mlx",
-      "owner": {
-        "login": "trevin-creator",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
-      },
-      "updated_at": "2026-03-11T15:55:01Z"
     },
     {
       "id": 1173349091,
