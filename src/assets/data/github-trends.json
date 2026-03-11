@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-11T18:32:00.633Z",
+  "lastUpdated": "2026-03-11T19:26:27.234Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 25666,
+      "stars": 25738,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-11T18:29:19Z"
+      "updated_at": "2026-03-11T19:26:15Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 5006,
+      "stars": 5042,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-11T18:28:55Z"
+      "updated_at": "2026-03-11T19:24:20Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 2709,
+      "stars": 2731,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-11T18:30:00Z"
+      "updated_at": "2026-03-11T19:26:20Z"
     },
     {
       "id": 1173845549,
       "name": "twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 1851,
+      "stars": 1874,
       "language": null,
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "owner": {
         "login": "twostraws",
         "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
       },
-      "updated_at": "2026-03-11T18:29:37Z"
-    },
-    {
-      "id": 1173152133,
-      "name": "BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": 1737,
-      "language": "TypeScript",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "owner": {
-        "login": "BigBodyCobain",
-        "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
-      },
-      "updated_at": "2026-03-11T18:31:28Z"
+      "updated_at": "2026-03-11T19:25:27Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1733,
+      "stars": 1752,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-11T18:29:52Z"
+      "updated_at": "2026-03-11T19:24:11Z"
+    },
+    {
+      "id": 1173152133,
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "stars": 1745,
+      "language": "TypeScript",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "owner": {
+        "login": "BigBodyCobain",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43977454?v=4"
+      },
+      "updated_at": "2026-03-11T19:25:56Z"
     },
     {
       "id": 1173308786,
@@ -96,27 +96,27 @@
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1403,
+      "stars": 1405,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-11T17:50:41Z"
+      "updated_at": "2026-03-11T18:52:16Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 990,
+      "stars": 993,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-11T17:36:01Z"
+      "updated_at": "2026-03-11T18:44:21Z"
     },
     {
       "id": 1173427820,
@@ -135,14 +135,14 @@
       "id": 1173582824,
       "name": "livehl/aimirror",
       "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
-      "stars": 794,
+      "stars": 795,
       "language": "Python",
       "url": "https://github.com/livehl/aimirror",
       "owner": {
         "login": "livehl",
         "avatar_url": "https://avatars.githubusercontent.com/u/3094557?v=4"
       },
-      "updated_at": "2026-03-11T11:10:23Z"
+      "updated_at": "2026-03-11T19:10:57Z"
     },
     {
       "id": 1175638196,
@@ -161,14 +161,14 @@
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 636,
+      "stars": 639,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-11T18:08:02Z"
+      "updated_at": "2026-03-11T19:10:37Z"
     },
     {
       "id": 1176469774,
@@ -187,14 +187,14 @@
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 598,
+      "stars": 601,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-11T18:20:27Z"
+      "updated_at": "2026-03-11T19:03:23Z"
     },
     {
       "id": 1173869985,
@@ -223,43 +223,43 @@
       "updated_at": "2026-03-11T13:53:58Z"
     },
     {
-      "id": 1175937361,
-      "name": "trevin-creator/autoresearch-mlx",
-      "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 524,
-      "language": "Python",
-      "url": "https://github.com/trevin-creator/autoresearch-mlx",
-      "owner": {
-        "login": "trevin-creator",
-        "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
-      },
-      "updated_at": "2026-03-11T17:25:17Z"
-    },
-    {
-      "id": 1173821248,
-      "name": "TinyAGI/fractals",
-      "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stars": 520,
-      "language": "TypeScript",
-      "url": "https://github.com/TinyAGI/fractals",
-      "owner": {
-        "login": "TinyAGI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
-      },
-      "updated_at": "2026-03-11T15:55:32Z"
-    },
-    {
       "id": 1176774227,
       "name": "Kaleighc793/freqtrade-bot",
       "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface",
-      "stars": 519,
+      "stars": 544,
       "language": "Python",
       "url": "https://github.com/Kaleighc793/freqtrade-bot",
       "owner": {
         "login": "Kaleighc793",
         "avatar_url": "https://avatars.githubusercontent.com/u/245761291?v=4"
       },
-      "updated_at": "2026-03-11T18:31:25Z"
+      "updated_at": "2026-03-11T19:23:19Z"
+    },
+    {
+      "id": 1175937361,
+      "name": "trevin-creator/autoresearch-mlx",
+      "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
+      "stars": 526,
+      "language": "Python",
+      "url": "https://github.com/trevin-creator/autoresearch-mlx",
+      "owner": {
+        "login": "trevin-creator",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
+      },
+      "updated_at": "2026-03-11T18:35:54Z"
+    },
+    {
+      "id": 1173821248,
+      "name": "TinyAGI/fractals",
+      "description": "Fractals is a recursive task orchestrator for agent swarm",
+      "stars": 524,
+      "language": "TypeScript",
+      "url": "https://github.com/TinyAGI/fractals",
+      "owner": {
+        "login": "TinyAGI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260773424?v=4"
+      },
+      "updated_at": "2026-03-11T19:24:30Z"
     }
   ]
 }
