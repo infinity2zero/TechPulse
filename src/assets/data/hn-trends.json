@@ -1,105 +1,155 @@
 {
-  "lastUpdated": "2026-03-11T17:38:37.625Z",
+  "lastUpdated": "2026-03-11T18:32:00.299Z",
   "items": [
     {
       "id": 47336989,
       "title": "Temporal: A nine-year journey to fix time in JavaScript",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 157,
+      "score": 224,
       "by": "robpalmer",
       "time": 1773243350,
-      "comments": 62,
+      "comments": 92,
       "domain": "bloomberg.github.io"
-    },
-    {
-      "id": 47335349,
-      "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "score": 171,
-      "by": "peyton",
-      "time": 1773235932,
-      "comments": 78,
-      "domain": "doi.org"
     },
     {
       "id": 47331811,
       "title": "Making WebAssembly a first-class language on the Web",
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 100,
+      "score": 156,
       "by": "mikece",
       "time": 1773204286,
-      "comments": 38,
+      "comments": 63,
       "domain": "hacks.mozilla.org"
     },
     {
-      "id": 47337177,
-      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
-      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "score": 42,
-      "by": "tzury",
-      "time": 1773244109,
-      "comments": 2,
-      "domain": "quantamagazine.org"
+      "id": 47335349,
+      "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
+      "url": "https://doi.org/10.1073/pnas.2420092122",
+      "score": 193,
+      "by": "peyton",
+      "time": 1773235932,
+      "comments": 95,
+      "domain": "doi.org"
     },
     {
       "id": 47334694,
       "title": "BitNet: 100B Param 1-Bit model for local CPUs",
       "url": "https://github.com/microsoft/BitNet",
-      "score": 203,
+      "score": 229,
       "by": "redm",
       "time": 1773232035,
-      "comments": 108,
+      "comments": 115,
       "domain": "github.com"
+    },
+    {
+      "id": 47337177,
+      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+      "score": 61,
+      "by": "tzury",
+      "time": 1773244109,
+      "comments": 6,
+      "domain": "quantamagazine.org"
     },
     {
       "id": 47337249,
       "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
       "url": "https://klausai.com/",
-      "score": 31,
+      "score": 44,
       "by": "robthompson2018",
       "time": 1773244463,
-      "comments": 17,
+      "comments": 29,
       "domain": "klausai.com"
-    },
-    {
-      "id": 47336476,
-      "title": "Wiz joins Google",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "score": 76,
-      "by": "aldarisbm",
-      "time": 1773241100,
-      "comments": 52,
-      "domain": "wiz.io"
     },
     {
       "id": 47335237,
       "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
       "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
-      "score": 267,
+      "score": 287,
       "by": "scrlk",
       "time": 1773235359,
-      "comments": 210,
+      "comments": 223,
       "domain": "thewave.engineer"
-    },
-    {
-      "id": 47336889,
-      "title": "Elevated errors on login with Claude Code",
-      "url": "https://status.claude.com/incidents/jm3b4jjy2jrt",
-      "score": 41,
-      "by": "zurfer",
-      "time": 1773242898,
-      "comments": 25,
-      "domain": "status.claude.com"
     },
     {
       "id": 47337548,
       "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
       "url": "https://www.prismvideos.com",
-      "score": 14,
+      "score": 19,
       "by": "aliu327",
       "time": 1773245772,
-      "comments": 5,
+      "comments": 9,
       "domain": "prismvideos.com"
+    },
+    {
+      "id": 47336171,
+      "title": "Show HN: Open-source browser for AI agents",
+      "url": "https://github.com/theredsix/agent-browser-protocol",
+      "score": 45,
+      "by": "theredsix",
+      "time": 1773239970,
+      "comments": 16,
+      "domain": "github.com"
+    },
+    {
+      "id": 47338055,
+      "title": "Fungal Electronics",
+      "url": "https://arxiv.org/abs/2111.11231",
+      "score": 21,
+      "by": "byt3h3ad",
+      "time": 1773247991,
+      "comments": 2,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 47336476,
+      "title": "Wiz joins Google",
+      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "score": 98,
+      "by": "aldarisbm",
+      "time": 1773241100,
+      "comments": 71,
+      "domain": "wiz.io"
+    },
+    {
+      "id": 47333627,
+      "title": "AI Agent Hacks McKinsey",
+      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+      "score": 241,
+      "by": "mycroft_4221",
+      "time": 1773223143,
+      "comments": 97,
+      "domain": "codewall.ai"
+    },
+    {
+      "id": 47338091,
+      "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
+      "url": "https://fuelingcuriosity.com/game.html",
+      "score": 29,
+      "by": "fuelingcurious",
+      "time": 1773248211,
+      "comments": 13,
+      "domain": "fuelingcuriosity.com"
+    },
+    {
+      "id": 47334293,
+      "title": "The MacBook Neo",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "score": 93,
+      "by": "etothet",
+      "time": 1773229044,
+      "comments": 218,
+      "domain": "daringfireball.net"
+    },
+    {
+      "id": 47319520,
+      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+      "score": 11,
+      "by": "defrost",
+      "time": 1773122336,
+      "comments": 2,
+      "domain": "newatlas.com"
     },
     {
       "id": 47337659,
@@ -112,194 +162,144 @@
       "domain": "sentrial.com"
     },
     {
-      "id": 47336111,
-      "title": "Faster asin() was hiding in plain sight",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "score": 112,
-      "by": "def-pri-pub",
-      "time": 1773239753,
-      "comments": 48,
-      "domain": "16bpp.net"
-    },
-    {
-      "id": 47333627,
-      "title": "AI Agent Hacks McKinsey",
-      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "score": 205,
-      "by": "mycroft_4221",
-      "time": 1773223143,
-      "comments": 83,
-      "domain": "codewall.ai"
-    },
-    {
-      "id": 47338091,
-      "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
-      "url": "https://fuelingcuriosity.com/game.html",
-      "score": 19,
-      "by": "fuelingcurious",
-      "time": 1773248211,
-      "comments": 8,
-      "domain": "fuelingcuriosity.com"
-    },
-    {
-      "id": 47336171,
-      "title": "Show HN: Open-source browser for AI agents",
-      "url": "https://github.com/theredsix/agent-browser-protocol",
-      "score": 28,
-      "by": "theredsix",
-      "time": 1773239970,
-      "comments": 14,
-      "domain": "github.com"
-    },
-    {
-      "id": 47334293,
-      "title": "The MacBook Neo",
-      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "score": 33,
-      "by": "etothet",
-      "time": 1773229044,
-      "comments": 142,
-      "domain": "daringfireball.net"
-    },
-    {
-      "id": 47335431,
-      "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
-      "url": "https://aether.saphal.me/dashboard/default",
-      "score": 16,
-      "by": "saphalpdyl",
-      "time": 1773236297,
-      "comments": 0,
-      "domain": "aether.saphal.me"
+      "id": 47337607,
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "url": "https://sitespy.app",
+      "score": 7,
+      "by": "vkuprin",
+      "time": 1773246066,
+      "comments": 4,
+      "domain": "sitespy.app"
     },
     {
       "id": 47334982,
       "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
       "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-      "score": 32,
+      "score": 51,
       "by": "jjgreen",
       "time": 1773233861,
-      "comments": 76,
+      "comments": 111,
       "domain": "theregister.com"
+    },
+    {
+      "id": 47337168,
+      "title": "Searching for the Agentic IDE",
+      "url": "https://twitter.com/karpathy/status/2031616709560610993",
+      "score": 9,
+      "by": "bigwheels",
+      "time": 1773244091,
+      "comments": 10,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47335431,
+      "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
+      "url": "https://aether.saphal.me/dashboard/default",
+      "score": 21,
+      "by": "saphalpdyl",
+      "time": 1773236297,
+      "comments": 3,
+      "domain": "aether.saphal.me"
     },
     {
       "id": 47291574,
       "title": "Building a TB-303 from Scratch",
       "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "score": 179,
+      "score": 182,
       "by": "stagas",
       "time": 1772918291,
-      "comments": 69,
+      "comments": 72,
       "domain": "loopmaster.xyz"
+    },
+    {
+      "id": 47321481,
+      "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
+      "url": "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/",
+      "score": 15,
+      "by": "gsky",
+      "time": 1773139357,
+      "comments": 2,
+      "domain": "abahgat.com"
+    },
+    {
+      "id": 47336111,
+      "title": "Faster asin() was hiding in plain sight",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "score": 127,
+      "by": "def-pri-pub",
+      "time": 1773239753,
+      "comments": 78,
+      "domain": "16bpp.net"
+    },
+    {
+      "id": 47330836,
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "score": 366,
+      "by": "Retro_Dev",
+      "time": 1773192287,
+      "comments": 202,
+      "domain": "ziglang.org"
     },
     {
       "id": 47296255,
       "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
       "url": "https://peppy.bot/",
-      "score": 56,
+      "score": 57,
       "by": "Ekami",
       "time": 1772966816,
-      "comments": 18,
+      "comments": 21,
       "domain": "peppy.bot"
     },
     {
       "id": 47336806,
       "title": "Why the global elite gave up on spelling and grammar",
       "url": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1",
-      "score": 38,
+      "score": 51,
       "by": "matthieu_bl",
       "time": 1773242530,
-      "comments": 95,
+      "comments": 127,
       "domain": "wsj.com"
-    },
-    {
-      "id": 47330836,
-      "title": "Zig – Type Resolution Redesign and Language Changes",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 361,
-      "by": "Retro_Dev",
-      "time": 1773192287,
-      "comments": 197,
-      "domain": "ziglang.org"
-    },
-    {
-      "id": 47338055,
-      "title": "Fungal Electronics",
-      "url": "https://arxiv.org/abs/2111.11231",
-      "score": 5,
-      "by": "byt3h3ad",
-      "time": 1773247991,
-      "comments": 1,
-      "domain": "arxiv.org"
-    },
-    {
-      "id": 47321481,
-      "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
-      "url": "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/",
-      "score": 9,
-      "by": "gsky",
-      "time": 1773139357,
-      "comments": 1,
-      "domain": "abahgat.com"
     },
     {
       "id": 47331034,
       "title": "Writing my own text editor, and daily-driving it",
       "url": "https://blog.jsbarretto.com/post/text-editor",
-      "score": 185,
+      "score": 194,
       "by": "todsacerdoti",
       "time": 1773194662,
-      "comments": 101,
+      "comments": 103,
       "domain": "blog.jsbarretto.com"
-    },
-    {
-      "id": 47337168,
-      "title": "Searching for the Agentic IDE",
-      "url": "https://twitter.com/karpathy/status/2031616709560610993",
-      "score": 3,
-      "by": "bigwheels",
-      "time": 1773244091,
-      "comments": 0,
-      "domain": "twitter.com"
     },
     {
       "id": 47329557,
       "title": "Cloudflare crawl endpoint",
       "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 432,
+      "score": 442,
       "by": "jeffpalmer",
       "time": 1773181635,
-      "comments": 165,
+      "comments": 174,
       "domain": "developers.cloudflare.com"
-    },
-    {
-      "id": 47296662,
-      "title": "Bypassing PatchGuard on Windows x64 (2005)",
-      "url": "http://uninformed.org/index.cgi?v=3&a=3&t=txt",
-      "score": 11,
-      "by": "davikr",
-      "time": 1772971476,
-      "comments": 1,
-      "domain": "uninformed.org"
-    },
-    {
-      "id": 47335572,
-      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-      "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "score": 483,
-      "by": "raldi",
-      "time": 1773237121,
-      "comments": 195,
-      "domain": "washingtonpost.com"
     },
     {
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 571,
+      "score": 580,
       "by": "helloplanets",
       "time": 1773132413,
-      "comments": 463,
+      "comments": 469,
       "domain": "wired.com"
+    },
+    {
+      "id": 47324054,
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "score": 1956,
+      "by": "speckx",
+      "time": 1773154216,
+      "comments": 256,
+      "domain": "blog.computationalcomplexity.org"
     }
   ]
 }
