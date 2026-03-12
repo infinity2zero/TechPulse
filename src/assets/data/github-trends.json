@@ -1,161 +1,174 @@
 {
-  "lastUpdated": "2026-03-12T07:29:03.448Z",
+  "lastUpdated": "2026-03-12T08:01:46.117Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 27015,
+      "stars": 27084,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T07:27:25Z"
+      "updated_at": "2026-03-12T08:01:30Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 6496,
+      "stars": 6597,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T07:28:52Z"
+      "updated_at": "2026-03-12T08:01:38Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 4025,
+      "stars": 4122,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T07:29:02Z"
+      "updated_at": "2026-03-12T08:01:34Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1929,
+      "stars": 1938,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T07:28:07Z"
+      "updated_at": "2026-03-12T07:59:08Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1423,
+      "stars": 1424,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-12T07:00:23Z"
+      "updated_at": "2026-03-12T07:51:42Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 1027,
+      "stars": 1032,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-12T07:26:22Z"
+      "updated_at": "2026-03-12T07:56:11Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 712,
+      "stars": 714,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-12T07:15:38Z"
+      "updated_at": "2026-03-12T07:55:18Z"
     },
     {
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 670,
+      "stars": 676,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-12T07:26:17Z"
+      "updated_at": "2026-03-12T07:57:49Z"
     },
     {
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 665,
+      "stars": 666,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-12T06:59:37Z"
+      "updated_at": "2026-03-12T07:32:45Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 639,
+      "stars": 642,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T07:12:25Z"
+      "updated_at": "2026-03-12T08:01:19Z"
     },
     {
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 624,
+      "stars": 639,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-12T07:26:13Z"
+      "updated_at": "2026-03-12T08:01:36Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 560,
+      "stars": 566,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T07:27:45Z"
+      "updated_at": "2026-03-12T07:57:10Z"
+    },
+    {
+      "id": 1176774227,
+      "name": "Kaleighc793/freqtrade-bot",
+      "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface",
+      "stars": 549,
+      "language": "Python",
+      "url": "https://github.com/Kaleighc793/freqtrade-bot",
+      "owner": {
+        "login": "Kaleighc793",
+        "avatar_url": "https://avatars.githubusercontent.com/u/245761291?v=4"
+      },
+      "updated_at": "2026-03-12T07:56:56Z"
     },
     {
       "id": 1175937361,
@@ -171,95 +184,82 @@
       "updated_at": "2026-03-12T07:00:04Z"
     },
     {
-      "id": 1176774227,
-      "name": "Kaleighc793/freqtrade-bot",
-      "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface",
-      "stars": 547,
-      "language": "Python",
-      "url": "https://github.com/Kaleighc793/freqtrade-bot",
-      "owner": {
-        "login": "Kaleighc793",
-        "avatar_url": "https://avatars.githubusercontent.com/u/245761291?v=4"
-      },
-      "updated_at": "2026-03-12T07:22:41Z"
-    },
-    {
       "id": 1175225759,
       "name": "steipete/discrawl",
       "description": "cli for discord with sqlite backend",
-      "stars": 497,
+      "stars": 498,
       "language": "Go",
       "url": "https://github.com/steipete/discrawl",
       "owner": {
         "login": "steipete",
         "avatar_url": "https://avatars.githubusercontent.com/u/58493?v=4"
       },
-      "updated_at": "2026-03-12T01:16:02Z"
+      "updated_at": "2026-03-12T07:37:43Z"
     },
     {
       "id": 1175466161,
       "name": "HumeAI/tada",
       "description": "Open Source Speech Language Model",
-      "stars": 456,
+      "stars": 464,
       "language": "Jupyter Notebook",
       "url": "https://github.com/HumeAI/tada",
       "owner": {
         "login": "HumeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
       },
-      "updated_at": "2026-03-12T07:26:57Z"
-    },
-    {
-      "id": 1174307959,
-      "name": "OasAIStudio/symphony-ts",
-      "description": "Typecript version of https://github.com/openai/symphony",
-      "stars": 450,
-      "language": "TypeScript",
-      "url": "https://github.com/OasAIStudio/symphony-ts",
-      "owner": {
-        "login": "OasAIStudio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/264579731?v=4"
-      },
-      "updated_at": "2026-03-12T07:26:03Z"
+      "updated_at": "2026-03-12T07:55:03Z"
     },
     {
       "id": 1175763100,
       "name": "uluckyXH/OpenMOSS",
       "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-      "stars": 445,
+      "stars": 451,
       "language": "Python",
       "url": "https://github.com/uluckyXH/OpenMOSS",
       "owner": {
         "login": "uluckyXH",
         "avatar_url": "https://avatars.githubusercontent.com/u/52094985?v=4"
       },
-      "updated_at": "2026-03-12T06:55:54Z"
+      "updated_at": "2026-03-12T07:57:48Z"
+    },
+    {
+      "id": 1174307959,
+      "name": "OasAIStudio/symphony-ts",
+      "description": "Typecript version of https://github.com/openai/symphony",
+      "stars": 451,
+      "language": "TypeScript",
+      "url": "https://github.com/OasAIStudio/symphony-ts",
+      "owner": {
+        "login": "OasAIStudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/264579731?v=4"
+      },
+      "updated_at": "2026-03-12T07:56:47Z"
     },
     {
       "id": 1176414483,
       "name": "dongsheng123132/u-claw",
       "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
-      "stars": 430,
+      "stars": 434,
       "language": "HTML",
       "url": "https://github.com/dongsheng123132/u-claw",
       "owner": {
         "login": "dongsheng123132",
         "avatar_url": "https://avatars.githubusercontent.com/u/90887123?v=4"
       },
-      "updated_at": "2026-03-12T07:26:31Z"
+      "updated_at": "2026-03-12T08:01:14Z"
     },
     {
-      "id": 1175489176,
-      "name": "Emanuele-web04/remodex",
-      "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 424,
-      "language": "Swift",
-      "url": "https://github.com/Emanuele-web04/remodex",
+      "id": 1176128802,
+      "name": "kamranahmedse/claude-statusline",
+      "description": "Minimal Claude Code statusline setup I personally use",
+      "stars": 428,
+      "language": "Shell",
+      "url": "https://github.com/kamranahmedse/claude-statusline",
       "owner": {
-        "login": "Emanuele-web04",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
+        "login": "kamranahmedse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
       },
-      "updated_at": "2026-03-12T07:16:51Z"
+      "updated_at": "2026-03-12T08:00:28Z"
     }
   ]
 }
