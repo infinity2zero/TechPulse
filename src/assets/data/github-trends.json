@@ -1,200 +1,213 @@
 {
-  "lastUpdated": "2026-03-12T11:51:51.230Z",
+  "lastUpdated": "2026-03-12T12:26:36.856Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 27499,
+      "stars": 27557,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T11:50:12Z"
+      "updated_at": "2026-03-12T12:26:30Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 7154,
+      "stars": 7263,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T11:50:03Z"
+      "updated_at": "2026-03-12T12:26:13Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 4645,
+      "stars": 4692,
       "language": "HTML",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T11:50:45Z"
+      "updated_at": "2026-03-12T12:26:26Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 2012,
+      "stars": 2030,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T11:51:39Z"
+      "updated_at": "2026-03-12T12:22:20Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1428,
+      "stars": 1429,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-12T10:50:15Z"
+      "updated_at": "2026-03-12T11:59:30Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 1055,
+      "stars": 1056,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-12T11:48:52Z"
+      "updated_at": "2026-03-12T11:56:39Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 741,
+      "stars": 744,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-12T11:51:02Z"
+      "updated_at": "2026-03-12T12:20:00Z"
     },
     {
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 689,
+      "stars": 690,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-12T11:44:17Z"
+      "updated_at": "2026-03-12T12:04:29Z"
     },
     {
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 678,
+      "stars": 684,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-12T11:48:39Z"
+      "updated_at": "2026-03-12T12:20:51Z"
     },
     {
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 668,
+      "stars": 670,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-12T10:23:07Z"
+      "updated_at": "2026-03-12T12:11:47Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 655,
+      "stars": 658,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T11:48:38Z"
+      "updated_at": "2026-03-12T12:20:49Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 628,
+      "stars": 639,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T11:47:13Z"
+      "updated_at": "2026-03-12T12:25:28Z"
     },
     {
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 558,
+      "stars": 559,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-12T11:49:41Z"
+      "updated_at": "2026-03-12T11:54:13Z"
     },
     {
       "id": 1176774227,
       "name": "Kaleighc793/freqtrade-bot",
       "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface",
-      "stars": 549,
+      "stars": 550,
       "language": "Python",
       "url": "https://github.com/Kaleighc793/freqtrade-bot",
       "owner": {
         "login": "Kaleighc793",
         "avatar_url": "https://avatars.githubusercontent.com/u/245761291?v=4"
       },
-      "updated_at": "2026-03-12T07:56:56Z"
+      "updated_at": "2026-03-12T12:09:29Z"
+    },
+    {
+      "id": 1176760507,
+      "name": "Justi1980/Dawn-Validator-BOT",
+      "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation",
+      "stars": 504,
+      "language": "Python",
+      "url": "https://github.com/Justi1980/Dawn-Validator-BOT",
+      "owner": {
+        "login": "Justi1980",
+        "avatar_url": "https://avatars.githubusercontent.com/u/245958168?v=4"
+      },
+      "updated_at": "2026-03-12T12:24:39Z"
     },
     {
       "id": 1175466161,
       "name": "HumeAI/tada",
       "description": "Open Source Speech Language Model",
-      "stars": 499,
+      "stars": 500,
       "language": "Jupyter Notebook",
       "url": "https://github.com/HumeAI/tada",
       "owner": {
         "login": "HumeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
       },
-      "updated_at": "2026-03-12T11:51:29Z"
+      "updated_at": "2026-03-12T11:53:44Z"
     },
     {
       "id": 1175225759,
@@ -210,30 +223,30 @@
       "updated_at": "2026-03-12T10:41:15Z"
     },
     {
-      "id": 1176760507,
-      "name": "Justi1980/Dawn-Validator-BOT",
-      "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation",
-      "stars": 488,
-      "language": "Python",
-      "url": "https://github.com/Justi1980/Dawn-Validator-BOT",
-      "owner": {
-        "login": "Justi1980",
-        "avatar_url": "https://avatars.githubusercontent.com/u/245958168?v=4"
-      },
-      "updated_at": "2026-03-12T11:51:22Z"
-    },
-    {
       "id": 1176128802,
       "name": "kamranahmedse/claude-statusline",
       "description": "Minimal Claude Code statusline setup I personally use",
-      "stars": 483,
+      "stars": 488,
       "language": "Shell",
       "url": "https://github.com/kamranahmedse/claude-statusline",
       "owner": {
         "login": "kamranahmedse",
         "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
       },
-      "updated_at": "2026-03-12T11:41:19Z"
+      "updated_at": "2026-03-12T12:06:25Z"
+    },
+    {
+      "id": 1176414483,
+      "name": "dongsheng123132/u-claw",
+      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
+      "stars": 468,
+      "language": "HTML",
+      "url": "https://github.com/dongsheng123132/u-claw",
+      "owner": {
+        "login": "dongsheng123132",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90887123?v=4"
+      },
+      "updated_at": "2026-03-12T12:25:18Z"
     },
     {
       "id": 1175763100,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/52094985?v=4"
       },
       "updated_at": "2026-03-12T09:28:50Z"
-    },
-    {
-      "id": 1176414483,
-      "name": "dongsheng123132/u-claw",
-      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
-      "stars": 465,
-      "language": "HTML",
-      "url": "https://github.com/dongsheng123132/u-claw",
-      "owner": {
-        "login": "dongsheng123132",
-        "avatar_url": "https://avatars.githubusercontent.com/u/90887123?v=4"
-      },
-      "updated_at": "2026-03-12T11:48:21Z"
     }
   ]
 }
