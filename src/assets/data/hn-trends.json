@@ -1,115 +1,115 @@
 {
-  "lastUpdated": "2026-03-12T21:53:15.007Z",
+  "lastUpdated": "2026-03-12T22:12:40.759Z",
   "items": [
     {
       "id": 47357042,
       "title": "Shall I implement it? No",
       "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 173,
+      "score": 263,
       "by": "breton",
       "time": 1773349270,
-      "comments": 35,
+      "comments": 89,
       "domain": "gist.github.com"
     },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 889,
+      "score": 907,
       "by": "microflash",
       "time": 1773322924,
-      "comments": 354,
+      "comments": 355,
       "domain": "malus.sh"
     },
     {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 201,
+      "score": 210,
       "by": "eieio",
       "time": 1773335636,
-      "comments": 70,
+      "comments": 72,
       "domain": "parametricavocado.itch.io"
     },
     {
       "id": 47353533,
       "title": "Reversing memory loss via gut-brain communication",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 152,
+      "score": 162,
       "by": "mustaphah",
       "time": 1773333531,
-      "comments": 45,
+      "comments": 46,
       "domain": "med.stanford.edu"
     },
     {
       "id": 47351371,
       "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 250,
+      "score": 258,
       "by": "colinprince",
       "time": 1773326937,
-      "comments": 306,
+      "comments": 314,
       "domain": "davidoks.blog"
     },
     {
       "id": 47356968,
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
       "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 138,
+      "score": 174,
       "by": "rectang",
       "time": 1773348951,
-      "comments": 75,
+      "comments": 96,
       "domain": "grandforksherald.com"
     },
     {
       "id": 47352459,
       "title": "The Met releases high-def 3D scans of 140 famous art objects",
       "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 168,
+      "score": 170,
       "by": "coloneltcb",
       "time": 1773330219,
       "comments": 33,
       "domain": "openculture.com"
     },
     {
-      "id": 47355781,
-      "title": "Runners who churn butter on their runs",
-      "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
-      "score": 43,
-      "by": "randycupertino",
-      "time": 1773343305,
-      "comments": 21,
-      "domain": "runnersworld.com"
-    },
-    {
       "id": 47350407,
       "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
       "url": "https://aminrj.com/posts/rag-document-poisoning/",
-      "score": 13,
+      "score": 15,
       "by": "aminerj",
       "time": 1773322836,
-      "comments": 2,
+      "comments": 4,
       "domain": "aminrj.com"
     },
     {
       "id": 47353558,
       "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
       "url": "https://github.com/onecli/onecli",
-      "score": 96,
+      "score": 99,
       "by": "guyb3",
       "time": 1773333666,
-      "comments": 35,
+      "comments": 36,
       "domain": "github.com"
     },
     {
       "id": 47356392,
       "title": "Bringing Chrome to ARM64 Linux Devices",
       "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
-      "score": 23,
+      "score": 26,
       "by": "ingve",
       "time": 1773346395,
-      "comments": 23,
+      "comments": 29,
       "domain": "blog.chromium.org"
+    },
+    {
+      "id": 47294271,
+      "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+      "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+      "score": 16,
+      "by": "azhng",
+      "time": 1772942250,
+      "comments": 2,
+      "domain": "archerzhang.me"
     },
     {
       "id": 47355410,
@@ -122,113 +122,133 @@
       "domain": "ionrouter.io"
     },
     {
-      "id": 47356017,
-      "title": "An old photo of a large BBS (2022)",
-      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
-      "score": 122,
-      "by": "xbryanx",
-      "time": 1773344495,
-      "comments": 86,
-      "domain": "rachelbythebay.com"
-    },
-    {
-      "id": 47294271,
-      "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
-      "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
-      "score": 14,
-      "by": "azhng",
-      "time": 1772942250,
-      "comments": 2,
-      "domain": "archerzhang.me"
+      "id": 47355781,
+      "title": "Runners who churn butter on their runs",
+      "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+      "score": 47,
+      "by": "randycupertino",
+      "time": 1773343305,
+      "comments": 23,
+      "domain": "runnersworld.com"
     },
     {
       "id": 47352385,
       "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
       "url": "https://github.com/wolfssl/wolfip",
-      "score": 68,
+      "score": 69,
       "by": "789c789c789c",
       "time": 1773329990,
       "comments": 6,
       "domain": "github.com"
     },
     {
+      "id": 47356017,
+      "title": "An old photo of a large BBS (2022)",
+      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+      "score": 125,
+      "by": "xbryanx",
+      "time": 1773344495,
+      "comments": 92,
+      "domain": "rachelbythebay.com"
+    },
+    {
       "id": 47348304,
       "title": "Dolphin Progress Release 2603",
       "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "score": 276,
+      "score": 280,
       "by": "BitPirate",
       "time": 1773307381,
-      "comments": 46,
+      "comments": 47,
       "domain": "dolphin-emu.org"
     },
     {
       "id": 47349277,
       "title": "Big data on the cheapest MacBook",
       "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "score": 265,
+      "score": 272,
       "by": "bcye",
       "time": 1773315674,
-      "comments": 239,
+      "comments": 241,
       "domain": "duckdb.org"
     },
     {
       "id": 47353957,
       "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
       "url": "https://github.com/understudy-ai/understudy",
-      "score": 60,
+      "score": 63,
       "by": "bayes-song",
       "time": 1773335075,
       "comments": 18,
       "domain": "github.com"
     },
     {
-      "id": 47350516,
-      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-      "url": "https://github.com/jrswab/axe",
-      "score": 117,
-      "by": "jrswab",
-      "time": 1773323352,
-      "comments": 84,
-      "domain": "github.com"
-    },
-    {
       "id": 47349806,
       "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
       "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "score": 160,
+      "score": 167,
       "by": "JumpCrisscross",
       "time": 1773319485,
-      "comments": 297,
+      "comments": 303,
       "domain": "marketscreener.com"
     },
     {
-      "id": 47352236,
-      "title": "The Road Not Taken: A World Where IPv4 Evolved",
-      "url": "https://owl.billpg.com/ipv4x/",
-      "score": 38,
-      "by": "billpg",
-      "time": 1773329481,
-      "comments": 56,
-      "domain": "owl.billpg.com"
+      "id": 47350516,
+      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+      "url": "https://github.com/jrswab/axe",
+      "score": 119,
+      "by": "jrswab",
+      "time": 1773323352,
+      "comments": 85,
+      "domain": "github.com"
+    },
+    {
+      "id": 47334722,
+      "title": "Should hack-back be legal?",
+      "url": "https://speculumx.at/blogpost/should-hack-back-be-legal",
+      "score": 11,
+      "by": "Vektorceraptor",
+      "time": 1773232219,
+      "comments": 10,
+      "domain": "speculumx.at"
     },
     {
       "id": 47349334,
       "title": "Are LLM merge rates not getting better?",
       "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "score": 85,
+      "score": 88,
       "by": "4diii",
       "time": 1773316145,
-      "comments": 93,
+      "comments": 94,
       "domain": "entropicthoughts.com"
+    },
+    {
+      "id": 47352236,
+      "title": "The Road Not Taken: A World Where IPv4 Evolved",
+      "url": "https://owl.billpg.com/ipv4x/",
+      "score": 39,
+      "by": "billpg",
+      "time": 1773329481,
+      "comments": 61,
+      "domain": "owl.billpg.com"
+    },
+    {
+      "id": 47312226,
+      "title": "The Cost of Indirection in Rust",
+      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+      "score": 72,
+      "by": "sebastianconcpt",
+      "time": 1773077314,
+      "comments": 31,
+      "domain": "blog.sebastiansastre.co"
     },
     {
       "id": 47303044,
       "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
       "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-      "score": 88,
+      "score": 91,
       "by": "pseudolus",
       "time": 1773014405,
-      "comments": 52,
+      "comments": 55,
       "domain": "sciencenews.org"
     },
     {
@@ -238,38 +258,8 @@
       "score": 40,
       "by": "alter_igel",
       "time": 1772986262,
-      "comments": 21,
+      "comments": 22,
       "domain": "timstr.website"
-    },
-    {
-      "id": 47334722,
-      "title": "Should hack-back be legal?",
-      "url": "https://speculumx.at/blogpost/should-hack-back-be-legal",
-      "score": 9,
-      "by": "Vektorceraptor",
-      "time": 1773232219,
-      "comments": 0,
-      "domain": "speculumx.at"
-    },
-    {
-      "id": 47312226,
-      "title": "The Cost of Indirection in Rust",
-      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
-      "score": 67,
-      "by": "sebastianconcpt",
-      "time": 1773077314,
-      "comments": 30,
-      "domain": "blog.sebastiansastre.co"
-    },
-    {
-      "id": 47319539,
-      "title": "DDR4 Sdram – Initialization, Training and Calibration",
-      "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
-      "score": 44,
-      "by": "todsacerdoti",
-      "time": 1773122547,
-      "comments": 9,
-      "domain": "systemverilog.io"
     },
     {
       "id": 47350416,
@@ -282,13 +272,23 @@
       "domain": "github.com"
     },
     {
+      "id": 47319539,
+      "title": "DDR4 Sdram – Initialization, Training and Calibration",
+      "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
+      "score": 47,
+      "by": "todsacerdoti",
+      "time": 1773122547,
+      "comments": 10,
+      "domain": "systemverilog.io"
+    },
+    {
       "id": 47352297,
       "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
       "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
-      "score": 220,
+      "score": 224,
       "by": "amarcheschi",
       "time": 1773329681,
-      "comments": 57,
+      "comments": 58,
       "domain": "reuters.com"
     }
   ]
