@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-12T22:12:41.070Z",
+  "lastUpdated": "2026-03-12T22:45:26.602Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 28499,
+      "stars": 28555,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T22:11:52Z"
+      "updated_at": "2026-03-12T22:45:17Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 8586,
+      "stars": 8622,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T22:11:51Z"
+      "updated_at": "2026-03-12T22:45:17Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 5080,
+      "stars": 5097,
       "language": "HTML",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T22:08:02Z"
+      "updated_at": "2026-03-12T22:41:19Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 2174,
+      "stars": 2278,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-12T22:12:03Z"
+      "updated_at": "2026-03-12T22:45:19Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 2157,
+      "stars": 2162,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T21:34:27Z"
+      "updated_at": "2026-03-12T22:34:35Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1455,
+      "stars": 1456,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-12T22:03:14Z"
+      "updated_at": "2026-03-12T22:20:21Z"
     },
     {
       "id": 1175870738,
@@ -96,27 +96,27 @@
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 778,
+      "stars": 779,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-12T17:59:53Z"
+      "updated_at": "2026-03-12T22:42:50Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 755,
+      "stars": 758,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T21:59:17Z"
+      "updated_at": "2026-03-12T22:38:29Z"
     },
     {
       "id": 1176613354,
@@ -148,14 +148,14 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 685,
+      "stars": 686,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T22:12:04Z"
+      "updated_at": "2026-03-12T22:15:26Z"
     },
     {
       "id": 1175638196,
@@ -171,56 +171,56 @@
       "updated_at": "2026-03-12T17:23:51Z"
     },
     {
-      "id": 1179164349,
-      "name": "chrisworsey55/atlas-gic",
-      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 592,
-      "language": null,
-      "url": "https://github.com/chrisworsey55/atlas-gic",
-      "owner": {
-        "login": "chrisworsey55",
-        "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
-      },
-      "updated_at": "2026-03-12T22:04:57Z"
-    },
-    {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 589,
+      "stars": 601,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-12T22:09:49Z"
+      "updated_at": "2026-03-12T22:42:24Z"
+    },
+    {
+      "id": 1179164349,
+      "name": "chrisworsey55/atlas-gic",
+      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+      "stars": 597,
+      "language": null,
+      "url": "https://github.com/chrisworsey55/atlas-gic",
+      "owner": {
+        "login": "chrisworsey55",
+        "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
+      },
+      "updated_at": "2026-03-12T22:33:53Z"
     },
     {
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 583,
+      "stars": 584,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-12T21:33:22Z"
+      "updated_at": "2026-03-12T22:28:55Z"
     },
     {
       "id": 1175466161,
       "name": "HumeAI/tada",
       "description": "Open Source Speech Language Model",
-      "stars": 560,
+      "stars": 561,
       "language": "Jupyter Notebook",
       "url": "https://github.com/HumeAI/tada",
       "owner": {
         "login": "HumeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
       },
-      "updated_at": "2026-03-12T22:07:23Z"
+      "updated_at": "2026-03-12T22:19:04Z"
     },
     {
       "id": 1176774227,
@@ -252,14 +252,14 @@
       "id": 1175489176,
       "name": "Emanuele-web04/remodex",
       "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 533,
+      "stars": 536,
       "language": "Swift",
       "url": "https://github.com/Emanuele-web04/remodex",
       "owner": {
         "login": "Emanuele-web04",
         "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
       },
-      "updated_at": "2026-03-12T21:59:08Z"
+      "updated_at": "2026-03-12T22:42:34Z"
     }
   ]
 }
