@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-03-12T22:45:26.602Z",
+  "lastUpdated": "2026-03-12T23:01:47.716Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 28555,
+      "stars": 28587,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T22:45:17Z"
+      "updated_at": "2026-03-12T23:01:39Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 8622,
+      "stars": 8640,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T22:45:17Z"
+      "updated_at": "2026-03-12T23:00:43Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 5097,
+      "stars": 5103,
       "language": "HTML",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T22:41:19Z"
+      "updated_at": "2026-03-12T23:00:53Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 2278,
+      "stars": 2327,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-12T22:45:19Z"
+      "updated_at": "2026-03-12T23:01:37Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 2162,
+      "stars": 2166,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T22:34:35Z"
+      "updated_at": "2026-03-12T22:57:21Z"
     },
     {
       "id": 1174042197,
@@ -109,27 +109,27 @@
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 758,
+      "stars": 762,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T22:38:29Z"
+      "updated_at": "2026-03-12T23:01:18Z"
     },
     {
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 736,
+      "stars": 737,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-12T20:15:55Z"
+      "updated_at": "2026-03-12T22:51:06Z"
     },
     {
       "id": 1177515818,
@@ -148,53 +148,53 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 686,
+      "stars": 688,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T22:15:26Z"
+      "updated_at": "2026-03-12T22:53:37Z"
     },
     {
       "id": 1175638196,
       "name": "imbue-bit/OpenClaw-PwnKit",
       "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 640,
+      "stars": 641,
       "language": "Python",
       "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
       "owner": {
         "login": "imbue-bit",
         "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
       },
-      "updated_at": "2026-03-12T17:23:51Z"
+      "updated_at": "2026-03-12T22:48:46Z"
     },
     {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 601,
+      "stars": 606,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-12T22:42:24Z"
+      "updated_at": "2026-03-12T22:57:37Z"
     },
     {
       "id": 1179164349,
       "name": "chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 597,
+      "stars": 601,
       "language": null,
       "url": "https://github.com/chrisworsey55/atlas-gic",
       "owner": {
         "login": "chrisworsey55",
         "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
       },
-      "updated_at": "2026-03-12T22:33:53Z"
+      "updated_at": "2026-03-12T23:00:53Z"
     },
     {
       "id": 1175937361,
@@ -213,14 +213,14 @@
       "id": 1175466161,
       "name": "HumeAI/tada",
       "description": "Open Source Speech Language Model",
-      "stars": 561,
+      "stars": 563,
       "language": "Jupyter Notebook",
       "url": "https://github.com/HumeAI/tada",
       "owner": {
         "login": "HumeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
       },
-      "updated_at": "2026-03-12T22:19:04Z"
+      "updated_at": "2026-03-12T22:59:39Z"
     },
     {
       "id": 1176774227,
@@ -236,6 +236,19 @@
       "updated_at": "2026-03-12T12:26:58Z"
     },
     {
+      "id": 1175489176,
+      "name": "Emanuele-web04/remodex",
+      "description": "Remote Control for Codex. 24/7 version on the way",
+      "stars": 541,
+      "language": "Swift",
+      "url": "https://github.com/Emanuele-web04/remodex",
+      "owner": {
+        "login": "Emanuele-web04",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
+      },
+      "updated_at": "2026-03-12T22:57:17Z"
+    },
+    {
       "id": 1176760507,
       "name": "Justi1980/Dawn-Validator-BOT",
       "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation",
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/245958168?v=4"
       },
       "updated_at": "2026-03-12T13:28:09Z"
-    },
-    {
-      "id": 1175489176,
-      "name": "Emanuele-web04/remodex",
-      "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 536,
-      "language": "Swift",
-      "url": "https://github.com/Emanuele-web04/remodex",
-      "owner": {
-        "login": "Emanuele-web04",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
-      },
-      "updated_at": "2026-03-12T22:42:34Z"
     }
   ]
 }
