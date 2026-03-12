@@ -1,175 +1,195 @@
 {
-  "lastUpdated": "2026-03-12T23:01:47.309Z",
+  "lastUpdated": "2026-03-12T23:36:44.634Z",
   "items": [
     {
       "id": 47357042,
       "title": "Shall I implement it? No",
       "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 421,
+      "score": 530,
       "by": "breton",
       "time": 1773349270,
-      "comments": 169,
+      "comments": 207,
       "domain": "gist.github.com"
+    },
+    {
+      "id": 47358206,
+      "title": "The AI coding divide: craft lovers vs. result chasers",
+      "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+      "score": 46,
+      "by": "avernet",
+      "time": 1773354908,
+      "comments": 34,
+      "domain": "blog.lmorchard.com"
     },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 942,
+      "score": 965,
       "by": "microflash",
       "time": 1773322924,
-      "comments": 367,
+      "comments": 379,
       "domain": "malus.sh"
     },
     {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 230,
+      "score": 239,
       "by": "eieio",
       "time": 1773335636,
-      "comments": 77,
+      "comments": 78,
       "domain": "parametricavocado.itch.io"
     },
     {
       "id": 47353533,
       "title": "Reversing memory loss via gut-brain communication",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 187,
+      "score": 195,
       "by": "mustaphah",
       "time": 1773333531,
-      "comments": 54,
+      "comments": 61,
       "domain": "med.stanford.edu"
     },
     {
       "id": 47351371,
       "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 285,
+      "score": 297,
       "by": "colinprince",
       "time": 1773326937,
-      "comments": 338,
+      "comments": 350,
       "domain": "davidoks.blog"
-    },
-    {
-      "id": 47356968,
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 225,
-      "by": "rectang",
-      "time": 1773348951,
-      "comments": 128,
-      "domain": "grandforksherald.com"
     },
     {
       "id": 47352459,
       "title": "The Met releases high-def 3D scans of 140 famous art objects",
       "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 187,
+      "score": 194,
       "by": "coloneltcb",
       "time": 1773330219,
-      "comments": 39,
+      "comments": 40,
       "domain": "openculture.com"
     },
     {
       "id": 47350407,
       "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
       "url": "https://aminrj.com/posts/rag-document-poisoning/",
-      "score": 31,
+      "score": 39,
       "by": "aminerj",
       "time": 1773322836,
-      "comments": 10,
+      "comments": 12,
       "domain": "aminrj.com"
+    },
+    {
+      "id": 47356968,
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "score": 257,
+      "by": "rectang",
+      "time": 1773348951,
+      "comments": 151,
+      "domain": "grandforksherald.com"
     },
     {
       "id": 47356392,
       "title": "Bringing Chrome to ARM64 Linux Devices",
       "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
-      "score": 39,
+      "score": 47,
       "by": "ingve",
       "time": 1773346395,
-      "comments": 33,
+      "comments": 37,
       "domain": "blog.chromium.org"
+    },
+    {
+      "id": 47355781,
+      "title": "Runners who churn butter on their runs",
+      "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+      "score": 77,
+      "by": "randycupertino",
+      "time": 1773343305,
+      "comments": 33,
+      "domain": "runnersworld.com"
     },
     {
       "id": 47353558,
       "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
       "url": "https://github.com/onecli/onecli",
-      "score": 108,
+      "score": 111,
       "by": "guyb3",
       "time": 1773333666,
       "comments": 37,
       "domain": "github.com"
     },
     {
-      "id": 47355781,
-      "title": "Runners who churn butter on their runs",
-      "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
-      "score": 68,
-      "by": "randycupertino",
-      "time": 1773343305,
-      "comments": 28,
-      "domain": "runnersworld.com"
+      "id": 47355410,
+      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+      "url": "https://ionrouter.io",
+      "score": 38,
+      "by": "vshah1016",
+      "time": 1773341556,
+      "comments": 15,
+      "domain": "ionrouter.io"
     },
     {
       "id": 47294271,
       "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
       "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
-      "score": 26,
+      "score": 31,
       "by": "azhng",
       "time": 1772942250,
-      "comments": 2,
+      "comments": 7,
       "domain": "archerzhang.me"
-    },
-    {
-      "id": 47355410,
-      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-      "url": "https://ionrouter.io",
-      "score": 35,
-      "by": "vshah1016",
-      "time": 1773341556,
-      "comments": 14,
-      "domain": "ionrouter.io"
-    },
-    {
-      "id": 47358206,
-      "title": "The AI coding divide: craft lovers vs. result chasers",
-      "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-      "score": 3,
-      "by": "avernet",
-      "time": 1773354908,
-      "comments": 0,
-      "domain": "blog.lmorchard.com"
-    },
-    {
-      "id": 47356017,
-      "title": "An old photo of a large BBS (2022)",
-      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
-      "score": 141,
-      "by": "xbryanx",
-      "time": 1773344495,
-      "comments": 98,
-      "domain": "rachelbythebay.com"
     },
     {
       "id": 47349806,
       "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
       "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "score": 194,
+      "score": 206,
       "by": "JumpCrisscross",
       "time": 1773319485,
-      "comments": 309,
+      "comments": 318,
       "domain": "marketscreener.com"
+    },
+    {
+      "id": 47348304,
+      "title": "Dolphin Progress Release 2603",
+      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+      "score": 287,
+      "by": "BitPirate",
+      "time": 1773307381,
+      "comments": 48,
+      "domain": "dolphin-emu.org"
     },
     {
       "id": 47352385,
       "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
       "url": "https://github.com/wolfssl/wolfip",
-      "score": 75,
+      "score": 77,
       "by": "789c789c789c",
       "time": 1773329990,
-      "comments": 7,
+      "comments": 8,
       "domain": "github.com"
+    },
+    {
+      "id": 47356017,
+      "title": "An old photo of a large BBS (2022)",
+      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+      "score": 146,
+      "by": "xbryanx",
+      "time": 1773344495,
+      "comments": 101,
+      "domain": "rachelbythebay.com"
+    },
+    {
+      "id": 47349277,
+      "title": "Big data on the cheapest MacBook",
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "score": 288,
+      "by": "bcye",
+      "time": 1773315674,
+      "comments": 245,
+      "domain": "duckdb.org"
     },
     {
       "id": 47297308,
@@ -178,77 +198,67 @@
       "score": 8,
       "by": "eyasu6464",
       "time": 1772977896,
-      "comments": 1,
+      "comments": 3,
       "domain": "useful-ai-tools.com"
-    },
-    {
-      "id": 47348304,
-      "title": "Dolphin Progress Release 2603",
-      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "score": 286,
-      "by": "BitPirate",
-      "time": 1773307381,
-      "comments": 48,
-      "domain": "dolphin-emu.org"
-    },
-    {
-      "id": 47349277,
-      "title": "Big data on the cheapest MacBook",
-      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "score": 280,
-      "by": "bcye",
-      "time": 1773315674,
-      "comments": 242,
-      "domain": "duckdb.org"
     },
     {
       "id": 47350516,
       "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
       "url": "https://github.com/jrswab/axe",
-      "score": 130,
+      "score": 132,
       "by": "jrswab",
       "time": 1773323352,
-      "comments": 89,
+      "comments": 91,
       "domain": "github.com"
+    },
+    {
+      "id": 47319177,
+      "title": "Language Birth",
+      "url": "https://asteriskmag.com/issues/13/language-birth",
+      "score": 4,
+      "by": "mitchbob",
+      "time": 1773118130,
+      "comments": 1,
+      "domain": "asteriskmag.com"
     },
     {
       "id": 47349334,
       "title": "Are LLM merge rates not getting better?",
       "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "score": 96,
+      "score": 100,
       "by": "4diii",
       "time": 1773316145,
-      "comments": 100,
+      "comments": 102,
       "domain": "entropicthoughts.com"
-    },
-    {
-      "id": 47312226,
-      "title": "The Cost of Indirection in Rust",
-      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
-      "score": 79,
-      "by": "sebastianconcpt",
-      "time": 1773077314,
-      "comments": 31,
-      "domain": "blog.sebastiansastre.co"
     },
     {
       "id": 47303044,
       "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
       "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-      "score": 98,
+      "score": 100,
       "by": "pseudolus",
       "time": 1773014405,
-      "comments": 60,
+      "comments": 64,
       "domain": "sciencenews.org"
+    },
+    {
+      "id": 47312226,
+      "title": "The Cost of Indirection in Rust",
+      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+      "score": 80,
+      "by": "sebastianconcpt",
+      "time": 1773077314,
+      "comments": 33,
+      "domain": "blog.sebastiansastre.co"
     },
     {
       "id": 47352236,
       "title": "The Road Not Taken: A World Where IPv4 Evolved",
       "url": "https://owl.billpg.com/ipv4x/",
-      "score": 43,
+      "score": 45,
       "by": "billpg",
       "time": 1773329481,
-      "comments": 78,
+      "comments": 90,
       "domain": "owl.billpg.com"
     },
     {
@@ -262,34 +272,24 @@
       "domain": "timstr.website"
     },
     {
-      "id": 47353957,
-      "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
-      "url": "https://github.com/understudy-ai/understudy",
-      "score": 72,
-      "by": "bayes-song",
-      "time": 1773335075,
-      "comments": 19,
-      "domain": "github.com"
-    },
-    {
       "id": 47350136,
       "title": "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
       "url": "https://e360.yale.edu/features/fungi-kingdom",
-      "score": 75,
+      "score": 79,
       "by": "speckx",
       "time": 1773321371,
-      "comments": 20,
+      "comments": 21,
       "domain": "e360.yale.edu"
     },
     {
-      "id": 47319539,
-      "title": "DDR4 Sdram – Initialization, Training and Calibration",
-      "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
-      "score": 54,
-      "by": "todsacerdoti",
-      "time": 1773122547,
-      "comments": 13,
-      "domain": "systemverilog.io"
+      "id": 47353957,
+      "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+      "url": "https://github.com/understudy-ai/understudy",
+      "score": 74,
+      "by": "bayes-song",
+      "time": 1773335075,
+      "comments": 21,
+      "domain": "github.com"
     }
   ]
 }
