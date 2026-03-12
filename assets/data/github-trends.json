@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-12T18:09:15.160Z",
+  "lastUpdated": "2026-03-12T19:09:42.268Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 28109,
+      "stars": 28191,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T18:08:40Z"
+      "updated_at": "2026-03-12T19:08:34Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 8277,
+      "stars": 8370,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T18:08:32Z"
+      "updated_at": "2026-03-12T19:09:39Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 5024,
+      "stars": 5039,
       "language": "HTML",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T18:08:26Z"
+      "updated_at": "2026-03-12T19:09:21Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 2129,
+      "stars": 2142,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T18:08:27Z"
-    },
-    {
-      "id": 1174042197,
-      "name": "cyxzdev/Uncodixfy",
-      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1438,
-      "language": null,
-      "url": "https://github.com/cyxzdev/Uncodixfy",
-      "owner": {
-        "login": "cyxzdev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
-      },
-      "updated_at": "2026-03-12T18:04:26Z"
+      "updated_at": "2026-03-12T19:06:37Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 1222,
+      "stars": 1456,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-12T18:09:14Z"
+      "updated_at": "2026-03-12T19:09:42Z"
+    },
+    {
+      "id": 1174042197,
+      "name": "cyxzdev/Uncodixfy",
+      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
+      "stars": 1441,
+      "language": null,
+      "url": "https://github.com/cyxzdev/Uncodixfy",
+      "owner": {
+        "login": "cyxzdev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
+      },
+      "updated_at": "2026-03-12T18:30:51Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 1071,
+      "stars": 1073,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-12T17:04:49Z"
+      "updated_at": "2026-03-12T18:48:05Z"
     },
     {
       "id": 1175748667,
@@ -109,27 +109,27 @@
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 734,
+      "stars": 735,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-12T17:19:40Z"
+      "updated_at": "2026-03-12T18:15:41Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 712,
+      "stars": 726,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T18:05:06Z"
+      "updated_at": "2026-03-12T19:06:28Z"
     },
     {
       "id": 1177515818,
@@ -148,14 +148,14 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 676,
+      "stars": 680,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T17:32:00Z"
+      "updated_at": "2026-03-12T19:08:01Z"
     },
     {
       "id": 1175638196,
@@ -184,6 +184,19 @@
       "updated_at": "2026-03-12T17:19:43Z"
     },
     {
+      "id": 1179164349,
+      "name": "chrisworsey55/atlas-gic",
+      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+      "stars": 553,
+      "language": null,
+      "url": "https://github.com/chrisworsey55/atlas-gic",
+      "owner": {
+        "login": "chrisworsey55",
+        "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
+      },
+      "updated_at": "2026-03-12T19:05:00Z"
+    },
+    {
       "id": 1176774227,
       "name": "Kaleighc793/freqtrade-bot",
       "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface",
@@ -197,30 +210,30 @@
       "updated_at": "2026-03-12T12:26:58Z"
     },
     {
-      "id": 1179164349,
-      "name": "chrisworsey55/atlas-gic",
-      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 539,
-      "language": null,
-      "url": "https://github.com/chrisworsey55/atlas-gic",
+      "id": 1176898834,
+      "name": "aiming-lab/MetaClaw",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "stars": 548,
+      "language": "Python",
+      "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
-        "login": "chrisworsey55",
-        "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
+        "login": "aiming-lab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-12T18:07:34Z"
+      "updated_at": "2026-03-12T19:05:54Z"
     },
     {
       "id": 1175466161,
       "name": "HumeAI/tada",
       "description": "Open Source Speech Language Model",
-      "stars": 538,
+      "stars": 547,
       "language": "Jupyter Notebook",
       "url": "https://github.com/HumeAI/tada",
       "owner": {
         "login": "HumeAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
       },
-      "updated_at": "2026-03-12T17:50:07Z"
+      "updated_at": "2026-03-12T19:09:40Z"
     },
     {
       "id": 1176760507,
@@ -236,30 +249,17 @@
       "updated_at": "2026-03-12T13:28:09Z"
     },
     {
-      "id": 1176898834,
-      "name": "aiming-lab/MetaClaw",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 533,
-      "language": "Python",
-      "url": "https://github.com/aiming-lab/MetaClaw",
-      "owner": {
-        "login": "aiming-lab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
-      },
-      "updated_at": "2026-03-12T18:07:00Z"
-    },
-    {
       "id": 1175489176,
       "name": "Emanuele-web04/remodex",
       "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 513,
+      "stars": 520,
       "language": "Swift",
       "url": "https://github.com/Emanuele-web04/remodex",
       "owner": {
         "login": "Emanuele-web04",
         "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
       },
-      "updated_at": "2026-03-12T18:07:16Z"
+      "updated_at": "2026-03-12T19:09:24Z"
     }
   ]
 }
