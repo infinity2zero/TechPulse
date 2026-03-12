@@ -1,148 +1,148 @@
 {
-  "lastUpdated": "2026-03-12T02:31:28.387Z",
+  "lastUpdated": "2026-03-12T04:26:09.127Z",
   "items": [
     {
       "id": 1174820787,
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 26383,
+      "stars": 26602,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-12T02:30:51Z"
+      "updated_at": "2026-03-12T04:25:52Z"
     },
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 5635,
+      "stars": 5995,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-12T02:31:28Z"
+      "updated_at": "2026-03-12T04:25:56Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。",
-      "stars": 3099,
+      "stars": 3508,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-12T02:31:26Z"
+      "updated_at": "2026-03-12T04:25:37Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 1871,
+      "stars": 1892,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-12T02:30:46Z"
+      "updated_at": "2026-03-12T04:24:39Z"
     },
     {
       "id": 1174042197,
       "name": "cyxzdev/Uncodixfy",
       "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
-      "stars": 1418,
+      "stars": 1421,
       "language": null,
       "url": "https://github.com/cyxzdev/Uncodixfy",
       "owner": {
         "login": "cyxzdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/228589244?v=4"
       },
-      "updated_at": "2026-03-12T01:48:48Z"
+      "updated_at": "2026-03-12T04:16:20Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 1007,
+      "stars": 1013,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-12T02:16:46Z"
-    },
-    {
-      "id": 1175638196,
-      "name": "imbue-bit/OpenClaw-PwnKit",
-      "description": "Get shell to almost any OpenClaw host machine.",
-      "stars": 696,
-      "language": "Python",
-      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
-      "owner": {
-        "login": "imbue-bit",
-        "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
-      },
-      "updated_at": "2026-03-12T01:52:59Z"
+      "updated_at": "2026-03-12T03:42:56Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 679,
+      "stars": 697,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-12T02:28:39Z"
+      "updated_at": "2026-03-12T04:24:16Z"
+    },
+    {
+      "id": 1175638196,
+      "name": "imbue-bit/OpenClaw-PwnKit",
+      "description": "Get shell to almost any OpenClaw host machine.",
+      "stars": 664,
+      "language": "Python",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+      "owner": {
+        "login": "imbue-bit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/219517514?v=4"
+      },
+      "updated_at": "2026-03-12T03:44:43Z"
     },
     {
       "id": 1177515818,
       "name": "photon-hq/qclaw-wechat-client",
       "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 630,
+      "stars": 649,
       "language": "TypeScript",
       "url": "https://github.com/photon-hq/qclaw-wechat-client",
       "owner": {
         "login": "photon-hq",
         "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
       },
-      "updated_at": "2026-03-12T02:27:49Z"
+      "updated_at": "2026-03-12T04:24:01Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 623,
+      "stars": 629,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-12T01:34:49Z"
+      "updated_at": "2026-03-12T03:37:02Z"
     },
     {
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 553,
+      "stars": 584,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-12T02:31:00Z"
+      "updated_at": "2026-03-12T04:22:04Z"
     },
     {
       "id": 1176774227,
@@ -161,27 +161,27 @@
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 539,
+      "stars": 542,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-12T01:28:17Z"
+      "updated_at": "2026-03-12T03:54:52Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 505,
+      "stars": 527,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-12T02:27:34Z"
+      "updated_at": "2026-03-12T04:09:25Z"
     },
     {
       "id": 1175225759,
@@ -200,27 +200,40 @@
       "id": 1174307959,
       "name": "OasAIStudio/symphony-ts",
       "description": "Typecript version of https://github.com/openai/symphony",
-      "stars": 444,
+      "stars": 445,
       "language": "TypeScript",
       "url": "https://github.com/OasAIStudio/symphony-ts",
       "owner": {
         "login": "OasAIStudio",
         "avatar_url": "https://avatars.githubusercontent.com/u/264579731?v=4"
       },
-      "updated_at": "2026-03-12T02:26:56Z"
+      "updated_at": "2026-03-12T03:26:20Z"
     },
     {
       "id": 1175763100,
       "name": "uluckyXH/OpenMOSS",
       "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-      "stars": 423,
+      "stars": 431,
       "language": "Python",
       "url": "https://github.com/uluckyXH/OpenMOSS",
       "owner": {
         "login": "uluckyXH",
         "avatar_url": "https://avatars.githubusercontent.com/u/52094985?v=4"
       },
-      "updated_at": "2026-03-12T02:26:57Z"
+      "updated_at": "2026-03-12T04:26:01Z"
+    },
+    {
+      "id": 1175466161,
+      "name": "HumeAI/tada",
+      "description": "Open Source Speech Language Model",
+      "stars": 423,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/HumeAI/tada",
+      "owner": {
+        "login": "HumeAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
+      },
+      "updated_at": "2026-03-12T04:14:59Z"
     },
     {
       "id": 1176128802,
@@ -239,27 +252,14 @@
       "id": 1175849859,
       "name": "joeseesun/qiaomu-mondo-poster-design",
       "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
-      "stars": 415,
+      "stars": 416,
       "language": "Python",
       "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
       "owner": {
         "login": "joeseesun",
         "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
       },
-      "updated_at": "2026-03-12T02:17:28Z"
-    },
-    {
-      "id": 1175489176,
-      "name": "Emanuele-web04/remodex",
-      "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 405,
-      "language": "Swift",
-      "url": "https://github.com/Emanuele-web04/remodex",
-      "owner": {
-        "login": "Emanuele-web04",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
-      },
-      "updated_at": "2026-03-12T02:26:37Z"
+      "updated_at": "2026-03-12T03:44:46Z"
     }
   ]
 }
