@@ -1,164 +1,164 @@
 {
-  "lastUpdated": "2026-03-13T06:50:36.431Z",
+  "lastUpdated": "2026-03-13T07:35:26.987Z",
   "items": [
     {
       "id": 47307124,
       "title": "Willingness to look stupid",
       "url": "https://sharif.io/looking-stupid",
-      "score": 149,
+      "score": 191,
       "by": "Samin100",
       "time": 1773051718,
-      "comments": 60,
+      "comments": 75,
       "domain": "sharif.io"
     },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 1171,
+      "score": 1199,
       "by": "microflash",
       "time": 1773322924,
-      "comments": 428,
+      "comments": 435,
       "domain": "malus.sh"
     },
     {
       "id": 47360730,
       "title": "Vite 8.0 Is Out",
       "url": "https://vite.dev/blog/announcing-vite8",
-      "score": 121,
+      "score": 172,
       "by": "kothariji",
       "time": 1773376600,
-      "comments": 8,
+      "comments": 22,
       "domain": "vite.dev"
+    },
+    {
+      "id": 47301017,
+      "title": "Prefix sums at gigabytes per second with ARM NEON",
+      "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+      "score": 17,
+      "by": "mfiguiere",
+      "time": 1773001346,
+      "comments": 2,
+      "domain": "lemire.me"
+    },
+    {
+      "id": 47360383,
+      "title": "Hyperlinks in Terminal Emulators",
+      "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+      "score": 33,
+      "by": "nvahalik",
+      "time": 1773372738,
+      "comments": 18,
+      "domain": "gist.github.com"
+    },
+    {
+      "id": 47359744,
+      "title": "“This is not the computer for you”",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "score": 294,
+      "by": "MBCook",
+      "time": 1773366349,
+      "comments": 136,
+      "domain": "samhenri.gold"
     },
     {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 307,
+      "score": 314,
       "by": "eieio",
       "time": 1773335636,
-      "comments": 94,
+      "comments": 95,
       "domain": "parametricavocado.itch.io"
     },
     {
       "id": 47357042,
       "title": "Shall I implement it? No",
       "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 1138,
+      "score": 1175,
       "by": "breton",
       "time": 1773349270,
-      "comments": 430,
-      "domain": "gist.github.com"
-    },
-    {
-      "id": 47360383,
-      "title": "Hyperlinks in Terminal Emulators",
-      "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
-      "score": 22,
-      "by": "nvahalik",
-      "time": 1773372738,
-      "comments": 8,
+      "comments": 445,
       "domain": "gist.github.com"
     },
     {
       "id": 47351371,
       "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 387,
+      "score": 393,
       "by": "colinprince",
       "time": 1773326937,
-      "comments": 416,
+      "comments": 421,
       "domain": "davidoks.blog"
-    },
-    {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 248,
-      "by": "MBCook",
-      "time": 1773366349,
-      "comments": 122,
-      "domain": "samhenri.gold"
     },
     {
       "id": 47353533,
       "title": "Reversing memory loss via gut-brain communication",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 284,
+      "score": 292,
       "by": "mustaphah",
       "time": 1773333531,
-      "comments": 112,
+      "comments": 115,
       "domain": "med.stanford.edu"
     },
     {
       "id": 47309940,
       "title": "Understanding the Go Runtime: The Scheduler",
       "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
-      "score": 80,
+      "score": 90,
       "by": "valyala",
       "time": 1773068071,
       "comments": 3,
       "domain": "internals-for-interns.com"
     },
     {
-      "id": 47301017,
-      "title": "Prefix sums at gigabytes per second with ARM NEON",
-      "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
-      "score": 9,
-      "by": "mfiguiere",
-      "time": 1773001346,
-      "comments": 0,
-      "domain": "lemire.me"
+      "id": 47347977,
+      "title": "Celebrating Interesting Flickr Technologies",
+      "url": "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2",
+      "score": 27,
+      "by": "steerpike",
+      "time": 1773304380,
+      "comments": 6,
+      "domain": "medium.com"
     },
     {
       "id": 47350407,
       "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
       "url": "https://aminrj.com/posts/rag-document-poisoning/",
-      "score": 105,
+      "score": 109,
       "by": "aminerj",
       "time": 1773322836,
-      "comments": 40,
+      "comments": 41,
       "domain": "aminrj.com"
     },
     {
       "id": 47352459,
       "title": "The Met releases high-def 3D scans of 140 famous art objects",
       "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 261,
+      "score": 265,
       "by": "coloneltcb",
       "time": 1773330219,
       "comments": 50,
       "domain": "openculture.com"
     },
     {
-      "id": 47347977,
-      "title": "Celebrating Interesting Flickr Technologies",
-      "url": "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2",
-      "score": 20,
-      "by": "steerpike",
-      "time": 1773304380,
-      "comments": 4,
-      "domain": "medium.com"
-    },
-    {
       "id": 47308547,
       "title": "IMG_0416 (2024)",
       "url": "https://ben-mini.com/2024/img-0416",
-      "score": 53,
+      "score": 64,
       "by": "TigerUniversity",
       "time": 1773061665,
-      "comments": 6,
+      "comments": 9,
       "domain": "ben-mini.com"
     },
     {
       "id": 47349806,
       "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
       "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "score": 332,
+      "score": 342,
       "by": "JumpCrisscross",
       "time": 1773319485,
-      "comments": 397,
+      "comments": 400,
       "domain": "marketscreener.com"
     },
     {
@@ -172,54 +172,84 @@
       "domain": "pbj.deliberateinc.com"
     },
     {
-      "id": 47358206,
-      "title": "Grief and the AI split",
-      "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-      "score": 117,
-      "by": "avernet",
-      "time": 1773354908,
-      "comments": 172,
-      "domain": "blog.lmorchard.com"
-    },
-    {
       "id": 47356392,
       "title": "Bringing Chrome to ARM64 Linux Devices",
       "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
-      "score": 87,
+      "score": 92,
       "by": "ingve",
       "time": 1773346395,
       "comments": 44,
       "domain": "blog.chromium.org"
     },
     {
+      "id": 47296426,
+      "title": "Never Snooze a Future",
+      "url": "https://jacko.io/snooze.html",
+      "score": 3,
+      "by": "vinhnx",
+      "time": 1772968646,
+      "comments": 0,
+      "domain": "jacko.io"
+    },
+    {
+      "id": 47358206,
+      "title": "Grief and the AI split",
+      "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+      "score": 124,
+      "by": "avernet",
+      "time": 1773354908,
+      "comments": 193,
+      "domain": "blog.lmorchard.com"
+    },
+    {
       "id": 47356968,
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
       "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 545,
+      "score": 563,
       "by": "rectang",
       "time": 1773348951,
-      "comments": 281,
+      "comments": 290,
       "domain": "grandforksherald.com"
     },
     {
       "id": 47349277,
       "title": "Big data on the cheapest MacBook",
       "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "score": 340,
+      "score": 342,
       "by": "bcye",
       "time": 1773315674,
-      "comments": 273,
+      "comments": 276,
       "domain": "duckdb.org"
     },
     {
       "id": 47352385,
       "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
       "url": "https://github.com/wolfssl/wolfip",
-      "score": 119,
+      "score": 123,
       "by": "789c789c789c",
       "time": 1773329990,
       "comments": 19,
       "domain": "github.com"
+    },
+    {
+      "id": 47323629,
+      "title": "The Unpredicted vs. the Over-Expected",
+      "url": "https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected",
+      "score": 11,
+      "by": "surprisetalk",
+      "time": 1773152305,
+      "comments": 0,
+      "domain": "kevinkelly.substack.com"
+    },
+    {
+      "id": 47349334,
+      "title": "Are LLM merge rates not getting better?",
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "score": 141,
+      "by": "4diii",
+      "time": 1773316145,
+      "comments": 125,
+      "domain": "entropicthoughts.com"
     },
     {
       "id": 47355410,
@@ -228,37 +258,17 @@
       "score": 61,
       "by": "vshah1016",
       "time": 1773341556,
-      "comments": 24,
+      "comments": 25,
       "domain": "ionrouter.io"
-    },
-    {
-      "id": 47349334,
-      "title": "Are LLM merge rates not getting better?",
-      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "score": 135,
-      "by": "4diii",
-      "time": 1773316145,
-      "comments": 120,
-      "domain": "entropicthoughts.com"
-    },
-    {
-      "id": 47360760,
-      "title": "Show HN: Global Maritime Chokepoints",
-      "url": "https://ryanshook.org/chokepoints/",
-      "score": 5,
-      "by": "RyanShook",
-      "time": 1773376942,
-      "comments": 1,
-      "domain": "ryanshook.org"
     },
     {
       "id": 47350516,
       "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
       "url": "https://github.com/jrswab/axe",
-      "score": 174,
+      "score": 179,
       "by": "jrswab",
       "time": 1773323352,
-      "comments": 100,
+      "comments": 101,
       "domain": "github.com"
     },
     {
@@ -275,7 +285,7 @@
       "id": 47350136,
       "title": "Long overlooked as crucial to life, fungi start to get their due",
       "url": "https://e360.yale.edu/features/fungi-kingdom",
-      "score": 123,
+      "score": 125,
       "by": "speckx",
       "time": 1773321371,
       "comments": 39,
@@ -285,21 +295,11 @@
       "id": 47360978,
       "title": "Lost Doctor Who Episodes Found",
       "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
-      "score": 12,
+      "score": 21,
       "by": "edent",
       "time": 1773379081,
-      "comments": 1,
+      "comments": 2,
       "domain": "bbc.co.uk"
-    },
-    {
-      "id": 47319539,
-      "title": "DDR4 Sdram – Initialization, Training and Calibration",
-      "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
-      "score": 90,
-      "by": "todsacerdoti",
-      "time": 1773122547,
-      "comments": 19,
-      "domain": "systemverilog.io"
     }
   ]
 }
