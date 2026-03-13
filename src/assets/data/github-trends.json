@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-13T21:59:24.410Z",
+  "lastUpdated": "2026-03-13T22:29:38.985Z",
   "items": [
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 11495,
+      "stars": 11517,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-13T21:57:45Z"
+      "updated_at": "2026-03-13T22:29:35Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 6565,
+      "stars": 6566,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-13T21:50:16Z"
+      "updated_at": "2026-03-13T22:12:57Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 5656,
+      "stars": 5733,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-13T21:59:22Z"
+      "updated_at": "2026-03-13T22:29:33Z"
     },
     {
       "id": 1175285052,
       "name": "ParthJadhav/app-store-screenshots",
       "description": "end to end app store screenshot creation using AI",
-      "stars": 2392,
+      "stars": 2397,
       "language": null,
       "url": "https://github.com/ParthJadhav/app-store-screenshots",
       "owner": {
         "login": "ParthJadhav",
         "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
       },
-      "updated_at": "2026-03-13T21:57:27Z"
+      "updated_at": "2026-03-13T22:27:08Z"
     },
     {
       "id": 1175870738,
@@ -70,53 +70,53 @@
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1082,
+      "stars": 1096,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-13T21:54:14Z"
+      "updated_at": "2026-03-13T22:26:44Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 969,
+      "stars": 972,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-13T21:57:07Z"
-    },
-    {
-      "id": 1178813768,
-      "name": "TianyiDataScience/openclaw-control-center",
-      "description": null,
-      "stars": 955,
-      "language": "TypeScript",
-      "url": "https://github.com/TianyiDataScience/openclaw-control-center",
-      "owner": {
-        "login": "TianyiDataScience",
-        "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
-      },
-      "updated_at": "2026-03-13T21:58:36Z"
+      "updated_at": "2026-03-13T22:26:23Z"
     },
     {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 951,
+      "stars": 956,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-13T21:55:29Z"
+      "updated_at": "2026-03-13T22:21:13Z"
+    },
+    {
+      "id": 1178813768,
+      "name": "TianyiDataScience/openclaw-control-center",
+      "description": null,
+      "stars": 956,
+      "language": "TypeScript",
+      "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+      "owner": {
+        "login": "TianyiDataScience",
+        "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
+      },
+      "updated_at": "2026-03-13T22:07:25Z"
     },
     {
       "id": 1175748667,
@@ -148,27 +148,40 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 810,
+      "stars": 813,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-13T21:37:09Z"
+      "updated_at": "2026-03-13T22:10:44Z"
     },
     {
       "id": 1175489176,
       "name": "Emanuele-web04/remodex",
       "description": "Remote Control for Codex. 24/7 version on the way",
-      "stars": 743,
+      "stars": 748,
       "language": "Swift",
       "url": "https://github.com/Emanuele-web04/remodex",
       "owner": {
         "login": "Emanuele-web04",
         "avatar_url": "https://avatars.githubusercontent.com/u/127427797?v=4"
       },
-      "updated_at": "2026-03-13T21:43:47Z"
+      "updated_at": "2026-03-13T22:25:34Z"
+    },
+    {
+      "id": 1176340473,
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": 735,
+      "language": "C",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "owner": {
+        "login": "NawfalMotii79",
+        "avatar_url": "https://avatars.githubusercontent.com/u/215612484?v=4"
+      },
+      "updated_at": "2026-03-13T22:29:22Z"
     },
     {
       "id": 1179164349,
@@ -197,30 +210,17 @@
       "updated_at": "2026-03-13T21:21:41Z"
     },
     {
-      "id": 1176340473,
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 702,
-      "language": "C",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "owner": {
-        "login": "NawfalMotii79",
-        "avatar_url": "https://avatars.githubusercontent.com/u/215612484?v=4"
-      },
-      "updated_at": "2026-03-13T21:59:20Z"
-    },
-    {
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 665,
+      "stars": 668,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-13T21:57:13Z"
+      "updated_at": "2026-03-13T22:26:16Z"
     },
     {
       "id": 1175466161,
@@ -249,17 +249,17 @@
       "updated_at": "2026-03-13T21:01:12Z"
     },
     {
-      "id": 1176128802,
-      "name": "kamranahmedse/claude-statusline",
-      "description": "Minimal Claude Code statusline setup I personally use",
-      "stars": 578,
-      "language": "Shell",
-      "url": "https://github.com/kamranahmedse/claude-statusline",
+      "id": 1178353904,
+      "name": "RightNow-AI/autokernel",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "stars": 580,
+      "language": "Python",
+      "url": "https://github.com/RightNow-AI/autokernel",
       "owner": {
-        "login": "kamranahmedse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+        "login": "RightNow-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-13T21:08:11Z"
+      "updated_at": "2026-03-13T22:23:42Z"
     }
   ]
 }
