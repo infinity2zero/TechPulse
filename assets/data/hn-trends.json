@@ -1,125 +1,155 @@
 {
-  "lastUpdated": "2026-03-14T10:57:41.797Z",
+  "lastUpdated": "2026-03-14T11:21:50.181Z",
   "items": [
     {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
-      "score": 744,
+      "score": 763,
       "by": "meetpateltech",
       "time": 1773422341,
-      "comments": 290,
+      "comments": 297,
       "domain": "claude.com"
     },
     {
       "id": 47318386,
       "title": "A Survival Guide to a PhD (2016)",
       "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "score": 99,
+      "score": 105,
       "by": "vismit2000",
       "time": 1773109011,
-      "comments": 51,
+      "comments": 55,
       "domain": "karpathy.github.io"
     },
     {
       "id": 47363584,
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 579,
+      "score": 587,
       "by": "johnbarron",
       "time": 1773405069,
-      "comments": 504,
+      "comments": 507,
       "domain": "tomshardware.com"
     },
     {
       "id": 47323625,
       "title": "You gotta think outside the hypercube",
       "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "score": 61,
+      "score": 64,
       "by": "surprisetalk",
       "time": 1773152301,
-      "comments": 16,
+      "comments": 18,
       "domain": "lcamtuf.substack.com"
     },
     {
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 505,
+      "score": 513,
       "by": "kilroy123",
       "time": 1773239697,
-      "comments": 151,
+      "comments": 152,
       "domain": "channelsurfer.tv"
     },
     {
       "id": 47347920,
       "title": "The Isolation Trap: Erlang",
       "url": "https://causality.blog/essays/the-isolation-trap/",
-      "score": 42,
+      "score": 47,
       "by": "enz",
       "time": 1773303752,
-      "comments": 5,
+      "comments": 7,
       "domain": "causality.blog"
-    },
-    {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 319,
-      "by": "avionics-guy",
-      "time": 1773427374,
-      "comments": 89,
-      "domain": "github.com"
-    },
-    {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 287,
-      "by": "tosh",
-      "time": 1773426852,
-      "comments": 105,
-      "domain": "github.com"
     },
     {
       "id": 47330946,
       "title": "Recursive Problems Benefit from Recursive Solutions",
       "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
-      "score": 20,
+      "score": 24,
       "by": "luispa",
       "time": 1773193603,
       "comments": 5,
       "domain": "jnkr.tech"
     },
     {
-      "id": 47319071,
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "score": 147,
-      "by": "psibi",
-      "time": 1773116492,
-      "comments": 84,
-      "domain": "batsov.com"
+      "id": 47339219,
+      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "score": 14,
+      "by": "timhh",
+      "time": 1773253318,
+      "comments": 1,
+      "domain": "crowdsupply.com"
     },
     {
-      "id": 47371064,
-      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 130,
-      "by": "kernelrocks",
-      "time": 1773442325,
-      "comments": 31,
-      "domain": "benzimmermann.dev"
+      "id": 47368033,
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
+      "score": 324,
+      "by": "avionics-guy",
+      "time": 1773427374,
+      "comments": 90,
+      "domain": "github.com"
+    },
+    {
+      "id": 47375008,
+      "title": "UCP Protocol: The Internet Has 100M Shops and No Front Door",
+      "url": "https://askucp.com/blog",
+      "score": 5,
+      "by": "defencetechhn",
+      "time": 1773482080,
+      "comments": 2,
+      "domain": "askucp.com"
+    },
+    {
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 290,
+      "by": "tosh",
+      "time": 1773426852,
+      "comments": 105,
+      "domain": "github.com"
     },
     {
       "id": 47340203,
       "title": "Wired headphone sales are exploding",
       "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-      "score": 136,
+      "score": 145,
       "by": "billybuckwheat",
       "time": 1773257866,
-      "comments": 228,
+      "comments": 248,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47371064,
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 131,
+      "by": "kernelrocks",
+      "time": 1773442325,
+      "comments": 32,
+      "domain": "benzimmermann.dev"
+    },
+    {
+      "id": 47363754,
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "score": 1236,
+      "by": "ricardbejarano",
+      "time": 1773405970,
+      "comments": 306,
+      "domain": "canirun.ai"
+    },
+    {
+      "id": 47327155,
+      "title": "AEP (API Design Standard and Tooling Ecosystem)",
+      "url": "https://aep.dev/",
+      "score": 16,
+      "by": "rambleraptor",
+      "time": 1773167898,
+      "comments": 3,
+      "domain": "aep.dev"
     },
     {
       "id": 47364729,
@@ -128,97 +158,77 @@
       "score": 272,
       "by": "tosh",
       "time": 1773411096,
-      "comments": 379,
+      "comments": 382,
       "domain": "macrumors.com"
-    },
-    {
-      "id": 47363754,
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "score": 1226,
-      "by": "ricardbejarano",
-      "time": 1773405970,
-      "comments": 302,
-      "domain": "canirun.ai"
-    },
-    {
-      "id": 47327155,
-      "title": "AEP (API Design Standard and Tooling Ecosystem)",
-      "url": "https://aep.dev/",
-      "score": 12,
-      "by": "rambleraptor",
-      "time": 1773167898,
-      "comments": 2,
-      "domain": "aep.dev"
     },
     {
       "id": 47339403,
       "title": "Atari 2600 BASIC Programming (2015)",
       "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
-      "score": 28,
+      "score": 29,
       "by": "mondobe",
       "time": 1773254139,
       "comments": 6,
       "domain": "huguesjohnson.com"
     },
     {
-      "id": 47374745,
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "url": "https://github.com/drojaazu/megadev",
-      "score": 4,
-      "by": "XzetaU8",
-      "time": 1773479079,
-      "comments": 0,
-      "domain": "github.com"
+      "id": 47319071,
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "score": 152,
+      "by": "psibi",
+      "time": 1773116492,
+      "comments": 92,
+      "domain": "batsov.com"
     },
     {
       "id": 47372672,
       "title": "Optimizing Content for Agents",
       "url": "https://cra.mr/optimizing-content-for-agents/",
-      "score": 44,
+      "score": 46,
       "by": "vinhnx",
       "time": 1773455220,
-      "comments": 17,
+      "comments": 18,
       "domain": "cra.mr"
     },
     {
       "id": 47368135,
       "title": "Digg is gone again",
       "url": "https://digg.com/",
-      "score": 191,
+      "score": 194,
       "by": "hammerbrostime",
       "time": 1773427937,
-      "comments": 174,
+      "comments": 176,
       "domain": "digg.com"
     },
     {
       "id": 47371692,
       "title": "Games with loot boxes to get minimum 16 age rating across Europe",
       "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "score": 205,
+      "score": 211,
       "by": "gostsamo",
       "time": 1773446557,
-      "comments": 112,
+      "comments": 119,
       "domain": "bbc.com"
     },
     {
-      "id": 47339219,
-      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
-      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "id": 47374745,
+      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+      "url": "https://github.com/drojaazu/megadev",
       "score": 5,
-      "by": "timhh",
-      "time": 1773253318,
+      "by": "XzetaU8",
+      "time": 1773479079,
       "comments": 0,
-      "domain": "crowdsupply.com"
+      "domain": "github.com"
     },
     {
       "id": 47371275,
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
       "url": "https://lr0.org/blog/p/crocker/",
-      "score": 72,
+      "score": 77,
       "by": "ghd_",
       "time": 1773443677,
-      "comments": 111,
+      "comments": 114,
       "domain": "lr0.org"
     },
     {
@@ -228,38 +238,48 @@
       "score": 89,
       "by": "wjSgoWPm5bWAhXB",
       "time": 1773261984,
-      "comments": 54,
+      "comments": 55,
       "domain": "unsw.edu.au"
     },
     {
       "id": 47348733,
       "title": "Coding after coders: The end of computer programming as we know it?",
       "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
-      "score": 125,
+      "score": 129,
       "by": "angst",
       "time": 1773311385,
-      "comments": 157,
+      "comments": 159,
       "domain": "nytimes.com"
     },
     {
       "id": 47366666,
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 439,
+      "score": 443,
       "by": "merksittich",
       "time": 1773420042,
-      "comments": 656,
+      "comments": 662,
       "domain": "ft.com"
     },
     {
       "id": 47320158,
       "title": "Using Thunderbird for RSS",
       "url": "https://rubenerd.com/using-thunderbird-for-rss/",
-      "score": 102,
+      "score": 104,
       "by": "ingve",
       "time": 1773128339,
       "comments": 29,
       "domain": "rubenerd.com"
+    },
+    {
+      "id": 47375085,
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+      "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+      "score": 10,
+      "by": "edward",
+      "time": 1773482758,
+      "comments": 1,
+      "domain": "tomshardware.com"
     },
     {
       "id": 47371922,
@@ -268,38 +288,18 @@
       "score": 71,
       "by": "barry-cotter",
       "time": 1773448190,
-      "comments": 23,
+      "comments": 25,
       "domain": "moultano.wordpress.com"
-    },
-    {
-      "id": 47364116,
-      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-      "url": "https://www.getspine.ai/",
-      "score": 98,
-      "by": "a24venka",
-      "time": 1773408160,
-      "comments": 67,
-      "domain": "getspine.ai"
     },
     {
       "id": 47367526,
       "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
       "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "score": 79,
+      "score": 81,
       "by": "ivzak",
       "time": 1773424702,
-      "comments": 48,
+      "comments": 49,
       "domain": "github.com"
-    },
-    {
-      "id": 47368430,
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "score": 78,
-      "by": "eatonphil",
-      "time": 1773429306,
-      "comments": 44,
-      "domain": "news.stanford.edu"
     }
   ]
 }
