@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-14T20:37:59.183Z",
+  "lastUpdated": "2026-03-14T20:57:18.714Z",
   "items": [
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 13516,
+      "stars": 13534,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-14T20:37:45Z"
+      "updated_at": "2026-03-14T20:56:10Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 9828,
+      "stars": 9875,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-14T20:37:57Z"
+      "updated_at": "2026-03-14T20:57:13Z"
     },
     {
       "id": 1176129893,
@@ -44,27 +44,27 @@
       "id": 1176340473,
       "name": "NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 1540,
+      "stars": 1558,
       "language": "C",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "owner": {
         "login": "NawfalMotii79",
         "avatar_url": "https://avatars.githubusercontent.com/u/215612484?v=4"
       },
-      "updated_at": "2026-03-14T20:37:44Z"
+      "updated_at": "2026-03-14T20:56:42Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1530,
+      "stars": 1534,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-14T20:33:48Z"
+      "updated_at": "2026-03-14T20:56:44Z"
     },
     {
       "id": 1178813768,
@@ -93,43 +93,43 @@
       "updated_at": "2026-03-14T19:46:28Z"
     },
     {
-      "id": 1176898834,
-      "name": "aiming-lab/MetaClaw",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1109,
-      "language": "Python",
-      "url": "https://github.com/aiming-lab/MetaClaw",
-      "owner": {
-        "login": "aiming-lab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
-      },
-      "updated_at": "2026-03-14T20:22:26Z"
-    },
-    {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1108,
+      "stars": 1115,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-14T20:37:25Z"
+      "updated_at": "2026-03-14T20:56:56Z"
+    },
+    {
+      "id": 1176898834,
+      "name": "aiming-lab/MetaClaw",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "stars": 1111,
+      "language": "Python",
+      "url": "https://github.com/aiming-lab/MetaClaw",
+      "owner": {
+        "login": "aiming-lab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+      },
+      "updated_at": "2026-03-14T20:46:40Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 1062,
+      "stars": 1063,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-14T19:59:11Z"
+      "updated_at": "2026-03-14T20:42:02Z"
     },
     {
       "id": 1176469774,
@@ -148,40 +148,40 @@
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 906,
+      "stars": 907,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-14T20:17:18Z"
+      "updated_at": "2026-03-14T20:43:06Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 838,
+      "stars": 842,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-14T20:35:51Z"
+      "updated_at": "2026-03-14T20:54:30Z"
     },
     {
       "id": 1177608268,
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 833,
+      "stars": 834,
       "language": "Python",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "owner": {
         "login": "wanshuiyin",
         "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
       },
-      "updated_at": "2026-03-14T20:24:53Z"
+      "updated_at": "2026-03-14T20:44:43Z"
     },
     {
       "id": 1179164349,
@@ -226,14 +226,14 @@
       "id": 1176414483,
       "name": "dongsheng123132/u-claw",
       "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
-      "stars": 661,
+      "stars": 662,
       "language": "HTML",
       "url": "https://github.com/dongsheng123132/u-claw",
       "owner": {
         "login": "dongsheng123132",
         "avatar_url": "https://avatars.githubusercontent.com/u/90887123?v=4"
       },
-      "updated_at": "2026-03-14T19:13:55Z"
+      "updated_at": "2026-03-14T20:42:11Z"
     },
     {
       "id": 1178353904,
@@ -252,14 +252,14 @@
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 606,
+      "stars": 607,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-14T19:52:14Z"
+      "updated_at": "2026-03-14T20:51:42Z"
     }
   ]
 }
