@@ -1,41 +1,51 @@
 {
-  "lastUpdated": "2026-03-14T11:21:50.181Z",
+  "lastUpdated": "2026-03-14T11:43:01.643Z",
   "items": [
     {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
-      "score": 763,
+      "score": 783,
       "by": "meetpateltech",
       "time": 1773422341,
-      "comments": 297,
+      "comments": 304,
       "domain": "claude.com"
+    },
+    {
+      "id": 47339219,
+      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "score": 26,
+      "by": "timhh",
+      "time": 1773253318,
+      "comments": 2,
+      "domain": "crowdsupply.com"
     },
     {
       "id": 47318386,
       "title": "A Survival Guide to a PhD (2016)",
       "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "score": 105,
+      "score": 110,
       "by": "vismit2000",
       "time": 1773109011,
-      "comments": 55,
+      "comments": 58,
       "domain": "karpathy.github.io"
     },
     {
       "id": 47363584,
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 587,
+      "score": 597,
       "by": "johnbarron",
       "time": 1773405069,
-      "comments": 507,
+      "comments": 510,
       "domain": "tomshardware.com"
     },
     {
       "id": 47323625,
       "title": "You gotta think outside the hypercube",
       "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "score": 64,
+      "score": 68,
       "by": "surprisetalk",
       "time": 1773152301,
       "comments": 18,
@@ -45,81 +55,81 @@
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 513,
+      "score": 524,
       "by": "kilroy123",
       "time": 1773239697,
-      "comments": 152,
+      "comments": 153,
       "domain": "channelsurfer.tv"
-    },
-    {
-      "id": 47347920,
-      "title": "The Isolation Trap: Erlang",
-      "url": "https://causality.blog/essays/the-isolation-trap/",
-      "score": 47,
-      "by": "enz",
-      "time": 1773303752,
-      "comments": 7,
-      "domain": "causality.blog"
-    },
-    {
-      "id": 47330946,
-      "title": "Recursive Problems Benefit from Recursive Solutions",
-      "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
-      "score": 24,
-      "by": "luispa",
-      "time": 1773193603,
-      "comments": 5,
-      "domain": "jnkr.tech"
-    },
-    {
-      "id": 47339219,
-      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
-      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "score": 14,
-      "by": "timhh",
-      "time": 1773253318,
-      "comments": 1,
-      "domain": "crowdsupply.com"
-    },
-    {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 324,
-      "by": "avionics-guy",
-      "time": 1773427374,
-      "comments": 90,
-      "domain": "github.com"
     },
     {
       "id": 47375008,
       "title": "UCP Protocol: The Internet Has 100M Shops and No Front Door",
       "url": "https://askucp.com/blog",
-      "score": 5,
+      "score": 9,
       "by": "defencetechhn",
       "time": 1773482080,
-      "comments": 2,
+      "comments": 7,
       "domain": "askucp.com"
     },
     {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 290,
-      "by": "tosh",
-      "time": 1773426852,
-      "comments": 105,
+      "id": 47347920,
+      "title": "The Isolation Trap: Erlang",
+      "url": "https://causality.blog/essays/the-isolation-trap/",
+      "score": 55,
+      "by": "enz",
+      "time": 1773303752,
+      "comments": 8,
+      "domain": "causality.blog"
+    },
+    {
+      "id": 47374745,
+      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+      "url": "https://github.com/drojaazu/megadev",
+      "score": 7,
+      "by": "XzetaU8",
+      "time": 1773479079,
+      "comments": 0,
       "domain": "github.com"
+    },
+    {
+      "id": 47330946,
+      "title": "Recursive Problems Benefit from Recursive Solutions",
+      "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
+      "score": 26,
+      "by": "luispa",
+      "time": 1773193603,
+      "comments": 7,
+      "domain": "jnkr.tech"
     },
     {
       "id": 47340203,
       "title": "Wired headphone sales are exploding",
       "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-      "score": 145,
+      "score": 156,
       "by": "billybuckwheat",
       "time": 1773257866,
-      "comments": 248,
+      "comments": 256,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47368033,
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
+      "score": 326,
+      "by": "avionics-guy",
+      "time": 1773427374,
+      "comments": 93,
+      "domain": "github.com"
+    },
+    {
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 291,
+      "by": "tosh",
+      "time": 1773426852,
+      "comments": 105,
+      "domain": "github.com"
     },
     {
       "id": 47371064,
@@ -132,34 +142,44 @@
       "domain": "benzimmermann.dev"
     },
     {
-      "id": 47363754,
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "score": 1236,
-      "by": "ricardbejarano",
-      "time": 1773405970,
-      "comments": 306,
-      "domain": "canirun.ai"
-    },
-    {
       "id": 47327155,
       "title": "AEP (API Design Standard and Tooling Ecosystem)",
       "url": "https://aep.dev/",
-      "score": 16,
+      "score": 19,
       "by": "rambleraptor",
       "time": 1773167898,
-      "comments": 3,
+      "comments": 5,
       "domain": "aep.dev"
+    },
+    {
+      "id": 47363754,
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "score": 1241,
+      "by": "ricardbejarano",
+      "time": 1773405970,
+      "comments": 308,
+      "domain": "canirun.ai"
     },
     {
       "id": 47364729,
       "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
       "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
-      "score": 272,
+      "score": 274,
       "by": "tosh",
       "time": 1773411096,
       "comments": 382,
       "domain": "macrumors.com"
+    },
+    {
+      "id": 47332493,
+      "title": "Michael Faraday: Scientist and Nonconformist (1996)",
+      "url": "http://silas.psfc.mit.edu/Faraday/",
+      "score": 7,
+      "by": "o4c",
+      "time": 1773212965,
+      "comments": 0,
+      "domain": "silas.psfc.mit.edu"
     },
     {
       "id": 47339403,
@@ -172,64 +192,74 @@
       "domain": "huguesjohnson.com"
     },
     {
-      "id": 47319071,
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "score": 152,
-      "by": "psibi",
-      "time": 1773116492,
-      "comments": 92,
-      "domain": "batsov.com"
+      "id": 47368135,
+      "title": "Digg is gone again",
+      "url": "https://digg.com/",
+      "score": 201,
+      "by": "hammerbrostime",
+      "time": 1773427937,
+      "comments": 178,
+      "domain": "digg.com"
     },
     {
       "id": 47372672,
       "title": "Optimizing Content for Agents",
       "url": "https://cra.mr/optimizing-content-for-agents/",
-      "score": 46,
+      "score": 49,
       "by": "vinhnx",
       "time": 1773455220,
       "comments": 18,
       "domain": "cra.mr"
     },
     {
-      "id": 47368135,
-      "title": "Digg is gone again",
-      "url": "https://digg.com/",
-      "score": 194,
-      "by": "hammerbrostime",
-      "time": 1773427937,
-      "comments": 176,
-      "domain": "digg.com"
+      "id": 47319071,
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "score": 153,
+      "by": "psibi",
+      "time": 1773116492,
+      "comments": 93,
+      "domain": "batsov.com"
     },
     {
       "id": 47371692,
       "title": "Games with loot boxes to get minimum 16 age rating across Europe",
       "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "score": 211,
+      "score": 212,
       "by": "gostsamo",
       "time": 1773446557,
-      "comments": 119,
+      "comments": 124,
       "domain": "bbc.com"
-    },
-    {
-      "id": 47374745,
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "url": "https://github.com/drojaazu/megadev",
-      "score": 5,
-      "by": "XzetaU8",
-      "time": 1773479079,
-      "comments": 0,
-      "domain": "github.com"
     },
     {
       "id": 47371275,
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
       "url": "https://lr0.org/blog/p/crocker/",
-      "score": 77,
+      "score": 78,
       "by": "ghd_",
       "time": 1773443677,
-      "comments": 114,
+      "comments": 118,
       "domain": "lr0.org"
+    },
+    {
+      "id": 47375610,
+      "title": "How Lego builds a new Lego set",
+      "url": "https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price",
+      "score": 4,
+      "by": "Michelangelo11",
+      "time": 1773488149,
+      "comments": 0,
+      "domain": "theverge.com"
+    },
+    {
+      "id": 47375085,
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+      "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+      "score": 14,
+      "by": "edward",
+      "time": 1773482758,
+      "comments": 3,
+      "domain": "tomshardware.com"
     },
     {
       "id": 47341432,
@@ -245,20 +275,20 @@
       "id": 47348733,
       "title": "Coding after coders: The end of computer programming as we know it?",
       "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
-      "score": 129,
+      "score": 132,
       "by": "angst",
       "time": 1773311385,
-      "comments": 159,
+      "comments": 163,
       "domain": "nytimes.com"
     },
     {
       "id": 47366666,
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 443,
+      "score": 446,
       "by": "merksittich",
       "time": 1773420042,
-      "comments": 662,
+      "comments": 669,
       "domain": "ft.com"
     },
     {
@@ -268,38 +298,8 @@
       "score": 104,
       "by": "ingve",
       "time": 1773128339,
-      "comments": 29,
+      "comments": 31,
       "domain": "rubenerd.com"
-    },
-    {
-      "id": 47375085,
-      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-      "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "score": 10,
-      "by": "edward",
-      "time": 1773482758,
-      "comments": 1,
-      "domain": "tomshardware.com"
-    },
-    {
-      "id": 47371922,
-      "title": "Our Experience with I-Ready",
-      "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
-      "score": 71,
-      "by": "barry-cotter",
-      "time": 1773448190,
-      "comments": 25,
-      "domain": "moultano.wordpress.com"
-    },
-    {
-      "id": 47367526,
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "score": 81,
-      "by": "ivzak",
-      "time": 1773424702,
-      "comments": 49,
-      "domain": "github.com"
     }
   ]
 }
