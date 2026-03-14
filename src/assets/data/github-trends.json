@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-14T23:43:37.305Z",
+  "lastUpdated": "2026-03-14T23:59:26.772Z",
   "items": [
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 13679,
+      "stars": 13694,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-14T23:41:42Z"
+      "updated_at": "2026-03-14T23:58:24Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 10314,
+      "stars": 10345,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-14T23:42:58Z"
+      "updated_at": "2026-03-14T23:58:41Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
-      "stars": 7037,
+      "stars": 7040,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-14T23:23:47Z"
+      "updated_at": "2026-03-14T23:53:16Z"
     },
     {
       "id": 1176340473,
       "name": "NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 1664,
+      "stars": 1668,
       "language": "C",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "owner": {
         "login": "NawfalMotii79",
         "avatar_url": "https://avatars.githubusercontent.com/u/215612484?v=4"
       },
-      "updated_at": "2026-03-14T23:41:04Z"
+      "updated_at": "2026-03-14T23:54:45Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1566,
+      "stars": 1568,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-14T23:40:05Z"
+      "updated_at": "2026-03-14T23:58:51Z"
     },
     {
       "id": 1178813768,
       "name": "TianyiDataScience/openclaw-control-center",
       "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
-      "stars": 1391,
+      "stars": 1393,
       "language": "TypeScript",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
       "owner": {
         "login": "TianyiDataScience",
         "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
       },
-      "updated_at": "2026-03-14T23:33:41Z"
+      "updated_at": "2026-03-14T23:50:08Z"
     },
     {
       "id": 1175870738,
@@ -96,27 +96,27 @@
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1139,
+      "stars": 1142,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-14T23:26:48Z"
+      "updated_at": "2026-03-14T23:58:07Z"
     },
     {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1122,
+      "stars": 1126,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-14T23:36:33Z"
+      "updated_at": "2026-03-14T23:58:22Z"
     },
     {
       "id": 1175748667,
@@ -135,14 +135,14 @@
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen",
-      "stars": 948,
+      "stars": 950,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-14T23:12:49Z"
+      "updated_at": "2026-03-14T23:58:45Z"
     },
     {
       "id": 1176613354,
@@ -161,27 +161,27 @@
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 897,
+      "stars": 907,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-14T23:41:55Z"
+      "updated_at": "2026-03-14T23:58:19Z"
     },
     {
       "id": 1177608268,
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 852,
+      "stars": 855,
       "language": "Python",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "owner": {
         "login": "wanshuiyin",
         "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
       },
-      "updated_at": "2026-03-14T23:36:46Z"
+      "updated_at": "2026-03-14T23:52:00Z"
     },
     {
       "id": 1179164349,
