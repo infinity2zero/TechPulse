@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-03-14T14:38:42.462Z",
+  "lastUpdated": "2026-03-14T14:59:15.973Z",
   "items": [
     {
       "id": 1176011916,
       "name": "HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stars": 13025,
+      "stars": 13070,
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-14T14:38:26Z"
+      "updated_at": "2026-03-14T14:59:09Z"
     },
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 8643,
+      "stars": 8715,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-14T14:38:41Z"
+      "updated_at": "2026-03-14T14:59:07Z"
     },
     {
       "id": 1176129893,
       "name": "tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stars": 6946,
+      "stars": 6951,
       "language": "TypeScript",
       "url": "https://github.com/tanweai/pua",
       "owner": {
         "login": "tanweai",
         "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
       },
-      "updated_at": "2026-03-14T14:37:12Z"
+      "updated_at": "2026-03-14T14:56:01Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1428,
+      "stars": 1435,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-14T14:31:17Z"
+      "updated_at": "2026-03-14T14:58:31Z"
     },
     {
       "id": 1178813768,
       "name": "TianyiDataScience/openclaw-control-center",
       "description": null,
-      "stars": 1300,
+      "stars": 1312,
       "language": "TypeScript",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
       "owner": {
         "login": "TianyiDataScience",
         "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
       },
-      "updated_at": "2026-03-14T14:33:29Z"
+      "updated_at": "2026-03-14T14:58:10Z"
     },
     {
       "id": 1176340473,
       "name": "NawfalMotii79/PLFM_RADAR",
       "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": 1283,
+      "stars": 1300,
       "language": "C",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "owner": {
         "login": "NawfalMotii79",
         "avatar_url": "https://avatars.githubusercontent.com/u/215612484?v=4"
       },
-      "updated_at": "2026-03-14T14:38:17Z"
+      "updated_at": "2026-03-14T14:57:39Z"
     },
     {
       "id": 1175870738,
       "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stars": 1147,
+      "stars": 1152,
       "language": "Python",
       "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "owner": {
         "login": "FreedomIntelligence",
         "avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4"
       },
-      "updated_at": "2026-03-14T14:08:44Z"
+      "updated_at": "2026-03-14T14:58:13Z"
     },
     {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1067,
+      "stars": 1073,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-14T14:23:37Z"
+      "updated_at": "2026-03-14T14:58:40Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1064,
+      "stars": 1069,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-14T14:29:05Z"
+      "updated_at": "2026-03-14T14:50:39Z"
     },
     {
       "id": 1175748667,
       "name": "jackwener/xiaohongshu-cli",
       "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API",
-      "stars": 1026,
+      "stars": 1032,
       "language": "Python",
       "url": "https://github.com/jackwener/xiaohongshu-cli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-14T14:36:21Z"
+      "updated_at": "2026-03-14T14:51:10Z"
     },
     {
       "id": 1176469774,
@@ -161,14 +161,27 @@
       "id": 1179164349,
       "name": "chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 766,
+      "stars": 768,
       "language": null,
       "url": "https://github.com/chrisworsey55/atlas-gic",
       "owner": {
         "login": "chrisworsey55",
         "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
       },
-      "updated_at": "2026-03-14T14:05:31Z"
+      "updated_at": "2026-03-14T14:57:47Z"
+    },
+    {
+      "id": 1177608268,
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+      "stars": 726,
+      "language": "Python",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "owner": {
+        "login": "wanshuiyin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
+      },
+      "updated_at": "2026-03-14T14:58:23Z"
     },
     {
       "id": 1177515818,
@@ -184,43 +197,30 @@
       "updated_at": "2026-03-14T14:09:20Z"
     },
     {
-      "id": 1177608268,
-      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 716,
-      "language": "Python",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "owner": {
-        "login": "wanshuiyin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
-      },
-      "updated_at": "2026-03-14T14:37:45Z"
-    },
-    {
       "id": 1175937361,
       "name": "trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stars": 704,
+      "stars": 705,
       "language": "Python",
       "url": "https://github.com/trevin-creator/autoresearch-mlx",
       "owner": {
         "login": "trevin-creator",
         "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
       },
-      "updated_at": "2026-03-14T14:31:41Z"
+      "updated_at": "2026-03-14T14:45:04Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 659,
+      "stars": 678,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-14T14:36:36Z"
+      "updated_at": "2026-03-14T14:58:27Z"
     },
     {
       "id": 1176414483,
@@ -239,27 +239,27 @@
       "id": 1178353904,
       "name": "RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "stars": 612,
+      "stars": 613,
       "language": "Python",
       "url": "https://github.com/RightNow-AI/autokernel",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-14T14:22:33Z"
+      "updated_at": "2026-03-14T14:56:40Z"
     },
     {
-      "id": 1176128802,
-      "name": "kamranahmedse/claude-statusline",
-      "description": "Minimal Claude Code statusline setup I personally use",
-      "stars": 588,
-      "language": "Shell",
-      "url": "https://github.com/kamranahmedse/claude-statusline",
+      "id": 1180464097,
+      "name": "upper-up/meta-lobbying-and-other-findings",
+      "description": null,
+      "stars": 589,
+      "language": "HTML",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
-        "login": "kamranahmedse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+        "login": "upper-up",
+        "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-14T10:36:22Z"
+      "updated_at": "2026-03-14T14:49:55Z"
     }
   ]
 }
