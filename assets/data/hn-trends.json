@@ -1,125 +1,165 @@
 {
-  "lastUpdated": "2026-03-15T22:32:55.912Z",
+  "lastUpdated": "2026-03-15T22:58:14.863Z",
   "items": [
     {
       "id": 47390817,
       "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 222,
+      "score": 234,
       "by": "xnx",
       "time": 1773601973,
-      "comments": 89,
+      "comments": 102,
       "domain": "developer.chrome.com"
+    },
+    {
+      "id": 47392084,
+      "title": "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
+      "url": "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading",
+      "score": 48,
+      "by": "opengrass",
+      "time": 1773609736,
+      "comments": 2,
+      "domain": "parl.ca"
     },
     {
       "id": 47390945,
       "title": "The 49MB Web Page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 176,
+      "score": 192,
       "by": "kermatt",
       "time": 1773602718,
-      "comments": 108,
+      "comments": 119,
       "domain": "thatshubham.com"
-    },
-    {
-      "id": 47339463,
-      "title": "//go:fix inline and the source-level inliner",
-      "url": "https://go.dev/blog/inliner",
-      "score": 76,
-      "by": "commotionfever",
-      "time": 1773254365,
-      "comments": 18,
-      "domain": "go.dev"
     },
     {
       "id": 47388676,
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 139,
+      "score": 155,
       "by": "tzury",
       "time": 1773590469,
       "comments": 6,
       "domain": "sebastianraschka.com"
     },
     {
+      "id": 47339463,
+      "title": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner",
+      "score": 80,
+      "by": "commotionfever",
+      "time": 1773254365,
+      "comments": 21,
+      "domain": "go.dev"
+    },
+    {
+      "id": 47391982,
+      "title": "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
+      "url": "https://github.com/lux-db/lux",
+      "score": 33,
+      "by": "mattyhogan",
+      "time": 1773609157,
+      "comments": 8,
+      "domain": "github.com"
+    },
+    {
       "id": 47388137,
       "title": "Separating the Wayland compositor and window manager",
       "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 177,
+      "score": 184,
       "by": "dpassens",
       "time": 1773587364,
-      "comments": 75,
+      "comments": 80,
       "domain": "isaacfreund.com"
     },
     {
       "id": 47388141,
       "title": "What makes Intel Optane stand out (2023)",
       "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 161,
+      "score": 164,
       "by": "walterbell",
       "time": 1773587381,
       "comments": 107,
       "domain": "blog.zuthof.nl"
     },
     {
-      "id": 47339818,
-      "title": "Bus travel from Lima to Rio de Janeiro",
-      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-      "score": 88,
-      "by": "ks2048",
-      "time": 1773256032,
-      "comments": 31,
-      "domain": "kenschutte.com"
-    },
-    {
       "id": 47332593,
       "title": "C++26: The Oxford Variadic Comma",
       "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
-      "score": 86,
+      "score": 92,
       "by": "ingve",
       "time": 1773214020,
-      "comments": 44,
+      "comments": 47,
       "domain": "sandordargo.com"
     },
     {
       "id": 47387047,
       "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
       "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 186,
+      "score": 192,
       "by": "robinhouston",
       "time": 1773580082,
-      "comments": 111,
+      "comments": 113,
       "domain": "aikido.dev"
+    },
+    {
+      "id": 47339818,
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+      "score": 95,
+      "by": "ks2048",
+      "time": 1773256032,
+      "comments": 35,
+      "domain": "kenschutte.com"
     },
     {
       "id": 47388273,
       "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
       "url": "https://zzk273.github.io/LATENT/",
-      "score": 103,
+      "score": 106,
       "by": "danielmorozoff",
       "time": 1773588064,
-      "comments": 17,
+      "comments": 20,
       "domain": "zzk273.github.io"
     },
     {
       "id": 47388531,
       "title": "In Memoriam: John W. Addison, my PhD advisor",
       "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
-      "score": 75,
+      "score": 77,
       "by": "herodotus",
       "time": 1773589579,
       "comments": 4,
       "domain": "billwadge.com"
     },
     {
+      "id": 47392547,
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "score": 6,
+      "by": "zdw",
+      "time": 1773612950,
+      "comments": 0,
+      "domain": "msn.com"
+    },
+    {
       "id": 47386116,
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 296,
+      "score": 301,
       "by": "vismit2000",
       "time": 1773571655,
-      "comments": 27,
+      "comments": 29,
       "domain": "r2d3.us"
+    },
+    {
+      "id": 47389570,
+      "title": "Stop Sloppypasta",
+      "url": "https://stopsloppypasta.ai/",
+      "score": 42,
+      "by": "namnnumbr",
+      "time": 1773595500,
+      "comments": 11,
+      "domain": "stopsloppypasta.ai"
     },
     {
       "id": 47388479,
@@ -132,30 +172,30 @@
       "domain": "firthemouse.github.io"
     },
     {
-      "id": 47392084,
-      "title": "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
-      "url": "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading",
-      "score": 3,
-      "by": "opengrass",
-      "time": 1773609736,
-      "comments": 0,
-      "domain": "parl.ca"
-    },
-    {
       "id": 47386581,
       "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
       "url": "https://signet.watch",
-      "score": 101,
+      "score": 102,
       "by": "mapldx",
       "time": 1773576060,
-      "comments": 27,
+      "comments": 28,
       "domain": "signet.watch"
+    },
+    {
+      "id": 47392550,
+      "title": "Nasdaq's Shame",
+      "url": "https://keubiko.substack.com/p/nasdaqs-shame",
+      "score": 9,
+      "by": "imichael",
+      "time": 1773612969,
+      "comments": 0,
+      "domain": "keubiko.substack.com"
     },
     {
       "id": 47386983,
       "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
       "url": "https://octetta.github.io/k-synth/",
-      "score": 71,
+      "score": 73,
       "by": "octetta",
       "time": 1773579493,
       "comments": 28,
@@ -165,61 +205,61 @@
       "id": 47374572,
       "title": "Autoresearch Hub",
       "url": "http://autoresearchhub.com/",
-      "score": 27,
+      "score": 29,
       "by": "EvgeniyZh",
       "time": 1773477342,
-      "comments": 10,
+      "comments": 13,
       "domain": "autoresearchhub.com"
     },
     {
       "id": 47390233,
       "title": "Office.eu launches as Europe's sovereign office platform",
       "url": "https://office.eu/media/pressrelease-20260304",
-      "score": 229,
+      "score": 238,
       "by": "campuscodi",
       "time": 1773598956,
-      "comments": 123,
+      "comments": 128,
       "domain": "office.eu"
     },
     {
       "id": 47386856,
       "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
       "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
-      "score": 102,
+      "score": 105,
       "by": "RickJWagner",
       "time": 1773578516,
-      "comments": 330,
+      "comments": 340,
       "domain": "theculturenewspaper.com"
     },
     {
-      "id": 47389570,
-      "title": "Stop Sloppypasta",
-      "url": "https://stopsloppypasta.ai/",
-      "score": 22,
-      "by": "namnnumbr",
-      "time": 1773595500,
-      "comments": 3,
-      "domain": "stopsloppypasta.ai"
+      "id": 47390021,
+      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
+      "score": 113,
+      "by": "Amorymeltzer",
+      "time": 1773597874,
+      "comments": 17,
+      "domain": "hollywoodreporter.com"
     },
     {
       "id": 47386246,
       "title": "IBM, sonic delay lines, and the history of the 80×24 display (2019)",
       "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-      "score": 75,
+      "score": 76,
       "by": "rbanffy",
       "time": 1773572805,
       "comments": 26,
       "domain": "righto.com"
     },
     {
-      "id": 47390021,
-      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
-      "score": 96,
-      "by": "Amorymeltzer",
-      "time": 1773597874,
-      "comments": 14,
-      "domain": "hollywoodreporter.com"
+      "id": 47386441,
+      "title": "Generating All 32-Bit Primes (Part I)",
+      "url": "https://hnlyman.github.io/pages/prime32_I.html",
+      "score": 76,
+      "by": "hnlyman",
+      "time": 1773574921,
+      "comments": 22,
+      "domain": "hnlyman.github.io"
     },
     {
       "id": 47344696,
@@ -232,64 +272,24 @@
       "domain": "denizcemonduygu.com"
     },
     {
-      "id": 47386441,
-      "title": "Generating All 32-Bit Primes (Part I)",
-      "url": "https://hnlyman.github.io/pages/prime32_I.html",
-      "score": 75,
-      "by": "hnlyman",
-      "time": 1773574921,
-      "comments": 22,
-      "domain": "hnlyman.github.io"
-    },
-    {
-      "id": 47340597,
-      "title": "Chasing the Ivory-Billed Woodpecker (2023)",
-      "url": "https://gardenandgun.com/feature/chasing-the-ivory-billed-woodpecker/",
-      "score": 3,
-      "by": "NaOH",
-      "time": 1773259410,
-      "comments": 0,
-      "domain": "gardenandgun.com"
-    },
-    {
-      "id": 47389784,
-      "title": "Grandparents are glued to their phones, families are worried [video]",
-      "url": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
-      "score": 164,
-      "by": "tartoran",
-      "time": 1773596599,
-      "comments": 111,
-      "domain": "bbc.com"
-    },
-    {
       "id": 47385935,
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 356,
+      "score": 366,
       "by": "ZacnyLos",
       "time": 1773569747,
-      "comments": 329,
+      "comments": 332,
       "domain": "github.com"
     },
     {
       "id": 47324478,
       "title": "Kniterate Notes",
       "url": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
-      "score": 51,
+      "score": 55,
       "by": "surprisetalk",
       "time": 1773156027,
       "comments": 10,
       "domain": "soup.agnescameron.info"
-    },
-    {
-      "id": 47335325,
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 142,
-      "by": "ibobev",
-      "time": 1773235831,
-      "comments": 54,
-      "domain": "johndcook.com"
     }
   ]
 }
