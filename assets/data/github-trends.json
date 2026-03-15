@@ -1,148 +1,148 @@
 {
-  "lastUpdated": "2026-03-15T15:38:34.543Z",
+  "lastUpdated": "2026-03-15T15:57:02.921Z",
   "items": [
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 12773,
+      "stars": 12825,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-15T15:37:33Z"
+      "updated_at": "2026-03-15T15:56:37Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1753,
+      "stars": 1759,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-15T15:33:02Z"
+      "updated_at": "2026-03-15T15:53:44Z"
     },
     {
       "id": 1178813768,
       "name": "TianyiDataScience/openclaw-control-center",
       "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
-      "stars": 1664,
+      "stars": 1666,
       "language": "TypeScript",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
       "owner": {
         "login": "TianyiDataScience",
         "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
       },
-      "updated_at": "2026-03-15T15:37:08Z"
-    },
-    {
-      "id": 1178493295,
-      "name": "gsd-build/gsd-2",
-      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1291,
-      "language": "TypeScript",
-      "url": "https://github.com/gsd-build/gsd-2",
-      "owner": {
-        "login": "gsd-build",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
-      },
-      "updated_at": "2026-03-15T15:30:58Z"
+      "updated_at": "2026-03-15T15:56:35Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 1291,
+      "stars": 1299,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-15T15:38:28Z"
+      "updated_at": "2026-03-15T15:56:24Z"
+    },
+    {
+      "id": 1178493295,
+      "name": "gsd-build/gsd-2",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "stars": 1295,
+      "language": "TypeScript",
+      "url": "https://github.com/gsd-build/gsd-2",
+      "owner": {
+        "login": "gsd-build",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
+      },
+      "updated_at": "2026-03-15T15:53:51Z"
     },
     {
       "id": 1176898834,
       "name": "aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1228,
+      "stars": 1234,
       "language": "Python",
       "url": "https://github.com/aiming-lab/MetaClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-15T15:32:41Z"
+      "updated_at": "2026-03-15T15:55:26Z"
     },
     {
       "id": 1177608268,
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 1218,
+      "stars": 1222,
       "language": "Python",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "owner": {
         "login": "wanshuiyin",
         "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
       },
-      "updated_at": "2026-03-15T15:34:47Z"
+      "updated_at": "2026-03-15T15:51:47Z"
     },
     {
       "id": 1176469774,
       "name": "knowsuchagency/mcp2cli",
       "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-      "stars": 1062,
+      "stars": 1064,
       "language": "Python",
       "url": "https://github.com/knowsuchagency/mcp2cli",
       "owner": {
         "login": "knowsuchagency",
         "avatar_url": "https://avatars.githubusercontent.com/u/11974795?v=4"
       },
-      "updated_at": "2026-03-15T15:36:38Z"
+      "updated_at": "2026-03-15T15:55:34Z"
     },
     {
       "id": 1176613354,
       "name": "larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
-      "stars": 990,
+      "stars": 995,
       "language": "TypeScript",
       "url": "https://github.com/larksuite/openclaw-lark",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-15T15:23:39Z"
+      "updated_at": "2026-03-15T15:56:08Z"
     },
     {
       "id": 1181380420,
       "name": "skernelx/tavily-key-generator",
       "description": "Auto batch register Tavily API Keys with pluggable email backends",
-      "stars": 844,
+      "stars": 852,
       "language": "Python",
       "url": "https://github.com/skernelx/tavily-key-generator",
       "owner": {
         "login": "skernelx",
         "avatar_url": "https://avatars.githubusercontent.com/u/250769487?v=4"
       },
-      "updated_at": "2026-03-15T15:33:29Z"
+      "updated_at": "2026-03-15T15:56:30Z"
     },
     {
       "id": 1179164349,
       "name": "chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 796,
+      "stars": 797,
       "language": null,
       "url": "https://github.com/chrisworsey55/atlas-gic",
       "owner": {
         "login": "chrisworsey55",
         "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
       },
-      "updated_at": "2026-03-15T14:51:49Z"
+      "updated_at": "2026-03-15T15:53:09Z"
     },
     {
       "id": 1177515818,
@@ -161,53 +161,53 @@
       "id": 1176414483,
       "name": "dongsheng123132/u-claw",
       "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。",
-      "stars": 718,
+      "stars": 720,
       "language": "HTML",
       "url": "https://github.com/dongsheng123132/u-claw",
       "owner": {
         "login": "dongsheng123132",
         "avatar_url": "https://avatars.githubusercontent.com/u/90887123?v=4"
       },
-      "updated_at": "2026-03-15T15:34:28Z"
+      "updated_at": "2026-03-15T15:51:43Z"
     },
     {
       "id": 1179413000,
       "name": "Narcooo/inkos",
       "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
-      "stars": 706,
+      "stars": 709,
       "language": "TypeScript",
       "url": "https://github.com/Narcooo/inkos",
       "owner": {
         "login": "Narcooo",
         "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
       },
-      "updated_at": "2026-03-15T15:31:00Z"
+      "updated_at": "2026-03-15T15:53:29Z"
     },
     {
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 645,
+      "stars": 646,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-15T15:07:22Z"
+      "updated_at": "2026-03-15T15:44:36Z"
     },
     {
       "id": 1178353904,
       "name": "RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "stars": 633,
+      "stars": 634,
       "language": "Python",
       "url": "https://github.com/RightNow-AI/autokernel",
       "owner": {
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-15T13:46:20Z"
+      "updated_at": "2026-03-15T15:55:25Z"
     },
     {
       "id": 1178985852,
@@ -226,27 +226,27 @@
       "id": 1179309173,
       "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
       "description": null,
-      "stars": 573,
+      "stars": 589,
       "language": null,
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "owner": {
         "login": "novatic14",
         "avatar_url": "https://avatars.githubusercontent.com/u/219924819?v=4"
       },
-      "updated_at": "2026-03-15T15:37:08Z"
+      "updated_at": "2026-03-15T15:56:46Z"
     },
     {
       "id": 1177456367,
       "name": "moltlaunch/cashclaw",
       "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
-      "stars": 568,
+      "stars": 569,
       "language": "TypeScript",
       "url": "https://github.com/moltlaunch/cashclaw",
       "owner": {
         "login": "moltlaunch",
         "avatar_url": "https://avatars.githubusercontent.com/u/268007349?v=4"
       },
-      "updated_at": "2026-03-15T14:35:59Z"
+      "updated_at": "2026-03-15T15:54:01Z"
     },
     {
       "id": 1176774227,
