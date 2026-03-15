@@ -1,145 +1,165 @@
 {
-  "lastUpdated": "2026-03-15T11:24:59.202Z",
+  "lastUpdated": "2026-03-15T11:45:48.414Z",
   "items": [
     {
       "id": 47386116,
       "title": "A Visual Introduction to Machine Learning",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 21,
+      "score": 42,
       "by": "vismit2000",
       "time": 1773571655,
-      "comments": 1,
+      "comments": 2,
       "domain": "r2d3.us"
+    },
+    {
+      "id": 47385935,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 47,
+      "by": "ZacnyLos",
+      "time": 1773569747,
+      "comments": 12,
+      "domain": "github.com"
     },
     {
       "id": 47385272,
       "title": "The Appalling Stupidity of Spotify's AI DJ",
       "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 144,
+      "score": 159,
       "by": "ingve",
       "time": 1773561895,
-      "comments": 117,
+      "comments": 126,
       "domain": "charlespetzold.com"
     },
     {
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 188,
+      "score": 193,
       "by": "cdrnsf",
       "time": 1773548623,
-      "comments": 41,
+      "comments": 44,
       "domain": "sa.lj.am"
-    },
-    {
-      "id": 47385935,
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 27,
-      "by": "ZacnyLos",
-      "time": 1773569747,
-      "comments": 6,
-      "domain": "github.com"
     },
     {
       "id": 47335325,
       "title": "Why Mathematica does not simplify sinh(arccosh(x))",
       "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 79,
+      "score": 81,
       "by": "ibobev",
       "time": 1773235831,
-      "comments": 16,
+      "comments": 18,
       "domain": "johndcook.com"
     },
     {
       "id": 47383804,
       "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
       "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 102,
+      "score": 107,
       "by": "tartoran",
       "time": 1773542913,
-      "comments": 116,
+      "comments": 124,
       "domain": "bbc.com"
     },
     {
       "id": 47384032,
       "title": "A most elegant TCP hole punching algorithm",
       "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 100,
+      "score": 105,
       "by": "Uptrenda",
       "time": 1773545357,
-      "comments": 32,
+      "comments": 33,
       "domain": "robertsdotpm.github.io"
     },
     {
       "id": 47382791,
       "title": "How kernel anti-cheats work",
       "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 206,
+      "score": 210,
       "by": "davikr",
       "time": 1773533710,
-      "comments": 170,
+      "comments": 181,
       "domain": "s4dbrd.github.io"
-    },
-    {
-      "id": 47381736,
-      "title": "Allow me to get to know you, mistakes and all",
-      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "score": 165,
-      "by": "sebi_io",
-      "time": 1773525827,
-      "comments": 73,
-      "domain": "sebi.io"
-    },
-    {
-      "id": 47381382,
-      "title": "Show HN: Han – A Korean programming language written in Rust",
-      "url": "https://github.com/xodn348/han",
-      "score": 178,
-      "by": "xodn348",
-      "time": 1773523653,
-      "comments": 96,
-      "domain": "github.com"
-    },
-    {
-      "id": 47381791,
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
-      "score": 656,
-      "by": "nateb2022",
-      "time": 1773526226,
-      "comments": 422,
-      "domain": "agelesslinux.org"
-    },
-    {
-      "id": 47382398,
-      "title": "SBCL Fibers – Lightweight Cooperative Threads",
-      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-      "score": 102,
-      "by": "anonzzzies",
-      "time": 1773530559,
-      "comments": 16,
-      "domain": "atgreen.github.io"
     },
     {
       "id": 47334668,
       "title": "Examples for the tcpdump and dig man pages",
       "url": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-      "score": 6,
+      "score": 8,
       "by": "ibobev",
       "time": 1773231849,
       "comments": 0,
       "domain": "jvns.ca"
     },
     {
+      "id": 47381736,
+      "title": "Allow me to get to know you, mistakes and all",
+      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "score": 169,
+      "by": "sebi_io",
+      "time": 1773525827,
+      "comments": 76,
+      "domain": "sebi.io"
+    },
+    {
+      "id": 47381382,
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "score": 179,
+      "by": "xodn348",
+      "time": 1773523653,
+      "comments": 97,
+      "domain": "github.com"
+    },
+    {
+      "id": 47381791,
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
+      "score": 665,
+      "by": "nateb2022",
+      "time": 1773526226,
+      "comments": 430,
+      "domain": "agelesslinux.org"
+    },
+    {
+      "id": 47382398,
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "score": 105,
+      "by": "anonzzzies",
+      "time": 1773530559,
+      "comments": 18,
+      "domain": "atgreen.github.io"
+    },
+    {
       "id": 47374924,
       "title": "Mathematics Distillation Challenge – Equational Theories",
       "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "score": 77,
+      "score": 79,
       "by": "picafrost",
       "time": 1773481117,
       "comments": 2,
       "domain": "terrytao.wordpress.com"
+    },
+    {
+      "id": 47337423,
+      "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
+      "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
+      "score": 56,
+      "by": "bensouthwood",
+      "time": 1773245220,
+      "comments": 22,
+      "domain": "worksinprogress.news"
+    },
+    {
+      "id": 47349871,
+      "title": "Slicing Bezier Surfaces",
+      "url": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
+      "score": 12,
+      "by": "fatih-erikli-cg",
+      "time": 1773319875,
+      "comments": 2,
+      "domain": "fatih-erikli-potato.github.io"
     },
     {
       "id": 47381011,
@@ -152,40 +172,20 @@
       "domain": "smithsonianmag.com"
     },
     {
-      "id": 47337423,
-      "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
-      "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
-      "score": 54,
-      "by": "bensouthwood",
-      "time": 1773245220,
-      "comments": 21,
-      "domain": "worksinprogress.news"
-    },
-    {
       "id": 47380270,
       "title": "MCP is dead; long live MCP",
       "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-      "score": 162,
+      "score": 165,
       "by": "CharlieDigital",
       "time": 1773516733,
-      "comments": 145,
+      "comments": 146,
       "domain": "chrlschn.dev"
-    },
-    {
-      "id": 47349871,
-      "title": "Slicing Bezier Surfaces",
-      "url": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
-      "score": 10,
-      "by": "fatih-erikli-cg",
-      "time": 1773319875,
-      "comments": 2,
-      "domain": "fatih-erikli-potato.github.io"
     },
     {
       "id": 47383059,
       "title": "Tree Search Distillation for Language Models Using PPO",
       "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "score": 61,
+      "score": 63,
       "by": "at2005",
       "time": 1773535915,
       "comments": 4,
@@ -205,7 +205,7 @@
       "id": 47337087,
       "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
       "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
-      "score": 47,
+      "score": 49,
       "by": "kosmavision",
       "time": 1773243746,
       "comments": 4,
@@ -215,27 +215,27 @@
       "id": 47385576,
       "title": "The enshittification of Amazon paperback books",
       "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
-      "score": 49,
+      "score": 59,
       "by": "aerhardt",
       "time": 1773565595,
-      "comments": 27,
+      "comments": 34,
       "domain": "alexerhardt.com"
     },
     {
       "id": 47377998,
       "title": "An ode to bzip",
       "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-      "score": 142,
+      "score": 144,
       "by": "signa11",
       "time": 1773504083,
-      "comments": 76,
+      "comments": 77,
       "domain": "purplesyringa.moe"
     },
     {
       "id": 47380512,
       "title": "Fedora 44 on the Raspberry Pi 5",
       "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
-      "score": 100,
+      "score": 103,
       "by": "jandeboevrie",
       "time": 1773518198,
       "comments": 31,
@@ -245,31 +245,41 @@
       "id": 47380295,
       "title": "Marketing for Founders",
       "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "score": 189,
+      "score": 190,
       "by": "jimsojim",
       "time": 1773516940,
-      "comments": 79,
+      "comments": 81,
       "domain": "github.com"
     },
     {
       "id": 47382277,
       "title": "Airbus is preparing two uncrewed combat aircraft",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "score": 154,
+      "score": 157,
       "by": "phasnox",
       "time": 1773529824,
-      "comments": 92,
+      "comments": 97,
       "domain": "airbus.com"
     },
     {
       "id": 47339219,
       "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "score": 318,
+      "score": 323,
       "by": "timhh",
       "time": 1773253318,
       "comments": 70,
       "domain": "crowdsupply.com"
+    },
+    {
+      "id": 47380726,
+      "title": "Library of Short Stories",
+      "url": "https://www.libraryofshortstories.com/",
+      "score": 87,
+      "by": "debo_",
+      "time": 1773519379,
+      "comments": 4,
+      "domain": "libraryofshortstories.com"
     },
     {
       "id": 47335796,
@@ -282,23 +292,13 @@
       "domain": "pointersgonewild.com"
     },
     {
-      "id": 47380726,
-      "title": "Library of Short Stories",
-      "url": "https://www.libraryofshortstories.com/",
-      "score": 85,
-      "by": "debo_",
-      "time": 1773519379,
-      "comments": 4,
-      "domain": "libraryofshortstories.com"
-    },
-    {
       "id": 47379712,
       "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
       "url": "https://hostilevolume.com/",
-      "score": 98,
+      "score": 99,
       "by": "Velocifyer",
       "time": 1773513550,
-      "comments": 61,
+      "comments": 62,
       "domain": "hostilevolume.com"
     }
   ]
