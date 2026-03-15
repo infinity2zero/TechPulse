@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-03-15T11:45:48.414Z",
+  "lastUpdated": "2026-03-15T11:59:02.778Z",
   "items": [
-    {
-      "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 42,
-      "by": "vismit2000",
-      "time": 1773571655,
-      "comments": 2,
-      "domain": "r2d3.us"
-    },
     {
       "id": 47385935,
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 47,
+      "score": 67,
       "by": "ZacnyLos",
       "time": 1773569747,
-      "comments": 12,
+      "comments": 15,
       "domain": "github.com"
+    },
+    {
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 46,
+      "by": "vismit2000",
+      "time": 1773571655,
+      "comments": 4,
+      "domain": "r2d3.us"
     },
     {
       "id": 47385272,
       "title": "The Appalling Stupidity of Spotify's AI DJ",
       "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 159,
+      "score": 169,
       "by": "ingve",
       "time": 1773561895,
-      "comments": 126,
+      "comments": 137,
       "domain": "charlespetzold.com"
     },
     {
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 193,
+      "score": 198,
       "by": "cdrnsf",
       "time": 1773548623,
       "comments": 44,
@@ -45,7 +45,7 @@
       "id": 47335325,
       "title": "Why Mathematica does not simplify sinh(arccosh(x))",
       "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 81,
+      "score": 82,
       "by": "ibobev",
       "time": 1773235831,
       "comments": 18,
@@ -55,37 +55,37 @@
       "id": 47383804,
       "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
       "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 107,
+      "score": 109,
       "by": "tartoran",
       "time": 1773542913,
-      "comments": 124,
+      "comments": 130,
       "domain": "bbc.com"
     },
     {
       "id": 47384032,
       "title": "A most elegant TCP hole punching algorithm",
       "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 105,
+      "score": 107,
       "by": "Uptrenda",
       "time": 1773545357,
-      "comments": 33,
+      "comments": 35,
       "domain": "robertsdotpm.github.io"
     },
     {
       "id": 47382791,
       "title": "How kernel anti-cheats work",
       "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 210,
+      "score": 215,
       "by": "davikr",
       "time": 1773533710,
-      "comments": 181,
+      "comments": 186,
       "domain": "s4dbrd.github.io"
     },
     {
       "id": 47334668,
       "title": "Examples for the tcpdump and dig man pages",
       "url": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-      "score": 8,
+      "score": 11,
       "by": "ibobev",
       "time": 1773231849,
       "comments": 0,
@@ -95,7 +95,7 @@
       "id": 47381736,
       "title": "Allow me to get to know you, mistakes and all",
       "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "score": 169,
+      "score": 173,
       "by": "sebi_io",
       "time": 1773525827,
       "comments": 76,
@@ -112,24 +112,34 @@
       "domain": "github.com"
     },
     {
-      "id": 47381791,
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
-      "score": 665,
-      "by": "nateb2022",
-      "time": 1773526226,
-      "comments": 430,
-      "domain": "agelesslinux.org"
-    },
-    {
       "id": 47382398,
       "title": "SBCL Fibers – Lightweight Cooperative Threads",
       "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-      "score": 105,
+      "score": 109,
       "by": "anonzzzies",
       "time": 1773530559,
       "comments": 18,
       "domain": "atgreen.github.io"
+    },
+    {
+      "id": 47381791,
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
+      "score": 670,
+      "by": "nateb2022",
+      "time": 1773526226,
+      "comments": 440,
+      "domain": "agelesslinux.org"
+    },
+    {
+      "id": 47337423,
+      "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
+      "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
+      "score": 61,
+      "by": "bensouthwood",
+      "time": 1773245220,
+      "comments": 22,
+      "domain": "worksinprogress.news"
     },
     {
       "id": 47374924,
@@ -138,58 +148,68 @@
       "score": 79,
       "by": "picafrost",
       "time": 1773481117,
-      "comments": 2,
+      "comments": 3,
       "domain": "terrytao.wordpress.com"
-    },
-    {
-      "id": 47337423,
-      "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
-      "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
-      "score": 56,
-      "by": "bensouthwood",
-      "time": 1773245220,
-      "comments": 22,
-      "domain": "worksinprogress.news"
-    },
-    {
-      "id": 47349871,
-      "title": "Slicing Bezier Surfaces",
-      "url": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
-      "score": 12,
-      "by": "fatih-erikli-cg",
-      "time": 1773319875,
-      "comments": 2,
-      "domain": "fatih-erikli-potato.github.io"
     },
     {
       "id": 47381011,
       "title": "Bumblebee queens breathe underwater to survive drowning",
       "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
-      "score": 140,
+      "score": 142,
       "by": "1659447091",
       "time": 1773521350,
       "comments": 28,
       "domain": "smithsonianmag.com"
     },
     {
+      "id": 47349871,
+      "title": "Slicing Bezier Surfaces",
+      "url": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
+      "score": 13,
+      "by": "fatih-erikli-cg",
+      "time": 1773319875,
+      "comments": 2,
+      "domain": "fatih-erikli-potato.github.io"
+    },
+    {
+      "id": 47333356,
+      "title": "Discovering Little Worlds (2020)",
+      "url": "https://dmitrybrant.com/2020/08/01/discovering-little-worlds",
+      "score": 4,
+      "by": "wonger_",
+      "time": 1773220770,
+      "comments": 0,
+      "domain": "dmitrybrant.com"
+    },
+    {
       "id": 47380270,
       "title": "MCP is dead; long live MCP",
       "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-      "score": 165,
+      "score": 166,
       "by": "CharlieDigital",
       "time": 1773516733,
-      "comments": 146,
+      "comments": 148,
       "domain": "chrlschn.dev"
     },
     {
       "id": 47383059,
       "title": "Tree Search Distillation for Language Models Using PPO",
       "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "score": 63,
+      "score": 64,
       "by": "at2005",
       "time": 1773535915,
-      "comments": 4,
+      "comments": 5,
       "domain": "ayushtambde.com"
+    },
+    {
+      "id": 47337087,
+      "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
+      "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
+      "score": 50,
+      "by": "kosmavision",
+      "time": 1773243746,
+      "comments": 4,
+      "domain": "kubicki.org"
     },
     {
       "id": 47332857,
@@ -202,33 +222,23 @@
       "domain": "alperenkeles.com"
     },
     {
-      "id": 47337087,
-      "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
-      "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
-      "score": 49,
-      "by": "kosmavision",
-      "time": 1773243746,
-      "comments": 4,
-      "domain": "kubicki.org"
-    },
-    {
       "id": 47385576,
       "title": "The enshittification of Amazon paperback books",
       "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
-      "score": 59,
+      "score": 62,
       "by": "aerhardt",
       "time": 1773565595,
-      "comments": 34,
+      "comments": 38,
       "domain": "alexerhardt.com"
     },
     {
       "id": 47377998,
       "title": "An ode to bzip",
       "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-      "score": 144,
+      "score": 145,
       "by": "signa11",
       "time": 1773504083,
-      "comments": 77,
+      "comments": 78,
       "domain": "purplesyringa.moe"
     },
     {
@@ -245,21 +255,31 @@
       "id": 47380295,
       "title": "Marketing for Founders",
       "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "score": 190,
+      "score": 191,
       "by": "jimsojim",
       "time": 1773516940,
-      "comments": 81,
+      "comments": 85,
       "domain": "github.com"
     },
     {
       "id": 47382277,
       "title": "Airbus is preparing two uncrewed combat aircraft",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "score": 157,
+      "score": 161,
       "by": "phasnox",
       "time": 1773529824,
-      "comments": 97,
+      "comments": 99,
       "domain": "airbus.com"
+    },
+    {
+      "id": 47335796,
+      "title": "A Recursive Algorithm to Render Signed Distance Fields",
+      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
+      "score": 99,
+      "by": "surprisetalk",
+      "time": 1773238231,
+      "comments": 7,
+      "domain": "pointersgonewild.com"
     },
     {
       "id": 47339219,
@@ -272,33 +292,13 @@
       "domain": "crowdsupply.com"
     },
     {
-      "id": 47380726,
-      "title": "Library of Short Stories",
-      "url": "https://www.libraryofshortstories.com/",
-      "score": 87,
-      "by": "debo_",
-      "time": 1773519379,
-      "comments": 4,
-      "domain": "libraryofshortstories.com"
-    },
-    {
-      "id": 47335796,
-      "title": "A Recursive Algorithm to Render Signed Distance Fields",
-      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
-      "score": 97,
-      "by": "surprisetalk",
-      "time": 1773238231,
-      "comments": 7,
-      "domain": "pointersgonewild.com"
-    },
-    {
       "id": 47379712,
       "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
       "url": "https://hostilevolume.com/",
-      "score": 99,
+      "score": 101,
       "by": "Velocifyer",
       "time": 1773513550,
-      "comments": 62,
+      "comments": 63,
       "domain": "hostilevolume.com"
     }
   ]
