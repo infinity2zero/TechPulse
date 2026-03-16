@@ -1,135 +1,135 @@
 {
-  "lastUpdated": "2026-03-16T11:56:41.781Z",
+  "lastUpdated": "2026-03-16T12:58:07.663Z",
   "items": [
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer",
-      "stars": 15532,
+      "stars": 15685,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-16T11:56:35Z"
+      "updated_at": "2026-03-16T12:57:58Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1918,
+      "stars": 1924,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-16T11:44:00Z"
+      "updated_at": "2026-03-16T12:45:33Z"
     },
     {
       "id": 1178813768,
       "name": "TianyiDataScience/openclaw-control-center",
       "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
-      "stars": 1827,
+      "stars": 1841,
       "language": "TypeScript",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
       "owner": {
         "login": "TianyiDataScience",
         "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
       },
-      "updated_at": "2026-03-16T11:42:19Z"
+      "updated_at": "2026-03-16T12:57:07Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 1743,
+      "stars": 1760,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-16T11:55:29Z"
+      "updated_at": "2026-03-16T12:52:04Z"
     },
     {
       "id": 1177608268,
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 1556,
+      "stars": 1571,
       "language": "Python",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "owner": {
         "login": "wanshuiyin",
         "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
       },
-      "updated_at": "2026-03-16T11:55:34Z"
+      "updated_at": "2026-03-16T12:54:29Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1442,
+      "stars": 1453,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-16T11:54:12Z"
+      "updated_at": "2026-03-16T12:58:07Z"
     },
     {
       "id": 1178737655,
       "name": "THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 1282,
+      "stars": 1335,
       "language": "TypeScript",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "owner": {
         "login": "THU-MAIC",
         "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
       },
-      "updated_at": "2026-03-16T11:56:27Z"
+      "updated_at": "2026-03-16T12:57:40Z"
     },
     {
       "id": 1179309173,
       "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
       "description": null,
-      "stars": 1201,
+      "stars": 1220,
       "language": null,
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "owner": {
         "login": "novatic14",
         "avatar_url": "https://avatars.githubusercontent.com/u/219924819?v=4"
       },
-      "updated_at": "2026-03-16T11:51:38Z"
+      "updated_at": "2026-03-16T12:57:28Z"
     },
     {
       "id": 1181380420,
       "name": "skernelx/tavily-key-generator",
       "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
-      "stars": 1051,
+      "stars": 1058,
       "language": "Python",
       "url": "https://github.com/skernelx/tavily-key-generator",
       "owner": {
         "login": "skernelx",
         "avatar_url": "https://avatars.githubusercontent.com/u/250769487?v=4"
       },
-      "updated_at": "2026-03-16T11:29:41Z"
+      "updated_at": "2026-03-16T12:53:36Z"
     },
     {
       "id": 1179413000,
       "name": "Narcooo/inkos",
       "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
-      "stars": 1018,
+      "stars": 1036,
       "language": "TypeScript",
       "url": "https://github.com/Narcooo/inkos",
       "owner": {
         "login": "Narcooo",
         "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
       },
-      "updated_at": "2026-03-16T11:54:51Z"
+      "updated_at": "2026-03-16T12:56:07Z"
     },
     {
       "id": 1179164349,
@@ -148,40 +148,53 @@
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 768,
+      "stars": 788,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-16T11:51:44Z"
+      "updated_at": "2026-03-16T12:55:45Z"
     },
     {
-      "id": 1177515818,
-      "name": "photon-hq/qclaw-wechat-client",
-      "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
-      "stars": 731,
-      "language": "TypeScript",
-      "url": "https://github.com/photon-hq/qclaw-wechat-client",
+      "id": 1181479848,
+      "name": "calesthio/Crucix",
+      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+      "stars": 744,
+      "language": "JavaScript",
+      "url": "https://github.com/calesthio/Crucix",
       "owner": {
-        "login": "photon-hq",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
+        "login": "calesthio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-16T09:18:46Z"
+      "updated_at": "2026-03-16T12:57:40Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
-      "stars": 698,
+      "stars": 741,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-16T11:56:28Z"
+      "updated_at": "2026-03-16T12:57:32Z"
+    },
+    {
+      "id": 1177515818,
+      "name": "photon-hq/qclaw-wechat-client",
+      "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API.",
+      "stars": 730,
+      "language": "TypeScript",
+      "url": "https://github.com/photon-hq/qclaw-wechat-client",
+      "owner": {
+        "login": "photon-hq",
+        "avatar_url": "https://avatars.githubusercontent.com/u/230767697?v=4"
+      },
+      "updated_at": "2026-03-16T12:15:09Z"
     },
     {
       "id": 1180464097,
@@ -197,19 +210,6 @@
       "updated_at": "2026-03-16T10:24:33Z"
     },
     {
-      "id": 1181479848,
-      "name": "calesthio/Crucix",
-      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 664,
-      "language": "JavaScript",
-      "url": "https://github.com/calesthio/Crucix",
-      "owner": {
-        "login": "calesthio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
-      },
-      "updated_at": "2026-03-16T11:55:39Z"
-    },
-    {
       "id": 1178353904,
       "name": "RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
@@ -220,46 +220,46 @@
         "login": "RightNow-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
       },
-      "updated_at": "2026-03-16T11:37:07Z"
+      "updated_at": "2026-03-16T12:29:50Z"
     },
     {
       "id": 1180297699,
       "name": "Michaelliv/pi-generative-ui",
       "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
-      "stars": 640,
+      "stars": 644,
       "language": "TypeScript",
       "url": "https://github.com/Michaelliv/pi-generative-ui",
       "owner": {
         "login": "Michaelliv",
         "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-16T11:51:34Z"
-    },
-    {
-      "id": 1178985852,
-      "name": "twostraws/Swift-Agent-Skills",
-      "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
-      "stars": 637,
-      "language": null,
-      "url": "https://github.com/twostraws/Swift-Agent-Skills",
-      "owner": {
-        "login": "twostraws",
-        "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
-      },
-      "updated_at": "2026-03-16T11:41:39Z"
+      "updated_at": "2026-03-16T12:43:06Z"
     },
     {
       "id": 1177456367,
       "name": "moltlaunch/cashclaw",
       "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
-      "stars": 635,
+      "stars": 643,
       "language": "TypeScript",
       "url": "https://github.com/moltlaunch/cashclaw",
       "owner": {
         "login": "moltlaunch",
         "avatar_url": "https://avatars.githubusercontent.com/u/268007349?v=4"
       },
-      "updated_at": "2026-03-16T11:41:00Z"
+      "updated_at": "2026-03-16T12:47:41Z"
+    },
+    {
+      "id": 1178985852,
+      "name": "twostraws/Swift-Agent-Skills",
+      "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
+      "stars": 641,
+      "language": null,
+      "url": "https://github.com/twostraws/Swift-Agent-Skills",
+      "owner": {
+        "login": "twostraws",
+        "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
+      },
+      "updated_at": "2026-03-16T12:47:09Z"
     }
   ]
 }
