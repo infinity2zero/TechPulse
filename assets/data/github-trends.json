@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-16T19:37:35.575Z",
+  "lastUpdated": "2026-03-16T20:03:10.678Z",
   "items": [
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 16641,
+      "stars": 16690,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-16T19:37:25Z"
+      "updated_at": "2026-03-16T20:03:08Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 1963,
+      "stars": 1966,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-16T19:30:13Z"
+      "updated_at": "2026-03-16T19:59:13Z"
     },
     {
       "id": 1178813768,
@@ -57,66 +57,79 @@
       "id": 1177608268,
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
-      "stars": 1650,
+      "stars": 1651,
       "language": "Python",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "owner": {
         "login": "wanshuiyin",
         "avatar_url": "https://avatars.githubusercontent.com/u/76990859?v=4"
       },
-      "updated_at": "2026-03-16T19:14:08Z"
+      "updated_at": "2026-03-16T20:01:10Z"
     },
     {
       "id": 1178737655,
       "name": "THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 1619,
+      "stars": 1631,
       "language": "TypeScript",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "owner": {
         "login": "THU-MAIC",
         "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
       },
-      "updated_at": "2026-03-16T19:34:05Z"
+      "updated_at": "2026-03-16T20:00:59Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1507,
+      "stars": 1510,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-16T19:32:15Z"
+      "updated_at": "2026-03-16T19:58:09Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 1406,
+      "stars": 1439,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-16T19:36:40Z"
+      "updated_at": "2026-03-16T20:02:05Z"
     },
     {
       "id": 1179309173,
       "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
       "description": null,
-      "stars": 1337,
+      "stars": 1345,
       "language": null,
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "owner": {
         "login": "novatic14",
         "avatar_url": "https://avatars.githubusercontent.com/u/219924819?v=4"
       },
-      "updated_at": "2026-03-16T19:35:58Z"
+      "updated_at": "2026-03-16T19:59:12Z"
+    },
+    {
+      "id": 1182108611,
+      "name": "aiming-lab/AutoResearchClaw",
+      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
+      "stars": 1132,
+      "language": "Python",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "owner": {
+        "login": "aiming-lab",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+      },
+      "updated_at": "2026-03-16T20:02:00Z"
     },
     {
       "id": 1181380420,
@@ -132,69 +145,56 @@
       "updated_at": "2026-03-16T19:14:08Z"
     },
     {
-      "id": 1182108611,
-      "name": "aiming-lab/AutoResearchClaw",
-      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
-      "stars": 1108,
-      "language": "Python",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "owner": {
-        "login": "aiming-lab",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
-      },
-      "updated_at": "2026-03-16T19:37:32Z"
-    },
-    {
       "id": 1179413000,
       "name": "Narcooo/inkos",
       "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
-      "stars": 1106,
+      "stars": 1107,
       "language": "TypeScript",
       "url": "https://github.com/Narcooo/inkos",
       "owner": {
         "login": "Narcooo",
         "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
       },
-      "updated_at": "2026-03-16T19:24:54Z"
+      "updated_at": "2026-03-16T20:02:27Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 859,
+      "stars": 860,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-16T19:24:54Z"
+      "updated_at": "2026-03-16T19:49:26Z"
     },
     {
       "id": 1179164349,
       "name": "chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stars": 818,
+      "stars": 819,
       "language": null,
       "url": "https://github.com/chrisworsey55/atlas-gic",
       "owner": {
         "login": "chrisworsey55",
         "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
       },
-      "updated_at": "2026-03-16T18:27:45Z"
+      "updated_at": "2026-03-16T19:45:32Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 737,
+      "stars": 741,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-16T19:28:31Z"
+      "updated_at": "2026-03-16T19:53:23Z"
     },
     {
       "id": 1177515818,
@@ -213,27 +213,27 @@
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 709,
+      "stars": 712,
       "language": null,
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-16T19:35:56Z"
+      "updated_at": "2026-03-16T19:57:26Z"
     },
     {
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 683,
+      "stars": 685,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-16T19:36:29Z"
+      "updated_at": "2026-03-16T19:45:21Z"
     },
     {
       "id": 1177456367,
