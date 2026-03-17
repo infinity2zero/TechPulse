@@ -1,226 +1,226 @@
 {
-  "lastUpdated": "2026-03-17T12:35:27.643Z",
+  "lastUpdated": "2026-03-17T14:01:58.277Z",
   "items": [
     {
       "id": 1179264259,
       "name": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 18788,
+      "stars": 19087,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gstack",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-03-17T12:34:18Z"
+      "updated_at": "2026-03-17T14:01:22Z"
     },
     {
       "id": 1178737655,
       "name": "THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 3447,
+      "stars": 3550,
       "language": "TypeScript",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "owner": {
         "login": "THU-MAIC",
         "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
       },
-      "updated_at": "2026-03-17T12:34:54Z"
-    },
-    {
-      "id": 1181479848,
-      "name": "calesthio/Crucix",
-      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 2677,
-      "language": "JavaScript",
-      "url": "https://github.com/calesthio/Crucix",
-      "owner": {
-        "login": "calesthio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
-      },
-      "updated_at": "2026-03-17T12:32:10Z"
+      "updated_at": "2026-03-17T14:01:27Z"
     },
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 2605,
+      "stars": 2803,
       "language": "TypeScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-17T12:35:23Z"
+      "updated_at": "2026-03-17T14:01:53Z"
+    },
+    {
+      "id": 1181479848,
+      "name": "calesthio/Crucix",
+      "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+      "stars": 2733,
+      "language": "JavaScript",
+      "url": "https://github.com/calesthio/Crucix",
+      "owner": {
+        "login": "calesthio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
+      },
+      "updated_at": "2026-03-17T14:01:51Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞",
-      "stars": 2359,
+      "stars": 2680,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-17T12:35:16Z"
+      "updated_at": "2026-03-17T14:01:54Z"
     },
     {
       "id": 1180325220,
       "name": "webadderall/Recordly",
       "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation.",
-      "stars": 2224,
+      "stars": 2248,
       "language": "TypeScript",
       "url": "https://github.com/webadderall/Recordly",
       "owner": {
         "login": "webadderall",
         "avatar_url": "https://avatars.githubusercontent.com/u/131426131?v=4"
       },
-      "updated_at": "2026-03-17T12:25:30Z"
+      "updated_at": "2026-03-17T13:57:06Z"
     },
     {
       "id": 1179229480,
       "name": "davebcn87/pi-autoresearch",
       "description": "Autonomous experiment loop extension for pi",
-      "stars": 2029,
+      "stars": 2037,
       "language": "TypeScript",
       "url": "https://github.com/davebcn87/pi-autoresearch",
       "owner": {
         "login": "davebcn87",
         "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
       },
-      "updated_at": "2026-03-17T12:25:59Z"
+      "updated_at": "2026-03-17T13:50:29Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 1981,
+      "stars": 1999,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-17T12:26:52Z"
+      "updated_at": "2026-03-17T13:59:10Z"
     },
     {
       "id": 1178813768,
       "name": "TianyiDataScience/openclaw-control-center",
       "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
-      "stars": 1971,
+      "stars": 1985,
       "language": "TypeScript",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
       "owner": {
         "login": "TianyiDataScience",
         "avatar_url": "https://avatars.githubusercontent.com/u/119813959?v=4"
       },
-      "updated_at": "2026-03-17T12:30:29Z"
+      "updated_at": "2026-03-17T13:49:55Z"
     },
     {
       "id": 1178493295,
       "name": "gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stars": 1623,
+      "stars": 1634,
       "language": "TypeScript",
       "url": "https://github.com/gsd-build/gsd-2",
       "owner": {
         "login": "gsd-build",
         "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
       },
-      "updated_at": "2026-03-17T12:31:26Z"
+      "updated_at": "2026-03-17T14:01:13Z"
     },
     {
       "id": 1179309173,
       "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
       "description": null,
-      "stars": 1471,
+      "stars": 1479,
       "language": null,
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "owner": {
         "login": "novatic14",
         "avatar_url": "https://avatars.githubusercontent.com/u/219924819?v=4"
       },
-      "updated_at": "2026-03-17T12:14:29Z"
+      "updated_at": "2026-03-17T13:58:49Z"
     },
     {
       "id": 1179413000,
       "name": "Narcooo/inkos",
       "description": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates",
-      "stars": 1361,
+      "stars": 1384,
       "language": "TypeScript",
       "url": "https://github.com/Narcooo/inkos",
       "owner": {
         "login": "Narcooo",
         "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
       },
-      "updated_at": "2026-03-17T12:33:34Z"
+      "updated_at": "2026-03-17T13:56:10Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 1210,
+      "stars": 1246,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-17T12:32:26Z"
-    },
-    {
-      "id": 1181380420,
-      "name": "skernelx/tavily-key-generator",
-      "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
-      "stars": 1206,
-      "language": "Python",
-      "url": "https://github.com/skernelx/tavily-key-generator",
-      "owner": {
-        "login": "skernelx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/250769487?v=4"
-      },
-      "updated_at": "2026-03-17T12:33:40Z"
+      "updated_at": "2026-03-17T13:59:18Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 1176,
+      "stars": 1222,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-17T12:29:16Z"
+      "updated_at": "2026-03-17T13:58:43Z"
+    },
+    {
+      "id": 1181380420,
+      "name": "skernelx/tavily-key-generator",
+      "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
+      "stars": 1221,
+      "language": "Python",
+      "url": "https://github.com/skernelx/tavily-key-generator",
+      "owner": {
+        "login": "skernelx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/250769487?v=4"
+      },
+      "updated_at": "2026-03-17T14:00:34Z"
     },
     {
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 979,
+      "stars": 1002,
       "language": null,
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-17T12:31:25Z"
+      "updated_at": "2026-03-17T14:00:43Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 916,
+      "stars": 923,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-17T12:32:01Z"
+      "updated_at": "2026-03-17T13:54:12Z"
     },
     {
       "id": 1179164349,
@@ -239,14 +239,14 @@
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 733,
+      "stars": 736,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-17T11:44:27Z"
+      "updated_at": "2026-03-17T13:50:22Z"
     },
     {
       "id": 1180297699,
