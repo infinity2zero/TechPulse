@@ -1,204 +1,214 @@
 {
-  "lastUpdated": "2026-03-17T23:36:05.576Z",
+  "lastUpdated": "2026-03-17T23:59:45.496Z",
   "items": [
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 352,
+      "score": 362,
       "by": "mwkaufma",
       "time": 1773773990,
       "comments": 27,
       "domain": "terathon.com"
     },
     {
-      "id": 47417804,
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 141,
-      "by": "stefankuehnel",
-      "time": 1773779019,
-      "comments": 82,
-      "domain": "github.com"
-    },
-    {
       "id": 47416486,
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 212,
+      "score": 226,
       "by": "guidoiaquinti",
       "time": 1773772647,
-      "comments": 73,
+      "comments": 81,
       "domain": "fidget-spinner.github.io"
+    },
+    {
+      "id": 47417804,
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "score": 147,
+      "by": "stefankuehnel",
+      "time": 1773779019,
+      "comments": 86,
+      "domain": "github.com"
     },
     {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 474,
+      "score": 483,
       "by": "crtasm",
       "time": 1773760589,
-      "comments": 183,
+      "comments": 184,
       "domain": "tomshardware.com"
     },
     {
       "id": 47368425,
       "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 135,
+      "score": 139,
       "by": "yincrash",
       "time": 1773429286,
-      "comments": 59,
+      "comments": 66,
       "domain": "youtube.com"
     },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 676,
+      "score": 679,
       "by": "trueduke",
       "time": 1773741233,
-      "comments": 190,
+      "comments": 191,
       "domain": "kagi.com"
-    },
-    {
-      "id": 47374197,
-      "title": "Torturing Rustc by Emulating HKTs",
-      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
-      "score": 36,
-      "by": "g0xA52A2A",
-      "time": 1773473109,
-      "comments": 3,
-      "domain": "harudagondi.space"
-    },
-    {
-      "id": 47416081,
-      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-      "score": 77,
-      "by": "syrusakbary",
-      "time": 1773770510,
-      "comments": 21,
-      "domain": "wasmer.io"
     },
     {
       "id": 47418295,
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 35,
+      "score": 54,
       "by": "pember",
       "time": 1773781466,
-      "comments": 0,
+      "comments": 3,
       "domain": "mistral.ai"
+    },
+    {
+      "id": 47374197,
+      "title": "Torturing Rustc by Emulating HKTs",
+      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+      "score": 42,
+      "by": "g0xA52A2A",
+      "time": 1773473109,
+      "comments": 5,
+      "domain": "harudagondi.space"
     },
     {
       "id": 47414032,
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio",
-      "score": 111,
+      "score": 123,
       "by": "brainless",
       "time": 1773761192,
-      "comments": 27,
+      "comments": 29,
       "domain": "unsloth.ai"
+    },
+    {
+      "id": 47416081,
+      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+      "score": 82,
+      "by": "syrusakbary",
+      "time": 1773770510,
+      "comments": 22,
+      "domain": "wasmer.io"
     },
     {
       "id": 47413195,
       "title": "Node.js needs a virtual file system",
       "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 216,
+      "score": 221,
       "by": "voctor",
       "time": 1773757717,
-      "comments": 179,
+      "comments": 184,
       "domain": "blog.platformatic.dev"
     },
     {
       "id": 47361251,
       "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
       "url": "https://github.com/ywong137/speech-speed",
-      "score": 69,
+      "score": 72,
       "by": "MrBuddyCasino",
       "time": 1773382697,
-      "comments": 16,
+      "comments": 17,
       "domain": "github.com"
+    },
+    {
+      "id": 47371785,
+      "title": "Show HN: Fatal Core Dump – a debugging murder mystery played with GDB",
+      "url": "https://www.robopenguins.com/fatal_core_dump/",
+      "score": 8,
+      "by": "axlan",
+      "time": 1773447164,
+      "comments": 0,
+      "domain": "robopenguins.com"
     },
     {
       "id": 47414440,
       "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
       "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "score": 110,
+      "score": 113,
       "by": "tambourine_man",
       "time": 1773762969,
-      "comments": 50,
+      "comments": 55,
       "domain": "theasc.com"
     },
     {
       "id": 47411480,
       "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
       "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "score": 166,
+      "score": 168,
       "by": "bookofjoe",
       "time": 1773748865,
-      "comments": 93,
+      "comments": 94,
       "domain": "phys.org"
-    },
-    {
-      "id": 47416227,
-      "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
-      "url": "https://github.com/peters/horizon",
-      "score": 44,
-      "by": "petersunde",
-      "time": 1773771264,
-      "comments": 15,
-      "domain": "github.com"
     },
     {
       "id": 47417814,
       "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
       "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
-      "score": 150,
+      "score": 158,
       "by": "1vuio0pswjnm7",
       "time": 1773779073,
-      "comments": 83,
+      "comments": 101,
       "domain": "bbc.com"
-    },
-    {
-      "id": 47416940,
-      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
-      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
-      "score": 148,
-      "by": "par",
-      "time": 1773775036,
-      "comments": 153,
-      "domain": "communityforums.atmeta.com"
     },
     {
       "id": 47387268,
       "title": "Honda is killing its EVs",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "score": 162,
+      "score": 166,
       "by": "sylvainkalache",
       "time": 1773581888,
-      "comments": 275,
+      "comments": 306,
       "domain": "techcrunch.com"
+    },
+    {
+      "id": 47416227,
+      "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+      "url": "https://github.com/peters/horizon",
+      "score": 46,
+      "by": "petersunde",
+      "time": 1773771264,
+      "comments": 17,
+      "domain": "github.com"
     },
     {
       "id": 47416548,
       "title": "Java 26 is here",
       "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
-      "score": 137,
+      "score": 144,
       "by": "mfiguiere",
       "time": 1773773049,
-      "comments": 105,
+      "comments": 113,
       "domain": "hanno.codes"
+    },
+    {
+      "id": 47416940,
+      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
+      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
+      "score": 152,
+      "by": "par",
+      "time": 1773775036,
+      "comments": 161,
+      "domain": "communityforums.atmeta.com"
     },
     {
       "id": 47412726,
       "title": "OpenSUSE Kalpa",
       "url": "https://kalpadesktop.org/",
-      "score": 170,
+      "score": 171,
       "by": "ogogmad",
       "time": 1773755657,
-      "comments": 75,
+      "comments": 76,
       "domain": "kalpadesktop.org"
     },
     {
@@ -212,23 +222,13 @@
       "domain": "peterlavigne.com"
     },
     {
-      "id": 47408727,
-      "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
-      "url": "https://github.com/chenxin-yan/crust",
-      "score": 60,
-      "by": "jellyotsiro",
-      "time": 1773722609,
-      "comments": 24,
-      "domain": "github.com"
-    },
-    {
       "id": 47416131,
       "title": "Illinois Introducing Operating System Account Age Bill",
       "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
-      "score": 219,
+      "score": 228,
       "by": "terminalbraid",
       "time": 1773770767,
-      "comments": 314,
+      "comments": 321,
       "domain": "ilga.gov"
     },
     {
@@ -242,44 +242,44 @@
       "domain": "randomascii.wordpress.com"
     },
     {
+      "id": 47418722,
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "score": 7,
+      "by": "aanet",
+      "time": 1773783759,
+      "comments": 3,
+      "domain": "arxiv.org"
+    },
+    {
+      "id": 47408727,
+      "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
+      "url": "https://github.com/chenxin-yan/crust",
+      "score": 61,
+      "by": "jellyotsiro",
+      "time": 1773722609,
+      "comments": 25,
+      "domain": "github.com"
+    },
+    {
       "id": 47413525,
       "title": "FFmpeg 8.1",
       "url": "https://ffmpeg.org/index.html#pr8.1",
-      "score": 345,
+      "score": 349,
       "by": "gyan",
       "time": 1773759117,
-      "comments": 51,
+      "comments": 52,
       "domain": "ffmpeg.org"
     },
     {
       "id": 47409885,
       "title": "Reverse-engineering Viktor and making it open source",
       "url": "https://matijacniacki.com/blog/openviktor",
-      "score": 149,
+      "score": 152,
       "by": "zggf",
       "time": 1773735334,
       "comments": 65,
       "domain": "matijacniacki.com"
-    },
-    {
-      "id": 47366616,
-      "title": "Font Smuggler – Copy hidden brand fonts into Google Docs",
-      "url": "https://brianmoore.com/fontsmuggler/",
-      "score": 157,
-      "by": "lanewinfield",
-      "time": 1773419744,
-      "comments": 74,
-      "domain": "brianmoore.com"
-    },
-    {
-      "id": 47372020,
-      "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
-      "url": "https://structuredlabs.github.io/threebodyproblem/",
-      "score": 9,
-      "by": "amrutha_",
-      "time": 1773449007,
-      "comments": 5,
-      "domain": "structuredlabs.github.io"
     }
   ]
 }
