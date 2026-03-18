@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-18T19:32:46.010Z",
+  "lastUpdated": "2026-03-18T20:01:23.064Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 7285,
+      "stars": 7387,
       "language": "TypeScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-18T19:32:31Z"
+      "updated_at": "2026-03-18T20:01:10Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 6092,
+      "stars": 6105,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-18T19:32:36Z"
+      "updated_at": "2026-03-18T19:57:52Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 4144,
+      "stars": 4174,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-18T19:32:40Z"
+      "updated_at": "2026-03-18T20:00:22Z"
     },
     {
       "id": 1180325220,
       "name": "webadderall/Recordly",
       "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.",
-      "stars": 2493,
+      "stars": 2495,
       "language": "TypeScript",
       "url": "https://github.com/webadderall/Recordly",
       "owner": {
         "login": "webadderall",
         "avatar_url": "https://avatars.githubusercontent.com/u/131426131?v=4"
       },
-      "updated_at": "2026-03-18T19:26:08Z"
+      "updated_at": "2026-03-18T19:41:23Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 2188,
+      "stars": 2189,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-18T19:25:16Z"
+      "updated_at": "2026-03-18T19:36:14Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 1777,
+      "stars": 1779,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-18T19:14:26Z"
+      "updated_at": "2026-03-18T19:57:52Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 1775,
+      "stars": 1778,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-18T19:16:59Z"
+      "updated_at": "2026-03-18T19:56:29Z"
     },
     {
       "id": 1179413000,
@@ -109,14 +109,14 @@
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1346,
+      "stars": 1349,
       "language": "Shell",
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-18T19:09:37Z"
+      "updated_at": "2026-03-18T19:58:46Z"
     },
     {
       "id": 1181380420,
@@ -135,40 +135,40 @@
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1074,
+      "stars": 1076,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-18T19:30:33Z"
+      "updated_at": "2026-03-18T19:54:00Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 915,
+      "stars": 924,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-18T19:31:35Z"
+      "updated_at": "2026-03-18T20:00:14Z"
     },
     {
       "id": 1180257966,
       "name": "grimmory-tools/grimmory",
       "description": "Grimmory is the successor of booklore.",
-      "stars": 903,
+      "stars": 911,
       "language": "Java",
       "url": "https://github.com/grimmory-tools/grimmory",
       "owner": {
         "login": "grimmory-tools",
         "avatar_url": "https://avatars.githubusercontent.com/u/267772089?v=4"
       },
-      "updated_at": "2026-03-18T19:21:45Z"
+      "updated_at": "2026-03-18T20:00:46Z"
     },
     {
       "id": 1182081931,
@@ -200,14 +200,14 @@
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 775,
+      "stars": 776,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-18T16:47:02Z"
+      "updated_at": "2026-03-18T19:49:22Z"
     },
     {
       "id": 1182741097,
@@ -252,14 +252,14 @@
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 650,
+      "stars": 653,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-18T19:32:43Z"
+      "updated_at": "2026-03-18T19:45:22Z"
     }
   ]
 }
