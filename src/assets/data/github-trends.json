@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-03-18T09:13:39.307Z",
+  "lastUpdated": "2026-03-18T10:11:55.301Z",
   "items": [
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 5445,
+      "stars": 5594,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-18T09:13:11Z"
+      "updated_at": "2026-03-18T10:11:37Z"
     },
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 4994,
+      "stars": 5061,
       "language": "TypeScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-18T09:13:01Z"
+      "updated_at": "2026-03-18T10:11:17Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 3504,
+      "stars": 3564,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-18T09:11:11Z"
+      "updated_at": "2026-03-18T10:11:48Z"
     },
     {
       "id": 1180325220,
       "name": "webadderall/Recordly",
       "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.",
-      "stars": 2406,
+      "stars": 2414,
       "language": "TypeScript",
       "url": "https://github.com/webadderall/Recordly",
       "owner": {
         "login": "webadderall",
         "avatar_url": "https://avatars.githubusercontent.com/u/131426131?v=4"
       },
-      "updated_at": "2026-03-18T09:04:03Z"
+      "updated_at": "2026-03-18T10:09:33Z"
     },
     {
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 2121,
+      "stars": 2122,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-18T08:29:17Z"
+      "updated_at": "2026-03-18T10:10:07Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 1641,
+      "stars": 1659,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-18T09:11:57Z"
+      "updated_at": "2026-03-18T10:11:00Z"
     },
     {
       "id": 1179413000,
       "name": "Narcooo/inkos",
       "description": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates",
-      "stars": 1556,
+      "stars": 1568,
       "language": "TypeScript",
       "url": "https://github.com/Narcooo/inkos",
       "owner": {
         "login": "Narcooo",
         "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
       },
-      "updated_at": "2026-03-18T09:08:02Z"
+      "updated_at": "2026-03-18T09:58:33Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 1487,
+      "stars": 1510,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-18T09:13:30Z"
+      "updated_at": "2026-03-18T10:11:42Z"
     },
     {
       "id": 1181380420,
@@ -122,27 +122,27 @@
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1251,
+      "stars": 1262,
       "language": "Shell",
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-18T09:09:49Z"
+      "updated_at": "2026-03-18T10:08:47Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1014,
+      "stars": 1018,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-18T08:59:39Z"
+      "updated_at": "2026-03-18T09:54:48Z"
     },
     {
       "id": 1180464097,
@@ -161,105 +161,105 @@
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about.",
-      "stars": 765,
+      "stars": 769,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-18T09:06:50Z"
+      "updated_at": "2026-03-18T10:07:25Z"
     },
     {
       "id": 1181942854,
       "name": "karpathy/jobs",
       "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
-      "stars": 751,
+      "stars": 758,
       "language": "HTML",
       "url": "https://github.com/karpathy/jobs",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-18T08:58:01Z"
+      "updated_at": "2026-03-18T09:56:16Z"
     },
     {
       "id": 1182741097,
       "name": "rasbt/llm-architecture-gallery",
       "description": "LLM Architecture Gallery source data",
-      "stars": 734,
+      "stars": 735,
       "language": null,
       "url": "https://github.com/rasbt/llm-architecture-gallery",
       "owner": {
         "login": "rasbt",
         "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
       },
-      "updated_at": "2026-03-18T08:41:10Z"
-    },
-    {
-      "id": 1180297699,
-      "name": "Michaelliv/pi-generative-ui",
-      "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
-      "stars": 716,
-      "language": "TypeScript",
-      "url": "https://github.com/Michaelliv/pi-generative-ui",
-      "owner": {
-        "login": "Michaelliv",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
-      },
-      "updated_at": "2026-03-18T06:36:06Z"
+      "updated_at": "2026-03-18T09:32:46Z"
     },
     {
       "id": 1180257966,
       "name": "grimmory-tools/grimmory",
       "description": "Grimmory is the successor of booklore.",
-      "stars": 710,
+      "stars": 723,
       "language": "Java",
       "url": "https://github.com/grimmory-tools/grimmory",
       "owner": {
         "login": "grimmory-tools",
         "avatar_url": "https://avatars.githubusercontent.com/u/267772089?v=4"
       },
-      "updated_at": "2026-03-18T09:09:17Z"
+      "updated_at": "2026-03-18T10:11:04Z"
+    },
+    {
+      "id": 1180297699,
+      "name": "Michaelliv/pi-generative-ui",
+      "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
+      "stars": 718,
+      "language": "TypeScript",
+      "url": "https://github.com/Michaelliv/pi-generative-ui",
+      "owner": {
+        "login": "Michaelliv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+      },
+      "updated_at": "2026-03-18T09:48:47Z"
     },
     {
       "id": 1180226026,
       "name": "CopilotKit/OpenGenerativeUI",
       "description": "Open-Source Generative UI Framework",
-      "stars": 654,
+      "stars": 655,
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/OpenGenerativeUI",
       "owner": {
         "login": "CopilotKit",
         "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
       },
-      "updated_at": "2026-03-18T09:11:19Z"
+      "updated_at": "2026-03-18T09:30:35Z"
     },
     {
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 580,
+      "stars": 588,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-18T09:11:23Z"
+      "updated_at": "2026-03-18T10:10:52Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 541,
+      "stars": 575,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-18T09:12:30Z"
+      "updated_at": "2026-03-18T10:10:59Z"
     }
   ]
 }
