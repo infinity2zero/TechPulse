@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-03-18T21:24:10.941Z",
+  "lastUpdated": "2026-03-18T21:54:25.145Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 7689,
+      "stars": 7798,
       "language": "TypeScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-18T21:23:50Z"
+      "updated_at": "2026-03-18T21:53:49Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 6140,
+      "stars": 6147,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-18T21:22:33Z"
+      "updated_at": "2026-03-18T21:50:38Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 4285,
+      "stars": 4310,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-18T21:23:13Z"
+      "updated_at": "2026-03-18T21:53:43Z"
     },
     {
       "id": 1180325220,
@@ -57,27 +57,27 @@
       "id": 1180351558,
       "name": "pasky/chrome-cdp-skill",
       "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stars": 2190,
+      "stars": 2192,
       "language": "JavaScript",
       "url": "https://github.com/pasky/chrome-cdp-skill",
       "owner": {
         "login": "pasky",
         "avatar_url": "https://avatars.githubusercontent.com/u/18439?v=4"
       },
-      "updated_at": "2026-03-18T21:09:12Z"
+      "updated_at": "2026-03-18T21:52:29Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 1783,
+      "stars": 1785,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-18T21:18:59Z"
+      "updated_at": "2026-03-18T21:35:37Z"
     },
     {
       "id": 1182403562,
@@ -109,14 +109,14 @@
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1355,
+      "stars": 1358,
       "language": "Shell",
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-18T21:11:14Z"
+      "updated_at": "2026-03-18T21:45:17Z"
     },
     {
       "id": 1181380420,
@@ -148,66 +148,66 @@
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 936,
+      "stars": 941,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-18T21:15:27Z"
+      "updated_at": "2026-03-18T21:47:17Z"
     },
     {
       "id": 1180257966,
       "name": "grimmory-tools/grimmory",
       "description": "Grimmory is the successor of booklore.",
-      "stars": 925,
+      "stars": 930,
       "language": "Java",
       "url": "https://github.com/grimmory-tools/grimmory",
       "owner": {
         "login": "grimmory-tools",
         "avatar_url": "https://avatars.githubusercontent.com/u/267772089?v=4"
       },
-      "updated_at": "2026-03-18T21:19:16Z"
+      "updated_at": "2026-03-18T21:50:45Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about.",
-      "stars": 851,
+      "stars": 854,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-18T21:22:53Z"
+      "updated_at": "2026-03-18T21:40:03Z"
     },
     {
       "id": 1181942854,
       "name": "karpathy/jobs",
       "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
-      "stars": 823,
+      "stars": 824,
       "language": "HTML",
       "url": "https://github.com/karpathy/jobs",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-18T21:13:11Z"
+      "updated_at": "2026-03-18T21:41:37Z"
     },
     {
       "id": 1180464097,
       "name": "upper-up/meta-lobbying-and-other-findings",
       "description": null,
-      "stars": 778,
+      "stars": 779,
       "language": "HTML",
       "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
       "owner": {
         "login": "upper-up",
         "avatar_url": "https://avatars.githubusercontent.com/u/267832602?v=4"
       },
-      "updated_at": "2026-03-18T21:02:35Z"
+      "updated_at": "2026-03-18T21:41:17Z"
     },
     {
       "id": 1182741097,
@@ -252,14 +252,14 @@
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 662,
+      "stars": 665,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-18T21:20:05Z"
+      "updated_at": "2026-03-18T21:51:09Z"
     }
   ]
 }
