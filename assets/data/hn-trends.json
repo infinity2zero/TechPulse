@@ -1,71 +1,71 @@
 {
-  "lastUpdated": "2026-03-18T20:48:07.440Z",
+  "lastUpdated": "2026-03-18T21:24:10.278Z",
   "items": [
-    {
-      "id": 47430797,
-      "title": "FBI is buying location data to track US citizens, director confirms",
-      "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "score": 97,
-      "by": "jbegley",
-      "time": 1773864592,
-      "comments": 30,
-      "domain": "techcrunch.com"
-    },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "url": "https://openrocket.info/",
-      "score": 218,
+      "score": 267,
       "by": "zeristor",
       "time": 1773577214,
-      "comments": 51,
+      "comments": 61,
       "domain": "openrocket.info"
-    },
-    {
-      "id": 47423647,
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 744,
-      "by": "vismit2000",
-      "time": 1773827994,
-      "comments": 377,
-      "domain": "cs.unc.edu"
     },
     {
       "id": 47422759,
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "url": "https://susam.net/wander/",
-      "score": 67,
+      "score": 106,
       "by": "susam",
       "time": 1773819793,
-      "comments": 42,
+      "comments": 46,
       "domain": "susam.net"
     },
     {
-      "id": 47378781,
-      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
-      "url": "https://huggingface.co/datasets/open-index/hacker-news",
-      "score": 189,
-      "by": "tamnd",
-      "time": 1773508323,
-      "comments": 81,
-      "domain": "huggingface.co"
+      "id": 47423647,
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 764,
+      "by": "vismit2000",
+      "time": 1773827994,
+      "comments": 382,
+      "domain": "cs.unc.edu"
+    },
+    {
+      "id": 47427027,
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "score": 174,
+      "by": "hmokiguess",
+      "time": 1773847867,
+      "comments": 125,
+      "domain": "github.com"
     },
     {
       "id": 47380714,
       "title": "Book: The Emerging Science of Machine Learning Benchmarks",
       "url": "https://mlbenchmarks.org/00-preface.html",
-      "score": 26,
+      "score": 35,
       "by": "jxmorris12",
       "time": 1773519303,
       "comments": 0,
       "domain": "mlbenchmarks.org"
     },
     {
+      "id": 47385260,
+      "title": "Review: Samsung Galaxy S26 Ultra",
+      "url": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+      "score": 30,
+      "by": "joozio",
+      "time": 1773561824,
+      "comments": 16,
+      "domain": "wired.com"
+    },
+    {
       "id": 47429988,
       "title": "Show HN: Playing LongTurn FreeCiv with Friends",
       "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-      "score": 22,
+      "score": 26,
       "by": "verelo",
       "time": 1773860514,
       "comments": 14,
@@ -75,211 +75,211 @@
       "id": 47423694,
       "title": "2025 Turing award given for quantum information science",
       "url": "https://awards.acm.org/about/2025-turing",
-      "score": 57,
+      "score": 62,
       "by": "srvmshr",
       "time": 1773828601,
-      "comments": 15,
+      "comments": 17,
       "domain": "awards.acm.org"
-    },
-    {
-      "id": 47428541,
-      "title": "AI coding is gambling",
-      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-      "score": 238,
-      "by": "speckx",
-      "time": 1773854522,
-      "comments": 276,
-      "domain": "notes.visaint.space"
-    },
-    {
-      "id": 47385260,
-      "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
-      "url": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
-      "score": 19,
-      "by": "joozio",
-      "time": 1773561824,
-      "comments": 4,
-      "domain": "wired.com"
     },
     {
       "id": 47422942,
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "url": "https://nightingale.cafe/",
-      "score": 432,
+      "score": 442,
       "by": "rzzzzru",
       "time": 1773821184,
-      "comments": 123,
+      "comments": 126,
       "domain": "nightingale.cafe"
-    },
-    {
-      "id": 47395786,
-      "title": "I reverse-engineered the TiinyAI Pocket Lab from marketing photos",
-      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-      "score": 7,
-      "by": "gravelturnip88",
-      "time": 1773643319,
-      "comments": 1,
-      "domain": "bay41.com"
-    },
-    {
-      "id": 47426057,
-      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
-      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 389,
-      "by": "hn_acker",
-      "time": 1773843242,
-      "comments": 171,
-      "domain": "propublica.org"
-    },
-    {
-      "id": 47427299,
-      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-      "score": 29,
-      "by": "visiwig",
-      "time": 1773849044,
-      "comments": 8,
-      "domain": "svgbackgrounds.com"
-    },
-    {
-      "id": 47427208,
-      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-      "score": 42,
-      "by": "askl",
-      "time": 1773848599,
-      "comments": 19,
-      "domain": "blog.qualys.com"
-    },
-    {
-      "id": 47426932,
-      "title": "Death to Scroll Fade",
-      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
-      "score": 293,
-      "by": "PaulHoule",
-      "time": 1773847438,
-      "comments": 162,
-      "domain": "dbushell.com"
-    },
-    {
-      "id": 47427027,
-      "title": "Nvidia NemoClaw",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 160,
-      "by": "hmokiguess",
-      "time": 1773847867,
-      "comments": 119,
-      "domain": "github.com"
-    },
-    {
-      "id": 47428868,
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "url": "https://tmux.thijsverreck.com",
-      "score": 31,
-      "by": "thijsverreck",
-      "time": 1773855985,
-      "comments": 23,
-      "domain": "tmux.thijsverreck.com"
     },
     {
       "id": 47426936,
       "title": "Machine Payments Protocol (MPP)",
       "url": "https://stripe.com/blog/machine-payments-protocol",
-      "score": 103,
+      "score": 107,
       "by": "bpierre",
       "time": 1773847452,
-      "comments": 55,
+      "comments": 58,
       "domain": "stripe.com"
+    },
+    {
+      "id": 47427299,
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+      "score": 57,
+      "by": "visiwig",
+      "time": 1773849044,
+      "comments": 9,
+      "domain": "svgbackgrounds.com"
+    },
+    {
+      "id": 47431237,
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 7,
+      "by": "Stwerner",
+      "time": 1773866754,
+      "comments": 30,
+      "domain": "nearzero.software"
+    },
+    {
+      "id": 47427208,
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "score": 54,
+      "by": "askl",
+      "time": 1773848599,
+      "comments": 26,
+      "domain": "blog.qualys.com"
+    },
+    {
+      "id": 47430797,
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "score": 160,
+      "by": "jbegley",
+      "time": 1773864592,
+      "comments": 55,
+      "domain": "techcrunch.com"
+    },
+    {
+      "id": 47426057,
+      "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "score": 399,
+      "by": "hn_acker",
+      "time": 1773843242,
+      "comments": 183,
+      "domain": "propublica.org"
+    },
+    {
+      "id": 47378781,
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "score": 219,
+      "by": "tamnd",
+      "time": 1773508323,
+      "comments": 94,
+      "domain": "huggingface.co"
+    },
+    {
+      "id": 47372072,
+      "title": "On a Boat",
+      "url": "https://moq.dev/blog/on-a-boat/",
+      "score": 103,
+      "by": "mmcclure",
+      "time": 1773449420,
+      "comments": 21,
+      "domain": "moq.dev"
+    },
+    {
+      "id": 47428868,
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+      "url": "https://tmux.thijsverreck.com",
+      "score": 35,
+      "by": "thijsverreck",
+      "time": 1773855985,
+      "comments": 25,
+      "domain": "tmux.thijsverreck.com"
+    },
+    {
+      "id": 47426932,
+      "title": "Death to Scroll Fade",
+      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "score": 305,
+      "by": "PaulHoule",
+      "time": 1773847438,
+      "comments": 168,
+      "domain": "dbushell.com"
+    },
+    {
+      "id": 47428734,
+      "title": "I haven't used a mouse for 14 years",
+      "url": "https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/",
+      "score": 32,
+      "by": "speckx",
+      "time": 1773855391,
+      "comments": 55,
+      "domain": "axelk.ee"
+    },
+    {
+      "id": 47389055,
+      "title": "Explore 19th Century Scientific Correspondence",
+      "url": "https://epsilon.ac.uk/",
+      "score": 3,
+      "by": "rramadass",
+      "time": 1773592695,
+      "comments": 0,
+      "domain": "epsilon.ac.uk"
     },
     {
       "id": 47389696,
       "title": "Write up of my homebrew CPU build",
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 215,
+      "score": 219,
       "by": "wwarren",
       "time": 1773596208,
-      "comments": 41,
+      "comments": 44,
       "domain": "willwarren.com"
+    },
+    {
+      "id": 47424458,
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+      "score": 71,
+      "by": "surprisetalk",
+      "time": 1773834284,
+      "comments": 133,
+      "domain": "blog.google"
     },
     {
       "id": 47399330,
       "title": "Using calculus to do number theory",
       "url": "https://hidden-phenomena.com/articles/hensels",
-      "score": 87,
+      "score": 92,
       "by": "cpp_frog",
       "time": 1773670365,
-      "comments": 16,
+      "comments": 17,
       "domain": "hidden-phenomena.com"
     },
     {
       "id": 47427017,
       "title": "Snowflake AI Escapes Sandbox and Executes Malware",
       "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-      "score": 190,
+      "score": 196,
       "by": "ozgune",
       "time": 1773847807,
-      "comments": 58,
+      "comments": 61,
       "domain": "promptarmor.com"
     },
     {
-      "id": 47427647,
-      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
-      "score": 76,
+      "id": 47430826,
+      "title": "Remove your ring camera with a claw hammer",
+      "url": "https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw",
+      "score": 12,
+      "by": "gpvos",
+      "time": 1773864731,
+      "comments": 1,
+      "domain": "hamiltonnolan.com"
+    },
+    {
+      "id": 47425176,
+      "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
+      "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
+      "score": 48,
+      "by": "jgalt212",
+      "time": 1773838367,
+      "comments": 85,
+      "domain": "wsj.com"
+    },
+    {
+      "id": 47428541,
+      "title": "AI coding is gambling",
+      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "score": 267,
       "by": "speckx",
-      "time": 1773850664,
-      "comments": 29,
-      "domain": "phoronix.com"
-    },
-    {
-      "id": 47428810,
-      "title": "EU Inc.: A new harmonised corporate legal regime",
-      "url": "https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en",
-      "score": 71,
-      "by": "guidoiaquinti",
-      "time": 1773855730,
-      "comments": 37,
-      "domain": "commission.europa.eu"
-    },
-    {
-      "id": 47422228,
-      "title": "Celebrating Tony Hoare's mark on computer science",
-      "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 111,
-      "by": "benhoyt",
-      "time": 1773815474,
-      "comments": 30,
-      "domain": "bertrandmeyer.com"
-    },
-    {
-      "id": 47425918,
-      "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
-      "url": "https://github.com/joaoh82/rustunnel",
-      "score": 57,
-      "by": "joaoh82",
-      "time": 1773842443,
-      "comments": 24,
-      "domain": "github.com"
-    },
-    {
-      "id": 47420432,
-      "title": "The pleasures of poor product design",
-      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 238,
-      "by": "NaOH",
-      "time": 1773795645,
-      "comments": 89,
-      "domain": "inconspicuous.info"
-    },
-    {
-      "id": 47412569,
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "url": "https://github.com/adammiribyan/zeroboot",
-      "score": 285,
-      "by": "adammiribyan",
-      "time": 1773755024,
-      "comments": 65,
-      "domain": "github.com"
+      "time": 1773854522,
+      "comments": 304,
+      "domain": "notes.visaint.space"
     }
   ]
 }
