@@ -1,284 +1,294 @@
 {
-  "lastUpdated": "2026-03-19T02:42:23.402Z",
+  "lastUpdated": "2026-03-19T04:35:49.134Z",
   "items": [
+    {
+      "id": 47434024,
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "score": 67,
+      "by": "staticvar",
+      "time": 1773886834,
+      "comments": 19,
+      "domain": "rjcorwin.github.io"
+    },
     {
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 296,
+      "score": 403,
       "by": "matthest",
       "time": 1773879339,
-      "comments": 252,
+      "comments": 400,
       "domain": "pew.org"
     },
     {
-      "id": 47433265,
-      "title": "Autoresearch for SAT Solvers",
-      "url": "https://github.com/iliazintchenko/agent-sat",
-      "score": 43,
-      "by": "chaisan",
-      "time": 1773880832,
-      "comments": 5,
-      "domain": "github.com"
-    },
-    {
-      "id": 47431237,
-      "title": "Warranty Void If Regenerated",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 210,
-      "by": "Stwerner",
-      "time": 1773866754,
-      "comments": 118,
-      "domain": "nearzero.software"
+      "id": 47434047,
+      "title": "A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "score": 52,
+      "by": "signa11",
+      "time": 1773886997,
+      "comments": 10,
+      "domain": "haskellforall.com"
     },
     {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 166,
+      "score": 210,
       "by": "mmastrac",
       "time": 1773590349,
-      "comments": 30,
+      "comments": 38,
       "domain": "gitlab.com"
+    },
+    {
+      "id": 47431237,
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 239,
+      "by": "Stwerner",
+      "time": 1773866754,
+      "comments": 141,
+      "domain": "nearzero.software"
+    },
+    {
+      "id": 47433265,
+      "title": "Autoresearch for SAT Solvers",
+      "url": "https://github.com/iliazintchenko/agent-sat",
+      "score": 68,
+      "by": "chaisan",
+      "time": 1773880832,
+      "comments": 13,
+      "domain": "github.com"
     },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "url": "https://openrocket.info/",
-      "score": 416,
+      "score": 456,
       "by": "zeristor",
       "time": 1773577214,
-      "comments": 85,
+      "comments": 87,
       "domain": "openrocket.info"
-    },
-    {
-      "id": 47431671,
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "score": 78,
-      "by": "xlayn",
-      "time": 1773869472,
-      "comments": 22,
-      "domain": "github.com"
     },
     {
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 852,
+      "score": 884,
       "by": "vismit2000",
       "time": 1773827994,
-      "comments": 416,
+      "comments": 425,
       "domain": "cs.unc.edu"
     },
     {
       "id": 47422759,
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "url": "https://susam.net/wander/",
-      "score": 214,
+      "score": 237,
       "by": "susam",
       "time": 1773819793,
-      "comments": 54,
-      "domain": "susam.net"
-    },
-    {
-      "id": 47401489,
-      "title": "The math that explains why bell curves are everywhere",
-      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "score": 64,
-      "by": "ibobev",
-      "time": 1773679892,
-      "comments": 26,
-      "domain": "quantamagazine.org"
-    },
-    {
-      "id": 47427027,
-      "title": "Nvidia NemoClaw",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 247,
-      "by": "hmokiguess",
-      "time": 1773847867,
-      "comments": 192,
-      "domain": "github.com"
-    },
-    {
-      "id": 47431930,
-      "title": "What’s on HTTP?",
-      "url": "https://whatsonhttp.com/",
-      "score": 35,
-      "by": "elixx",
-      "time": 1773871078,
-      "comments": 11,
-      "domain": "whatsonhttp.com"
-    },
-    {
-      "id": 47387431,
-      "title": "An x86-64 back end for raven-uxn",
-      "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
-      "score": 12,
-      "by": "dcre",
-      "time": 1773583044,
-      "comments": 0,
-      "domain": "mattkeeter.com"
-    },
-    {
-      "id": 47380714,
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "url": "https://mlbenchmarks.org/00-preface.html",
-      "score": 93,
-      "by": "jxmorris12",
-      "time": 1773519303,
-      "comments": 4,
-      "domain": "mlbenchmarks.org"
-    },
-    {
-      "id": 47422942,
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "url": "https://nightingale.cafe/",
-      "score": 520,
-      "by": "rzzzzru",
-      "time": 1773821184,
-      "comments": 148,
-      "domain": "nightingale.cafe"
-    },
-    {
-      "id": 47427208,
-      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-      "score": 103,
-      "by": "askl",
-      "time": 1773848599,
       "comments": 63,
-      "domain": "blog.qualys.com"
-    },
-    {
-      "id": 47427299,
-      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-      "score": 176,
-      "by": "visiwig",
-      "time": 1773849044,
-      "comments": 30,
-      "domain": "svgbackgrounds.com"
-    },
-    {
-      "id": 47429988,
-      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
-      "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-      "score": 51,
-      "by": "verelo",
-      "time": 1773860514,
-      "comments": 27,
-      "domain": "github.com"
+      "domain": "susam.net"
     },
     {
       "id": 47432915,
       "title": "RX – a new random-access JSON alternative",
       "url": "https://github.com/creationix/rx",
-      "score": 14,
+      "score": 37,
       "by": "creationix",
       "time": 1773878285,
-      "comments": 7,
+      "comments": 14,
       "domain": "github.com"
-    },
-    {
-      "id": 47423694,
-      "title": "2025 Turing award given for quantum information science",
-      "url": "https://awards.acm.org/about/2025-turing",
-      "score": 99,
-      "by": "srvmshr",
-      "time": 1773828601,
-      "comments": 26,
-      "domain": "awards.acm.org"
     },
     {
       "id": 47397862,
       "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
       "url": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
-      "score": 6,
+      "score": 21,
       "by": "bookofjoe",
       "time": 1773662792,
       "comments": 1,
       "domain": "smithsonianmag.com"
     },
     {
+      "id": 47427027,
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "score": 269,
+      "by": "hmokiguess",
+      "time": 1773847867,
+      "comments": 200,
+      "domain": "github.com"
+    },
+    {
+      "id": 47387431,
+      "title": "An x86-64 back end for raven-uxn",
+      "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
+      "score": 22,
+      "by": "dcre",
+      "time": 1773583044,
+      "comments": 4,
+      "domain": "mattkeeter.com"
+    },
+    {
+      "id": 47396496,
+      "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+      "url": "https://borderhold.io/play",
+      "score": 6,
+      "by": "sgolem",
+      "time": 1773651070,
+      "comments": 4,
+      "domain": "borderhold.io"
+    },
+    {
+      "id": 47385439,
+      "title": "LotusNotes",
+      "url": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "score": 14,
+      "by": "TMWNN",
+      "time": 1773564059,
+      "comments": 1,
+      "domain": "computer.rip"
+    },
+    {
+      "id": 47380714,
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "score": 100,
+      "by": "jxmorris12",
+      "time": 1773519303,
+      "comments": 4,
+      "domain": "mlbenchmarks.org"
+    },
+    {
+      "id": 47431930,
+      "title": "What’s on HTTP?",
+      "url": "https://whatsonhttp.com/",
+      "score": 45,
+      "by": "elixx",
+      "time": 1773871078,
+      "comments": 23,
+      "domain": "whatsonhttp.com"
+    },
+    {
+      "id": 47434567,
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "score": 19,
+      "by": "adrianwaj",
+      "time": 1773891061,
+      "comments": 4,
+      "domain": "cyberinsider.com"
+    },
+    {
+      "id": 47427299,
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+      "score": 207,
+      "by": "visiwig",
+      "time": 1773849044,
+      "comments": 42,
+      "domain": "svgbackgrounds.com"
+    },
+    {
+      "id": 47427208,
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "score": 116,
+      "by": "askl",
+      "time": 1773848599,
+      "comments": 69,
+      "domain": "blog.qualys.com"
+    },
+    {
+      "id": 47423694,
+      "title": "2025 Turing award given for quantum information science",
+      "url": "https://awards.acm.org/about/2025-turing",
+      "score": 111,
+      "by": "srvmshr",
+      "time": 1773828601,
+      "comments": 25,
+      "domain": "awards.acm.org"
+    },
+    {
+      "id": 47434311,
+      "title": "We Have Learned Nothing",
+      "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "score": 5,
+      "by": "lukestevens",
+      "time": 1773888817,
+      "comments": 0,
+      "domain": "colossus.com"
+    },
+    {
+      "id": 47401489,
+      "title": "The math that explains why bell curves are everywhere",
+      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "score": 84,
+      "by": "ibobev",
+      "time": 1773679892,
+      "comments": 47,
+      "domain": "quantamagazine.org"
+    },
+    {
+      "id": 47423976,
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "score": 179,
+      "by": "aamederen",
+      "time": 1773830959,
+      "comments": 164,
+      "domain": "om.co"
+    },
+    {
+      "id": 47429988,
+      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+      "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+      "score": 61,
+      "by": "verelo",
+      "time": 1773860514,
+      "comments": 28,
+      "domain": "github.com"
+    },
+    {
       "id": 47372072,
       "title": "On a Boat",
       "url": "https://moq.dev/blog/on-a-boat/",
-      "score": 128,
+      "score": 137,
       "by": "mmcclure",
       "time": 1773449420,
       "comments": 23,
       "domain": "moq.dev"
     },
     {
-      "id": 47423976,
-      "title": "OpenAI Has New Focus (on the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-      "score": 156,
-      "by": "aamederen",
-      "time": 1773830959,
-      "comments": 153,
-      "domain": "om.co"
+      "id": 47426936,
+      "title": "Machine Payments Protocol (MPP)",
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "score": 162,
+      "by": "bpierre",
+      "time": 1773847452,
+      "comments": 71,
+      "domain": "stripe.com"
     },
     {
       "id": 47378781,
       "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
       "url": "https://huggingface.co/datasets/open-index/hacker-news",
-      "score": 312,
+      "score": 336,
       "by": "tamnd",
       "time": 1773508323,
-      "comments": 134,
+      "comments": 141,
       "domain": "huggingface.co"
-    },
-    {
-      "id": 47426936,
-      "title": "Machine Payments Protocol (MPP)",
-      "url": "https://stripe.com/blog/machine-payments-protocol",
-      "score": 150,
-      "by": "bpierre",
-      "time": 1773847452,
-      "comments": 69,
-      "domain": "stripe.com"
-    },
-    {
-      "id": 47426057,
-      "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
-      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 441,
-      "by": "hn_acker",
-      "time": 1773843242,
-      "comments": 201,
-      "domain": "propublica.org"
-    },
-    {
-      "id": 47424458,
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "score": 105,
-      "by": "surprisetalk",
-      "time": 1773834284,
-      "comments": 176,
-      "domain": "blog.google"
-    },
-    {
-      "id": 47428868,
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "url": "https://tmux.thijsverreck.com",
-      "score": 69,
-      "by": "thijsverreck",
-      "time": 1773855985,
-      "comments": 34,
-      "domain": "tmux.thijsverreck.com"
     },
     {
       "id": 47425176,
       "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
       "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
-      "score": 95,
+      "score": 111,
       "by": "jgalt212",
       "time": 1773838367,
-      "comments": 153,
+      "comments": 166,
       "domain": "wsj.com"
     }
   ]
