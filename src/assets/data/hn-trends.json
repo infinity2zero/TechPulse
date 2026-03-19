@@ -1,225 +1,255 @@
 {
-  "lastUpdated": "2026-03-19T07:34:40.179Z",
+  "lastUpdated": "2026-03-19T08:05:46.860Z",
   "items": [
     {
       "id": 47434047,
       "title": "A sufficiently detailed spec is code",
       "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 240,
+      "score": 270,
       "by": "signa11",
       "time": 1773886997,
-      "comments": 115,
+      "comments": 140,
       "domain": "haskellforall.com"
     },
     {
       "id": 47434024,
       "title": "Cook: A simple CLI for orchestrating Claude Code",
       "url": "https://rjcorwin.github.io/cook/",
-      "score": 148,
+      "score": 152,
       "by": "staticvar",
       "time": 1773886834,
-      "comments": 34,
+      "comments": 37,
       "domain": "rjcorwin.github.io"
+    },
+    {
+      "id": 47434732,
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "score": 54,
+      "by": "surprisetalk",
+      "time": 1773892503,
+      "comments": 11,
+      "domain": "lcamtuf.substack.com"
     },
     {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 270,
+      "score": 277,
       "by": "mmastrac",
       "time": 1773590349,
-      "comments": 55,
+      "comments": 57,
       "domain": "gitlab.com"
     },
     {
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 292,
+      "score": 299,
       "by": "Stwerner",
       "time": 1773866754,
-      "comments": 163,
+      "comments": 169,
       "domain": "nearzero.software"
-    },
-    {
-      "id": 47434732,
-      "title": "Conway's Game of Life, in real life",
-      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "score": 43,
-      "by": "surprisetalk",
-      "time": 1773892503,
-      "comments": 6,
-      "domain": "lcamtuf.substack.com"
     },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "url": "https://openrocket.info/",
-      "score": 507,
+      "score": 518,
       "by": "zeristor",
       "time": 1773577214,
-      "comments": 89,
+      "comments": 90,
       "domain": "openrocket.info"
     },
     {
       "id": 47433265,
       "title": "Autoresearch for SAT Solvers",
       "url": "https://github.com/iliazintchenko/agent-sat",
-      "score": 99,
+      "score": 106,
       "by": "chaisan",
       "time": 1773880832,
       "comments": 20,
       "domain": "github.com"
     },
     {
-      "id": 47433058,
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 490,
-      "by": "matthest",
-      "time": 1773879339,
-      "comments": 544,
-      "domain": "pew.org"
-    },
-    {
       "id": 47434311,
       "title": "We Have Learned Nothing",
       "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-      "score": 37,
+      "score": 43,
       "by": "lukestevens",
       "time": 1773888817,
-      "comments": 13,
+      "comments": 22,
       "domain": "colossus.com"
     },
     {
       "id": 47385439,
       "title": "LotusNotes",
       "url": "https://computer.rip/2026-03-14-lotusnotes.html",
-      "score": 51,
+      "score": 57,
       "by": "TMWNN",
       "time": 1773564059,
-      "comments": 19,
+      "comments": 25,
       "domain": "computer.rip"
     },
     {
-      "id": 47432915,
-      "title": "RX – a new random-access JSON alternative",
-      "url": "https://github.com/creationix/rx",
-      "score": 73,
-      "by": "creationix",
-      "time": 1773878285,
-      "comments": 21,
-      "domain": "github.com"
+      "id": 47433058,
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "score": 499,
+      "by": "matthest",
+      "time": 1773879339,
+      "comments": 560,
+      "domain": "pew.org"
     },
     {
       "id": 47422759,
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "url": "https://susam.net/wander/",
-      "score": 255,
+      "score": 257,
       "by": "susam",
       "time": 1773819793,
-      "comments": 65,
+      "comments": 66,
       "domain": "susam.net"
+    },
+    {
+      "id": 47432915,
+      "title": "RX – a new random-access JSON alternative",
+      "url": "https://github.com/creationix/rx",
+      "score": 74,
+      "by": "creationix",
+      "time": 1773878285,
+      "comments": 23,
+      "domain": "github.com"
     },
     {
       "id": 47427027,
       "title": "Nvidia NemoClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 290,
+      "score": 292,
       "by": "hmokiguess",
       "time": 1773847867,
-      "comments": 204,
+      "comments": 207,
       "domain": "github.com"
     },
     {
       "id": 47401489,
       "title": "The math that explains why bell curves are everywhere",
       "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "score": 107,
+      "score": 113,
       "by": "ibobev",
       "time": 1773679892,
-      "comments": 61,
+      "comments": 64,
       "domain": "quantamagazine.org"
-    },
-    {
-      "id": 47434567,
-      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
-      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
-      "score": 75,
-      "by": "adrianwaj",
-      "time": 1773891061,
-      "comments": 46,
-      "domain": "cyberinsider.com"
     },
     {
       "id": 47427299,
       "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
       "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-      "score": 237,
+      "score": 240,
       "by": "visiwig",
       "time": 1773849044,
-      "comments": 50,
+      "comments": 52,
       "domain": "svgbackgrounds.com"
-    },
-    {
-      "id": 47435156,
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "score": 83,
-      "by": "dsr12",
-      "time": 1773896456,
-      "comments": 61,
-      "domain": "anthropic.com"
-    },
-    {
-      "id": 47380714,
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "url": "https://mlbenchmarks.org/00-preface.html",
-      "score": 115,
-      "by": "jxmorris12",
-      "time": 1773519303,
-      "comments": 6,
-      "domain": "mlbenchmarks.org"
     },
     {
       "id": 47383103,
       "title": "Show HN: Pano, a bookmarking tool built around shareable shelves",
       "url": "https://www.panoit.com",
-      "score": 4,
+      "score": 6,
       "by": "uelbably",
       "time": 1773536203,
       "comments": 0,
       "domain": "panoit.com"
     },
     {
-      "id": 47397862,
-      "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
-      "url": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
-      "score": 36,
-      "by": "bookofjoe",
-      "time": 1773662792,
-      "comments": 4,
-      "domain": "smithsonianmag.com"
+      "id": 47434567,
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "score": 87,
+      "by": "adrianwaj",
+      "time": 1773891061,
+      "comments": 60,
+      "domain": "cyberinsider.com"
+    },
+    {
+      "id": 47380714,
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "score": 116,
+      "by": "jxmorris12",
+      "time": 1773519303,
+      "comments": 6,
+      "domain": "mlbenchmarks.org"
+    },
+    {
+      "id": 47396496,
+      "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+      "url": "https://borderhold.io/play",
+      "score": 19,
+      "by": "sgolem",
+      "time": 1773651070,
+      "comments": 12,
+      "domain": "borderhold.io"
+    },
+    {
+      "id": 47435156,
+      "title": "What 81,000 people want from AI",
+      "url": "https://www.anthropic.com/features/81k-interviews",
+      "score": 91,
+      "by": "dsr12",
+      "time": 1773896456,
+      "comments": 70,
+      "domain": "anthropic.com"
+    },
+    {
+      "id": 47423976,
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "score": 217,
+      "by": "aamederen",
+      "time": 1773830959,
+      "comments": 187,
+      "domain": "om.co"
+    },
+    {
+      "id": 47427208,
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "score": 123,
+      "by": "askl",
+      "time": 1773848599,
+      "comments": 75,
+      "domain": "blog.qualys.com"
+    },
+    {
+      "id": 47423647,
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 918,
+      "by": "vismit2000",
+      "time": 1773827994,
+      "comments": 431,
+      "domain": "cs.unc.edu"
     },
     {
       "id": 47387431,
       "title": "An x86-64 back end for raven-uxn",
       "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
-      "score": 27,
+      "score": 29,
       "by": "dcre",
       "time": 1773583044,
       "comments": 5,
       "domain": "mattkeeter.com"
     },
     {
-      "id": 47396496,
-      "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
-      "url": "https://borderhold.io/play",
-      "score": 17,
-      "by": "sgolem",
-      "time": 1773651070,
-      "comments": 12,
-      "domain": "borderhold.io"
+      "id": 47397862,
+      "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
+      "url": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
+      "score": 39,
+      "by": "bookofjoe",
+      "time": 1773662792,
+      "comments": 6,
+      "domain": "smithsonianmag.com"
     },
     {
       "id": 47431930,
@@ -232,34 +262,14 @@
       "domain": "whatsonhttp.com"
     },
     {
-      "id": 47427208,
-      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-      "score": 123,
-      "by": "askl",
-      "time": 1773848599,
-      "comments": 72,
-      "domain": "blog.qualys.com"
-    },
-    {
-      "id": 47423647,
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 917,
-      "by": "vismit2000",
-      "time": 1773827994,
-      "comments": 431,
-      "domain": "cs.unc.edu"
-    },
-    {
-      "id": 47423976,
-      "title": "OpenAI Has New Focus (on the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-      "score": 212,
-      "by": "aamederen",
-      "time": 1773830959,
-      "comments": 181,
-      "domain": "om.co"
+      "id": 47381834,
+      "title": "Framework doesn't matter",
+      "url": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
+      "score": 24,
+      "by": "zdw",
+      "time": 1773526466,
+      "comments": 6,
+      "domain": "cemrehancavdar.com"
     },
     {
       "id": 47429988,
@@ -272,14 +282,14 @@
       "domain": "github.com"
     },
     {
-      "id": 47381834,
-      "title": "Framework doesn't matter",
-      "url": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
-      "score": 21,
-      "by": "zdw",
-      "time": 1773526466,
-      "comments": 6,
-      "domain": "cemrehancavdar.com"
+      "id": 47426936,
+      "title": "Machine Payments Protocol (MPP)",
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "score": 172,
+      "by": "bpierre",
+      "time": 1773847452,
+      "comments": 74,
+      "domain": "stripe.com"
     }
   ]
 }
