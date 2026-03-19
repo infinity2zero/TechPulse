@@ -1,185 +1,205 @@
 {
-  "lastUpdated": "2026-03-19T22:30:52.681Z",
+  "lastUpdated": "2026-03-19T22:57:45.520Z",
   "items": [
     {
       "id": 47445599,
       "title": "Cockpit is a web-based graphical interface for servers",
       "url": "https://github.com/cockpit-project/cockpit",
-      "score": 77,
+      "score": 96,
       "by": "modinfo",
       "time": 1773952382,
-      "comments": 31,
+      "comments": 52,
       "domain": "github.com"
     },
     {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1122,
+      "score": 1135,
       "by": "ibraheemdev",
       "time": 1773925550,
-      "comments": 701,
+      "comments": 705,
       "domain": "astral.sh"
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 336,
+      "score": 369,
       "by": "0xedb",
       "time": 1773940564,
-      "comments": 361,
+      "comments": 392,
       "domain": "arstechnica.com"
     },
     {
       "id": 47406160,
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 176,
+      "score": 191,
       "by": "PaulHoule",
       "time": 1773701773,
-      "comments": 24,
+      "comments": 25,
       "domain": "forums.tigsource.com"
     },
     {
       "id": 47416972,
       "title": "How the Turner twins are mythbusting modern technical apparel",
       "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 47,
+      "score": 60,
       "by": "greedo",
       "time": 1773775184,
-      "comments": 22,
+      "comments": 26,
       "domain": "carryology.com"
     },
     {
       "id": 47441546,
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
-      "score": 268,
+      "score": 280,
       "by": "rohan_joshi",
       "time": 1773935766,
-      "comments": 77,
+      "comments": 86,
       "domain": "github.com"
+    },
+    {
+      "id": 47446373,
+      "title": "Be intentional about how AI changes your codebase",
+      "url": "https://aicode.swerdlow.dev",
+      "score": 26,
+      "by": "benswerd",
+      "time": 1773955404,
+      "comments": 13,
+      "domain": "aicode.swerdlow.dev"
     },
     {
       "id": 47446021,
       "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
       "url": "https://esolang-bench.vercel.app/",
-      "score": 25,
+      "score": 34,
       "by": "matt_d",
       "time": 1773954063,
-      "comments": 7,
+      "comments": 10,
       "domain": "esolang-bench.vercel.app"
     },
     {
       "id": 47443588,
       "title": "Noq: n0's new QUIC implementation in Rust",
       "url": "https://www.iroh.computer/blog/noq-announcement",
-      "score": 115,
+      "score": 120,
       "by": "od0",
       "time": 1773944235,
-      "comments": 14,
+      "comments": 15,
       "domain": "iroh.computer"
+    },
+    {
+      "id": 47445246,
+      "title": "Waymo Safety Impact",
+      "url": "https://waymo.com/safety/impact/",
+      "score": 147,
+      "by": "xnx",
+      "time": 1773951215,
+      "comments": 118,
+      "domain": "waymo.com"
     },
     {
       "id": 47444460,
       "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
       "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
-      "score": 52,
+      "score": 58,
       "by": "ofrzeta",
       "time": 1773947905,
-      "comments": 9,
+      "comments": 10,
       "domain": "mattkeeter.com"
     },
     {
-      "id": 47446373,
-      "title": "Be intentional about how AI changes your codebase",
-      "url": "https://aicode.swerdlow.dev",
-      "score": 19,
-      "by": "benswerd",
-      "time": 1773955404,
-      "comments": 9,
-      "domain": "aicode.swerdlow.dev"
+      "id": 47444906,
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "url": "https://www.getclockwise.com",
+      "score": 42,
+      "by": "nigelgutzmann",
+      "time": 1773949851,
+      "comments": 22,
+      "domain": "getclockwise.com"
     },
     {
       "id": 47444072,
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "url": "https://qlabs.sh/10x",
-      "score": 68,
+      "score": 72,
       "by": "sdpmas",
       "time": 1773946285,
-      "comments": 9,
+      "comments": 11,
       "domain": "qlabs.sh"
     },
     {
       "id": 47440430,
       "title": "4Chan mocks £520k fine for UK online safety breaches",
       "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-      "score": 202,
+      "score": 210,
       "by": "mosura",
       "time": 1773931585,
-      "comments": 314,
+      "comments": 331,
       "domain": "bbc.com"
-    },
-    {
-      "id": 47444906,
-      "title": "Clockwise acquired by Salesforce and shutting down next week",
-      "url": "https://www.getclockwise.com",
-      "score": 33,
-      "by": "nigelgutzmann",
-      "time": 1773949851,
-      "comments": 19,
-      "domain": "getclockwise.com"
     },
     {
       "id": 47437655,
       "title": "“Your frustration is the product”",
       "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "score": 354,
+      "score": 366,
       "by": "llm_nerd",
       "time": 1773920064,
-      "comments": 214,
+      "comments": 221,
       "domain": "daringfireball.net"
     },
     {
       "id": 47442435,
       "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "url": "https://blog.skypilot.co/scaling-autoresearch/",
-      "score": 97,
+      "score": 98,
       "by": "hopechong",
       "time": 1773939345,
-      "comments": 37,
+      "comments": 42,
       "domain": "blog.skypilot.co"
     },
     {
       "id": 47439320,
       "title": "OpenBSD: PF queues break the 4 Gbps barrier",
       "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-      "score": 167,
+      "score": 170,
       "by": "defrost",
       "time": 1773927806,
-      "comments": 50,
+      "comments": 52,
       "domain": "undeadly.org"
     },
     {
       "id": 47438675,
       "title": "Juggalo makeup blocks facial recognition technology (2019)",
       "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-      "score": 209,
+      "score": 213,
       "by": "speckx",
       "time": 1773925355,
-      "comments": 130,
+      "comments": 133,
       "domain": "consequence.net"
     },
     {
       "id": 47442834,
       "title": "An update on Steam / GOG changes for OpenTTD",
       "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "score": 235,
+      "score": 241,
       "by": "jandeboevrie",
       "time": 1773941237,
-      "comments": 163,
+      "comments": 169,
       "domain": "openttd.org"
+    },
+    {
+      "id": 47445175,
+      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+      "score": 133,
+      "by": "doener",
+      "time": 1773950942,
+      "comments": 59,
+      "domain": "static.nhtsa.gov"
     },
     {
       "id": 47446211,
@@ -192,20 +212,10 @@
       "domain": "amppublic.com"
     },
     {
-      "id": 47445175,
-      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
-      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
-      "score": 123,
-      "by": "doener",
-      "time": 1773950942,
-      "comments": 52,
-      "domain": "static.nhtsa.gov"
-    },
-    {
       "id": 47440284,
       "title": "The Shape of Inequalities",
       "url": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
-      "score": 83,
+      "score": 85,
       "by": "nomemory",
       "time": 1773931047,
       "comments": 14,
@@ -215,21 +225,61 @@
       "id": 47440759,
       "title": "macOS 26 breaks custom DNS settings including .internal",
       "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-      "score": 284,
+      "score": 296,
       "by": "adamamyl",
       "time": 1773932818,
-      "comments": 140,
+      "comments": 142,
       "domain": "gist.github.com"
+    },
+    {
+      "id": 47446192,
+      "title": "Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla",
+      "url": "https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/",
+      "score": 34,
+      "by": "breve",
+      "time": 1773954764,
+      "comments": 1,
+      "domain": "electrek.co"
+    },
+    {
+      "id": 47443239,
+      "title": "Connecticut and the 1 Kilometer Effect",
+      "url": "https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/",
+      "score": 32,
+      "by": "speckx",
+      "time": 1773942731,
+      "comments": 24,
+      "domain": "alearningaday.blog"
     },
     {
       "id": 47444748,
       "title": "Anthropic takes legal action against OpenCode",
       "url": "https://github.com/anomalyco/opencode/pull/18186",
-      "score": 303,
+      "score": 316,
       "by": "_squared_",
       "time": 1773949046,
-      "comments": 256,
+      "comments": 265,
       "domain": "github.com"
+    },
+    {
+      "id": 47436950,
+      "title": "Afroman found not liable in defamation case",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 1060,
+      "by": "antonymoose",
+      "time": 1773913916,
+      "comments": 599,
+      "domain": "nypost.com"
+    },
+    {
+      "id": 47439300,
+      "title": "I turned Markdown into a protocol for generative UI",
+      "url": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
+      "score": 63,
+      "by": "FabianCarbonara",
+      "time": 1773927734,
+      "comments": 33,
+      "domain": "fabian-kuebler.com"
     },
     {
       "id": 47392285,
@@ -240,56 +290,6 @@
       "time": 1773611091,
       "comments": 1,
       "domain": "arxiv.org"
-    },
-    {
-      "id": 47443239,
-      "title": "Connecticut and the 1 Kilometer Effect",
-      "url": "https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/",
-      "score": 30,
-      "by": "speckx",
-      "time": 1773942731,
-      "comments": 24,
-      "domain": "alearningaday.blog"
-    },
-    {
-      "id": 47408546,
-      "title": "The Power of Playtesting in the Classroom",
-      "url": "https://landenlove.com/the-power-of-playtesting-in-the-classroom/",
-      "score": 6,
-      "by": "LandenLove",
-      "time": 1773721000,
-      "comments": 4,
-      "domain": "landenlove.com"
-    },
-    {
-      "id": 47445246,
-      "title": "Waymo Safety Impact",
-      "url": "https://waymo.com/safety/impact/",
-      "score": 132,
-      "by": "xnx",
-      "time": 1773951215,
-      "comments": 100,
-      "domain": "waymo.com"
-    },
-    {
-      "id": 47439300,
-      "title": "I turned Markdown into a protocol for generative UI",
-      "url": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
-      "score": 58,
-      "by": "FabianCarbonara",
-      "time": 1773927734,
-      "comments": 32,
-      "domain": "fabian-kuebler.com"
-    },
-    {
-      "id": 47436950,
-      "title": "Afroman found not liable in defamation case",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 1044,
-      "by": "antonymoose",
-      "time": 1773913916,
-      "comments": 593,
-      "domain": "nypost.com"
     }
   ]
 }
