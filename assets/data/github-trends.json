@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-19T23:27:47.016Z",
+  "lastUpdated": "2026-03-19T23:52:40.391Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 12393,
+      "stars": 12443,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-19T23:27:25Z"
+      "updated_at": "2026-03-19T23:52:14Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 6762,
+      "stars": 6766,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-19T23:27:26Z"
+      "updated_at": "2026-03-19T23:49:49Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 5151,
+      "stars": 5156,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-19T23:26:18Z"
+      "updated_at": "2026-03-19T23:45:33Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 2383,
+      "stars": 2392,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-19T23:16:52Z"
+      "updated_at": "2026-03-19T23:51:29Z"
     },
     {
       "id": 1180351558,
@@ -70,53 +70,53 @@
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 1997,
+      "stars": 1998,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-19T23:09:55Z"
+      "updated_at": "2026-03-19T23:37:30Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 1647,
+      "stars": 1656,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-19T23:25:01Z"
+      "updated_at": "2026-03-19T23:50:50Z"
     },
     {
       "id": 1180917769,
       "name": "uditgoenka/autoresearch",
       "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
-      "stars": 1499,
+      "stars": 1501,
       "language": "Shell",
       "url": "https://github.com/uditgoenka/autoresearch",
       "owner": {
         "login": "uditgoenka",
         "avatar_url": "https://avatars.githubusercontent.com/u/1478769?v=4"
       },
-      "updated_at": "2026-03-19T23:22:44Z"
+      "updated_at": "2026-03-19T23:36:26Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1479,
+      "stars": 1488,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-19T23:25:28Z"
+      "updated_at": "2026-03-19T23:50:00Z"
     },
     {
       "id": 1181380420,
@@ -135,66 +135,66 @@
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1131,
+      "stars": 1132,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-19T23:05:43Z"
+      "updated_at": "2026-03-19T23:36:00Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 1068,
+      "stars": 1070,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-19T23:22:48Z"
+      "updated_at": "2026-03-19T23:39:10Z"
     },
     {
       "id": 1182385218,
       "name": "cnlimiter/codex-manager",
       "description": null,
-      "stars": 1023,
+      "stars": 1026,
       "language": "Python",
       "url": "https://github.com/cnlimiter/codex-manager",
       "owner": {
         "login": "cnlimiter",
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
-      "updated_at": "2026-03-19T23:19:47Z"
+      "updated_at": "2026-03-19T23:51:29Z"
     },
     {
       "id": 1181942854,
       "name": "karpathy/jobs",
       "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
-      "stars": 910,
+      "stars": 911,
       "language": "HTML",
       "url": "https://github.com/karpathy/jobs",
       "owner": {
         "login": "karpathy",
         "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
-      "updated_at": "2026-03-19T23:12:44Z"
+      "updated_at": "2026-03-19T23:31:17Z"
     },
     {
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 816,
+      "stars": 817,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-19T23:03:41Z"
+      "updated_at": "2026-03-19T23:30:07Z"
     },
     {
       "id": 1180464097,
@@ -210,6 +210,19 @@
       "updated_at": "2026-03-19T22:46:45Z"
     },
     {
+      "id": 1182712729,
+      "name": "zerobootdev/zeroboot",
+      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+      "stars": 788,
+      "language": "Rust",
+      "url": "https://github.com/zerobootdev/zeroboot",
+      "owner": {
+        "login": "zerobootdev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
+      },
+      "updated_at": "2026-03-19T23:47:40Z"
+    },
+    {
       "id": 1182741097,
       "name": "rasbt/llm-architecture-gallery",
       "description": "LLM Architecture Gallery source data",
@@ -223,43 +236,30 @@
       "updated_at": "2026-03-19T21:48:19Z"
     },
     {
-      "id": 1182712729,
-      "name": "zerobootdev/zeroboot",
-      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 783,
-      "language": "Rust",
-      "url": "https://github.com/zerobootdev/zeroboot",
-      "owner": {
-        "login": "zerobootdev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
-      },
-      "updated_at": "2026-03-19T23:27:22Z"
-    },
-    {
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 777,
+      "stars": 779,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-19T23:27:01Z"
+      "updated_at": "2026-03-19T23:35:30Z"
     },
     {
       "id": 1180463457,
       "name": "EricLengyel/Slug",
       "description": "Reference code for the Slug Algorithm.",
-      "stars": 775,
+      "stars": 776,
       "language": "HLSL",
       "url": "https://github.com/EricLengyel/Slug",
       "owner": {
         "login": "EricLengyel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8554659?v=4"
       },
-      "updated_at": "2026-03-19T23:22:53Z"
+      "updated_at": "2026-03-19T23:34:35Z"
     }
   ]
 }
