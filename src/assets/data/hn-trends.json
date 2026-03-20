@@ -1,121 +1,111 @@
 {
-  "lastUpdated": "2026-03-20T17:21:13.515Z",
+  "lastUpdated": "2026-03-20T17:56:05.689Z",
   "items": [
-    {
-      "id": 47457107,
-      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "url": "https://www.sharpai.org/benchmark/",
-      "score": 23,
-      "by": "aegis_camera",
-      "time": 1774024902,
-      "comments": 21,
-      "domain": "sharpai.org"
-    },
     {
       "id": 47410871,
       "title": "VisiCalc Reconstructed",
       "url": "https://zserge.com/posts/visicalc/",
-      "score": 61,
+      "score": 77,
       "by": "ingve",
       "time": 1773743995,
-      "comments": 23,
+      "comments": 35,
       "domain": "zserge.com"
     },
     {
       "id": 47450478,
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 613,
+      "score": 626,
       "by": "bookstore-romeo",
       "time": 1773980651,
-      "comments": 202,
+      "comments": 211,
       "domain": "science.org"
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 74,
+      "score": 98,
       "by": "MrDresden",
       "time": 1774011716,
-      "comments": 89,
+      "comments": 126,
       "domain": "lemonde.fr"
     },
     {
       "id": 47424592,
       "title": "Parallel Perl – autoparallelizing interpreter with JIT",
       "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 29,
+      "score": 35,
       "by": "bmn__",
       "time": 1773835145,
-      "comments": 6,
+      "comments": 11,
       "domain": "perl.petamem.com"
-    },
-    {
-      "id": 47416543,
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 129,
-      "by": "michaefe",
-      "time": 1773773033,
-      "comments": 63,
-      "domain": "practical.engineering"
     },
     {
       "id": 47452955,
       "title": "Entso-E final report on Iberian 2025 blackout",
       "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 129,
+      "score": 133,
       "by": "Rygian",
       "time": 1774004607,
-      "comments": 34,
+      "comments": 41,
       "domain": "entsoe.eu"
     },
     {
       "id": 47453947,
       "title": "The Social Smolnet",
       "url": "https://ploum.net/2026-03-20-social-smolnet.html",
-      "score": 53,
+      "score": 63,
       "by": "aebtebeten",
       "time": 1774011739,
-      "comments": 4,
+      "comments": 5,
       "domain": "ploum.net"
+    },
+    {
+      "id": 47416543,
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "score": 139,
+      "by": "michaefe",
+      "time": 1773773033,
+      "comments": 80,
+      "domain": "practical.engineering"
     },
     {
       "id": 47407293,
       "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
       "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
-      "score": 98,
+      "score": 106,
       "by": "y1n0",
       "time": 1773709361,
-      "comments": 35,
+      "comments": 41,
       "domain": "khronos.org"
-    },
-    {
-      "id": 47454164,
-      "title": "HP realizes that mandatory 15-minute support call wait times isn't good support",
-      "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
-      "score": 211,
-      "by": "felineflock",
-      "time": 1774013036,
-      "comments": 130,
-      "domain": "arstechnica.com"
     },
     {
       "id": 47455365,
       "title": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
       "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
-      "score": 110,
+      "score": 132,
       "by": "pera",
       "time": 1774018089,
-      "comments": 41,
+      "comments": 52,
       "domain": "forbes.com"
+    },
+    {
+      "id": 47454164,
+      "title": "HP trialed mandatory 15-minute support call wait times (2025)",
+      "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
+      "score": 226,
+      "by": "felineflock",
+      "time": 1774013036,
+      "comments": 139,
+      "domain": "arstechnica.com"
     },
     {
       "id": 47409055,
       "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
       "url": "https://arxiv.org/abs/2603.09229",
-      "score": 129,
+      "score": 132,
       "by": "matt_d",
       "time": 1773725906,
       "comments": 10,
@@ -125,50 +115,100 @@
       "id": 47456987,
       "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
       "url": "https://www.mollywhite.net/micro/entry/202603172318",
-      "score": 25,
+      "score": 36,
       "by": "speckx",
       "time": 1774024444,
-      "comments": 10,
+      "comments": 21,
       "domain": "mollywhite.net"
-    },
-    {
-      "id": 47418247,
-      "title": "Regex Blaster",
-      "url": "https://mdp.github.io/regex-blaster/",
-      "score": 77,
-      "by": "mdp",
-      "time": 1773781254,
-      "comments": 33,
-      "domain": "mdp.github.io"
     },
     {
       "id": 47397372,
       "title": "Just Put It on a Map",
       "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
-      "score": 87,
+      "score": 96,
       "by": "surprisetalk",
       "time": 1773658390,
-      "comments": 39,
+      "comments": 43,
       "domain": "progressandpoverty.substack.com"
+    },
+    {
+      "id": 47418247,
+      "title": "Regex Blaster",
+      "url": "https://mdp.github.io/regex-blaster/",
+      "score": 88,
+      "by": "mdp",
+      "time": 1773781254,
+      "comments": 36,
+      "domain": "mdp.github.io"
+    },
+    {
+      "id": 47457929,
+      "title": "US to deploy additional troops to the Middle East, officials say",
+      "url": "https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/",
+      "score": 16,
+      "by": "handfuloflight",
+      "time": 1774028253,
+      "comments": 1,
+      "domain": "reuters.com"
+    },
+    {
+      "id": 47457107,
+      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+      "url": "https://www.sharpai.org/benchmark/",
+      "score": 61,
+      "by": "aegis_camera",
+      "time": 1774024902,
+      "comments": 69,
+      "domain": "sharpai.org"
     },
     {
       "id": 47452399,
       "title": "The Soul of a Pedicab Driver",
       "url": "https://www.sheldonbrown.com/pedicab.html",
-      "score": 102,
+      "score": 106,
       "by": "haritha-j",
       "time": 1773999656,
-      "comments": 28,
+      "comments": 30,
       "domain": "sheldonbrown.com"
+    },
+    {
+      "id": 47456153,
+      "title": "Oregon school cell phone ban: 'Engaged students, joyful teachers'",
+      "url": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
+      "score": 191,
+      "by": "nxobject",
+      "time": 1774021159,
+      "comments": 132,
+      "domain": "portlandtribune.com"
+    },
+    {
+      "id": 47452515,
+      "title": "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
+      "url": "https://github.com/RasKrebs/sonar",
+      "score": 92,
+      "by": "raskrebs",
+      "time": 1774000796,
+      "comments": 48,
+      "domain": "github.com"
+    },
+    {
+      "id": 47403905,
+      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 182,
+      "by": "m463",
+      "time": 1773690560,
+      "comments": 87,
+      "domain": "fsf.org"
     },
     {
       "id": 47455489,
       "title": "Having Kids (2019)",
       "url": "https://paulgraham.com/kids.html",
-      "score": 84,
+      "score": 90,
       "by": "Anon84",
       "time": 1774018563,
-      "comments": 126,
+      "comments": 150,
       "domain": "paulgraham.com"
     },
     {
@@ -182,54 +222,44 @@
       "domain": "slab.org"
     },
     {
-      "id": 47444319,
-      "title": "Delve – Fake Compliance as a Service",
-      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 80,
-      "by": "freddykruger",
-      "time": 1773947282,
-      "comments": 26,
-      "domain": "deepdelver.substack.com"
-    },
-    {
       "id": 47413879,
       "title": "Drawvg Filter for FFmpeg",
       "url": "https://ayosec.github.io/ffmpeg-drawvg/",
-      "score": 150,
+      "score": 151,
       "by": "nolta",
       "time": 1773760599,
       "comments": 25,
       "domain": "ayosec.github.io"
     },
     {
-      "id": 47456153,
-      "title": "Oregon school cell phone ban: 'Engaged students, joyful teachers'",
-      "url": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
-      "score": 163,
-      "by": "nxobject",
-      "time": 1774021159,
-      "comments": 116,
-      "domain": "portlandtribune.com"
-    },
-    {
       "id": 47448994,
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 251,
+      "score": 257,
       "by": "nyxgeek",
       "time": 1773968985,
-      "comments": 77,
+      "comments": 78,
       "domain": "trustedsec.com"
     },
     {
       "id": 47448566,
       "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
       "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 236,
+      "score": 244,
       "by": "robotnikman",
       "time": 1773966407,
-      "comments": 69,
+      "comments": 70,
       "domain": "gist.github.com"
+    },
+    {
+      "id": 47413661,
+      "title": "Randomization in Controlled Experiments",
+      "url": "https://queue.acm.org/detail.cfm?id=3778029",
+      "score": 4,
+      "by": "pykq",
+      "time": 1773759699,
+      "comments": 0,
+      "domain": "queue.acm.org"
     },
     {
       "id": 47396593,
@@ -242,40 +272,10 @@
       "domain": "willwhang.dev"
     },
     {
-      "id": 47454384,
-      "title": "Java is fast, code might not be",
-      "url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
-      "score": 97,
-      "by": "siegers",
-      "time": 1774014203,
-      "comments": 95,
-      "domain": "jvogel.me"
-    },
-    {
-      "id": 47452515,
-      "title": "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
-      "url": "https://github.com/RasKrebs/sonar",
-      "score": 84,
-      "by": "raskrebs",
-      "time": 1774000796,
-      "comments": 46,
-      "domain": "github.com"
-    },
-    {
-      "id": 47454782,
-      "title": "Chuck Norris has died",
-      "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-      "score": 467,
-      "by": "mp3il",
-      "time": 1774015798,
-      "comments": 270,
-      "domain": "variety.com"
-    },
-    {
       "id": 47416972,
       "title": "How the Turner twins are mythbusting modern technical apparel",
       "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 310,
+      "score": 313,
       "by": "greedo",
       "time": 1773775184,
       "comments": 161,
@@ -285,10 +285,10 @@
       "id": 47448524,
       "title": "Push events into a running session with channels",
       "url": "https://code.claude.com/docs/en/channels",
-      "score": 378,
+      "score": 382,
       "by": "jasonjmcghee",
       "time": 1773966128,
-      "comments": 226,
+      "comments": 229,
       "domain": "code.claude.com"
     }
   ]
