@@ -1,64 +1,64 @@
 {
-  "lastUpdated": "2026-03-20T21:47:23.370Z",
+  "lastUpdated": "2026-03-20T22:01:03.616Z",
   "items": [
-    {
-      "id": 47459296,
-      "title": "Our commitment to Windows quality",
-      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 180,
-      "by": "hadrien01",
-      "time": 1774034173,
-      "comments": 262,
-      "domain": "blogs.windows.com"
-    },
     {
       "id": 47460525,
       "title": "OpenCode – The open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 47,
+      "score": 79,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 14,
+      "comments": 22,
       "domain": "opencode.ai"
+    },
+    {
+      "id": 47459296,
+      "title": "Our commitment to Windows quality",
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "score": 196,
+      "by": "hadrien01",
+      "time": 1774034173,
+      "comments": 318,
+      "domain": "blogs.windows.com"
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 394,
+      "score": 398,
       "by": "MrDresden",
       "time": 1774011716,
-      "comments": 337,
+      "comments": 348,
       "domain": "lemonde.fr"
     },
     {
       "id": 47460452,
       "title": "A Japanese Glossary of Chopsticks Faux Pas",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 26,
+      "score": 38,
       "by": "cainxinth",
       "time": 1774040097,
-      "comments": 19,
+      "comments": 32,
       "domain": "nippon.com"
     },
     {
       "id": 47458595,
       "title": "Attention Residuals",
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 73,
+      "score": 78,
       "by": "GaggiX",
       "time": 1774031021,
-      "comments": 13,
+      "comments": 14,
       "domain": "github.com"
     },
     {
       "id": 47416543,
       "title": "The Los Angeles Aqueduct Is Wild",
       "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 250,
+      "score": 256,
       "by": "michaefe",
       "time": 1773773033,
-      "comments": 138,
+      "comments": 139,
       "domain": "practical.engineering"
     },
     {
@@ -75,10 +75,10 @@
       "id": 47458348,
       "title": "Show HN: I made an email app inspired by Arc browser",
       "url": "https://demo.define.app",
-      "score": 19,
+      "score": 21,
       "by": "johndamaia",
       "time": 1774029980,
-      "comments": 7,
+      "comments": 11,
       "domain": "demo.define.app"
     },
     {
@@ -92,20 +92,10 @@
       "domain": "ashvardanian.com"
     },
     {
-      "id": 47460154,
-      "title": "The bespoke software revolution? I'm not buying it",
-      "url": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
-      "score": 57,
-      "by": "FireBy2024",
-      "time": 1774038323,
-      "comments": 25,
-      "domain": "world.hey.com"
-    },
-    {
       "id": 47424592,
       "title": "Parallel Perl – autoparallelizing interpreter with JIT",
       "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 84,
+      "score": 85,
       "by": "bmn__",
       "time": 1773835145,
       "comments": 32,
@@ -115,11 +105,21 @@
       "id": 47444319,
       "title": "Delve – Fake Compliance as a Service",
       "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 431,
+      "score": 442,
       "by": "freddykruger",
       "time": 1773947282,
-      "comments": 143,
+      "comments": 145,
       "domain": "deepdelver.substack.com"
+    },
+    {
+      "id": 47460154,
+      "title": "The bespoke software revolution? I'm not buying it",
+      "url": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
+      "score": 65,
+      "by": "FireBy2024",
+      "time": 1774038323,
+      "comments": 36,
+      "domain": "world.hey.com"
     },
     {
       "id": 47452955,
@@ -135,17 +135,27 @@
       "id": 47407184,
       "title": "Show HN: An open-source safety net for home hemodialysis",
       "url": "https://safehemo.com/",
-      "score": 24,
+      "score": 25,
       "by": "qweliantanner",
       "time": 1773708495,
       "comments": 6,
       "domain": "safehemo.com"
     },
     {
+      "id": 47431304,
+      "title": "Work_mem: It's a Trap",
+      "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
+      "score": 7,
+      "by": "enz",
+      "time": 1773867150,
+      "comments": 0,
+      "domain": "mydbanotebook.org"
+    },
+    {
       "id": 47453947,
       "title": "The Social Smolnet",
       "url": "https://ploum.net/2026-03-20-social-smolnet.html",
-      "score": 95,
+      "score": 96,
       "by": "aebtebeten",
       "time": 1774011739,
       "comments": 11,
@@ -155,7 +165,7 @@
       "id": 47455365,
       "title": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
       "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
-      "score": 279,
+      "score": 282,
       "by": "pera",
       "time": 1774018089,
       "comments": 126,
@@ -165,7 +175,7 @@
       "id": 47407293,
       "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
       "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
-      "score": 137,
+      "score": 138,
       "by": "y1n0",
       "time": 1773709361,
       "comments": 51,
@@ -185,31 +195,41 @@
       "id": 47418247,
       "title": "Regex Blaster",
       "url": "https://mdp.github.io/regex-blaster/",
-      "score": 130,
+      "score": 131,
       "by": "mdp",
       "time": 1773781254,
       "comments": 51,
       "domain": "mdp.github.io"
     },
     {
-      "id": 47431304,
-      "title": "Work_mem: It's a Trap",
-      "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
-      "score": 3,
-      "by": "enz",
-      "time": 1773867150,
-      "comments": 0,
-      "domain": "mydbanotebook.org"
+      "id": 47423762,
+      "title": "The worst volume control UI in the world (2017)",
+      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+      "score": 29,
+      "by": "andsoitis",
+      "time": 1773829358,
+      "comments": 17,
+      "domain": "uxdesign.cc"
     },
     {
       "id": 47450478,
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 692,
+      "score": 693,
       "by": "bookstore-romeo",
       "time": 1773980651,
-      "comments": 235,
+      "comments": 236,
       "domain": "science.org"
+    },
+    {
+      "id": 47403905,
+      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 236,
+      "by": "m463",
+      "time": 1773690560,
+      "comments": 111,
+      "domain": "fsf.org"
     },
     {
       "id": 47397372,
@@ -218,68 +238,48 @@
       "score": 128,
       "by": "surprisetalk",
       "time": 1773658390,
-      "comments": 62,
+      "comments": 63,
       "domain": "progressandpoverty.substack.com"
     },
     {
       "id": 47420950,
       "title": "Too Much Color",
       "url": "https://www.keithcirkel.co.uk/too-much-color/",
-      "score": 98,
+      "score": 99,
       "by": "maguay",
       "time": 1773800903,
       "comments": 50,
       "domain": "keithcirkel.co.uk"
     },
     {
-      "id": 47403905,
-      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 235,
-      "by": "m463",
-      "time": 1773690560,
-      "comments": 110,
-      "domain": "fsf.org"
-    },
-    {
       "id": 47454384,
       "title": "Java is fast, code might not be",
       "url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
-      "score": 171,
+      "score": 173,
       "by": "siegers",
       "time": 1774014203,
-      "comments": 173,
+      "comments": 176,
       "domain": "jvogel.me"
-    },
-    {
-      "id": 47423762,
-      "title": "The worst volume control UI in the world (2017)",
-      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "score": 28,
-      "by": "andsoitis",
-      "time": 1773829358,
-      "comments": 15,
-      "domain": "uxdesign.cc"
-    },
-    {
-      "id": 47456421,
-      "title": "Meme Buildings",
-      "url": "https://misfitsarchitecture.com/2026/03/15/meme-buildings/",
-      "score": 3,
-      "by": "speckx",
-      "time": 1774022140,
-      "comments": 0,
-      "domain": "misfitsarchitecture.com"
     },
     {
       "id": 47452515,
       "title": "Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost",
       "url": "https://github.com/RasKrebs/sonar",
-      "score": 118,
+      "score": 119,
       "by": "raskrebs",
       "time": 1774000796,
-      "comments": 62,
+      "comments": 63,
       "domain": "github.com"
+    },
+    {
+      "id": 47452399,
+      "title": "The Soul of a Pedicab Driver",
+      "url": "https://www.sheldonbrown.com/pedicab.html",
+      "score": 133,
+      "by": "haritha-j",
+      "time": 1773999656,
+      "comments": 38,
+      "domain": "sheldonbrown.com"
     },
     {
       "id": 47454164,
@@ -288,7 +288,7 @@
       "score": 291,
       "by": "felineflock",
       "time": 1774013036,
-      "comments": 192,
+      "comments": 195,
       "domain": "arstechnica.com"
     }
   ]
