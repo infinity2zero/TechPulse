@@ -1,96 +1,109 @@
 {
-  "lastUpdated": "2026-03-20T21:17:46.644Z",
+  "lastUpdated": "2026-03-20T21:47:23.857Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14254,
+      "stars": 14260,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-20T21:13:24Z"
+      "updated_at": "2026-03-20T21:46:58Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7104,
+      "stars": 7105,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-20T21:12:40Z"
+      "updated_at": "2026-03-20T21:46:29Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 5681,
+      "stars": 5688,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-20T21:14:34Z"
+      "updated_at": "2026-03-20T21:44:12Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 3043,
+      "stars": 3046,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-20T21:06:46Z"
+      "updated_at": "2026-03-20T21:42:54Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2195,
+      "stars": 2209,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-20T21:17:36Z"
+      "updated_at": "2026-03-20T21:46:27Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2019,
+      "stars": 2031,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-20T21:01:24Z"
+      "updated_at": "2026-03-20T21:47:16Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1813,
+      "stars": 1814,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-20T21:16:57Z"
+      "updated_at": "2026-03-20T21:25:40Z"
+    },
+    {
+      "id": 1182712729,
+      "name": "zerobootdev/zeroboot",
+      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+      "stars": 1353,
+      "language": "Rust",
+      "url": "https://github.com/zerobootdev/zeroboot",
+      "owner": {
+        "login": "zerobootdev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
+      },
+      "updated_at": "2026-03-20T21:44:53Z"
     },
     {
       "id": 1181380420,
@@ -106,17 +119,17 @@
       "updated_at": "2026-03-20T20:40:44Z"
     },
     {
-      "id": 1182712729,
-      "name": "zerobootdev/zeroboot",
-      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1336,
-      "language": "Rust",
-      "url": "https://github.com/zerobootdev/zeroboot",
+      "id": 1182081931,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
+      "stars": 1249,
+      "language": "TypeScript",
+      "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
-        "login": "zerobootdev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
+        "login": "Lum1104",
+        "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-20T21:12:36Z"
+      "updated_at": "2026-03-20T21:45:04Z"
     },
     {
       "id": 1182385218,
@@ -130,19 +143,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
       "updated_at": "2026-03-20T20:38:06Z"
-    },
-    {
-      "id": 1182081931,
-      "name": "Lum1104/Understand-Anything",
-      "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 1227,
-      "language": "TypeScript",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "owner": {
-        "login": "Lum1104",
-        "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
-      },
-      "updated_at": "2026-03-20T21:16:29Z"
     },
     {
       "id": 1182715089,
@@ -174,27 +174,27 @@
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 907,
+      "stars": 912,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-20T21:16:44Z"
+      "updated_at": "2026-03-20T21:42:38Z"
     },
     {
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 903,
+      "stars": 904,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-20T20:52:22Z"
+      "updated_at": "2026-03-20T21:40:15Z"
     },
     {
       "id": 1182741097,
@@ -213,14 +213,14 @@
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 762,
+      "stars": 766,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-20T21:03:30Z"
+      "updated_at": "2026-03-20T21:43:13Z"
     },
     {
       "id": 1182454913,
