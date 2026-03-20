@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-20T12:25:02.580Z",
+  "lastUpdated": "2026-03-20T13:37:58.784Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw",
-      "stars": 13942,
+      "stars": 13999,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-20T12:24:44Z"
+      "updated_at": "2026-03-20T13:37:33Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 6998,
+      "stars": 7020,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-20T12:25:00Z"
+      "updated_at": "2026-03-20T13:36:40Z"
     },
     {
       "id": 1181479848,
       "name": "calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": 5412,
+      "stars": 5458,
       "language": "JavaScript",
       "url": "https://github.com/calesthio/Crucix",
       "owner": {
         "login": "calesthio",
         "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
       },
-      "updated_at": "2026-03-20T12:24:41Z"
+      "updated_at": "2026-03-20T13:33:51Z"
     },
     {
       "id": 1181982220,
       "name": "jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stars": 2805,
+      "stars": 2842,
       "language": "TypeScript",
       "url": "https://github.com/jackwener/opencli",
       "owner": {
         "login": "jackwener",
         "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
       },
-      "updated_at": "2026-03-20T12:23:18Z"
+      "updated_at": "2026-03-20T13:34:02Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2109,
+      "stars": 2121,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-20T11:58:26Z"
+      "updated_at": "2026-03-20T13:27:44Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 1854,
+      "stars": 1872,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-20T12:08:22Z"
+      "updated_at": "2026-03-20T13:37:40Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1705,
+      "stars": 1730,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-20T12:19:41Z"
+      "updated_at": "2026-03-20T13:37:45Z"
     },
     {
       "id": 1181380420,
@@ -109,92 +109,92 @@
       "id": 1182385218,
       "name": "cnlimiter/codex-manager",
       "description": null,
-      "stars": 1186,
+      "stars": 1204,
       "language": "Python",
       "url": "https://github.com/cnlimiter/codex-manager",
       "owner": {
         "login": "cnlimiter",
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
-      "updated_at": "2026-03-20T12:24:54Z"
+      "updated_at": "2026-03-20T13:37:02Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1152,
+      "stars": 1154,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-20T12:23:05Z"
+      "updated_at": "2026-03-20T13:30:13Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 1139,
+      "stars": 1143,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-20T12:16:57Z"
-    },
-    {
-      "id": 1181942854,
-      "name": "karpathy/jobs",
-      "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
-      "stars": 939,
-      "language": "HTML",
-      "url": "https://github.com/karpathy/jobs",
-      "owner": {
-        "login": "karpathy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
-      },
-      "updated_at": "2026-03-20T12:11:45Z"
+      "updated_at": "2026-03-20T13:28:38Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 914,
+      "stars": 959,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-20T12:25:01Z"
+      "updated_at": "2026-03-20T13:37:51Z"
+    },
+    {
+      "id": 1181942854,
+      "name": "karpathy/jobs",
+      "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.",
+      "stars": 941,
+      "language": "HTML",
+      "url": "https://github.com/karpathy/jobs",
+      "owner": {
+        "login": "karpathy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+      },
+      "updated_at": "2026-03-20T13:10:03Z"
     },
     {
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 871,
+      "stars": 875,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-20T12:08:50Z"
+      "updated_at": "2026-03-20T13:20:02Z"
     },
     {
       "id": 1182000750,
       "name": "nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": 814,
+      "stars": 816,
       "language": "Python",
       "url": "https://github.com/nikmcfly/MiroFish-Offline",
       "owner": {
         "login": "nikmcfly",
         "avatar_url": "https://avatars.githubusercontent.com/u/70242477?v=4"
       },
-      "updated_at": "2026-03-20T12:18:59Z"
+      "updated_at": "2026-03-20T13:27:27Z"
     },
     {
       "id": 1182741097,
@@ -210,43 +210,43 @@
       "updated_at": "2026-03-20T12:17:01Z"
     },
     {
-      "id": 1182454913,
-      "name": "rzru/nightingale",
-      "description": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": 687,
-      "language": "Rust",
-      "url": "https://github.com/rzru/nightingale",
-      "owner": {
-        "login": "rzru",
-        "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
-      },
-      "updated_at": "2026-03-20T12:17:47Z"
-    },
-    {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 683,
+      "stars": 693,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-20T12:17:17Z"
+      "updated_at": "2026-03-20T13:32:27Z"
+    },
+    {
+      "id": 1182454913,
+      "name": "rzru/nightingale",
+      "description": "Machine learning powered Karaoke app (with scores!) ",
+      "stars": 690,
+      "language": "Rust",
+      "url": "https://github.com/rzru/nightingale",
+      "owner": {
+        "login": "rzru",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
+      },
+      "updated_at": "2026-03-20T13:03:19Z"
     },
     {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stars": 652,
+      "stars": 656,
       "language": "Astro",
       "url": "https://github.com/frank890417/taiwan-md",
       "owner": {
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-20T12:21:47Z"
+      "updated_at": "2026-03-20T13:37:35Z"
     },
     {
       "id": 1182098521,
