@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-21T22:11:26.575Z",
+  "lastUpdated": "2026-03-21T22:42:54.644Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14829,
+      "stars": 14841,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T22:07:22Z"
+      "updated_at": "2026-03-21T22:37:37Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7354,
+      "stars": 7359,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T22:11:11Z"
+      "updated_at": "2026-03-21T22:42:37Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 2503,
+      "stars": 2514,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T22:08:00Z"
+      "updated_at": "2026-03-21T22:37:31Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2449,
+      "stars": 2451,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T22:11:17Z"
+      "updated_at": "2026-03-21T22:21:43Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2405,
+      "stars": 2406,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-21T21:28:05Z"
+      "updated_at": "2026-03-21T22:26:02Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1971,
+      "stars": 1973,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T21:23:25Z"
+      "updated_at": "2026-03-21T22:24:31Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1670,
+      "stars": 1675,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-21T22:05:25Z"
+      "updated_at": "2026-03-21T22:41:22Z"
     },
     {
       "id": 1182385218,
@@ -109,14 +109,14 @@
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1223,
+      "stars": 1224,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-21T21:30:09Z"
+      "updated_at": "2026-03-21T22:34:50Z"
     },
     {
       "id": 1182790403,
@@ -161,14 +161,27 @@
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 757,
+      "stars": 762,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T21:49:46Z"
+      "updated_at": "2026-03-21T22:26:36Z"
+    },
+    {
+      "id": 1186410486,
+      "name": "math-inc/OpenGauss",
+      "description": null,
+      "stars": 741,
+      "language": "Python",
+      "url": "https://github.com/math-inc/OpenGauss",
+      "owner": {
+        "login": "math-inc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
+      },
+      "updated_at": "2026-03-21T22:38:31Z"
     },
     {
       "id": 1182454913,
@@ -182,19 +195,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
       },
       "updated_at": "2026-03-21T21:30:50Z"
-    },
-    {
-      "id": 1186410486,
-      "name": "math-inc/OpenGauss",
-      "description": null,
-      "stars": 730,
-      "language": "Python",
-      "url": "https://github.com/math-inc/OpenGauss",
-      "owner": {
-        "login": "math-inc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
-      },
-      "updated_at": "2026-03-21T22:10:53Z"
     },
     {
       "id": 1184063789,
@@ -220,7 +220,7 @@
         "login": "collaborator-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260235329?v=4"
       },
-      "updated_at": "2026-03-21T21:51:38Z"
+      "updated_at": "2026-03-21T22:18:24Z"
     },
     {
       "id": 1182098521,
