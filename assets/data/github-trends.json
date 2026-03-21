@@ -1,200 +1,200 @@
 {
-  "lastUpdated": "2026-03-21T22:58:51.861Z",
+  "lastUpdated": "2026-03-21T23:25:55.234Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14846,
+      "stars": 14850,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T22:56:43Z"
+      "updated_at": "2026-03-21T23:23:33Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7360,
+      "stars": 7363,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T22:54:17Z"
+      "updated_at": "2026-03-21T23:07:45Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 2525,
+      "stars": 2538,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T22:53:56Z"
+      "updated_at": "2026-03-21T23:24:49Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2453,
+      "stars": 2457,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T22:54:18Z"
+      "updated_at": "2026-03-21T23:24:13Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2406,
+      "stars": 2411,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-21T22:26:02Z"
+      "updated_at": "2026-03-21T23:25:34Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1973,
+      "stars": 1975,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T22:24:31Z"
+      "updated_at": "2026-03-21T23:14:20Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1676,
+      "stars": 1680,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-21T22:53:56Z"
+      "updated_at": "2026-03-21T23:16:39Z"
     },
     {
       "id": 1182385218,
       "name": "cnlimiter/codex-manager",
       "description": null,
-      "stars": 1341,
+      "stars": 1343,
       "language": "Python",
       "url": "https://github.com/cnlimiter/codex-manager",
       "owner": {
         "login": "cnlimiter",
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
-      "updated_at": "2026-03-21T21:30:15Z"
+      "updated_at": "2026-03-21T23:22:39Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1224,
+      "stars": 1227,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-21T22:34:50Z"
+      "updated_at": "2026-03-21T23:16:51Z"
     },
     {
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 961,
+      "stars": 962,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-21T22:53:19Z"
+      "updated_at": "2026-03-21T23:19:55Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 837,
+      "stars": 838,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-21T21:54:55Z"
+      "updated_at": "2026-03-21T23:18:19Z"
     },
     {
       "id": 1182741097,
       "name": "rasbt/llm-architecture-gallery",
       "description": "LLM Architecture Gallery source data",
-      "stars": 820,
+      "stars": 821,
       "language": null,
       "url": "https://github.com/rasbt/llm-architecture-gallery",
       "owner": {
         "login": "rasbt",
         "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
       },
-      "updated_at": "2026-03-21T20:22:40Z"
+      "updated_at": "2026-03-21T23:05:41Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 765,
+      "stars": 769,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T22:53:34Z"
+      "updated_at": "2026-03-21T23:21:10Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 746,
+      "stars": 753,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-21T22:51:30Z"
+      "updated_at": "2026-03-21T23:23:07Z"
     },
     {
       "id": 1182454913,
       "name": "rzru/nightingale",
       "description": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": 736,
+      "stars": 737,
       "language": "Rust",
       "url": "https://github.com/rzru/nightingale",
       "owner": {
         "login": "rzru",
         "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
       },
-      "updated_at": "2026-03-21T21:30:50Z"
+      "updated_at": "2026-03-21T23:11:06Z"
     },
     {
       "id": 1184063789,
@@ -207,7 +207,7 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-21T22:01:06Z"
+      "updated_at": "2026-03-21T23:01:06Z"
     },
     {
       "id": 1182216394,
@@ -239,14 +239,14 @@
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 608,
+      "stars": 610,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-21T21:57:33Z"
+      "updated_at": "2026-03-21T23:25:18Z"
     },
     {
       "id": 1183645536,
