@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-21T20:28:59.317Z",
+  "lastUpdated": "2026-03-21T20:51:15.142Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14796,
+      "stars": 14803,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T20:25:22Z"
+      "updated_at": "2026-03-21T20:48:59Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7337,
+      "stars": 7341,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T20:27:19Z"
+      "updated_at": "2026-03-21T20:45:18Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 2449,
+      "stars": 2461,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T20:28:49Z"
+      "updated_at": "2026-03-21T20:48:38Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2438,
+      "stars": 2440,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T20:19:12Z"
+      "updated_at": "2026-03-21T20:50:46Z"
     },
     {
       "id": 1182403562,
@@ -77,20 +77,20 @@
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T20:17:29Z"
+      "updated_at": "2026-03-21T20:31:26Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1660,
+      "stars": 1662,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-21T20:19:47Z"
+      "updated_at": "2026-03-21T20:50:18Z"
     },
     {
       "id": 1182385218,
@@ -109,14 +109,14 @@
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1219,
+      "stars": 1220,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-21T19:57:38Z"
+      "updated_at": "2026-03-21T20:47:39Z"
     },
     {
       "id": 1182790403,
@@ -135,14 +135,14 @@
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 831,
+      "stars": 832,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-21T19:47:05Z"
+      "updated_at": "2026-03-21T20:35:42Z"
     },
     {
       "id": 1182741097,
@@ -161,27 +161,40 @@
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 742,
+      "stars": 745,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T20:21:48Z"
+      "updated_at": "2026-03-21T20:50:56Z"
     },
     {
       "id": 1182454913,
       "name": "rzru/nightingale",
       "description": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": 731,
+      "stars": 732,
       "language": "Rust",
       "url": "https://github.com/rzru/nightingale",
       "owner": {
         "login": "rzru",
         "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
       },
-      "updated_at": "2026-03-21T17:23:58Z"
+      "updated_at": "2026-03-21T20:29:58Z"
+    },
+    {
+      "id": 1186410486,
+      "name": "math-inc/OpenGauss",
+      "description": null,
+      "stars": 699,
+      "language": "Python",
+      "url": "https://github.com/math-inc/OpenGauss",
+      "owner": {
+        "login": "math-inc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
+      },
+      "updated_at": "2026-03-21T20:48:05Z"
     },
     {
       "id": 1184063789,
@@ -195,19 +208,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
       "updated_at": "2026-03-21T20:09:52Z"
-    },
-    {
-      "id": 1186410486,
-      "name": "math-inc/OpenGauss",
-      "description": null,
-      "stars": 686,
-      "language": "Python",
-      "url": "https://github.com/math-inc/OpenGauss",
-      "owner": {
-        "login": "math-inc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
-      },
-      "updated_at": "2026-03-21T20:26:58Z"
     },
     {
       "id": 1182216394,
@@ -239,14 +239,14 @@
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 599,
+      "stars": 601,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-21T20:27:25Z"
+      "updated_at": "2026-03-21T20:36:19Z"
     },
     {
       "id": 1183645536,
