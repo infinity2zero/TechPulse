@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-21T15:49:29.433Z",
+  "lastUpdated": "2026-03-21T16:01:31.495Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14667,
+      "stars": 14676,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T15:49:04Z"
+      "updated_at": "2026-03-21T16:00:43Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7295,
+      "stars": 7296,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T15:46:14Z"
+      "updated_at": "2026-03-21T15:58:18Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2379,
+      "stars": 2383,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T15:49:17Z"
+      "updated_at": "2026-03-21T15:58:45Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2374,
+      "stars": 2375,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-21T15:42:09Z"
+      "updated_at": "2026-03-21T15:53:16Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 2220,
+      "stars": 2231,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T15:49:10Z"
+      "updated_at": "2026-03-21T16:01:02Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1946,
+      "stars": 1947,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T15:49:16Z"
+      "updated_at": "2026-03-21T15:51:55Z"
     },
     {
       "id": 1182712729,
@@ -122,14 +122,14 @@
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 949,
+      "stars": 950,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-21T15:24:51Z"
+      "updated_at": "2026-03-21T15:56:28Z"
     },
     {
       "id": 1185560597,
@@ -181,20 +181,33 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-21T15:19:36Z"
+      "updated_at": "2026-03-21T15:59:14Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 625,
+      "stars": 639,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T15:49:18Z"
+      "updated_at": "2026-03-21T16:00:34Z"
+    },
+    {
+      "id": 1182098521,
+      "name": "sstklen/trump-code",
+      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "stars": 615,
+      "language": "Python",
+      "url": "https://github.com/sstklen/trump-code",
+      "owner": {
+        "login": "sstklen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
+      },
+      "updated_at": "2026-03-21T16:00:07Z"
     },
     {
       "id": 1182216394,
@@ -210,30 +223,17 @@
       "updated_at": "2026-03-21T15:19:15Z"
     },
     {
-      "id": 1182098521,
-      "name": "sstklen/trump-code",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "stars": 614,
-      "language": "Python",
-      "url": "https://github.com/sstklen/trump-code",
-      "owner": {
-        "login": "sstklen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
-      },
-      "updated_at": "2026-03-21T15:08:39Z"
-    },
-    {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 581,
+      "stars": 585,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-21T15:45:15Z"
+      "updated_at": "2026-03-21T15:57:28Z"
     },
     {
       "id": 1182924996,
