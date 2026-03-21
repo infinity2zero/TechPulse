@@ -1,45 +1,65 @@
 {
-  "lastUpdated": "2026-03-21T21:38:31.532Z",
+  "lastUpdated": "2026-03-21T21:54:04.420Z",
   "items": [
-    {
-      "id": 47470773,
-      "title": "Tinybox- offline AI device 120B parameters",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 128,
-      "by": "albelfio",
-      "time": 1774123717,
-      "comments": 77,
-      "domain": "tinygrad.org"
-    },
     {
       "id": 47470991,
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 69,
+      "score": 95,
       "by": "smartmic",
       "time": 1774125140,
-      "comments": 19,
+      "comments": 26,
       "domain": "news.dyne.org"
+    },
+    {
+      "id": 47470773,
+      "title": "Tinybox- offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 144,
+      "by": "albelfio",
+      "time": 1774123717,
+      "comments": 85,
+      "domain": "tinygrad.org"
+    },
+    {
+      "id": 47471213,
+      "title": "Revert \"userdb: add birthDate field to JSON user records",
+      "url": "https://github.com/systemd/systemd/pull/41179",
+      "score": 35,
+      "by": "smartmic",
+      "time": 1774126423,
+      "comments": 8,
+      "domain": "github.com"
     },
     {
       "id": 47467537,
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 390,
+      "score": 396,
       "by": "vaylian",
       "time": 1774104416,
-      "comments": 132,
+      "comments": 135,
       "domain": "lucumr.pocoo.org"
     },
     {
       "id": 47467567,
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 143,
+      "score": 148,
       "by": "0x1997",
       "time": 1774104618,
-      "comments": 47,
+      "comments": 50,
       "domain": "grafeo.dev"
+    },
+    {
+      "id": 47469949,
+      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "url": "https://github.com/pagel-s/termcraft",
+      "score": 40,
+      "by": "sebosch",
+      "time": 1774118558,
+      "comments": 2,
+      "domain": "github.com"
     },
     {
       "id": 47435028,
@@ -48,88 +68,98 @@
       "score": 105,
       "by": "mikhael",
       "time": 1773895259,
-      "comments": 72,
+      "comments": 76,
       "domain": "wired.com"
     },
     {
-      "id": 47471213,
-      "title": "Revert \"userdb: add birthDate field to JSON user records",
-      "url": "https://github.com/systemd/systemd/pull/41179",
-      "score": 11,
-      "by": "smartmic",
-      "time": 1774126423,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 47469949,
-      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
-      "url": "https://github.com/pagel-s/termcraft",
+      "id": 47434986,
+      "title": "Electronics for Kids, 2nd Edition",
+      "url": "https://nostarch.com/electronics-for-kids-2e",
       "score": 35,
-      "by": "sebosch",
-      "time": 1774118558,
-      "comments": 1,
-      "domain": "github.com"
+      "by": "0x54MUR41",
+      "time": 1773894951,
+      "comments": 4,
+      "domain": "nostarch.com"
     },
     {
       "id": 47411110,
       "title": "The seven hour explosion nobody could explain",
       "url": "https://phys.org/news/2026-03-hour-explosion.html",
-      "score": 51,
+      "score": 54,
       "by": "mellosouls",
       "time": 1773746063,
       "comments": 7,
       "domain": "phys.org"
     },
     {
-      "id": 47434986,
-      "title": "Electronics for Kids, 2nd Edition",
-      "url": "https://nostarch.com/electronics-for-kids-2e",
-      "score": 31,
-      "by": "0x54MUR41",
-      "time": 1773894951,
-      "comments": 3,
-      "domain": "nostarch.com"
+      "id": 47470750,
+      "title": "No evidence cannabis helps anxiety, depression, or PTSD",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
+      "score": 60,
+      "by": "nothrowaways",
+      "time": 1774123558,
+      "comments": 38,
+      "domain": "sciencedaily.com"
     },
     {
       "id": 47467913,
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "score": 61,
+      "score": 63,
       "by": "Anon84",
       "time": 1774107029,
-      "comments": 36,
+      "comments": 37,
       "domain": "papers.ssrn.com"
     },
     {
-      "id": 47470750,
-      "title": "No evidence cannabis helps anxiety, depression, or PTSD",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-      "score": 54,
-      "by": "nothrowaways",
-      "time": 1774123558,
-      "comments": 30,
-      "domain": "sciencedaily.com"
+      "id": 47469331,
+      "title": "Hide macOS Tahoe's Menu Icons",
+      "url": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
+      "score": 28,
+      "by": "soheilpro",
+      "time": 1774115160,
+      "comments": 6,
+      "domain": "512pixels.net"
+    },
+    {
+      "id": 47470200,
+      "title": "No Semicolons Needed",
+      "url": "https://terts.dev/blog/no-semicolons-needed/",
+      "score": 10,
+      "by": "karakoram",
+      "time": 1774120040,
+      "comments": 3,
+      "domain": "terts.dev"
+    },
+    {
+      "id": 47415179,
+      "title": "The paddle wheel aircraft carriers of Lake Michigan",
+      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+      "score": 8,
+      "by": "surprisetalk",
+      "time": 1773766131,
+      "comments": 2,
+      "domain": "signoregalilei.com"
     },
     {
       "id": 47431625,
       "title": "ZJIT removes redundant object loads and stores",
       "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-      "score": 58,
+      "score": 59,
       "by": "tekknolagi",
       "time": 1773869183,
       "comments": 8,
       "domain": "railsatscale.com"
     },
     {
-      "id": 47469331,
-      "title": "Hide macOS Tahoe's Menu Icons",
-      "url": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
-      "score": 22,
-      "by": "soheilpro",
-      "time": 1774115160,
-      "comments": 6,
-      "domain": "512pixels.net"
+      "id": 47464134,
+      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+      "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+      "score": 268,
+      "by": "akersten",
+      "time": 1774069571,
+      "comments": 286,
+      "domain": "pbxscience.com"
     },
     {
       "id": 47421749,
@@ -142,113 +172,73 @@
       "domain": "ai.meta.com"
     },
     {
-      "id": 47470200,
-      "title": "No Semicolons Needed",
-      "url": "https://terts.dev/blog/no-semicolons-needed/",
-      "score": 7,
-      "by": "karakoram",
-      "time": 1774120040,
-      "comments": 0,
-      "domain": "terts.dev"
-    },
-    {
-      "id": 47464134,
-      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 264,
-      "by": "akersten",
-      "time": 1774069571,
-      "comments": 284,
-      "domain": "pbxscience.com"
-    },
-    {
       "id": 47433429,
       "title": "Books of the Century by Le Monde",
       "url": "https://standardebooks.org/collections/le-mondes-100-books-of-the-century",
-      "score": 78,
+      "score": 79,
       "by": "zlu",
       "time": 1773881905,
-      "comments": 46,
+      "comments": 48,
       "domain": "standardebooks.org"
     },
     {
       "id": 47470658,
       "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
       "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
-      "score": 22,
+      "score": 25,
       "by": "geox",
       "time": 1774122923,
-      "comments": 6,
+      "comments": 8,
       "domain": "nbcnews.com"
     },
     {
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas (2022)",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 436,
+      "score": 437,
       "by": "cainxinth",
       "time": 1774040097,
-      "comments": 340,
+      "comments": 341,
       "domain": "nippon.com"
-    },
-    {
-      "id": 47415179,
-      "title": "The paddle wheel aircraft carriers of Lake Michigan",
-      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
-      "score": 5,
-      "by": "surprisetalk",
-      "time": 1773766131,
-      "comments": 1,
-      "domain": "signoregalilei.com"
-    },
-    {
-      "id": 47467671,
-      "title": "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
-      "url": "https://joonote.com/",
-      "score": 25,
-      "by": "kilgarenone",
-      "time": 1774105350,
-      "comments": 14,
-      "domain": "joonote.com"
     },
     {
       "id": 47419391,
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 263,
+      "score": 264,
       "by": "matt_d",
       "time": 1773787512,
       "comments": 50,
       "domain": "together.ai"
     },
     {
+      "id": 47467671,
+      "title": "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
+      "url": "https://joonote.com/",
+      "score": 26,
+      "by": "kilgarenone",
+      "time": 1774105350,
+      "comments": 14,
+      "domain": "joonote.com"
+    },
+    {
       "id": 47464818,
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 453,
+      "score": 456,
       "by": "pabs3",
       "time": 1774078216,
-      "comments": 127,
+      "comments": 129,
       "domain": "eff.org"
-    },
-    {
-      "id": 47467746,
-      "title": "404 Deno CEO not found",
-      "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-      "score": 228,
-      "by": "WhyNotHugo",
-      "time": 1774105854,
-      "comments": 164,
-      "domain": "dbushell.com"
     },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 1171,
+      "score": 1173,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 574,
+      "comments": 575,
       "domain": "opencode.ai"
     },
     {
@@ -265,41 +255,51 @@
       "id": 47467300,
       "title": "A pig's brain has been frozen with its cellular activity locked in place",
       "url": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/",
-      "score": 81,
+      "score": 83,
       "by": "Brajeshwar",
       "time": 1774102968,
-      "comments": 116,
+      "comments": 119,
       "domain": "newscientist.com"
+    },
+    {
+      "id": 47467746,
+      "title": "404 Deno CEO not found",
+      "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+      "score": 229,
+      "by": "WhyNotHugo",
+      "time": 1774105854,
+      "comments": 164,
+      "domain": "dbushell.com"
     },
     {
       "id": 47455138,
       "title": "Molly guard in reverse",
       "url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
-      "score": 199,
+      "score": 201,
       "by": "surprisetalk",
       "time": 1774017221,
-      "comments": 80,
+      "comments": 82,
       "domain": "unsung.aresluna.org"
-    },
-    {
-      "id": 47466697,
-      "title": "Mayor of Paris removed parking spaces, reduced the number of cars",
-      "url": "https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor",
-      "score": 211,
-      "by": "heresie-dabord",
-      "time": 1774098730,
-      "comments": 297,
-      "domain": "cnn.com"
     },
     {
       "id": 47467034,
       "title": "Western carmakers' retreat from electric risks dooming them to irrelevance",
       "url": "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china",
-      "score": 135,
+      "score": 145,
       "by": "n1b0m",
       "time": 1774101142,
-      "comments": 245,
+      "comments": 251,
       "domain": "theguardian.com"
+    },
+    {
+      "id": 47466697,
+      "title": "Mayor of Paris removed parking spaces, reduced the number of cars",
+      "url": "https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor",
+      "score": 213,
+      "by": "heresie-dabord",
+      "time": 1774098730,
+      "comments": 308,
+      "domain": "cnn.com"
     }
   ]
 }
