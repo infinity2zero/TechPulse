@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-21T09:48:50.856Z",
+  "lastUpdated": "2026-03-21T10:01:13.292Z",
   "items": [
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 787,
+      "score": 791,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 349,
+      "comments": 352,
       "domain": "opencode.ai"
     },
     {
       "id": 47419391,
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 113,
+      "score": 116,
       "by": "matt_d",
       "time": 1773787512,
-      "comments": 16,
+      "comments": 18,
       "domain": "together.ai"
     },
     {
       "id": 47463547,
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 79,
+      "score": 81,
       "by": "vinhnx",
       "time": 1774061233,
       "comments": 1,
@@ -35,30 +35,50 @@
       "id": 47455138,
       "title": "Molly Guard",
       "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 102,
+      "score": 103,
       "by": "surprisetalk",
       "time": 1774017221,
-      "comments": 41,
+      "comments": 44,
       "domain": "bookofjoe2.blogspot.com"
     },
     {
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas (2022)",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 258,
+      "score": 261,
       "by": "cainxinth",
       "time": 1774040097,
-      "comments": 191,
+      "comments": 197,
       "domain": "nippon.com"
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 205,
+      "by": "zahlekhan",
+      "time": 1774043286,
+      "comments": 120,
+      "domain": "openui.com"
     },
     {
       "id": 47461378,
       "title": "Ghostling",
       "url": "https://github.com/ghostty-org/ghostling",
-      "score": 212,
+      "score": 215,
       "by": "bjornroberg",
       "time": 1774044697,
       "comments": 36,
+      "domain": "github.com"
+    },
+    {
+      "id": 47462483,
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "score": 98,
+      "by": "teleforce",
+      "time": 1774051042,
+      "comments": 10,
       "domain": "github.com"
     },
     {
@@ -68,38 +88,8 @@
       "score": 50,
       "by": "notcodingtoday",
       "time": 1773895773,
-      "comments": 16,
+      "comments": 19,
       "domain": "github.com"
-    },
-    {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 200,
-      "by": "zahlekhan",
-      "time": 1774043286,
-      "comments": 119,
-      "domain": "openui.com"
-    },
-    {
-      "id": 47462483,
-      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 93,
-      "by": "teleforce",
-      "time": 1774051042,
-      "comments": 9,
-      "domain": "github.com"
-    },
-    {
-      "id": 47464859,
-      "title": "Man pleads guilty to $8M AI-generated music scheme",
-      "url": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
-      "score": 43,
-      "by": "nstj",
-      "time": 1774078567,
-      "comments": 39,
-      "domain": "therecord.media"
     },
     {
       "id": 47431653,
@@ -135,31 +125,31 @@
       "id": 47416543,
       "title": "The Los Angeles Aqueduct Is Wild",
       "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 348,
+      "score": 350,
       "by": "michaefe",
       "time": 1773773033,
       "comments": 176,
       "domain": "practical.engineering"
     },
     {
+      "id": 47431288,
+      "title": "An industrial piping contractor on Claude Code [video]",
+      "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
+      "score": 47,
+      "by": "mighty-fine",
+      "time": 1773867056,
+      "comments": 12,
+      "domain": "twitter.com"
+    },
+    {
       "id": 47461321,
       "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
       "url": "https://github.com/FormerLab/fortransky",
-      "score": 81,
+      "score": 82,
       "by": "FormerLabFred",
       "time": 1774044411,
       "comments": 44,
       "domain": "github.com"
-    },
-    {
-      "id": 47431288,
-      "title": "An industrial piping contractor on Claude Code [video]",
-      "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
-      "score": 44,
-      "by": "mighty-fine",
-      "time": 1773867056,
-      "comments": 10,
-      "domain": "twitter.com"
     },
     {
       "id": 47423762,
@@ -168,7 +158,7 @@
       "score": 127,
       "by": "andsoitis",
       "time": 1773829358,
-      "comments": 62,
+      "comments": 63,
       "domain": "uxdesign.cc"
     },
     {
@@ -185,17 +175,17 @@
       "id": 47428132,
       "title": "The Ugliest Airplane: An Appreciation",
       "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 65,
+      "score": 66,
       "by": "randycupertino",
       "time": 1773852778,
-      "comments": 36,
+      "comments": 38,
       "domain": "smithsonianmag.com"
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 563,
+      "score": 564,
       "by": "MrDresden",
       "time": 1774011716,
       "comments": 456,
@@ -205,7 +195,7 @@
       "id": 47410871,
       "title": "VisiCalc Reconstructed",
       "url": "https://zserge.com/posts/visicalc/",
-      "score": 200,
+      "score": 201,
       "by": "ingve",
       "time": 1773743995,
       "comments": 77,
@@ -225,7 +215,7 @@
       "id": 47428698,
       "title": "Why One Key Shouldn't Rule Them All: Threshold Signatures for the Rest of Us",
       "url": "https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/",
-      "score": 7,
+      "score": 8,
       "by": "eamann",
       "time": 1773855206,
       "comments": 3,
@@ -235,10 +225,10 @@
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 519,
+      "score": 521,
       "by": "hadrien01",
       "time": 1774034173,
-      "comments": 941,
+      "comments": 943,
       "domain": "blogs.windows.com"
     },
     {
@@ -255,21 +245,11 @@
       "id": 47450478,
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 757,
+      "score": 758,
       "by": "bookstore-romeo",
       "time": 1773980651,
       "comments": 265,
       "domain": "science.org"
-    },
-    {
-      "id": 47424592,
-      "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
-      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 126,
-      "by": "bmn__",
-      "time": 1773835145,
-      "comments": 43,
-      "domain": "perl.petamem.com"
     },
     {
       "id": 47452955,
@@ -282,24 +262,44 @@
       "domain": "entsoe.eu"
     },
     {
+      "id": 47424592,
+      "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
+      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+      "score": 126,
+      "by": "bmn__",
+      "time": 1773835145,
+      "comments": 43,
+      "domain": "perl.petamem.com"
+    },
+    {
+      "id": 47444319,
+      "title": "Delve – Fake Compliance as a Service",
+      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+      "score": 678,
+      "by": "freddykruger",
+      "time": 1773947282,
+      "comments": 216,
+      "domain": "deepdelver.substack.com"
+    },
+    {
       "id": 47461529,
       "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
       "url": "https://github.com/RedGridTactical/RedGridLink",
-      "score": 43,
+      "score": 44,
       "by": "redgridtactical",
       "time": 1774045551,
       "comments": 16,
       "domain": "github.com"
     },
     {
-      "id": 47444319,
-      "title": "Delve – Fake Compliance as a Service",
-      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 675,
-      "by": "freddykruger",
-      "time": 1773947282,
-      "comments": 216,
-      "domain": "deepdelver.substack.com"
+      "id": 47453947,
+      "title": "The Social Smolnet",
+      "url": "https://ploum.net/2026-03-20-social-smolnet.html",
+      "score": 123,
+      "by": "aebtebeten",
+      "time": 1774011739,
+      "comments": 13,
+      "domain": "ploum.net"
     }
   ]
 }
