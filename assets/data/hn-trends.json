@@ -1,131 +1,141 @@
 {
-  "lastUpdated": "2026-03-21T06:58:44.599Z",
+  "lastUpdated": "2026-03-21T07:33:13.730Z",
   "items": [
     {
       "id": 47464394,
       "title": "Google adds 24-hour wait and mandatory reboot to Android sideloading flow",
       "url": "https://android-developers.googleblog.com/2025/08/elevating-android-security.html",
-      "score": 23,
+      "score": 70,
       "by": "dfordp11",
       "time": 1774073026,
-      "comments": 9,
+      "comments": 22,
       "domain": "android-developers.googleblog.com"
     },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 655,
+      "score": 675,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 287,
+      "comments": 299,
       "domain": "opencode.ai"
     },
     {
       "id": 47464134,
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 19,
+      "score": 37,
       "by": "akersten",
       "time": 1774069571,
-      "comments": 7,
+      "comments": 22,
       "domain": "pbxscience.com"
     },
     {
       "id": 47419391,
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 54,
+      "score": 67,
       "by": "matt_d",
       "time": 1773787512,
-      "comments": 4,
+      "comments": 5,
       "domain": "together.ai"
-    },
-    {
-      "id": 47453942,
-      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 539,
-      "by": "MrDresden",
-      "time": 1774011716,
-      "comments": 428,
-      "domain": "lemonde.fr"
     },
     {
       "id": 47455138,
       "title": "Molly Guard",
       "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 59,
+      "score": 67,
       "by": "surprisetalk",
       "time": 1774017221,
-      "comments": 28,
+      "comments": 32,
       "domain": "bookofjoe2.blogspot.com"
+    },
+    {
+      "id": 47453942,
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 541,
+      "by": "MrDresden",
+      "time": 1774011716,
+      "comments": 436,
+      "domain": "lemonde.fr"
     },
     {
       "id": 47435081,
       "title": "Fujifilm X RAW STUDIO webapp clone",
       "url": "https://github.com/eggricesoy/filmkit",
-      "score": 10,
+      "score": 13,
       "by": "notcodingtoday",
       "time": 1773895773,
-      "comments": 6,
-      "domain": "github.com"
-    },
-    {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 165,
-      "by": "zahlekhan",
-      "time": 1774043286,
-      "comments": 92,
-      "domain": "openui.com"
-    },
-    {
-      "id": 47460452,
-      "title": "A Japanese glossary of chopsticks faux pas",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 212,
-      "by": "cainxinth",
-      "time": 1774040097,
-      "comments": 153,
-      "domain": "nippon.com"
-    },
-    {
-      "id": 47461378,
-      "title": "Ghostling",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "score": 169,
-      "by": "bjornroberg",
-      "time": 1774044697,
-      "comments": 29,
+      "comments": 7,
       "domain": "github.com"
     },
     {
       "id": 47463547,
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 26,
+      "score": 35,
       "by": "vinhnx",
       "time": 1774061233,
       "comments": 0,
       "domain": "blogs.igalia.com"
     },
     {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 169,
+      "by": "zahlekhan",
+      "time": 1774043286,
+      "comments": 96,
+      "domain": "openui.com"
+    },
+    {
+      "id": 47460452,
+      "title": "A Japanese glossary of chopsticks faux pas",
+      "url": "https://www.nippon.com/en/japan-data/h01362/",
+      "score": 219,
+      "by": "cainxinth",
+      "time": 1774040097,
+      "comments": 159,
+      "domain": "nippon.com"
+    },
+    {
+      "id": 47461378,
+      "title": "Ghostling",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "score": 178,
+      "by": "bjornroberg",
+      "time": 1774044697,
+      "comments": 31,
+      "domain": "github.com"
+    },
+    {
       "id": 47462483,
       "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
       "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 65,
+      "score": 69,
       "by": "teleforce",
       "time": 1774051042,
       "comments": 8,
       "domain": "github.com"
     },
     {
+      "id": 47464438,
+      "title": "Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500",
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/",
+      "score": 25,
+      "by": "mellosouls",
+      "time": 1774073639,
+      "comments": 24,
+      "domain": "old.reddit.com"
+    },
+    {
       "id": 47428132,
       "title": "The Ugliest Airplane: An Appreciation",
       "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 50,
+      "score": 56,
       "by": "randycupertino",
       "time": 1773852778,
       "comments": 28,
@@ -135,21 +145,31 @@
       "id": 47431653,
       "title": "A look at content scrambling in DVDs",
       "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 23,
+      "score": 27,
       "by": "rvnx",
       "time": 1773869354,
-      "comments": 10,
+      "comments": 11,
       "domain": "mathweb.ucsd.edu"
     },
     {
       "id": 47458595,
       "title": "Attention Residuals",
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 153,
+      "score": 158,
       "by": "GaggiX",
       "time": 1774031021,
       "comments": 21,
       "domain": "github.com"
+    },
+    {
+      "id": 47416543,
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "score": 330,
+      "by": "michaefe",
+      "time": 1773773033,
+      "comments": 173,
+      "domain": "practical.engineering"
     },
     {
       "id": 47461321,
@@ -158,58 +178,68 @@
       "score": 69,
       "by": "FormerLabFred",
       "time": 1774044411,
-      "comments": 35,
+      "comments": 38,
       "domain": "github.com"
     },
     {
-      "id": 47416543,
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 327,
-      "by": "michaefe",
-      "time": 1773773033,
-      "comments": 173,
-      "domain": "practical.engineering"
+      "id": 47416607,
+      "title": "Padel Chess – tactical simulator for padel",
+      "url": "https://www.padelchess.me/",
+      "score": 3,
+      "by": "AlexGerasim",
+      "time": 1773773379,
+      "comments": 0,
+      "domain": "padelchess.me"
+    },
+    {
+      "id": 47423762,
+      "title": "The worst volume control UI in the world (2017)",
+      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+      "score": 104,
+      "by": "andsoitis",
+      "time": 1773829358,
+      "comments": 51,
+      "domain": "uxdesign.cc"
     },
     {
       "id": 47424752,
       "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
       "url": "https://amturing.acm.org",
-      "score": 18,
+      "score": 21,
       "by": "throw0101d",
       "time": 1773836186,
       "comments": 0,
       "domain": "amturing.acm.org"
     },
     {
-      "id": 47423762,
-      "title": "The worst volume control UI in the world (2017)",
-      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "score": 99,
-      "by": "andsoitis",
-      "time": 1773829358,
-      "comments": 47,
-      "domain": "uxdesign.cc"
-    },
-    {
-      "id": 47464438,
-      "title": "Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500",
-      "url": "https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/",
-      "score": 10,
-      "by": "mellosouls",
-      "time": 1774073639,
-      "comments": 6,
-      "domain": "old.reddit.com"
+      "id": 47425257,
+      "title": "Lent and Lisp",
+      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "score": 46,
+      "by": "surprisetalk",
+      "time": 1773838839,
+      "comments": 2,
+      "domain": "leancrew.com"
     },
     {
       "id": 47410871,
       "title": "VisiCalc Reconstructed",
       "url": "https://zserge.com/posts/visicalc/",
-      "score": 182,
+      "score": 183,
       "by": "ingve",
       "time": 1773743995,
       "comments": 74,
       "domain": "zserge.com"
+    },
+    {
+      "id": 47459296,
+      "title": "Our commitment to Windows quality",
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "score": 492,
+      "by": "hadrien01",
+      "time": 1774034173,
+      "comments": 893,
+      "domain": "blogs.windows.com"
     },
     {
       "id": 47463354,
@@ -218,44 +248,14 @@
       "score": 17,
       "by": "bpierre",
       "time": 1774058948,
-      "comments": 2,
+      "comments": 3,
       "domain": "purl.dev"
-    },
-    {
-      "id": 47425257,
-      "title": "Lent and Lisp",
-      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
-      "score": 43,
-      "by": "surprisetalk",
-      "time": 1773838839,
-      "comments": 2,
-      "domain": "leancrew.com"
-    },
-    {
-      "id": 47459296,
-      "title": "Our commitment to Windows quality",
-      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 488,
-      "by": "hadrien01",
-      "time": 1774034173,
-      "comments": 882,
-      "domain": "blogs.windows.com"
-    },
-    {
-      "id": 47438169,
-      "title": "An FAQ on Reinforcement Learning Environments",
-      "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
-      "score": 37,
-      "by": "dcre",
-      "time": 1773923086,
-      "comments": 7,
-      "domain": "epoch.ai"
     },
     {
       "id": 47461529,
       "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
       "url": "https://github.com/RedGridTactical/RedGridLink",
-      "score": 37,
+      "score": 38,
       "by": "redgridtactical",
       "time": 1774045551,
       "comments": 14,
@@ -265,21 +265,11 @@
       "id": 47452955,
       "title": "Entso-E final report on Iberian 2025 blackout",
       "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 181,
+      "score": 182,
       "by": "Rygian",
       "time": 1774004607,
-      "comments": 89,
+      "comments": 90,
       "domain": "entsoe.eu"
-    },
-    {
-      "id": 47444319,
-      "title": "Delve – Fake Compliance as a Service",
-      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 626,
-      "by": "freddykruger",
-      "time": 1773947282,
-      "comments": 210,
-      "domain": "deepdelver.substack.com"
     },
     {
       "id": 47450478,
@@ -292,14 +282,24 @@
       "domain": "science.org"
     },
     {
-      "id": 47424592,
-      "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
-      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 112,
-      "by": "bmn__",
-      "time": 1773835145,
-      "comments": 39,
-      "domain": "perl.petamem.com"
+      "id": 47464574,
+      "title": "Italy, Belgium set to lose gas supply after biggest LNG plant bombed",
+      "url": "https://www.politico.eu/article/italy-belgium-lose-gas-supply-world-biggest-lng-plant-bombed/",
+      "score": 7,
+      "by": "leonidasrup",
+      "time": 1774075555,
+      "comments": 0,
+      "domain": "politico.eu"
+    },
+    {
+      "id": 47444319,
+      "title": "Delve – Fake Compliance as a Service",
+      "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+      "score": 635,
+      "by": "freddykruger",
+      "time": 1773947282,
+      "comments": 214,
+      "domain": "deepdelver.substack.com"
     }
   ]
 }
