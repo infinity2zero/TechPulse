@@ -1,114 +1,104 @@
 {
-  "lastUpdated": "2026-03-21T17:27:40.478Z",
+  "lastUpdated": "2026-03-21T17:50:04.549Z",
   "items": [
     {
       "id": 47467537,
       "title": "Some Things Just Take Time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 93,
+      "score": 126,
       "by": "vaylian",
       "time": 1774104416,
-      "comments": 44,
+      "comments": 59,
       "domain": "lucumr.pocoo.org"
     },
     {
       "id": 47467567,
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 64,
+      "score": 72,
       "by": "0x1997",
       "time": 1774104618,
-      "comments": 12,
+      "comments": 13,
       "domain": "grafeo.dev"
     },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 1099,
+      "score": 1106,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 545,
+      "comments": 548,
       "domain": "opencode.ai"
     },
     {
       "id": 47467746,
       "title": "404 Deno CEO not found",
       "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-      "score": 139,
+      "score": 162,
       "by": "WhyNotHugo",
       "time": 1774105854,
-      "comments": 96,
+      "comments": 107,
       "domain": "dbushell.com"
-    },
-    {
-      "id": 47467609,
-      "title": "Iran launched unsuccessful attack on UK's Diego Garcia",
-      "url": "https://www.bbc.com/news/articles/c5yljdgwppzo",
-      "score": 56,
-      "by": "alephnerd",
-      "time": 1774104878,
-      "comments": 48,
-      "domain": "bbc.com"
     },
     {
       "id": 47431625,
       "title": "ZJIT removes redundant object loads and stores",
       "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-      "score": 21,
+      "score": 25,
       "by": "tekknolagi",
       "time": 1773869183,
       "comments": 0,
       "domain": "railsatscale.com"
     },
     {
-      "id": 47466513,
-      "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
-      "url": "https://github.com/pangon/ai-sdlc-scaffold/",
-      "score": 10,
-      "by": "pangon",
-      "time": 1774096989,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
       "id": 47421749,
       "title": "Meta's Omnilingual MT for 1,600 Languages",
       "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 81,
+      "score": 83,
       "by": "j0e1",
       "time": 1773810018,
-      "comments": 21,
+      "comments": 26,
       "domain": "ai.meta.com"
     },
     {
-      "id": 47419391,
-      "title": "Mamba-3",
-      "url": "https://www.together.ai/blog/mamba-3",
-      "score": 229,
-      "by": "matt_d",
-      "time": 1773787512,
-      "comments": 44,
-      "domain": "together.ai"
+      "id": 47466513,
+      "title": "Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",
+      "url": "https://github.com/pangon/ai-sdlc-scaffold/",
+      "score": 13,
+      "by": "pangon",
+      "time": 1774096989,
+      "comments": 3,
+      "domain": "github.com"
     },
     {
       "id": 47464134,
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 149,
+      "score": 163,
       "by": "akersten",
       "time": 1774069571,
-      "comments": 170,
+      "comments": 186,
       "domain": "pbxscience.com"
+    },
+    {
+      "id": 47419391,
+      "title": "Mamba-3",
+      "url": "https://www.together.ai/blog/mamba-3",
+      "score": 234,
+      "by": "matt_d",
+      "time": 1773787512,
+      "comments": 45,
+      "domain": "together.ai"
     },
     {
       "id": 47433429,
       "title": "Books of the Century by Le Monde",
       "url": "https://standardebooks.org/collections/le-mondes-100-books-of-the-century",
-      "score": 35,
+      "score": 40,
       "by": "zlu",
       "time": 1773881905,
-      "comments": 13,
+      "comments": 23,
       "domain": "standardebooks.org"
     },
     {
@@ -118,24 +108,34 @@
       "score": 393,
       "by": "cainxinth",
       "time": 1774040097,
-      "comments": 303,
+      "comments": 308,
       "domain": "nippon.com"
+    },
+    {
+      "id": 47435028,
+      "title": "Invisalign Became the Biggest User of 3D Printers",
+      "url": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+      "score": 8,
+      "by": "mikhael",
+      "time": 1773895259,
+      "comments": 2,
+      "domain": "wired.com"
     },
     {
       "id": 47464818,
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 334,
+      "score": 343,
       "by": "pabs3",
       "time": 1774078216,
-      "comments": 96,
+      "comments": 101,
       "domain": "eff.org"
     },
     {
       "id": 47463547,
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 171,
+      "score": 172,
       "by": "vinhnx",
       "time": 1774061233,
       "comments": 7,
@@ -145,57 +145,47 @@
       "id": 47467566,
       "title": "Senior European journalist suspended over AI-generated quotes",
       "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
-      "score": 35,
+      "score": 43,
       "by": "Brajeshwar",
       "time": 1774104613,
-      "comments": 9,
+      "comments": 16,
       "domain": "theguardian.com"
     },
     {
       "id": 47455138,
       "title": "Molly guard in reverse",
       "url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
-      "score": 177,
+      "score": 178,
       "by": "surprisetalk",
       "time": 1774017221,
       "comments": 75,
       "domain": "unsung.aresluna.org"
     },
     {
-      "id": 47435028,
-      "title": "Invisalign Became the Biggest User of 3D Printers",
-      "url": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-      "score": 5,
-      "by": "mikhael",
-      "time": 1773895259,
-      "comments": 0,
-      "domain": "wired.com"
-    },
-    {
       "id": 47435081,
       "title": "Fujifilm X RAW STUDIO webapp clone",
       "url": "https://github.com/eggricesoy/filmkit",
-      "score": 123,
+      "score": 125,
       "by": "notcodingtoday",
       "time": 1773895773,
-      "comments": 44,
+      "comments": 45,
       "domain": "github.com"
     },
     {
       "id": 47414356,
       "title": "How we give every user SQL access to a shared ClickHouse cluster",
       "url": "https://trigger.dev/blog/how-trql-works",
-      "score": 42,
+      "score": 46,
       "by": "eallam",
       "time": 1773762603,
-      "comments": 55,
+      "comments": 56,
       "domain": "trigger.dev"
     },
     {
       "id": 47461378,
       "title": "Ghostling",
       "url": "https://github.com/ghostty-org/ghostling",
-      "score": 276,
+      "score": 280,
       "by": "bjornroberg",
       "time": 1774044697,
       "comments": 59,
@@ -205,41 +195,51 @@
       "id": 47431288,
       "title": "An industrial piping contractor on Claude Code [video]",
       "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
-      "score": 95,
+      "score": 98,
       "by": "mighty-fine",
       "time": 1773867056,
-      "comments": 53,
+      "comments": 58,
       "domain": "twitter.com"
     },
     {
       "id": 47462483,
       "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
       "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 139,
+      "score": 140,
       "by": "teleforce",
       "time": 1774051042,
       "comments": 18,
       "domain": "github.com"
     },
     {
-      "id": 47433755,
-      "title": "The Story of Marina Abramovic and Ulay (2020)",
-      "url": "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay",
-      "score": 37,
-      "by": "NaOH",
-      "time": 1773884723,
-      "comments": 20,
-      "domain": "sydney-yaeko.com"
-    },
-    {
       "id": 47423762,
       "title": "The worst volume control UI in the world (2017)",
       "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "score": 194,
+      "score": 199,
       "by": "andsoitis",
       "time": 1773829358,
-      "comments": 92,
+      "comments": 94,
       "domain": "uxdesign.cc"
+    },
+    {
+      "id": 47433755,
+      "title": "The Story of Marina Abramovic and Ulay (2020)",
+      "url": "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay",
+      "score": 40,
+      "by": "NaOH",
+      "time": 1773884723,
+      "comments": 23,
+      "domain": "sydney-yaeko.com"
+    },
+    {
+      "id": 47458595,
+      "title": "Attention Residuals",
+      "url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "score": 218,
+      "by": "GaggiX",
+      "time": 1774031021,
+      "comments": 29,
+      "domain": "github.com"
     },
     {
       "id": 47461094,
@@ -248,18 +248,8 @@
       "score": 268,
       "by": "zahlekhan",
       "time": 1774043286,
-      "comments": 172,
+      "comments": 175,
       "domain": "openui.com"
-    },
-    {
-      "id": 47458595,
-      "title": "Attention Residuals",
-      "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 216,
-      "by": "GaggiX",
-      "time": 1774031021,
-      "comments": 29,
-      "domain": "github.com"
     },
     {
       "id": 47416607,
@@ -275,21 +265,11 @@
       "id": 47431653,
       "title": "Cryptography in Home Entertainment (2004)",
       "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 70,
+      "score": 71,
       "by": "rvnx",
       "time": 1773869354,
       "comments": 40,
       "domain": "mathweb.ucsd.edu"
-    },
-    {
-      "id": 47461321,
-      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
-      "url": "https://github.com/FormerLab/fortransky",
-      "score": 121,
-      "by": "FormerLabFred",
-      "time": 1774044411,
-      "comments": 72,
-      "domain": "github.com"
     },
     {
       "id": 47453942,
@@ -298,8 +278,28 @@
       "score": 609,
       "by": "MrDresden",
       "time": 1774011716,
-      "comments": 486,
+      "comments": 492,
       "domain": "lemonde.fr"
+    },
+    {
+      "id": 47461321,
+      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "url": "https://github.com/FormerLab/fortransky",
+      "score": 125,
+      "by": "FormerLabFred",
+      "time": 1774044411,
+      "comments": 73,
+      "domain": "github.com"
+    },
+    {
+      "id": 47410871,
+      "title": "VisiCalc Reconstructed",
+      "url": "https://zserge.com/posts/visicalc/",
+      "score": 226,
+      "by": "ingve",
+      "time": 1773743995,
+      "comments": 79,
+      "domain": "zserge.com"
     }
   ]
 }
