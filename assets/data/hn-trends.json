@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-21T10:35:14.049Z",
+  "lastUpdated": "2026-03-21T10:55:54.092Z",
   "items": [
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 814,
+      "score": 830,
       "by": "rbanffy",
       "time": 1774040632,
-      "comments": 361,
+      "comments": 364,
       "domain": "opencode.ai"
     },
     {
       "id": 47419391,
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 122,
+      "score": 129,
       "by": "matt_d",
       "time": 1773787512,
       "comments": 19,
@@ -25,7 +25,7 @@
       "id": 47463547,
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 83,
+      "score": 88,
       "by": "vinhnx",
       "time": 1774061233,
       "comments": 1,
@@ -35,61 +35,71 @@
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas (2022)",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 277,
+      "score": 281,
       "by": "cainxinth",
       "time": 1774040097,
-      "comments": 209,
+      "comments": 215,
       "domain": "nippon.com"
     },
     {
       "id": 47455138,
       "title": "Molly Guard",
       "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 107,
+      "score": 112,
       "by": "surprisetalk",
       "time": 1774017221,
-      "comments": 44,
+      "comments": 45,
       "domain": "bookofjoe2.blogspot.com"
     },
     {
       "id": 47461094,
       "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 213,
+      "score": 217,
       "by": "zahlekhan",
       "time": 1774043286,
-      "comments": 125,
+      "comments": 127,
       "domain": "openui.com"
     },
     {
       "id": 47461378,
       "title": "Ghostling",
       "url": "https://github.com/ghostty-org/ghostling",
-      "score": 218,
+      "score": 222,
       "by": "bjornroberg",
       "time": 1774044697,
       "comments": 36,
       "domain": "github.com"
     },
     {
-      "id": 47462483,
-      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 99,
-      "by": "teleforce",
-      "time": 1774051042,
-      "comments": 10,
-      "domain": "github.com"
-    },
-    {
       "id": 47435081,
       "title": "Fujifilm X RAW STUDIO webapp clone",
       "url": "https://github.com/eggricesoy/filmkit",
-      "score": 52,
+      "score": 56,
       "by": "notcodingtoday",
       "time": 1773895773,
-      "comments": 21,
+      "comments": 23,
       "domain": "github.com"
+    },
+    {
+      "id": 47462483,
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "score": 100,
+      "by": "teleforce",
+      "time": 1774051042,
+      "comments": 11,
+      "domain": "github.com"
+    },
+    {
+      "id": 47431653,
+      "title": "Cryptography in Home Entertainment (2004)",
+      "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+      "score": 49,
+      "by": "rvnx",
+      "time": 1773869354,
+      "comments": 29,
+      "domain": "mathweb.ucsd.edu"
     },
     {
       "id": 47416543,
@@ -102,40 +112,30 @@
       "domain": "practical.engineering"
     },
     {
-      "id": 47431653,
-      "title": "Cryptography in Home Entertainment (2004)",
-      "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 48,
-      "by": "rvnx",
-      "time": 1773869354,
-      "comments": 29,
-      "domain": "mathweb.ucsd.edu"
-    },
-    {
       "id": 47458595,
       "title": "Attention Residuals",
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 179,
+      "score": 180,
       "by": "GaggiX",
       "time": 1774031021,
       "comments": 24,
       "domain": "github.com"
     },
     {
-      "id": 47416607,
-      "title": "Padel Chess – tactical simulator for padel",
-      "url": "https://www.padelchess.me/",
-      "score": 22,
-      "by": "AlexGerasim",
-      "time": 1773773379,
-      "comments": 5,
-      "domain": "padelchess.me"
+      "id": 47433755,
+      "title": "The Story of Marina Abramovic and Ulay (2020)",
+      "url": "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay",
+      "score": 4,
+      "by": "NaOH",
+      "time": 1773884723,
+      "comments": 1,
+      "domain": "sydney-yaeko.com"
     },
     {
       "id": 47461321,
       "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
       "url": "https://github.com/FormerLab/fortransky",
-      "score": 84,
+      "score": 86,
       "by": "FormerLabFred",
       "time": 1774044411,
       "comments": 45,
@@ -145,121 +145,101 @@
       "id": 47423762,
       "title": "The worst volume control UI in the world (2017)",
       "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
-      "score": 135,
+      "score": 137,
       "by": "andsoitis",
       "time": 1773829358,
-      "comments": 68,
+      "comments": 69,
       "domain": "uxdesign.cc"
-    },
-    {
-      "id": 47431288,
-      "title": "An industrial piping contractor on Claude Code [video]",
-      "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
-      "score": 52,
-      "by": "mighty-fine",
-      "time": 1773867056,
-      "comments": 13,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47424752,
-      "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
-      "url": "https://amturing.acm.org",
-      "score": 37,
-      "by": "throw0101d",
-      "time": 1773836186,
-      "comments": 0,
-      "domain": "amturing.acm.org"
     },
     {
       "id": 47428132,
       "title": "The Ugliest Airplane: An Appreciation",
       "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 69,
+      "score": 73,
       "by": "randycupertino",
       "time": 1773852778,
       "comments": 38,
       "domain": "smithsonianmag.com"
     },
     {
-      "id": 47433755,
-      "title": "The Story of Marina Abramovic and Ulay (2020)",
-      "url": "https://www.sydney-yaeko.com/artsandculture/marina-and-ulay",
-      "score": 3,
-      "by": "NaOH",
-      "time": 1773884723,
+      "id": 47431288,
+      "title": "An industrial piping contractor on Claude Code [video]",
+      "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
+      "score": 56,
+      "by": "mighty-fine",
+      "time": 1773867056,
+      "comments": 14,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47416607,
+      "title": "Padel Chess – tactical simulator for padel",
+      "url": "https://www.padelchess.me/",
+      "score": 24,
+      "by": "AlexGerasim",
+      "time": 1773773379,
+      "comments": 6,
+      "domain": "padelchess.me"
+    },
+    {
+      "id": 47464818,
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+      "score": 26,
+      "by": "pabs3",
+      "time": 1774078216,
+      "comments": 1,
+      "domain": "eff.org"
+    },
+    {
+      "id": 47424752,
+      "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+      "url": "https://amturing.acm.org",
+      "score": 38,
+      "by": "throw0101d",
+      "time": 1773836186,
       "comments": 0,
-      "domain": "sydney-yaeko.com"
+      "domain": "amturing.acm.org"
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 568,
+      "score": 569,
       "by": "MrDresden",
       "time": 1774011716,
-      "comments": 460,
+      "comments": 464,
       "domain": "lemonde.fr"
-    },
-    {
-      "id": 47410871,
-      "title": "VisiCalc Reconstructed",
-      "url": "https://zserge.com/posts/visicalc/",
-      "score": 208,
-      "by": "ingve",
-      "time": 1773743995,
-      "comments": 77,
-      "domain": "zserge.com"
-    },
-    {
-      "id": 47464978,
-      "title": "Liberated Systemd",
-      "url": "https://github.com/jeffrey-sardina/systemd",
-      "score": 8,
-      "by": "gasull",
-      "time": 1774079969,
-      "comments": 6,
-      "domain": "github.com"
     },
     {
       "id": 47425257,
       "title": "Lent and Lisp",
       "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
-      "score": 59,
+      "score": 61,
       "by": "surprisetalk",
       "time": 1773838839,
       "comments": 3,
       "domain": "leancrew.com"
     },
     {
-      "id": 47464818,
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 19,
-      "by": "pabs3",
-      "time": 1774078216,
-      "comments": 0,
-      "domain": "eff.org"
+      "id": 47410871,
+      "title": "VisiCalc Reconstructed",
+      "url": "https://zserge.com/posts/visicalc/",
+      "score": 209,
+      "by": "ingve",
+      "time": 1773743995,
+      "comments": 77,
+      "domain": "zserge.com"
     },
     {
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 523,
+      "score": 528,
       "by": "hadrien01",
       "time": 1774034173,
-      "comments": 953,
+      "comments": 960,
       "domain": "blogs.windows.com"
-    },
-    {
-      "id": 47428698,
-      "title": "Why One Key Shouldn't Rule Them All: Threshold Signatures for the Rest of Us",
-      "url": "https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/",
-      "score": 10,
-      "by": "eamann",
-      "time": 1773855206,
-      "comments": 4,
-      "domain": "eric.mann.blog"
     },
     {
       "id": 47450478,
@@ -268,7 +248,7 @@
       "score": 759,
       "by": "bookstore-romeo",
       "time": 1773980651,
-      "comments": 266,
+      "comments": 265,
       "domain": "science.org"
     },
     {
@@ -282,24 +262,44 @@
       "domain": "entsoe.eu"
     },
     {
-      "id": 47424592,
-      "title": "Parallel Perl – Autoparallelizing interpreter with JIT",
-      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 131,
-      "by": "bmn__",
-      "time": 1773835145,
-      "comments": 43,
-      "domain": "perl.petamem.com"
-    },
-    {
       "id": 47444319,
       "title": "Delve – Fake Compliance as a Service",
       "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 683,
+      "score": 685,
       "by": "freddykruger",
       "time": 1773947282,
       "comments": 218,
       "domain": "deepdelver.substack.com"
+    },
+    {
+      "id": 47428698,
+      "title": "Why One Key Shouldn't Rule Them All: Threshold Signatures for the Rest of Us",
+      "url": "https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/",
+      "score": 10,
+      "by": "eamann",
+      "time": 1773855206,
+      "comments": 5,
+      "domain": "eric.mann.blog"
+    },
+    {
+      "id": 47461529,
+      "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+      "url": "https://github.com/RedGridTactical/RedGridLink",
+      "score": 45,
+      "by": "redgridtactical",
+      "time": 1774045551,
+      "comments": 16,
+      "domain": "github.com"
+    },
+    {
+      "id": 47453947,
+      "title": "The Social Smolnet",
+      "url": "https://ploum.net/2026-03-20-social-smolnet.html",
+      "score": 124,
+      "by": "aebtebeten",
+      "time": 1774011739,
+      "comments": 13,
+      "domain": "ploum.net"
     }
   ]
 }
