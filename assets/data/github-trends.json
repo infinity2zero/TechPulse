@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-21T12:00:59.185Z",
+  "lastUpdated": "2026-03-21T13:02:23.128Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14573,
+      "stars": 14597,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T11:59:56Z"
+      "updated_at": "2026-03-21T12:59:07Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7232,
+      "stars": 7250,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T11:53:59Z"
+      "updated_at": "2026-03-21T12:59:18Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2346,
+      "stars": 2353,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-21T11:47:30Z"
+      "updated_at": "2026-03-21T12:50:08Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2305,
+      "stars": 2321,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T11:56:30Z"
+      "updated_at": "2026-03-21T12:59:49Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 1934,
+      "stars": 2015,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T12:00:17Z"
+      "updated_at": "2026-03-21T13:02:19Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1917,
+      "stars": 1922,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T11:46:37Z"
+      "updated_at": "2026-03-21T12:48:50Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1589,
+      "stars": 1602,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-21T11:57:14Z"
+      "updated_at": "2026-03-21T13:00:50Z"
     },
     {
       "id": 1182385218,
@@ -103,33 +103,33 @@
         "login": "cnlimiter",
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
-      "updated_at": "2026-03-21T11:47:35Z"
+      "updated_at": "2026-03-21T12:22:34Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1202,
+      "stars": 1205,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-21T08:49:20Z"
+      "updated_at": "2026-03-21T12:53:19Z"
     },
     {
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 939,
+      "stars": 941,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-21T11:21:12Z"
+      "updated_at": "2026-03-21T12:35:44Z"
     },
     {
       "id": 1182741097,
@@ -148,118 +148,118 @@
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 807,
+      "stars": 812,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-21T11:23:09Z"
+      "updated_at": "2026-03-21T12:46:51Z"
     },
     {
       "id": 1182454913,
       "name": "rzru/nightingale",
       "description": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": 723,
+      "stars": 724,
       "language": "Rust",
       "url": "https://github.com/rzru/nightingale",
       "owner": {
         "login": "rzru",
         "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
       },
-      "updated_at": "2026-03-21T10:28:46Z"
+      "updated_at": "2026-03-21T12:04:17Z"
     },
     {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stars": 689,
+      "stars": 693,
       "language": "Astro",
       "url": "https://github.com/frank890417/taiwan-md",
       "owner": {
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-21T11:33:36Z"
+      "updated_at": "2026-03-21T12:45:27Z"
     },
     {
       "id": 1182098521,
       "name": "sstklen/trump-code",
       "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "stars": 610,
+      "stars": 612,
       "language": "Python",
       "url": "https://github.com/sstklen/trump-code",
       "owner": {
         "login": "sstklen",
         "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
       },
-      "updated_at": "2026-03-21T10:31:28Z"
+      "updated_at": "2026-03-21T12:56:00Z"
     },
     {
       "id": 1182216394,
       "name": "collaborator-ai/collab-public",
       "description": "Collaborator is a place to create with agents.",
-      "stars": 601,
+      "stars": 603,
       "language": "Shell",
       "url": "https://github.com/collaborator-ai/collab-public",
       "owner": {
         "login": "collaborator-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260235329?v=4"
       },
-      "updated_at": "2026-03-21T11:45:42Z"
+      "updated_at": "2026-03-21T12:55:22Z"
     },
     {
       "id": 1182924996,
       "name": "joeseesun/opencli-skill",
       "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) ",
-      "stars": 577,
+      "stars": 578,
       "language": null,
       "url": "https://github.com/joeseesun/opencli-skill",
       "owner": {
         "login": "joeseesun",
         "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
       },
-      "updated_at": "2026-03-21T10:35:21Z"
+      "updated_at": "2026-03-21T12:03:49Z"
     },
     {
       "id": 1183645536,
       "name": "nv-tlabs/kimodo",
       "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "stars": 571,
+      "stars": 574,
       "language": "Python",
       "url": "https://github.com/nv-tlabs/kimodo",
       "owner": {
         "login": "nv-tlabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
       },
-      "updated_at": "2026-03-21T08:27:15Z"
+      "updated_at": "2026-03-21T13:01:52Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 516,
+      "stars": 525,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-21T11:58:33Z"
+      "updated_at": "2026-03-21T13:01:12Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 513,
+      "stars": 519,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T11:55:53Z"
+      "updated_at": "2026-03-21T12:55:50Z"
     }
   ]
 }
