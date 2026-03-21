@@ -1,122 +1,122 @@
 {
-  "lastUpdated": "2026-03-21T06:03:21.928Z",
+  "lastUpdated": "2026-03-21T06:58:44.692Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14438,
+      "stars": 14460,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T05:59:41Z"
+      "updated_at": "2026-03-21T06:56:40Z"
     },
     {
       "id": 1182108611,
       "name": "aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 7169,
+      "stars": 7176,
       "language": "Python",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "owner": {
         "login": "aiming-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
       },
-      "updated_at": "2026-03-21T06:00:33Z"
+      "updated_at": "2026-03-21T06:57:02Z"
     },
     {
       "id": 1182403562,
       "name": "MoonshotAI/Attention-Residuals",
       "description": null,
-      "stars": 2288,
+      "stars": 2299,
       "language": null,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "owner": {
         "login": "MoonshotAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "updated_at": "2026-03-21T05:57:48Z"
+      "updated_at": "2026-03-21T06:57:33Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2179,
+      "stars": 2194,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T06:02:14Z"
+      "updated_at": "2026-03-21T06:56:20Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 1885,
+      "stars": 1890,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-21T06:00:37Z"
+      "updated_at": "2026-03-21T06:48:52Z"
     },
     {
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 1587,
+      "stars": 1633,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T06:02:59Z"
+      "updated_at": "2026-03-21T06:58:24Z"
     },
     {
       "id": 1182712729,
       "name": "zerobootdev/zeroboot",
       "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stars": 1480,
+      "stars": 1494,
       "language": "Rust",
       "url": "https://github.com/zerobootdev/zeroboot",
       "owner": {
         "login": "zerobootdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/269425771?v=4"
       },
-      "updated_at": "2026-03-21T06:00:20Z"
+      "updated_at": "2026-03-21T06:51:46Z"
     },
     {
       "id": 1182385218,
       "name": "cnlimiter/codex-manager",
       "description": null,
-      "stars": 1257,
+      "stars": 1262,
       "language": "Python",
       "url": "https://github.com/cnlimiter/codex-manager",
       "owner": {
         "login": "cnlimiter",
         "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
       },
-      "updated_at": "2026-03-21T05:54:59Z"
+      "updated_at": "2026-03-21T06:50:12Z"
     },
     {
       "id": 1182715089,
       "name": "Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stars": 1192,
+      "stars": 1195,
       "language": "Rust",
       "url": "https://github.com/Infatoshi/OpenSquirrel",
       "owner": {
         "login": "Infatoshi",
         "avatar_url": "https://avatars.githubusercontent.com/u/59771030?v=4"
       },
-      "updated_at": "2026-03-21T05:08:11Z"
+      "updated_at": "2026-03-21T06:54:33Z"
     },
     {
       "id": 1182790403,
@@ -135,79 +135,92 @@
       "id": 1182741097,
       "name": "rasbt/llm-architecture-gallery",
       "description": "LLM Architecture Gallery source data",
-      "stars": 808,
+      "stars": 810,
       "language": null,
       "url": "https://github.com/rasbt/llm-architecture-gallery",
       "owner": {
         "login": "rasbt",
         "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
       },
-      "updated_at": "2026-03-21T06:02:50Z"
+      "updated_at": "2026-03-21T06:37:08Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 789,
+      "stars": 792,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-21T05:59:29Z"
+      "updated_at": "2026-03-21T06:23:05Z"
     },
     {
       "id": 1182454913,
       "name": "rzru/nightingale",
       "description": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": 715,
+      "stars": 717,
       "language": "Rust",
       "url": "https://github.com/rzru/nightingale",
       "owner": {
         "login": "rzru",
         "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
       },
-      "updated_at": "2026-03-21T04:04:51Z"
+      "updated_at": "2026-03-21T06:52:24Z"
     },
     {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stars": 679,
+      "stars": 680,
       "language": "Astro",
       "url": "https://github.com/frank890417/taiwan-md",
       "owner": {
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-21T05:29:00Z"
+      "updated_at": "2026-03-21T06:26:39Z"
     },
     {
       "id": 1182098521,
       "name": "sstklen/trump-code",
       "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "stars": 602,
+      "stars": 603,
       "language": "Python",
       "url": "https://github.com/sstklen/trump-code",
       "owner": {
         "login": "sstklen",
         "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
       },
-      "updated_at": "2026-03-21T04:56:24Z"
+      "updated_at": "2026-03-21T06:52:52Z"
     },
     {
       "id": 1182216394,
       "name": "collaborator-ai/collab-public",
       "description": "Collaborator is a place to build with agents.",
-      "stars": 584,
+      "stars": 587,
       "language": "Shell",
       "url": "https://github.com/collaborator-ai/collab-public",
       "owner": {
         "login": "collaborator-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260235329?v=4"
       },
-      "updated_at": "2026-03-21T05:56:41Z"
+      "updated_at": "2026-03-21T06:58:09Z"
+    },
+    {
+      "id": 1183645536,
+      "name": "nv-tlabs/kimodo",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "stars": 569,
+      "language": "Python",
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "owner": {
+        "login": "nv-tlabs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+      },
+      "updated_at": "2026-03-21T06:46:10Z"
     },
     {
       "id": 1182924996,
@@ -223,43 +236,30 @@
       "updated_at": "2026-03-21T05:12:36Z"
     },
     {
-      "id": 1183645536,
-      "name": "nv-tlabs/kimodo",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "stars": 567,
-      "language": "Python",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "owner": {
-        "login": "nv-tlabs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
-      },
-      "updated_at": "2026-03-21T03:08:44Z"
-    },
-    {
-      "id": 1183071163,
-      "name": "inspatio/inspatio-world",
+      "id": 1185330299,
+      "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 472,
+      "stars": 478,
       "language": "Python",
-      "url": "https://github.com/inspatio/inspatio-world",
+      "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
-        "login": "inspatio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
+        "login": "lxf746",
+        "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-21T05:42:34Z"
+      "updated_at": "2026-03-21T06:57:17Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 469,
+      "stars": 476,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-21T06:03:04Z"
+      "updated_at": "2026-03-21T06:54:31Z"
     }
   ]
 }
