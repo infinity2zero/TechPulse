@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-21T17:50:04.748Z",
+  "lastUpdated": "2026-03-21T18:01:25.675Z",
   "items": [
     {
       "id": 1182547092,
       "name": "NVIDIA/NemoClaw",
       "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-      "stars": 14724,
+      "stars": 14734,
       "language": "JavaScript",
       "url": "https://github.com/NVIDIA/NemoClaw",
       "owner": {
         "login": "NVIDIA",
         "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
       },
-      "updated_at": "2026-03-21T17:47:07Z"
+      "updated_at": "2026-03-21T18:00:01Z"
     },
     {
       "id": 1182108611,
@@ -31,14 +31,14 @@
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2411,
+      "stars": 2412,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-21T17:44:11Z"
+      "updated_at": "2026-03-21T17:52:29Z"
     },
     {
       "id": 1182403562,
@@ -57,14 +57,14 @@
       "id": 1182081931,
       "name": "Lum1104/Understand-Anything",
       "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).",
-      "stars": 2319,
+      "stars": 2330,
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "owner": {
         "login": "Lum1104",
         "avatar_url": "https://avatars.githubusercontent.com/u/87774050?v=4"
       },
-      "updated_at": "2026-03-21T17:49:51Z"
+      "updated_at": "2026-03-21T18:00:32Z"
     },
     {
       "id": 1184268220,
@@ -122,14 +122,14 @@
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 954,
+      "stars": 955,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-21T17:10:20Z"
+      "updated_at": "2026-03-21T17:51:44Z"
     },
     {
       "id": 1185560597,
@@ -142,7 +142,7 @@
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-21T17:21:45Z"
+      "updated_at": "2026-03-21T17:57:52Z"
     },
     {
       "id": 1182741097,
@@ -171,6 +171,19 @@
       "updated_at": "2026-03-21T17:23:58Z"
     },
     {
+      "id": 1185330299,
+      "name": "lxf746/any-auto-register",
+      "description": null,
+      "stars": 696,
+      "language": "Python",
+      "url": "https://github.com/lxf746/any-auto-register",
+      "owner": {
+        "login": "lxf746",
+        "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
+      },
+      "updated_at": "2026-03-21T17:59:42Z"
+    },
+    {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
@@ -181,33 +194,20 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-21T17:35:26Z"
-    },
-    {
-      "id": 1185330299,
-      "name": "lxf746/any-auto-register",
-      "description": null,
-      "stars": 688,
-      "language": "Python",
-      "url": "https://github.com/lxf746/any-auto-register",
-      "owner": {
-        "login": "lxf746",
-        "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
-      },
-      "updated_at": "2026-03-21T17:35:38Z"
+      "updated_at": "2026-03-21T17:56:40Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 622,
+      "stars": 629,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-21T17:43:36Z"
+      "updated_at": "2026-03-21T18:01:20Z"
     },
     {
       "id": 1182216394,
@@ -220,7 +220,7 @@
         "login": "collaborator-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260235329?v=4"
       },
-      "updated_at": "2026-03-21T17:23:37Z"
+      "updated_at": "2026-03-21T17:57:57Z"
     },
     {
       "id": 1182098521,
