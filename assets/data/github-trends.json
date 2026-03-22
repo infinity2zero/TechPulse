@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T08:18:39.313Z",
+  "lastUpdated": "2026-03-22T08:53:36.457Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2569,
+      "stars": 2576,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T08:15:02Z"
+      "updated_at": "2026-03-22T08:51:43Z"
     },
     {
       "id": 1184268220,
@@ -44,27 +44,27 @@
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 914,
+      "stars": 930,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-22T08:13:26Z"
+      "updated_at": "2026-03-22T08:52:53Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 901,
+      "stars": 911,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-22T08:15:52Z"
+      "updated_at": "2026-03-22T08:52:51Z"
     },
     {
       "id": 1185560597,
@@ -90,59 +90,72 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T07:58:35Z"
+      "updated_at": "2026-03-22T08:52:54Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 691,
+      "stars": 698,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-22T08:17:25Z"
+      "updated_at": "2026-03-22T08:52:22Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 679,
+      "stars": 694,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T08:16:49Z"
+      "updated_at": "2026-03-22T08:52:11Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 638,
+      "stars": 641,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-22T08:18:12Z"
+      "updated_at": "2026-03-22T08:41:50Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 624,
+      "stars": 627,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-22T08:12:15Z"
+      "updated_at": "2026-03-22T08:27:34Z"
+    },
+    {
+      "id": 1183645536,
+      "name": "nv-tlabs/kimodo",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+      "stars": 588,
+      "language": "Python",
+      "url": "https://github.com/nv-tlabs/kimodo",
+      "owner": {
+        "login": "nv-tlabs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+      },
+      "updated_at": "2026-03-22T08:29:42Z"
     },
     {
       "id": 1182924996,
@@ -158,69 +171,56 @@
       "updated_at": "2026-03-22T08:00:27Z"
     },
     {
-      "id": 1183645536,
-      "name": "nv-tlabs/kimodo",
-      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-      "stars": 587,
-      "language": "Python",
-      "url": "https://github.com/nv-tlabs/kimodo",
-      "owner": {
-        "login": "nv-tlabs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
-      },
-      "updated_at": "2026-03-22T08:00:29Z"
-    },
-    {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 572,
+      "stars": 582,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T08:15:51Z"
+      "updated_at": "2026-03-22T08:53:28Z"
     },
     {
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 525,
+      "stars": 527,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-22T08:05:13Z"
-    },
-    {
-      "id": 1183666903,
-      "name": "lidangzzz/goal-driven",
-      "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
-      "stars": 513,
-      "language": null,
-      "url": "https://github.com/lidangzzz/goal-driven",
-      "owner": {
-        "login": "lidangzzz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6800565?v=4"
-      },
-      "updated_at": "2026-03-22T08:17:28Z"
+      "updated_at": "2026-03-22T08:46:22Z"
     },
     {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 511,
+      "stars": 516,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T08:13:04Z"
+      "updated_at": "2026-03-22T08:37:44Z"
+    },
+    {
+      "id": 1183666903,
+      "name": "lidangzzz/goal-driven",
+      "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
+      "stars": 514,
+      "language": null,
+      "url": "https://github.com/lidangzzz/goal-driven",
+      "owner": {
+        "login": "lidangzzz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6800565?v=4"
+      },
+      "updated_at": "2026-03-22T08:50:44Z"
     },
     {
       "id": 1183071163,
