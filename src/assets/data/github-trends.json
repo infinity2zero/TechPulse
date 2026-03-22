@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-22T23:02:36.199Z",
+  "lastUpdated": "2026-03-22T23:37:40.606Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2787,
+      "stars": 2796,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T23:01:44Z"
+      "updated_at": "2026-03-22T23:35:21Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2056,
+      "stars": 2058,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-22T22:25:29Z"
+      "updated_at": "2026-03-22T23:34:25Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 1648,
+      "stars": 1670,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T23:02:26Z"
+      "updated_at": "2026-03-22T23:36:20Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1139,
+      "stars": 1155,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T22:59:43Z"
+      "updated_at": "2026-03-22T23:36:46Z"
     },
     {
       "id": 1186410486,
@@ -93,6 +93,19 @@
       "updated_at": "2026-03-22T22:12:29Z"
     },
     {
+      "id": 1187377394,
+      "name": "dontbesilent2025/dbskill",
+      "description": "dontbesilent 的商业诊断 Skills for Claude Code",
+      "stars": 878,
+      "language": null,
+      "url": "https://github.com/dontbesilent2025/dbskill",
+      "owner": {
+        "login": "dontbesilent2025",
+        "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
+      },
+      "updated_at": "2026-03-22T23:32:22Z"
+    },
+    {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
@@ -106,30 +119,17 @@
       "updated_at": "2026-03-22T22:48:24Z"
     },
     {
-      "id": 1187377394,
-      "name": "dontbesilent2025/dbskill",
-      "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 874,
-      "language": null,
-      "url": "https://github.com/dontbesilent2025/dbskill",
-      "owner": {
-        "login": "dontbesilent2025",
-        "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
-      },
-      "updated_at": "2026-03-22T22:38:24Z"
-    },
-    {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 823,
+      "stars": 824,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-22T22:50:50Z"
+      "updated_at": "2026-03-22T23:37:20Z"
     },
     {
       "id": 1184063789,
@@ -148,14 +148,14 @@
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 696,
+      "stars": 698,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-22T22:20:46Z"
+      "updated_at": "2026-03-22T23:31:22Z"
     },
     {
       "id": 1185740798,
@@ -168,20 +168,20 @@
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-22T22:57:36Z"
+      "updated_at": "2026-03-22T23:22:55Z"
     },
     {
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 615,
+      "stars": 617,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-22T22:07:42Z"
+      "updated_at": "2026-03-22T23:37:18Z"
     },
     {
       "id": 1183645536,
@@ -200,53 +200,53 @@
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 607,
+      "stars": 608,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T23:01:02Z"
+      "updated_at": "2026-03-22T23:22:50Z"
     },
     {
       "id": 1182924996,
       "name": "joeseesun/opencli-skill",
       "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) ",
-      "stars": 595,
+      "stars": 596,
       "language": null,
       "url": "https://github.com/joeseesun/opencli-skill",
       "owner": {
         "login": "joeseesun",
         "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
       },
-      "updated_at": "2026-03-22T15:12:02Z"
+      "updated_at": "2026-03-22T23:03:06Z"
     },
     {
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 565,
+      "stars": 569,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-22T22:52:07Z"
+      "updated_at": "2026-03-22T23:24:52Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 549,
+      "stars": 556,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-22T22:57:36Z"
+      "updated_at": "2026-03-22T23:34:16Z"
     },
     {
       "id": 1183666903,
