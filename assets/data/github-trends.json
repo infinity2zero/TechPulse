@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-03-22T17:43:11.894Z",
+  "lastUpdated": "2026-03-22T17:58:15.402Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2711,
+      "stars": 2713,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T17:33:39Z"
+      "updated_at": "2026-03-22T17:48:55Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2045,
+      "stars": 2047,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-22T16:48:59Z"
+      "updated_at": "2026-03-22T17:47:17Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 1455,
+      "stars": 1466,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T17:42:23Z"
+      "updated_at": "2026-03-22T17:54:55Z"
     },
     {
       "id": 1186410486,
@@ -83,14 +83,14 @@
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 931,
+      "stars": 948,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T17:42:42Z"
+      "updated_at": "2026-03-22T17:57:27Z"
     },
     {
       "id": 1185560597,
@@ -109,14 +109,14 @@
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 846,
+      "stars": 849,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T17:42:36Z"
+      "updated_at": "2026-03-22T17:57:56Z"
     },
     {
       "id": 1185958882,
@@ -142,33 +142,33 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T17:22:50Z"
+      "updated_at": "2026-03-22T17:53:11Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 683,
+      "stars": 684,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-22T17:32:12Z"
+      "updated_at": "2026-03-22T17:57:02Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 676,
+      "stars": 678,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-22T17:32:33Z"
+      "updated_at": "2026-03-22T17:56:36Z"
     },
     {
       "id": 1183645536,
@@ -213,14 +213,14 @@
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 544,
+      "stars": 545,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-22T17:09:25Z"
+      "updated_at": "2026-03-22T17:51:26Z"
     },
     {
       "id": 1183666903,
@@ -239,14 +239,14 @@
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 522,
+      "stars": 528,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-22T17:42:16Z"
+      "updated_at": "2026-03-22T17:56:47Z"
     },
     {
       "id": 1183071163,
