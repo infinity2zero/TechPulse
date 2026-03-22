@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-22T23:37:40.606Z",
+  "lastUpdated": "2026-03-22T23:57:17.689Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2796,
+      "stars": 2804,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T23:35:21Z"
+      "updated_at": "2026-03-22T23:57:03Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2058,
+      "stars": 2060,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-22T23:34:25Z"
+      "updated_at": "2026-03-22T23:48:04Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 1670,
+      "stars": 1693,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T23:36:20Z"
+      "updated_at": "2026-03-22T23:56:13Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1155,
+      "stars": 1160,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T23:36:46Z"
+      "updated_at": "2026-03-22T23:56:45Z"
     },
     {
       "id": 1186410486,
@@ -70,66 +70,66 @@
       "id": 1182790403,
       "name": "lcoutodemos/clui-cc",
       "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 1005,
+      "stars": 1007,
       "language": "TypeScript",
       "url": "https://github.com/lcoutodemos/clui-cc",
       "owner": {
         "login": "lcoutodemos",
         "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
       },
-      "updated_at": "2026-03-22T21:42:23Z"
+      "updated_at": "2026-03-22T23:52:25Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 972,
+      "stars": 973,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-22T22:12:29Z"
+      "updated_at": "2026-03-22T23:52:15Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 878,
+      "stars": 884,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T23:32:22Z"
+      "updated_at": "2026-03-22T23:56:12Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 876,
+      "stars": 877,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-22T22:48:24Z"
+      "updated_at": "2026-03-22T23:39:11Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 824,
+      "stars": 825,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-22T23:37:20Z"
+      "updated_at": "2026-03-22T23:45:59Z"
     },
     {
       "id": 1184063789,
@@ -142,33 +142,33 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T23:01:35Z"
+      "updated_at": "2026-03-22T23:53:21Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 698,
+      "stars": 700,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-22T23:31:22Z"
+      "updated_at": "2026-03-22T23:56:49Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 694,
+      "stars": 697,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-22T23:22:55Z"
+      "updated_at": "2026-03-22T23:47:55Z"
     },
     {
       "id": 1184866064,
@@ -239,14 +239,14 @@
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 556,
+      "stars": 562,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-22T23:34:16Z"
+      "updated_at": "2026-03-22T23:48:24Z"
     },
     {
       "id": 1183666903,
