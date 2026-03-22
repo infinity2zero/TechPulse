@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T10:38:14.824Z",
+  "lastUpdated": "2026-03-22T10:58:03.083Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2597,
+      "stars": 2599,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T10:29:15Z"
+      "updated_at": "2026-03-22T10:54:02Z"
     },
     {
       "id": 1184268220,
@@ -28,82 +28,82 @@
       "updated_at": "2026-03-22T10:25:06Z"
     },
     {
-      "id": 1182790403,
-      "name": "lcoutodemos/clui-cc",
-      "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 977,
-      "language": "TypeScript",
-      "url": "https://github.com/lcoutodemos/clui-cc",
-      "owner": {
-        "login": "lcoutodemos",
-        "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
-      },
-      "updated_at": "2026-03-22T10:30:31Z"
-    },
-    {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 974,
+      "stars": 979,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-22T10:32:55Z"
+      "updated_at": "2026-03-22T10:55:10Z"
+    },
+    {
+      "id": 1182790403,
+      "name": "lcoutodemos/clui-cc",
+      "description": "Clui CC — Command Line User Interface for Claude Code",
+      "stars": 978,
+      "language": "TypeScript",
+      "url": "https://github.com/lcoutodemos/clui-cc",
+      "owner": {
+        "login": "lcoutodemos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
+      },
+      "updated_at": "2026-03-22T10:49:47Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 927,
+      "stars": 929,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-22T10:34:46Z"
+      "updated_at": "2026-03-22T10:56:14Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 854,
+      "stars": 855,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-22T10:25:28Z"
+      "updated_at": "2026-03-22T10:47:11Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 724,
+      "stars": 727,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-22T10:37:29Z"
+      "updated_at": "2026-03-22T10:57:49Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 719,
+      "stars": 722,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T10:37:27Z"
+      "updated_at": "2026-03-22T10:40:54Z"
     },
     {
       "id": 1184063789,
@@ -116,59 +116,59 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T10:14:05Z"
-    },
-    {
-      "id": 1185740798,
-      "name": "BryanLunduke/DoesItAgeVerify",
-      "description": "The age verification status of Open Source Operating Systems",
-      "stars": 650,
-      "language": null,
-      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "owner": {
-        "login": "BryanLunduke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
-      },
-      "updated_at": "2026-03-22T10:12:48Z"
-    },
-    {
-      "id": 1187487221,
-      "name": "ghostty-org/ghostling",
-      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 637,
-      "language": "C",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "owner": {
-        "login": "ghostty-org",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
-      },
-      "updated_at": "2026-03-22T10:37:14Z"
+      "updated_at": "2026-03-22T10:54:36Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 607,
+      "stars": 656,
       "language": "Python",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T10:37:58Z"
+      "updated_at": "2026-03-22T10:57:53Z"
+    },
+    {
+      "id": 1185740798,
+      "name": "BryanLunduke/DoesItAgeVerify",
+      "description": "The age verification status of Open Source Operating Systems",
+      "stars": 651,
+      "language": null,
+      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "owner": {
+        "login": "BryanLunduke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
+      },
+      "updated_at": "2026-03-22T10:54:46Z"
+    },
+    {
+      "id": 1187487221,
+      "name": "ghostty-org/ghostling",
+      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
+      "stars": 640,
+      "language": "C",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "owner": {
+        "login": "ghostty-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+      },
+      "updated_at": "2026-03-22T10:55:50Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 606,
+      "stars": 607,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T10:34:43Z"
+      "updated_at": "2026-03-22T10:51:21Z"
     },
     {
       "id": 1183645536,
@@ -187,14 +187,14 @@
       "id": 1182924996,
       "name": "joeseesun/opencli-skill",
       "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) ",
-      "stars": 591,
+      "stars": 592,
       "language": null,
       "url": "https://github.com/joeseesun/opencli-skill",
       "owner": {
         "login": "joeseesun",
         "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
       },
-      "updated_at": "2026-03-22T10:35:38Z"
+      "updated_at": "2026-03-22T10:51:27Z"
     },
     {
       "id": 1184568969,
@@ -213,14 +213,14 @@
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 526,
+      "stars": 528,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T10:33:16Z"
+      "updated_at": "2026-03-22T10:57:01Z"
     },
     {
       "id": 1183666903,
