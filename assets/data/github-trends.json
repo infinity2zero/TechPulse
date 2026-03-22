@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-22T21:42:43.192Z",
+  "lastUpdated": "2026-03-22T21:57:50.554Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2763,
+      "stars": 2768,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T21:40:29Z"
+      "updated_at": "2026-03-22T21:54:29Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2053,
+      "stars": 2055,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-22T20:33:35Z"
+      "updated_at": "2026-03-22T21:51:14Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 1601,
+      "stars": 1607,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T21:41:13Z"
+      "updated_at": "2026-03-22T21:53:11Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1100,
+      "stars": 1105,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T21:42:25Z"
+      "updated_at": "2026-03-22T21:55:08Z"
     },
     {
       "id": 1186410486,
@@ -142,7 +142,20 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T20:59:45Z"
+      "updated_at": "2026-03-22T21:54:10Z"
+    },
+    {
+      "id": 1187487221,
+      "name": "ghostty-org/ghostling",
+      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
+      "stars": 693,
+      "language": "C",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "owner": {
+        "login": "ghostty-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+      },
+      "updated_at": "2026-03-22T21:53:55Z"
     },
     {
       "id": 1185740798,
@@ -158,17 +171,17 @@
       "updated_at": "2026-03-22T21:20:49Z"
     },
     {
-      "id": 1187487221,
-      "name": "ghostty-org/ghostling",
-      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 691,
-      "language": "C",
-      "url": "https://github.com/ghostty-org/ghostling",
+      "id": 1184866064,
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "stars": 612,
+      "language": "Python",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
-        "login": "ghostty-org",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+        "login": "leo-lilinxiao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-22T21:22:33Z"
+      "updated_at": "2026-03-22T21:56:24Z"
     },
     {
       "id": 1183645536,
@@ -184,30 +197,17 @@
       "updated_at": "2026-03-22T20:20:49Z"
     },
     {
-      "id": 1184866064,
-      "name": "leo-lilinxiao/codex-autoresearch",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 606,
-      "language": "Python",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "owner": {
-        "login": "leo-lilinxiao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
-      },
-      "updated_at": "2026-03-22T21:40:08Z"
-    },
-    {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 599,
+      "stars": 600,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T21:25:39Z"
+      "updated_at": "2026-03-22T21:52:52Z"
     },
     {
       "id": 1182924996,
@@ -239,27 +239,27 @@
       "id": 1183666903,
       "name": "lidangzzz/goal-driven",
       "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
-      "stars": 541,
+      "stars": 542,
       "language": null,
       "url": "https://github.com/lidangzzz/goal-driven",
       "owner": {
         "login": "lidangzzz",
         "avatar_url": "https://avatars.githubusercontent.com/u/6800565?v=4"
       },
-      "updated_at": "2026-03-22T20:36:00Z"
+      "updated_at": "2026-03-22T21:51:46Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 532,
+      "stars": 533,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-22T21:42:16Z"
+      "updated_at": "2026-03-22T21:56:14Z"
     }
   ]
 }
