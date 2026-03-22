@@ -1,91 +1,91 @@
 {
-  "lastUpdated": "2026-03-22T22:47:46.849Z",
+  "lastUpdated": "2026-03-22T23:02:36.077Z",
   "items": [
     {
       "id": 47482825,
       "title": "Rust Project Perspectives on AI",
       "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-      "score": 27,
+      "score": 39,
       "by": "weinzierl",
       "time": 1774217943,
-      "comments": 1,
+      "comments": 7,
       "domain": "nikomatsakis.github.io"
-    },
-    {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 207,
-      "by": "JumpCrisscross",
-      "time": 1774203820,
-      "comments": 87,
-      "domain": "stuartbreckenridge.net"
     },
     {
       "id": 47482217,
       "title": "GrapheneOS will remain usable by anyone without requiring personal information",
       "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 37,
+      "score": 65,
       "by": "nothrowaways",
       "time": 1774214051,
-      "comments": 6,
+      "comments": 10,
       "domain": "grapheneos.social"
+    },
+    {
+      "id": 47480507,
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 217,
+      "by": "JumpCrisscross",
+      "time": 1774203820,
+      "comments": 101,
+      "domain": "stuartbreckenridge.net"
     },
     {
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 92,
+      "score": 104,
       "by": "mariuz",
       "time": 1774206163,
-      "comments": 29,
+      "comments": 34,
       "domain": "larstofus.com"
     },
     {
       "id": 47478401,
       "title": "The future of version control",
       "url": "https://bramcohen.com/p/manyana",
-      "score": 338,
+      "score": 346,
       "by": "c17r",
       "time": 1774192588,
-      "comments": 188,
+      "comments": 200,
       "domain": "bramcohen.com"
     },
     {
       "id": 47476315,
       "title": "Reports of code's death are greatly exaggerated",
       "url": "https://stevekrouse.com/precision",
-      "score": 182,
+      "score": 188,
       "by": "stevekrouse",
       "time": 1774177774,
-      "comments": 176,
+      "comments": 178,
       "domain": "stevekrouse.com"
     },
     {
       "id": 47425874,
       "title": "LLMs Predict My Coffee",
       "url": "https://dynomight.net/coffee/",
-      "score": 34,
+      "score": 40,
       "by": "surprisetalk",
       "time": 1773842197,
-      "comments": 10,
+      "comments": 12,
       "domain": "dynomight.net"
     },
     {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 326,
+      "score": 332,
       "by": "jensgk",
       "time": 1774182518,
-      "comments": 84,
+      "comments": 86,
       "domain": "projectnomad.us"
     },
     {
       "id": 47479627,
       "title": "Five Years of Running a Systems Reading Group at Microsoft",
       "url": "https://armaansood.com/posts/systems-reading-group/",
-      "score": 90,
+      "score": 93,
       "by": "Foe",
       "time": 1774199198,
       "comments": 23,
@@ -95,7 +95,7 @@
       "id": 47476422,
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 279,
+      "score": 281,
       "by": "mft_",
       "time": 1774179003,
       "comments": 98,
@@ -108,14 +108,34 @@
       "score": 129,
       "by": "DeathArrow",
       "time": 1774194201,
-      "comments": 56,
+      "comments": 58,
       "domain": "avaloniaui.net"
+    },
+    {
+      "id": 47475938,
+      "title": "Windows native app development is a mess",
+      "url": "https://domenic.me/windows-native-dev/",
+      "score": 291,
+      "by": "domenicd",
+      "time": 1774173451,
+      "comments": 319,
+      "domain": "domenic.me"
+    },
+    {
+      "id": 47477284,
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "url": "https://noquiche.fyi/voodoo",
+      "score": 142,
+      "by": "fayalalebrun",
+      "time": 1774185878,
+      "comments": 31,
+      "domain": "noquiche.fyi"
     },
     {
       "id": 47435616,
       "title": "Theodosian Land Walls of Constantinople",
       "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
-      "score": 8,
+      "score": 10,
       "by": "bcraven",
       "time": 1773901187,
       "comments": 0,
@@ -132,74 +152,74 @@
       "domain": "play.google.com"
     },
     {
-      "id": 47475938,
-      "title": "Windows native app development is a mess",
-      "url": "https://domenic.me/windows-native-dev/",
-      "score": 286,
-      "by": "domenicd",
-      "time": 1774173451,
-      "comments": 315,
-      "domain": "domenic.me"
+      "id": 47482760,
+      "title": "They're Vibe-Coding Spam Now",
+      "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
+      "score": 4,
+      "by": "raybb",
+      "time": 1774217514,
+      "comments": 2,
+      "domain": "tedium.co"
     },
     {
-      "id": 47477284,
-      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-      "url": "https://noquiche.fyi/voodoo",
-      "score": 142,
-      "by": "fayalalebrun",
-      "time": 1774185878,
-      "comments": 28,
-      "domain": "noquiche.fyi"
+      "id": 47482667,
+      "title": "Iran war energy crisis is a renewable energy wake-up call",
+      "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
+      "score": 21,
+      "by": "mooreds",
+      "time": 1774216863,
+      "comments": 0,
+      "domain": "apnews.com"
     },
     {
       "id": 47480200,
       "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
       "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-      "score": 143,
+      "score": 146,
       "by": "chrisjj",
       "time": 1774202186,
-      "comments": 42,
+      "comments": 43,
       "domain": "theguardian.com"
-    },
-    {
-      "id": 47479962,
-      "title": "OpenClaw is a security nightmare dressed up as a daydream",
-      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-      "score": 254,
-      "by": "fs_software",
-      "time": 1774200928,
-      "comments": 177,
-      "domain": "composio.dev"
     },
     {
       "id": 47476562,
       "title": "More common mistakes to avoid when creating system architecture diagrams",
       "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
-      "score": 125,
+      "score": 127,
       "by": "billyp-rva",
       "time": 1774180312,
-      "comments": 49,
+      "comments": 50,
       "domain": "ilograph.com"
-    },
-    {
-      "id": 47471271,
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "score": 40,
-      "by": "zdw",
-      "time": 1774126681,
-      "comments": 8,
-      "domain": "nesbitt.io"
     },
     {
       "id": 47474255,
       "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
       "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 346,
+      "score": 349,
       "by": "winkelmann",
       "time": 1774151031,
-      "comments": 255,
+      "comments": 257,
       "domain": "radar.cloudflare.com"
+    },
+    {
+      "id": 47479962,
+      "title": "OpenClaw is a security nightmare dressed up as a daydream",
+      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+      "score": 255,
+      "by": "fs_software",
+      "time": 1774200928,
+      "comments": 181,
+      "domain": "composio.dev"
+    },
+    {
+      "id": 47471271,
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "score": 41,
+      "by": "zdw",
+      "time": 1774126681,
+      "comments": 9,
+      "domain": "nesbitt.io"
     },
     {
       "id": 47442194,
@@ -208,28 +228,18 @@
       "score": 14,
       "by": "matt_d",
       "time": 1773938437,
-      "comments": 1,
+      "comments": 2,
       "domain": "arxiv.org"
     },
     {
       "id": 47479751,
       "title": "Why I love NixOS",
       "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "score": 150,
+      "score": 152,
       "by": "birkey",
       "time": 1774199826,
-      "comments": 115,
+      "comments": 118,
       "domain": "birkey.co"
-    },
-    {
-      "id": 47480900,
-      "title": "Teaching Claude to QA a mobile app",
-      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "score": 47,
-      "by": "azhenley",
-      "time": 1774206240,
-      "comments": 2,
-      "domain": "christophermeiklejohn.com"
     },
     {
       "id": 47427224,
@@ -242,10 +252,20 @@
       "domain": "john-rush.com"
     },
     {
+      "id": 47480900,
+      "title": "Teaching Claude to QA a mobile app",
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+      "score": 48,
+      "by": "azhenley",
+      "time": 1774206240,
+      "comments": 3,
+      "domain": "christophermeiklejohn.com"
+    },
+    {
       "id": 47476566,
       "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
       "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-      "score": 83,
+      "score": 84,
       "by": "rbanffy",
       "time": 1774180417,
       "comments": 6,
@@ -255,7 +275,7 @@
       "id": 47435783,
       "title": "A review of dice that came with the white castle",
       "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
-      "score": 119,
+      "score": 120,
       "by": "doener",
       "time": 1773902874,
       "comments": 36,
@@ -265,41 +285,21 @@
       "id": 47479183,
       "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
       "url": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
-      "score": 171,
+      "score": 180,
       "by": "CrypticShift",
       "time": 1774196932,
-      "comments": 82,
+      "comments": 86,
       "domain": "tomshardware.com"
     },
     {
       "id": 47476776,
       "title": "Brute-forcing my algorithmic ignorance",
       "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-      "score": 87,
+      "score": 88,
       "by": "qikcik",
       "time": 1774182184,
       "comments": 53,
       "domain": "blog.dominikrudnik.pl"
-    },
-    {
-      "id": 47416149,
-      "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
-      "url": "https://www.zerocalculators.com/features",
-      "score": 25,
-      "by": "uticus",
-      "time": 1773770854,
-      "comments": 24,
-      "domain": "zerocalculators.com"
-    },
-    {
-      "id": 47477339,
-      "title": "Show HN: Revise – An AI Editor for Documents",
-      "url": "https://revise.io",
-      "score": 56,
-      "by": "artursapek",
-      "time": 1774186125,
-      "comments": 48,
-      "domain": "revise.io"
     }
   ]
 }
