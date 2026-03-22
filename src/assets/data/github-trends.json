@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T20:54:23.104Z",
+  "lastUpdated": "2026-03-22T21:15:35.854Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2748,
+      "stars": 2752,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T20:54:10Z"
+      "updated_at": "2026-03-22T21:10:32Z"
     },
     {
       "id": 1184268220,
@@ -31,40 +31,40 @@
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 1576,
+      "stars": 1583,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T20:54:23Z"
+      "updated_at": "2026-03-22T21:12:37Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1073,
+      "stars": 1083,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T20:49:46Z"
+      "updated_at": "2026-03-22T21:15:11Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1012,
+      "stars": 1014,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-22T20:53:00Z"
+      "updated_at": "2026-03-22T21:00:14Z"
     },
     {
       "id": 1182790403,
@@ -109,14 +109,14 @@
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 868,
+      "stars": 869,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T20:36:07Z"
+      "updated_at": "2026-03-22T20:56:13Z"
     },
     {
       "id": 1185958882,
@@ -142,7 +142,7 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T20:53:34Z"
+      "updated_at": "2026-03-22T20:59:45Z"
     },
     {
       "id": 1185740798,
@@ -187,14 +187,27 @@
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 597,
+      "stars": 598,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T20:42:36Z"
+      "updated_at": "2026-03-22T21:00:32Z"
+    },
+    {
+      "id": 1184866064,
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "stars": 598,
+      "language": "Python",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+      "owner": {
+        "login": "leo-lilinxiao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
+      },
+      "updated_at": "2026-03-22T21:15:34Z"
     },
     {
       "id": 1182924996,
@@ -210,30 +223,17 @@
       "updated_at": "2026-03-22T15:12:02Z"
     },
     {
-      "id": 1184866064,
-      "name": "leo-lilinxiao/codex-autoresearch",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 590,
-      "language": "Python",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "owner": {
-        "login": "leo-lilinxiao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
-      },
-      "updated_at": "2026-03-22T20:52:51Z"
-    },
-    {
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 554,
+      "stars": 555,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-22T20:23:10Z"
+      "updated_at": "2026-03-22T20:58:12Z"
     },
     {
       "id": 1183666903,
@@ -249,17 +249,17 @@
       "updated_at": "2026-03-22T20:36:00Z"
     },
     {
-      "id": 1183071163,
-      "name": "inspatio/inspatio-world",
-      "description": null,
-      "stars": 521,
-      "language": "Python",
-      "url": "https://github.com/inspatio/inspatio-world",
+      "id": 1187731056,
+      "name": "louislva/claude-peers-mcp",
+      "description": "Allow all your Claude Codes to message each other ad-hoc!",
+      "stars": 524,
+      "language": "TypeScript",
+      "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
-        "login": "inspatio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
+        "login": "louislva",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-22T20:04:24Z"
+      "updated_at": "2026-03-22T21:12:24Z"
     }
   ]
 }
