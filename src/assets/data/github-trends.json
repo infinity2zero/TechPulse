@@ -1,31 +1,44 @@
 {
-  "lastUpdated": "2026-03-22T10:58:03.083Z",
+  "lastUpdated": "2026-03-22T11:22:26.362Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 2599,
+      "stars": 2604,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-22T10:54:02Z"
+      "updated_at": "2026-03-22T11:17:49Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2014,
+      "stars": 2020,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-22T10:25:06Z"
+      "updated_at": "2026-03-22T11:16:15Z"
+    },
+    {
+      "id": 1182790403,
+      "name": "lcoutodemos/clui-cc",
+      "description": "Clui CC — Command Line User Interface for Claude Code",
+      "stars": 982,
+      "language": "TypeScript",
+      "url": "https://github.com/lcoutodemos/clui-cc",
+      "owner": {
+        "login": "lcoutodemos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
+      },
+      "updated_at": "2026-03-22T11:21:01Z"
     },
     {
       "id": 1186410486,
@@ -41,134 +54,121 @@
       "updated_at": "2026-03-22T10:55:10Z"
     },
     {
-      "id": 1182790403,
-      "name": "lcoutodemos/clui-cc",
-      "description": "Clui CC — Command Line User Interface for Claude Code",
-      "stars": 978,
-      "language": "TypeScript",
-      "url": "https://github.com/lcoutodemos/clui-cc",
-      "owner": {
-        "login": "lcoutodemos",
-        "avatar_url": "https://avatars.githubusercontent.com/u/202719204?v=4"
-      },
-      "updated_at": "2026-03-22T10:49:47Z"
-    },
-    {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 929,
+      "stars": 930,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-22T10:56:14Z"
+      "updated_at": "2026-03-22T11:16:48Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 855,
+      "stars": 856,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-22T10:47:11Z"
+      "updated_at": "2026-03-22T11:00:07Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 727,
+      "stars": 734,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-22T10:57:49Z"
+      "updated_at": "2026-03-22T11:19:09Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 722,
+      "stars": 728,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-22T10:40:54Z"
+      "updated_at": "2026-03-22T11:12:43Z"
     },
     {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stars": 711,
+      "stars": 712,
       "language": "Astro",
       "url": "https://github.com/frank890417/taiwan-md",
       "owner": {
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-22T10:54:36Z"
+      "updated_at": "2026-03-22T11:02:09Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 656,
+      "stars": 706,
       "language": "Python",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-22T10:57:53Z"
+      "updated_at": "2026-03-22T11:22:12Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 651,
+      "stars": 652,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-22T10:54:46Z"
+      "updated_at": "2026-03-22T11:06:58Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 640,
+      "stars": 643,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-22T10:55:50Z"
+      "updated_at": "2026-03-22T11:19:33Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 607,
+      "stars": 611,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-22T10:51:21Z"
+      "updated_at": "2026-03-22T11:20:21Z"
     },
     {
       "id": 1183645536,
@@ -200,27 +200,27 @@
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 530,
+      "stars": 531,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-22T10:27:53Z"
+      "updated_at": "2026-03-22T11:13:44Z"
     },
     {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 528,
+      "stars": 531,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-22T10:57:01Z"
+      "updated_at": "2026-03-22T11:20:55Z"
     },
     {
       "id": 1183666903,
