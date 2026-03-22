@@ -1,101 +1,101 @@
 {
-  "lastUpdated": "2026-03-22T21:57:50.124Z",
+  "lastUpdated": "2026-03-22T22:22:27.355Z",
   "items": [
     {
       "id": 47480507,
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 161,
+      "score": 183,
       "by": "JumpCrisscross",
       "time": 1774203820,
-      "comments": 56,
+      "comments": 73,
       "domain": "stuartbreckenridge.net"
-    },
-    {
-      "id": 47478401,
-      "title": "The future of version control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 307,
-      "by": "c17r",
-      "time": 1774192588,
-      "comments": 169,
-      "domain": "bramcohen.com"
     },
     {
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 66,
+      "score": 81,
       "by": "mariuz",
       "time": 1774206163,
-      "comments": 16,
+      "comments": 22,
       "domain": "larstofus.com"
+    },
+    {
+      "id": 47478401,
+      "title": "The future of version control",
+      "url": "https://bramcohen.com/p/manyana",
+      "score": 328,
+      "by": "c17r",
+      "time": 1774192588,
+      "comments": 180,
+      "domain": "bramcohen.com"
     },
     {
       "id": 47476315,
       "title": "Reports of code's death are greatly exaggerated",
       "url": "https://stevekrouse.com/precision",
-      "score": 157,
+      "score": 168,
       "by": "stevekrouse",
       "time": 1774177774,
-      "comments": 156,
+      "comments": 166,
       "domain": "stevekrouse.com"
+    },
+    {
+      "id": 47425874,
+      "title": "LLMs Predict My Coffee",
+      "url": "https://dynomight.net/coffee/",
+      "score": 27,
+      "by": "surprisetalk",
+      "time": 1773842197,
+      "comments": 7,
+      "domain": "dynomight.net"
+    },
+    {
+      "id": 47476821,
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "url": "https://www.projectnomad.us",
+      "score": 322,
+      "by": "jensgk",
+      "time": 1774182518,
+      "comments": 78,
+      "domain": "projectnomad.us"
     },
     {
       "id": 47479627,
       "title": "Five Years of Running a Systems Reading Group at Microsoft",
       "url": "https://armaansood.com/posts/systems-reading-group/",
-      "score": 83,
+      "score": 87,
       "by": "Foe",
       "time": 1774199198,
       "comments": 22,
       "domain": "armaansood.com"
     },
     {
-      "id": 47476821,
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "url": "https://www.projectnomad.us",
-      "score": 311,
-      "by": "jensgk",
-      "time": 1774182518,
-      "comments": 69,
-      "domain": "projectnomad.us"
-    },
-    {
-      "id": 47425874,
-      "title": "LLMs Predict My Coffee",
-      "url": "https://dynomight.net/coffee/",
-      "score": 20,
-      "by": "surprisetalk",
-      "time": 1773842197,
-      "comments": 5,
-      "domain": "dynomight.net"
-    },
-    {
       "id": 47476422,
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 273,
+      "score": 278,
       "by": "mft_",
       "time": 1774179003,
-      "comments": 95,
+      "comments": 96,
       "domain": "github.com"
     },
     {
       "id": 47478687,
       "title": "MAUI Is Coming to Linux",
       "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-      "score": 121,
+      "score": 128,
       "by": "DeathArrow",
       "time": 1774194201,
-      "comments": 52,
+      "comments": 55,
       "domain": "avaloniaui.net"
     },
     {
       "id": 47480900,
       "title": "Teaching Claude to QA a mobile app",
       "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "score": 35,
+      "score": 41,
       "by": "azhenley",
       "time": 1774206240,
       "comments": 1,
@@ -105,81 +105,101 @@
       "id": 47475938,
       "title": "Windows native app development is a mess",
       "url": "https://domenic.me/windows-native-dev/",
-      "score": 274,
+      "score": 280,
       "by": "domenicd",
       "time": 1774173451,
-      "comments": 292,
+      "comments": 303,
       "domain": "domenic.me"
     },
     {
       "id": 47477284,
       "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
       "url": "https://noquiche.fyi/voodoo",
-      "score": 135,
+      "score": 138,
       "by": "fayalalebrun",
       "time": 1774185878,
       "comments": 25,
       "domain": "noquiche.fyi"
     },
     {
+      "id": 47480447,
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "score": 38,
+      "by": "wallflower",
+      "time": 1774203481,
+      "comments": 31,
+      "domain": "wsj.com"
+    },
+    {
+      "id": 47426857,
+      "title": "Show HN: Codala, a social network built on scanning barcodes",
+      "url": "https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en",
+      "score": 11,
+      "by": "hsynkrkye",
+      "time": 1773847045,
+      "comments": 7,
+      "domain": "play.google.com"
+    },
+    {
+      "id": 47480200,
+      "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
+      "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+      "score": 130,
+      "by": "chrisjj",
+      "time": 1774202186,
+      "comments": 36,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47479962,
+      "title": "OpenClaw is a security nightmare dressed up as a daydream",
+      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+      "score": 240,
+      "by": "fs_software",
+      "time": 1774200928,
+      "comments": 168,
+      "domain": "composio.dev"
+    },
+    {
+      "id": 47476562,
+      "title": "More common mistakes to avoid when creating system architecture diagrams",
+      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+      "score": 122,
+      "by": "billyp-rva",
+      "time": 1774180312,
+      "comments": 49,
+      "domain": "ilograph.com"
+    },
+    {
       "id": 47471271,
       "title": "How to Attract AI Bots to Your Open Source Project",
       "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "score": 30,
+      "score": 37,
       "by": "zdw",
       "time": 1774126681,
       "comments": 4,
       "domain": "nesbitt.io"
     },
     {
-      "id": 47480447,
-      "title": "What Young Workers Are Doing to AI-Proof Themselves",
-      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-      "score": 32,
-      "by": "wallflower",
-      "time": 1774203481,
-      "comments": 20,
-      "domain": "wsj.com"
+      "id": 47435616,
+      "title": "Theodosian Land Walls of Constantinople",
+      "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
+      "score": 3,
+      "by": "bcraven",
+      "time": 1773901187,
+      "comments": 0,
+      "domain": "turkisharchaeonews.net"
     },
     {
-      "id": 47479962,
-      "title": "OpenClaw is a security nightmare dressed up as a daydream",
-      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-      "score": 225,
-      "by": "fs_software",
-      "time": 1774200928,
-      "comments": 157,
-      "domain": "composio.dev"
-    },
-    {
-      "id": 47480200,
-      "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
-      "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-      "score": 118,
-      "by": "chrisjj",
-      "time": 1774202186,
-      "comments": 34,
-      "domain": "theguardian.com"
-    },
-    {
-      "id": 47426857,
-      "title": "Show HN: Codala, a social network built on scanning barcodes",
-      "url": "https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en",
-      "score": 8,
-      "by": "hsynkrkye",
-      "time": 1773847045,
-      "comments": 4,
-      "domain": "play.google.com"
-    },
-    {
-      "id": 47476562,
-      "title": "More common mistakes to avoid when creating system architecture diagrams",
-      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
-      "score": 120,
-      "by": "billyp-rva",
-      "time": 1774180312,
-      "comments": 48,
-      "domain": "ilograph.com"
+      "id": 47474255,
+      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "url": "https://radar.cloudflare.com/domains/domain/archive.today",
+      "score": 343,
+      "by": "winkelmann",
+      "time": 1774151031,
+      "comments": 252,
+      "domain": "radar.cloudflare.com"
     },
     {
       "id": 47442194,
@@ -192,44 +212,74 @@
       "domain": "arxiv.org"
     },
     {
-      "id": 47474255,
-      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-      "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 339,
-      "by": "winkelmann",
-      "time": 1774151031,
-      "comments": 246,
-      "domain": "radar.cloudflare.com"
+      "id": 47482217,
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "score": 5,
+      "by": "nothrowaways",
+      "time": 1774214051,
+      "comments": 0,
+      "domain": "grapheneos.social"
     },
     {
-      "id": 47479751,
-      "title": "Why I love NixOS",
-      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "score": 138,
-      "by": "birkey",
-      "time": 1774199826,
-      "comments": 107,
-      "domain": "birkey.co"
+      "id": 47427224,
+      "title": "25 Years of Eggs",
+      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+      "score": 230,
+      "by": "avyfain",
+      "time": 1773848648,
+      "comments": 66,
+      "domain": "john-rush.com"
     },
     {
       "id": 47435783,
       "title": "A review of dice that came with the white castle",
       "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
-      "score": 116,
+      "score": 118,
       "by": "doener",
       "time": 1773902874,
       "comments": 36,
       "domain": "boardgamegeek.com"
     },
     {
-      "id": 47427224,
-      "title": "25 Years of Eggs",
-      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "score": 226,
-      "by": "avyfain",
-      "time": 1773848648,
-      "comments": 65,
-      "domain": "john-rush.com"
+      "id": 47476566,
+      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
+      "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
+      "score": 80,
+      "by": "rbanffy",
+      "time": 1774180417,
+      "comments": 6,
+      "domain": "ibm.com"
+    },
+    {
+      "id": 47479183,
+      "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
+      "url": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
+      "score": 159,
+      "by": "CrypticShift",
+      "time": 1774196932,
+      "comments": 70,
+      "domain": "tomshardware.com"
+    },
+    {
+      "id": 47476776,
+      "title": "Brute-forcing my algorithmic ignorance",
+      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+      "score": 87,
+      "by": "qikcik",
+      "time": 1774182184,
+      "comments": 52,
+      "domain": "blog.dominikrudnik.pl"
+    },
+    {
+      "id": 47479751,
+      "title": "Why I love NixOS",
+      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "score": 141,
+      "by": "birkey",
+      "time": 1774199826,
+      "comments": 114,
+      "domain": "birkey.co"
     },
     {
       "id": 47481202,
@@ -242,64 +292,14 @@
       "domain": "josh8.com"
     },
     {
-      "id": 47476566,
-      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
-      "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-      "score": 78,
-      "by": "rbanffy",
-      "time": 1774180417,
-      "comments": 6,
-      "domain": "ibm.com"
-    },
-    {
-      "id": 47479183,
-      "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
-      "url": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
-      "score": 151,
-      "by": "CrypticShift",
-      "time": 1774196932,
-      "comments": 66,
-      "domain": "tomshardware.com"
-    },
-    {
-      "id": 47476776,
-      "title": "Brute-forcing my algorithmic ignorance",
-      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-      "score": 86,
-      "by": "qikcik",
-      "time": 1774182184,
-      "comments": 52,
-      "domain": "blog.dominikrudnik.pl"
-    },
-    {
       "id": 47477339,
       "title": "Show HN: Revise – An AI Editor for Documents",
       "url": "https://revise.io",
-      "score": 50,
+      "score": 54,
       "by": "artursapek",
       "time": 1774186125,
-      "comments": 44,
+      "comments": 48,
       "domain": "revise.io"
-    },
-    {
-      "id": 47477090,
-      "title": "A case against currying",
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "score": 85,
-      "by": "emih",
-      "time": 1774184635,
-      "comments": 107,
-      "domain": "emi-h.com"
-    },
-    {
-      "id": 47416149,
-      "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
-      "url": "https://www.zerocalculators.com/features",
-      "score": 22,
-      "by": "uticus",
-      "time": 1773770854,
-      "comments": 22,
-      "domain": "zerocalculators.com"
     }
   ]
 }
