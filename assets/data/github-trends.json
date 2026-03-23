@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-03-23T21:42:01.955Z",
+  "lastUpdated": "2026-03-23T22:01:49.329Z",
   "items": [
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 3212,
+      "stars": 3216,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-23T21:32:51Z"
+      "updated_at": "2026-03-23T21:59:45Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 3135,
+      "stars": 3138,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-23T21:30:51Z"
+      "updated_at": "2026-03-23T21:53:34Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2246,
+      "stars": 2249,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-23T21:32:23Z"
+      "updated_at": "2026-03-23T22:00:07Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1630,
+      "stars": 1633,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-23T21:37:50Z"
+      "updated_at": "2026-03-23T22:00:01Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1244,
+      "stars": 1245,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-23T21:12:11Z"
+      "updated_at": "2026-03-23T21:59:50Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1054,
+      "stars": 1056,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-23T20:27:47Z"
+      "updated_at": "2026-03-23T21:53:37Z"
     },
     {
       "id": 1185330299,
@@ -96,14 +96,14 @@
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 914,
+      "stars": 917,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-23T21:34:33Z"
+      "updated_at": "2026-03-23T21:57:45Z"
     },
     {
       "id": 1185560597,
@@ -142,7 +142,7 @@
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-23T21:12:28Z"
+      "updated_at": "2026-03-23T22:01:06Z"
     },
     {
       "id": 1187487221,
@@ -161,66 +161,66 @@
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 759,
+      "stars": 762,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-23T21:28:48Z"
+      "updated_at": "2026-03-23T22:01:17Z"
     },
     {
       "id": 1188427634,
       "name": "wong2/weixin-agent-sdk",
       "description": null,
-      "stars": 735,
+      "stars": 736,
       "language": "TypeScript",
       "url": "https://github.com/wong2/weixin-agent-sdk",
       "owner": {
         "login": "wong2",
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
-      "updated_at": "2026-03-23T20:45:29Z"
+      "updated_at": "2026-03-23T21:43:56Z"
     },
     {
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 711,
+      "stars": 714,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-23T21:41:38Z"
+      "updated_at": "2026-03-23T21:57:57Z"
     },
     {
       "id": 1184985738,
       "name": "eze-is/web-access",
       "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "stars": 710,
+      "stars": 711,
       "language": "JavaScript",
       "url": "https://github.com/eze-is/web-access",
       "owner": {
         "login": "eze-is",
         "avatar_url": "https://avatars.githubusercontent.com/u/53331888?v=4"
       },
-      "updated_at": "2026-03-23T21:23:16Z"
+      "updated_at": "2026-03-23T21:52:26Z"
     },
     {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 685,
+      "stars": 688,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-23T21:28:05Z"
+      "updated_at": "2026-03-23T21:57:26Z"
     },
     {
       "id": 1188049269,
