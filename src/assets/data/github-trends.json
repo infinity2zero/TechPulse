@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-23T20:26:11.611Z",
+  "lastUpdated": "2026-03-23T21:00:34.117Z",
   "items": [
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 3195,
+      "stars": 3200,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-23T20:22:50Z"
+      "updated_at": "2026-03-23T20:58:31Z"
     },
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 3126,
+      "stars": 3129,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-23T20:03:50Z"
+      "updated_at": "2026-03-23T20:38:35Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2243,
+      "stars": 2244,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-23T19:55:53Z"
+      "updated_at": "2026-03-23T20:48:20Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1612,
+      "stars": 1620,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-23T20:20:55Z"
+      "updated_at": "2026-03-23T20:58:49Z"
     },
     {
       "id": 1187377394,
@@ -70,14 +70,14 @@
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1053,
+      "stars": 1054,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-23T20:18:51Z"
+      "updated_at": "2026-03-23T20:27:47Z"
     },
     {
       "id": 1185330299,
@@ -91,6 +91,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
       "updated_at": "2026-03-23T18:39:19Z"
+    },
+    {
+      "id": 1187731056,
+      "name": "louislva/claude-peers-mcp",
+      "description": "Allow all your Claude Codes to message each other ad-hoc!",
+      "stars": 904,
+      "language": "TypeScript",
+      "url": "https://github.com/louislva/claude-peers-mcp",
+      "owner": {
+        "login": "louislva",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
+      },
+      "updated_at": "2026-03-23T20:56:57Z"
     },
     {
       "id": 1185560597,
@@ -119,19 +132,6 @@
       "updated_at": "2026-03-23T19:59:14Z"
     },
     {
-      "id": 1187731056,
-      "name": "louislva/claude-peers-mcp",
-      "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 893,
-      "language": "TypeScript",
-      "url": "https://github.com/louislva/claude-peers-mcp",
-      "owner": {
-        "login": "louislva",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
-      },
-      "updated_at": "2026-03-23T20:24:53Z"
-    },
-    {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
@@ -148,79 +148,79 @@
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 762,
+      "stars": 763,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-23T20:24:32Z"
+      "updated_at": "2026-03-23T20:35:17Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 753,
+      "stars": 757,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-23T20:24:03Z"
+      "updated_at": "2026-03-23T20:57:36Z"
     },
     {
       "id": 1188427634,
       "name": "wong2/weixin-agent-sdk",
       "description": null,
-      "stars": 734,
+      "stars": 735,
       "language": "TypeScript",
       "url": "https://github.com/wong2/weixin-agent-sdk",
       "owner": {
         "login": "wong2",
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
-      "updated_at": "2026-03-23T20:00:00Z"
+      "updated_at": "2026-03-23T20:45:29Z"
     },
     {
       "id": 1184985738,
       "name": "eze-is/web-access",
       "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "stars": 708,
+      "stars": 709,
       "language": "JavaScript",
       "url": "https://github.com/eze-is/web-access",
       "owner": {
         "login": "eze-is",
         "avatar_url": "https://avatars.githubusercontent.com/u/53331888?v=4"
       },
-      "updated_at": "2026-03-23T20:07:20Z"
+      "updated_at": "2026-03-23T20:38:20Z"
     },
     {
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 692,
+      "stars": 699,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-23T20:25:31Z"
+      "updated_at": "2026-03-23T21:00:08Z"
     },
     {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 681,
+      "stars": 683,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-23T20:13:16Z"
+      "updated_at": "2026-03-23T21:00:33Z"
     },
     {
       "id": 1188049269,
@@ -239,14 +239,14 @@
       "id": 1184568969,
       "name": "lightningpixel/modly",
       "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stars": 635,
+      "stars": 638,
       "language": "TypeScript",
       "url": "https://github.com/lightningpixel/modly",
       "owner": {
         "login": "lightningpixel",
         "avatar_url": "https://avatars.githubusercontent.com/u/63157773?v=4"
       },
-      "updated_at": "2026-03-23T20:13:23Z"
+      "updated_at": "2026-03-23T20:52:13Z"
     },
     {
       "id": 1185162422,
