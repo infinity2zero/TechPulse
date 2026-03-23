@@ -1,226 +1,226 @@
 {
-  "lastUpdated": "2026-03-23T11:27:14.829Z",
+  "lastUpdated": "2026-03-23T12:00:51.634Z",
   "items": [
     {
       "id": 1184391618,
       "name": "HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stars": 3021,
+      "stars": 3029,
       "language": "Python",
       "url": "https://github.com/HKUDS/ClawTeam",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-23T11:21:07Z"
+      "updated_at": "2026-03-23T11:52:23Z"
     },
     {
       "id": 1184030270,
       "name": "MiniMax-AI/skills",
       "description": null,
-      "stars": 2773,
+      "stars": 2796,
       "language": "C#",
       "url": "https://github.com/MiniMax-AI/skills",
       "owner": {
         "login": "MiniMax-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
       },
-      "updated_at": "2026-03-23T11:26:58Z"
+      "updated_at": "2026-03-23T11:59:41Z"
     },
     {
       "id": 1184268220,
       "name": "VoltAgent/awesome-codex-subagents",
       "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 2170,
+      "stars": 2178,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-03-23T11:24:40Z"
+      "updated_at": "2026-03-23T12:00:11Z"
     },
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1461,
+      "stars": 1467,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-23T11:22:12Z"
+      "updated_at": "2026-03-23T11:56:01Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1157,
+      "stars": 1159,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-23T11:24:10Z"
+      "updated_at": "2026-03-23T11:57:12Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1040,
+      "stars": 1041,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-23T11:26:34Z"
+      "updated_at": "2026-03-23T11:48:02Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 1014,
+      "stars": 1017,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-23T11:26:21Z"
+      "updated_at": "2026-03-23T11:55:49Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 886,
+      "stars": 887,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-23T10:43:35Z"
+      "updated_at": "2026-03-23T11:39:03Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 883,
+      "stars": 885,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-23T11:06:20Z"
+      "updated_at": "2026-03-23T11:44:00Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 743,
+      "stars": 757,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-23T11:25:10Z"
+      "updated_at": "2026-03-23T11:59:07Z"
     },
     {
       "id": 1184063789,
       "name": "frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stars": 742,
+      "stars": 748,
       "language": "Astro",
       "url": "https://github.com/frank890417/taiwan-md",
       "owner": {
         "login": "frank890417",
         "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4"
       },
-      "updated_at": "2026-03-23T11:14:26Z"
+      "updated_at": "2026-03-23T11:51:29Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 736,
+      "stars": 737,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-23T11:11:35Z"
+      "updated_at": "2026-03-23T11:28:59Z"
     },
     {
       "id": 1185740798,
       "name": "BryanLunduke/DoesItAgeVerify",
       "description": "The age verification status of Open Source Operating Systems",
-      "stars": 719,
+      "stars": 720,
       "language": null,
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
         "login": "BryanLunduke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-23T11:12:16Z"
+      "updated_at": "2026-03-23T11:56:39Z"
     },
     {
       "id": 1188427634,
       "name": "wong2/weixin-agent-sdk",
       "description": null,
-      "stars": 677,
+      "stars": 681,
       "language": "TypeScript",
       "url": "https://github.com/wong2/weixin-agent-sdk",
       "owner": {
         "login": "wong2",
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
-      "updated_at": "2026-03-23T11:13:02Z"
+      "updated_at": "2026-03-23T11:55:13Z"
     },
     {
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 647,
+      "stars": 650,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-23T11:14:16Z"
+      "updated_at": "2026-03-23T12:00:38Z"
     },
     {
       "id": 1183972690,
       "name": "wangziqi06/724-office",
       "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stars": 645,
+      "stars": 647,
       "language": "Python",
       "url": "https://github.com/wangziqi06/724-office",
       "owner": {
         "login": "wangziqi06",
         "avatar_url": "https://avatars.githubusercontent.com/u/193560727?v=4"
       },
-      "updated_at": "2026-03-23T11:16:57Z"
+      "updated_at": "2026-03-23T11:45:06Z"
     },
     {
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 631,
+      "stars": 633,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-23T11:27:11Z"
+      "updated_at": "2026-03-23T11:56:59Z"
     },
     {
       "id": 1184568969,
@@ -239,27 +239,27 @@
       "id": 1185162422,
       "name": "win4r/ClawTeam-OpenClaw",
       "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "stars": 563,
+      "stars": 564,
       "language": "Python",
       "url": "https://github.com/win4r/ClawTeam-OpenClaw",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-23T11:05:25Z"
+      "updated_at": "2026-03-23T11:47:28Z"
     },
     {
       "id": 1187892497,
       "name": "ccbkkb/MicroWARP",
       "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
-      "stars": 554,
+      "stars": 556,
       "language": "Shell",
       "url": "https://github.com/ccbkkb/MicroWARP",
       "owner": {
         "login": "ccbkkb",
         "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
       },
-      "updated_at": "2026-03-23T11:25:44Z"
+      "updated_at": "2026-03-23T11:49:39Z"
     }
   ]
 }
