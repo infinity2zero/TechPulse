@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-24T12:58:32.224Z",
+  "lastUpdated": "2026-03-24T14:19:09.051Z",
   "items": [
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1779,
+      "stars": 1797,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-24T12:55:57Z"
+      "updated_at": "2026-03-24T14:16:22Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1361,
+      "stars": 1378,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-24T12:57:56Z"
+      "updated_at": "2026-03-24T14:16:53Z"
     },
     {
       "id": 1186410486,
@@ -44,40 +44,40 @@
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 1057,
+      "stars": 1060,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-24T12:48:36Z"
+      "updated_at": "2026-03-24T13:49:50Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 1044,
+      "stars": 1056,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-24T12:57:38Z"
+      "updated_at": "2026-03-24T14:10:55Z"
     },
     {
       "id": 1184985738,
       "name": "eze-is/web-access",
       "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "stars": 945,
+      "stars": 961,
       "language": "JavaScript",
       "url": "https://github.com/eze-is/web-access",
       "owner": {
         "login": "eze-is",
         "avatar_url": "https://avatars.githubusercontent.com/u/53331888?v=4"
       },
-      "updated_at": "2026-03-24T12:54:47Z"
+      "updated_at": "2026-03-24T14:13:26Z"
     },
     {
       "id": 1185958882,
@@ -96,170 +96,170 @@
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 909,
+      "stars": 910,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-24T09:53:28Z"
+      "updated_at": "2026-03-24T13:03:12Z"
     },
     {
       "id": 1188427634,
       "name": "wong2/weixin-agent-sdk",
       "description": null,
-      "stars": 824,
+      "stars": 832,
       "language": "TypeScript",
       "url": "https://github.com/wong2/weixin-agent-sdk",
       "owner": {
         "login": "wong2",
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
-      "updated_at": "2026-03-24T12:51:28Z"
-    },
-    {
-      "id": 1185740798,
-      "name": "BryanLunduke/DoesItAgeVerify",
-      "description": "The age verification status of Open Source Operating Systems",
-      "stars": 810,
-      "language": null,
-      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "owner": {
-        "login": "BryanLunduke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
-      },
-      "updated_at": "2026-03-24T12:54:30Z"
+      "updated_at": "2026-03-24T14:13:14Z"
     },
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 782,
+      "stars": 830,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-24T12:55:31Z"
+      "updated_at": "2026-03-24T14:18:31Z"
     },
     {
-      "id": 1188049269,
-      "name": "dou-jiang/codex-console",
-      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 782,
-      "language": "Python",
-      "url": "https://github.com/dou-jiang/codex-console",
+      "id": 1185740798,
+      "name": "BryanLunduke/DoesItAgeVerify",
+      "description": "The age verification status of Open Source Operating Systems",
+      "stars": 818,
+      "language": null,
+      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
       "owner": {
-        "login": "dou-jiang",
-        "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
+        "login": "BryanLunduke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
       },
-      "updated_at": "2026-03-24T12:47:20Z"
-    },
-    {
-      "id": 1187487221,
-      "name": "ghostty-org/ghostling",
-      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 780,
-      "language": "C",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "owner": {
-        "login": "ghostty-org",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
-      },
-      "updated_at": "2026-03-24T12:58:12Z"
+      "updated_at": "2026-03-24T14:15:56Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 760,
+      "stars": 805,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-24T12:58:29Z"
+      "updated_at": "2026-03-24T14:18:23Z"
+    },
+    {
+      "id": 1188049269,
+      "name": "dou-jiang/codex-console",
+      "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+      "stars": 786,
+      "language": "Python",
+      "url": "https://github.com/dou-jiang/codex-console",
+      "owner": {
+        "login": "dou-jiang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
+      },
+      "updated_at": "2026-03-24T14:02:09Z"
+    },
+    {
+      "id": 1187487221,
+      "name": "ghostty-org/ghostling",
+      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
+      "stars": 781,
+      "language": "C",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "owner": {
+        "login": "ghostty-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+      },
+      "updated_at": "2026-03-24T13:34:29Z"
     },
     {
       "id": 1185162422,
       "name": "win4r/ClawTeam-OpenClaw",
       "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "stars": 650,
+      "stars": 653,
       "language": "Python",
       "url": "https://github.com/win4r/ClawTeam-OpenClaw",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-24T12:50:20Z"
+      "updated_at": "2026-03-24T14:15:54Z"
     },
     {
       "id": 1187892497,
       "name": "ccbkkb/MicroWARP",
       "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
-      "stars": 645,
+      "stars": 650,
       "language": "Shell",
       "url": "https://github.com/ccbkkb/MicroWARP",
       "owner": {
         "login": "ccbkkb",
         "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
       },
-      "updated_at": "2026-03-24T12:53:43Z"
+      "updated_at": "2026-03-24T13:53:57Z"
     },
     {
       "id": 1184866064,
       "name": "leo-lilinxiao/codex-autoresearch",
       "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 633,
+      "stars": 637,
       "language": "Python",
       "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
       "owner": {
         "login": "leo-lilinxiao",
         "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
       },
-      "updated_at": "2026-03-24T12:04:21Z"
+      "updated_at": "2026-03-24T14:11:48Z"
     },
     {
       "id": 1187817252,
       "name": "gnekt/My-Brain-Is-Full-Crew",
       "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
-      "stars": 579,
+      "stars": 590,
       "language": "Shell",
       "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
       "owner": {
         "login": "gnekt",
         "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
       },
-      "updated_at": "2026-03-24T12:30:09Z"
+      "updated_at": "2026-03-24T14:11:18Z"
     },
     {
       "id": 1188762109,
       "name": "fastclaw-ai/weclaw",
       "description": "Connect to any agents with WeChat ClawBot.",
-      "stars": 567,
+      "stars": 579,
       "language": "Go",
       "url": "https://github.com/fastclaw-ai/weclaw",
       "owner": {
         "login": "fastclaw-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
       },
-      "updated_at": "2026-03-24T12:47:39Z"
+      "updated_at": "2026-03-24T14:16:48Z"
     },
     {
-      "id": 1185055333,
-      "name": "olelehmann100kMRR/autoresearch-skill",
-      "description": null,
-      "stars": 550,
-      "language": null,
-      "url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
+      "id": 1185528404,
+      "name": "Shpigford/chops",
+      "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+      "stars": 555,
+      "language": "Swift",
+      "url": "https://github.com/Shpigford/chops",
       "owner": {
-        "login": "olelehmann100kMRR",
-        "avatar_url": "https://avatars.githubusercontent.com/u/225875801?v=4"
+        "login": "Shpigford",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
       },
-      "updated_at": "2026-03-24T12:52:18Z"
+      "updated_at": "2026-03-24T14:02:42Z"
     }
   ]
 }
