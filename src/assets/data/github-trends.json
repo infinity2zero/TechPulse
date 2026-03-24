@@ -1,226 +1,239 @@
 {
-  "lastUpdated": "2026-03-24T00:00:48.773Z",
+  "lastUpdated": "2026-03-24T02:37:49.409Z",
   "items": [
     {
       "id": 1185476360,
       "name": "danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 1654,
+      "stars": 1683,
       "language": "Objective-C",
       "url": "https://github.com/danveloper/flash-moe",
       "owner": {
         "login": "danveloper",
         "avatar_url": "https://avatars.githubusercontent.com/u/1418180?v=4"
       },
-      "updated_at": "2026-03-23T23:58:05Z"
+      "updated_at": "2026-03-24T02:27:53Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1248,
+      "stars": 1266,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-23T23:59:50Z"
+      "updated_at": "2026-03-24T02:35:30Z"
     },
     {
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1059,
+      "stars": 1062,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-23T23:54:43Z"
+      "updated_at": "2026-03-24T01:34:15Z"
     },
     {
       "id": 1185330299,
       "name": "lxf746/any-auto-register",
       "description": null,
-      "stars": 1029,
+      "stars": 1035,
       "language": "Python",
       "url": "https://github.com/lxf746/any-auto-register",
       "owner": {
         "login": "lxf746",
         "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4"
       },
-      "updated_at": "2026-03-23T23:12:20Z"
+      "updated_at": "2026-03-24T02:33:33Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 935,
+      "stars": 960,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-24T00:00:46Z"
+      "updated_at": "2026-03-24T02:32:51Z"
     },
     {
       "id": 1185560597,
       "name": "mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stars": 904,
+      "stars": 906,
       "language": null,
       "url": "https://github.com/mattprusak/autoresearch-genealogy",
       "owner": {
         "login": "mattprusak",
         "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
       },
-      "updated_at": "2026-03-23T23:34:45Z"
+      "updated_at": "2026-03-24T01:50:44Z"
     },
     {
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 896,
+      "stars": 898,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-23T23:50:28Z"
-    },
-    {
-      "id": 1185740798,
-      "name": "BryanLunduke/DoesItAgeVerify",
-      "description": "The age verification status of Open Source Operating Systems",
-      "stars": 770,
-      "language": null,
-      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "owner": {
-        "login": "BryanLunduke",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
-      },
-      "updated_at": "2026-03-23T23:59:16Z"
-    },
-    {
-      "id": 1187487221,
-      "name": "ghostty-org/ghostling",
-      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 765,
-      "language": "C",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "owner": {
-        "login": "ghostty-org",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
-      },
-      "updated_at": "2026-03-23T23:25:23Z"
-    },
-    {
-      "id": 1184866064,
-      "name": "leo-lilinxiao/codex-autoresearch",
-      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
-      "stars": 742,
-      "language": "Python",
-      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
-      "owner": {
-        "login": "leo-lilinxiao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
-      },
-      "updated_at": "2026-03-23T23:58:20Z"
-    },
-    {
-      "id": 1188427634,
-      "name": "wong2/weixin-agent-sdk",
-      "description": null,
-      "stars": 737,
-      "language": "TypeScript",
-      "url": "https://github.com/wong2/weixin-agent-sdk",
-      "owner": {
-        "login": "wong2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
-      },
-      "updated_at": "2026-03-23T23:12:06Z"
+      "updated_at": "2026-03-24T02:08:34Z"
     },
     {
       "id": 1184985738,
       "name": "eze-is/web-access",
       "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
-      "stars": 731,
+      "stars": 792,
       "language": "JavaScript",
       "url": "https://github.com/eze-is/web-access",
       "owner": {
         "login": "eze-is",
         "avatar_url": "https://avatars.githubusercontent.com/u/53331888?v=4"
       },
-      "updated_at": "2026-03-24T00:00:47Z"
+      "updated_at": "2026-03-24T02:31:52Z"
+    },
+    {
+      "id": 1184866064,
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+      "stars": 788,
+      "language": "Python",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+      "owner": {
+        "login": "leo-lilinxiao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
+      },
+      "updated_at": "2026-03-24T02:36:19Z"
+    },
+    {
+      "id": 1185740798,
+      "name": "BryanLunduke/DoesItAgeVerify",
+      "description": "The age verification status of Open Source Operating Systems",
+      "stars": 782,
+      "language": null,
+      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "owner": {
+        "login": "BryanLunduke",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
+      },
+      "updated_at": "2026-03-24T02:33:39Z"
+    },
+    {
+      "id": 1188427634,
+      "name": "wong2/weixin-agent-sdk",
+      "description": null,
+      "stars": 768,
+      "language": "TypeScript",
+      "url": "https://github.com/wong2/weixin-agent-sdk",
+      "owner": {
+        "login": "wong2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
+      },
+      "updated_at": "2026-03-24T02:32:58Z"
+    },
+    {
+      "id": 1187487221,
+      "name": "ghostty-org/ghostling",
+      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
+      "stars": 768,
+      "language": "C",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "owner": {
+        "login": "ghostty-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
+      },
+      "updated_at": "2026-03-24T01:17:03Z"
     },
     {
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 681,
+      "stars": 696,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-23T22:53:31Z"
+      "updated_at": "2026-03-24T02:31:00Z"
     },
     {
       "id": 1185162422,
       "name": "win4r/ClawTeam-OpenClaw",
       "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "stars": 601,
+      "stars": 614,
       "language": "Python",
       "url": "https://github.com/win4r/ClawTeam-OpenClaw",
       "owner": {
         "login": "win4r",
         "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
       },
-      "updated_at": "2026-03-23T23:01:16Z"
+      "updated_at": "2026-03-24T02:28:23Z"
     },
     {
       "id": 1187892497,
       "name": "ccbkkb/MicroWARP",
       "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
-      "stars": 594,
+      "stars": 600,
       "language": "Shell",
       "url": "https://github.com/ccbkkb/MicroWARP",
       "owner": {
         "login": "ccbkkb",
         "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
       },
-      "updated_at": "2026-03-23T23:49:05Z"
-    },
-    {
-      "id": 1185528404,
-      "name": "Shpigford/chops",
-      "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "stars": 513,
-      "language": "Swift",
-      "url": "https://github.com/Shpigford/chops",
-      "owner": {
-        "login": "Shpigford",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
-      },
-      "updated_at": "2026-03-24T00:00:26Z"
+      "updated_at": "2026-03-24T01:40:50Z"
     },
     {
       "id": 1187817252,
       "name": "gnekt/My-Brain-Is-Full-Crew",
       "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
-      "stars": 511,
+      "stars": 526,
       "language": "Shell",
       "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
       "owner": {
         "login": "gnekt",
         "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
       },
-      "updated_at": "2026-03-23T23:58:58Z"
+      "updated_at": "2026-03-24T02:09:17Z"
+    },
+    {
+      "id": 1185055333,
+      "name": "olelehmann100kMRR/autoresearch-skill",
+      "description": null,
+      "stars": 522,
+      "language": null,
+      "url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
+      "owner": {
+        "login": "olelehmann100kMRR",
+        "avatar_url": "https://avatars.githubusercontent.com/u/225875801?v=4"
+      },
+      "updated_at": "2026-03-24T02:36:33Z"
+    },
+    {
+      "id": 1185528404,
+      "name": "Shpigford/chops",
+      "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+      "stars": 521,
+      "language": "Swift",
+      "url": "https://github.com/Shpigford/chops",
+      "owner": {
+        "login": "Shpigford",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
+      },
+      "updated_at": "2026-03-24T02:26:02Z"
     },
     {
       "id": 1188424667,
@@ -233,33 +246,20 @@
         "login": "m1heng",
         "avatar_url": "https://avatars.githubusercontent.com/u/18018422?v=4"
       },
-      "updated_at": "2026-03-23T22:36:55Z"
-    },
-    {
-      "id": 1185055333,
-      "name": "olelehmann100kMRR/autoresearch-skill",
-      "description": null,
-      "stars": 509,
-      "language": null,
-      "url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
-      "owner": {
-        "login": "olelehmann100kMRR",
-        "avatar_url": "https://avatars.githubusercontent.com/u/225875801?v=4"
-      },
-      "updated_at": "2026-03-23T23:59:34Z"
+      "updated_at": "2026-03-24T01:56:02Z"
     },
     {
       "id": 1187461911,
       "name": "openyak/desktop",
       "description": "Yak is all you need",
-      "stars": 488,
+      "stars": 491,
       "language": "Python",
       "url": "https://github.com/openyak/desktop",
       "owner": {
         "login": "openyak",
         "avatar_url": "https://avatars.githubusercontent.com/u/269497421?v=4"
       },
-      "updated_at": "2026-03-23T23:56:56Z"
+      "updated_at": "2026-03-24T02:34:54Z"
     }
   ]
 }
