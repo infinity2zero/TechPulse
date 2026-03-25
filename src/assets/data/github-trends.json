@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-25T22:52:46.566Z",
+  "lastUpdated": "2026-03-25T23:21:55.557Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 2349,
+      "stars": 2369,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-25T22:52:15Z"
+      "updated_at": "2026-03-25T23:21:24Z"
     },
     {
       "id": 1187377394,
@@ -31,14 +31,14 @@
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1470,
+      "stars": 1474,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-25T22:52:03Z"
+      "updated_at": "2026-03-25T23:14:54Z"
     },
     {
       "id": 1187731056,
@@ -57,14 +57,14 @@
       "id": 1186410486,
       "name": "math-inc/OpenGauss",
       "description": null,
-      "stars": 1086,
+      "stars": 1087,
       "language": "Python",
       "url": "https://github.com/math-inc/OpenGauss",
       "owner": {
         "login": "math-inc",
         "avatar_url": "https://avatars.githubusercontent.com/u/230477222?v=4"
       },
-      "updated_at": "2026-03-25T22:46:32Z"
+      "updated_at": "2026-03-25T23:07:54Z"
     },
     {
       "id": 1185958882,
@@ -83,14 +83,27 @@
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 925,
+      "stars": 926,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-25T22:42:48Z"
+      "updated_at": "2026-03-25T23:07:13Z"
+    },
+    {
+      "id": 1186494013,
+      "name": "facebookresearch/HyperAgents",
+      "description": "Self-referential self-improving agents that can optimize for any computable task",
+      "stars": 890,
+      "language": "Python",
+      "url": "https://github.com/facebookresearch/HyperAgents",
+      "owner": {
+        "login": "facebookresearch",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+      },
+      "updated_at": "2026-03-25T23:15:25Z"
     },
     {
       "id": 1188427634,
@@ -104,19 +117,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
       "updated_at": "2026-03-25T17:45:56Z"
-    },
-    {
-      "id": 1186494013,
-      "name": "facebookresearch/HyperAgents",
-      "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "stars": 883,
-      "language": "Python",
-      "url": "https://github.com/facebookresearch/HyperAgents",
-      "owner": {
-        "login": "facebookresearch",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
-      },
-      "updated_at": "2026-03-25T22:51:25Z"
     },
     {
       "id": 1187487221,
@@ -135,40 +135,40 @@
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 815,
+      "stars": 825,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-25T22:43:55Z"
+      "updated_at": "2026-03-25T23:20:02Z"
     },
     {
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 757,
+      "stars": 762,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-25T22:52:10Z"
+      "updated_at": "2026-03-25T23:09:15Z"
     },
     {
       "id": 1188867175,
       "name": "GAIR-NLP/daVinci-MagiHuman",
       "description": null,
-      "stars": 753,
+      "stars": 756,
       "language": "Python",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "owner": {
         "login": "GAIR-NLP",
         "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
       },
-      "updated_at": "2026-03-25T22:52:18Z"
+      "updated_at": "2026-03-25T23:15:56Z"
     },
     {
       "id": 1187892497,
@@ -187,14 +187,14 @@
       "id": 1188762109,
       "name": "fastclaw-ai/weclaw",
       "description": "Connect to any agents with WeChat ClawBot.",
-      "stars": 704,
+      "stars": 705,
       "language": "Go",
       "url": "https://github.com/fastclaw-ai/weclaw",
       "owner": {
         "login": "fastclaw-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
       },
-      "updated_at": "2026-03-25T20:39:54Z"
+      "updated_at": "2026-03-25T22:54:25Z"
     },
     {
       "id": 1187817252,
@@ -239,27 +239,27 @@
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 625,
+      "stars": 627,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-25T22:41:34Z"
+      "updated_at": "2026-03-25T22:54:34Z"
     },
     {
       "id": 1190424251,
       "name": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 569,
+      "stars": 570,
       "language": "Swift",
       "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
         "login": "marswaveai",
         "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-25T22:52:14Z"
+      "updated_at": "2026-03-25T22:54:13Z"
     }
   ]
 }
