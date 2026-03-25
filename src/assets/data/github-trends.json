@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-25T11:53:05.743Z",
+  "lastUpdated": "2026-03-25T12:35:04.449Z",
   "items": [
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1486,
+      "stars": 1489,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-25T11:46:04Z"
+      "updated_at": "2026-03-25T12:30:12Z"
     },
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 1414,
+      "stars": 1487,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-25T11:53:05Z"
+      "updated_at": "2026-03-25T12:34:36Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1310,
+      "stars": 1322,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-25T11:51:47Z"
+      "updated_at": "2026-03-25T12:31:22Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 1151,
+      "stars": 1152,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-25T11:39:51Z"
+      "updated_at": "2026-03-25T12:21:52Z"
     },
     {
       "id": 1186410486,
@@ -70,14 +70,14 @@
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 934,
+      "stars": 935,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-25T10:34:54Z"
+      "updated_at": "2026-03-25T12:09:33Z"
     },
     {
       "id": 1188427634,
@@ -96,66 +96,92 @@
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 862,
+      "stars": 865,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-25T11:37:36Z"
+      "updated_at": "2026-03-25T12:30:58Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 814,
+      "stars": 815,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-25T10:33:36Z"
+      "updated_at": "2026-03-25T12:20:26Z"
     },
     {
       "id": 1186494013,
       "name": "facebookresearch/HyperAgents",
       "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "stars": 768,
+      "stars": 773,
       "language": "Python",
       "url": "https://github.com/facebookresearch/HyperAgents",
       "owner": {
         "login": "facebookresearch",
         "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-25T11:46:38Z"
+      "updated_at": "2026-03-25T12:34:14Z"
     },
     {
       "id": 1187892497,
       "name": "ccbkkb/MicroWARP",
       "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
-      "stars": 709,
+      "stars": 710,
       "language": "Shell",
       "url": "https://github.com/ccbkkb/MicroWARP",
       "owner": {
         "login": "ccbkkb",
         "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
       },
-      "updated_at": "2026-03-25T10:23:28Z"
+      "updated_at": "2026-03-25T12:11:34Z"
     },
     {
       "id": 1188762109,
       "name": "fastclaw-ai/weclaw",
       "description": "Connect to any agents with WeChat ClawBot.",
-      "stars": 681,
+      "stars": 685,
       "language": "Go",
       "url": "https://github.com/fastclaw-ai/weclaw",
       "owner": {
         "login": "fastclaw-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
       },
-      "updated_at": "2026-03-25T11:49:43Z"
+      "updated_at": "2026-03-25T12:31:34Z"
+    },
+    {
+      "id": 1188867175,
+      "name": "GAIR-NLP/daVinci-MagiHuman",
+      "description": null,
+      "stars": 667,
+      "language": "Python",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "owner": {
+        "login": "GAIR-NLP",
+        "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
+      },
+      "updated_at": "2026-03-25T12:29:59Z"
+    },
+    {
+      "id": 1189540594,
+      "name": "opa334/darksword-kexploit",
+      "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
+      "stars": 665,
+      "language": "Objective-C",
+      "url": "https://github.com/opa334/darksword-kexploit",
+      "owner": {
+        "login": "opa334",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+      },
+      "updated_at": "2026-03-25T12:20:22Z"
     },
     {
       "id": 1187817252,
@@ -171,56 +197,43 @@
       "updated_at": "2026-03-25T11:39:49Z"
     },
     {
-      "id": 1189540594,
-      "name": "opa334/darksword-kexploit",
-      "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 661,
-      "language": "Objective-C",
-      "url": "https://github.com/opa334/darksword-kexploit",
-      "owner": {
-        "login": "opa334",
-        "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
-      },
-      "updated_at": "2026-03-25T11:18:53Z"
-    },
-    {
-      "id": 1188867175,
-      "name": "GAIR-NLP/daVinci-MagiHuman",
-      "description": null,
-      "stars": 661,
-      "language": "Python",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "owner": {
-        "login": "GAIR-NLP",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
-      },
-      "updated_at": "2026-03-25T11:34:03Z"
-    },
-    {
       "id": 1187150337,
       "name": "alvinunreal/awesome-autoresearch",
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stars": 576,
+      "stars": 581,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-autoresearch",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-25T11:29:41Z"
+      "updated_at": "2026-03-25T12:29:51Z"
     },
     {
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 567,
+      "stars": 571,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-25T11:43:33Z"
+      "updated_at": "2026-03-25T12:20:55Z"
+    },
+    {
+      "id": 1188180267,
+      "name": "mnfst/awesome-free-llm-apis",
+      "description": "Permanent Free LLM API List (API Keys) 😎🔑",
+      "stars": 531,
+      "language": null,
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "owner": {
+        "login": "mnfst",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8403534?v=4"
+      },
+      "updated_at": "2026-03-25T12:32:27Z"
     },
     {
       "id": 1188424667,
@@ -236,30 +249,17 @@
       "updated_at": "2026-03-25T11:37:54Z"
     },
     {
-      "id": 1188180267,
-      "name": "mnfst/awesome-free-llm-apis",
-      "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-      "stars": 523,
-      "language": null,
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "owner": {
-        "login": "mnfst",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8403534?v=4"
-      },
-      "updated_at": "2026-03-25T11:45:18Z"
-    },
-    {
-      "id": 1187384370,
-      "name": "vercel-labs/emulate",
-      "description": "Local API emulation for CI and no-network sandboxes",
+      "id": 1190424251,
+      "name": "marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS.",
       "stars": 516,
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/emulate",
+      "language": "Swift",
+      "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+        "login": "marswaveai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-25T10:42:18Z"
+      "updated_at": "2026-03-25T12:34:11Z"
     }
   ]
 }
