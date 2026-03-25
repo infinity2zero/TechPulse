@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-25T20:25:13.552Z",
+  "lastUpdated": "2026-03-25T20:59:14.774Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 2187,
+      "stars": 2231,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-25T20:25:06Z"
+      "updated_at": "2026-03-25T20:58:51Z"
     },
     {
       "id": 1187377394,
@@ -31,27 +31,27 @@
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1446,
+      "stars": 1451,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-25T20:23:46Z"
+      "updated_at": "2026-03-25T20:56:31Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 1185,
+      "stars": 1188,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-25T20:17:06Z"
+      "updated_at": "2026-03-25T20:44:41Z"
     },
     {
       "id": 1186410486,
@@ -70,27 +70,27 @@
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 942,
+      "stars": 943,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-25T17:58:54Z"
+      "updated_at": "2026-03-25T20:29:01Z"
     },
     {
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 920,
+      "stars": 922,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-25T19:14:32Z"
+      "updated_at": "2026-03-25T20:58:33Z"
     },
     {
       "id": 1188427634,
@@ -109,14 +109,14 @@
       "id": 1186494013,
       "name": "facebookresearch/HyperAgents",
       "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "stars": 858,
+      "stars": 866,
       "language": "Python",
       "url": "https://github.com/facebookresearch/HyperAgents",
       "owner": {
         "login": "facebookresearch",
         "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-25T20:15:59Z"
+      "updated_at": "2026-03-25T20:59:11Z"
     },
     {
       "id": 1187487221,
@@ -135,40 +135,40 @@
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 783,
+      "stars": 793,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-25T20:13:48Z"
-    },
-    {
-      "id": 1188867175,
-      "name": "GAIR-NLP/daVinci-MagiHuman",
-      "description": null,
-      "stars": 739,
-      "language": "Python",
-      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
-      "owner": {
-        "login": "GAIR-NLP",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
-      },
-      "updated_at": "2026-03-25T20:17:08Z"
+      "updated_at": "2026-03-25T20:59:13Z"
     },
     {
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 738,
+      "stars": 745,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-25T20:24:58Z"
+      "updated_at": "2026-03-25T20:59:00Z"
+    },
+    {
+      "id": 1188867175,
+      "name": "GAIR-NLP/daVinci-MagiHuman",
+      "description": null,
+      "stars": 745,
+      "language": "Python",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+      "owner": {
+        "login": "GAIR-NLP",
+        "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
+      },
+      "updated_at": "2026-03-25T20:58:50Z"
     },
     {
       "id": 1187892497,
@@ -187,79 +187,79 @@
       "id": 1188762109,
       "name": "fastclaw-ai/weclaw",
       "description": "Connect to any agents with WeChat ClawBot.",
-      "stars": 703,
+      "stars": 704,
       "language": "Go",
       "url": "https://github.com/fastclaw-ai/weclaw",
       "owner": {
         "login": "fastclaw-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
       },
-      "updated_at": "2026-03-25T19:40:57Z"
+      "updated_at": "2026-03-25T20:39:54Z"
     },
     {
       "id": 1187817252,
       "name": "gnekt/My-Brain-Is-Full-Crew",
       "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
-      "stars": 680,
+      "stars": 681,
       "language": "Shell",
       "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
       "owner": {
         "login": "gnekt",
         "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
       },
-      "updated_at": "2026-03-25T19:49:40Z"
-    },
-    {
-      "id": 1187150337,
-      "name": "alvinunreal/awesome-autoresearch",
-      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stars": 619,
-      "language": null,
-      "url": "https://github.com/alvinunreal/awesome-autoresearch",
-      "owner": {
-        "login": "alvinunreal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-      },
-      "updated_at": "2026-03-25T20:07:12Z"
+      "updated_at": "2026-03-25T20:58:21Z"
     },
     {
       "id": 1188180267,
       "name": "mnfst/awesome-free-llm-apis",
       "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-      "stars": 618,
+      "stars": 622,
       "language": null,
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "owner": {
         "login": "mnfst",
         "avatar_url": "https://avatars.githubusercontent.com/u/8403534?v=4"
       },
-      "updated_at": "2026-03-25T20:04:33Z"
+      "updated_at": "2026-03-25T20:46:58Z"
+    },
+    {
+      "id": 1187150337,
+      "name": "alvinunreal/awesome-autoresearch",
+      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+      "stars": 621,
+      "language": null,
+      "url": "https://github.com/alvinunreal/awesome-autoresearch",
+      "owner": {
+        "login": "alvinunreal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+      },
+      "updated_at": "2026-03-25T20:52:13Z"
     },
     {
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 616,
+      "stars": 618,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-25T20:24:10Z"
+      "updated_at": "2026-03-25T20:38:50Z"
     },
     {
       "id": 1190424251,
       "name": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 564,
+      "stars": 566,
       "language": "Swift",
       "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
         "login": "marswaveai",
         "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-25T20:15:51Z"
+      "updated_at": "2026-03-25T20:48:29Z"
     }
   ]
 }
