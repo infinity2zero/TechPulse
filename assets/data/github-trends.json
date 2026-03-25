@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-25T15:01:33.699Z",
+  "lastUpdated": "2026-03-25T16:17:25.980Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 1742,
+      "stars": 1850,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-25T15:01:26Z"
+      "updated_at": "2026-03-25T16:17:11Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1516,
+      "stars": 1526,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-25T14:59:41Z"
+      "updated_at": "2026-03-25T16:10:49Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1370,
+      "stars": 1405,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-25T14:58:23Z"
+      "updated_at": "2026-03-25T16:04:20Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 1161,
+      "stars": 1169,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-25T14:35:37Z"
+      "updated_at": "2026-03-25T16:16:50Z"
     },
     {
       "id": 1186410486,
@@ -70,27 +70,27 @@
       "id": 1185958882,
       "name": "truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stars": 939,
+      "stars": 940,
       "language": null,
       "url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "owner": {
         "login": "truongduy2611",
         "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
       },
-      "updated_at": "2026-03-25T14:46:51Z"
+      "updated_at": "2026-03-25T15:37:45Z"
     },
     {
       "id": 1188049269,
       "name": "dou-jiang/codex-console",
       "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
-      "stars": 902,
+      "stars": 909,
       "language": "Python",
       "url": "https://github.com/dou-jiang/codex-console",
       "owner": {
         "login": "dou-jiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/155128942?v=4"
       },
-      "updated_at": "2026-03-25T14:52:16Z"
+      "updated_at": "2026-03-25T16:16:45Z"
     },
     {
       "id": 1188427634,
@@ -103,163 +103,163 @@
         "login": "wong2",
         "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
       },
-      "updated_at": "2026-03-25T14:15:41Z"
+      "updated_at": "2026-03-25T16:12:30Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 820,
+      "stars": 821,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-25T14:55:51Z"
+      "updated_at": "2026-03-25T16:17:19Z"
     },
     {
       "id": 1186494013,
       "name": "facebookresearch/HyperAgents",
       "description": "Self-referential self-improving agents that can optimize for any computable task",
-      "stars": 801,
+      "stars": 815,
       "language": "Python",
       "url": "https://github.com/facebookresearch/HyperAgents",
       "owner": {
         "login": "facebookresearch",
         "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-25T15:00:17Z"
-    },
-    {
-      "id": 1187892497,
-      "name": "ccbkkb/MicroWARP",
-      "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
-      "stars": 712,
-      "language": "Shell",
-      "url": "https://github.com/ccbkkb/MicroWARP",
-      "owner": {
-        "login": "ccbkkb",
-        "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
-      },
-      "updated_at": "2026-03-25T14:41:39Z"
+      "updated_at": "2026-03-25T16:16:21Z"
     },
     {
       "id": 1188867175,
       "name": "GAIR-NLP/daVinci-MagiHuman",
       "description": null,
-      "stars": 698,
+      "stars": 716,
       "language": "Python",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "owner": {
         "login": "GAIR-NLP",
         "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
       },
-      "updated_at": "2026-03-25T14:56:17Z"
+      "updated_at": "2026-03-25T16:15:18Z"
     },
     {
-      "id": 1188762109,
-      "name": "fastclaw-ai/weclaw",
-      "description": "Connect to any agents with WeChat ClawBot.",
-      "stars": 692,
-      "language": "Go",
-      "url": "https://github.com/fastclaw-ai/weclaw",
+      "id": 1187892497,
+      "name": "ccbkkb/MicroWARP",
+      "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
+      "stars": 714,
+      "language": "Shell",
+      "url": "https://github.com/ccbkkb/MicroWARP",
       "owner": {
-        "login": "fastclaw-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
+        "login": "ccbkkb",
+        "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
       },
-      "updated_at": "2026-03-25T14:51:46Z"
+      "updated_at": "2026-03-25T15:19:12Z"
     },
     {
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 691,
+      "stars": 700,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-25T14:51:17Z"
+      "updated_at": "2026-03-25T16:04:24Z"
     },
     {
-      "id": 1187817252,
-      "name": "gnekt/My-Brain-Is-Full-Crew",
-      "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
-      "stars": 667,
-      "language": "Shell",
-      "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
+      "id": 1188762109,
+      "name": "fastclaw-ai/weclaw",
+      "description": "Connect to any agents with WeChat ClawBot.",
+      "stars": 697,
+      "language": "Go",
+      "url": "https://github.com/fastclaw-ai/weclaw",
       "owner": {
-        "login": "gnekt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
+        "login": "fastclaw-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
       },
-      "updated_at": "2026-03-25T14:56:49Z"
+      "updated_at": "2026-03-25T16:01:25Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 633,
+      "stars": 692,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-25T15:01:04Z"
+      "updated_at": "2026-03-25T16:17:25Z"
+    },
+    {
+      "id": 1187817252,
+      "name": "gnekt/My-Brain-Is-Full-Crew",
+      "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
+      "stars": 668,
+      "language": "Shell",
+      "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
+      "owner": {
+        "login": "gnekt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
+      },
+      "updated_at": "2026-03-25T15:15:46Z"
     },
     {
       "id": 1187150337,
       "name": "alvinunreal/awesome-autoresearch",
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stars": 599,
+      "stars": 606,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-autoresearch",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-25T14:56:38Z"
+      "updated_at": "2026-03-25T16:08:57Z"
     },
     {
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 585,
+      "stars": 596,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-25T14:58:29Z"
+      "updated_at": "2026-03-25T16:10:01Z"
     },
     {
       "id": 1188180267,
       "name": "mnfst/awesome-free-llm-apis",
       "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-      "stars": 554,
+      "stars": 573,
       "language": null,
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "owner": {
         "login": "mnfst",
         "avatar_url": "https://avatars.githubusercontent.com/u/8403534?v=4"
       },
-      "updated_at": "2026-03-25T14:59:43Z"
+      "updated_at": "2026-03-25T16:07:30Z"
     },
     {
       "id": 1190424251,
       "name": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 544,
+      "stars": 550,
       "language": "Swift",
       "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
         "login": "marswaveai",
         "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-25T14:59:33Z"
+      "updated_at": "2026-03-25T16:15:39Z"
     }
   ]
 }
