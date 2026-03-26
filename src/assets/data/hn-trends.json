@@ -1,231 +1,241 @@
 {
-  "lastUpdated": "2026-03-26T22:37:33.720Z",
+  "lastUpdated": "2026-03-26T22:59:29.958Z",
   "items": [
     {
       "id": 47518960,
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 446,
+      "score": 462,
       "by": "Amorymeltzer",
       "time": 1774453589,
-      "comments": 76,
+      "comments": 83,
       "domain": "bethmathews.substack.com"
     },
     {
       "id": 47535586,
       "title": "Deploytarot.com – tarot card reading for deployments",
       "url": "https://deploytarot.com/setup",
-      "score": 60,
+      "score": 87,
       "by": "rembish",
       "time": 1774558434,
-      "comments": 16,
+      "comments": 20,
       "domain": "deploytarot.com"
     },
     {
       "id": 47490705,
       "title": "DOOM Over DNS",
       "url": "https://github.com/resumex/doom-over-dns",
-      "score": 163,
+      "score": 169,
       "by": "Venn1",
       "time": 1774279058,
-      "comments": 47,
+      "comments": 53,
       "domain": "github.com"
-    },
-    {
-      "id": 47495795,
-      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
-      "url": "https://blog.cloudflare.com/gen13-launch/",
-      "score": 45,
-      "by": "wmf",
-      "time": 1774303609,
-      "comments": 8,
-      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47534629,
       "title": "CERN to host a new phase of Open Research Europe",
       "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
-      "score": 153,
+      "score": 163,
       "by": "JohnHammersley",
       "time": 1774553435,
-      "comments": 14,
+      "comments": 15,
       "domain": "home.cern"
     },
     {
       "id": 47535371,
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
       "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-      "score": 141,
+      "score": 167,
       "by": "chrisjj",
       "time": 1774557304,
-      "comments": 48,
+      "comments": 59,
       "domain": "theguardian.com"
     },
     {
       "id": 47531967,
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 252,
+      "score": 257,
       "by": "Fibonar",
       "time": 1774540120,
-      "comments": 114,
+      "comments": 116,
       "domain": "futuresearch.ai"
+    },
+    {
+      "id": 47495795,
+      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+      "url": "https://blog.cloudflare.com/gen13-launch/",
+      "score": 50,
+      "by": "wmf",
+      "time": 1774303609,
+      "comments": 13,
+      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47534283,
       "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
       "url": "https://github.com/russellromney/turbolite",
-      "score": 84,
+      "score": 90,
       "by": "russellthehippo",
       "time": 1774551499,
-      "comments": 20,
+      "comments": 24,
       "domain": "github.com"
-    },
-    {
-      "id": 47534086,
-      "title": "John Bradley, author of xv, has died",
-      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
-      "score": 164,
-      "by": "linsomniac",
-      "time": 1774550330,
-      "comments": 49,
-      "domain": "voxday.net"
     },
     {
       "id": 47530330,
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 472,
+      "score": 481,
       "by": "jslakro",
       "time": 1774532305,
-      "comments": 243,
+      "comments": 245,
       "domain": "unterwaditzer.net"
+    },
+    {
+      "id": 47535249,
+      "title": "Using FireWire on a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+      "score": 34,
+      "by": "jandeboevrie",
+      "time": 1774556590,
+      "comments": 11,
+      "domain": "jeffgeerling.com"
+    },
+    {
+      "id": 47534086,
+      "title": "John Bradley, author of xv, has died",
+      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
+      "score": 172,
+      "by": "linsomniac",
+      "time": 1774550330,
+      "comments": 53,
+      "domain": "voxday.net"
     },
     {
       "id": 47532339,
       "title": "OpenTelemetry profiles enters public alpha",
       "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
-      "score": 129,
+      "score": 132,
       "by": "tanelpoder",
       "time": 1774541696,
       "comments": 14,
       "domain": "opentelemetry.io"
     },
     {
+      "id": 47536110,
+      "title": "Anthropic Subprocessor Changes",
+      "url": "https://trust.anthropic.com",
+      "score": 11,
+      "by": "tencentshill",
+      "time": 1774561035,
+      "comments": 8,
+      "domain": "trust.anthropic.com"
+    },
+    {
+      "id": 47534848,
+      "title": "We haven't seen the worst of what gambling and prediction markets will do",
+      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+      "score": 450,
+      "by": "mmcclure",
+      "time": 1774554485,
+      "comments": 314,
+      "domain": "derekthompson.org"
+    },
+    {
+      "id": 47505670,
+      "title": "HyperAgents: Self-referential self-improving agents",
+      "url": "https://github.com/facebookresearch/hyperagents",
+      "score": 103,
+      "by": "andyg_blog",
+      "time": 1774371250,
+      "comments": 44,
+      "domain": "github.com"
+    },
+    {
+      "id": 47522173,
+      "title": "Personal Encyclopedias",
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "score": 787,
+      "by": "jrmyphlmn",
+      "time": 1774467711,
+      "comments": 166,
+      "domain": "whoami.wiki"
+    },
+    {
       "id": 47534837,
       "title": "How much precision can you squeeze out of a table?",
       "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
-      "score": 28,
+      "score": 31,
       "by": "nomemory",
       "time": 1774554421,
       "comments": 2,
       "domain": "johndcook.com"
     },
     {
-      "id": 47505670,
-      "title": "HyperAgents: Self-referential self-improving agents",
-      "url": "https://github.com/facebookresearch/hyperagents",
-      "score": 98,
-      "by": "andyg_blog",
-      "time": 1774371250,
-      "comments": 43,
-      "domain": "github.com"
-    },
-    {
-      "id": 47535249,
-      "title": "Using FireWire on a Raspberry Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
-      "score": 28,
-      "by": "jandeboevrie",
-      "time": 1774556590,
-      "comments": 7,
-      "domain": "jeffgeerling.com"
-    },
-    {
-      "id": 47534848,
-      "title": "We haven't seen the worst of what gambling and prediction markets will do",
-      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 424,
-      "by": "mmcclure",
-      "time": 1774554485,
-      "comments": 300,
-      "domain": "derekthompson.org"
-    },
-    {
       "id": 47533283,
       "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
       "url": "https://colibri.social/",
-      "score": 93,
+      "score": 94,
       "by": "todotask2",
       "time": 1774546198,
-      "comments": 47,
+      "comments": 49,
       "domain": "colibri.social"
     },
     {
-      "id": 47522173,
-      "title": "Personal Encyclopedias",
-      "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 782,
-      "by": "jrmyphlmn",
-      "time": 1774467711,
-      "comments": 163,
-      "domain": "whoami.wiki"
-    },
-    {
-      "id": 47536110,
-      "title": "Anthropic Subprocessor Changes",
-      "url": "https://trust.anthropic.com",
-      "score": 8,
-      "by": "tencentshill",
-      "time": 1774561035,
-      "comments": 5,
-      "domain": "trust.anthropic.com"
-    },
-    {
-      "id": 47535380,
-      "title": "The Little Book of C",
-      "url": "https://little-book-of.github.io/c/books/en-US/book.html",
-      "score": 48,
-      "by": "ghostrss",
-      "time": 1774557353,
-      "comments": 9,
-      "domain": "little-book-of.github.io"
+      "id": 47535626,
+      "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+      "url": "https://github.com/ViciousSquid/Fio",
+      "score": 15,
+      "by": "vicioussquid",
+      "time": 1774558684,
+      "comments": 1,
+      "domain": "github.com"
     },
     {
       "id": 47532148,
       "title": "Stripe Projects: Provision and manage services from the CLI",
       "url": "https://projects.dev/",
-      "score": 90,
+      "score": 91,
       "by": "piinbinary",
       "time": 1774540857,
-      "comments": 25,
+      "comments": 27,
       "domain": "projects.dev"
     },
     {
-      "id": 47488726,
-      "title": "Non-Messing-Up++: Diagonal Sorting and Young Tableaux",
-      "url": "https://winwang.blog/posts/non-messing-up++",
-      "score": 5,
-      "by": "winwang",
-      "time": 1774269957,
-      "comments": 1,
-      "domain": "winwang.blog"
+      "id": 47529306,
+      "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+      "url": "https://veil.simoneamico.com/",
+      "score": 4,
+      "by": "simoneamico",
+      "time": 1774525646,
+      "comments": 0,
+      "domain": "veil.simoneamico.com"
     },
     {
       "id": 47499242,
       "title": "Fast regex search: indexing text for agent tools",
       "url": "https://cursor.com/blog/fast-regex-search",
-      "score": 16,
+      "score": 19,
       "by": "jxmorris12",
       "time": 1774333875,
       "comments": 4,
       "domain": "cursor.com"
     },
     {
+      "id": 47488726,
+      "title": "Non-Messing-Up++: Diagonal Sorting and Young Tableaux",
+      "url": "https://winwang.blog/posts/non-messing-up++",
+      "score": 6,
+      "by": "winwang",
+      "time": 1774269957,
+      "comments": 1,
+      "domain": "winwang.blog"
+    },
+    {
       "id": 47499356,
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 265,
+      "score": 269,
       "by": "andros",
       "time": 1774335210,
       "comments": 79,
@@ -235,11 +245,41 @@
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 839,
+      "score": 840,
       "by": "driesdep",
       "time": 1774473117,
-      "comments": 295,
+      "comments": 294,
       "domain": "bugs.xdavidhu.me"
+    },
+    {
+      "id": 47489620,
+      "title": "My home network observes bedtime with OpenBSD and pf",
+      "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+      "score": 106,
+      "by": "ibobev",
+      "time": 1774274214,
+      "comments": 31,
+      "domain": "ratfactor.com"
+    },
+    {
+      "id": 47536316,
+      "title": "Iran oil revenue soars as it's the only exporter out of Hormuz",
+      "url": "https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz",
+      "score": 21,
+      "by": "vrganj",
+      "time": 1774562104,
+      "comments": 9,
+      "domain": "financialpost.com"
+    },
+    {
+      "id": 47530945,
+      "title": "Olympic Committee bars transgender athletes from women’s events",
+      "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
+      "score": 213,
+      "by": "RestlessMind",
+      "time": 1774535554,
+      "comments": 486,
+      "domain": "nytimes.com"
     },
     {
       "id": 47533555,
@@ -252,54 +292,14 @@
       "domain": "john.regehr.org"
     },
     {
-      "id": 47489620,
-      "title": "My home network observes bedtime with OpenBSD and pf",
-      "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
-      "score": 104,
-      "by": "ibobev",
-      "time": 1774274214,
-      "comments": 29,
-      "domain": "ratfactor.com"
-    },
-    {
-      "id": 47530945,
-      "title": "Olympic Committee bars transgender athletes from women’s events",
-      "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
-      "score": 203,
-      "by": "RestlessMind",
-      "time": 1774535554,
-      "comments": 462,
-      "domain": "nytimes.com"
-    },
-    {
       "id": 47533090,
       "title": "Building a Blog with Elixir and Phoenix",
       "url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
       "score": 67,
       "by": "shintoist",
       "time": 1774545381,
-      "comments": 4,
+      "comments": 5,
       "domain": "jola.dev"
-    },
-    {
-      "id": 47535626,
-      "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
-      "url": "https://github.com/ViciousSquid/Fio",
-      "score": 8,
-      "by": "vicioussquid",
-      "time": 1774558684,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
-      "id": 47529609,
-      "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "score": 537,
-      "by": "amarcheschi",
-      "time": 1774527876,
-      "comments": 259,
-      "domain": "patrick-breyer.de"
     }
   ]
 }

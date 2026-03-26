@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-03-26T22:37:33.898Z",
+  "lastUpdated": "2026-03-26T22:59:30.192Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 3579,
+      "stars": 3590,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-26T22:37:18Z"
+      "updated_at": "2026-03-26T22:59:09Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1727,
+      "stars": 1729,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-26T22:30:17Z"
+      "updated_at": "2026-03-26T22:56:18Z"
     },
     {
       "id": 1187377394,
@@ -44,27 +44,27 @@
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 1260,
+      "stars": 1261,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-26T22:36:11Z"
+      "updated_at": "2026-03-26T22:47:32Z"
     },
     {
       "id": 1187731056,
       "name": "louislva/claude-peers-mcp",
       "description": "Allow all your Claude Codes to message each other ad-hoc!",
-      "stars": 1252,
+      "stars": 1254,
       "language": "TypeScript",
       "url": "https://github.com/louislva/claude-peers-mcp",
       "owner": {
         "login": "louislva",
         "avatar_url": "https://avatars.githubusercontent.com/u/16724496?v=4"
       },
-      "updated_at": "2026-03-26T21:56:27Z"
+      "updated_at": "2026-03-26T22:58:30Z"
     },
     {
       "id": 1188049269,
@@ -83,14 +83,14 @@
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 945,
+      "stars": 956,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-26T22:34:24Z"
+      "updated_at": "2026-03-26T22:57:49Z"
     },
     {
       "id": 1188867175,
@@ -122,27 +122,27 @@
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 885,
+      "stars": 887,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-26T22:22:28Z"
+      "updated_at": "2026-03-26T22:50:22Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 846,
+      "stars": 847,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-26T22:06:50Z"
+      "updated_at": "2026-03-26T22:38:08Z"
     },
     {
       "id": 1188180267,
@@ -161,14 +161,14 @@
       "id": 1190171426,
       "name": "nashsu/opencli-rs",
       "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 788,
+      "stars": 791,
       "language": "Rust",
       "url": "https://github.com/nashsu/opencli-rs",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-03-26T22:23:09Z"
+      "updated_at": "2026-03-26T22:52:27Z"
     },
     {
       "id": 1188762109,
@@ -187,14 +187,14 @@
       "id": 1188362803,
       "name": "CoderLuii/HolyClaude",
       "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
-      "stars": 736,
+      "stars": 738,
       "language": "Dockerfile",
       "url": "https://github.com/CoderLuii/HolyClaude",
       "owner": {
         "login": "CoderLuii",
         "avatar_url": "https://avatars.githubusercontent.com/u/203967356?v=4"
       },
-      "updated_at": "2026-03-26T22:34:30Z"
+      "updated_at": "2026-03-26T22:41:44Z"
     },
     {
       "id": 1187892497,
@@ -239,14 +239,14 @@
       "id": 1187150337,
       "name": "alvinunreal/awesome-autoresearch",
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stars": 700,
+      "stars": 702,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-autoresearch",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-26T22:33:59Z"
+      "updated_at": "2026-03-26T22:56:11Z"
     },
     {
       "id": 1190424251,
