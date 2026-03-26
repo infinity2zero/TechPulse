@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-03-26T22:01:08.147Z",
+  "lastUpdated": "2026-03-26T22:37:33.898Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 3572,
+      "stars": 3579,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-26T21:52:24Z"
+      "updated_at": "2026-03-26T22:37:18Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 1723,
+      "stars": 1727,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-26T21:55:45Z"
+      "updated_at": "2026-03-26T22:30:17Z"
     },
     {
       "id": 1187377394,
       "name": "dontbesilent2025/dbskill",
       "description": "dontbesilent 的商业诊断 Skills for Claude Code",
-      "stars": 1641,
+      "stars": 1642,
       "language": null,
       "url": "https://github.com/dontbesilent2025/dbskill",
       "owner": {
         "login": "dontbesilent2025",
         "avatar_url": "https://avatars.githubusercontent.com/u/230833095?v=4"
       },
-      "updated_at": "2026-03-26T21:04:24Z"
+      "updated_at": "2026-03-26T22:19:47Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 1257,
+      "stars": 1260,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-26T21:54:20Z"
+      "updated_at": "2026-03-26T22:36:11Z"
     },
     {
       "id": 1187731056,
@@ -80,6 +80,19 @@
       "updated_at": "2026-03-26T18:43:00Z"
     },
     {
+      "id": 1190778303,
+      "name": "alvinunreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "stars": 945,
+      "language": null,
+      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "owner": {
+        "login": "alvinunreal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+      },
+      "updated_at": "2026-03-26T22:34:24Z"
+    },
+    {
       "id": 1188867175,
       "name": "GAIR-NLP/daVinci-MagiHuman",
       "description": null,
@@ -91,19 +104,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
       },
       "updated_at": "2026-03-26T21:26:22Z"
-    },
-    {
-      "id": 1190778303,
-      "name": "alvinunreal/awesome-opensource-ai",
-      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 921,
-      "language": null,
-      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-      "owner": {
-        "login": "alvinunreal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-      },
-      "updated_at": "2026-03-26T22:00:39Z"
     },
     {
       "id": 1188427634,
@@ -122,53 +122,53 @@
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 882,
+      "stars": 885,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-26T21:48:37Z"
+      "updated_at": "2026-03-26T22:22:28Z"
     },
     {
       "id": 1187487221,
       "name": "ghostty-org/ghostling",
       "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
-      "stars": 845,
+      "stars": 846,
       "language": "C",
       "url": "https://github.com/ghostty-org/ghostling",
       "owner": {
         "login": "ghostty-org",
         "avatar_url": "https://avatars.githubusercontent.com/u/169223740?v=4"
       },
-      "updated_at": "2026-03-26T21:49:56Z"
+      "updated_at": "2026-03-26T22:06:50Z"
     },
     {
       "id": 1188180267,
       "name": "mnfst/awesome-free-llm-apis",
       "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-      "stars": 825,
+      "stars": 827,
       "language": null,
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
       "owner": {
         "login": "mnfst",
         "avatar_url": "https://avatars.githubusercontent.com/u/8403534?v=4"
       },
-      "updated_at": "2026-03-26T21:44:15Z"
+      "updated_at": "2026-03-26T22:15:47Z"
     },
     {
       "id": 1190171426,
       "name": "nashsu/opencli-rs",
       "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 786,
+      "stars": 788,
       "language": "Rust",
       "url": "https://github.com/nashsu/opencli-rs",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-03-26T21:49:37Z"
+      "updated_at": "2026-03-26T22:23:09Z"
     },
     {
       "id": 1188762109,
@@ -184,6 +184,19 @@
       "updated_at": "2026-03-26T17:55:20Z"
     },
     {
+      "id": 1188362803,
+      "name": "CoderLuii/HolyClaude",
+      "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+      "stars": 736,
+      "language": "Dockerfile",
+      "url": "https://github.com/CoderLuii/HolyClaude",
+      "owner": {
+        "login": "CoderLuii",
+        "avatar_url": "https://avatars.githubusercontent.com/u/203967356?v=4"
+      },
+      "updated_at": "2026-03-26T22:34:30Z"
+    },
+    {
       "id": 1187892497,
       "name": "ccbkkb/MicroWARP",
       "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
@@ -197,17 +210,17 @@
       "updated_at": "2026-03-26T16:32:27Z"
     },
     {
-      "id": 1188362803,
-      "name": "CoderLuii/HolyClaude",
-      "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
-      "stars": 728,
-      "language": "Dockerfile",
-      "url": "https://github.com/CoderLuii/HolyClaude",
+      "id": 1190195126,
+      "name": "LimHyungTae/Awesome-PhD-CV",
+      "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
+      "stars": 705,
+      "language": "TeX",
+      "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
-        "login": "CoderLuii",
-        "avatar_url": "https://avatars.githubusercontent.com/u/203967356?v=4"
+        "login": "LimHyungTae",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-26T21:47:03Z"
+      "updated_at": "2026-03-26T22:09:15Z"
     },
     {
       "id": 1187817252,
@@ -223,30 +236,17 @@
       "updated_at": "2026-03-26T21:33:56Z"
     },
     {
-      "id": 1190195126,
-      "name": "LimHyungTae/Awesome-PhD-CV",
-      "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 704,
-      "language": "TeX",
-      "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
-      "owner": {
-        "login": "LimHyungTae",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
-      },
-      "updated_at": "2026-03-26T22:00:27Z"
-    },
-    {
       "id": 1187150337,
       "name": "alvinunreal/awesome-autoresearch",
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stars": 697,
+      "stars": 700,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-autoresearch",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-26T22:00:29Z"
+      "updated_at": "2026-03-26T22:33:59Z"
     },
     {
       "id": 1190424251,
