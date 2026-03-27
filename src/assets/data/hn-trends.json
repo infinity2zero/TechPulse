@@ -1,95 +1,165 @@
 {
-  "lastUpdated": "2026-03-26T23:35:01.165Z",
+  "lastUpdated": "2026-03-27T00:00:14.503Z",
   "items": [
-    {
-      "id": 47518960,
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 496,
-      "by": "Amorymeltzer",
-      "time": 1774453589,
-      "comments": 91,
-      "domain": "bethmathews.substack.com"
-    },
     {
       "id": 47535586,
       "title": "Deploytarot.com – tarot card reading for deployments",
       "url": "https://deploytarot.com/setup",
-      "score": 104,
+      "score": 124,
       "by": "rembish",
       "time": 1774558434,
-      "comments": 24,
+      "comments": 25,
       "domain": "deploytarot.com"
     },
     {
-      "id": 47536712,
-      "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
-      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-      "score": 36,
-      "by": "cjlm",
-      "time": 1774564601,
-      "comments": 18,
-      "domain": "reco.ai"
-    },
-    {
-      "id": 47490705,
-      "title": "DOOM Over DNS",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "score": 179,
-      "by": "Venn1",
-      "time": 1774279058,
-      "comments": 58,
-      "domain": "github.com"
+      "id": 47518960,
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+      "score": 517,
+      "by": "Amorymeltzer",
+      "time": 1774453589,
+      "comments": 101,
+      "domain": "bethmathews.substack.com"
     },
     {
       "id": 47536761,
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 13,
+      "score": 24,
       "by": "j0rg3",
       "time": 1774564885,
-      "comments": 6,
+      "comments": 9,
       "domain": "georgelarson.me"
+    },
+    {
+      "id": 47490705,
+      "title": "DOOM Over DNS",
+      "url": "https://github.com/resumex/doom-over-dns",
+      "score": 187,
+      "by": "Venn1",
+      "time": 1774279058,
+      "comments": 61,
+      "domain": "github.com"
     },
     {
       "id": 47535371,
       "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
       "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-      "score": 211,
+      "score": 243,
       "by": "chrisjj",
       "time": 1774557304,
-      "comments": 75,
+      "comments": 91,
       "domain": "theguardian.com"
+    },
+    {
+      "id": 47530330,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 498,
+      "by": "jslakro",
+      "time": 1774532305,
+      "comments": 250,
+      "domain": "unterwaditzer.net"
     },
     {
       "id": 47531967,
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 264,
+      "score": 269,
       "by": "Fibonar",
       "time": 1774540120,
       "comments": 120,
       "domain": "futuresearch.ai"
     },
     {
+      "id": 47537106,
+      "title": "Chicago artist creates tourism posters for city's neighborhoods",
+      "url": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+      "score": 6,
+      "by": "NaOH",
+      "time": 1774567118,
+      "comments": 2,
+      "domain": "chicagotribune.com"
+    },
+    {
       "id": 47534629,
       "title": "CERN to host a new phase of Open Research Europe",
       "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
-      "score": 173,
+      "score": 178,
       "by": "JohnHammersley",
       "time": 1774553435,
       "comments": 16,
       "domain": "home.cern"
     },
     {
-      "id": 47530330,
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 490,
-      "by": "jslakro",
-      "time": 1774532305,
-      "comments": 247,
-      "domain": "unterwaditzer.net"
+      "id": 47534086,
+      "title": "John Bradley, author of xv, has died",
+      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
+      "score": 194,
+      "by": "linsomniac",
+      "time": 1774550330,
+      "comments": 58,
+      "domain": "voxday.net"
+    },
+    {
+      "id": 47529306,
+      "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+      "url": "https://veil.simoneamico.com/",
+      "score": 16,
+      "by": "simoneamico",
+      "time": 1774525646,
+      "comments": 0,
+      "domain": "veil.simoneamico.com"
+    },
+    {
+      "id": 47505670,
+      "title": "HyperAgents: Self-referential self-improving agents",
+      "url": "https://github.com/facebookresearch/hyperagents",
+      "score": 115,
+      "by": "andyg_blog",
+      "time": 1774371250,
+      "comments": 49,
+      "domain": "github.com"
+    },
+    {
+      "id": 47532339,
+      "title": "OpenTelemetry profiles enters public alpha",
+      "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+      "score": 141,
+      "by": "tanelpoder",
+      "time": 1774541696,
+      "comments": 15,
+      "domain": "opentelemetry.io"
+    },
+    {
+      "id": 47536110,
+      "title": "Anthropic Subprocessor Changes",
+      "url": "https://trust.anthropic.com",
+      "score": 18,
+      "by": "tencentshill",
+      "time": 1774561035,
+      "comments": 18,
+      "domain": "trust.anthropic.com"
+    },
+    {
+      "id": 47535249,
+      "title": "Using FireWire on a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+      "score": 42,
+      "by": "jandeboevrie",
+      "time": 1774556590,
+      "comments": 20,
+      "domain": "jeffgeerling.com"
+    },
+    {
+      "id": 47495190,
+      "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
+      "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
+      "score": 9,
+      "by": "varjag",
+      "time": 1774300396,
+      "comments": 0,
+      "domain": "atgreen.github.io"
     },
     {
       "id": 47534283,
@@ -102,94 +172,64 @@
       "domain": "github.com"
     },
     {
-      "id": 47534086,
-      "title": "John Bradley, author of xv, has died",
-      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
-      "score": 183,
-      "by": "linsomniac",
-      "time": 1774550330,
-      "comments": 58,
-      "domain": "voxday.net"
-    },
-    {
-      "id": 47532339,
-      "title": "OpenTelemetry profiles enters public alpha",
-      "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
-      "score": 136,
-      "by": "tanelpoder",
-      "time": 1774541696,
-      "comments": 15,
-      "domain": "opentelemetry.io"
-    },
-    {
-      "id": 47495795,
-      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
-      "url": "https://blog.cloudflare.com/gen13-launch/",
-      "score": 56,
-      "by": "wmf",
-      "time": 1774303609,
-      "comments": 14,
-      "domain": "blog.cloudflare.com"
-    },
-    {
-      "id": 47535249,
-      "title": "Using FireWire on a Raspberry Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
-      "score": 38,
-      "by": "jandeboevrie",
-      "time": 1774556590,
-      "comments": 15,
-      "domain": "jeffgeerling.com"
-    },
-    {
-      "id": 47505670,
-      "title": "HyperAgents: Self-referential self-improving agents",
-      "url": "https://github.com/facebookresearch/hyperagents",
-      "score": 108,
-      "by": "andyg_blog",
-      "time": 1774371250,
-      "comments": 49,
-      "domain": "github.com"
+      "id": 47534837,
+      "title": "How much precision can you squeeze out of a table?",
+      "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+      "score": 37,
+      "by": "nomemory",
+      "time": 1774554421,
+      "comments": 4,
+      "domain": "johndcook.com"
     },
     {
       "id": 47534848,
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
       "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 481,
+      "score": 503,
       "by": "mmcclure",
       "time": 1774554485,
-      "comments": 334,
+      "comments": 351,
       "domain": "derekthompson.org"
     },
     {
-      "id": 47534837,
-      "title": "How much precision can you squeeze out of a table?",
-      "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
-      "score": 34,
-      "by": "nomemory",
-      "time": 1774554421,
+      "id": 47535626,
+      "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+      "url": "https://github.com/ViciousSquid/Fio",
+      "score": 22,
+      "by": "vicioussquid",
+      "time": 1774558684,
+      "comments": 4,
+      "domain": "github.com"
+    },
+    {
+      "id": 47537051,
+      "title": "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
+      "score": 25,
+      "by": "theindieman",
+      "time": 1774566705,
       "comments": 2,
-      "domain": "johndcook.com"
+      "domain": "storage.courtlistener.com"
     },
     {
-      "id": 47536110,
-      "title": "Anthropic Subprocessor Changes",
-      "url": "https://trust.anthropic.com",
-      "score": 14,
-      "by": "tencentshill",
-      "time": 1774561035,
-      "comments": 13,
-      "domain": "trust.anthropic.com"
+      "id": 47532148,
+      "title": "Stripe Projects: Provision and manage services from the CLI",
+      "url": "https://projects.dev/",
+      "score": 98,
+      "by": "piinbinary",
+      "time": 1774540857,
+      "comments": 28,
+      "domain": "projects.dev"
     },
     {
-      "id": 47495190,
-      "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-      "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-      "score": 6,
-      "by": "varjag",
-      "time": 1774300396,
-      "comments": 0,
-      "domain": "atgreen.github.io"
+      "id": 47533283,
+      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
+      "url": "https://colibri.social/",
+      "score": 96,
+      "by": "todotask2",
+      "time": 1774546198,
+      "comments": 51,
+      "domain": "colibri.social"
     },
     {
       "id": 47499242,
@@ -202,104 +242,54 @@
       "domain": "cursor.com"
     },
     {
-      "id": 47533283,
-      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
-      "url": "https://colibri.social/",
-      "score": 95,
-      "by": "todotask2",
-      "time": 1774546198,
-      "comments": 51,
-      "domain": "colibri.social"
-    },
-    {
-      "id": 47535626,
-      "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
-      "url": "https://github.com/ViciousSquid/Fio",
-      "score": 19,
-      "by": "vicioussquid",
-      "time": 1774558684,
-      "comments": 2,
-      "domain": "github.com"
-    },
-    {
-      "id": 47532148,
-      "title": "Stripe Projects: Provision and manage services from the CLI",
-      "url": "https://projects.dev/",
-      "score": 96,
-      "by": "piinbinary",
-      "time": 1774540857,
-      "comments": 27,
-      "domain": "projects.dev"
-    },
-    {
-      "id": 47529306,
-      "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
-      "url": "https://veil.simoneamico.com/",
-      "score": 12,
-      "by": "simoneamico",
-      "time": 1774525646,
-      "comments": 0,
-      "domain": "veil.simoneamico.com"
+      "id": 47536712,
+      "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "score": 54,
+      "by": "cjlm",
+      "time": 1774564601,
+      "comments": 48,
+      "domain": "reco.ai"
     },
     {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 842,
+      "score": 846,
       "by": "driesdep",
       "time": 1774473117,
-      "comments": 294,
+      "comments": 297,
       "domain": "bugs.xdavidhu.me"
     },
     {
       "id": 47499356,
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 272,
+      "score": 274,
       "by": "andros",
       "time": 1774335210,
-      "comments": 81,
+      "comments": 84,
       "domain": "en.andros.dev"
     },
     {
-      "id": 47488726,
-      "title": "Non-Messing-Up++: Diagonal Sorting and Young Tableaux",
-      "url": "https://winwang.blog/posts/non-messing-up++",
-      "score": 7,
-      "by": "winwang",
-      "time": 1774269957,
-      "comments": 1,
-      "domain": "winwang.blog"
-    },
-    {
-      "id": 47533555,
-      "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
-      "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-      "score": 29,
-      "by": "mad44",
-      "time": 1774547502,
-      "comments": 14,
-      "domain": "john.regehr.org"
+      "id": 47495795,
+      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+      "url": "https://blog.cloudflare.com/gen13-launch/",
+      "score": 60,
+      "by": "wmf",
+      "time": 1774303609,
+      "comments": 16,
+      "domain": "blog.cloudflare.com"
     },
     {
       "id": 47489620,
       "title": "My home network observes bedtime with OpenBSD and pf",
       "url": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
-      "score": 107,
+      "score": 110,
       "by": "ibobev",
       "time": 1774274214,
       "comments": 31,
       "domain": "ratfactor.com"
-    },
-    {
-      "id": 47533090,
-      "title": "Building a Blog with Elixir and Phoenix",
-      "url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
-      "score": 72,
-      "by": "shintoist",
-      "time": 1774545381,
-      "comments": 5,
-      "domain": "jola.dev"
     }
   ]
 }
