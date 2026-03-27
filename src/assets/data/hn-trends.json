@@ -1,191 +1,281 @@
 {
-  "lastUpdated": "2026-03-27T16:28:14.025Z",
+  "lastUpdated": "2026-03-27T17:26:30.333Z",
   "items": [
     {
       "id": 47543139,
-      "title": "Anatomy of the .claude/ Folder",
+      "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 111,
+      "score": 164,
       "by": "freedomben",
       "time": 1774622145,
-      "comments": 60,
+      "comments": 86,
       "domain": "blog.dailydoseofds.com"
     },
     {
       "id": 47542644,
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 61,
+      "score": 91,
       "by": "8organicbits",
       "time": 1774619391,
-      "comments": 16,
+      "comments": 28,
       "domain": "owltec.ca"
-    },
-    {
-      "id": 47542057,
-      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 371,
-      "by": "robin_reala",
-      "time": 1774615609,
-      "comments": 280,
-      "domain": "sightlessscribbles.com"
     },
     {
       "id": 47543943,
       "title": "Desk for people who work at home with a cat",
       "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 47,
+      "score": 113,
       "by": "zdw",
       "time": 1774625480,
-      "comments": 13,
+      "comments": 47,
       "domain": "soranews24.com"
+    },
+    {
+      "id": 47542057,
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "score": 420,
+      "by": "robin_reala",
+      "time": 1774615609,
+      "comments": 328,
+      "domain": "sightlessscribbles.com"
     },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 288,
+      "score": 310,
       "by": "pistolario",
       "time": 1774595546,
-      "comments": 174,
+      "comments": 189,
       "domain": "micahkepe.com"
-    },
-    {
-      "id": 47490609,
-      "title": "How and why to take a logarithm of an image [video]",
-      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
-      "score": 109,
-      "by": "jgwil2",
-      "time": 1774278643,
-      "comments": 41,
-      "domain": "youtube.com"
-    },
-    {
-      "id": 47544006,
-      "title": "SimpleX Chat",
-      "url": "https://simplex.chat/",
-      "score": 11,
-      "by": "Cider9986",
-      "time": 1774625634,
-      "comments": 4,
-      "domain": "simplex.chat"
-    },
-    {
-      "id": 47540833,
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 398,
-      "by": "LucidLynx",
-      "time": 1774606241,
-      "comments": 333,
-      "domain": "xn--gckvb8fzb.com"
-    },
-    {
-      "id": 47539188,
-      "title": "Schedule tasks on the web",
-      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 237,
-      "by": "iBelieve",
-      "time": 1774586835,
-      "comments": 200,
-      "domain": "code.claude.com"
-    },
-    {
-      "id": 47535708,
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 561,
-      "by": "bentocorp",
-      "time": 1774559090,
-      "comments": 514,
-      "domain": "9to5mac.com"
-    },
-    {
-      "id": 47542695,
-      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 84,
-      "by": "breve",
-      "time": 1774619675,
-      "comments": 55,
-      "domain": "windowscentral.com"
-    },
-    {
-      "id": 47503853,
-      "title": "EMachines never obsolete PCs: More than a meme",
-      "url": "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/",
-      "score": 17,
-      "by": "zdw",
-      "time": 1774365136,
-      "comments": 5,
-      "domain": "dfarq.homeip.net"
-    },
-    {
-      "id": 47499262,
-      "title": "Gzip decompression in 250 lines of Rust",
-      "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
-      "score": 42,
-      "by": "vismit2000",
-      "time": 1774334108,
-      "comments": 18,
-      "domain": "iev.ee"
-    },
-    {
-      "id": 47518960,
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 943,
-      "by": "Amorymeltzer",
-      "time": 1774453589,
-      "comments": 195,
-      "domain": "bethmathews.substack.com"
-    },
-    {
-      "id": 47539767,
-      "title": "The European AllSky7 fireball network",
-      "url": "https://www.allsky7.net/#archive",
-      "score": 101,
-      "by": "marklit",
-      "time": 1774594849,
-      "comments": 7,
-      "domain": "allsky7.net"
-    },
-    {
-      "id": 47543201,
-      "title": "The Last Gasps of the Rent Seeking Class",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html",
-      "score": 12,
-      "by": "surprisetalk",
-      "time": 1774622457,
-      "comments": 3,
-      "domain": "geohot.github.io"
     },
     {
       "id": 47493677,
       "title": "Sand from Different Beaches in the World",
       "url": "https://magnifiedsand.com/",
-      "score": 6,
+      "score": 24,
       "by": "RAAx707",
       "time": 1774292343,
-      "comments": 1,
+      "comments": 4,
       "domain": "magnifiedsand.com"
+    },
+    {
+      "id": 47490609,
+      "title": "How and why to take a logarithm of an image [video]",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "score": 131,
+      "by": "jgwil2",
+      "time": 1774278643,
+      "comments": 46,
+      "domain": "youtube.com"
+    },
+    {
+      "id": 47542695,
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "score": 153,
+      "by": "breve",
+      "time": 1774619675,
+      "comments": 128,
+      "domain": "windowscentral.com"
+    },
+    {
+      "id": 47499262,
+      "title": "Gzip decompression in 250 lines of Rust",
+      "url": "https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/",
+      "score": 60,
+      "by": "vismit2000",
+      "time": 1774334108,
+      "comments": 27,
+      "domain": "iev.ee"
+    },
+    {
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 427,
+      "by": "LucidLynx",
+      "time": 1774606241,
+      "comments": 359,
+      "domain": "xn--gckvb8fzb.com"
+    },
+    {
+      "id": 47544980,
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "score": 25,
+      "by": "cptroot",
+      "time": 1774629572,
+      "comments": 5,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47539188,
+      "title": "Schedule tasks on the web",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "score": 246,
+      "by": "iBelieve",
+      "time": 1774586835,
+      "comments": 206,
+      "domain": "code.claude.com"
+    },
+    {
+      "id": 47503853,
+      "title": "EMachines never obsolete PCs: More than a meme",
+      "url": "https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/",
+      "score": 30,
+      "by": "zdw",
+      "time": 1774365136,
+      "comments": 15,
+      "domain": "dfarq.homeip.net"
+    },
+    {
+      "id": 47535708,
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "score": 577,
+      "by": "bentocorp",
+      "time": 1774559090,
+      "comments": 538,
+      "domain": "9to5mac.com"
+    },
+    {
+      "id": 47524051,
+      "title": "21,864 Yugoslavian .yu domains",
+      "url": "https://jacobfilipp.com/yu/",
+      "score": 20,
+      "by": "freediver",
+      "time": 1774477247,
+      "comments": 49,
+      "domain": "jacobfilipp.com"
+    },
+    {
+      "id": 47543204,
+      "title": "Meow.camera",
+      "url": "https://meow.camera/#4258783365322591678",
+      "score": 19,
+      "by": "surprisetalk",
+      "time": 1774622462,
+      "comments": 2,
+      "domain": "meow.camera"
+    },
+    {
+      "id": 47545032,
+      "title": "Iran-linked hackers have breached FBI director's personal emails",
+      "url": "https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel",
+      "score": 71,
+      "by": "vrganj",
+      "time": 1774629722,
+      "comments": 27,
+      "domain": "cnn.com"
+    },
+    {
+      "id": 47540383,
+      "title": "‘Energy independence feels practical’: Europeans building mini solar farms",
+      "url": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+      "score": 71,
+      "by": "vrganj",
+      "time": 1774601743,
+      "comments": 77,
+      "domain": "euronews.com"
+    },
+    {
+      "id": 47518960,
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+      "score": 964,
+      "by": "Amorymeltzer",
+      "time": 1774453589,
+      "comments": 197,
+      "domain": "bethmathews.substack.com"
+    },
+    {
+      "id": 47540929,
+      "title": "Should QA exist?",
+      "url": "https://www.rubick.com/should-qa-exist/",
+      "score": 34,
+      "by": "PretzelFisch",
+      "time": 1774607248,
+      "comments": 71,
+      "domain": "rubick.com"
     },
     {
       "id": 47544614,
       "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
       "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
-      "score": 8,
+      "score": 44,
       "by": "jbegley",
       "time": 1774627887,
-      "comments": 0,
+      "comments": 25,
       "domain": "techcrunch.com"
+    },
+    {
+      "id": 47493246,
+      "title": "Everything old is new again: memory optimization",
+      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "score": 126,
+      "by": "ibobev",
+      "time": 1774290153,
+      "comments": 97,
+      "domain": "nibblestew.blogspot.com"
+    },
+    {
+      "id": 47498222,
+      "title": "Embracing Bayesian Methods in Clinical Trials",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
+      "score": 3,
+      "by": "nextos",
+      "time": 1774321736,
+      "comments": 0,
+      "domain": "jamanetwork.com"
+    },
+    {
+      "id": 47539767,
+      "title": "The European AllSky7 fireball network",
+      "url": "https://www.allsky7.net/#archive",
+      "score": 104,
+      "by": "marklit",
+      "time": 1774594849,
+      "comments": 8,
+      "domain": "allsky7.net"
+    },
+    {
+      "id": 47545030,
+      "title": "I am leaving the AI party after one drink",
+      "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+      "score": 62,
+      "by": "speckx",
+      "time": 1774629719,
+      "comments": 48,
+      "domain": "lara-aigmueller.at"
+    },
+    {
+      "id": 47492894,
+      "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
+      "url": "https://library.oapen.org//handle/20.500.12657/53344",
+      "score": 66,
+      "by": "the-mitr",
+      "time": 1774288591,
+      "comments": 51,
+      "domain": "library.oapen.org"
+    },
+    {
+      "id": 47543201,
+      "title": "Last gasps of the rent seeking class?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html",
+      "score": 67,
+      "by": "surprisetalk",
+      "time": 1774622457,
+      "comments": 55,
+      "domain": "geohot.github.io"
     },
     {
       "id": 47500337,
       "title": "Local Bernstein theory, and lower bounds for Lebesgue constants",
       "url": "https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/",
-      "score": 36,
+      "score": 40,
       "by": "jjgreen",
       "time": 1774345005,
       "comments": 7,
@@ -195,110 +285,20 @@
       "id": 47536761,
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 300,
+      "score": 313,
       "by": "j0rg3",
       "time": 1774564885,
-      "comments": 88,
+      "comments": 90,
       "domain": "georgelarson.me"
     },
     {
       "id": 47533297,
       "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
       "url": "https://github.com/itigges22/ATLAS",
-      "score": 423,
+      "score": 438,
       "by": "yogthos",
       "time": 1774546284,
-      "comments": 230,
-      "domain": "github.com"
-    },
-    {
-      "id": 47542722,
-      "title": "Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules",
-      "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
-      "score": 95,
-      "by": "vidyesh",
-      "time": 1774619856,
-      "comments": 89,
-      "domain": "gadgetreview.com"
-    },
-    {
-      "id": 47536712,
-      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-      "score": 239,
-      "by": "cjlm",
-      "time": 1774564601,
-      "comments": 217,
-      "domain": "reco.ai"
-    },
-    {
-      "id": 47490705,
-      "title": "DOOM Over DNS",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "score": 330,
-      "by": "Venn1",
-      "time": 1774279058,
-      "comments": 87,
-      "domain": "github.com"
-    },
-    {
-      "id": 47543247,
-      "title": "Rank the 50 best Apple products",
-      "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
-      "score": 29,
-      "by": "dqieu",
-      "time": 1774622682,
-      "comments": 24,
-      "domain": "theverge.com"
-    },
-    {
-      "id": 47484295,
-      "title": "QRV Operating System: QNX on RISC-V",
-      "url": "https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html",
-      "score": 41,
-      "by": "chrsw",
-      "time": 1774228563,
-      "comments": 7,
-      "domain": "r-tty.blogspot.com"
-    },
-    {
-      "id": 47523330,
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 926,
-      "by": "driesdep",
-      "time": 1774473117,
-      "comments": 320,
-      "domain": "bugs.xdavidhu.me"
-    },
-    {
-      "id": 47531967,
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 413,
-      "by": "Fibonar",
-      "time": 1774540120,
-      "comments": 152,
-      "domain": "futuresearch.ai"
-    },
-    {
-      "id": 47495190,
-      "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-      "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
-      "score": 123,
-      "by": "varjag",
-      "time": 1774300396,
-      "comments": 14,
-      "domain": "atgreen.github.io"
-    },
-    {
-      "id": 47505670,
-      "title": "HyperAgents: Self-referential self-improving agents",
-      "url": "https://github.com/facebookresearch/hyperagents",
-      "score": 223,
-      "by": "andyg_blog",
-      "time": 1774371250,
-      "comments": 78,
+      "comments": 237,
       "domain": "github.com"
     }
   ]
