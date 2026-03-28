@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-03-28T04:30:58.702Z",
+  "lastUpdated": "2026-03-28T05:41:15.004Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 4571,
+      "stars": 4615,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-28T04:28:24Z"
+      "updated_at": "2026-03-28T05:40:32Z"
     },
     {
       "id": 1188997672,
       "name": "zarazhangrui/codebase-to-course",
       "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
-      "stars": 2097,
+      "stars": 2103,
       "language": null,
       "url": "https://github.com/zarazhangrui/codebase-to-course",
       "owner": {
         "login": "zarazhangrui",
         "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
       },
-      "updated_at": "2026-03-28T04:17:55Z"
+      "updated_at": "2026-03-28T05:30:22Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 1508,
+      "stars": 1521,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-28T04:30:44Z"
+      "updated_at": "2026-03-28T05:40:20Z"
     },
     {
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 1484,
+      "stars": 1497,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-28T04:11:33Z"
+      "updated_at": "2026-03-28T05:40:34Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 1378,
+      "stars": 1399,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-28T04:30:54Z"
+      "updated_at": "2026-03-28T05:40:12Z"
     },
     {
       "id": 1188867175,
       "name": "GAIR-NLP/daVinci-MagiHuman",
       "description": null,
-      "stars": 1023,
+      "stars": 1028,
       "language": "Python",
       "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
       "owner": {
         "login": "GAIR-NLP",
         "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
       },
-      "updated_at": "2026-03-28T04:24:33Z"
+      "updated_at": "2026-03-28T05:38:50Z"
     },
     {
       "id": 1188362803,
       "name": "CoderLuii/HolyClaude",
       "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
-      "stars": 991,
+      "stars": 998,
       "language": "Dockerfile",
       "url": "https://github.com/CoderLuii/HolyClaude",
       "owner": {
         "login": "CoderLuii",
         "avatar_url": "https://avatars.githubusercontent.com/u/203967356?v=4"
       },
-      "updated_at": "2026-03-28T04:01:26Z"
+      "updated_at": "2026-03-28T05:29:08Z"
     },
     {
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 960,
+      "stars": 962,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-28T03:36:50Z"
+      "updated_at": "2026-03-28T05:12:46Z"
     },
     {
       "id": 1188427634,
@@ -119,6 +119,19 @@
       "updated_at": "2026-03-28T01:41:01Z"
     },
     {
+      "id": 1191904384,
+      "name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "stars": 900,
+      "language": "TypeScript",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "owner": {
+        "login": "elder-plinius",
+        "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+      },
+      "updated_at": "2026-03-28T05:40:51Z"
+    },
+    {
       "id": 1190171426,
       "name": "nashsu/opencli-rs",
       "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
@@ -130,19 +143,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
       "updated_at": "2026-03-28T04:10:57Z"
-    },
-    {
-      "id": 1191904384,
-      "name": "elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
-      "stars": 880,
-      "language": "TypeScript",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "owner": {
-        "login": "elder-plinius",
-        "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
-      },
-      "updated_at": "2026-03-28T04:28:25Z"
     },
     {
       "id": 1188762109,
@@ -161,105 +161,105 @@
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 791,
+      "stars": 796,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-28T04:04:43Z"
+      "updated_at": "2026-03-28T05:28:22Z"
     },
     {
       "id": 1192168837,
       "name": "jxnxts/mcp-brasil",
       "description": "MCP Server para 27 APIs públicas brasileiras",
-      "stars": 769,
+      "stars": 770,
       "language": "Python",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "owner": {
         "login": "jxnxts",
         "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
       },
-      "updated_at": "2026-03-28T04:11:30Z"
+      "updated_at": "2026-03-28T05:34:40Z"
     },
     {
       "id": 1190424251,
       "name": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 727,
+      "stars": 730,
       "language": "Swift",
       "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
         "login": "marswaveai",
         "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-28T04:05:36Z"
+      "updated_at": "2026-03-28T04:57:59Z"
     },
     {
       "id": 1188801020,
       "name": "joewongjc/type4me",
       "description": "MacOS语音输入法，实时识别、大模型文本优化、全本地存储",
-      "stars": 660,
+      "stars": 665,
       "language": "Swift",
       "url": "https://github.com/joewongjc/type4me",
       "owner": {
         "login": "joewongjc",
         "avatar_url": "https://avatars.githubusercontent.com/u/12277581?v=4"
       },
-      "updated_at": "2026-03-28T04:29:24Z"
+      "updated_at": "2026-03-28T05:13:49Z"
     },
     {
       "id": 1190815318,
       "name": "NomaDamas/k-skill",
       "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등...",
-      "stars": 579,
+      "stars": 590,
       "language": "JavaScript",
       "url": "https://github.com/NomaDamas/k-skill",
       "owner": {
         "login": "NomaDamas",
         "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
       },
-      "updated_at": "2026-03-28T04:26:29Z"
+      "updated_at": "2026-03-28T05:29:43Z"
     },
     {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 576,
+      "stars": 586,
       "language": "Python",
       "url": "https://github.com/oaker-io/wewrite",
       "owner": {
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-28T04:29:22Z"
+      "updated_at": "2026-03-28T05:40:01Z"
     },
     {
       "id": 1189197045,
       "name": "ryanstephen/lil-agents",
       "description": "tiny AI companions that live on your macOS dock",
-      "stars": 560,
+      "stars": 568,
       "language": "Swift",
       "url": "https://github.com/ryanstephen/lil-agents",
       "owner": {
         "login": "ryanstephen",
         "avatar_url": "https://avatars.githubusercontent.com/u/18016670?v=4"
       },
-      "updated_at": "2026-03-28T04:08:35Z"
+      "updated_at": "2026-03-28T05:33:36Z"
     },
     {
       "id": 1191650086,
       "name": "Michaelliv/markit",
       "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 551,
+      "stars": 557,
       "language": "TypeScript",
       "url": "https://github.com/Michaelliv/markit",
       "owner": {
         "login": "Michaelliv",
         "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-28T04:27:57Z"
+      "updated_at": "2026-03-28T05:20:49Z"
     }
   ]
 }
