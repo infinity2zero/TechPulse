@@ -1,31 +1,41 @@
 {
-  "lastUpdated": "2026-03-28T20:42:11.238Z",
+  "lastUpdated": "2026-03-28T21:02:36.591Z",
   "items": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 355,
+      "score": 377,
       "by": "bob_theslob646",
       "time": 1774719589,
-      "comments": 73,
+      "comments": 78,
       "domain": "sytse.com"
     },
     {
       "id": 47557166,
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 81,
+      "score": 83,
       "by": "mean_mistreater",
       "time": 1774723139,
-      "comments": 18,
+      "comments": 26,
       "domain": "twitter.com"
+    },
+    {
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 21,
+      "by": "msephton",
+      "time": 1774730341,
+      "comments": 2,
+      "domain": "nielsleenheer.com"
     },
     {
       "id": 47556359,
       "title": "Linux is an interpreter",
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 107,
+      "score": 113,
       "by": "frizlab",
       "time": 1774717174,
       "comments": 17,
@@ -35,57 +45,57 @@
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 424,
+      "score": 436,
       "by": "oldfrenchfries",
       "time": 1774706913,
-      "comments": 341,
+      "comments": 346,
       "domain": "news.stanford.edu"
     },
     {
       "id": 47555556,
       "title": "I decompiled the White House's new app",
       "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 253,
+      "score": 265,
       "by": "amarcheschi",
       "time": 1774712237,
-      "comments": 88,
+      "comments": 93,
       "domain": "thereallo.dev"
+    },
+    {
+      "id": 47508710,
+      "title": "Detecting file changes on macOS with kqueue",
+      "url": "https://www.vegardstikbakke.com/kqueue/",
+      "score": 39,
+      "by": "benhoyt",
+      "time": 1774384184,
+      "comments": 4,
+      "domain": "vegardstikbakke.com"
+    },
+    {
+      "id": 47553717,
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "score": 287,
+      "by": "msephton",
+      "time": 1774698568,
+      "comments": 39,
+      "domain": "youtube.com"
     },
     {
       "id": 47556267,
       "title": "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
       "url": "https://androwish.org/home/wiki?name=undroidwish",
-      "score": 39,
+      "score": 41,
       "by": "smartmic",
       "time": 1774716586,
       "comments": 2,
       "domain": "androwish.org"
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 284,
-      "by": "msephton",
-      "time": 1774698568,
-      "comments": 38,
-      "domain": "youtube.com"
-    },
-    {
-      "id": 47508710,
-      "title": "Detecting file changes on macOS with kqueue",
-      "url": "https://www.vegardstikbakke.com/kqueue/",
-      "score": 34,
-      "by": "benhoyt",
-      "time": 1774384184,
-      "comments": 3,
-      "domain": "vegardstikbakke.com"
-    },
-    {
       "id": 47553185,
       "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
       "url": "https://github.com/J-x-Z/cocoa-way",
-      "score": 261,
+      "score": 262,
       "by": "OJFord",
       "time": 1774692373,
       "comments": 86,
@@ -95,21 +105,41 @@
       "id": 47553798,
       "title": "Spanish legislation as a Git repo",
       "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 645,
+      "score": 652,
       "by": "enriquelop",
       "time": 1774699287,
-      "comments": 190,
+      "comments": 195,
       "domain": "github.com"
     },
     {
       "id": 47557185,
       "title": "The first 40 months of the AI era",
       "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-      "score": 16,
+      "score": 21,
       "by": "jpmitchell",
       "time": 1774723328,
       "comments": 0,
       "domain": "lzon.ca"
+    },
+    {
+      "id": 47552562,
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 268,
+      "by": "TORcicada",
+      "time": 1774685179,
+      "comments": 124,
+      "domain": "theopenreader.org"
+    },
+    {
+      "id": 47513482,
+      "title": "1929: Inside the Greatest Crash in Wall Street History",
+      "url": "https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/",
+      "score": 8,
+      "by": "mitchbob",
+      "time": 1774414918,
+      "comments": 2,
+      "domain": "nybooks.com"
     },
     {
       "id": 47556001,
@@ -122,74 +152,74 @@
       "domain": "github.com"
     },
     {
-      "id": 47552562,
-      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "score": 267,
-      "by": "TORcicada",
-      "time": 1774685179,
-      "comments": 124,
-      "domain": "theopenreader.org"
-    },
-    {
       "id": 47556033,
       "title": "rpg.actor Game Jam",
       "url": "https://rpg.actor/jam",
-      "score": 45,
+      "score": 47,
       "by": "Kye",
       "time": 1774715168,
-      "comments": 4,
+      "comments": 5,
       "domain": "rpg.actor"
-    },
-    {
-      "id": 47513482,
-      "title": "1929: Inside the Greatest Crash in Wall Street History",
-      "url": "https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/",
-      "score": 5,
-      "by": "mitchbob",
-      "time": 1774414918,
-      "comments": 1,
-      "domain": "nybooks.com"
     },
     {
       "id": 47515652,
       "title": "C++26: A User-Friednly assert() macro",
       "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
-      "score": 50,
+      "score": 52,
       "by": "jandeboevrie",
       "time": 1774435908,
-      "comments": 32,
+      "comments": 33,
       "domain": "sandordargo.com"
     },
     {
-      "id": 47503687,
-      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
-      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
-      "score": 91,
-      "by": "nickjj",
-      "time": 1774364558,
-      "comments": 31,
-      "domain": "nickjanetakis.com"
+      "id": 47557064,
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "score": 9,
+      "by": "caminanteblanco",
+      "time": 1774722165,
+      "comments": 0,
+      "domain": "github.com"
     },
     {
       "id": 47550282,
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
-      "score": 548,
+      "score": 555,
       "by": "mazieres",
       "time": 1774658394,
-      "comments": 300,
+      "comments": 302,
       "domain": "jai.scs.stanford.edu"
     },
     {
-      "id": 47555090,
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "score": 241,
-      "by": "Brajeshwar",
-      "time": 1774709365,
-      "comments": 182,
-      "domain": "theregister.com"
+      "id": 47503687,
+      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "score": 93,
+      "by": "nickjj",
+      "time": 1774364558,
+      "comments": 32,
+      "domain": "nickjanetakis.com"
+    },
+    {
+      "id": 47554948,
+      "title": "ICAO issued new power bank restriction on flight",
+      "url": "https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation",
+      "score": 38,
+      "by": "phantomathkg",
+      "time": 1774708230,
+      "comments": 53,
+      "domain": "icao.int"
+    },
+    {
+      "id": 47515783,
+      "title": "Hacking old hardware by renaming to .zip [video]",
+      "url": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+      "score": 83,
+      "by": "abadar",
+      "time": 1774436961,
+      "comments": 66,
+      "domain": "youtube.com"
     },
     {
       "id": 47512492,
@@ -205,7 +235,7 @@
       "id": 47550878,
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 281,
+      "score": 283,
       "by": "zdw",
       "time": 1774664224,
       "comments": 151,
@@ -215,21 +245,31 @@
       "id": 47516456,
       "title": "Nobody Reads Your Setup Docs",
       "url": "https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/",
-      "score": 9,
+      "score": 12,
       "by": "donutshop",
       "time": 1774441798,
-      "comments": 10,
+      "comments": 11,
       "domain": "hanzilla.co"
     },
     {
       "id": 47518568,
       "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
       "url": "https://github.com/dbrll/ATTN-11",
-      "score": 107,
+      "score": 111,
       "by": "rahen",
       "time": 1774452008,
-      "comments": 18,
+      "comments": 19,
       "domain": "github.com"
+    },
+    {
+      "id": 47520599,
+      "title": "The bee that everyone wants to save",
+      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+      "score": 246,
+      "by": "nivethan",
+      "time": 1774460116,
+      "comments": 80,
+      "domain": "naturalist.bearblog.dev"
     },
     {
       "id": 47519255,
@@ -242,54 +282,14 @@
       "domain": "xnacly.me"
     },
     {
-      "id": 47557064,
-      "title": "OpenCiv1 – open-source rewrite of Civ1",
-      "url": "https://github.com/rajko-horvat/OpenCiv1",
-      "score": 4,
-      "by": "caminanteblanco",
-      "time": 1774722165,
-      "comments": 0,
-      "domain": "github.com"
-    },
-    {
-      "id": 47520599,
-      "title": "The bee that everyone wants to save",
-      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-      "score": 239,
-      "by": "nivethan",
-      "time": 1774460116,
-      "comments": 80,
-      "domain": "naturalist.bearblog.dev"
-    },
-    {
       "id": 47547009,
       "title": "Make macOS consistently bad unironically",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 501,
+      "score": 506,
       "by": "speckx",
       "time": 1774638919,
-      "comments": 338,
+      "comments": 339,
       "domain": "lr0.org"
-    },
-    {
-      "id": 47509031,
-      "title": "Go Naming Conventions: A Practical Guide",
-      "url": "https://www.alexedwards.net/blog/go-naming-conventions",
-      "score": 87,
-      "by": "yurivish",
-      "time": 1774385349,
-      "comments": 51,
-      "domain": "alexedwards.net"
-    },
-    {
-      "id": 47511112,
-      "title": "Arm releases first in-house chip, with Meta as debut customer",
-      "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
-      "score": 94,
-      "by": "goplayoutside",
-      "time": 1774395246,
-      "comments": 25,
-      "domain": "cnbc.com"
     }
   ]
 }
