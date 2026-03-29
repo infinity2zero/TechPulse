@@ -1,145 +1,155 @@
 {
-  "lastUpdated": "2026-03-29T21:39:21.189Z",
+  "lastUpdated": "2026-03-29T21:59:32.926Z",
   "items": [
     {
       "id": 47566865,
       "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 108,
+      "score": 151,
       "by": "alberto-m",
       "time": 1774815665,
-      "comments": 51,
+      "comments": 92,
       "domain": "buchodi.com"
+    },
+    {
+      "id": 47566442,
+      "title": "The Cognitive Dark Forest",
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "score": 120,
+      "by": "kaycebasques",
+      "time": 1774812981,
+      "comments": 55,
+      "domain": "ryelang.org"
     },
     {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 309,
+      "score": 319,
       "by": "speckx",
       "time": 1774800742,
-      "comments": 125,
+      "comments": 132,
       "domain": "techfixated.com"
     },
     {
       "id": 47566653,
       "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
       "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
-      "score": 33,
+      "score": 39,
       "by": "walterbell",
       "time": 1774814402,
-      "comments": 18,
+      "comments": 25,
       "domain": "isp.netscape.com"
-    },
-    {
-      "id": 47566442,
-      "title": "The Cognitive Dark Forest",
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "score": 95,
-      "by": "kaycebasques",
-      "time": 1774812981,
-      "comments": 50,
-      "domain": "ryelang.org"
     },
     {
       "id": 47565365,
       "title": "C++26 is done ISO C++ standards meeting, Trip Report",
       "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "score": 116,
+      "score": 121,
       "by": "pjmlp",
       "time": 1774806372,
-      "comments": 87,
+      "comments": 93,
       "domain": "herbsutter.com"
     },
     {
       "id": 47556290,
       "title": "Pretext: TypeScript library for multiline text measurement and layout",
       "url": "https://github.com/chenglou/pretext",
-      "score": 141,
+      "score": 148,
       "by": "emersonmacro",
       "time": 1774716765,
       "comments": 19,
       "domain": "github.com"
     },
     {
+      "id": 47567049,
+      "title": "Show HN: Crazierl – An Erlang Operating System",
+      "url": "https://crazierl.org/demo/",
+      "score": 14,
+      "by": "toast0",
+      "time": 1774816706,
+      "comments": 4,
+      "domain": "crazierl.org"
+    },
+    {
       "id": 47531576,
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "score": 92,
+      "score": 95,
       "by": "thebeardisred",
       "time": 1774538237,
-      "comments": 21,
+      "comments": 22,
       "domain": "riseproject.dev"
-    },
-    {
-      "id": 47565316,
-      "title": "Neovim 0.12.0",
-      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "score": 213,
-      "by": "pawelgrzybek",
-      "time": 1774805995,
-      "comments": 87,
-      "domain": "github.com"
     },
     {
       "id": 47566332,
       "title": "More on Version Control",
       "url": "https://bramcohen.com/p/more-on-version-control",
-      "score": 30,
+      "score": 32,
       "by": "velmu",
       "time": 1774812374,
       "comments": 4,
       "domain": "bramcohen.com"
     },
     {
+      "id": 47565316,
+      "title": "Neovim 0.12.0",
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "score": 220,
+      "by": "pawelgrzybek",
+      "time": 1774805995,
+      "comments": 94,
+      "domain": "github.com"
+    },
+    {
       "id": 47539165,
       "title": "Ohm's Peg-to-WASM Compiler",
       "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
-      "score": 11,
+      "score": 13,
       "by": "azhenley",
       "time": 1774586467,
       "comments": 1,
       "domain": "ohmjs.org"
     },
     {
+      "id": 47530670,
+      "title": "Creating West Coast Buddhism (2024)",
+      "url": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
+      "score": 33,
+      "by": "surprisetalk",
+      "time": 1774534114,
+      "comments": 11,
+      "domain": "letter.palladiummag.com"
+    },
+    {
+      "id": 47564579,
+      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "score": 55,
+      "by": "zdw",
+      "time": 1774801615,
+      "comments": 15,
+      "domain": "righto.com"
+    },
+    {
       "id": 47566140,
       "title": "Kyushu Railway Company Train Varieties",
       "url": "https://www.jrkyushu.co.jp/english/train/index.html",
-      "score": 25,
+      "score": 26,
       "by": "NaOH",
       "time": 1774811287,
       "comments": 0,
       "domain": "jrkyushu.co.jp"
     },
     {
-      "id": 47567049,
-      "title": "Show HN: Crazierl – An Erlang Operating System",
-      "url": "https://crazierl.org/demo/",
-      "score": 8,
-      "by": "toast0",
-      "time": 1774816706,
-      "comments": 2,
-      "domain": "crazierl.org"
-    },
-    {
-      "id": 47564579,
-      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
-      "score": 54,
-      "by": "zdw",
-      "time": 1774801615,
-      "comments": 13,
-      "domain": "righto.com"
-    },
-    {
-      "id": 47530670,
-      "title": "Creating West Coast Buddhism (2024)",
-      "url": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
-      "score": 31,
-      "by": "surprisetalk",
-      "time": 1774534114,
-      "comments": 9,
-      "domain": "letter.palladiummag.com"
+      "id": 47563978,
+      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "url": "https://github.com/DavidHavoc/ayaFlow",
+      "score": 67,
+      "by": "tanelpoder",
+      "time": 1774798107,
+      "comments": 4,
+      "domain": "github.com"
     },
     {
       "id": 47565831,
@@ -152,144 +162,134 @@
       "domain": "github.com"
     },
     {
-      "id": 47563978,
-      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-      "url": "https://github.com/DavidHavoc/ayaFlow",
-      "score": 65,
-      "by": "tanelpoder",
-      "time": 1774798107,
-      "comments": 4,
-      "domain": "github.com"
-    },
-    {
       "id": 47558094,
       "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
       "url": "https://github.com/elixir-volt/quickbeam",
-      "score": 53,
+      "score": 57,
       "by": "dannote",
       "time": 1774731803,
       "comments": 8,
       "domain": "github.com"
     },
     {
+      "id": 47542142,
+      "title": "Observations from carbon dioxide monitoring",
+      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
+      "score": 29,
+      "by": "coloneltcb",
+      "time": 1774616191,
+      "comments": 9,
+      "domain": "grieve-smith.com"
+    },
+    {
       "id": 47517306,
       "title": "The Epistemology of Microphysics",
       "url": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html",
-      "score": 29,
+      "score": 30,
       "by": "danielam",
       "time": 1774446378,
       "comments": 16,
       "domain": "edwardfeser.com"
     },
     {
+      "id": 47566143,
+      "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
+      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+      "score": 91,
+      "by": "TobiasBerg",
+      "time": 1774811300,
+      "comments": 97,
+      "domain": "tobiasberg.net"
+    },
+    {
       "id": 47563384,
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
       "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "score": 287,
+      "score": 294,
       "by": "ourmandave",
       "time": 1774794023,
-      "comments": 111,
+      "comments": 113,
       "domain": "cnn.com"
     },
     {
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 471,
+      "score": 472,
       "by": "giuliomagnifico",
       "time": 1774777618,
-      "comments": 207,
+      "comments": 210,
       "domain": "news.umich.edu"
-    },
-    {
-      "id": 47542142,
-      "title": "Observations from carbon dioxide monitoring",
-      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
-      "score": 26,
-      "by": "coloneltcb",
-      "time": 1774616191,
-      "comments": 6,
-      "domain": "grieve-smith.com"
-    },
-    {
-      "id": 47564245,
-      "title": "Full network of clitoral nerves mapped out for first time",
-      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-      "score": 180,
-      "by": "onei",
-      "time": 1774799665,
-      "comments": 47,
-      "domain": "theguardian.com"
-    },
-    {
-      "id": 47524778,
-      "title": "A nearly perfect USB cable tester",
-      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 253,
-      "by": "birdculture",
-      "time": 1774481747,
-      "comments": 138,
-      "domain": "blog.literarily-starved.com"
-    },
-    {
-      "id": 47561819,
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
-      "score": 260,
-      "by": "LucidLynx",
-      "time": 1774779012,
-      "comments": 193,
-      "domain": "github.com"
     },
     {
       "id": 47566702,
       "title": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank",
       "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/",
-      "score": 14,
+      "score": 28,
       "by": "nixass",
       "time": 1774814690,
       "comments": 0,
       "domain": "torrentfreak.com"
     },
     {
+      "id": 47564245,
+      "title": "Full network of clitoral nerves mapped out for first time",
+      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+      "score": 189,
+      "by": "onei",
+      "time": 1774799665,
+      "comments": 53,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47524778,
+      "title": "A nearly perfect USB cable tester",
+      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "score": 255,
+      "by": "birdculture",
+      "time": 1774481747,
+      "comments": 139,
+      "domain": "blog.literarily-starved.com"
+    },
+    {
+      "id": 47561819,
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "score": 262,
+      "by": "LucidLynx",
+      "time": 1774779012,
+      "comments": 194,
+      "domain": "github.com"
+    },
+    {
+      "id": 47566960,
+      "title": "The road signs that teach travellers about France",
+      "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+      "score": 5,
+      "by": "1659447091",
+      "time": 1774816202,
+      "comments": 0,
+      "domain": "bbc.com"
+    },
+    {
       "id": 47565264,
       "title": "Netscape News Feed Straight Out of the Late 00s",
       "url": "https://isp.netscape.com/",
-      "score": 70,
+      "score": 79,
       "by": "mistyvales",
       "time": 1774805660,
-      "comments": 16,
+      "comments": 17,
       "domain": "isp.netscape.com"
-    },
-    {
-      "id": 47541969,
-      "title": "I turned my Kindle into my own personal newspaper",
-      "url": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
-      "score": 168,
-      "by": "rpgbr",
-      "time": 1774614981,
-      "comments": 54,
-      "domain": "manualdousuario.net"
     },
     {
       "id": 47563103,
       "title": "Show HN: BreezePDF – Free, in-browser PDF editor",
       "url": "https://breezepdf.com/?v=3",
-      "score": 55,
+      "score": 57,
       "by": "philjohnson",
       "time": 1774792052,
-      "comments": 33,
+      "comments": 34,
       "domain": "breezepdf.com"
-    },
-    {
-      "id": 47566143,
-      "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
-      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
-      "score": 81,
-      "by": "TobiasBerg",
-      "time": 1774811300,
-      "comments": 86,
-      "domain": "tobiasberg.net"
     }
   ]
 }
