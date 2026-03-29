@@ -1,71 +1,91 @@
 {
-  "lastUpdated": "2026-03-29T11:03:38.073Z",
+  "lastUpdated": "2026-03-29T11:38:12.624Z",
   "items": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 1096,
+      "score": 1115,
       "by": "bob_theslob646",
       "time": 1774719589,
-      "comments": 213,
+      "comments": 214,
       "domain": "sytse.com"
     },
     {
       "id": 47524778,
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 78,
+      "score": 90,
       "by": "birdculture",
       "time": 1774481747,
-      "comments": 25,
+      "comments": 27,
       "domain": "blog.literarily-starved.com"
     },
     {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 658,
+      "score": 662,
       "by": "oldfrenchfries",
       "time": 1774706913,
-      "comments": 505,
+      "comments": 517,
       "domain": "news.stanford.edu"
     },
     {
       "id": 47557960,
       "title": "CSS is DOOMed",
       "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 356,
+      "score": 368,
       "by": "msephton",
       "time": 1774730341,
-      "comments": 81,
+      "comments": 83,
       "domain": "nielsleenheer.com"
     },
     {
-      "id": 47559481,
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 134,
-      "by": "bookofjoe",
-      "time": 1774745610,
-      "comments": 86,
-      "domain": "bmj.com"
+      "id": 47533324,
+      "title": "Siclair Microvision (1977)",
+      "url": "https://r-type.org/articles/art-452.htm",
+      "score": 12,
+      "by": "joebig",
+      "time": 1774546405,
+      "comments": 3,
+      "domain": "r-type.org"
     },
     {
       "id": 47541969,
       "title": "I turned my Kindle into my own personal newspaper",
       "url": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
-      "score": 36,
+      "score": 44,
       "by": "rpgbr",
       "time": 1774614981,
-      "comments": 18,
+      "comments": 19,
       "domain": "manualdousuario.net"
+    },
+    {
+      "id": 47559481,
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "score": 140,
+      "by": "bookofjoe",
+      "time": 1774745610,
+      "comments": 90,
+      "domain": "bmj.com"
+    },
+    {
+      "id": 47561496,
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "url": "https://github.com/1st1/lat.md",
+      "score": 18,
+      "by": "doppp",
+      "time": 1774774792,
+      "comments": 3,
+      "domain": "github.com"
     },
     {
       "id": 47561132,
       "title": "Show HN: Public transit systems as data – lines, stations, railcars, and history",
       "url": "https://publictransit.systems",
-      "score": 11,
+      "score": 13,
       "by": "qwertykb",
       "time": 1774769938,
       "comments": 6,
@@ -75,7 +95,7 @@
       "id": 47543186,
       "title": "OpenBSD on Motorola 88000 Processors",
       "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
-      "score": 100,
+      "score": 102,
       "by": "rbanffy",
       "time": 1774622391,
       "comments": 11,
@@ -85,11 +105,51 @@
       "id": 47528853,
       "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
       "url": "https://github.com/ben-j-c/verilog2factorio",
-      "score": 75,
+      "score": 83,
       "by": "signa11",
       "time": 1774522056,
-      "comments": 9,
+      "comments": 10,
       "domain": "github.com"
+    },
+    {
+      "id": 47557166,
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "score": 220,
+      "by": "mean_mistreater",
+      "time": 1774723139,
+      "comments": 145,
+      "domain": "twitter.com"
+    },
+    {
+      "id": 47555556,
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 536,
+      "by": "amarcheschi",
+      "time": 1774712237,
+      "comments": 195,
+      "domain": "thereallo.dev"
+    },
+    {
+      "id": 47561297,
+      "title": "What if AI doesn't need more RAM but better math?",
+      "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "score": 47,
+      "by": "adlrocha",
+      "time": 1774772335,
+      "comments": 13,
+      "domain": "adlrocha.substack.com"
+    },
+    {
+      "id": 47561711,
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 4,
+      "by": "giuliomagnifico",
+      "time": 1774777618,
+      "comments": 0,
+      "domain": "news.umich.edu"
     },
     {
       "id": 47523138,
@@ -98,134 +158,104 @@
       "score": 14,
       "by": "Hooke",
       "time": 1774472211,
-      "comments": 2,
+      "comments": 4,
       "domain": "newrepublic.com"
-    },
-    {
-      "id": 47557166,
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 216,
-      "by": "mean_mistreater",
-      "time": 1774723139,
-      "comments": 137,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47533324,
-      "title": "Siclair Microvision (1977)",
-      "url": "https://r-type.org/articles/art-452.htm",
-      "score": 6,
-      "by": "joebig",
-      "time": 1774546405,
-      "comments": 0,
-      "domain": "r-type.org"
-    },
-    {
-      "id": 47555556,
-      "title": "I decompiled the White House's new app",
-      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 533,
-      "by": "amarcheschi",
-      "time": 1774712237,
-      "comments": 194,
-      "domain": "thereallo.dev"
-    },
-    {
-      "id": 47526470,
-      "title": "The Loneliness of a Room of One's Own",
-      "url": "https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up",
-      "score": 22,
-      "by": "prismatic",
-      "time": 1774497239,
-      "comments": 2,
-      "domain": "newrepublic.com"
-    },
-    {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 403,
-      "by": "msephton",
-      "time": 1774698568,
-      "comments": 67,
-      "domain": "youtube.com"
     },
     {
       "id": 47536306,
       "title": "The ANSI art \"telecomics\" of the 1992 election",
       "url": "https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/",
-      "score": 45,
+      "score": 50,
       "by": "Kirkman14",
       "time": 1774562058,
       "comments": 1,
       "domain": "breakintochat.com"
     },
     {
+      "id": 47553717,
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "score": 405,
+      "by": "msephton",
+      "time": 1774698568,
+      "comments": 68,
+      "domain": "youtube.com"
+    },
+    {
       "id": 47558782,
       "title": "A laser-based process that enables adhesive-free paper packaging",
       "url": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
-      "score": 82,
+      "score": 85,
       "by": "gnabgib",
       "time": 1774738249,
-      "comments": 35,
+      "comments": 36,
       "domain": "fraunhofer.de"
-    },
-    {
-      "id": 47561297,
-      "title": "What if AI doesn't need more RAM but better math?",
-      "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
-      "score": 37,
-      "by": "adlrocha",
-      "time": 1774772335,
-      "comments": 7,
-      "domain": "adlrocha.substack.com"
-    },
-    {
-      "id": 47556359,
-      "title": "Linux is an interpreter",
-      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 209,
-      "by": "frizlab",
-      "time": 1774717174,
-      "comments": 51,
-      "domain": "astrid.tech"
-    },
-    {
-      "id": 47561496,
-      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-      "url": "https://github.com/1st1/lat.md",
-      "score": 10,
-      "by": "doppp",
-      "time": 1774774792,
-      "comments": 1,
-      "domain": "github.com"
     },
     {
       "id": 47557901,
       "title": "Android’s new sideload settings will carry over to new devices",
       "url": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
-      "score": 96,
+      "score": 101,
       "by": "croemer",
       "time": 1774729683,
-      "comments": 136,
+      "comments": 145,
       "domain": "androidauthority.com"
     },
     {
       "id": 47557064,
       "title": "OpenCiv1 – open-source rewrite of Civ1",
       "url": "https://github.com/rajko-horvat/OpenCiv1",
-      "score": 150,
+      "score": 157,
       "by": "caminanteblanco",
       "time": 1774722165,
-      "comments": 43,
+      "comments": 44,
+      "domain": "github.com"
+    },
+    {
+      "id": 47556359,
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "score": 210,
+      "by": "frizlab",
+      "time": 1774717174,
+      "comments": 52,
+      "domain": "astrid.tech"
+    },
+    {
+      "id": 47526470,
+      "title": "The Loneliness of a Room of One's Own",
+      "url": "https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up",
+      "score": 24,
+      "by": "prismatic",
+      "time": 1774497239,
+      "comments": 2,
+      "domain": "newrepublic.com"
+    },
+    {
+      "id": 47526473,
+      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+      "url": "https://www.metropolitanreview.org/p/the-last-contract",
+      "score": 29,
+      "by": "benbreen",
+      "time": 1774497253,
+      "comments": 6,
+      "domain": "metropolitanreview.org"
+    },
+    {
+      "id": 47553798,
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "score": 754,
+      "by": "enriquelop",
+      "time": 1774699287,
+      "comments": 223,
       "domain": "github.com"
     },
     {
       "id": 47532212,
       "title": "The Hackers Who Tracked My Sleep Cycle",
       "url": "https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle",
-      "score": 12,
+      "score": 13,
       "by": "statements",
       "time": 1774541174,
       "comments": 3,
@@ -235,21 +265,11 @@
       "id": 47535369,
       "title": "The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)",
       "url": "https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/",
-      "score": 19,
+      "score": 20,
       "by": "Petiver",
       "time": 1774557296,
       "comments": 6,
       "domain": "quillette.com"
-    },
-    {
-      "id": 47553798,
-      "title": "Spanish legislation as a Git repo",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 748,
-      "by": "enriquelop",
-      "time": 1774699287,
-      "comments": 223,
-      "domain": "github.com"
     },
     {
       "id": 47552643,
@@ -262,33 +282,13 @@
       "domain": "gwern.net"
     },
     {
-      "id": 47526473,
-      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-      "url": "https://www.metropolitanreview.org/p/the-last-contract",
-      "score": 27,
-      "by": "benbreen",
-      "time": 1774497253,
-      "comments": 6,
-      "domain": "metropolitanreview.org"
-    },
-    {
-      "id": 47561445,
-      "title": "Solar is winning the energy race",
-      "url": "https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556",
-      "score": 61,
-      "by": "doener",
-      "time": 1774774116,
-      "comments": 63,
-      "domain": "dw.com"
-    },
-    {
       "id": 47558997,
       "title": "South Korea Mandates Solar Panels for Public Parking Lots",
       "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
-      "score": 306,
+      "score": 310,
       "by": "_____k",
       "time": 1774740544,
-      "comments": 173,
+      "comments": 175,
       "domain": "reutersconnect.com"
     }
   ]
