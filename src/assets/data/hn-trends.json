@@ -1,135 +1,215 @@
 {
-  "lastUpdated": "2026-03-29T19:41:56.025Z",
+  "lastUpdated": "2026-03-29T19:59:24.553Z",
   "items": [
     {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 208,
+      "score": 221,
       "by": "speckx",
       "time": 1774800742,
-      "comments": 90,
+      "comments": 95,
       "domain": "techfixated.com"
     },
     {
       "id": 47565365,
       "title": "C++26 is done ISO C++ standards meeting, Trip Report",
       "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "score": 68,
+      "score": 79,
       "by": "pjmlp",
       "time": 1774806372,
-      "comments": 25,
+      "comments": 30,
       "domain": "herbsutter.com"
+    },
+    {
+      "id": 47566332,
+      "title": "More on Version Control",
+      "url": "https://bramcohen.com/p/more-on-version-control",
+      "score": 12,
+      "by": "velmu",
+      "time": 1774812374,
+      "comments": 1,
+      "domain": "bramcohen.com"
     },
     {
       "id": 47565848,
       "title": "Typing and Keyboards",
       "url": "https://lzon.ca/posts/series/grateful/typing-and-keyboards/",
-      "score": 20,
+      "score": 25,
       "by": "jpmitchell",
       "time": 1774809459,
-      "comments": 21,
+      "comments": 28,
       "domain": "lzon.ca"
     },
     {
       "id": 47556290,
       "title": "Pretext: TypeScript library for multiline text measurement and layout",
       "url": "https://github.com/chenglou/pretext",
-      "score": 97,
+      "score": 107,
       "by": "emersonmacro",
       "time": 1774716765,
-      "comments": 14,
+      "comments": 16,
       "domain": "github.com"
+    },
+    {
+      "id": 47566362,
+      "title": "A Message from the Ruby Central Board",
+      "url": "https://rubycentral.org/news/a-message-from-the-ruby-central-board/",
+      "score": 9,
+      "by": "nertzy",
+      "time": 1774812516,
+      "comments": 3,
+      "domain": "rubycentral.org"
     },
     {
       "id": 47531576,
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "score": 73,
+      "score": 76,
       "by": "thebeardisred",
       "time": 1774538237,
-      "comments": 18,
+      "comments": 20,
       "domain": "riseproject.dev"
+    },
+    {
+      "id": 47566268,
+      "title": "Personal AI Development Environment",
+      "url": "https://github.com/rbren/personal-ai-devbox",
+      "score": 9,
+      "by": "pros",
+      "time": 1774812066,
+      "comments": 0,
+      "domain": "github.com"
     },
     {
       "id": 47565316,
       "title": "Neovim 0.12.0",
       "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "score": 118,
+      "score": 138,
       "by": "pawelgrzybek",
       "time": 1774805995,
-      "comments": 56,
+      "comments": 64,
       "domain": "github.com"
-    },
-    {
-      "id": 47564579,
-      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
-      "score": 38,
-      "by": "zdw",
-      "time": 1774801615,
-      "comments": 7,
-      "domain": "righto.com"
     },
     {
       "id": 47563978,
       "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
       "url": "https://github.com/DavidHavoc/ayaFlow",
-      "score": 50,
+      "score": 55,
       "by": "tanelpoder",
       "time": 1774798107,
       "comments": 3,
       "domain": "github.com"
     },
     {
+      "id": 47564579,
+      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "score": 40,
+      "by": "zdw",
+      "time": 1774801615,
+      "comments": 8,
+      "domain": "righto.com"
+    },
+    {
+      "id": 47566143,
+      "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
+      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+      "score": 9,
+      "by": "TobiasBerg",
+      "time": 1774811300,
+      "comments": 2,
+      "domain": "tobiasberg.net"
+    },
+    {
       "id": 47558094,
       "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
       "url": "https://github.com/elixir-volt/quickbeam",
-      "score": 36,
+      "score": 41,
       "by": "dannote",
       "time": 1774731803,
-      "comments": 4,
+      "comments": 5,
       "domain": "github.com"
     },
     {
       "id": 47517306,
       "title": "The Epistemology of Microphysics",
       "url": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html",
-      "score": 17,
+      "score": 20,
       "by": "danielam",
       "time": 1774446378,
-      "comments": 9,
+      "comments": 10,
       "domain": "edwardfeser.com"
     },
     {
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 446,
+      "score": 452,
       "by": "giuliomagnifico",
       "time": 1774777618,
-      "comments": 189,
+      "comments": 191,
       "domain": "news.umich.edu"
     },
     {
       "id": 47563384,
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
       "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "score": 226,
+      "score": 236,
       "by": "ourmandave",
       "time": 1774794023,
-      "comments": 88,
+      "comments": 90,
       "domain": "cnn.com"
+    },
+    {
+      "id": 47566140,
+      "title": "Kyushu Railway Company Train Varieties",
+      "url": "https://www.jrkyushu.co.jp/english/train/index.html",
+      "score": 3,
+      "by": "NaOH",
+      "time": 1774811287,
+      "comments": 0,
+      "domain": "jrkyushu.co.jp"
+    },
+    {
+      "id": 47530670,
+      "title": "Creating West Coast Buddhism (2024)",
+      "url": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
+      "score": 9,
+      "by": "surprisetalk",
+      "time": 1774534114,
+      "comments": 1,
+      "domain": "letter.palladiummag.com"
     },
     {
       "id": 47524778,
       "title": "A nearly perfect USB cable tester",
       "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 232,
+      "score": 235,
       "by": "birdculture",
       "time": 1774481747,
-      "comments": 116,
+      "comments": 121,
       "domain": "blog.literarily-starved.com"
+    },
+    {
+      "id": 47564245,
+      "title": "Full network of clitoral nerves mapped out for first time",
+      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+      "score": 123,
+      "by": "onei",
+      "time": 1774799665,
+      "comments": 35,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47542142,
+      "title": "Observations from carbon dioxide monitoring",
+      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
+      "score": 16,
+      "by": "coloneltcb",
+      "time": 1774616191,
+      "comments": 3,
+      "domain": "grieve-smith.com"
     },
     {
       "id": 47561819,
@@ -138,38 +218,48 @@
       "score": 234,
       "by": "LucidLynx",
       "time": 1774779012,
-      "comments": 182,
+      "comments": 184,
       "domain": "github.com"
-    },
-    {
-      "id": 47564245,
-      "title": "Full network of clitoral nerves mapped out for first time",
-      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-      "score": 111,
-      "by": "onei",
-      "time": 1774799665,
-      "comments": 37,
-      "domain": "theguardian.com"
     },
     {
       "id": 47565075,
       "title": "First Western Digital, now Sony: The tech giant suspends SD card sales",
       "url": "https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage",
-      "score": 45,
+      "score": 52,
       "by": "_tk_",
       "time": 1774804499,
-      "comments": 33,
+      "comments": 36,
       "domain": "mashable.com"
+    },
+    {
+      "id": 47565831,
+      "title": "Show HN: I made a \"programming language\" looking for feedback",
+      "url": "https://github.com/alonsovm44/glupe",
+      "score": 3,
+      "by": "alonsovm",
+      "time": 1774809358,
+      "comments": 2,
+      "domain": "github.com"
     },
     {
       "id": 47541969,
       "title": "I turned my Kindle into my own personal newspaper",
       "url": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
-      "score": 152,
+      "score": 157,
       "by": "rpgbr",
       "time": 1774614981,
-      "comments": 51,
+      "comments": 52,
       "domain": "manualdousuario.net"
+    },
+    {
+      "id": 47565264,
+      "title": "Netscape News Feed Straight Out of the Late 00s",
+      "url": "https://isp.netscape.com/",
+      "score": 35,
+      "by": "mistyvales",
+      "time": 1774805660,
+      "comments": 8,
+      "domain": "isp.netscape.com"
     },
     {
       "id": 47510005,
@@ -185,10 +275,10 @@
       "id": 47563103,
       "title": "Show HN: BreezePDF – Free, in-browser PDF editor",
       "url": "https://breezepdf.com/?v=3",
-      "score": 37,
+      "score": 39,
       "by": "philjohnson",
       "time": 1774792052,
-      "comments": 22,
+      "comments": 23,
       "domain": "breezepdf.com"
     },
     {
@@ -198,98 +288,8 @@
       "score": 57,
       "by": "sxa001",
       "time": 1774784551,
-      "comments": 65,
+      "comments": 66,
       "domain": "sheetninja.io"
-    },
-    {
-      "id": 47565264,
-      "title": "Netscape News Feed Straight Out of the Late 00s",
-      "url": "https://isp.netscape.com/",
-      "score": 30,
-      "by": "mistyvales",
-      "time": 1774805660,
-      "comments": 7,
-      "domain": "isp.netscape.com"
-    },
-    {
-      "id": 47542142,
-      "title": "Observations from carbon dioxide monitoring",
-      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
-      "score": 12,
-      "by": "coloneltcb",
-      "time": 1774616191,
-      "comments": 2,
-      "domain": "grieve-smith.com"
-    },
-    {
-      "id": 47538596,
-      "title": "The Failure of the Thermodynamics of Computation (2010)",
-      "url": "https://sites.pitt.edu/~jdnorton/Goodies/Idealization/index.html",
-      "score": 42,
-      "by": "nill0",
-      "time": 1774579668,
-      "comments": 8,
-      "domain": "sites.pitt.edu"
-    },
-    {
-      "id": 47564469,
-      "title": "The bot situation on the internet is worse than you could imagine",
-      "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
-      "score": 158,
-      "by": "ohjeez",
-      "time": 1774801050,
-      "comments": 105,
-      "domain": "gladeart.com"
-    },
-    {
-      "id": 47526471,
-      "title": "When do we become adults, really?",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really",
-      "score": 53,
-      "by": "benbreen",
-      "time": 1774497244,
-      "comments": 75,
-      "domain": "newyorker.com"
-    },
-    {
-      "id": 47559481,
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 201,
-      "by": "bookofjoe",
-      "time": 1774745610,
-      "comments": 131,
-      "domain": "bmj.com"
-    },
-    {
-      "id": 47526470,
-      "title": "The loneliness of A Room of One’s Own",
-      "url": "https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up",
-      "score": 36,
-      "by": "prismatic",
-      "time": 1774497239,
-      "comments": 6,
-      "domain": "newrepublic.com"
-    },
-    {
-      "id": 47523138,
-      "title": "Cuts in publishing and book reviewing imperil the future of narrative nonfiction",
-      "url": "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever",
-      "score": 44,
-      "by": "Hooke",
-      "time": 1774472211,
-      "comments": 31,
-      "domain": "newrepublic.com"
-    },
-    {
-      "id": 47556729,
-      "title": "Founder of GitLab battles cancer by founding companies",
-      "url": "https://sytse.com/cancer/",
-      "score": 1308,
-      "by": "bob_theslob646",
-      "time": 1774719589,
-      "comments": 249,
-      "domain": "sytse.com"
     }
   ]
 }
