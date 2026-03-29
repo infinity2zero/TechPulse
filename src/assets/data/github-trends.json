@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-03-29T19:05:41.011Z",
+  "lastUpdated": "2026-03-29T19:41:56.277Z",
   "items": [
     {
       "id": 1189893949,
       "name": "slavingia/skills",
       "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-      "stars": 5317,
+      "stars": 5324,
       "language": null,
       "url": "https://github.com/slavingia/skills",
       "owner": {
         "login": "slavingia",
         "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
       },
-      "updated_at": "2026-03-29T18:56:03Z"
+      "updated_at": "2026-03-29T19:41:17Z"
     },
     {
       "id": 1191372811,
       "name": "larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 2889,
+      "stars": 2891,
       "language": "Go",
       "url": "https://github.com/larksuite/cli",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-29T19:01:31Z"
+      "updated_at": "2026-03-29T19:20:04Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 2380,
+      "stars": 2386,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-29T18:58:49Z"
+      "updated_at": "2026-03-29T19:39:43Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2362,
+      "stars": 2368,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-29T18:57:28Z"
+      "updated_at": "2026-03-29T19:34:11Z"
     },
     {
       "id": 1191904384,
       "name": "elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stars": 1934,
+      "stars": 1940,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-29T18:59:05Z"
+      "updated_at": "2026-03-29T19:40:28Z"
     },
     {
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 1901,
+      "stars": 1904,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-29T19:00:54Z"
+      "updated_at": "2026-03-29T19:37:46Z"
     },
     {
       "id": 1189540594,
       "name": "opa334/darksword-kexploit",
       "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
-      "stars": 1027,
+      "stars": 1029,
       "language": "Objective-C",
       "url": "https://github.com/opa334/darksword-kexploit",
       "owner": {
         "login": "opa334",
         "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
       },
-      "updated_at": "2026-03-29T19:04:19Z"
+      "updated_at": "2026-03-29T19:26:20Z"
     },
     {
       "id": 1190171426,
@@ -109,14 +109,14 @@
       "id": 1192168837,
       "name": "jxnxts/mcp-brasil",
       "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 860,
+      "stars": 861,
       "language": "Python",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "owner": {
         "login": "jxnxts",
         "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
       },
-      "updated_at": "2026-03-29T16:59:09Z"
+      "updated_at": "2026-03-29T19:24:27Z"
     },
     {
       "id": 1190195126,
@@ -132,6 +132,19 @@
       "updated_at": "2026-03-29T17:41:04Z"
     },
     {
+      "id": 1190486204,
+      "name": "facebookresearch/tribev2",
+      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
+      "stars": 836,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/facebookresearch/tribev2",
+      "owner": {
+        "login": "facebookresearch",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+      },
+      "updated_at": "2026-03-29T19:33:26Z"
+    },
+    {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
@@ -142,20 +155,20 @@
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-29T18:07:28Z"
+      "updated_at": "2026-03-29T19:15:23Z"
     },
     {
-      "id": 1190486204,
-      "name": "facebookresearch/tribev2",
-      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
-      "stars": 830,
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/facebookresearch/tribev2",
+      "id": 1191650086,
+      "name": "Michaelliv/markit",
+      "description": "🖍️ Convert anything to markdown. Mark it.",
+      "stars": 759,
+      "language": "TypeScript",
+      "url": "https://github.com/Michaelliv/markit",
       "owner": {
-        "login": "facebookresearch",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+        "login": "Michaelliv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-29T19:00:02Z"
+      "updated_at": "2026-03-29T19:35:54Z"
     },
     {
       "id": 1190424251,
@@ -171,19 +184,6 @@
       "updated_at": "2026-03-29T18:15:46Z"
     },
     {
-      "id": 1191650086,
-      "name": "Michaelliv/markit",
-      "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 755,
-      "language": "TypeScript",
-      "url": "https://github.com/Michaelliv/markit",
-      "owner": {
-        "login": "Michaelliv",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
-      },
-      "updated_at": "2026-03-29T18:59:15Z"
-    },
-    {
       "id": 1190815318,
       "name": "NomaDamas/k-skill",
       "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
@@ -197,43 +197,56 @@
       "updated_at": "2026-03-29T16:32:15Z"
     },
     {
-      "id": 1189197045,
-      "name": "ryanstephen/lil-agents",
-      "description": "tiny AI companions that live on your macOS dock",
-      "stars": 628,
-      "language": "Swift",
-      "url": "https://github.com/ryanstephen/lil-agents",
-      "owner": {
-        "login": "ryanstephen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/18016670?v=4"
-      },
-      "updated_at": "2026-03-29T19:02:03Z"
-    },
-    {
       "id": 1193927913,
       "name": "legalize-dev/legalize-es",
       "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
-      "stars": 621,
+      "stars": 639,
       "language": null,
       "url": "https://github.com/legalize-dev/legalize-es",
       "owner": {
         "login": "legalize-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
       },
-      "updated_at": "2026-03-29T19:05:32Z"
+      "updated_at": "2026-03-29T19:40:11Z"
+    },
+    {
+      "id": 1189197045,
+      "name": "ryanstephen/lil-agents",
+      "description": "tiny AI companions that live on your macOS dock",
+      "stars": 627,
+      "language": "Swift",
+      "url": "https://github.com/ryanstephen/lil-agents",
+      "owner": {
+        "login": "ryanstephen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18016670?v=4"
+      },
+      "updated_at": "2026-03-29T19:08:20Z"
     },
     {
       "id": 1194639903,
       "name": "qiuzhi2046/Qclaw",
       "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 571,
+      "stars": 575,
       "language": "TypeScript",
       "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
         "login": "qiuzhi2046",
         "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-29T18:53:46Z"
+      "updated_at": "2026-03-29T19:35:22Z"
+    },
+    {
+      "id": 1191170056,
+      "name": "TheTom/turboquant_plus",
+      "description": null,
+      "stars": 559,
+      "language": "Python",
+      "url": "https://github.com/TheTom/turboquant_plus",
+      "owner": {
+        "login": "TheTom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
+      },
+      "updated_at": "2026-03-29T19:39:20Z"
     },
     {
       "id": 1191408729,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
       },
       "updated_at": "2026-03-29T18:02:18Z"
-    },
-    {
-      "id": 1191170056,
-      "name": "TheTom/turboquant_plus",
-      "description": null,
-      "stars": 558,
-      "language": "Python",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "owner": {
-        "login": "TheTom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
-      },
-      "updated_at": "2026-03-29T19:01:31Z"
     }
   ]
 }
