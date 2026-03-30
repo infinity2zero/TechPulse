@@ -1,135 +1,148 @@
 {
-  "lastUpdated": "2026-03-30T12:03:37.359Z",
+  "lastUpdated": "2026-03-30T13:56:25.591Z",
   "items": [
     {
       "id": 1191372811,
       "name": "larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 4404,
+      "stars": 4476,
       "language": "Go",
       "url": "https://github.com/larksuite/cli",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-30T12:03:26Z"
+      "updated_at": "2026-03-30T13:55:31Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 2680,
+      "stars": 2718,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-30T12:03:29Z"
+      "updated_at": "2026-03-30T13:53:56Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2461,
+      "stars": 2471,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-30T11:46:18Z"
+      "updated_at": "2026-03-30T13:45:34Z"
     },
     {
       "id": 1191904384,
       "name": "elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stars": 2103,
+      "stars": 2125,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-30T12:01:42Z"
+      "updated_at": "2026-03-30T13:51:54Z"
     },
     {
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 1979,
+      "stars": 2001,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-30T12:02:56Z"
+      "updated_at": "2026-03-30T13:49:41Z"
     },
     {
       "id": 1194639903,
       "name": "qiuzhi2046/Qclaw",
       "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 1115,
+      "stars": 1175,
       "language": "TypeScript",
       "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
         "login": "qiuzhi2046",
         "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-30T12:01:35Z"
+      "updated_at": "2026-03-30T13:53:10Z"
     },
     {
       "id": 1190171426,
       "name": "nashsu/opencli-rs",
       "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 1009,
+      "stars": 1010,
       "language": "Rust",
       "url": "https://github.com/nashsu/opencli-rs",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-03-30T11:35:29Z"
+      "updated_at": "2026-03-30T12:04:22Z"
     },
     {
       "id": 1190486204,
       "name": "facebookresearch/tribev2",
       "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
-      "stars": 971,
+      "stars": 985,
       "language": "Jupyter Notebook",
       "url": "https://github.com/facebookresearch/tribev2",
       "owner": {
         "login": "facebookresearch",
         "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-30T12:00:53Z"
+      "updated_at": "2026-03-30T13:56:05Z"
     },
     {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 912,
+      "stars": 916,
       "language": "Python",
       "url": "https://github.com/oaker-io/wewrite",
       "owner": {
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-30T12:00:06Z"
+      "updated_at": "2026-03-30T13:13:47Z"
     },
     {
       "id": 1192168837,
       "name": "jxnxts/mcp-brasil",
       "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 892,
+      "stars": 906,
       "language": "Python",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "owner": {
         "login": "jxnxts",
         "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
       },
-      "updated_at": "2026-03-30T12:00:43Z"
+      "updated_at": "2026-03-30T13:53:01Z"
+    },
+    {
+      "id": 1195133852,
+      "name": "yetone/voice-input-src",
+      "description": null,
+      "stars": 903,
+      "language": null,
+      "url": "https://github.com/yetone/voice-input-src",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "updated_at": "2026-03-30T13:56:11Z"
     },
     {
       "id": 1190195126,
@@ -145,121 +158,108 @@
       "updated_at": "2026-03-30T08:58:54Z"
     },
     {
-      "id": 1195133852,
-      "name": "yetone/voice-input-src",
-      "description": null,
-      "stars": 852,
-      "language": null,
-      "url": "https://github.com/yetone/voice-input-src",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      },
-      "updated_at": "2026-03-30T11:59:45Z"
-    },
-    {
-      "id": 1191650086,
-      "name": "Michaelliv/markit",
-      "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 822,
-      "language": "TypeScript",
-      "url": "https://github.com/Michaelliv/markit",
-      "owner": {
-        "login": "Michaelliv",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
-      },
-      "updated_at": "2026-03-30T11:58:30Z"
-    },
-    {
-      "id": 1193927913,
-      "name": "legalize-dev/legalize-es",
-      "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
-      "stars": 809,
-      "language": null,
-      "url": "https://github.com/legalize-dev/legalize-es",
-      "owner": {
-        "login": "legalize-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
-      },
-      "updated_at": "2026-03-30T11:54:45Z"
-    },
-    {
-      "id": 1190815318,
-      "name": "NomaDamas/k-skill",
-      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "stars": 801,
-      "language": "JavaScript",
-      "url": "https://github.com/NomaDamas/k-skill",
-      "owner": {
-        "login": "NomaDamas",
-        "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
-      },
-      "updated_at": "2026-03-30T12:02:15Z"
-    },
-    {
-      "id": 1190424251,
-      "name": "marswaveai/TypeNo",
-      "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 766,
-      "language": "Swift",
-      "url": "https://github.com/marswaveai/TypeNo",
-      "owner": {
-        "login": "marswaveai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
-      },
-      "updated_at": "2026-03-30T11:49:46Z"
-    },
-    {
-      "id": 1195011586,
-      "name": "WecomTeam/wecom-cli",
-      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 736,
-      "language": "Rust",
-      "url": "https://github.com/WecomTeam/wecom-cli",
-      "owner": {
-        "login": "WecomTeam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
-      },
-      "updated_at": "2026-03-30T12:03:13Z"
-    },
-    {
-      "id": 1193082155,
-      "name": "revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 675,
-      "language": "HTML",
-      "url": "https://github.com/revfactory/harness",
-      "owner": {
-        "login": "revfactory",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
-      },
-      "updated_at": "2026-03-30T11:58:09Z"
-    },
-    {
       "id": 1191170056,
       "name": "TheTom/turboquant_plus",
       "description": null,
-      "stars": 647,
+      "stars": 845,
       "language": "Python",
       "url": "https://github.com/TheTom/turboquant_plus",
       "owner": {
         "login": "TheTom",
         "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
       },
-      "updated_at": "2026-03-30T12:02:45Z"
+      "updated_at": "2026-03-30T13:56:20Z"
+    },
+    {
+      "id": 1191650086,
+      "name": "Michaelliv/markit",
+      "description": "🖍️ Convert anything to markdown. Mark it.",
+      "stars": 830,
+      "language": "TypeScript",
+      "url": "https://github.com/Michaelliv/markit",
+      "owner": {
+        "login": "Michaelliv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+      },
+      "updated_at": "2026-03-30T13:53:52Z"
+    },
+    {
+      "id": 1193927913,
+      "name": "legalize-dev/legalize-es",
+      "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
+      "stars": 817,
+      "language": null,
+      "url": "https://github.com/legalize-dev/legalize-es",
+      "owner": {
+        "login": "legalize-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
+      },
+      "updated_at": "2026-03-30T13:34:56Z"
+    },
+    {
+      "id": 1190815318,
+      "name": "NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
+      "stars": 804,
+      "language": "JavaScript",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "owner": {
+        "login": "NomaDamas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
+      },
+      "updated_at": "2026-03-30T13:41:34Z"
+    },
+    {
+      "id": 1195011586,
+      "name": "WecomTeam/wecom-cli",
+      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+      "stars": 792,
+      "language": "Rust",
+      "url": "https://github.com/WecomTeam/wecom-cli",
+      "owner": {
+        "login": "WecomTeam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
+      },
+      "updated_at": "2026-03-30T13:55:41Z"
+    },
+    {
+      "id": 1190424251,
+      "name": "marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS.",
+      "stars": 767,
+      "language": "Swift",
+      "url": "https://github.com/marswaveai/TypeNo",
+      "owner": {
+        "login": "marswaveai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
+      },
+      "updated_at": "2026-03-30T12:16:41Z"
+    },
+    {
+      "id": 1193082155,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 700,
+      "language": "HTML",
+      "url": "https://github.com/revfactory/harness",
+      "owner": {
+        "login": "revfactory",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+      },
+      "updated_at": "2026-03-30T13:55:13Z"
     },
     {
       "id": 1191408729,
       "name": "tonbistudio/turboquant-pytorch",
       "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "stars": 603,
+      "stars": 605,
       "language": "Python",
       "url": "https://github.com/tonbistudio/turboquant-pytorch",
       "owner": {
         "login": "tonbistudio",
         "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
       },
-      "updated_at": "2026-03-30T11:54:15Z"
+      "updated_at": "2026-03-30T13:40:56Z"
     }
   ]
 }
