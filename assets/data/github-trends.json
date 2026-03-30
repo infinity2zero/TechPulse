@@ -1,174 +1,174 @@
 {
-  "lastUpdated": "2026-03-30T18:03:22.967Z",
+  "lastUpdated": "2026-03-30T19:13:58.998Z",
   "items": [
     {
       "id": 1191372811,
       "name": "larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 4588,
+      "stars": 4597,
       "language": "Go",
       "url": "https://github.com/larksuite/cli",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-30T17:59:15Z"
+      "updated_at": "2026-03-30T19:06:45Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 2794,
+      "stars": 2809,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-30T17:58:40Z"
+      "updated_at": "2026-03-30T19:03:52Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2491,
+      "stars": 2494,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-30T17:53:09Z"
+      "updated_at": "2026-03-30T19:10:57Z"
     },
     {
       "id": 1191904384,
       "name": "elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stars": 2193,
+      "stars": 2208,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-30T18:00:25Z"
+      "updated_at": "2026-03-30T19:13:11Z"
     },
     {
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 2022,
+      "stars": 2029,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-30T17:55:56Z"
+      "updated_at": "2026-03-30T19:12:01Z"
     },
     {
       "id": 1191170056,
       "name": "TheTom/turboquant_plus",
       "description": null,
-      "stars": 1296,
+      "stars": 1370,
       "language": "Python",
       "url": "https://github.com/TheTom/turboquant_plus",
       "owner": {
         "login": "TheTom",
         "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
       },
-      "updated_at": "2026-03-30T18:02:54Z"
+      "updated_at": "2026-03-30T19:13:00Z"
     },
     {
       "id": 1194639903,
       "name": "qiuzhi2046/Qclaw",
       "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 1254,
+      "stars": 1257,
       "language": "TypeScript",
       "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
         "login": "qiuzhi2046",
         "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-30T18:02:27Z"
-    },
-    {
-      "id": 1190171426,
-      "name": "nashsu/opencli-rs",
-      "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 1018,
-      "language": "Rust",
-      "url": "https://github.com/nashsu/opencli-rs",
-      "owner": {
-        "login": "nashsu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
-      },
-      "updated_at": "2026-03-30T16:49:49Z"
+      "updated_at": "2026-03-30T19:05:32Z"
     },
     {
       "id": 1190486204,
       "name": "facebookresearch/tribev2",
       "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
-      "stars": 1016,
+      "stars": 1022,
       "language": "Jupyter Notebook",
       "url": "https://github.com/facebookresearch/tribev2",
       "owner": {
         "login": "facebookresearch",
         "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-30T17:53:56Z"
+      "updated_at": "2026-03-30T18:53:45Z"
+    },
+    {
+      "id": 1190171426,
+      "name": "nashsu/opencli-rs",
+      "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
+      "stars": 1019,
+      "language": "Rust",
+      "url": "https://github.com/nashsu/opencli-rs",
+      "owner": {
+        "login": "nashsu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+      },
+      "updated_at": "2026-03-30T18:47:06Z"
     },
     {
       "id": 1195133852,
       "name": "yetone/voice-input-src",
       "description": null,
-      "stars": 1008,
+      "stars": 1013,
       "language": null,
       "url": "https://github.com/yetone/voice-input-src",
       "owner": {
         "login": "yetone",
         "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
       },
-      "updated_at": "2026-03-30T18:02:26Z"
+      "updated_at": "2026-03-30T19:02:12Z"
     },
     {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 928,
+      "stars": 929,
       "language": "Python",
       "url": "https://github.com/oaker-io/wewrite",
       "owner": {
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-30T17:02:02Z"
+      "updated_at": "2026-03-30T18:30:01Z"
     },
     {
       "id": 1192168837,
       "name": "jxnxts/mcp-brasil",
       "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 920,
+      "stars": 923,
       "language": "Python",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "owner": {
         "login": "jxnxts",
         "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
       },
-      "updated_at": "2026-03-30T17:26:09Z"
+      "updated_at": "2026-03-30T18:51:47Z"
     },
     {
       "id": 1195011586,
       "name": "WecomTeam/wecom-cli",
       "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 896,
+      "stars": 898,
       "language": "Rust",
       "url": "https://github.com/WecomTeam/wecom-cli",
       "owner": {
         "login": "WecomTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
       },
-      "updated_at": "2026-03-30T17:49:55Z"
+      "updated_at": "2026-03-30T18:52:35Z"
     },
     {
       "id": 1190195126,
@@ -187,14 +187,14 @@
       "id": 1191650086,
       "name": "Michaelliv/markit",
       "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 840,
+      "stars": 842,
       "language": "TypeScript",
       "url": "https://github.com/Michaelliv/markit",
       "owner": {
         "login": "Michaelliv",
         "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-30T17:30:43Z"
+      "updated_at": "2026-03-30T19:03:51Z"
     },
     {
       "id": 1193927913,
@@ -213,14 +213,14 @@
       "id": 1190815318,
       "name": "NomaDamas/k-skill",
       "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "stars": 810,
+      "stars": 811,
       "language": "JavaScript",
       "url": "https://github.com/NomaDamas/k-skill",
       "owner": {
         "login": "NomaDamas",
         "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
       },
-      "updated_at": "2026-03-30T16:58:04Z"
+      "updated_at": "2026-03-30T18:42:08Z"
     },
     {
       "id": 1190424251,
@@ -239,27 +239,27 @@
       "id": 1193082155,
       "name": "revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 734,
+      "stars": 737,
       "language": "HTML",
       "url": "https://github.com/revfactory/harness",
       "owner": {
         "login": "revfactory",
         "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
       },
-      "updated_at": "2026-03-30T17:53:40Z"
+      "updated_at": "2026-03-30T18:53:10Z"
     },
     {
       "id": 1193534101,
       "name": "garinasset/leak-check",
       "description": "个人信息 “泄漏” 检测接口",
-      "stars": 639,
+      "stars": 689,
       "language": "Python",
       "url": "https://github.com/garinasset/leak-check",
       "owner": {
         "login": "garinasset",
         "avatar_url": "https://avatars.githubusercontent.com/u/86670875?v=4"
       },
-      "updated_at": "2026-03-30T18:02:19Z"
+      "updated_at": "2026-03-30T19:12:43Z"
     }
   ]
 }
