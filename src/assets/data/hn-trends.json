@@ -1,85 +1,85 @@
 {
-  "lastUpdated": "2026-03-29T23:41:42.042Z",
+  "lastUpdated": "2026-03-30T00:02:36.051Z",
   "items": [
-    {
-      "id": 47566865,
-      "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 269,
-      "by": "alberto-m",
-      "time": 1774815665,
-      "comments": 193,
-      "domain": "buchodi.com"
-    },
     {
       "id": 47567969,
       "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
       "url": "https://github.com/anthropics/claude-code/issues/40710",
-      "score": 42,
+      "score": 82,
       "by": "mthwsjc_",
       "time": 1774822506,
-      "comments": 2,
+      "comments": 10,
       "domain": "github.com"
     },
     {
-      "id": 47568028,
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "score": 66,
-      "by": "rogueleaderr",
-      "time": 1774822894,
-      "comments": 49,
-      "domain": "gjlondon.com"
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 285,
+      "by": "alberto-m",
+      "time": 1774815665,
+      "comments": 212,
+      "domain": "buchodi.com"
     },
     {
       "id": 47566442,
       "title": "The Cognitive Dark Forest",
       "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "score": 183,
+      "score": 189,
       "by": "kaycebasques",
       "time": 1774812981,
-      "comments": 88,
+      "comments": 90,
       "domain": "ryelang.org"
+    },
+    {
+      "id": 47568028,
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "score": 73,
+      "by": "rogueleaderr",
+      "time": 1774822894,
+      "comments": 53,
+      "domain": "gjlondon.com"
     },
     {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 358,
+      "score": 362,
       "by": "speckx",
       "time": 1774800742,
-      "comments": 145,
+      "comments": 148,
       "domain": "techfixated.com"
-    },
-    {
-      "id": 47566653,
-      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
-      "score": 55,
-      "by": "walterbell",
-      "time": 1774814402,
-      "comments": 47,
-      "domain": "isp.netscape.com"
-    },
-    {
-      "id": 47568080,
-      "title": "There is No Spoon. A software engineers primer for demystified ML",
-      "url": "https://github.com/dreddnafious/thereisnospoon",
-      "score": 14,
-      "by": "jmatthews",
-      "time": 1774823291,
-      "comments": 6,
-      "domain": "github.com"
     },
     {
       "id": 47534812,
       "title": "I'll buy your electronics to feed our robot",
       "url": "https://www.dayworkx.com/",
-      "score": 24,
+      "score": 30,
       "by": "skholinn",
       "time": 1774554329,
-      "comments": 5,
+      "comments": 6,
       "domain": "dayworkx.com"
+    },
+    {
+      "id": 47566653,
+      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+      "score": 56,
+      "by": "walterbell",
+      "time": 1774814402,
+      "comments": 48,
+      "domain": "isp.netscape.com"
+    },
+    {
+      "id": 47556290,
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "url": "https://github.com/chenglou/pretext",
+      "score": 172,
+      "by": "emersonmacro",
+      "time": 1774716765,
+      "comments": 25,
+      "domain": "github.com"
     },
     {
       "id": 47565365,
@@ -88,87 +88,107 @@
       "score": 152,
       "by": "pjmlp",
       "time": 1774806372,
-      "comments": 113,
+      "comments": 115,
       "domain": "herbsutter.com"
-    },
-    {
-      "id": 47556290,
-      "title": "Pretext: TypeScript library for multiline text measurement and layout",
-      "url": "https://github.com/chenglou/pretext",
-      "score": 168,
-      "by": "emersonmacro",
-      "time": 1774716765,
-      "comments": 24,
-      "domain": "github.com"
-    },
-    {
-      "id": 47539165,
-      "title": "Ohm's Peg-to-WASM Compiler",
-      "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
-      "score": 29,
-      "by": "azhenley",
-      "time": 1774586467,
-      "comments": 4,
-      "domain": "ohmjs.org"
     },
     {
       "id": 47566960,
       "title": "The road signs that teach travellers about France",
       "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
-      "score": 35,
+      "score": 39,
       "by": "1659447091",
       "time": 1774816202,
-      "comments": 3,
+      "comments": 4,
       "domain": "bbc.com"
+    },
+    {
+      "id": 47539165,
+      "title": "Ohm's Peg-to-WASM Compiler",
+      "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
+      "score": 33,
+      "by": "azhenley",
+      "time": 1774586467,
+      "comments": 5,
+      "domain": "ohmjs.org"
     },
     {
       "id": 47531576,
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "score": 102,
+      "score": 104,
       "by": "thebeardisred",
       "time": 1774538237,
-      "comments": 23,
+      "comments": 26,
       "domain": "riseproject.dev"
+    },
+    {
+      "id": 47565316,
+      "title": "Neovim 0.12.0",
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "score": 276,
+      "by": "pawelgrzybek",
+      "time": 1774805995,
+      "comments": 118,
+      "domain": "github.com"
     },
     {
       "id": 47567049,
       "title": "Show HN: Crazierl – An Erlang Operating System",
       "url": "https://crazierl.org/demo/",
-      "score": 27,
+      "score": 30,
       "by": "toast0",
       "time": 1774816706,
       "comments": 9,
       "domain": "crazierl.org"
     },
     {
-      "id": 47565316,
-      "title": "Neovim 0.12.0",
-      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "score": 269,
-      "by": "pawelgrzybek",
-      "time": 1774805995,
-      "comments": 116,
+      "id": 47568080,
+      "title": "There is No Spoon. A software engineers primer for demystified ML",
+      "url": "https://github.com/dreddnafious/thereisnospoon",
+      "score": 19,
+      "by": "jmatthews",
+      "time": 1774823291,
+      "comments": 7,
       "domain": "github.com"
     },
     {
       "id": 47566140,
       "title": "Kyushu Railway Company Train Varieties",
       "url": "https://www.jrkyushu.co.jp/english/train/index.html",
-      "score": 42,
+      "score": 43,
       "by": "NaOH",
       "time": 1774811287,
-      "comments": 2,
+      "comments": 4,
       "domain": "jrkyushu.co.jp"
     },
     {
       "id": 47563978,
       "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
       "url": "https://github.com/DavidHavoc/ayaFlow",
-      "score": 75,
+      "score": 78,
       "by": "tanelpoder",
       "time": 1774798107,
       "comments": 4,
+      "domain": "github.com"
+    },
+    {
+      "id": 47566332,
+      "title": "More on Version Control",
+      "url": "https://bramcohen.com/p/more-on-version-control",
+      "score": 43,
+      "by": "velmu",
+      "time": 1774812374,
+      "comments": 6,
+      "domain": "bramcohen.com"
+    },
+    {
+      "id": 47558094,
+      "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+      "url": "https://github.com/elixir-volt/quickbeam",
+      "score": 70,
+      "by": "dannote",
+      "time": 1774731803,
+      "comments": 11,
       "domain": "github.com"
     },
     {
@@ -178,8 +198,18 @@
       "score": 40,
       "by": "surprisetalk",
       "time": 1774534114,
-      "comments": 18,
+      "comments": 22,
       "domain": "letter.palladiummag.com"
+    },
+    {
+      "id": 47549586,
+      "title": "About the Atmosphere",
+      "url": "https://toni.org/2026/03/27/about-the-atmosphere/",
+      "score": 5,
+      "by": "Kye",
+      "time": 1774653036,
+      "comments": 0,
+      "domain": "toni.org"
     },
     {
       "id": 47564579,
@@ -192,54 +222,34 @@
       "domain": "righto.com"
     },
     {
-      "id": 47566332,
-      "title": "More on Version Control",
-      "url": "https://bramcohen.com/p/more-on-version-control",
-      "score": 40,
-      "by": "velmu",
-      "time": 1774812374,
-      "comments": 5,
-      "domain": "bramcohen.com"
-    },
-    {
-      "id": 47558094,
-      "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
-      "url": "https://github.com/elixir-volt/quickbeam",
-      "score": 66,
-      "by": "dannote",
-      "time": 1774731803,
-      "comments": 11,
-      "domain": "github.com"
-    },
-    {
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 488,
+      "score": 492,
       "by": "giuliomagnifico",
       "time": 1774777618,
-      "comments": 216,
+      "comments": 222,
       "domain": "news.umich.edu"
     },
     {
       "id": 47565831,
       "title": "Show HN: I made a \"programming language\" looking for feedback",
       "url": "https://github.com/alonsovm44/glupe",
-      "score": 21,
+      "score": 22,
       "by": "alonsovm",
       "time": 1774809358,
       "comments": 22,
       "domain": "github.com"
     },
     {
-      "id": 47542142,
-      "title": "Observations from carbon dioxide monitoring",
-      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
-      "score": 37,
-      "by": "coloneltcb",
-      "time": 1774616191,
-      "comments": 16,
-      "domain": "grieve-smith.com"
+      "id": 47563384,
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "score": 333,
+      "by": "ourmandave",
+      "time": 1774794023,
+      "comments": 133,
+      "domain": "cnn.com"
     },
     {
       "id": 47561819,
@@ -248,48 +258,38 @@
       "score": 275,
       "by": "LucidLynx",
       "time": 1774779012,
-      "comments": 204,
+      "comments": 205,
       "domain": "github.com"
     },
     {
-      "id": 47563384,
-      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "score": 328,
-      "by": "ourmandave",
-      "time": 1774794023,
-      "comments": 131,
-      "domain": "cnn.com"
+      "id": 47542142,
+      "title": "Observations from carbon dioxide monitoring",
+      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
+      "score": 39,
+      "by": "coloneltcb",
+      "time": 1774616191,
+      "comments": 17,
+      "domain": "grieve-smith.com"
     },
     {
       "id": 47564245,
       "title": "Full network of clitoral nerves mapped out for first time",
       "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
-      "score": 211,
+      "score": 220,
       "by": "onei",
       "time": 1774799665,
-      "comments": 73,
+      "comments": 77,
       "domain": "theguardian.com"
     },
     {
       "id": 47566702,
       "title": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank",
       "url": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/",
-      "score": 46,
+      "score": 48,
       "by": "nixass",
       "time": 1774814690,
-      "comments": 15,
+      "comments": 20,
       "domain": "torrentfreak.com"
-    },
-    {
-      "id": 47517306,
-      "title": "The Epistemology of Microphysics",
-      "url": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html",
-      "score": 39,
-      "by": "danielam",
-      "time": 1774446378,
-      "comments": 26,
-      "domain": "edwardfeser.com"
     }
   ]
 }
