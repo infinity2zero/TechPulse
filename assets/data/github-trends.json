@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-03-30T05:38:25.629Z",
+  "lastUpdated": "2026-03-30T07:09:01.535Z",
   "items": [
     {
       "id": 1191372811,
       "name": "larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 3751,
+      "stars": 3986,
       "language": "Go",
       "url": "https://github.com/larksuite/cli",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-30T05:38:23Z"
+      "updated_at": "2026-03-30T07:08:58Z"
     },
     {
       "id": 1190363679,
       "name": "HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 2542,
+      "stars": 2568,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenSpace",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-03-30T05:37:33Z"
+      "updated_at": "2026-03-30T07:01:39Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2440,
+      "stars": 2446,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-30T05:36:22Z"
+      "updated_at": "2026-03-30T07:01:33Z"
     },
     {
       "id": 1191904384,
       "name": "elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stars": 2043,
+      "stars": 2054,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-30T05:34:50Z"
+      "updated_at": "2026-03-30T07:06:23Z"
     },
     {
       "id": 1190778303,
       "name": "alvinunreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 1949,
+      "stars": 1958,
       "language": null,
       "url": "https://github.com/alvinunreal/awesome-opensource-ai",
       "owner": {
         "login": "alvinunreal",
         "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
       },
-      "updated_at": "2026-03-30T04:40:19Z"
+      "updated_at": "2026-03-30T07:04:56Z"
     },
     {
       "id": 1190171426,
       "name": "nashsu/opencli-rs",
       "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 994,
+      "stars": 996,
       "language": "Rust",
       "url": "https://github.com/nashsu/opencli-rs",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-03-30T05:03:48Z"
-    },
-    {
-      "id": 1190486204,
-      "name": "facebookresearch/tribev2",
-      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
-      "stars": 933,
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/facebookresearch/tribev2",
-      "owner": {
-        "login": "facebookresearch",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
-      },
-      "updated_at": "2026-03-30T05:24:18Z"
+      "updated_at": "2026-03-30T06:54:15Z"
     },
     {
       "id": 1194639903,
       "name": "qiuzhi2046/Qclaw",
       "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 893,
+      "stars": 964,
       "language": "TypeScript",
       "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
         "login": "qiuzhi2046",
         "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-30T05:34:53Z"
+      "updated_at": "2026-03-30T07:07:45Z"
     },
     {
-      "id": 1192168837,
-      "name": "jxnxts/mcp-brasil",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 881,
-      "language": "Python",
-      "url": "https://github.com/jxnxts/mcp-brasil",
+      "id": 1190486204,
+      "name": "facebookresearch/tribev2",
+      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
+      "stars": 943,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/facebookresearch/tribev2",
       "owner": {
-        "login": "jxnxts",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
+        "login": "facebookresearch",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
       },
-      "updated_at": "2026-03-30T04:50:53Z"
+      "updated_at": "2026-03-30T07:01:26Z"
     },
     {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 871,
+      "stars": 892,
       "language": "Python",
       "url": "https://github.com/oaker-io/wewrite",
       "owner": {
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-30T05:35:34Z"
+      "updated_at": "2026-03-30T07:02:10Z"
+    },
+    {
+      "id": 1192168837,
+      "name": "jxnxts/mcp-brasil",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "stars": 883,
+      "language": "Python",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "owner": {
+        "login": "jxnxts",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
+      },
+      "updated_at": "2026-03-30T07:00:52Z"
     },
     {
       "id": 1190195126,
       "name": "LimHyungTae/Awesome-PhD-CV",
       "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 856,
+      "stars": 860,
       "language": "TeX",
       "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
       "owner": {
         "login": "LimHyungTae",
         "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
       },
-      "updated_at": "2026-03-30T05:03:45Z"
+      "updated_at": "2026-03-30T06:16:41Z"
     },
     {
       "id": 1191650086,
       "name": "Michaelliv/markit",
       "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 794,
+      "stars": 805,
       "language": "TypeScript",
       "url": "https://github.com/Michaelliv/markit",
       "owner": {
         "login": "Michaelliv",
         "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-30T05:25:36Z"
+      "updated_at": "2026-03-30T07:02:41Z"
     },
     {
       "id": 1190815318,
       "name": "NomaDamas/k-skill",
       "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "stars": 776,
+      "stars": 786,
       "language": "JavaScript",
       "url": "https://github.com/NomaDamas/k-skill",
       "owner": {
         "login": "NomaDamas",
         "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
       },
-      "updated_at": "2026-03-30T05:23:34Z"
+      "updated_at": "2026-03-30T07:06:21Z"
     },
     {
       "id": 1190424251,
       "name": "marswaveai/TypeNo",
       "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 760,
+      "stars": 762,
       "language": "Swift",
       "url": "https://github.com/marswaveai/TypeNo",
       "owner": {
         "login": "marswaveai",
         "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
       },
-      "updated_at": "2026-03-30T05:25:04Z"
+      "updated_at": "2026-03-30T06:33:41Z"
     },
     {
       "id": 1193927913,
       "name": "legalize-dev/legalize-es",
       "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
-      "stars": 733,
+      "stars": 751,
       "language": null,
       "url": "https://github.com/legalize-dev/legalize-es",
       "owner": {
         "login": "legalize-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
       },
-      "updated_at": "2026-03-30T05:24:19Z"
+      "updated_at": "2026-03-30T07:08:11Z"
     },
     {
       "id": 1195133852,
       "name": "yetone/voice-input-src",
       "description": null,
-      "stars": 620,
+      "stars": 694,
       "language": null,
       "url": "https://github.com/yetone/voice-input-src",
       "owner": {
         "login": "yetone",
         "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
       },
-      "updated_at": "2026-03-30T05:37:16Z"
+      "updated_at": "2026-03-30T07:08:26Z"
     },
     {
       "id": 1191170056,
       "name": "TheTom/turboquant_plus",
       "description": null,
-      "stars": 601,
+      "stars": 604,
       "language": "Python",
       "url": "https://github.com/TheTom/turboquant_plus",
       "owner": {
         "login": "TheTom",
         "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
       },
-      "updated_at": "2026-03-30T05:23:12Z"
+      "updated_at": "2026-03-30T07:03:55Z"
     },
     {
       "id": 1191408729,
       "name": "tonbistudio/turboquant-pytorch",
       "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "stars": 583,
+      "stars": 586,
       "language": "Python",
       "url": "https://github.com/tonbistudio/turboquant-pytorch",
       "owner": {
         "login": "tonbistudio",
         "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
       },
-      "updated_at": "2026-03-30T05:30:44Z"
-    },
-    {
-      "id": 1192701172,
-      "name": "glommer/pgmicro",
-      "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine",
-      "stars": 561,
-      "language": "Rust",
-      "url": "https://github.com/glommer/pgmicro",
-      "owner": {
-        "login": "glommer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/331197?v=4"
-      },
-      "updated_at": "2026-03-30T05:14:47Z"
+      "updated_at": "2026-03-30T06:51:42Z"
     },
     {
       "id": 1193082155,
       "name": "revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 553,
+      "stars": 584,
       "language": "HTML",
       "url": "https://github.com/revfactory/harness",
       "owner": {
         "login": "revfactory",
         "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
       },
-      "updated_at": "2026-03-30T05:37:00Z"
+      "updated_at": "2026-03-30T07:06:08Z"
+    },
+    {
+      "id": 1192701172,
+      "name": "glommer/pgmicro",
+      "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine",
+      "stars": 562,
+      "language": "Rust",
+      "url": "https://github.com/glommer/pgmicro",
+      "owner": {
+        "login": "glommer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/331197?v=4"
+      },
+      "updated_at": "2026-03-30T06:57:23Z"
     }
   ]
 }
