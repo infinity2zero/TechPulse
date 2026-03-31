@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-03-31T10:14:44.637Z",
+  "lastUpdated": "2026-03-31T11:11:32.731Z",
   "items": [
-    {
-      "id": 1191372811,
-      "name": "larksuite/cli",
-      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 5230,
-      "language": "Go",
-      "url": "https://github.com/larksuite/cli",
-      "owner": {
-        "login": "larksuite",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
-      },
-      "updated_at": "2026-03-31T10:12:28Z"
-    },
-    {
-      "id": 1196321162,
-      "name": "openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 3920,
-      "language": "JavaScript",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      },
-      "updated_at": "2026-03-31T10:14:36Z"
-    },
-    {
-      "id": 1191170056,
-      "name": "TheTom/turboquant_plus",
-      "description": null,
-      "stars": 2844,
-      "language": "Python",
-      "url": "https://github.com/TheTom/turboquant_plus",
-      "owner": {
-        "login": "TheTom",
-        "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
-      },
-      "updated_at": "2026-03-31T10:14:19Z"
-    },
-    {
-      "id": 1195828337,
-      "name": "titanwings/colleague-skill",
-      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
-      "stars": 2663,
-      "language": "Python",
-      "url": "https://github.com/titanwings/colleague-skill",
-      "owner": {
-        "login": "titanwings",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
-      },
-      "updated_at": "2026-03-31T10:14:38Z"
-    },
-    {
-      "id": 1192662930,
-      "name": "magnum6actual/flipoff",
-      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2530,
-      "language": "JavaScript",
-      "url": "https://github.com/magnum6actual/flipoff",
-      "owner": {
-        "login": "magnum6actual",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
-      },
-      "updated_at": "2026-03-31T10:03:02Z"
-    },
-    {
-      "id": 1191904384,
-      "name": "elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
-      "stars": 2332,
-      "language": "TypeScript",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "owner": {
-        "login": "elder-plinius",
-        "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
-      },
-      "updated_at": "2026-03-31T10:05:51Z"
-    },
     {
       "id": 1197021090,
       "name": "instructkr/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.",
-      "stars": 2074,
+      "description": "Claude Code Snapshot for Research. All original source code is the property of Anthropic.",
+      "stars": 6137,
       "language": "TypeScript",
       "url": "https://github.com/instructkr/claude-code",
       "owner": {
         "login": "instructkr",
         "avatar_url": "https://avatars.githubusercontent.com/u/164172344?v=4"
       },
-      "updated_at": "2026-03-31T10:14:42Z"
+      "updated_at": "2026-03-31T11:11:32Z"
     },
     {
-      "id": 1194639903,
-      "name": "qiuzhi2046/Qclaw",
-      "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 1436,
-      "language": "TypeScript",
-      "url": "https://github.com/qiuzhi2046/Qclaw",
+      "id": 1191372811,
+      "name": "larksuite/cli",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+      "stars": 5251,
+      "language": "Go",
+      "url": "https://github.com/larksuite/cli",
       "owner": {
-        "login": "qiuzhi2046",
-        "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
+        "login": "larksuite",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-31T10:11:43Z"
+      "updated_at": "2026-03-31T11:08:27Z"
     },
     {
-      "id": 1193534101,
-      "name": "garinasset/leak-check",
-      "description": "个人信息 “泄漏” 检测接口",
-      "stars": 1318,
-      "language": "Python",
-      "url": "https://github.com/garinasset/leak-check",
+      "id": 1196321162,
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 4061,
+      "language": "JavaScript",
+      "url": "https://github.com/openai/codex-plugin-cc",
       "owner": {
-        "login": "garinasset",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86670875?v=4"
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
       },
-      "updated_at": "2026-03-31T10:13:33Z"
+      "updated_at": "2026-03-31T11:11:27Z"
     },
     {
-      "id": 1195011586,
-      "name": "WecomTeam/wecom-cli",
-      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 1172,
-      "language": "Rust",
-      "url": "https://github.com/WecomTeam/wecom-cli",
-      "owner": {
-        "login": "WecomTeam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
-      },
-      "updated_at": "2026-03-31T10:10:52Z"
-    },
-    {
-      "id": 1195133852,
-      "name": "yetone/voice-input-src",
+      "id": 1191170056,
+      "name": "TheTom/turboquant_plus",
       "description": null,
-      "stars": 1139,
-      "language": null,
-      "url": "https://github.com/yetone/voice-input-src",
+      "stars": 2966,
+      "language": "Python",
+      "url": "https://github.com/TheTom/turboquant_plus",
       "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+        "login": "TheTom",
+        "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
       },
-      "updated_at": "2026-03-31T09:48:31Z"
+      "updated_at": "2026-03-31T11:11:09Z"
+    },
+    {
+      "id": 1195828337,
+      "name": "titanwings/colleague-skill",
+      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
+      "stars": 2793,
+      "language": "Python",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "owner": {
+        "login": "titanwings",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
+      },
+      "updated_at": "2026-03-31T11:11:15Z"
+    },
+    {
+      "id": 1192662930,
+      "name": "magnum6actual/flipoff",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "stars": 2531,
+      "language": "JavaScript",
+      "url": "https://github.com/magnum6actual/flipoff",
+      "owner": {
+        "login": "magnum6actual",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
+      },
+      "updated_at": "2026-03-31T10:58:09Z"
+    },
+    {
+      "id": 1191904384,
+      "name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "stars": 2339,
+      "language": "TypeScript",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "owner": {
+        "login": "elder-plinius",
+        "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+      },
+      "updated_at": "2026-03-31T11:03:50Z"
     },
     {
       "id": 1196984640,
       "name": "ChinaSiro/claude-code-sourcemap",
       "description": null,
-      "stars": 1075,
+      "stars": 1540,
       "language": "TypeScript",
       "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
       "owner": {
         "login": "ChinaSiro",
         "avatar_url": "https://avatars.githubusercontent.com/u/12388645?v=4"
       },
-      "updated_at": "2026-03-31T10:14:42Z"
+      "updated_at": "2026-03-31T11:11:32Z"
     },
     {
-      "id": 1193082155,
-      "name": "revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 994,
-      "language": "HTML",
-      "url": "https://github.com/revfactory/harness",
+      "id": 1194639903,
+      "name": "qiuzhi2046/Qclaw",
+      "description": "不用命令行，小白也能轻松玩转 OpenClaw",
+      "stars": 1446,
+      "language": "TypeScript",
+      "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
-        "login": "revfactory",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+        "login": "qiuzhi2046",
+        "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-31T10:14:19Z"
+      "updated_at": "2026-03-31T11:11:16Z"
+    },
+    {
+      "id": 1193534101,
+      "name": "garinasset/leak-check",
+      "description": "个人信息 “泄漏” 检测接口",
+      "stars": 1351,
+      "language": "Python",
+      "url": "https://github.com/garinasset/leak-check",
+      "owner": {
+        "login": "garinasset",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86670875?v=4"
+      },
+      "updated_at": "2026-03-31T11:10:24Z"
+    },
+    {
+      "id": 1195011586,
+      "name": "WecomTeam/wecom-cli",
+      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+      "stars": 1180,
+      "language": "Rust",
+      "url": "https://github.com/WecomTeam/wecom-cli",
+      "owner": {
+        "login": "WecomTeam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
+      },
+      "updated_at": "2026-03-31T11:02:18Z"
+    },
+    {
+      "id": 1195133852,
+      "name": "yetone/voice-input-src",
+      "description": null,
+      "stars": 1153,
+      "language": null,
+      "url": "https://github.com/yetone/voice-input-src",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "updated_at": "2026-03-31T11:02:31Z"
     },
     {
       "id": 1196181411,
       "name": "drona23/claude-token-efficient",
       "description": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.",
-      "stars": 969,
+      "stars": 1021,
       "language": null,
       "url": "https://github.com/drona23/claude-token-efficient",
       "owner": {
         "login": "drona23",
         "avatar_url": "https://avatars.githubusercontent.com/u/113818537?v=4"
       },
-      "updated_at": "2026-03-31T10:13:08Z"
+      "updated_at": "2026-03-31T11:10:55Z"
+    },
+    {
+      "id": 1193082155,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 1018,
+      "language": "HTML",
+      "url": "https://github.com/revfactory/harness",
+      "owner": {
+        "login": "revfactory",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+      },
+      "updated_at": "2026-03-31T11:09:15Z"
     },
     {
       "id": 1192745137,
       "name": "oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 967,
+      "stars": 968,
       "language": "Python",
       "url": "https://github.com/oaker-io/wewrite",
       "owner": {
         "login": "oaker-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
       },
-      "updated_at": "2026-03-31T10:01:13Z"
+      "updated_at": "2026-03-31T10:26:50Z"
     },
     {
       "id": 1192168837,
       "name": "jxnxts/mcp-brasil",
       "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 951,
+      "stars": 953,
       "language": "Python",
       "url": "https://github.com/jxnxts/mcp-brasil",
       "owner": {
         "login": "jxnxts",
         "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
       },
-      "updated_at": "2026-03-31T10:05:51Z"
+      "updated_at": "2026-03-31T10:27:48Z"
     },
     {
       "id": 1191650086,
       "name": "Michaelliv/markit",
       "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 902,
+      "stars": 904,
       "language": "TypeScript",
       "url": "https://github.com/Michaelliv/markit",
       "owner": {
         "login": "Michaelliv",
         "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
       },
-      "updated_at": "2026-03-31T10:07:39Z"
+      "updated_at": "2026-03-31T11:08:58Z"
     },
     {
       "id": 1193927913,
       "name": "legalize-dev/legalize-es",
       "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
-      "stars": 852,
+      "stars": 854,
       "language": null,
       "url": "https://github.com/legalize-dev/legalize-es",
       "owner": {
         "login": "legalize-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
       },
-      "updated_at": "2026-03-31T09:02:19Z"
+      "updated_at": "2026-03-31T10:41:25Z"
     },
     {
       "id": 1195208341,
       "name": "walkinglabs/awesome-harness-engineering",
       "description": "🛠️ Awesome tools & guides for harness engineering.",
-      "stars": 796,
+      "stars": 818,
       "language": null,
       "url": "https://github.com/walkinglabs/awesome-harness-engineering",
       "owner": {
         "login": "walkinglabs",
         "avatar_url": "https://avatars.githubusercontent.com/u/271878417?v=4"
       },
-      "updated_at": "2026-03-31T10:12:25Z"
+      "updated_at": "2026-03-31T11:09:27Z"
     },
     {
       "id": 1191408729,
       "name": "tonbistudio/turboquant-pytorch",
       "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "stars": 662,
+      "stars": 664,
       "language": "Python",
       "url": "https://github.com/tonbistudio/turboquant-pytorch",
       "owner": {
         "login": "tonbistudio",
         "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
       },
-      "updated_at": "2026-03-31T10:13:35Z"
+      "updated_at": "2026-03-31T11:02:07Z"
     }
   ]
 }
