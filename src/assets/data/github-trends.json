@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-03-30T23:55:05.899Z",
+  "lastUpdated": "2026-03-31T01:20:25.080Z",
   "items": [
     {
       "id": 1191372811,
       "name": "larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stars": 4615,
+      "stars": 4665,
       "language": "Go",
       "url": "https://github.com/larksuite/cli",
       "owner": {
         "login": "larksuite",
         "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
       },
-      "updated_at": "2026-03-30T23:50:10Z"
-    },
-    {
-      "id": 1190363679,
-      "name": "HKUDS/OpenSpace",
-      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stars": 2859,
-      "language": "Python",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "owner": {
-        "login": "HKUDS",
-        "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
-      },
-      "updated_at": "2026-03-30T23:41:51Z"
+      "updated_at": "2026-03-31T01:20:21Z"
     },
     {
       "id": 1192662930,
       "name": "magnum6actual/flipoff",
       "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-      "stars": 2510,
+      "stars": 2517,
       "language": "JavaScript",
       "url": "https://github.com/magnum6actual/flipoff",
       "owner": {
         "login": "magnum6actual",
         "avatar_url": "https://avatars.githubusercontent.com/u/65552837?v=4"
       },
-      "updated_at": "2026-03-30T23:35:35Z"
+      "updated_at": "2026-03-31T01:17:55Z"
     },
     {
       "id": 1191904384,
       "name": "elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stars": 2242,
+      "stars": 2253,
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "owner": {
         "login": "elder-plinius",
         "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
       },
-      "updated_at": "2026-03-30T23:00:52Z"
-    },
-    {
-      "id": 1190778303,
-      "name": "alvinunreal/awesome-opensource-ai",
-      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stars": 2053,
-      "language": null,
-      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-      "owner": {
-        "login": "alvinunreal",
-        "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-      },
-      "updated_at": "2026-03-30T23:45:19Z"
+      "updated_at": "2026-03-31T01:10:15Z"
     },
     {
       "id": 1191170056,
       "name": "TheTom/turboquant_plus",
       "description": null,
-      "stars": 1707,
+      "stars": 1860,
       "language": "Python",
       "url": "https://github.com/TheTom/turboquant_plus",
       "owner": {
         "login": "TheTom",
         "avatar_url": "https://avatars.githubusercontent.com/u/672332?v=4"
       },
-      "updated_at": "2026-03-30T23:54:57Z"
-    },
-    {
-      "id": 1194639903,
-      "name": "qiuzhi2046/Qclaw",
-      "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 1268,
-      "language": "TypeScript",
-      "url": "https://github.com/qiuzhi2046/Qclaw",
-      "owner": {
-        "login": "qiuzhi2046",
-        "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
-      },
-      "updated_at": "2026-03-30T23:30:04Z"
-    },
-    {
-      "id": 1190486204,
-      "name": "facebookresearch/tribev2",
-      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
-      "stars": 1047,
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/facebookresearch/tribev2",
-      "owner": {
-        "login": "facebookresearch",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
-      },
-      "updated_at": "2026-03-30T23:22:27Z"
-    },
-    {
-      "id": 1195133852,
-      "name": "yetone/voice-input-src",
-      "description": null,
-      "stars": 1028,
-      "language": null,
-      "url": "https://github.com/yetone/voice-input-src",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      },
-      "updated_at": "2026-03-30T23:51:22Z"
-    },
-    {
-      "id": 1190171426,
-      "name": "nashsu/opencli-rs",
-      "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
-      "stars": 1022,
-      "language": "Rust",
-      "url": "https://github.com/nashsu/opencli-rs",
-      "owner": {
-        "login": "nashsu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
-      },
-      "updated_at": "2026-03-30T23:14:25Z"
-    },
-    {
-      "id": 1192168837,
-      "name": "jxnxts/mcp-brasil",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 932,
-      "language": "Python",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "owner": {
-        "login": "jxnxts",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
-      },
-      "updated_at": "2026-03-30T23:50:05Z"
-    },
-    {
-      "id": 1192745137,
-      "name": "oaker-io/wewrite",
-      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stars": 931,
-      "language": "Python",
-      "url": "https://github.com/oaker-io/wewrite",
-      "owner": {
-        "login": "oaker-io",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
-      },
-      "updated_at": "2026-03-30T23:34:00Z"
-    },
-    {
-      "id": 1195011586,
-      "name": "WecomTeam/wecom-cli",
-      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 922,
-      "language": "Rust",
-      "url": "https://github.com/WecomTeam/wecom-cli",
-      "owner": {
-        "login": "WecomTeam",
-        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
-      },
-      "updated_at": "2026-03-30T23:47:52Z"
-    },
-    {
-      "id": 1190195126,
-      "name": "LimHyungTae/Awesome-PhD-CV",
-      "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.",
-      "stars": 870,
-      "language": "TeX",
-      "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
-      "owner": {
-        "login": "LimHyungTae",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35317311?v=4"
-      },
-      "updated_at": "2026-03-30T21:43:00Z"
-    },
-    {
-      "id": 1191650086,
-      "name": "Michaelliv/markit",
-      "description": "🖍️ Convert anything to markdown. Mark it.",
-      "stars": 867,
-      "language": "TypeScript",
-      "url": "https://github.com/Michaelliv/markit",
-      "owner": {
-        "login": "Michaelliv",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
-      },
-      "updated_at": "2026-03-30T23:48:12Z"
-    },
-    {
-      "id": 1193927913,
-      "name": "legalize-dev/legalize-es",
-      "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
-      "stars": 839,
-      "language": null,
-      "url": "https://github.com/legalize-dev/legalize-es",
-      "owner": {
-        "login": "legalize-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
-      },
-      "updated_at": "2026-03-30T22:00:39Z"
+      "updated_at": "2026-03-31T01:19:57Z"
     },
     {
       "id": 1196321162,
       "name": "openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 814,
+      "stars": 1297,
       "language": "JavaScript",
       "url": "https://github.com/openai/codex-plugin-cc",
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
       },
-      "updated_at": "2026-03-30T23:54:39Z"
+      "updated_at": "2026-03-31T01:20:16Z"
     },
     {
-      "id": 1190815318,
-      "name": "NomaDamas/k-skill",
-      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
-      "stars": 812,
-      "language": "JavaScript",
-      "url": "https://github.com/NomaDamas/k-skill",
+      "id": 1194639903,
+      "name": "qiuzhi2046/Qclaw",
+      "description": "不用命令行，小白也能轻松玩转 OpenClaw",
+      "stars": 1285,
+      "language": "TypeScript",
+      "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
-        "login": "NomaDamas",
-        "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
+        "login": "qiuzhi2046",
+        "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-03-30T22:40:32Z"
+      "updated_at": "2026-03-31T01:16:29Z"
+    },
+    {
+      "id": 1195133852,
+      "name": "yetone/voice-input-src",
+      "description": null,
+      "stars": 1040,
+      "language": null,
+      "url": "https://github.com/yetone/voice-input-src",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "updated_at": "2026-03-31T01:11:12Z"
+    },
+    {
+      "id": 1195011586,
+      "name": "WecomTeam/wecom-cli",
+      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+      "stars": 961,
+      "language": "Rust",
+      "url": "https://github.com/WecomTeam/wecom-cli",
+      "owner": {
+        "login": "WecomTeam",
+        "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
+      },
+      "updated_at": "2026-03-31T01:18:57Z"
+    },
+    {
+      "id": 1192168837,
+      "name": "jxnxts/mcp-brasil",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "stars": 940,
+      "language": "Python",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "owner": {
+        "login": "jxnxts",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
+      },
+      "updated_at": "2026-03-31T01:05:47Z"
+    },
+    {
+      "id": 1192745137,
+      "name": "oaker-io/wewrite",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "stars": 934,
+      "language": "Python",
+      "url": "https://github.com/oaker-io/wewrite",
+      "owner": {
+        "login": "oaker-io",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
+      },
+      "updated_at": "2026-03-31T01:11:29Z"
+    },
+    {
+      "id": 1191650086,
+      "name": "Michaelliv/markit",
+      "description": "🖍️ Convert anything to markdown. Mark it.",
+      "stars": 873,
+      "language": "TypeScript",
+      "url": "https://github.com/Michaelliv/markit",
+      "owner": {
+        "login": "Michaelliv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+      },
+      "updated_at": "2026-03-31T01:00:00Z"
     },
     {
       "id": 1193534101,
       "name": "garinasset/leak-check",
       "description": "个人信息 “泄漏” 检测接口",
-      "stars": 786,
+      "stars": 855,
       "language": "Python",
       "url": "https://github.com/garinasset/leak-check",
       "owner": {
         "login": "garinasset",
         "avatar_url": "https://avatars.githubusercontent.com/u/86670875?v=4"
       },
-      "updated_at": "2026-03-30T23:53:38Z"
+      "updated_at": "2026-03-31T01:19:31Z"
     },
     {
-      "id": 1190424251,
-      "name": "marswaveai/TypeNo",
-      "description": "A free, open source, privacy-first voice input app for macOS.",
-      "stars": 770,
-      "language": "Swift",
-      "url": "https://github.com/marswaveai/TypeNo",
+      "id": 1193927913,
+      "name": "legalize-dev/legalize-es",
+      "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
+      "stars": 840,
+      "language": null,
+      "url": "https://github.com/legalize-dev/legalize-es",
       "owner": {
-        "login": "marswaveai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/187894162?v=4"
+        "login": "legalize-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
       },
-      "updated_at": "2026-03-30T23:32:03Z"
+      "updated_at": "2026-03-31T00:27:47Z"
+    },
+    {
+      "id": 1193082155,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 790,
+      "language": "HTML",
+      "url": "https://github.com/revfactory/harness",
+      "owner": {
+        "login": "revfactory",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+      },
+      "updated_at": "2026-03-31T01:12:26Z"
+    },
+    {
+      "id": 1195208341,
+      "name": "walkinglabs/awesome-harness-engineering",
+      "description": "🛠️ Awesome tools & guides for harness engineering.",
+      "stars": 665,
+      "language": null,
+      "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+      "owner": {
+        "login": "walkinglabs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/271878417?v=4"
+      },
+      "updated_at": "2026-03-31T01:20:03Z"
+    },
+    {
+      "id": 1192701172,
+      "name": "glommer/pgmicro",
+      "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine",
+      "stars": 637,
+      "language": "Rust",
+      "url": "https://github.com/glommer/pgmicro",
+      "owner": {
+        "login": "glommer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/331197?v=4"
+      },
+      "updated_at": "2026-03-30T23:01:50Z"
+    },
+    {
+      "id": 1191408729,
+      "name": "tonbistudio/turboquant-pytorch",
+      "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+      "stars": 635,
+      "language": "Python",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch",
+      "owner": {
+        "login": "tonbistudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
+      },
+      "updated_at": "2026-03-31T01:12:48Z"
+    },
+    {
+      "id": 1195828337,
+      "name": "titanwings/colleague-skill",
+      "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类",
+      "stars": 550,
+      "language": "Python",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "owner": {
+        "login": "titanwings",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
+      },
+      "updated_at": "2026-03-31T01:19:24Z"
+    },
+    {
+      "id": 1194166405,
+      "name": "adamlyttleapps/notchy",
+      "description": null,
+      "stars": 537,
+      "language": "Swift",
+      "url": "https://github.com/adamlyttleapps/notchy",
+      "owner": {
+        "login": "adamlyttleapps",
+        "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
+      },
+      "updated_at": "2026-03-31T00:50:09Z"
+    },
+    {
+      "id": 1193618284,
+      "name": "happyboy4ty25/pump-analyzer",
+      "description": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — powered by WebSockets. Built with HTML, CSS & JavaScript.",
+      "stars": 518,
+      "language": null,
+      "url": "https://github.com/happyboy4ty25/pump-analyzer",
+      "owner": {
+        "login": "happyboy4ty25",
+        "avatar_url": "https://avatars.githubusercontent.com/u/267960569?v=4"
+      },
+      "updated_at": "2026-03-29T20:09:23Z"
     }
   ]
 }
