@@ -1,275 +1,275 @@
 {
-  "lastUpdated": "2026-03-31T17:40:46.403Z",
+  "lastUpdated": "2026-03-31T18:36:52.155Z",
   "items": [
+    {
+      "id": 47584540,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1436,
+      "by": "treexs",
+      "time": 1774947640,
+      "comments": 742,
+      "domain": "twitter.com"
+    },
     {
       "id": 47589818,
       "title": "Cohere Transcribe: Speech Recognition",
       "url": "https://cohere.com/blog/transcribe",
-      "score": 46,
+      "score": 82,
       "by": "gmays",
       "time": 1774974422,
-      "comments": 11,
+      "comments": 20,
       "domain": "cohere.com"
     },
     {
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1605,
+      "score": 1663,
       "by": "mtud",
       "time": 1774925657,
-      "comments": 628,
+      "comments": 653,
       "domain": "stepsecurity.io"
+    },
+    {
+      "id": 47586778,
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 37,
+      "by": "alex000kim",
+      "time": 1774962270,
+      "comments": 4,
+      "domain": "alex000kim.com"
     },
     {
       "id": 47586614,
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 166,
+      "score": 192,
       "by": "phkahler",
       "time": 1774961423,
-      "comments": 52,
+      "comments": 57,
       "domain": "solvespace.com"
-    },
-    {
-      "id": 47588349,
-      "title": "GitHub Monaspace Case Study",
-      "url": "https://lettermatic.com/custom/monaspace-case-study",
-      "score": 55,
-      "by": "homebrewer",
-      "time": 1774969295,
-      "comments": 20,
-      "domain": "lettermatic.com"
-    },
-    {
-      "id": 47582482,
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "score": 552,
-      "by": "redundantly",
-      "time": 1774928445,
-      "comments": 274,
-      "domain": "ollama.com"
-    },
-    {
-      "id": 47521813,
-      "title": "A Love Letter to 'Girl Games'",
-      "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-      "score": 81,
-      "by": "zdw",
-      "time": 1774465826,
-      "comments": 58,
-      "domain": "aftermath.site"
     },
     {
       "id": 47541746,
       "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
       "url": "https://github.com/jkool702/forkrun",
-      "score": 18,
+      "score": 37,
       "by": "jkool702",
       "time": 1774613540,
-      "comments": 5,
+      "comments": 7,
       "domain": "github.com"
-    },
-    {
-      "id": 47582043,
-      "title": "Artemis II is not safe to fly",
-      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 734,
-      "by": "idlewords",
-      "time": 1774923830,
-      "comments": 465,
-      "domain": "idlewords.com"
-    },
-    {
-      "id": 47587935,
-      "title": "Oracle slashes 30k jobs",
-      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 584,
-      "by": "pje",
-      "time": 1774967448,
-      "comments": 486,
-      "domain": "rollingout.com"
-    },
-    {
-      "id": 47585974,
-      "title": "Combinators",
-      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
-      "score": 92,
-      "by": "tosh",
-      "time": 1774957743,
-      "comments": 26,
-      "domain": "tinyapl.rubenverg.com"
-    },
-    {
-      "id": 47584540,
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1220,
-      "by": "treexs",
-      "time": 1774947640,
-      "comments": 655,
-      "domain": "twitter.com"
-    },
-    {
-      "id": 47555273,
-      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
-      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-      "score": 141,
-      "by": "lentoutcry",
-      "time": 1774710502,
-      "comments": 86,
-      "domain": "psypost.org"
     },
     {
       "id": 47587953,
       "title": "Good code will still win",
       "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 14,
+      "score": 35,
       "by": "dakshgupta",
       "time": 1774967546,
-      "comments": 18,
+      "comments": 64,
       "domain": "greptile.com"
-    },
-    {
-      "id": 47587631,
-      "title": "RubyGems Fracture Incident Report",
-      "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
-      "score": 42,
-      "by": "schneems",
-      "time": 1774966117,
-      "comments": 4,
-      "domain": "rubycentral.org"
-    },
-    {
-      "id": 47587866,
-      "title": "Microsoft: Copilot is for entertainment purposes only",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-      "score": 193,
-      "by": "lpcvoid",
-      "time": 1774967137,
-      "comments": 67,
-      "domain": "microsoft.com"
-    },
-    {
-      "id": 47589370,
-      "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
-      "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-      "score": 10,
-      "by": "jandrewrogers",
-      "time": 1774972829,
-      "comments": 3,
-      "domain": "quantumai.google"
-    },
-    {
-      "id": 47558733,
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "score": 8,
-      "by": "future-shock-ai",
-      "time": 1774737743,
-      "comments": 0,
-      "domain": "news.future-shock.ai"
     },
     {
       "id": 47583959,
       "title": "Accidentally created my first fork bomb with Claude Code",
       "url": "https://www.droppedasbaby.com/posts/2602-01/",
-      "score": 4,
+      "score": 21,
       "by": "offbyone42",
       "time": 1774942818,
-      "comments": 0,
+      "comments": 1,
       "domain": "droppedasbaby.com"
     },
     {
-      "id": 47586176,
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "score": 143,
-      "by": "samizdis",
-      "time": 1774959089,
-      "comments": 118,
-      "domain": "theregister.com"
+      "id": 47558733,
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "score": 22,
+      "by": "future-shock-ai",
+      "time": 1774737743,
+      "comments": 1,
+      "domain": "news.future-shock.ai"
+    },
+    {
+      "id": 47582482,
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 568,
+      "by": "redundantly",
+      "time": 1774928445,
+      "comments": 289,
+      "domain": "ollama.com"
+    },
+    {
+      "id": 47588349,
+      "title": "GitHub Monaspace Case Study",
+      "url": "https://lettermatic.com/custom/monaspace-case-study",
+      "score": 71,
+      "by": "homebrewer",
+      "time": 1774969295,
+      "comments": 23,
+      "domain": "lettermatic.com"
+    },
+    {
+      "id": 47585974,
+      "title": "Combinators",
+      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+      "score": 106,
+      "by": "tosh",
+      "time": 1774957743,
+      "comments": 30,
+      "domain": "tinyapl.rubenverg.com"
+    },
+    {
+      "id": 47555273,
+      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+      "score": 155,
+      "by": "lentoutcry",
+      "time": 1774710502,
+      "comments": 92,
+      "domain": "psypost.org"
+    },
+    {
+      "id": 47587935,
+      "title": "Oracle slashes 30k jobs",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "score": 658,
+      "by": "pje",
+      "time": 1774967448,
+      "comments": 548,
+      "domain": "rollingout.com"
+    },
+    {
+      "id": 47587631,
+      "title": "RubyGems Fracture Incident Report",
+      "url": "https://rubycentral.org/news/rubygems-fracture-incident-report/",
+      "score": 59,
+      "by": "schneems",
+      "time": 1774966117,
+      "comments": 14,
+      "domain": "rubycentral.org"
+    },
+    {
+      "id": 47589370,
+      "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+      "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+      "score": 17,
+      "by": "jandrewrogers",
+      "time": 1774972829,
+      "comments": 10,
+      "domain": "quantumai.google"
+    },
+    {
+      "id": 47587866,
+      "title": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "score": 241,
+      "by": "lpcvoid",
+      "time": 1774967137,
+      "comments": 93,
+      "domain": "microsoft.com"
+    },
+    {
+      "id": 47537875,
+      "title": "A Primer on Long-Duration Life Support",
+      "url": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
+      "score": 5,
+      "by": "zdw",
+      "time": 1774573249,
+      "comments": 0,
+      "domain": "mceglowski.substack.com"
+    },
+    {
+      "id": 47589567,
+      "title": "Scotty: A beautiful SSH task runner",
+      "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
+      "score": 18,
+      "by": "speckx",
+      "time": 1774973549,
+      "comments": 5,
+      "domain": "freek.dev"
     },
     {
       "id": 47556076,
       "title": "What major works of literature were written after age of 85? 75? 65?",
       "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
-      "score": 81,
+      "score": 93,
       "by": "paulpauper",
       "time": 1774715368,
-      "comments": 52,
+      "comments": 57,
       "domain": "statmodeling.stat.columbia.edu"
+    },
+    {
+      "id": 47586176,
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "score": 180,
+      "by": "samizdis",
+      "time": 1774959089,
+      "comments": 122,
+      "domain": "theregister.com"
+    },
+    {
+      "id": 47591014,
+      "title": "I Decompiled the White House's New App",
+      "url": "https://blog.thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 4,
+      "by": "edvinbesic",
+      "time": 1774979262,
+      "comments": 2,
+      "domain": "blog.thereallo.dev"
     },
     {
       "id": 47555035,
       "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
       "url": "https://loreline.app/en/docs/technical-overview/",
-      "score": 23,
+      "score": 28,
       "by": "jeremyfa",
       "time": 1774708917,
       "comments": 8,
       "domain": "loreline.app"
     },
     {
+      "id": 47521813,
+      "title": "A Love Letter to 'Girl Games'",
+      "url": "https://aftermath.site/a-love-letter-to-girl-games/",
+      "score": 100,
+      "by": "zdw",
+      "time": 1774465826,
+      "comments": 86,
+      "domain": "aftermath.site"
+    },
+    {
       "id": 47536719,
       "title": "Multiple Sclerosis",
       "url": "https://subfictional.com/multiple-sclerosis/",
-      "score": 45,
+      "score": 54,
       "by": "luu",
       "time": 1774564657,
       "comments": 20,
       "domain": "subfictional.com"
     },
     {
-      "id": 47577761,
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 644,
-      "by": "speckx",
-      "time": 1774894560,
-      "comments": 254,
-      "domain": "sambent.com"
-    },
-    {
-      "id": 47589567,
-      "title": "Scotty: A beautiful SSH task runner",
-      "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
-      "score": 10,
-      "by": "speckx",
-      "time": 1774973549,
-      "comments": 1,
-      "domain": "freek.dev"
-    },
-    {
       "id": 47581701,
       "title": "Universal Claude.md – cut Claude output tokens",
       "url": "https://github.com/drona23/claude-token-efficient",
-      "score": 419,
+      "score": 425,
       "by": "killme2008",
       "time": 1774920214,
-      "comments": 150,
+      "comments": 152,
       "domain": "github.com"
     },
     {
-      "id": 47583045,
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "url": "https://github.com/google-research/timesfm",
-      "score": 262,
-      "by": "codepawl",
-      "time": 1774934519,
-      "comments": 97,
-      "domain": "github.com"
-    },
-    {
-      "id": 47580271,
-      "title": "South Polar Times",
-      "url": "https://www.laphamsquarterly.org/roundtable/south-polar-times",
-      "score": 4,
-      "by": "Thevet",
-      "time": 1774908181,
+      "id": 47589732,
+      "title": "Forth VM and compiler written in C++ and Scryer Prolog",
+      "url": "https://github.com/no382001/forth-vm",
+      "score": 7,
+      "by": "triska",
+      "time": 1774974080,
       "comments": 0,
-      "domain": "laphamsquarterly.org"
+      "domain": "github.com"
     }
   ]
 }
