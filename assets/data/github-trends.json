@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-04-01T09:53:30.503Z",
+  "lastUpdated": "2026-04-01T10:43:11.193Z",
   "items": [
     {
       "id": 1197021090,
       "name": "instructkr/claw-code",
       "description": "The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.",
-      "stars": 93108,
+      "stars": 94979,
       "language": "Rust",
       "url": "https://github.com/instructkr/claw-code",
       "owner": {
         "login": "instructkr",
         "avatar_url": "https://avatars.githubusercontent.com/u/164172344?v=4"
       },
-      "updated_at": "2026-04-01T09:53:28Z"
+      "updated_at": "2026-04-01T10:43:10Z"
     },
     {
       "id": 1197029054,
       "name": "sanbuphy/claude-code-source-code",
-      "description": "It will be revised soon.",
-      "stars": 9850,
-      "language": "TypeScript",
+      "description": "Claude Code Study",
+      "stars": 10020,
+      "language": null,
       "url": "https://github.com/sanbuphy/claude-code-source-code",
       "owner": {
         "login": "sanbuphy",
         "avatar_url": "https://avatars.githubusercontent.com/u/96160062?v=4"
       },
-      "updated_at": "2026-04-01T09:53:27Z"
+      "updated_at": "2026-04-01T10:42:57Z"
     },
     {
       "id": 1196984640,
       "name": "ChinaSiro/claude-code-sourcemap",
       "description": null,
-      "stars": 6675,
+      "stars": 6733,
       "language": "TypeScript",
       "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
       "owner": {
         "login": "ChinaSiro",
         "avatar_url": "https://avatars.githubusercontent.com/u/12388645?v=4"
       },
-      "updated_at": "2026-04-01T09:52:51Z"
+      "updated_at": "2026-04-01T10:42:43Z"
     },
     {
       "id": 1196321162,
       "name": "openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 6599,
+      "stars": 6652,
       "language": "JavaScript",
       "url": "https://github.com/openai/codex-plugin-cc",
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
       },
-      "updated_at": "2026-04-01T09:51:26Z"
+      "updated_at": "2026-04-01T10:42:10Z"
     },
     {
       "id": 1197305828,
       "name": "claude-code-best/claude-code",
       "description": "原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
-      "stars": 5581,
+      "stars": 5742,
       "language": "TypeScript",
       "url": "https://github.com/claude-code-best/claude-code",
       "owner": {
         "login": "claude-code-best",
         "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
       },
-      "updated_at": "2026-04-01T09:53:25Z"
+      "updated_at": "2026-04-01T10:42:47Z"
     },
     {
       "id": 1197043989,
       "name": "Kuberwastaken/claurst",
       "description": "Claude Code in Rust & a Breakdown of How it Works",
-      "stars": 5106,
+      "stars": 5186,
       "language": "Rust",
       "url": "https://github.com/Kuberwastaken/claurst",
       "owner": {
         "login": "Kuberwastaken",
         "avatar_url": "https://avatars.githubusercontent.com/u/97027230?v=4"
       },
-      "updated_at": "2026-04-01T09:53:13Z"
+      "updated_at": "2026-04-01T10:43:03Z"
     },
     {
       "id": 1195828337,
       "name": "titanwings/colleague-skill",
       "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
-      "stars": 4320,
+      "stars": 4357,
       "language": "Python",
       "url": "https://github.com/titanwings/colleague-skill",
       "owner": {
         "login": "titanwings",
         "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
       },
-      "updated_at": "2026-04-01T09:52:53Z"
+      "updated_at": "2026-04-01T10:43:08Z"
     },
     {
       "id": 1192662930,
@@ -109,157 +109,157 @@
       "id": 1197160875,
       "name": "tvytlx/ai-agent-deep-dive",
       "description": "Claude Code 源码深度研究报告",
-      "stars": 2065,
+      "stars": 2101,
       "language": null,
       "url": "https://github.com/tvytlx/ai-agent-deep-dive",
       "owner": {
         "login": "tvytlx",
         "avatar_url": "https://avatars.githubusercontent.com/u/7189225?v=4"
       },
-      "updated_at": "2026-04-01T09:52:38Z"
-    },
-    {
-      "id": 1196181411,
-      "name": "drona23/claude-token-efficient",
-      "description": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.",
-      "stars": 1796,
-      "language": null,
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "owner": {
-        "login": "drona23",
-        "avatar_url": "https://avatars.githubusercontent.com/u/113818537?v=4"
-      },
-      "updated_at": "2026-04-01T09:49:51Z"
+      "updated_at": "2026-04-01T10:42:18Z"
     },
     {
       "id": 1197569406,
       "name": "NanmiCoder/claude-code-haha",
       "description": "Claude Code leaked source - locally runnable version",
-      "stars": 1754,
+      "stars": 1815,
       "language": "TypeScript",
       "url": "https://github.com/NanmiCoder/claude-code-haha",
       "owner": {
         "login": "NanmiCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/47178017?v=4"
       },
-      "updated_at": "2026-04-01T09:53:28Z"
+      "updated_at": "2026-04-01T10:42:46Z"
+    },
+    {
+      "id": 1196181411,
+      "name": "drona23/claude-token-efficient",
+      "description": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes.",
+      "stars": 1808,
+      "language": null,
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "owner": {
+        "login": "drona23",
+        "avatar_url": "https://avatars.githubusercontent.com/u/113818537?v=4"
+      },
+      "updated_at": "2026-04-01T10:34:46Z"
     },
     {
       "id": 1193534101,
       "name": "garinasset/leak-check",
       "description": "个人信息 “泄漏” 检测接口",
-      "stars": 1747,
+      "stars": 1750,
       "language": "Python",
       "url": "https://github.com/garinasset/leak-check",
       "owner": {
         "login": "garinasset",
         "avatar_url": "https://avatars.githubusercontent.com/u/86670875?v=4"
       },
-      "updated_at": "2026-04-01T09:49:14Z"
+      "updated_at": "2026-04-01T10:34:43Z"
     },
     {
       "id": 1197172145,
       "name": "oboard/claude-code-rev",
       "description": "Runnable ClaudeCode source code",
-      "stars": 1707,
+      "stars": 1729,
       "language": "TypeScript",
       "url": "https://github.com/oboard/claude-code-rev",
       "owner": {
         "login": "oboard",
         "avatar_url": "https://avatars.githubusercontent.com/u/23210180?v=4"
       },
-      "updated_at": "2026-04-01T09:52:54Z"
+      "updated_at": "2026-04-01T10:42:44Z"
     },
     {
       "id": 1197038350,
       "name": "chatgptprojects/clear-code",
       "description": "https://x.com/paidev",
-      "stars": 1642,
+      "stars": 1646,
       "language": null,
       "url": "https://github.com/chatgptprojects/clear-code",
       "owner": {
         "login": "chatgptprojects",
         "avatar_url": "https://avatars.githubusercontent.com/u/128327588?v=4"
       },
-      "updated_at": "2026-04-01T09:52:12Z"
+      "updated_at": "2026-04-01T10:42:44Z"
     },
     {
       "id": 1197357033,
-      "name": "shipany-ai/open-agent-sdk",
+      "name": "codeany-ai/open-agent-sdk-typescript",
       "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source",
-      "stars": 1620,
+      "stars": 1641,
       "language": "TypeScript",
-      "url": "https://github.com/shipany-ai/open-agent-sdk",
+      "url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
       "owner": {
-        "login": "shipany-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/272423100?v=4"
+        "login": "codeany-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/272702216?v=4"
       },
-      "updated_at": "2026-04-01T09:52:23Z"
+      "updated_at": "2026-04-01T10:40:56Z"
     },
     {
       "id": 1194639903,
       "name": "qiuzhi2046/Qclaw",
       "description": "不用命令行，小白也能轻松玩转 OpenClaw",
-      "stars": 1612,
+      "stars": 1614,
       "language": "TypeScript",
       "url": "https://github.com/qiuzhi2046/Qclaw",
       "owner": {
         "login": "qiuzhi2046",
         "avatar_url": "https://avatars.githubusercontent.com/u/193497885?v=4"
       },
-      "updated_at": "2026-04-01T09:50:09Z"
+      "updated_at": "2026-04-01T10:37:40Z"
     },
     {
       "id": 1197183235,
       "name": "Leonxlnx/claude-code-system-prompts",
       "description": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification",
-      "stars": 1504,
+      "stars": 1531,
       "language": null,
       "url": "https://github.com/Leonxlnx/claude-code-system-prompts",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-04-01T09:53:13Z"
+      "updated_at": "2026-04-01T10:41:15Z"
     },
     {
       "id": 1195011586,
       "name": "WecomTeam/wecom-cli",
       "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 1334,
+      "stars": 1340,
       "language": "Rust",
       "url": "https://github.com/WecomTeam/wecom-cli",
       "owner": {
         "login": "WecomTeam",
         "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
       },
-      "updated_at": "2026-04-01T09:37:11Z"
+      "updated_at": "2026-04-01T10:41:57Z"
     },
     {
       "id": 1193082155,
       "name": "revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 1324,
+      "stars": 1333,
       "language": "HTML",
       "url": "https://github.com/revfactory/harness",
       "owner": {
         "login": "revfactory",
         "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
       },
-      "updated_at": "2026-04-01T09:23:43Z"
+      "updated_at": "2026-04-01T10:39:35Z"
     },
     {
       "id": 1195133852,
       "name": "yetone/voice-input-src",
       "description": null,
-      "stars": 1297,
+      "stars": 1305,
       "language": null,
       "url": "https://github.com/yetone/voice-input-src",
       "owner": {
         "login": "yetone",
         "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
       },
-      "updated_at": "2026-04-01T09:52:00Z"
+      "updated_at": "2026-04-01T10:41:40Z"
     }
   ]
 }
