@@ -1,91 +1,91 @@
 {
-  "lastUpdated": "2026-04-02T22:45:28.762Z",
+  "lastUpdated": "2026-04-02T23:17:31.250Z",
   "items": [
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 959,
+      "score": 996,
       "by": "jeffmcjunkin",
       "time": 1775146254,
-      "comments": 298,
+      "comments": 313,
       "domain": "deepmind.google"
     },
     {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 238,
+      "score": 258,
       "by": "tosh",
       "time": 1775154123,
-      "comments": 115,
+      "comments": 118,
       "domain": "tailscale.com"
     },
     {
       "id": 47618084,
       "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
-      "score": 221,
+      "score": 239,
       "by": "adamfeldman",
       "time": 1775153621,
-      "comments": 184,
+      "comments": 199,
       "domain": "cursor.com"
     },
     {
       "id": 47609356,
       "title": "Artemis II's toilet is a moon mission milestone",
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 67,
+      "score": 85,
       "by": "1659447091",
       "time": 1775097432,
-      "comments": 22,
+      "comments": 24,
       "domain": "scientificamerican.com"
+    },
+    {
+      "id": 47616242,
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "score": 158,
+      "by": "axelriet",
+      "time": 1775145627,
+      "comments": 38,
+      "domain": "isolveproblems.substack.com"
+    },
+    {
+      "id": 47615002,
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 396,
+      "by": "pretext",
+      "time": 1775140132,
+      "comments": 138,
+      "domain": "qwen.ai"
+    },
+    {
+      "id": 47617415,
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "score": 117,
+      "by": "sedev",
+      "time": 1775150943,
+      "comments": 51,
+      "domain": "blog.danieldavies.com"
     },
     {
       "id": 47618176,
       "title": "George Goble has died",
       "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "score": 84,
+      "score": 90,
       "by": "finaard",
       "time": 1775154068,
       "comments": 18,
       "domain": "legacy.com"
     },
     {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 391,
-      "by": "pretext",
-      "time": 1775140132,
-      "comments": 135,
-      "domain": "qwen.ai"
-    },
-    {
-      "id": 47616242,
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 131,
-      "by": "axelriet",
-      "time": 1775145627,
-      "comments": 28,
-      "domain": "isolveproblems.substack.com"
-    },
-    {
-      "id": 47617415,
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "score": 109,
-      "by": "sedev",
-      "time": 1775150943,
-      "comments": 43,
-      "domain": "blog.danieldavies.com"
-    },
-    {
       "id": 47612724,
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai",
-      "score": 402,
+      "score": 411,
       "by": "AbuAssar",
       "time": 1775127891,
       "comments": 94,
@@ -95,31 +95,51 @@
       "id": 47618221,
       "title": "The Australian government has announced gambling advertising reforms",
       "url": "https://www.bbc.com/news/articles/c62492e925lo",
-      "score": 49,
+      "score": 57,
       "by": "gostsamo",
       "time": 1775154252,
-      "comments": 31,
+      "comments": 40,
       "domain": "bbc.com"
     },
     {
       "id": 47613981,
       "title": "LinkedIn is searching your browser extensions",
       "url": "https://browsergate.eu/",
-      "score": 1496,
+      "score": 1511,
       "by": "digitalWestie",
       "time": 1775135349,
-      "comments": 660,
+      "comments": 670,
       "domain": "browsergate.eu"
     },
     {
       "id": 47572288,
       "title": "JSON Canvas Spec (2024)",
       "url": "https://jsoncanvas.org/spec/1.0/",
-      "score": 76,
+      "score": 77,
       "by": "tobr",
       "time": 1774863518,
       "comments": 28,
       "domain": "jsoncanvas.org"
+    },
+    {
+      "id": 47592614,
+      "title": "Prefer do notation over Applicative operators when assembling records (2024)",
+      "url": "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative",
+      "score": 10,
+      "by": "wazHFsRy",
+      "time": 1774987025,
+      "comments": 0,
+      "domain": "haskellforall.com"
+    },
+    {
+      "id": 47617376,
+      "title": "OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "score": 127,
+      "by": "surprisetalk",
+      "time": 1775150809,
+      "comments": 108,
+      "domain": "openai.com"
     },
     {
       "id": 47562762,
@@ -132,164 +152,144 @@
       "domain": "readonlymemo.com"
     },
     {
-      "id": 47592614,
-      "title": "Prefer do notation over Applicative operators when assembling records (2024)",
-      "url": "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative",
-      "score": 7,
-      "by": "wazHFsRy",
-      "time": 1774987025,
-      "comments": 0,
-      "domain": "haskellforall.com"
-    },
-    {
-      "id": 47617376,
-      "title": "OpenAI Acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn/",
-      "score": 116,
-      "by": "surprisetalk",
-      "time": 1775150809,
-      "comments": 97,
-      "domain": "openai.com"
-    },
-    {
-      "id": 47620933,
-      "title": "Memo: A language that remembers only the last 12 lines of code",
-      "url": "https://danieltemkin.com/Esolangs/Memo/",
-      "score": 4,
-      "by": "notem",
-      "time": 1775168484,
-      "comments": 0,
-      "domain": "danieltemkin.com"
-    },
-    {
-      "id": 47613078,
-      "title": "Inside Nepal's Fake Rescue Racket",
-      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "score": 239,
-      "by": "lode",
-      "time": 1775130041,
-      "comments": 106,
-      "domain": "kathmandupost.com"
-    },
-    {
       "id": 47611921,
-      "title": "Significant Raise of Reports",
+      "title": "Significant raise of reports",
       "url": "https://lwn.net/Articles/1065620/",
-      "score": 264,
+      "score": 267,
       "by": "stratos123",
       "time": 1775121258,
       "comments": 143,
       "domain": "lwn.net"
     },
     {
-      "id": 47575557,
-      "title": "Magic the Gathering Deck Shuffler",
-      "url": "https://mtg.jessitron.honeydemo.io/",
-      "score": 26,
-      "by": "mooreds",
-      "time": 1774884525,
-      "comments": 15,
-      "domain": "mtg.jessitron.honeydemo.io"
-    },
-    {
-      "id": 47615490,
-      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
-      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
-      "score": 261,
-      "by": "mooreds",
-      "time": 1775142525,
-      "comments": 206,
-      "domain": "bsky.app"
-    },
-    {
-      "id": 47611721,
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 256,
-      "by": "bonzini",
-      "time": 1775119724,
-      "comments": 166,
-      "domain": "newsroom.ibm.com"
+      "id": 47613078,
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "score": 241,
+      "by": "lode",
+      "time": 1775130041,
+      "comments": 112,
+      "domain": "kathmandupost.com"
     },
     {
       "id": 47574851,
       "title": "Foxing aspires to be an eBPF-powered replication engine for Linux filesystems",
       "url": "https://codeberg.org/aenertia/foxing",
-      "score": 25,
+      "score": 29,
       "by": "tanelpoder",
       "time": 1774881048,
       "comments": 4,
       "domain": "codeberg.org"
     },
     {
+      "id": 47615490,
+      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "score": 269,
+      "by": "mooreds",
+      "time": 1775142525,
+      "comments": 212,
+      "domain": "bsky.app"
+    },
+    {
+      "id": 47611721,
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "score": 258,
+      "by": "bonzini",
+      "time": 1775119724,
+      "comments": 167,
+      "domain": "newsroom.ibm.com"
+    },
+    {
+      "id": 47575557,
+      "title": "Magic the Gathering Deck Shuffler",
+      "url": "https://mtg.jessitron.honeydemo.io/",
+      "score": 27,
+      "by": "mooreds",
+      "time": 1774884525,
+      "comments": 15,
+      "domain": "mtg.jessitron.honeydemo.io"
+    },
+    {
       "id": 47614100,
       "title": "'Backrooms' and the Rise of the Institutional Gothic",
       "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
-      "score": 157,
+      "score": 159,
       "by": "anarbadalov",
       "time": 1775135885,
       "comments": 71,
       "domain": "thereader.mitpress.mit.edu"
     },
     {
+      "id": 47620933,
+      "title": "Memo: A language that remembers only the last 12 lines of code",
+      "url": "https://danieltemkin.com/Esolangs/Memo/",
+      "score": 5,
+      "by": "notem",
+      "time": 1775168484,
+      "comments": 0,
+      "domain": "danieltemkin.com"
+    },
+    {
+      "id": 47621048,
+      "title": "Why Doesn't Anybody Realize We're Going Back to the Moon?",
+      "url": "https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/",
+      "score": 16,
+      "by": "paulpauper",
+      "time": 1775169149,
+      "comments": 6,
+      "domain": "theatlantic.com"
+    },
+    {
       "id": 47618581,
       "title": "Amazon is adding a fuel surcharge to fees it collects from third-party sellers",
       "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
-      "score": 113,
+      "score": 120,
       "by": "lehi",
       "time": 1775155778,
-      "comments": 49,
+      "comments": 61,
       "domain": "cnbc.com"
     },
     {
       "id": 47615844,
       "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
       "url": "https://github.com/Realman78/Kiyeovo/",
-      "score": 23,
+      "score": 25,
       "by": "Realman78",
       "time": 1775143965,
-      "comments": 6,
+      "comments": 11,
       "domain": "github.com"
     },
     {
       "id": 47612601,
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 703,
+      "score": 711,
       "by": "novaRom",
       "time": 1775127000,
-      "comments": 371,
+      "comments": 374,
       "domain": "undark.org"
     },
     {
       "id": 47618120,
       "title": "Hugo's New CSS Powers",
       "url": "https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/",
-      "score": 32,
+      "score": 33,
       "by": "speckx",
       "time": 1775153817,
-      "comments": 7,
+      "comments": 8,
       "domain": "brycewray.com"
     },
     {
       "id": 47615449,
       "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
       "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
-      "score": 305,
+      "score": 309,
       "by": "speckx",
       "time": 1775142284,
-      "comments": 135,
+      "comments": 136,
       "domain": "tomshardware.com"
-    },
-    {
-      "id": 47615756,
-      "title": "Renewables reached nearly 50% of global electricity capacity last year",
-      "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
-      "score": 233,
-      "by": "Growtika",
-      "time": 1775143578,
-      "comments": 113,
-      "domain": "theregister.com"
     }
   ]
 }
