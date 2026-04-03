@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-04-03T22:18:47.451Z",
+  "lastUpdated": "2026-04-03T22:55:51.951Z",
   "items": [
     {
       "id": 1197021090,
       "name": "ultraworkers/claw-code",
       "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
-      "stars": 161810,
+      "stars": 161926,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code",
       "owner": {
         "login": "ultraworkers",
         "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
       },
-      "updated_at": "2026-04-03T22:18:34Z"
+      "updated_at": "2026-04-03T22:54:57Z"
     },
     {
       "id": 1197305828,
       "name": "claude-code-best/claude-code",
       "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
-      "stars": 12975,
+      "stars": 12981,
       "language": "TypeScript",
       "url": "https://github.com/claude-code-best/claude-code",
       "owner": {
         "login": "claude-code-best",
         "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
       },
-      "updated_at": "2026-04-03T22:08:36Z"
-    },
-    {
-      "id": 1196321162,
-      "name": "openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 11266,
-      "language": "JavaScript",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "owner": {
-        "login": "openai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
-      },
-      "updated_at": "2026-04-03T22:11:56Z"
-    },
-    {
-      "id": 1197029054,
-      "name": "sanbuphy/learn-coding-agent",
-      "description": "Research on Coding Agents",
-      "stars": 11173,
-      "language": null,
-      "url": "https://github.com/sanbuphy/learn-coding-agent",
-      "owner": {
-        "login": "sanbuphy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/96160062?v=4"
-      },
-      "updated_at": "2026-04-03T22:07:09Z"
+      "updated_at": "2026-04-03T22:55:13Z"
     },
     {
       "id": 1197990888,
       "name": "Gitlawb/openclaude",
       "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-      "stars": 11155,
+      "stars": 11288,
       "language": "TypeScript",
       "url": "https://github.com/Gitlawb/openclaude",
       "owner": {
         "login": "Gitlawb",
         "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
       },
-      "updated_at": "2026-04-03T22:18:38Z"
+      "updated_at": "2026-04-03T22:55:50Z"
+    },
+    {
+      "id": 1196321162,
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 11272,
+      "language": "JavaScript",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "owner": {
+        "login": "openai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+      },
+      "updated_at": "2026-04-03T22:49:54Z"
+    },
+    {
+      "id": 1197029054,
+      "name": "sanbuphy/learn-coding-agent",
+      "description": "Research on Coding Agents",
+      "stars": 11176,
+      "language": null,
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "owner": {
+        "login": "sanbuphy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96160062?v=4"
+      },
+      "updated_at": "2026-04-03T22:42:10Z"
     },
     {
       "id": 1196984640,
@@ -83,53 +83,53 @@
       "id": 1197043989,
       "name": "Kuberwastaken/claurst",
       "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
-      "stars": 7760,
+      "stars": 7767,
       "language": "Rust",
       "url": "https://github.com/Kuberwastaken/claurst",
       "owner": {
         "login": "Kuberwastaken",
         "avatar_url": "https://avatars.githubusercontent.com/u/97027230?v=4"
       },
-      "updated_at": "2026-04-03T22:17:48Z"
+      "updated_at": "2026-04-03T22:55:05Z"
     },
     {
       "id": 1195828337,
       "name": "titanwings/colleague-skill",
       "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
-      "stars": 6452,
+      "stars": 6454,
       "language": "Python",
       "url": "https://github.com/titanwings/colleague-skill",
       "owner": {
         "login": "titanwings",
         "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
       },
-      "updated_at": "2026-04-03T22:04:46Z"
+      "updated_at": "2026-04-03T22:43:36Z"
     },
     {
       "id": 1198246700,
       "name": "emdash-cms/emdash",
       "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
-      "stars": 5997,
+      "stars": 6029,
       "language": "TypeScript",
       "url": "https://github.com/emdash-cms/emdash",
       "owner": {
         "login": "emdash-cms",
         "avatar_url": "https://avatars.githubusercontent.com/u/272658707?v=4"
       },
-      "updated_at": "2026-04-03T22:18:41Z"
+      "updated_at": "2026-04-03T22:52:24Z"
     },
     {
       "id": 1199177582,
       "name": "ultraworkers/claw-code-parity",
       "description": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
-      "stars": 5000,
+      "stars": 5029,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code-parity",
       "owner": {
         "login": "ultraworkers",
         "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
       },
-      "updated_at": "2026-04-03T22:16:53Z"
+      "updated_at": "2026-04-03T22:55:20Z"
     },
     {
       "id": 1197160875,
@@ -148,79 +148,79 @@
       "id": 1197515131,
       "name": "VoltAgent/awesome-design-md",
       "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
-      "stars": 4582,
+      "stars": 4607,
       "language": "HTML",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-04-03T22:18:33Z"
+      "updated_at": "2026-04-03T22:54:22Z"
     },
     {
       "id": 1197569406,
       "name": "NanmiCoder/cc-haha",
       "description": "Claude Code 泄露源码 - 本地可运行版本",
-      "stars": 4495,
+      "stars": 4504,
       "language": "TypeScript",
       "url": "https://github.com/NanmiCoder/cc-haha",
       "owner": {
         "login": "NanmiCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/47178017?v=4"
       },
-      "updated_at": "2026-04-03T22:08:04Z"
+      "updated_at": "2026-04-03T22:49:53Z"
     },
     {
       "id": 1197656406,
       "name": "JackChen-me/open-multi-agent",
       "description": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
-      "stars": 3091,
+      "stars": 3117,
       "language": "TypeScript",
       "url": "https://github.com/JackChen-me/open-multi-agent",
       "owner": {
         "login": "JackChen-me",
         "avatar_url": "https://avatars.githubusercontent.com/u/26346076?v=4"
       },
-      "updated_at": "2026-04-03T22:18:02Z"
+      "updated_at": "2026-04-03T22:54:38Z"
     },
     {
       "id": 1196181411,
       "name": "drona23/claude-token-efficient",
       "description": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.",
-      "stars": 2964,
+      "stars": 2967,
       "language": null,
       "url": "https://github.com/drona23/claude-token-efficient",
       "owner": {
         "login": "drona23",
         "avatar_url": "https://avatars.githubusercontent.com/u/113818537?v=4"
       },
-      "updated_at": "2026-04-03T22:08:18Z"
+      "updated_at": "2026-04-03T22:45:44Z"
     },
     {
       "id": 1197172145,
       "name": "oboard/claude-code-rev",
       "description": "Runnable ClaudeCode source code",
-      "stars": 2654,
+      "stars": 2655,
       "language": "TypeScript",
       "url": "https://github.com/oboard/claude-code-rev",
       "owner": {
         "login": "oboard",
         "avatar_url": "https://avatars.githubusercontent.com/u/23210180?v=4"
       },
-      "updated_at": "2026-04-03T20:52:54Z"
+      "updated_at": "2026-04-03T22:50:58Z"
     },
     {
       "id": 1197357033,
       "name": "codeany-ai/open-agent-sdk-typescript",
       "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source",
-      "stars": 2272,
+      "stars": 2273,
       "language": "TypeScript",
       "url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
       "owner": {
         "login": "codeany-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/272702216?v=4"
       },
-      "updated_at": "2026-04-03T21:14:05Z"
+      "updated_at": "2026-04-03T22:52:33Z"
     },
     {
       "id": 1197782606,
@@ -239,27 +239,27 @@
       "id": 1198616956,
       "name": "HKUDS/OpenHarness",
       "description": "\"OpenHarness: Open Agent Harness\"",
-      "stars": 1990,
+      "stars": 2002,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenHarness",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-04-03T22:15:30Z"
+      "updated_at": "2026-04-03T22:55:34Z"
     },
     {
       "id": 1197183235,
       "name": "Leonxlnx/agentic-ai-prompt-research",
       "description": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification",
-      "stars": 1978,
+      "stars": 1981,
       "language": null,
       "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
       "owner": {
         "login": "Leonxlnx",
         "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
       },
-      "updated_at": "2026-04-03T22:18:43Z"
+      "updated_at": "2026-04-03T22:53:40Z"
     }
   ]
 }
