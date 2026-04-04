@@ -1,151 +1,141 @@
 {
-  "lastUpdated": "2026-04-04T19:39:33.431Z",
+  "lastUpdated": "2026-04-04T19:58:01.203Z",
   "items": [
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 228,
+      "score": 248,
       "by": "Jaso1024",
       "time": 1775321154,
-      "comments": 71,
+      "comments": 88,
       "domain": "jaso1024.com"
     },
     {
       "id": 47637757,
-      "title": "Simple self-distillation improves code generation",
+      "title": "Embarrassingly simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 409,
+      "score": 424,
       "by": "Anon84",
       "time": 1775298381,
-      "comments": 122,
+      "comments": 128,
       "domain": "arxiv.org"
+    },
+    {
+      "id": 47641615,
+      "title": "Sopwith",
+      "url": "http://www.sopwith.org/",
+      "score": 30,
+      "by": "elvis70",
+      "time": 1775325984,
+      "comments": 12,
+      "domain": "sopwith.org"
     },
     {
       "id": 47639567,
       "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
       "url": "https://github.com/teamchong/turboquant-wasm",
-      "score": 78,
+      "score": 84,
       "by": "teamchong",
       "time": 1775314396,
       "comments": 4,
       "domain": "github.com"
     },
     {
-      "id": 47641615,
-      "title": "Sopwith",
-      "url": "http://www.sopwith.org/",
-      "score": 18,
-      "by": "elvis70",
-      "time": 1775325984,
-      "comments": 5,
-      "domain": "sopwith.org"
+      "id": 47639779,
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "score": 65,
+      "by": "jrandolf",
+      "time": 1775315938,
+      "comments": 38,
+      "domain": "sllm.cloud"
     },
     {
       "id": 47640380,
       "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
       "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "score": 168,
+      "score": 188,
       "by": "naves",
       "time": 1775319370,
-      "comments": 72,
+      "comments": 84,
       "domain": "theverge.com"
+    },
+    {
+      "id": 47639524,
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 517,
+      "by": "macleginn",
+      "time": 1775314106,
+      "comments": 353,
+      "domain": "thetimes.com"
     },
     {
       "id": 47641464,
       "title": "Scientists observe an immune signaling complex forming inside cells",
       "url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research",
-      "score": 56,
+      "score": 59,
       "by": "ohjeez",
       "time": 1775325175,
       "comments": 5,
       "domain": "news.stanford.edu"
     },
     {
-      "id": 47639779,
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "score": 59,
-      "by": "jrandolf",
-      "time": 1775315938,
-      "comments": 37,
-      "domain": "sllm.cloud"
-    },
-    {
-      "id": 47639524,
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 494,
-      "by": "macleginn",
-      "time": 1775314106,
-      "comments": 339,
-      "domain": "thetimes.com"
-    },
-    {
       "id": 47637287,
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 199,
+      "score": 205,
       "by": "simplegeek",
       "time": 1775293459,
       "comments": 54,
       "domain": "thoughts.wyounas.com"
     },
     {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 980,
-      "by": "andsoitis",
-      "time": 1775244902,
-      "comments": 333,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 47610191,
-      "title": "I rebuilt the same project after 15 years – what changed in web dev",
-      "url": "https://bamwor.com/en/news/rebuilt-same-project-after-15-years",
-      "score": 11,
-      "by": "manudaro",
-      "time": 1775106372,
-      "comments": 3,
-      "domain": "bamwor.com"
-    },
-    {
       "id": 47641255,
       "title": "Plague Ships",
       "url": "https://www.afloat.com.au/feature/plague-ships/",
-      "score": 9,
+      "score": 14,
       "by": "bryanrasmussen",
       "time": 1775324001,
       "comments": 1,
       "domain": "afloat.com.au"
     },
     {
+      "id": 47631118,
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 984,
+      "by": "andsoitis",
+      "time": 1775244902,
+      "comments": 340,
+      "domain": "bbc.com"
+    },
+    {
       "id": 47638810,
       "title": "Components of a Coding Agent",
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "score": 82,
+      "score": 87,
       "by": "MindGods",
       "time": 1775308593,
-      "comments": 31,
+      "comments": 33,
       "domain": "magazine.sebastianraschka.com"
     },
     {
       "id": 47636435,
       "title": "Emotion concepts and their function in a large language model",
       "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "score": 76,
+      "score": 80,
       "by": "dnw",
       "time": 1775284225,
-      "comments": 72,
+      "comments": 74,
       "domain": "anthropic.com"
     },
     {
       "id": 47638075,
       "title": "The CMS is dead, long live the CMS",
       "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "score": 76,
+      "score": 80,
       "by": "taubek",
       "time": 1775301870,
       "comments": 61,
@@ -155,61 +145,101 @@
       "id": 47639291,
       "title": "The Indie Internet Index – submit your favorite sites",
       "url": "https://iii.social",
-      "score": 28,
+      "score": 31,
       "by": "freshman_dev",
       "time": 1775312286,
-      "comments": 4,
+      "comments": 5,
       "domain": "iii.social"
     },
     {
       "id": 47604887,
       "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
       "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-      "score": 28,
+      "score": 31,
       "by": "toomuchtodo",
       "time": 1775069268,
-      "comments": 16,
+      "comments": 18,
       "domain": "bloomberg.com"
     },
     {
       "id": 47601194,
       "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
       "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-      "score": 116,
+      "score": 117,
       "by": "dbreunig",
       "time": 1775052814,
-      "comments": 47,
+      "comments": 48,
       "domain": "dbreunig.com"
     },
     {
       "id": 47633855,
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
       "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "score": 279,
+      "score": 286,
       "by": "eichin",
       "time": 1775260011,
-      "comments": 180,
+      "comments": 183,
       "domain": "mtlynch.io"
+    },
+    {
+      "id": 47640775,
+      "title": "Why the most valuable things you know are things you cannot say",
+      "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
+      "score": 57,
+      "by": "nr378",
+      "time": 1775321380,
+      "comments": 25,
+      "domain": "deadneurons.substack.com"
     },
     {
       "id": 47614956,
       "title": "Notes from from Butterick's Practical Typography",
       "url": "https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/",
-      "score": 13,
+      "score": 14,
       "by": "chilipepperhott",
       "time": 1775139952,
       "comments": 0,
       "domain": "adamadam.blog"
     },
     {
-      "id": 47640775,
-      "title": "Why the Most Valuable Things You Know Are Things You Cannot Say",
-      "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
-      "score": 51,
-      "by": "nr378",
-      "time": 1775321380,
-      "comments": 21,
-      "domain": "deadneurons.substack.com"
+      "id": 47639727,
+      "title": "When legal sports betting surges, so do Americans' financial problems",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "score": 75,
+      "by": "pseudolus",
+      "time": 1775315646,
+      "comments": 50,
+      "domain": "npr.org"
+    },
+    {
+      "id": 47641277,
+      "title": "A new gene therapy is giving people born deaf the chance to hear",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
+      "score": 26,
+      "by": "bilsbie",
+      "time": 1775324140,
+      "comments": 4,
+      "domain": "sciencedaily.com"
+    },
+    {
+      "id": 47639976,
+      "title": "German men 18-45 need military permit for extended stays abroad",
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
+      "score": 261,
+      "by": "L_226",
+      "time": 1775317150,
+      "comments": 403,
+      "domain": "dw.com"
+    },
+    {
+      "id": 47597366,
+      "title": "The most-disliked people in the publishing industry",
+      "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
+      "score": 80,
+      "by": "Caiero",
+      "time": 1775023452,
+      "comments": 33,
+      "domain": "woman-of-letters.com"
     },
     {
       "id": 47641141,
@@ -222,54 +252,24 @@
       "domain": "bitsavers.org"
     },
     {
-      "id": 47639727,
-      "title": "When legal sports betting surges, so do Americans' financial problems",
-      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
-      "score": 68,
-      "by": "pseudolus",
-      "time": 1775315646,
-      "comments": 40,
-      "domain": "npr.org"
-    },
-    {
-      "id": 47639976,
-      "title": "German men 18-45 need military permit for extended stays abroad",
-      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
-      "score": 248,
-      "by": "L_226",
-      "time": 1775317150,
-      "comments": 387,
-      "domain": "dw.com"
-    },
-    {
-      "id": 47641277,
-      "title": "Deafness reversed: One injection restores hearing in just weeks – ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
-      "score": 22,
-      "by": "bilsbie",
-      "time": 1775324140,
-      "comments": 4,
-      "domain": "sciencedaily.com"
-    },
-    {
-      "id": 47597366,
-      "title": "The most-disliked people in the publishing industry",
-      "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
-      "score": 78,
-      "by": "Caiero",
-      "time": 1775023452,
-      "comments": 28,
-      "domain": "woman-of-letters.com"
-    },
-    {
       "id": 47628608,
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 488,
+      "score": 489,
       "by": "kykeonaut",
       "time": 1775233292,
-      "comments": 229,
+      "comments": 230,
       "domain": "nvd.nist.gov"
+    },
+    {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 507,
+      "by": "bookofjoe",
+      "time": 1775236940,
+      "comments": 123,
+      "domain": "inaturalist.org"
     }
   ]
 }
