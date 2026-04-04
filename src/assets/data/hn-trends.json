@@ -1,111 +1,111 @@
 {
-  "lastUpdated": "2026-04-04T14:36:45.884Z",
+  "lastUpdated": "2026-04-04T15:02:55.774Z",
   "items": [
     {
       "id": 47637757,
       "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 231,
+      "score": 256,
       "by": "Anon84",
       "time": 1775298381,
-      "comments": 67,
+      "comments": 72,
       "domain": "arxiv.org"
     },
     {
       "id": 47637287,
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 108,
+      "score": 117,
       "by": "simplegeek",
       "time": 1775293459,
-      "comments": 33,
+      "comments": 34,
       "domain": "thoughts.wyounas.com"
     },
     {
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 869,
+      "score": 883,
       "by": "andsoitis",
       "time": 1775244902,
-      "comments": 296,
+      "comments": 301,
       "domain": "bbc.com"
     },
     {
       "id": 47601194,
       "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
       "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-      "score": 51,
+      "score": 65,
       "by": "dbreunig",
       "time": 1775052814,
-      "comments": 15,
+      "comments": 18,
       "domain": "dbreunig.com"
     },
     {
       "id": 47638075,
       "title": "The CMS is dead. Long live the CMS",
       "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "score": 55,
+      "score": 61,
       "by": "taubek",
       "time": 1775301870,
-      "comments": 31,
+      "comments": 38,
       "domain": "next.jazzsequence.com"
-    },
-    {
-      "id": 47629433,
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "score": 477,
-      "by": "bookofjoe",
-      "time": 1775236940,
-      "comments": 112,
-      "domain": "inaturalist.org"
     },
     {
       "id": 47592068,
       "title": "Why Inventing Color TV Was So Difficult [video]",
       "url": "https://www.youtube.com/watch?v=hyjCmIbRRvs",
-      "score": 15,
+      "score": 20,
       "by": "DamnInteresting",
       "time": 1774984374,
-      "comments": 3,
+      "comments": 6,
       "domain": "youtube.com"
-    },
-    {
-      "id": 47633855,
-      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "score": 143,
-      "by": "eichin",
-      "time": 1775260011,
-      "comments": 90,
-      "domain": "mtlynch.io"
     },
     {
       "id": 47597366,
       "title": "The most-disliked people in the publishing industry",
       "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
-      "score": 37,
+      "score": 45,
       "by": "Caiero",
       "time": 1775023452,
-      "comments": 8,
+      "comments": 11,
       "domain": "woman-of-letters.com"
+    },
+    {
+      "id": 47633855,
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "score": 163,
+      "by": "eichin",
+      "time": 1775260011,
+      "comments": 98,
+      "domain": "mtlynch.io"
+    },
+    {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 481,
+      "by": "bookofjoe",
+      "time": 1775236940,
+      "comments": 115,
+      "domain": "inaturalist.org"
     },
     {
       "id": 47628608,
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 450,
+      "score": 459,
       "by": "kykeonaut",
       "time": 1775233292,
-      "comments": 214,
+      "comments": 216,
       "domain": "nvd.nist.gov"
     },
     {
       "id": 47585469,
       "title": "Herbie: Automatically improve imprecise floating point formulas",
       "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-      "score": 157,
+      "score": 165,
       "by": "summarity",
       "time": 1774954432,
       "comments": 31,
@@ -115,71 +115,81 @@
       "id": 47638246,
       "title": "Jack Dorsey says Block employees now bring prototypes, not slides, to meetings",
       "url": "https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4",
-      "score": 40,
+      "score": 50,
       "by": "taubek",
       "time": 1775303834,
-      "comments": 26,
+      "comments": 40,
       "domain": "businessinsider.com"
     },
     {
       "id": 47633131,
       "title": "Run Linux containers on Android, no root required",
       "url": "https://github.com/ExTV/Podroid",
-      "score": 172,
+      "score": 175,
       "by": "politelemon",
       "time": 1775255035,
-      "comments": 56,
+      "comments": 59,
       "domain": "github.com"
+    },
+    {
+      "id": 47618223,
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "score": 354,
+      "by": "denssumesh",
+      "time": 1775154269,
+      "comments": 136,
+      "domain": "mintlify.com"
+    },
+    {
+      "id": 47597159,
+      "title": "Improving my focus by giving up my big monitor",
+      "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
+      "score": 136,
+      "by": "Fudgel",
+      "time": 1775021339,
+      "comments": 149,
+      "domain": "ounapuu.ee"
     },
     {
       "id": 47601992,
       "title": "The smallest ELF executable (2021)",
       "url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html",
-      "score": 11,
+      "score": 12,
       "by": "michelangelo",
       "time": 1775056344,
       "comments": 0,
       "domain": "nathanotterness.com"
     },
     {
-      "id": 47597159,
-      "title": "Improving my focus by giving up my big monitor",
-      "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
-      "score": 133,
-      "by": "Fudgel",
-      "time": 1775021339,
-      "comments": 147,
-      "domain": "ounapuu.ee"
-    },
-    {
-      "id": 47618223,
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 350,
-      "by": "denssumesh",
-      "time": 1775154269,
-      "comments": 134,
-      "domain": "mintlify.com"
-    },
-    {
       "id": 47622616,
       "title": "The Technocracy Movement of the 1930s",
       "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "score": 134,
+      "score": 136,
       "by": "lazydogbrownfox",
       "time": 1775183362,
-      "comments": 104,
+      "comments": 106,
       "domain": "donotresearch.substack.com"
     },
     {
       "id": 47586885,
       "title": "What changes when you turn a Linux box into a router",
       "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 195,
+      "score": 197,
       "by": "0o_MrPatrick_o0",
       "time": 1774962800,
-      "comments": 47,
+      "comments": 48,
       "domain": "patrickmccanna.net"
+    },
+    {
+      "id": 47639524,
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 3,
+      "by": "macleginn",
+      "time": 1775314106,
+      "comments": 1,
+      "domain": "thetimes.com"
     },
     {
       "id": 47629116,
@@ -205,10 +215,10 @@
       "id": 47628326,
       "title": "F-15E jet shot down over Iran",
       "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 540,
+      "score": 546,
       "by": "tjwds",
       "time": 1775232044,
-      "comments": 1205,
+      "comments": 1221,
       "domain": "theguardian.com"
     },
     {
@@ -225,11 +235,21 @@
       "id": 47634690,
       "title": "Delve removed from Y Combinator",
       "url": "https://www.ycombinator.com/companies/delve",
-      "score": 399,
+      "score": 407,
       "by": "carabiner",
       "time": 1775266622,
       "comments": 250,
       "domain": "ycombinator.com"
+    },
+    {
+      "id": 47633157,
+      "title": "Fake Fans",
+      "url": "https://www.wordsfromeliza.com/p/fake-fans",
+      "score": 136,
+      "by": "performative",
+      "time": 1775255198,
+      "comments": 38,
+      "domain": "wordsfromeliza.com"
     },
     {
       "id": 47630576,
@@ -240,36 +260,6 @@
       "time": 1775242451,
       "comments": 52,
       "domain": "backyardchickens.com"
-    },
-    {
-      "id": 47633157,
-      "title": "Fake Fans",
-      "url": "https://www.wordsfromeliza.com/p/fake-fans",
-      "score": 132,
-      "by": "performative",
-      "time": 1775255198,
-      "comments": 35,
-      "domain": "wordsfromeliza.com"
-    },
-    {
-      "id": 47629903,
-      "title": "Why are we still using Markdown?",
-      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-      "score": 170,
-      "by": "veqq",
-      "time": 1775239390,
-      "comments": 237,
-      "domain": "bgslabs.org"
-    },
-    {
-      "id": 47633116,
-      "title": "The house is a work of art: Frank Lloyd Wright",
-      "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-      "score": 103,
-      "by": "midnightfish",
-      "time": 1775254938,
-      "comments": 40,
-      "domain": "aeon.co"
     }
   ]
 }
