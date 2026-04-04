@@ -1,41 +1,31 @@
 {
-  "lastUpdated": "2026-04-04T10:55:17.796Z",
+  "lastUpdated": "2026-04-04T11:22:00.109Z",
   "items": [
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 787,
-      "by": "andsoitis",
-      "time": 1775244902,
-      "comments": 272,
-      "domain": "bbc.com"
-    },
     {
       "id": 47637287,
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 28,
+      "score": 42,
       "by": "simplegeek",
       "time": 1775293459,
-      "comments": 10,
+      "comments": 12,
       "domain": "thoughts.wyounas.com"
     },
     {
-      "id": 47594936,
-      "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
-      "url": "https://github.com/anthropics/claude-code/forks",
-      "score": 28,
-      "by": "cg505",
-      "time": 1775000502,
-      "comments": 26,
-      "domain": "github.com"
+      "id": 47631118,
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 796,
+      "by": "andsoitis",
+      "time": 1775244902,
+      "comments": 275,
+      "domain": "bbc.com"
     },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 435,
+      "score": 442,
       "by": "bookofjoe",
       "time": 1775236940,
       "comments": 108,
@@ -45,47 +35,47 @@
       "id": 47628608,
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 383,
+      "score": 388,
       "by": "kykeonaut",
       "time": 1775233292,
-      "comments": 196,
+      "comments": 199,
       "domain": "nvd.nist.gov"
     },
     {
       "id": 47585469,
       "title": "Herbie: Automatically improve imprecise floating point formulas",
       "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-      "score": 126,
+      "score": 130,
       "by": "summarity",
       "time": 1774954432,
-      "comments": 16,
+      "comments": 17,
       "domain": "herbie.uwplse.org"
     },
     {
       "id": 47633131,
       "title": "Run Linux containers on Android, no root required",
       "url": "https://github.com/ExTV/Podroid",
-      "score": 132,
+      "score": 135,
       "by": "politelemon",
       "time": 1775255035,
-      "comments": 47,
+      "comments": 48,
       "domain": "github.com"
     },
     {
       "id": 47634690,
       "title": "Delve removed from Y Combinator",
       "url": "https://www.ycombinator.com/companies/delve",
-      "score": 326,
+      "score": 330,
       "by": "carabiner",
       "time": 1775266622,
-      "comments": 204,
+      "comments": 209,
       "domain": "ycombinator.com"
     },
     {
       "id": 47621792,
       "title": "Post Mortem: axios NPM supply chain compromise",
       "url": "https://github.com/axios/axios/issues/10636",
-      "score": 264,
+      "score": 266,
       "by": "Kyro38",
       "time": 1775174419,
       "comments": 119,
@@ -95,20 +85,20 @@
       "id": 47597159,
       "title": "Improving my focus by giving up my big monitor",
       "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
-      "score": 99,
+      "score": 103,
       "by": "Fudgel",
       "time": 1775021339,
-      "comments": 114,
+      "comments": 118,
       "domain": "ounapuu.ee"
     },
     {
       "id": 47618223,
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 314,
+      "score": 317,
       "by": "denssumesh",
       "time": 1775154269,
-      "comments": 118,
+      "comments": 120,
       "domain": "mintlify.com"
     },
     {
@@ -125,51 +115,81 @@
       "id": 47622616,
       "title": "The Technocracy Movement of the 1930s",
       "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "score": 105,
+      "score": 109,
       "by": "lazydogbrownfox",
       "time": 1775183362,
-      "comments": 88,
+      "comments": 90,
       "domain": "donotresearch.substack.com"
+    },
+    {
+      "id": 47633855,
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "score": 66,
+      "by": "eichin",
+      "time": 1775260011,
+      "comments": 37,
+      "domain": "mtlynch.io"
     },
     {
       "id": 47635056,
       "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
       "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
-      "score": 203,
+      "score": 209,
       "by": "lxm",
       "time": 1775269832,
-      "comments": 143,
+      "comments": 150,
       "domain": "economictimes.indiatimes.com"
     },
     {
       "id": 47629116,
       "title": "Go on Embedded Systems and WebAssembly",
       "url": "https://tinygo.org/",
-      "score": 163,
+      "score": 164,
       "by": "uticus",
       "time": 1775235429,
       "comments": 22,
       "domain": "tinygo.org"
     },
     {
-      "id": 47633855,
-      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "score": 58,
-      "by": "eichin",
-      "time": 1775260011,
+      "id": 47627527,
+      "title": "Build your own Dial-up ISP with a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "score": 162,
+      "by": "arjunbajaj",
+      "time": 1775228896,
       "comments": 30,
-      "domain": "mtlynch.io"
+      "domain": "jeffgeerling.com"
     },
     {
       "id": 47633116,
       "title": "The house is a work of art: Frank Lloyd Wright",
       "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-      "score": 86,
+      "score": 87,
       "by": "midnightfish",
       "time": 1775254938,
       "comments": 39,
       "domain": "aeon.co"
+    },
+    {
+      "id": 47628326,
+      "title": "F-15E jet shot down over Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "score": 502,
+      "by": "tjwds",
+      "time": 1775232044,
+      "comments": 1120,
+      "domain": "theguardian.com"
+    },
+    {
+      "id": 47626462,
+      "title": "Big-Endian Testing with QEMU",
+      "url": "https://www.hanshq.net/big-endian-qemu.html",
+      "score": 93,
+      "by": "jandeboevrie",
+      "time": 1775222938,
+      "comments": 107,
+      "domain": "hanshq.net"
     },
     {
       "id": 47630576,
@@ -182,34 +202,14 @@
       "domain": "backyardchickens.com"
     },
     {
-      "id": 47627527,
-      "title": "Build your own Dial-up ISP with a Raspberry Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-      "score": 161,
-      "by": "arjunbajaj",
-      "time": 1775228896,
-      "comments": 30,
-      "domain": "jeffgeerling.com"
-    },
-    {
-      "id": 47626462,
-      "title": "Big-Endian Testing with QEMU",
-      "url": "https://www.hanshq.net/big-endian-qemu.html",
-      "score": 93,
-      "by": "jandeboevrie",
-      "time": 1775222938,
-      "comments": 106,
-      "domain": "hanshq.net"
-    },
-    {
-      "id": 47628326,
-      "title": "F-15E jet shot down over Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 496,
-      "by": "tjwds",
-      "time": 1775232044,
-      "comments": 1114,
-      "domain": "theguardian.com"
+      "id": 47597366,
+      "title": "The most-disliked people in the publishing industry",
+      "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
+      "score": 8,
+      "by": "Caiero",
+      "time": 1775023452,
+      "comments": 1,
+      "domain": "woman-of-letters.com"
     },
     {
       "id": 47605425,
@@ -220,6 +220,16 @@
       "time": 1775071834,
       "comments": 5,
       "domain": "blog.autorouting.com"
+    },
+    {
+      "id": 47636203,
+      "title": "Scientists are working on \"everything vaccines\"",
+      "url": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+      "score": 32,
+      "by": "andsoitis",
+      "time": 1775281638,
+      "comments": 26,
+      "domain": "economist.com"
     },
     {
       "id": 47597908,
@@ -235,37 +245,27 @@
       "id": 47633157,
       "title": "Fake Fans",
       "url": "https://www.wordsfromeliza.com/p/fake-fans",
-      "score": 117,
+      "score": 118,
       "by": "performative",
       "time": 1775255198,
       "comments": 27,
       "domain": "wordsfromeliza.com"
     },
     {
-      "id": 47636203,
-      "title": "Scientists are working on \"everything vaccines\"",
-      "url": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
-      "score": 28,
-      "by": "andsoitis",
-      "time": 1775281638,
-      "comments": 25,
-      "domain": "economist.com"
-    },
-    {
       "id": 47629903,
       "title": "Why are we still using Markdown?",
       "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-      "score": 132,
+      "score": 135,
       "by": "veqq",
       "time": 1775239390,
-      "comments": 204,
+      "comments": 209,
       "domain": "bgslabs.org"
     },
     {
       "id": 47636435,
       "title": "Emotion concepts and their function in a large language model",
       "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "score": 60,
+      "score": 63,
       "by": "dnw",
       "time": 1775284225,
       "comments": 46,
@@ -275,21 +275,11 @@
       "id": 47633947,
       "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
       "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-      "score": 406,
+      "score": 412,
       "by": "detaro",
       "time": 1775260592,
-      "comments": 117,
+      "comments": 120,
       "domain": "eff.org"
-    },
-    {
-      "id": 47625952,
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
-      "score": 714,
-      "by": "ramkarthikk",
-      "time": 1775219625,
-      "comments": 182,
-      "domain": "text.blogosphere.app"
     }
   ]
 }
