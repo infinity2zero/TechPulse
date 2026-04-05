@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-04-05T11:50:22.499Z",
+  "lastUpdated": "2026-04-05T12:24:45.968Z",
   "items": [
-    {
-      "id": 47647455,
-      "title": "Talk like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 109,
-      "by": "tosh",
-      "time": 1775379378,
-      "comments": 70,
-      "domain": "github.com"
-    },
     {
       "id": 47647788,
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 30,
+      "score": 81,
       "by": "zaikunzhang",
       "time": 1775383045,
-      "comments": 11,
+      "comments": 42,
       "domain": "ergosphere.blog"
+    },
+    {
+      "id": 47647455,
+      "title": "Talk like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 143,
+      "by": "tosh",
+      "time": 1775379378,
+      "comments": 96,
+      "domain": "github.com"
     },
     {
       "id": 47646843,
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "url": "https://lisette.run/",
-      "score": 100,
+      "score": 109,
       "by": "jspdown",
       "time": 1775372239,
-      "comments": 43,
+      "comments": 51,
       "domain": "lisette.run"
     },
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 789,
+      "score": 799,
       "by": "Jaso1024",
       "time": 1775321154,
-      "comments": 161,
+      "comments": 164,
       "domain": "jaso1024.com"
     },
     {
       "id": 47644406,
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 333,
+      "score": 354,
       "by": "DyslexicAtheist",
       "time": 1775343464,
-      "comments": 295,
+      "comments": 314,
       "domain": "bmi.usercontent.opencode.de"
     },
     {
       "id": 47595695,
       "title": "OpenScreen is an open-source alternative to Screen Studio",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 324,
+      "score": 336,
       "by": "jskopek",
       "time": 1775007106,
       "comments": 57,
@@ -65,61 +65,81 @@
       "id": 47645432,
       "title": "Introduction to Computer Music (2009) [pdf]",
       "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 169,
+      "score": 173,
       "by": "luu",
       "time": 1775354069,
       "comments": 53,
       "domain": "composerprogrammer.com"
     },
     {
+      "id": 47648452,
+      "title": "Ubuntu now requires more RAM than Windows 11",
+      "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+      "score": 20,
+      "by": "jnord",
+      "time": 1775390245,
+      "comments": 4,
+      "domain": "howtogeek.com"
+    },
+    {
+      "id": 47590230,
+      "title": "Costco sued for seeking refunds on tariffs customers paid",
+      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+      "score": 28,
+      "by": "AdmiralAsshat",
+      "time": 1774976116,
+      "comments": 10,
+      "domain": "arstechnica.com"
+    },
+    {
       "id": 47607408,
       "title": "Scientists Figured Out How Eels Reproduce (2022)",
       "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
-      "score": 44,
+      "score": 48,
       "by": "thunderbong",
       "time": 1775082834,
-      "comments": 1,
+      "comments": 3,
       "domain": "intelligentliving.co"
     },
     {
       "id": 47646472,
       "title": "Aegis – open-source FPGA silicon",
       "url": "https://github.com/MidstallSoftware/aegis",
-      "score": 44,
+      "score": 52,
       "by": "rosscomputerguy",
       "time": 1775368204,
-      "comments": 5,
+      "comments": 4,
       "domain": "github.com"
     },
     {
       "id": 47640875,
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 218,
+      "score": 225,
       "by": "tamnd",
       "time": 1775321865,
-      "comments": 66,
+      "comments": 69,
       "domain": "gist.github.com"
-    },
-    {
-      "id": 47590230,
-      "title": "Costco sued for seeking refunds on tariffs customers paid",
-      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-      "score": 13,
-      "by": "AdmiralAsshat",
-      "time": 1774976116,
-      "comments": 2,
-      "domain": "arstechnica.com"
     },
     {
       "id": 47587089,
       "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
       "url": "https://zml.ai/posts/zml-smi/",
-      "score": 53,
+      "score": 56,
       "by": "steeve",
       "time": 1774963793,
       "comments": 8,
       "domain": "zml.ai"
+    },
+    {
+      "id": 47642569,
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "score": 686,
+      "by": "gpi",
+      "time": 1775331583,
+      "comments": 326,
+      "domain": "teybannerman.com"
     },
     {
       "id": 47598835,
@@ -132,30 +152,30 @@
       "domain": "github.com"
     },
     {
-      "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 680,
-      "by": "gpi",
-      "time": 1775331583,
-      "comments": 318,
-      "domain": "teybannerman.com"
-    },
-    {
       "id": 47646504,
       "title": "Show HN: OsintRadar – Curated directory for osint tools",
       "url": "https://osintradar.com/",
-      "score": 17,
+      "score": 18,
       "by": "lexalizer",
       "time": 1775368702,
       "comments": 1,
       "domain": "osintradar.com"
     },
     {
+      "id": 47648404,
+      "title": "Sad Story of My Google Workspace Account Suspension",
+      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+      "score": 8,
+      "by": "zenincognito",
+      "time": 1775389693,
+      "comments": 0,
+      "domain": "zencapital.substack.com"
+    },
+    {
       "id": 47613118,
       "title": "Show HN: I built a small app for FSI German Course",
       "url": "https://detawk.com/",
-      "score": 39,
+      "score": 41,
       "by": "syedmsawaid",
       "time": 1775130241,
       "comments": 13,
@@ -165,11 +185,31 @@
       "id": 47644864,
       "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
       "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-      "score": 322,
+      "score": 328,
       "by": "crcastle",
       "time": 1775348035,
-      "comments": 93,
+      "comments": 94,
       "domain": "phoronix.com"
+    },
+    {
+      "id": 47639779,
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "score": 165,
+      "by": "jrandolf",
+      "time": 1775315938,
+      "comments": 80,
+      "domain": "sllm.cloud"
+    },
+    {
+      "id": 47639303,
+      "title": "Show HN: I made open source, zero power PCB hackathon badges",
+      "url": "https://github.com/KaiPereira/Overglade-Badges",
+      "score": 118,
+      "by": "kaipereira",
+      "time": 1775312421,
+      "comments": 11,
+      "domain": "github.com"
     },
     {
       "id": 47645305,
@@ -178,38 +218,38 @@
       "score": 37,
       "by": "breve",
       "time": 1775352748,
-      "comments": 6,
+      "comments": 7,
       "domain": "aomedia.org"
-    },
-    {
-      "id": 47639303,
-      "title": "Show HN: I made open source, zero power PCB hackathon badges",
-      "url": "https://github.com/KaiPereira/Overglade-Badges",
-      "score": 117,
-      "by": "kaipereira",
-      "time": 1775312421,
-      "comments": 11,
-      "domain": "github.com"
-    },
-    {
-      "id": 47639779,
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "score": 164,
-      "by": "jrandolf",
-      "time": 1775315938,
-      "comments": 79,
-      "domain": "sllm.cloud"
     },
     {
       "id": 47639291,
       "title": "The Indie Internet Index – submit your favorite sites",
       "url": "https://iii.social",
-      "score": 158,
+      "score": 162,
       "by": "freshman_dev",
       "time": 1775312286,
-      "comments": 30,
+      "comments": 31,
       "domain": "iii.social"
+    },
+    {
+      "id": 47646566,
+      "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
+      "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
+      "score": 13,
+      "by": "chelm",
+      "time": 1775369550,
+      "comments": 1,
+      "domain": "idp-software.com"
+    },
+    {
+      "id": 47638810,
+      "title": "Components of a Coding Agent",
+      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "score": 255,
+      "by": "MindGods",
+      "time": 1775308593,
+      "comments": 79,
+      "domain": "magazine.sebastianraschka.com"
     },
     {
       "id": 47645025,
@@ -218,78 +258,38 @@
       "score": 78,
       "by": "waveywaves",
       "time": 1775349618,
-      "comments": 33,
+      "comments": 34,
       "domain": "contrapunk.com"
-    },
-    {
-      "id": 47638810,
-      "title": "Components of a Coding Agent",
-      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "score": 250,
-      "by": "MindGods",
-      "time": 1775308593,
-      "comments": 78,
-      "domain": "magazine.sebastianraschka.com"
-    },
-    {
-      "id": 47646566,
-      "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
-      "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
-      "score": 12,
-      "by": "chelm",
-      "time": 1775369550,
-      "comments": 1,
-      "domain": "idp-software.com"
-    },
-    {
-      "id": 47614532,
-      "title": "Ruckus: Racket for iOS",
-      "url": "https://ruckus.defn.io/",
-      "score": 136,
-      "by": "nsm",
-      "time": 1775138052,
-      "comments": 12,
-      "domain": "ruckus.defn.io"
-    },
-    {
-      "id": 47646363,
-      "title": "Modern Generic SVGA driver for Windows 3.1",
-      "url": "https://github.com/PluMGMK/vbesvga.drv",
-      "score": 51,
-      "by": "userbinator",
-      "time": 1775366921,
-      "comments": 14,
-      "domain": "github.com"
     },
     {
       "id": 47642601,
       "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
       "url": "https://static.laszlokorte.de/escher/",
-      "score": 96,
+      "score": 99,
       "by": "laszlokorte",
       "time": 1775331834,
       "comments": 16,
       "domain": "static.laszlokorte.de"
     },
     {
+      "id": 47614532,
+      "title": "Ruckus: Racket for iOS",
+      "url": "https://ruckus.defn.io/",
+      "score": 138,
+      "by": "nsm",
+      "time": 1775138052,
+      "comments": 12,
+      "domain": "ruckus.defn.io"
+    },
+    {
       "id": 47604887,
       "title": "Electrical transformer manufacturing is throttling the electrified future",
       "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-      "score": 94,
+      "score": 96,
       "by": "toomuchtodo",
       "time": 1775069268,
-      "comments": 84,
+      "comments": 89,
       "domain": "bloomberg.com"
-    },
-    {
-      "id": 47640380,
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "score": 442,
-      "by": "naves",
-      "time": 1775319370,
-      "comments": 197,
-      "domain": "theverge.com"
     }
   ]
 }
