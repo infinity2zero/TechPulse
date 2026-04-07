@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-07T15:07:53.310Z",
+  "lastUpdated": "2026-04-07T16:16:40.032Z",
   "items": [
     {
       "id": 1197990888,
       "name": "Gitlawb/openclaude",
       "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-      "stars": 18692,
+      "stars": 18741,
       "language": "TypeScript",
       "url": "https://github.com/Gitlawb/openclaude",
       "owner": {
         "login": "Gitlawb",
         "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
       },
-      "updated_at": "2026-04-07T15:07:52Z"
+      "updated_at": "2026-04-07T16:11:51Z"
     },
     {
       "id": 1201476594,
       "name": "santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 15409,
+      "stars": 15896,
       "language": "JavaScript",
       "url": "https://github.com/santifer/career-ops",
       "owner": {
         "login": "santifer",
         "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
       },
-      "updated_at": "2026-04-07T15:07:53Z"
+      "updated_at": "2026-04-07T16:16:39Z"
     },
     {
       "id": 1201656210,
       "name": "milla-jovovich/mempalace",
       "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "stars": 10216,
+      "stars": 11603,
       "language": "Python",
       "url": "https://github.com/milla-jovovich/mempalace",
       "owner": {
         "login": "milla-jovovich",
         "avatar_url": "https://avatars.githubusercontent.com/u/232237854?v=4"
       },
-      "updated_at": "2026-04-07T15:07:52Z"
+      "updated_at": "2026-04-07T16:16:38Z"
     },
     {
       "id": 1198246700,
       "name": "emdash-cms/emdash",
       "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
-      "stars": 8044,
+      "stars": 8066,
       "language": "TypeScript",
       "url": "https://github.com/emdash-cms/emdash",
       "owner": {
         "login": "emdash-cms",
         "avatar_url": "https://avatars.githubusercontent.com/u/272658707?v=4"
       },
-      "updated_at": "2026-04-07T14:56:08Z"
+      "updated_at": "2026-04-07T16:10:08Z"
     },
     {
       "id": 1198616956,
       "name": "HKUDS/OpenHarness",
       "description": "\"OpenHarness: Open Agent Harness\"",
-      "stars": 6977,
+      "stars": 7017,
       "language": "Python",
       "url": "https://github.com/HKUDS/OpenHarness",
       "owner": {
         "login": "HKUDS",
         "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
-      "updated_at": "2026-04-07T15:07:45Z"
+      "updated_at": "2026-04-07T16:16:37Z"
     },
     {
       "id": 1199177582,
       "name": "ultraworkers/claw-code-parity",
       "description": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
-      "stars": 6580,
+      "stars": 6585,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code-parity",
       "owner": {
         "login": "ultraworkers",
         "avatar_url": "https://avatars.githubusercontent.com/u/272961631?v=4"
       },
-      "updated_at": "2026-04-07T14:14:55Z"
-    },
-    {
-      "id": 1201173969,
-      "name": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 5365,
-      "language": "Python",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "owner": {
-        "login": "JuliusBrussee",
-        "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
-      },
-      "updated_at": "2026-04-07T15:07:48Z"
+      "updated_at": "2026-04-07T16:00:50Z"
     },
     {
       "id": 1200597263,
       "name": "safishamsi/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "stars": 5149,
+      "stars": 5465,
       "language": "Python",
       "url": "https://github.com/safishamsi/graphify",
       "owner": {
         "login": "safishamsi",
         "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
       },
-      "updated_at": "2026-04-07T15:07:23Z"
+      "updated_at": "2026-04-07T16:16:38Z"
+    },
+    {
+      "id": 1201173969,
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 5461,
+      "language": "Python",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+      },
+      "updated_at": "2026-04-07T16:16:24Z"
     },
     {
       "id": 1199906287,
       "name": "kevinrgu/autoagent",
       "description": "autonomous harness engineering",
-      "stars": 3736,
+      "stars": 3748,
       "language": "Python",
       "url": "https://github.com/kevinrgu/autoagent",
       "owner": {
         "login": "kevinrgu",
         "avatar_url": "https://avatars.githubusercontent.com/u/91836685?v=4"
       },
-      "updated_at": "2026-04-07T14:55:05Z"
+      "updated_at": "2026-04-07T16:14:37Z"
     },
     {
       "id": 1198606436,
       "name": "0xGF/boneyard",
       "description": "Auto generated skeleton loading framework",
-      "stars": 3341,
+      "stars": 3365,
       "language": "TypeScript",
       "url": "https://github.com/0xGF/boneyard",
       "owner": {
         "login": "0xGF",
         "avatar_url": "https://avatars.githubusercontent.com/u/35696965?v=4"
       },
-      "updated_at": "2026-04-07T15:06:10Z"
+      "updated_at": "2026-04-07T16:16:40Z"
     },
     {
       "id": 1201730379,
       "name": "alchaincyf/nuwa-skill",
       "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "stars": 2398,
+      "stars": 2429,
       "language": null,
       "url": "https://github.com/alchaincyf/nuwa-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-07T15:06:43Z"
+      "updated_at": "2026-04-07T16:14:58Z"
     },
     {
       "id": 1199198401,
       "name": "sooryathejas/METATRON",
       "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
-      "stars": 1561,
+      "stars": 1583,
       "language": "Python",
       "url": "https://github.com/sooryathejas/METATRON",
       "owner": {
         "login": "sooryathejas",
         "avatar_url": "https://avatars.githubusercontent.com/u/196668312?v=4"
       },
-      "updated_at": "2026-04-07T15:07:06Z"
+      "updated_at": "2026-04-07T16:15:57Z"
     },
     {
       "id": 1198225369,
       "name": "maaslalani/sheets",
       "description": "Terminal based spreadsheet tool",
-      "stars": 1522,
+      "stars": 1530,
       "language": "Go",
       "url": "https://github.com/maaslalani/sheets",
       "owner": {
         "login": "maaslalani",
         "avatar_url": "https://avatars.githubusercontent.com/u/42545625?v=4"
       },
-      "updated_at": "2026-04-07T15:07:38Z"
+      "updated_at": "2026-04-07T16:11:49Z"
     },
     {
       "id": 1198074335,
       "name": "dominikmartn/nothing-design-skill",
       "description": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.",
-      "stars": 1378,
+      "stars": 1382,
       "language": null,
       "url": "https://github.com/dominikmartn/nothing-design-skill",
       "owner": {
         "login": "dominikmartn",
         "avatar_url": "https://avatars.githubusercontent.com/u/4389660?v=4"
       },
-      "updated_at": "2026-04-07T15:05:24Z"
+      "updated_at": "2026-04-07T16:10:24Z"
     },
     {
       "id": 1198040849,
       "name": "wquguru/harness-books",
       "description": null,
-      "stars": 1212,
+      "stars": 1213,
       "language": "Python",
       "url": "https://github.com/wquguru/harness-books",
       "owner": {
         "login": "wquguru",
         "avatar_url": "https://avatars.githubusercontent.com/u/209866177?v=4"
       },
-      "updated_at": "2026-04-07T15:01:59Z"
+      "updated_at": "2026-04-07T16:11:51Z"
     },
     {
       "id": 1199437437,
       "name": "leilei926524-tech/anti-distill",
       "description": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
-      "stars": 1173,
+      "stars": 1179,
       "language": null,
       "url": "https://github.com/leilei926524-tech/anti-distill",
       "owner": {
         "login": "leilei926524-tech",
         "avatar_url": "https://avatars.githubusercontent.com/u/238133142?v=4"
       },
-      "updated_at": "2026-04-07T15:05:50Z"
+      "updated_at": "2026-04-07T16:14:12Z"
     },
     {
       "id": 1200631301,
       "name": "afar1/fieldtheory-cli",
       "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.",
-      "stars": 1089,
+      "stars": 1097,
       "language": "TypeScript",
       "url": "https://github.com/afar1/fieldtheory-cli",
       "owner": {
         "login": "afar1",
         "avatar_url": "https://avatars.githubusercontent.com/u/134799741?v=4"
       },
-      "updated_at": "2026-04-07T15:07:32Z"
-    },
-    {
-      "id": 1199252598,
-      "name": "luyao618/Claude-Code-Source-Study",
-      "description": "深入Claude Code源码，学习目前最好的agent实现",
-      "stars": 1007,
-      "language": null,
-      "url": "https://github.com/luyao618/Claude-Code-Source-Study",
-      "owner": {
-        "login": "luyao618",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17723416?v=4"
-      },
-      "updated_at": "2026-04-07T14:45:27Z"
+      "updated_at": "2026-04-07T16:16:22Z"
     },
     {
       "id": 1198519767,
       "name": "notdog1998/yourself-skill",
       "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。",
-      "stars": 1003,
+      "stars": 1012,
       "language": "Python",
       "url": "https://github.com/notdog1998/yourself-skill",
       "owner": {
         "login": "notdog1998",
         "avatar_url": "https://avatars.githubusercontent.com/u/64525161?v=4"
       },
-      "updated_at": "2026-04-07T14:48:09Z"
+      "updated_at": "2026-04-07T16:10:03Z"
     },
     {
       "id": 1201093350,
       "name": "GitFrog1111/badclaude",
       "description": null,
-      "stars": 962,
+      "stars": 1011,
       "language": "HTML",
       "url": "https://github.com/GitFrog1111/badclaude",
       "owner": {
         "login": "GitFrog1111",
         "avatar_url": "https://avatars.githubusercontent.com/u/122885215?v=4"
       },
-      "updated_at": "2026-04-07T15:03:21Z"
+      "updated_at": "2026-04-07T16:16:22Z"
+    },
+    {
+      "id": 1199252598,
+      "name": "luyao618/Claude-Code-Source-Study",
+      "description": "深入Claude Code源码，学习目前最好的agent实现",
+      "stars": 1008,
+      "language": null,
+      "url": "https://github.com/luyao618/Claude-Code-Source-Study",
+      "owner": {
+        "login": "luyao618",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17723416?v=4"
+      },
+      "updated_at": "2026-04-07T15:36:19Z"
     }
   ]
 }
