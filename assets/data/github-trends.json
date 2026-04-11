@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-04-11T20:52:58.348Z",
+  "lastUpdated": "2026-04-11T21:20:05.274Z",
   "items": [
     {
       "id": 1201656210,
-      "name": "milla-jovovich/mempalace",
+      "name": "MemPalace/mempalace",
       "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "stars": 41597,
+      "stars": 41627,
       "language": "Python",
-      "url": "https://github.com/milla-jovovich/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
       "owner": {
-        "login": "milla-jovovich",
-        "avatar_url": "https://avatars.githubusercontent.com/u/232237854?v=4"
+        "login": "MemPalace",
+        "avatar_url": "https://avatars.githubusercontent.com/u/275135684?v=4"
       },
-      "updated_at": "2026-04-11T20:51:51Z"
+      "updated_at": "2026-04-11T21:19:20Z"
     },
     {
       "id": 1201730379,
       "name": "alchaincyf/nuwa-skill",
       "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "stars": 7363,
+      "stars": 7364,
       "language": "Python",
       "url": "https://github.com/alchaincyf/nuwa-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-11T20:52:14Z"
+      "updated_at": "2026-04-11T21:17:59Z"
     },
     {
       "id": 1202057891,
       "name": "garrytan/gbrain",
       "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "stars": 4595,
+      "stars": 4621,
       "language": "TypeScript",
       "url": "https://github.com/garrytan/gbrain",
       "owner": {
         "login": "garrytan",
         "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
-      "updated_at": "2026-04-11T20:52:39Z"
+      "updated_at": "2026-04-11T21:15:42Z"
     },
     {
       "id": 1201947430,
       "name": "alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "stars": 4185,
+      "stars": 4193,
       "language": null,
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-11T20:50:36Z"
+      "updated_at": "2026-04-11T21:19:39Z"
     },
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 3764,
+      "stars": 3765,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-11T20:49:07Z"
+      "updated_at": "2026-04-11T20:58:50Z"
     },
     {
       "id": 1203185600,
@@ -83,40 +83,40 @@
       "id": 1202209457,
       "name": "LaurieWired/tailslayer",
       "description": "Library for reducing tail latency in RAM reads",
-      "stars": 2012,
+      "stars": 2015,
       "language": "C++",
       "url": "https://github.com/LaurieWired/tailslayer",
       "owner": {
         "login": "LaurieWired",
         "avatar_url": "https://avatars.githubusercontent.com/u/123765654?v=4"
       },
-      "updated_at": "2026-04-11T20:07:12Z"
+      "updated_at": "2026-04-11T21:01:23Z"
     },
     {
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 1809,
+      "stars": 1813,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-11T20:49:40Z"
+      "updated_at": "2026-04-11T21:16:08Z"
     },
     {
       "id": 1202599845,
       "name": "KKKKhazix/khazix-skills",
       "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "stars": 1570,
+      "stars": 1571,
       "language": null,
       "url": "https://github.com/KKKKhazix/khazix-skills",
       "owner": {
         "login": "KKKKhazix",
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
-      "updated_at": "2026-04-11T20:44:30Z"
+      "updated_at": "2026-04-11T20:58:48Z"
     },
     {
       "id": 1202158137,
@@ -148,27 +148,27 @@
       "id": 1203504681,
       "name": "mattmireles/gemma-tuner-multimodal",
       "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "stars": 1190,
+      "stars": 1191,
       "language": "Python",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "owner": {
         "login": "mattmireles",
         "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
       },
-      "updated_at": "2026-04-11T20:43:59Z"
+      "updated_at": "2026-04-11T21:11:25Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 878,
+      "stars": 883,
       "language": "Shell",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-11T20:44:24Z"
+      "updated_at": "2026-04-11T21:20:03Z"
     },
     {
       "id": 1204165003,
@@ -200,53 +200,53 @@
       "id": 1202745354,
       "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
       "description": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom",
-      "stars": 730,
+      "stars": 732,
       "language": null,
       "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
       "owner": {
         "login": "adamlyttleapps",
         "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
       },
-      "updated_at": "2026-04-11T20:43:53Z"
+      "updated_at": "2026-04-11T21:17:03Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 702,
+      "stars": 705,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-11T20:18:06Z"
+      "updated_at": "2026-04-11T21:19:25Z"
     },
     {
       "id": 1203251892,
       "name": "xtclovver/RKNHardering",
       "description": null,
-      "stars": 671,
+      "stars": 673,
       "language": "Kotlin",
       "url": "https://github.com/xtclovver/RKNHardering",
       "owner": {
         "login": "xtclovver",
         "avatar_url": "https://avatars.githubusercontent.com/u/44809071?v=4"
       },
-      "updated_at": "2026-04-11T20:27:38Z"
+      "updated_at": "2026-04-11T21:01:14Z"
     },
     {
       "id": 1201942857,
       "name": "alchaincyf/steve-jobs-skill",
       "description": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。",
-      "stars": 666,
+      "stars": 667,
       "language": null,
       "url": "https://github.com/alchaincyf/steve-jobs-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-11T19:55:36Z"
+      "updated_at": "2026-04-11T21:19:33Z"
     },
     {
       "id": 1202407194,
