@@ -1,121 +1,101 @@
 {
-  "lastUpdated": "2026-04-11T10:48:56.332Z",
+  "lastUpdated": "2026-04-11T11:17:55.283Z",
   "items": [
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 849,
+      "score": 880,
       "by": "normanvalentine",
       "time": 1775859400,
-      "comments": 422,
+      "comments": 425,
       "domain": "kentwalters.com"
     },
     {
       "id": 47695213,
       "title": "Optimal Strategy for Connect 4",
       "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 45,
+      "score": 54,
       "by": "marvinborner",
       "time": 1775677070,
-      "comments": 8,
+      "comments": 9,
       "domain": "2swap.github.io"
     },
     {
       "id": 47698455,
       "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
       "url": "https://playstarfling.com",
-      "score": 189,
+      "score": 205,
       "by": "iceberger2001",
       "time": 1775699567,
-      "comments": 55,
+      "comments": 58,
       "domain": "playstarfling.com"
     },
     {
       "id": 47719740,
       "title": "1D Chess",
       "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 829,
+      "score": 836,
       "by": "burnt-resistor",
       "time": 1775835448,
       "comments": 144,
       "domain": "rowan441.github.io"
     },
     {
-      "id": 47729069,
-      "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
-      "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
-      "score": 8,
-      "by": "BullsEye0",
-      "time": 1775900240,
-      "comments": 2,
-      "domain": "hackingpassion.com"
+      "id": 47724118,
+      "title": "Installing every* Firefox extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "score": 424,
+      "by": "RohanAdwankar",
+      "time": 1775858193,
+      "comments": 58,
+      "domain": "jack.cab"
     },
     {
       "id": 47687443,
       "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 76,
+      "score": 88,
       "by": "geox",
       "time": 1775639470,
-      "comments": 4,
+      "comments": 8,
       "domain": "apnews.com"
-    },
-    {
-      "id": 47724118,
-      "title": "Installing every* Firefox extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 411,
-      "by": "RohanAdwankar",
-      "time": 1775858193,
-      "comments": 56,
-      "domain": "jack.cab"
     },
     {
       "id": 47725583,
       "title": "Artemis II safely splashes down",
       "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 914,
+      "score": 935,
       "by": "areoform",
       "time": 1775866251,
-      "comments": 286,
+      "comments": 289,
       "domain": "cbsnews.com"
     },
     {
       "id": 47722333,
       "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
       "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 337,
+      "score": 339,
       "by": "neversaydie",
       "time": 1775848222,
-      "comments": 196,
+      "comments": 201,
       "domain": "bbc.com"
-    },
-    {
-      "id": 47676890,
-      "title": "Sybilproof reputation mechanisms (2005) [pdf]",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/1080192.1080202",
-      "score": 9,
-      "by": "perfmode",
-      "time": 1775575775,
-      "comments": 0,
-      "domain": "dl.acm.org"
     },
     {
       "id": 47721953,
       "title": "AI assistance when contributing to the Linux kernel",
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 335,
+      "score": 341,
       "by": "hmokiguess",
       "time": 1775846121,
-      "comments": 238,
+      "comments": 251,
       "domain": "github.com"
     },
     {
       "id": 47719942,
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 480,
+      "score": 484,
       "by": "zx2c4",
       "time": 1775836192,
       "comments": 142,
@@ -125,41 +105,61 @@
       "id": 47720419,
       "title": "Industrial design files for Keychron keyboards and mice",
       "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 376,
+      "score": 382,
       "by": "stingraycharles",
       "time": 1775838146,
-      "comments": 119,
+      "comments": 120,
       "domain": "github.com"
+    },
+    {
+      "id": 47676890,
+      "title": "Sybilproof reputation mechanisms (2005) [pdf]",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/1080192.1080202",
+      "score": 11,
+      "by": "perfmode",
+      "time": 1775575775,
+      "comments": 0,
+      "domain": "dl.acm.org"
+    },
+    {
+      "id": 47727659,
+      "title": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "score": 33,
+      "by": "maxvij",
+      "time": 1775884881,
+      "comments": 10,
+      "domain": "maxvanijsselmuiden.nl"
     },
     {
       "id": 47698111,
       "title": "Bevy game development tutorials and in-depth resources",
       "url": "https://taintedcoders.com/",
-      "score": 86,
+      "score": 88,
       "by": "GenericCanadian",
       "time": 1775696327,
       "comments": 18,
       "domain": "taintedcoders.com"
     },
     {
-      "id": 47727659,
-      "title": "Productive Procrastination",
-      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
-      "score": 29,
-      "by": "maxvij",
-      "time": 1775884881,
-      "comments": 9,
-      "domain": "maxvanijsselmuiden.nl"
-    },
-    {
       "id": 47717847,
       "title": "CPU-Z and HWMonitor compromised",
       "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-      "score": 335,
+      "score": 339,
       "by": "pashadee",
       "time": 1775827760,
       "comments": 92,
       "domain": "theregister.com"
+    },
+    {
+      "id": 47721946,
+      "title": "JSON formatter Chrome plugin now closed and injecting adware",
+      "url": "https://github.com/callumlocke/json-formatter",
+      "score": 226,
+      "by": "jkl5xx",
+      "time": 1775846095,
+      "comments": 112,
+      "domain": "github.com"
     },
     {
       "id": 47719274,
@@ -168,108 +168,88 @@
       "score": 318,
       "by": "JumpCrisscross",
       "time": 1775833611,
-      "comments": 221,
+      "comments": 222,
       "domain": "construction-physics.com"
-    },
-    {
-      "id": 47721946,
-      "title": "JSON formatter Chrome plugin now closed and injecting adware",
-      "url": "https://github.com/callumlocke/json-formatter",
-      "score": 223,
-      "by": "jkl5xx",
-      "time": 1775846095,
-      "comments": 111,
-      "domain": "github.com"
-    },
-    {
-      "id": 47727711,
-      "title": "20 years on AWS and never not my job",
-      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-      "score": 157,
-      "by": "cperciva",
-      "time": 1775885470,
-      "comments": 27,
-      "domain": "daemonology.net"
-    },
-    {
-      "id": 47728721,
-      "title": "Artemis II is competency porn",
-      "url": "https://lizplank.substack.com/p/artemis-ii-is-competency-porn-and",
-      "score": 7,
-      "by": "jgrodziski",
-      "time": 1775896523,
-      "comments": 3,
-      "domain": "lizplank.substack.com"
-    },
-    {
-      "id": 47700556,
-      "title": "A practical guide for setting up Zettelkasten method in Obsidian",
-      "url": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
-      "score": 54,
-      "by": "rkrizanovskis",
-      "time": 1775721480,
-      "comments": 28,
-      "domain": "desktopcommander.app"
-    },
-    {
-      "id": 47727076,
-      "title": "Quien – A better WHOIS lookup tool",
-      "url": "https://github.com/retlehs/quien/",
-      "score": 45,
-      "by": "bretthopper",
-      "time": 1775878290,
-      "comments": 13,
-      "domain": "github.com"
     },
     {
       "id": 47702890,
       "title": "How Passive Radar Works",
       "url": "https://www.passiveradar.com/how-passive-radar-works/",
-      "score": 4,
+      "score": 5,
       "by": "surprisetalk",
       "time": 1775738124,
       "comments": 0,
       "domain": "passiveradar.com"
     },
     {
-      "id": 47725403,
-      "title": "Italo Calvino: A traveller in a world of uncertainty",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-      "score": 78,
-      "by": "lermontov",
-      "time": 1775864887,
-      "comments": 14,
-      "domain": "historytoday.com"
+      "id": 47727711,
+      "title": "20 years on AWS and never not my job",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "score": 164,
+      "by": "cperciva",
+      "time": 1775885470,
+      "comments": 32,
+      "domain": "daemonology.net"
+    },
+    {
+      "id": 47700556,
+      "title": "A practical guide for setting up Zettelkasten method in Obsidian",
+      "url": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
+      "score": 56,
+      "by": "rkrizanovskis",
+      "time": 1775721480,
+      "comments": 30,
+      "domain": "desktopcommander.app"
     },
     {
       "id": 47728653,
       "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
       "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "score": 24,
+      "score": 33,
       "by": "pabs3",
       "time": 1775895914,
-      "comments": 9,
+      "comments": 15,
       "domain": "xda-developers.com"
     },
     {
-      "id": 47722262,
-      "title": "Watgo – A WebAssembly Toolkit for Go",
-      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
-      "score": 96,
-      "by": "ibobev",
-      "time": 1775847819,
-      "comments": 7,
-      "domain": "eli.thegreenplace.net"
+      "id": 47727076,
+      "title": "Quien – A better WHOIS lookup tool",
+      "url": "https://github.com/retlehs/quien/",
+      "score": 46,
+      "by": "bretthopper",
+      "time": 1775878290,
+      "comments": 15,
+      "domain": "github.com"
+    },
+    {
+      "id": 47725403,
+      "title": "Italo Calvino: A traveller in a world of uncertainty",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "score": 79,
+      "by": "lermontov",
+      "time": 1775864887,
+      "comments": 15,
+      "domain": "historytoday.com"
     },
     {
       "id": 47701769,
       "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
       "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
-      "score": 93,
+      "score": 94,
       "by": "sohkamyung",
       "time": 1775730508,
       "comments": 5,
       "domain": "thereader.mitpress.mit.edu"
+    },
+    {
+      "id": 47722262,
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "score": 97,
+      "by": "ibobev",
+      "time": 1775847819,
+      "comments": 7,
+      "domain": "eli.thegreenplace.net"
     },
     {
       "id": 47685984,
@@ -282,6 +262,16 @@
       "domain": "chipsandcheese.com"
     },
     {
+      "id": 47720827,
+      "title": "A compelling title that is cryptic enough to get you to take action on it",
+      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "score": 242,
+      "by": "mooreds",
+      "time": 1775840035,
+      "comments": 127,
+      "domain": "ericwbailey.website"
+    },
+    {
       "id": 47720418,
       "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
       "url": "https://twill.ai",
@@ -290,6 +280,16 @@
       "time": 1775838133,
       "comments": 69,
       "domain": "twill.ai"
+    },
+    {
+      "id": 47716809,
+      "title": "Intel 486 CPU announced April 10, 1989",
+      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+      "score": 170,
+      "by": "jnord",
+      "time": 1775822614,
+      "comments": 156,
+      "domain": "dfarq.homeip.net"
     }
   ]
 }
