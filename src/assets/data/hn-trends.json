@@ -1,195 +1,275 @@
 {
-  "lastUpdated": "2026-04-11T19:22:33.620Z",
+  "lastUpdated": "2026-04-11T19:53:00.935Z",
   "items": [
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 363,
+      "score": 413,
       "by": "dominicq",
       "time": 1775926048,
-      "comments": 106,
+      "comments": 124,
       "domain": "aisle.com"
     },
     {
-      "id": 47694064,
-      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "score": 87,
-      "by": "coolwulf",
-      "time": 1775671852,
-      "comments": 18,
-      "domain": "flight-viz.com"
+      "id": 47733217,
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 17,
+      "by": "Anon84",
+      "time": 1775934956,
+      "comments": 1,
+      "domain": "rdi.berkeley.edu"
     },
     {
       "id": 47731506,
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 112,
+      "score": 122,
       "by": "zdw",
       "time": 1775921959,
-      "comments": 19,
+      "comments": 25,
       "domain": "v68k.org"
-    },
-    {
-      "id": 47730194,
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "score": 189,
-      "by": "seekdeep",
-      "time": 1775912494,
-      "comments": 93,
-      "domain": "cirruslabs.org"
-    },
-    {
-      "id": 47693559,
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 108,
-      "by": "codetheweb",
-      "time": 1775669779,
-      "comments": 34,
-      "domain": "notes.brooklynzelenka.com"
     },
     {
       "id": 47732697,
       "title": "How to build a `Git diff` driver",
       "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 13,
+      "score": 21,
       "by": "zdw",
       "time": 1775930869,
       "comments": 0,
       "domain": "jvt.me"
     },
     {
+      "id": 47730194,
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 194,
+      "by": "seekdeep",
+      "time": 1775912494,
+      "comments": 96,
+      "domain": "cirruslabs.org"
+    },
+    {
+      "id": 47693559,
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "score": 113,
+      "by": "codetheweb",
+      "time": 1775669779,
+      "comments": 36,
+      "domain": "notes.brooklynzelenka.com"
+    },
+    {
       "id": 47731838,
       "title": "Keeping a Postgres Queue Healthy",
       "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "score": 40,
+      "score": 44,
       "by": "tanelpoder",
       "time": 1775924648,
-      "comments": 5,
+      "comments": 10,
       "domain": "planetscale.com"
     },
     {
       "id": 47712134,
       "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
       "url": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
-      "score": 21,
+      "score": 24,
       "by": "classichasclass",
       "time": 1775781381,
-      "comments": 1,
+      "comments": 2,
       "domain": "restofworld.org"
     },
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 1214,
+      "score": 1227,
       "by": "normanvalentine",
       "time": 1775859400,
-      "comments": 563,
+      "comments": 567,
       "domain": "kentwalters.com"
     },
     {
       "id": 47731998,
       "title": "Phone Trips",
       "url": "http://www.wideweb.com/phonetrips/",
-      "score": 32,
+      "score": 37,
       "by": "bookofjoe",
       "time": 1775925820,
       "comments": 3,
       "domain": "wideweb.com"
     },
     {
+      "id": 47694064,
+      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "score": 117,
+      "by": "coolwulf",
+      "time": 1775671852,
+      "comments": 29,
+      "domain": "flight-viz.com"
+    },
+    {
+      "id": 47732402,
+      "title": "The APL programming language source code (2012)",
+      "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+      "score": 9,
+      "by": "tosh",
+      "time": 1775928850,
+      "comments": 1,
+      "domain": "computerhistory.org"
+    },
+    {
       "id": 47730712,
       "title": "The Problem That Built an Industry",
       "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 67,
+      "score": 70,
       "by": "ShaggyHotDog",
       "time": 1775916183,
-      "comments": 29,
+      "comments": 30,
       "domain": "ajitem.com"
-    },
-    {
-      "id": 47730981,
-      "title": "The future of everything is lies, I guess – Part 5: Annoyances",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "score": 146,
-      "by": "aphyr",
-      "time": 1775917959,
-      "comments": 77,
-      "domain": "aphyr.com"
     },
     {
       "id": 47698455,
       "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
       "url": "https://playstarfling.com",
-      "score": 468,
+      "score": 486,
       "by": "iceberger2001",
       "time": 1775699567,
-      "comments": 121,
+      "comments": 122,
       "domain": "playstarfling.com"
+    },
+    {
+      "id": 47730981,
+      "title": "The future of everything is lies, I guess – Part 5: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "score": 154,
+      "by": "aphyr",
+      "time": 1775917959,
+      "comments": 87,
+      "domain": "aphyr.com"
     },
     {
       "id": 47695213,
       "title": "Optimal Strategy for Connect 4",
       "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 222,
+      "score": 223,
       "by": "marvinborner",
       "time": 1775677070,
-      "comments": 27,
+      "comments": 28,
       "domain": "2swap.github.io"
-    },
-    {
-      "id": 47730407,
-      "title": "South Korea introduces universal basic mobile data access",
-      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "score": 216,
-      "by": "saikatsg",
-      "time": 1775914036,
-      "comments": 64,
-      "domain": "theregister.com"
     },
     {
       "id": 47687443,
       "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 288,
+      "score": 296,
       "by": "geox",
       "time": 1775639470,
-      "comments": 52,
+      "comments": 55,
       "domain": "apnews.com"
     },
     {
-      "id": 47732660,
-      "title": "Killing of Hind Rajab (2024)",
-      "url": "https://en.wikipedia.org/wiki/Killing_of_Hind_Rajab",
-      "score": 18,
-      "by": "lr0",
-      "time": 1775930588,
-      "comments": 1,
-      "domain": "en.wikipedia.org"
+      "id": 47730407,
+      "title": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "score": 229,
+      "by": "saikatsg",
+      "time": 1775914036,
+      "comments": 66,
+      "domain": "theregister.com"
+    },
+    {
+      "id": 47698046,
+      "title": "Layoff Thinking",
+      "url": "https://blogs.newardassociates.com/blog/2026/layoff-thinking.html",
+      "score": 10,
+      "by": "zdw",
+      "time": 1775695939,
+      "comments": 0,
+      "domain": "blogs.newardassociates.com"
     },
     {
       "id": 47689793,
-      "title": "How Much Linear Memory Access Is Enough?",
+      "title": "How much linear memory access is enough?",
       "url": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
-      "score": 52,
+      "score": 55,
       "by": "PhilipTrettner",
       "time": 1775654179,
-      "comments": 5,
+      "comments": 7,
       "domain": "solidean.com"
     },
     {
       "id": 47724118,
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 588,
+      "score": 592,
       "by": "RohanAdwankar",
       "time": 1775858193,
-      "comments": 71,
+      "comments": 73,
       "domain": "jack.cab"
+    },
+    {
+      "id": 47722333,
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 402,
+      "by": "neversaydie",
+      "time": 1775848222,
+      "comments": 243,
+      "domain": "bbc.com"
+    },
+    {
+      "id": 47731707,
+      "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
+      "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
+      "score": 63,
+      "by": "c420",
+      "time": 1775923492,
+      "comments": 33,
+      "domain": "kotaku.com"
+    },
+    {
+      "id": 47730370,
+      "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+      "score": 171,
+      "by": "PaulHoule",
+      "time": 1775913745,
+      "comments": 153,
+      "domain": "coindesk.com"
+    },
+    {
+      "id": 47702890,
+      "title": "How Passive Radar Works",
+      "url": "https://www.passiveradar.com/how-passive-radar-works/",
+      "score": 128,
+      "by": "surprisetalk",
+      "time": 1775738124,
+      "comments": 41,
+      "domain": "passiveradar.com"
+    },
+    {
+      "id": 47721953,
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "score": 467,
+      "by": "hmokiguess",
+      "time": 1775846121,
+      "comments": 348,
+      "domain": "github.com"
+    },
+    {
+      "id": 47697722,
+      "title": "Previously unknown verses by Empedocles found on papyrus",
+      "url": "https://www.thehistoryblog.com/archives/75792",
+      "score": 40,
+      "by": "danielam",
+      "time": 1775692833,
+      "comments": 10,
+      "domain": "thehistoryblog.com"
     },
     {
       "id": 47717690,
@@ -202,94 +282,14 @@
       "domain": "evolvebenchmark.com"
     },
     {
-      "id": 47722333,
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 398,
-      "by": "neversaydie",
-      "time": 1775848222,
-      "comments": 240,
-      "domain": "bbc.com"
-    },
-    {
-      "id": 47731707,
-      "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
-      "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
-      "score": 51,
-      "by": "c420",
-      "time": 1775923492,
-      "comments": 29,
-      "domain": "kotaku.com"
-    },
-    {
-      "id": 47730370,
-      "title": "Bitcoin miners are losing on every coin produced as difficulty drops",
-      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
-      "score": 156,
-      "by": "PaulHoule",
-      "time": 1775913745,
-      "comments": 143,
-      "domain": "coindesk.com"
-    },
-    {
-      "id": 47697722,
-      "title": "Previously unknown verses by Empedocles found on papyrus",
-      "url": "https://www.thehistoryblog.com/archives/75792",
-      "score": 38,
-      "by": "danielam",
-      "time": 1775692833,
-      "comments": 10,
-      "domain": "thehistoryblog.com"
-    },
-    {
-      "id": 47702890,
-      "title": "How Passive Radar Works",
-      "url": "https://www.passiveradar.com/how-passive-radar-works/",
-      "score": 123,
-      "by": "surprisetalk",
-      "time": 1775738124,
-      "comments": 41,
-      "domain": "passiveradar.com"
-    },
-    {
-      "id": 47721953,
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 460,
-      "by": "hmokiguess",
-      "time": 1775846121,
-      "comments": 346,
-      "domain": "github.com"
-    },
-    {
-      "id": 47731960,
-      "title": "The disturbing white paper Red Hat is trying to erase from the internet",
-      "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
-      "score": 116,
-      "by": "choult",
-      "time": 1775925530,
-      "comments": 26,
-      "domain": "osnews.com"
-    },
-    {
       "id": 47725583,
       "title": "Artemis II safely splashes down",
       "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 1184,
+      "score": 1193,
       "by": "areoform",
       "time": 1775866251,
-      "comments": 373,
+      "comments": 374,
       "domain": "cbsnews.com"
-    },
-    {
-      "id": 47728653,
-      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "score": 363,
-      "by": "pabs3",
-      "time": 1775895914,
-      "comments": 200,
-      "domain": "xda-developers.com"
     }
   ]
 }
