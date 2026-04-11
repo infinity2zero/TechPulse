@@ -1,31 +1,41 @@
 {
-  "lastUpdated": "2026-04-11T08:48:43.947Z",
+  "lastUpdated": "2026-04-11T09:27:34.291Z",
   "items": [
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 753,
+      "score": 781,
       "by": "normanvalentine",
       "time": 1775859400,
-      "comments": 380,
+      "comments": 396,
       "domain": "kentwalters.com"
+    },
+    {
+      "id": 47695213,
+      "title": "Optimal Strategy for Connect 4",
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "score": 20,
+      "by": "marvinborner",
+      "time": 1775677070,
+      "comments": 5,
+      "domain": "2swap.github.io"
     },
     {
       "id": 47698455,
       "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
       "url": "https://playstarfling.com",
-      "score": 132,
+      "score": 157,
       "by": "iceberger2001",
       "time": 1775699567,
-      "comments": 40,
+      "comments": 49,
       "domain": "playstarfling.com"
     },
     {
       "id": 47719740,
       "title": "1D Chess",
       "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 794,
+      "score": 804,
       "by": "burnt-resistor",
       "time": 1775835448,
       "comments": 142,
@@ -35,197 +45,177 @@
       "id": 47725583,
       "title": "Artemis II safely splashes down",
       "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 849,
+      "score": 873,
       "by": "areoform",
       "time": 1775866251,
-      "comments": 270,
+      "comments": 276,
       "domain": "cbsnews.com"
     },
     {
       "id": 47724118,
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 368,
+      "score": 379,
       "by": "RohanAdwankar",
       "time": 1775858193,
-      "comments": 44,
+      "comments": 47,
       "domain": "jack.cab"
     },
     {
       "id": 47722333,
       "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
       "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 324,
+      "score": 330,
       "by": "neversaydie",
       "time": 1775848222,
-      "comments": 180,
+      "comments": 186,
       "domain": "bbc.com"
     },
     {
       "id": 47687443,
       "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 38,
+      "score": 48,
       "by": "geox",
       "time": 1775639470,
-      "comments": 1,
+      "comments": 2,
       "domain": "apnews.com"
-    },
-    {
-      "id": 47695213,
-      "title": "Optimal Strategy for Connect 4",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 6,
-      "by": "marvinborner",
-      "time": 1775677070,
-      "comments": 1,
-      "domain": "2swap.github.io"
-    },
-    {
-      "id": 47727711,
-      "title": "20 years on AWS and never not my job",
-      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-      "score": 129,
-      "by": "cperciva",
-      "time": 1775885470,
-      "comments": 18,
-      "domain": "daemonology.net"
-    },
-    {
-      "id": 47719942,
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 465,
-      "by": "zx2c4",
-      "time": 1775836192,
-      "comments": 134,
-      "domain": "lists.zx2c4.com"
     },
     {
       "id": 47721953,
       "title": "AI assistance when contributing to the Linux kernel",
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 305,
+      "score": 315,
       "by": "hmokiguess",
       "time": 1775846121,
-      "comments": 199,
+      "comments": 211,
       "domain": "github.com"
     },
     {
-      "id": 47727575,
-      "title": "Great at gaming? US air traffic control wants you to apply",
-      "url": "https://www.bbc.com/news/articles/ce84rvx0e6do",
-      "score": 28,
-      "by": "1659447091",
-      "time": 1775883857,
-      "comments": 35,
-      "domain": "bbc.com"
+      "id": 47719942,
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "score": 472,
+      "by": "zx2c4",
+      "time": 1775836192,
+      "comments": 138,
+      "domain": "lists.zx2c4.com"
     },
     {
       "id": 47720419,
       "title": "Industrial design files for Keychron keyboards and mice",
       "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 368,
+      "score": 371,
       "by": "stingraycharles",
       "time": 1775838146,
       "comments": 111,
       "domain": "github.com"
     },
     {
+      "id": 47727711,
+      "title": "20 years on AWS and never not my job",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "score": 137,
+      "by": "cperciva",
+      "time": 1775885470,
+      "comments": 20,
+      "domain": "daemonology.net"
+    },
+    {
       "id": 47698111,
       "title": "Bevy game development tutorials and in-depth resources",
       "url": "https://taintedcoders.com/",
-      "score": 79,
+      "score": 80,
       "by": "GenericCanadian",
       "time": 1775696327,
       "comments": 14,
       "domain": "taintedcoders.com"
     },
     {
-      "id": 47693960,
-      "title": "Flashback to a time when government reports were works of art",
-      "url": "https://www.chicagotribune.com/2026/04/08/transportation-library-northwestern/",
-      "score": 18,
-      "by": "NaOH",
-      "time": 1775671436,
-      "comments": 5,
-      "domain": "chicagotribune.com"
+      "id": 47717847,
+      "title": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "score": 325,
+      "by": "pashadee",
+      "time": 1775827760,
+      "comments": 92,
+      "domain": "theregister.com"
     },
     {
       "id": 47700556,
       "title": "A practical guide for setting up Zettelkasten method in Obsidian",
       "url": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
-      "score": 49,
+      "score": 50,
       "by": "rkrizanovskis",
       "time": 1775721480,
-      "comments": 23,
+      "comments": 26,
       "domain": "desktopcommander.app"
     },
     {
       "id": 47721946,
       "title": "JSON formatter Chrome plugin now closed and injecting adware",
       "url": "https://github.com/callumlocke/json-formatter",
-      "score": 213,
+      "score": 215,
       "by": "jkl5xx",
       "time": 1775846095,
       "comments": 109,
       "domain": "github.com"
     },
     {
-      "id": 47717847,
-      "title": "CPU-Z and HWMonitor compromised",
-      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-      "score": 321,
-      "by": "pashadee",
-      "time": 1775827760,
-      "comments": 89,
-      "domain": "theregister.com"
-    },
-    {
-      "id": 47727659,
-      "title": "Productive Procrastination",
-      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
-      "score": 15,
-      "by": "maxvij",
-      "time": 1775884881,
-      "comments": 6,
-      "domain": "maxvanijsselmuiden.nl"
-    },
-    {
       "id": 47719274,
       "title": "Helium is hard to replace",
       "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "score": 305,
+      "score": 312,
       "by": "JumpCrisscross",
       "time": 1775833611,
-      "comments": 210,
+      "comments": 214,
       "domain": "construction-physics.com"
     },
     {
       "id": 47727076,
       "title": "Quien – A better WHOIS lookup tool",
       "url": "https://github.com/retlehs/quien/",
-      "score": 38,
+      "score": 44,
       "by": "bretthopper",
       "time": 1775878290,
-      "comments": 10,
+      "comments": 11,
       "domain": "github.com"
+    },
+    {
+      "id": 47727659,
+      "title": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "score": 19,
+      "by": "maxvij",
+      "time": 1775884881,
+      "comments": 6,
+      "domain": "maxvanijsselmuiden.nl"
     },
     {
       "id": 47727387,
       "title": "The Seasons Are Wrong",
       "url": "https://kentwalters.com/posts/seasons/",
-      "score": 16,
+      "score": 25,
       "by": "NikxDa",
       "time": 1775881531,
-      "comments": 24,
+      "comments": 31,
       "domain": "kentwalters.com"
+    },
+    {
+      "id": 47728134,
+      "title": "Moooooonitoring the Cow.txt Herd",
+      "url": "https://moooo.farm/",
+      "score": 12,
+      "by": "pabs3",
+      "time": 1775890217,
+      "comments": 3,
+      "domain": "moooo.farm"
     },
     {
       "id": 47701769,
       "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
       "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
-      "score": 86,
+      "score": 88,
       "by": "sohkamyung",
       "time": 1775730508,
       "comments": 4,
@@ -235,21 +225,11 @@
       "id": 47725403,
       "title": "Italo Calvino: A traveller in a world of uncertainty",
       "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-      "score": 70,
+      "score": 71,
       "by": "lermontov",
       "time": 1775864887,
       "comments": 14,
       "domain": "historytoday.com"
-    },
-    {
-      "id": 47685984,
-      "title": "Investigating Split Locks on x86-64",
-      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
-      "score": 54,
-      "by": "ingve",
-      "time": 1775628379,
-      "comments": 17,
-      "domain": "chipsandcheese.com"
     },
     {
       "id": 47722262,
@@ -262,13 +242,23 @@
       "domain": "eli.thegreenplace.net"
     },
     {
+      "id": 47685984,
+      "title": "Investigating Split Locks on x86-64",
+      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
+      "score": 54,
+      "by": "ingve",
+      "time": 1775628379,
+      "comments": 19,
+      "domain": "chipsandcheese.com"
+    },
+    {
       "id": 47691538,
       "title": "What is RISC-V and why it matters to Canonical",
       "url": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical",
-      "score": 128,
+      "score": 129,
       "by": "fork-bomber",
       "time": 1775661963,
-      "comments": 88,
+      "comments": 89,
       "domain": "ubuntu.com"
     },
     {
@@ -282,24 +272,34 @@
       "domain": "twill.ai"
     },
     {
-      "id": 47728134,
-      "title": "Moooooonitoring the Cow.txt Herd",
-      "url": "https://moooo.farm/",
-      "score": 5,
-      "by": "pabs3",
-      "time": 1775890217,
-      "comments": 0,
-      "domain": "moooo.farm"
-    },
-    {
       "id": 47720827,
       "title": "A compelling title that is cryptic enough to get you to take action on it",
       "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-      "score": 220,
+      "score": 230,
       "by": "mooreds",
       "time": 1775840035,
-      "comments": 119,
+      "comments": 123,
       "domain": "ericwbailey.website"
+    },
+    {
+      "id": 47716809,
+      "title": "Intel 486 CPU announced April 10, 1989",
+      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+      "score": 166,
+      "by": "jnord",
+      "time": 1775822614,
+      "comments": 155,
+      "domain": "dfarq.homeip.net"
+    },
+    {
+      "id": 47721955,
+      "title": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
+      "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+      "score": 109,
+      "by": "sonink",
+      "time": 1775846129,
+      "comments": 127,
+      "domain": "blog.nishantsoni.com"
     }
   ]
 }
