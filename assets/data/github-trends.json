@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-04-12T19:26:09.109Z",
+  "lastUpdated": "2026-04-12T19:57:03.665Z",
   "items": [
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 3910,
+      "stars": 3915,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-12T19:20:14Z"
+      "updated_at": "2026-04-12T19:53:04Z"
     },
     {
       "id": 1203185600,
       "name": "xixu-me/awesome-persona-distill-skills",
       "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "stars": 3397,
+      "stars": 3398,
       "language": "JavaScript",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "owner": {
         "login": "xixu-me",
         "avatar_url": "https://avatars.githubusercontent.com/u/109734945?v=4"
       },
-      "updated_at": "2026-04-12T19:04:23Z"
+      "updated_at": "2026-04-12T19:45:51Z"
     },
     {
       "id": 1204451436,
@@ -44,53 +44,53 @@
       "id": 1202599845,
       "name": "KKKKhazix/khazix-skills",
       "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "stars": 1706,
+      "stars": 1707,
       "language": "Python",
       "url": "https://github.com/KKKKhazix/khazix-skills",
       "owner": {
         "login": "KKKKhazix",
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
-      "updated_at": "2026-04-12T18:25:21Z"
+      "updated_at": "2026-04-12T19:37:03Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1501,
+      "stars": 1507,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-12T19:22:04Z"
+      "updated_at": "2026-04-12T19:55:00Z"
     },
     {
       "id": 1203504681,
       "name": "mattmireles/gemma-tuner-multimodal",
       "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "stars": 1220,
+      "stars": 1222,
       "language": "Python",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "owner": {
         "login": "mattmireles",
         "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
       },
-      "updated_at": "2026-04-12T19:05:37Z"
+      "updated_at": "2026-04-12T19:55:50Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 889,
+      "stars": 890,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-12T18:45:43Z"
+      "updated_at": "2026-04-12T19:46:04Z"
     },
     {
       "id": 1204165003,
@@ -109,27 +109,27 @@
       "id": 1202555904,
       "name": "wxtsky/CodeIsland",
       "description": null,
-      "stars": 866,
+      "stars": 868,
       "language": "Swift",
       "url": "https://github.com/wxtsky/CodeIsland",
       "owner": {
         "login": "wxtsky",
         "avatar_url": "https://avatars.githubusercontent.com/u/79189721?v=4"
       },
-      "updated_at": "2026-04-12T16:53:34Z"
+      "updated_at": "2026-04-12T19:50:13Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 857,
+      "stars": 858,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-12T19:19:52Z"
+      "updated_at": "2026-04-12T19:31:36Z"
     },
     {
       "id": 1202745354,
@@ -155,7 +155,7 @@
         "login": "xtclovver",
         "avatar_url": "https://avatars.githubusercontent.com/u/44809071?v=4"
       },
-      "updated_at": "2026-04-12T19:23:55Z"
+      "updated_at": "2026-04-12T19:55:30Z"
     },
     {
       "id": 1202407194,
@@ -174,14 +174,14 @@
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 665,
+      "stars": 666,
       "language": "Python",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-12T19:24:12Z"
+      "updated_at": "2026-04-12T19:30:34Z"
     },
     {
       "id": 1202683283,
@@ -200,40 +200,40 @@
       "id": 1202912730,
       "name": "coleam00/claude-memory-compiler",
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "stars": 604,
+      "stars": 608,
       "language": "Python",
       "url": "https://github.com/coleam00/claude-memory-compiler",
       "owner": {
         "login": "coleam00",
         "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
       },
-      "updated_at": "2026-04-12T18:33:12Z"
+      "updated_at": "2026-04-12T19:40:36Z"
     },
     {
       "id": 1203670949,
       "name": "AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 593,
+      "stars": 597,
       "language": "Shell",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "owner": {
         "login": "AgriciDaniel",
         "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
       },
-      "updated_at": "2026-04-12T19:16:52Z"
+      "updated_at": "2026-04-12T19:43:35Z"
     },
     {
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 588,
+      "stars": 589,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-12T18:48:16Z"
+      "updated_at": "2026-04-12T19:29:36Z"
     },
     {
       "id": 1205618518,
@@ -252,14 +252,14 @@
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 559,
+      "stars": 566,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-12T19:25:06Z"
+      "updated_at": "2026-04-12T19:56:17Z"
     }
   ]
 }
