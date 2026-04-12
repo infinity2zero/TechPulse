@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-04-12T10:41:15.960Z",
+  "lastUpdated": "2026-04-12T11:20:44.984Z",
   "items": [
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 3848,
+      "stars": 3855,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-12T10:40:00Z"
+      "updated_at": "2026-04-12T11:18:33Z"
     },
     {
       "id": 1203185600,
       "name": "xixu-me/awesome-persona-distill-skills",
       "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "stars": 3304,
+      "stars": 3310,
       "language": "JavaScript",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "owner": {
         "login": "xixu-me",
         "avatar_url": "https://avatars.githubusercontent.com/u/109734945?v=4"
       },
-      "updated_at": "2026-04-12T10:29:28Z"
+      "updated_at": "2026-04-12T11:09:33Z"
     },
     {
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 1999,
+      "stars": 2003,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-12T10:39:28Z"
+      "updated_at": "2026-04-12T11:11:32Z"
     },
     {
       "id": 1202599845,
       "name": "KKKKhazix/khazix-skills",
       "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "stars": 1651,
+      "stars": 1654,
       "language": null,
       "url": "https://github.com/KKKKhazix/khazix-skills",
       "owner": {
         "login": "KKKKhazix",
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
-      "updated_at": "2026-04-12T10:06:12Z"
+      "updated_at": "2026-04-12T11:18:06Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1253,
+      "stars": 1262,
       "language": "Shell",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-12T10:41:05Z"
+      "updated_at": "2026-04-12T11:20:02Z"
     },
     {
       "id": 1203504681,
       "name": "mattmireles/gemma-tuner-multimodal",
       "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "stars": 1202,
+      "stars": 1204,
       "language": "Python",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "owner": {
         "login": "mattmireles",
         "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
       },
-      "updated_at": "2026-04-12T08:18:48Z"
+      "updated_at": "2026-04-12T11:08:32Z"
     },
     {
       "id": 1204165003,
@@ -96,66 +96,66 @@
       "id": 1202555904,
       "name": "wxtsky/CodeIsland",
       "description": null,
-      "stars": 853,
+      "stars": 856,
       "language": "Swift",
       "url": "https://github.com/wxtsky/CodeIsland",
       "owner": {
         "login": "wxtsky",
         "avatar_url": "https://avatars.githubusercontent.com/u/79189721?v=4"
       },
-      "updated_at": "2026-04-12T09:56:29Z"
-    },
-    {
-      "id": 1205523418,
-      "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 772,
-      "language": "JavaScript",
-      "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
-      "owner": {
-        "login": "QLHazyCoder",
-        "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
-      },
-      "updated_at": "2026-04-12T10:33:55Z"
+      "updated_at": "2026-04-12T11:08:51Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 771,
+      "stars": 776,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-12T10:40:12Z"
+      "updated_at": "2026-04-12T11:10:50Z"
+    },
+    {
+      "id": 1205523418,
+      "name": "QLHazyCoder/codex-oauth-automation-extension",
+      "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+      "stars": 774,
+      "language": "JavaScript",
+      "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+      "owner": {
+        "login": "QLHazyCoder",
+        "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
+      },
+      "updated_at": "2026-04-12T11:07:33Z"
     },
     {
       "id": 1202745354,
       "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
       "description": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom",
-      "stars": 753,
+      "stars": 755,
       "language": null,
       "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
       "owner": {
         "login": "adamlyttleapps",
         "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
       },
-      "updated_at": "2026-04-12T09:28:14Z"
+      "updated_at": "2026-04-12T11:14:07Z"
     },
     {
       "id": 1203251892,
       "name": "xtclovver/RKNHardering",
       "description": null,
-      "stars": 698,
+      "stars": 701,
       "language": "Kotlin",
       "url": "https://github.com/xtclovver/RKNHardering",
       "owner": {
         "login": "xtclovver",
         "avatar_url": "https://avatars.githubusercontent.com/u/44809071?v=4"
       },
-      "updated_at": "2026-04-12T10:23:36Z"
+      "updated_at": "2026-04-12T11:14:03Z"
     },
     {
       "id": 1202407194,
@@ -174,14 +174,14 @@
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 611,
+      "stars": 612,
       "language": "Python",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-12T10:36:38Z"
+      "updated_at": "2026-04-12T11:02:22Z"
     },
     {
       "id": 1202683283,
@@ -200,40 +200,53 @@
       "id": 1202912730,
       "name": "coleam00/claude-memory-compiler",
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "stars": 584,
+      "stars": 586,
       "language": "Python",
       "url": "https://github.com/coleam00/claude-memory-compiler",
       "owner": {
         "login": "coleam00",
         "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
       },
-      "updated_at": "2026-04-12T10:23:55Z"
+      "updated_at": "2026-04-12T10:55:23Z"
     },
     {
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 574,
+      "stars": 577,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-12T10:34:36Z"
+      "updated_at": "2026-04-12T11:18:31Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 554,
+      "stars": 557,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-12T10:23:06Z"
+      "updated_at": "2026-04-12T11:20:10Z"
+    },
+    {
+      "id": 1203670949,
+      "name": "AgriciDaniel/claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+      "stars": 551,
+      "language": "Shell",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "owner": {
+        "login": "AgriciDaniel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+      },
+      "updated_at": "2026-04-12T11:09:14Z"
     },
     {
       "id": 1204466824,
@@ -247,19 +260,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/193594001?v=4"
       },
       "updated_at": "2026-04-12T09:44:01Z"
-    },
-    {
-      "id": 1203670949,
-      "name": "AgriciDaniel/claude-obsidian",
-      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 547,
-      "language": "Shell",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "owner": {
-        "login": "AgriciDaniel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
-      },
-      "updated_at": "2026-04-12T10:39:49Z"
     }
   ]
 }

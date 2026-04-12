@@ -1,161 +1,201 @@
 {
-  "lastUpdated": "2026-04-12T10:41:15.746Z",
+  "lastUpdated": "2026-04-12T11:20:44.646Z",
   "items": [
+    {
+      "id": 47737928,
+      "title": "MiniMax M2.7 Is Now Open Source",
+      "url": "https://firethering.com/minimax-m2-7-agentic-model/",
+      "score": 44,
+      "by": "steveharing1",
+      "time": 1775988453,
+      "comments": 11,
+      "domain": "firethering.com"
+    },
+    {
+      "id": 47738094,
+      "title": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "score": 5,
+      "by": "0x54MUR41",
+      "time": 1775989766,
+      "comments": 0,
+      "domain": "chriswhocodes.com"
+    },
     {
       "id": 47706423,
       "title": "An Interview with Pat Gelsinger",
       "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "score": 34,
+      "score": 40,
       "by": "zdw",
       "time": 1775755150,
-      "comments": 10,
+      "comments": 18,
       "domain": "morethanmoore.substack.com"
-    },
-    {
-      "id": 47672718,
-      "title": "Tofolli gates are all you need",
-      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 59,
-      "by": "ibobev",
-      "time": 1775554857,
-      "comments": 7,
-      "domain": "johndcook.com"
-    },
-    {
-      "id": 47736555,
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 232,
-      "by": "tradertef",
-      "time": 1775973600,
-      "comments": 167,
-      "domain": "stevehanov.ca"
     },
     {
       "id": 47674910,
       "title": "The Miller Principle",
       "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "score": 14,
+      "score": 33,
       "by": "FelipeCortez",
       "time": 1775567796,
-      "comments": 11,
+      "comments": 22,
       "domain": "puredanger.github.io"
+    },
+    {
+      "id": 47737376,
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "score": 27,
+      "by": "_Microft",
+      "time": 1775983091,
+      "comments": 6,
+      "domain": "phyphox.org"
+    },
+    {
+      "id": 47672718,
+      "title": "Tofolli gates are all you need",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "score": 68,
+      "by": "ibobev",
+      "time": 1775554857,
+      "comments": 11,
+      "domain": "johndcook.com"
+    },
+    {
+      "id": 47737383,
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "score": 141,
+      "by": "OuterVale",
+      "time": 1775983136,
+      "comments": 67,
+      "domain": "theregister.com"
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 386,
+      "score": 395,
       "by": "Anon84",
       "time": 1775934956,
-      "comments": 97,
+      "comments": 99,
       "domain": "rdi.berkeley.edu"
+    },
+    {
+      "id": 47674473,
+      "title": "Stewart Brand on How Progress Happens",
+      "url": "https://www.newyorker.com/books/book-currents/stewart-brand-on-how-progress-happens",
+      "score": 9,
+      "by": "bookofjoe",
+      "time": 1775566022,
+      "comments": 1,
+      "domain": "newyorker.com"
     },
     {
       "id": 47735535,
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 171,
+      "score": 174,
       "by": "ValentineC",
       "time": 1775958948,
-      "comments": 124,
+      "comments": 125,
       "domain": "brennan.day"
-    },
-    {
-      "id": 47736298,
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 163,
-      "by": "Jimmc414",
-      "time": 1775970483,
-      "comments": 123,
-      "domain": "theguardian.com"
     },
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1116,
+      "score": 1123,
       "by": "dominicq",
       "time": 1775926048,
       "comments": 298,
       "domain": "aisle.com"
     },
     {
-      "id": 47737383,
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "score": 101,
-      "by": "OuterVale",
-      "time": 1775983136,
-      "comments": 49,
-      "domain": "theregister.com"
+      "id": 47736555,
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "score": 263,
+      "by": "tradertef",
+      "time": 1775973600,
+      "comments": 189,
+      "domain": "stevehanov.ca"
     },
     {
       "id": 47673171,
       "title": "How Complex is my Code?",
       "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 129,
+      "score": 132,
       "by": "speckx",
       "time": 1775558695,
-      "comments": 30,
+      "comments": 31,
       "domain": "philodev.one"
     },
     {
-      "id": 47737376,
-      "title": "Phyphox – Physical Experiments Using a Smartphone",
-      "url": "https://phyphox.org/",
-      "score": 6,
-      "by": "_Microft",
-      "time": 1775983091,
-      "comments": 2,
-      "domain": "phyphox.org"
-    },
-    {
-      "id": 47672941,
-      "title": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "score": 156,
-      "by": "kouosi",
-      "time": 1775556998,
-      "comments": 24,
-      "domain": "pijul.org"
-    },
-    {
-      "id": 47733561,
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 218,
-      "by": "iliatoli",
-      "time": 1775938126,
-      "comments": 108,
-      "domain": "zenodo.org"
+      "id": 47736298,
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "score": 177,
+      "by": "Jimmc414",
+      "time": 1775970483,
+      "comments": 134,
+      "domain": "theguardian.com"
     },
     {
       "id": 47733521,
       "title": "Dark Castle",
       "url": "https://darkcastle.co.uk/",
-      "score": 186,
+      "score": 191,
       "by": "evo_9",
       "time": 1775937719,
       "comments": 24,
       "domain": "darkcastle.co.uk"
     },
     {
+      "id": 47733561,
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 219,
+      "by": "iliatoli",
+      "time": 1775938126,
+      "comments": 113,
+      "domain": "zenodo.org"
+    },
+    {
+      "id": 47672941,
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "score": 159,
+      "by": "kouosi",
+      "time": 1775556998,
+      "comments": 24,
+      "domain": "pijul.org"
+    },
+    {
       "id": 47733971,
       "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
       "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 203,
+      "score": 205,
       "by": "krackers",
       "time": 1775941128,
-      "comments": 141,
+      "comments": 142,
       "domain": "khronokernel.com"
+    },
+    {
+      "id": 47671814,
+      "title": "Network Flow Algorithms",
+      "url": "https://www.networkflowalgs.com/",
+      "score": 23,
+      "by": "teleforce",
+      "time": 1775546834,
+      "comments": 0,
+      "domain": "networkflowalgs.com"
     },
     {
       "id": 47731506,
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 244,
+      "score": 246,
       "by": "zdw",
       "time": 1775921959,
       "comments": 62,
@@ -175,51 +215,51 @@
       "id": 47693559,
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 216,
+      "score": 219,
       "by": "codetheweb",
       "time": 1775669779,
       "comments": 71,
       "domain": "notes.brooklynzelenka.com"
     },
     {
-      "id": 47732697,
-      "title": "How to build a `Git diff` driver",
-      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 117,
-      "by": "zdw",
-      "time": 1775930869,
-      "comments": 12,
-      "domain": "jvt.me"
-    },
-    {
       "id": 47735581,
       "title": "How a dancer with ALS used brainwaves to perform live",
       "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-      "score": 46,
+      "score": 48,
       "by": "1659447091",
       "time": 1775959753,
       "comments": 8,
       "domain": "electronicspecifier.com"
     },
     {
-      "id": 47671814,
-      "title": "Network Flow Algorithms",
-      "url": "https://www.networkflowalgs.com/",
-      "score": 17,
-      "by": "teleforce",
-      "time": 1775546834,
-      "comments": 0,
-      "domain": "networkflowalgs.com"
+      "id": 47732697,
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "score": 119,
+      "by": "zdw",
+      "time": 1775930869,
+      "comments": 12,
+      "domain": "jvt.me"
     },
     {
       "id": 47735810,
       "title": "Why meaningful days look like nothing while you are living them",
       "url": "https://pilgrima.ge/p/the-grand-line",
-      "score": 48,
+      "score": 51,
       "by": "momentmaker",
       "time": 1775963045,
-      "comments": 31,
+      "comments": 34,
       "domain": "pilgrima.ge"
+    },
+    {
+      "id": 47695213,
+      "title": "Optimal Strategy for Connect 4",
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "score": 296,
+      "by": "marvinborner",
+      "time": 1775677070,
+      "comments": 32,
+      "domain": "2swap.github.io"
     },
     {
       "id": 47674075,
@@ -228,7 +268,7 @@
       "score": 80,
       "by": "alpaylan",
       "time": 1775564187,
-      "comments": 22,
+      "comments": 23,
       "domain": "alperenkeles.com"
     },
     {
@@ -242,54 +282,14 @@
       "domain": "skalski.dev"
     },
     {
-      "id": 47695213,
-      "title": "Optimal Strategy for Connect 4",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 296,
-      "by": "marvinborner",
-      "time": 1775677070,
-      "comments": 32,
-      "domain": "2swap.github.io"
-    },
-    {
-      "id": 47694064,
-      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "score": 340,
-      "by": "coolwulf",
-      "time": 1775671852,
-      "comments": 60,
-      "domain": "flight-viz.com"
-    },
-    {
       "id": 47735405,
       "title": "Software Preservation Group: C++ History Collection",
       "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
-      "score": 23,
+      "score": 26,
       "by": "quuxplusone",
       "time": 1775957065,
       "comments": 2,
       "domain": "softwarepreservation.computerhistory.org"
-    },
-    {
-      "id": 47724352,
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 1332,
-      "by": "normanvalentine",
-      "time": 1775859400,
-      "comments": 630,
-      "domain": "kentwalters.com"
-    },
-    {
-      "id": 47730712,
-      "title": "The Problem That Built an Industry",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 134,
-      "by": "ShaggyHotDog",
-      "time": 1775916183,
-      "comments": 44,
-      "domain": "ajitem.com"
     }
   ]
 }
