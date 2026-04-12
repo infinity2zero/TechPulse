@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-04-12T22:49:51.792Z",
+  "lastUpdated": "2026-04-12T23:20:56.175Z",
   "items": [
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 3935,
+      "stars": 3939,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-12T22:21:32Z"
+      "updated_at": "2026-04-12T23:20:27Z"
     },
     {
       "id": 1203185600,
@@ -31,14 +31,14 @@
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 2088,
+      "stars": 2089,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-12T22:48:10Z"
+      "updated_at": "2026-04-12T23:07:32Z"
     },
     {
       "id": 1202599845,
@@ -57,14 +57,14 @@
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1528,
+      "stars": 1533,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-12T22:39:01Z"
+      "updated_at": "2026-04-12T23:14:52Z"
     },
     {
       "id": 1203504681,
@@ -83,14 +83,14 @@
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 906,
+      "stars": 908,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-12T22:49:36Z"
+      "updated_at": "2026-04-12T23:17:38Z"
     },
     {
       "id": 1204165003,
@@ -122,14 +122,14 @@
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 865,
+      "stars": 866,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-12T22:45:34Z"
+      "updated_at": "2026-04-12T22:54:26Z"
     },
     {
       "id": 1202745354,
@@ -148,14 +148,14 @@
       "id": 1203251892,
       "name": "xtclovver/RKNHardering",
       "description": null,
-      "stars": 739,
+      "stars": 740,
       "language": "Kotlin",
       "url": "https://github.com/xtclovver/RKNHardering",
       "owner": {
         "login": "xtclovver",
         "avatar_url": "https://avatars.githubusercontent.com/u/44809071?v=4"
       },
-      "updated_at": "2026-04-12T22:32:11Z"
+      "updated_at": "2026-04-12T22:56:59Z"
     },
     {
       "id": 1202407194,
@@ -174,40 +174,40 @@
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 683,
+      "stars": 687,
       "language": "Python",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-12T22:43:42Z"
+      "updated_at": "2026-04-12T23:19:35Z"
     },
     {
       "id": 1203670949,
       "name": "AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 621,
+      "stars": 627,
       "language": "Shell",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "owner": {
         "login": "AgriciDaniel",
         "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
       },
-      "updated_at": "2026-04-12T22:41:46Z"
+      "updated_at": "2026-04-12T23:15:17Z"
     },
     {
       "id": 1202912730,
       "name": "coleam00/claude-memory-compiler",
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "stars": 615,
+      "stars": 616,
       "language": "Python",
       "url": "https://github.com/coleam00/claude-memory-compiler",
       "owner": {
         "login": "coleam00",
         "avatar_url": "https://avatars.githubusercontent.com/u/47287758?v=4"
       },
-      "updated_at": "2026-04-12T22:01:28Z"
+      "updated_at": "2026-04-12T23:15:55Z"
     },
     {
       "id": 1202683283,
@@ -226,40 +226,40 @@
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 599,
+      "stars": 600,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-12T22:44:12Z"
+      "updated_at": "2026-04-12T23:19:55Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 596,
+      "stars": 601,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-12T22:45:17Z"
+      "updated_at": "2026-04-12T23:15:16Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 575,
+      "stars": 576,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-12T22:07:02Z"
+      "updated_at": "2026-04-12T23:13:45Z"
     }
   ]
 }
