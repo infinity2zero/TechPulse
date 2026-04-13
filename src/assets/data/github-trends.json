@@ -1,187 +1,187 @@
 {
-  "lastUpdated": "2026-04-13T17:45:45.955Z",
+  "lastUpdated": "2026-04-13T18:51:08.034Z",
   "items": [
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 4057,
+      "stars": 4061,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-13T17:26:08Z"
+      "updated_at": "2026-04-13T18:23:37Z"
     },
     {
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 2262,
+      "stars": 2266,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-13T17:27:55Z"
+      "updated_at": "2026-04-13T18:37:15Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1975,
+      "stars": 1984,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-13T17:35:49Z"
+      "updated_at": "2026-04-13T18:42:30Z"
     },
     {
       "id": 1203504681,
       "name": "mattmireles/gemma-tuner-multimodal",
       "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "stars": 1250,
+      "stars": 1251,
       "language": "Python",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "owner": {
         "login": "mattmireles",
         "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
       },
-      "updated_at": "2026-04-13T15:37:43Z"
+      "updated_at": "2026-04-13T17:56:24Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 1169,
+      "stars": 1175,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-13T17:34:37Z"
+      "updated_at": "2026-04-13T18:48:06Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 1108,
+      "stars": 1112,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-13T17:45:18Z"
+      "updated_at": "2026-04-13T18:39:50Z"
     },
     {
       "id": 1203670949,
       "name": "AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 908,
+      "stars": 932,
       "language": "Shell",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "owner": {
         "login": "AgriciDaniel",
         "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
       },
-      "updated_at": "2026-04-13T17:39:05Z"
+      "updated_at": "2026-04-13T18:49:07Z"
     },
     {
       "id": 1204165003,
       "name": "phuryn/claude-usage",
       "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "stars": 896,
+      "stars": 898,
       "language": "Python",
       "url": "https://github.com/phuryn/claude-usage",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-04-13T15:23:44Z"
+      "updated_at": "2026-04-13T18:15:22Z"
     },
     {
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 808,
+      "stars": 814,
       "language": "Python",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-13T17:44:49Z"
+      "updated_at": "2026-04-13T18:38:58Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 775,
+      "stars": 785,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-13T17:22:03Z"
+      "updated_at": "2026-04-13T18:50:47Z"
     },
     {
       "id": 1204908370,
       "name": "momenbasel/PureMac",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "stars": 655,
+      "stars": 704,
       "language": "Swift",
       "url": "https://github.com/momenbasel/PureMac",
       "owner": {
         "login": "momenbasel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
       },
-      "updated_at": "2026-04-13T17:42:52Z"
+      "updated_at": "2026-04-13T18:51:02Z"
     },
     {
       "id": 1205406951,
       "name": "hexiecs/talk-normal",
       "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-      "stars": 644,
+      "stars": 653,
       "language": "Shell",
       "url": "https://github.com/hexiecs/talk-normal",
       "owner": {
         "login": "hexiecs",
         "avatar_url": "https://avatars.githubusercontent.com/u/12725406?v=4"
       },
-      "updated_at": "2026-04-13T17:37:43Z"
+      "updated_at": "2026-04-13T18:38:37Z"
     },
     {
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 637,
+      "stars": 639,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-13T17:43:46Z"
+      "updated_at": "2026-04-13T18:50:08Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 631,
+      "stars": 632,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-13T16:53:01Z"
+      "updated_at": "2026-04-13T18:12:46Z"
     },
     {
       "id": 1204466824,
@@ -226,40 +226,40 @@
       "id": 1206044340,
       "name": "hamen/material-3-skill",
       "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 415,
+      "stars": 417,
       "language": null,
       "url": "https://github.com/hamen/material-3-skill",
       "owner": {
         "login": "hamen",
         "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
       },
-      "updated_at": "2026-04-13T17:32:36Z"
+      "updated_at": "2026-04-13T18:41:55Z"
     },
     {
       "id": 1206549574,
       "name": "retlehs/quien",
       "description": "A better WHOIS lookup tool",
-      "stars": 411,
+      "stars": 417,
       "language": "Go",
       "url": "https://github.com/retlehs/quien",
       "owner": {
         "login": "retlehs",
         "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
       },
-      "updated_at": "2026-04-13T17:32:16Z"
+      "updated_at": "2026-04-13T18:37:13Z"
     },
     {
-      "id": 1205875176,
-      "name": "UnluckyNinja/SBTI-test",
-      "description": "注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿",
-      "stars": 371,
-      "language": "HTML",
-      "url": "https://github.com/UnluckyNinja/SBTI-test",
+      "id": 1204520409,
+      "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+      "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+      "stars": 374,
+      "language": "Python",
+      "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
       "owner": {
-        "login": "UnluckyNinja",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1270155?v=4"
+        "login": "Xiangyue-Zhang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85532891?v=4"
       },
-      "updated_at": "2026-04-13T15:59:26Z"
+      "updated_at": "2026-04-13T18:51:04Z"
     }
   ]
 }
