@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-04-13T01:29:07.675Z",
+  "lastUpdated": "2026-04-13T04:41:16.347Z",
   "items": [
     {
       "id": 1203503423,
       "name": "farzaa/clicky",
       "description": null,
-      "stars": 3946,
+      "stars": 3964,
       "language": "Swift",
       "url": "https://github.com/farzaa/clicky",
       "owner": {
         "login": "farzaa",
         "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
       },
-      "updated_at": "2026-04-13T01:05:51Z"
+      "updated_at": "2026-04-13T04:12:51Z"
     },
     {
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 2115,
+      "stars": 2147,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-13T01:28:42Z"
+      "updated_at": "2026-04-13T04:30:56Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1573,
+      "stars": 1672,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-13T01:26:03Z"
+      "updated_at": "2026-04-13T04:41:14Z"
     },
     {
       "id": 1203504681,
       "name": "mattmireles/gemma-tuner-multimodal",
       "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "stars": 1231,
+      "stars": 1236,
       "language": "Python",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "owner": {
         "login": "mattmireles",
         "avatar_url": "https://avatars.githubusercontent.com/u/4949789?v=4"
       },
-      "updated_at": "2026-04-13T01:04:50Z"
-    },
-    {
-      "id": 1204828304,
-      "name": "nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 922,
-      "language": "TypeScript",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "owner": {
-        "login": "nashsu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
-      },
-      "updated_at": "2026-04-13T01:27:51Z"
+      "updated_at": "2026-04-13T04:31:49Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 900,
+      "stars": 996,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-13T01:27:04Z"
+      "updated_at": "2026-04-13T04:39:41Z"
+    },
+    {
+      "id": 1204828304,
+      "name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "stars": 963,
+      "language": "TypeScript",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "owner": {
+        "login": "nashsu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+      },
+      "updated_at": "2026-04-13T04:28:43Z"
     },
     {
       "id": 1204165003,
       "name": "phuryn/claude-usage",
       "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "stars": 878,
+      "stars": 879,
       "language": "Python",
       "url": "https://github.com/phuryn/claude-usage",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-04-12T22:38:35Z"
+      "updated_at": "2026-04-13T03:13:09Z"
     },
     {
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 701,
+      "stars": 735,
       "language": "Python",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-13T01:25:00Z"
+      "updated_at": "2026-04-13T04:40:21Z"
     },
     {
       "id": 1203670949,
       "name": "AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 662,
+      "stars": 711,
       "language": "Shell",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "owner": {
         "login": "AgriciDaniel",
         "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
       },
-      "updated_at": "2026-04-13T01:27:50Z"
+      "updated_at": "2026-04-13T04:38:29Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 620,
+      "stars": 654,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-13T01:28:59Z"
+      "updated_at": "2026-04-13T04:40:01Z"
     },
     {
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 601,
+      "stars": 603,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-13T01:28:49Z"
+      "updated_at": "2026-04-13T02:08:26Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 579,
+      "stars": 591,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-13T01:28:23Z"
+      "updated_at": "2026-04-13T03:47:36Z"
     },
     {
       "id": 1204466824,
@@ -168,98 +168,98 @@
         "login": "brooks376",
         "avatar_url": "https://avatars.githubusercontent.com/u/193594001?v=4"
       },
-      "updated_at": "2026-04-13T01:28:05Z"
+      "updated_at": "2026-04-13T04:01:19Z"
     },
     {
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 437,
+      "stars": 458,
       "language": "Python",
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "owner": {
         "login": "AMAP-ML",
         "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
       },
-      "updated_at": "2026-04-13T01:14:07Z"
+      "updated_at": "2026-04-13T04:37:15Z"
     },
     {
       "id": 1207854573,
       "name": "alchaincyf/obsidian-ai-orange-book",
       "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stars": 403,
+      "stars": 446,
       "language": null,
       "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-13T01:23:34Z"
+      "updated_at": "2026-04-13T04:35:09Z"
     },
     {
       "id": 1204908370,
       "name": "momenbasel/PureMac",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "stars": 373,
+      "stars": 411,
       "language": "Swift",
       "url": "https://github.com/momenbasel/PureMac",
       "owner": {
         "login": "momenbasel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
       },
-      "updated_at": "2026-04-13T01:29:03Z"
+      "updated_at": "2026-04-13T04:32:22Z"
+    },
+    {
+      "id": 1205406951,
+      "name": "hexiecs/talk-normal",
+      "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
+      "stars": 382,
+      "language": "Shell",
+      "url": "https://github.com/hexiecs/talk-normal",
+      "owner": {
+        "login": "hexiecs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12725406?v=4"
+      },
+      "updated_at": "2026-04-13T04:39:57Z"
     },
     {
       "id": 1206549574,
       "name": "retlehs/quien",
       "description": "A better WHOIS lookup tool",
-      "stars": 367,
+      "stars": 372,
       "language": "Go",
       "url": "https://github.com/retlehs/quien",
       "owner": {
         "login": "retlehs",
         "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
       },
-      "updated_at": "2026-04-13T00:50:48Z"
+      "updated_at": "2026-04-13T03:54:46Z"
     },
     {
       "id": 1205572663,
       "name": "dominikmartn/ProgressiveBlurHeader",
       "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped.",
-      "stars": 354,
+      "stars": 358,
       "language": "Swift",
       "url": "https://github.com/dominikmartn/ProgressiveBlurHeader",
       "owner": {
         "login": "dominikmartn",
         "avatar_url": "https://avatars.githubusercontent.com/u/4389660?v=4"
       },
-      "updated_at": "2026-04-13T01:09:33Z"
+      "updated_at": "2026-04-13T04:39:43Z"
     },
     {
-      "id": 1203544476,
-      "name": "NyxTides/SimpleAuthFlow",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "stars": 348,
-      "language": "JavaScript",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "id": 1205875176,
+      "name": "UnluckyNinja/SBTI-test",
+      "description": "注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿",
+      "stars": 352,
+      "language": "HTML",
+      "url": "https://github.com/UnluckyNinja/SBTI-test",
       "owner": {
-        "login": "NyxTides",
-        "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
+        "login": "UnluckyNinja",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1270155?v=4"
       },
-      "updated_at": "2026-04-12T16:33:48Z"
-    },
-    {
-      "id": 1203987758,
-      "name": "loop-uh/yourvpndead",
-      "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость",
-      "stars": 346,
-      "language": "Kotlin",
-      "url": "https://github.com/loop-uh/yourvpndead",
-      "owner": {
-        "login": "loop-uh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/195583929?v=4"
-      },
-      "updated_at": "2026-04-13T00:03:45Z"
+      "updated_at": "2026-04-13T03:50:50Z"
     }
   ]
 }
