@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T21:35:35.596Z",
+  "lastUpdated": "2026-04-13T22:25:44.657Z",
   "items": [
     {
       "id": 1203503423,
@@ -18,27 +18,27 @@
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 2269,
+      "stars": 2271,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-13T21:04:34Z"
+      "updated_at": "2026-04-13T21:43:08Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 1994,
+      "stars": 2000,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-13T21:34:08Z"
+      "updated_at": "2026-04-13T22:14:52Z"
     },
     {
       "id": 1203504681,
@@ -70,118 +70,118 @@
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 1117,
+      "stars": 1119,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-13T20:35:39Z"
+      "updated_at": "2026-04-13T21:54:08Z"
     },
     {
       "id": 1203670949,
       "name": "AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": 959,
+      "stars": 966,
       "language": "Shell",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "owner": {
         "login": "AgriciDaniel",
         "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
       },
-      "updated_at": "2026-04-13T21:28:26Z"
+      "updated_at": "2026-04-13T22:23:33Z"
     },
     {
       "id": 1204165003,
       "name": "phuryn/claude-usage",
       "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "stars": 901,
+      "stars": 904,
       "language": "Python",
       "url": "https://github.com/phuryn/claude-usage",
       "owner": {
         "login": "phuryn",
         "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
       },
-      "updated_at": "2026-04-13T19:31:41Z"
-    },
-    {
-      "id": 1205418973,
-      "name": "joeynyc/hermes-hudui",
-      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 824,
-      "language": "Python",
-      "url": "https://github.com/joeynyc/hermes-hudui",
-      "owner": {
-        "login": "joeynyc",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
-      },
-      "updated_at": "2026-04-13T21:21:09Z"
+      "updated_at": "2026-04-13T22:09:55Z"
     },
     {
       "id": 1204908370,
       "name": "momenbasel/PureMac",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "stars": 802,
+      "stars": 832,
       "language": "Swift",
       "url": "https://github.com/momenbasel/PureMac",
       "owner": {
         "login": "momenbasel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
       },
-      "updated_at": "2026-04-13T21:34:32Z"
+      "updated_at": "2026-04-13T22:24:57Z"
+    },
+    {
+      "id": 1205418973,
+      "name": "joeynyc/hermes-hudui",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "stars": 825,
+      "language": "Python",
+      "url": "https://github.com/joeynyc/hermes-hudui",
+      "owner": {
+        "login": "joeynyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
+      },
+      "updated_at": "2026-04-13T21:37:25Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 791,
+      "stars": 795,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-13T20:47:15Z"
+      "updated_at": "2026-04-13T22:06:31Z"
     },
     {
       "id": 1205406951,
       "name": "hexiecs/talk-normal",
       "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-      "stars": 665,
+      "stars": 667,
       "language": "Shell",
       "url": "https://github.com/hexiecs/talk-normal",
       "owner": {
         "login": "hexiecs",
         "avatar_url": "https://avatars.githubusercontent.com/u/12725406?v=4"
       },
-      "updated_at": "2026-04-13T21:07:42Z"
+      "updated_at": "2026-04-13T22:20:15Z"
     },
     {
       "id": 1204915983,
       "name": "obdev/littlesnitch-linux",
       "description": "Open Source components of Little Snitch for Linux",
-      "stars": 644,
+      "stars": 645,
       "language": "Rust",
       "url": "https://github.com/obdev/littlesnitch-linux",
       "owner": {
         "login": "obdev",
         "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
       },
-      "updated_at": "2026-04-13T20:55:30Z"
+      "updated_at": "2026-04-13T22:22:18Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 633,
+      "stars": 634,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-13T19:59:26Z"
+      "updated_at": "2026-04-13T22:23:48Z"
     },
     {
       "id": 1204466824,
@@ -200,14 +200,14 @@
       "id": 1207854573,
       "name": "alchaincyf/obsidian-ai-orange-book",
       "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stars": 539,
+      "stars": 540,
       "language": null,
       "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-13T21:07:42Z"
+      "updated_at": "2026-04-13T21:55:53Z"
     },
     {
       "id": 1206566990,
@@ -226,40 +226,40 @@
       "id": 1206044340,
       "name": "hamen/material-3-skill",
       "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 443,
+      "stars": 459,
       "language": null,
       "url": "https://github.com/hamen/material-3-skill",
       "owner": {
         "login": "hamen",
         "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
       },
-      "updated_at": "2026-04-13T21:17:25Z"
-    },
-    {
-      "id": 1206549574,
-      "name": "retlehs/quien",
-      "description": "A better WHOIS lookup tool",
-      "stars": 426,
-      "language": "Go",
-      "url": "https://github.com/retlehs/quien",
-      "owner": {
-        "login": "retlehs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
-      },
-      "updated_at": "2026-04-13T21:26:40Z"
+      "updated_at": "2026-04-13T22:18:12Z"
     },
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": null,
-      "stars": 421,
+      "stars": 438,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-13T21:26:47Z"
+      "updated_at": "2026-04-13T22:24:46Z"
+    },
+    {
+      "id": 1206549574,
+      "name": "retlehs/quien",
+      "description": "A better WHOIS lookup tool",
+      "stars": 431,
+      "language": "Go",
+      "url": "https://github.com/retlehs/quien",
+      "owner": {
+        "login": "retlehs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
+      },
+      "updated_at": "2026-04-13T22:16:36Z"
     }
   ]
 }
