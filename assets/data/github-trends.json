@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T19:57:17.521Z",
+  "lastUpdated": "2026-04-14T20:50:13.671Z",
   "items": [
     {
       "id": 1204451436,
@@ -18,53 +18,53 @@
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 2358,
+      "stars": 2359,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-14T19:55:32Z"
+      "updated_at": "2026-04-14T20:40:48Z"
     },
     {
       "id": 1204908370,
       "name": "momenbasel/PureMac",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "stars": 1455,
+      "stars": 1465,
       "language": "Swift",
       "url": "https://github.com/momenbasel/PureMac",
       "owner": {
         "login": "momenbasel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
       },
-      "updated_at": "2026-04-14T19:55:44Z"
+      "updated_at": "2026-04-14T20:41:06Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 1360,
+      "stars": 1362,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-14T19:42:22Z"
+      "updated_at": "2026-04-14T20:26:39Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 1280,
+      "stars": 1281,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-14T18:54:59Z"
+      "updated_at": "2026-04-14T19:57:55Z"
     },
     {
       "id": 1205418973,
@@ -96,40 +96,40 @@
       "id": 1205406951,
       "name": "hexiecs/talk-normal",
       "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-      "stars": 820,
+      "stars": 821,
       "language": "Shell",
       "url": "https://github.com/hexiecs/talk-normal",
       "owner": {
         "login": "hexiecs",
         "avatar_url": "https://avatars.githubusercontent.com/u/12725406?v=4"
       },
-      "updated_at": "2026-04-14T19:56:16Z"
+      "updated_at": "2026-04-14T20:02:18Z"
     },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
-      "stars": 732,
+      "stars": 769,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-14T19:50:19Z"
+      "updated_at": "2026-04-14T20:48:36Z"
     },
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 693,
+      "stars": 695,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-14T19:15:17Z"
+      "updated_at": "2026-04-14T20:29:39Z"
     },
     {
       "id": 1205618518,
@@ -161,14 +161,14 @@
       "id": 1207153645,
       "name": "OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 675,
+      "stars": 680,
       "language": "Python",
       "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "owner": {
         "login": "OpenMOSS",
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
-      "updated_at": "2026-04-14T19:45:22Z"
+      "updated_at": "2026-04-14T20:25:12Z"
     },
     {
       "id": 1208430144,
@@ -184,6 +184,19 @@
       "updated_at": "2026-04-14T19:19:28Z"
     },
     {
+      "id": 1206044340,
+      "name": "hamen/material-3-skill",
+      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
+      "stars": 597,
+      "language": null,
+      "url": "https://github.com/hamen/material-3-skill",
+      "owner": {
+        "login": "hamen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
+      },
+      "updated_at": "2026-04-14T20:32:37Z"
+    },
+    {
       "id": 1207854573,
       "name": "alchaincyf/obsidian-ai-orange-book",
       "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
@@ -195,19 +208,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
       "updated_at": "2026-04-14T18:10:55Z"
-    },
-    {
-      "id": 1206044340,
-      "name": "hamen/material-3-skill",
-      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 592,
-      "language": null,
-      "url": "https://github.com/hamen/material-3-skill",
-      "owner": {
-        "login": "hamen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
-      },
-      "updated_at": "2026-04-14T18:33:55Z"
     },
     {
       "id": 1204466824,
@@ -223,6 +223,19 @@
       "updated_at": "2026-04-14T14:12:08Z"
     },
     {
+      "id": 1208481838,
+      "name": "patterniha/SNI-Spoofing",
+      "description": "Bypass DPI with IP/TCP-Header manipulation",
+      "stars": 535,
+      "language": "Python",
+      "url": "https://github.com/patterniha/SNI-Spoofing",
+      "owner": {
+        "login": "patterniha",
+        "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
+      },
+      "updated_at": "2026-04-14T20:49:27Z"
+    },
+    {
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
@@ -236,30 +249,17 @@
       "updated_at": "2026-04-14T19:57:09Z"
     },
     {
-      "id": 1208481838,
-      "name": "patterniha/SNI-Spoofing",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 532,
-      "language": "Python",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "owner": {
-        "login": "patterniha",
-        "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
-      },
-      "updated_at": "2026-04-14T19:29:12Z"
-    },
-    {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 521,
+      "stars": 527,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-14T19:50:36Z"
+      "updated_at": "2026-04-14T20:42:11Z"
     }
   ]
 }
