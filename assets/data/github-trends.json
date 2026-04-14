@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-04-14T15:47:24.193Z",
+  "lastUpdated": "2026-04-14T16:48:14.507Z",
   "items": [
     {
       "id": 1204451436,
       "name": "alchaincyf/hermes-agent-orange-book",
       "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stars": 2417,
+      "stars": 2421,
       "language": null,
       "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-14T15:39:18Z"
+      "updated_at": "2026-04-14T16:31:38Z"
     },
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 2318,
+      "stars": 2332,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-14T15:47:12Z"
+      "updated_at": "2026-04-14T16:43:23Z"
     },
     {
       "id": 1204908370,
       "name": "momenbasel/PureMac",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "stars": 1400,
+      "stars": 1414,
       "language": "Swift",
       "url": "https://github.com/momenbasel/PureMac",
       "owner": {
         "login": "momenbasel",
         "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
       },
-      "updated_at": "2026-04-14T15:46:19Z"
+      "updated_at": "2026-04-14T16:43:04Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 1352,
+      "stars": 1354,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-14T15:35:40Z"
+      "updated_at": "2026-04-14T16:18:01Z"
     },
     {
       "id": 1204828304,
       "name": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stars": 1266,
+      "stars": 1273,
       "language": "TypeScript",
       "url": "https://github.com/nashsu/llm_wiki",
       "owner": {
         "login": "nashsu",
         "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
       },
-      "updated_at": "2026-04-14T15:30:38Z"
+      "updated_at": "2026-04-14T16:24:17Z"
     },
     {
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 865,
+      "stars": 868,
       "language": "TypeScript",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-14T15:29:41Z"
+      "updated_at": "2026-04-14T16:35:24Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 841,
+      "stars": 843,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-14T15:00:40Z"
+      "updated_at": "2026-04-14T16:43:45Z"
     },
     {
       "id": 1205406951,
       "name": "hexiecs/talk-normal",
       "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-      "stars": 801,
+      "stars": 809,
       "language": "Shell",
       "url": "https://github.com/hexiecs/talk-normal",
       "owner": {
         "login": "hexiecs",
         "avatar_url": "https://avatars.githubusercontent.com/u/12725406?v=4"
       },
-      "updated_at": "2026-04-14T15:45:34Z"
+      "updated_at": "2026-04-14T16:40:58Z"
     },
     {
       "id": 1205618518,
@@ -116,7 +116,7 @@
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-14T15:40:17Z"
+      "updated_at": "2026-04-14T16:46:17Z"
     },
     {
       "id": 1204915983,
@@ -134,80 +134,80 @@
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
-      "description": null,
-      "stars": 650,
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+      "stars": 666,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-14T15:47:10Z"
+      "updated_at": "2026-04-14T16:47:13Z"
     },
     {
       "id": 1207153645,
       "name": "OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 646,
+      "stars": 652,
       "language": "Python",
       "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "owner": {
         "login": "OpenMOSS",
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
-      "updated_at": "2026-04-14T15:45:14Z"
-    },
-    {
-      "id": 1208430144,
-      "name": "Mouseww/anything-analyzer",
-      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档",
-      "stars": 598,
-      "language": "TypeScript",
-      "url": "https://github.com/Mouseww/anything-analyzer",
-      "owner": {
-        "login": "Mouseww",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
-      },
-      "updated_at": "2026-04-14T15:45:26Z"
-    },
-    {
-      "id": 1207854573,
-      "name": "alchaincyf/obsidian-ai-orange-book",
-      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stars": 594,
-      "language": null,
-      "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-      "owner": {
-        "login": "alchaincyf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
-      },
-      "updated_at": "2026-04-14T14:05:55Z"
-    },
-    {
-      "id": 1206044340,
-      "name": "hamen/material-3-skill",
-      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 579,
-      "language": null,
-      "url": "https://github.com/hamen/material-3-skill",
-      "owner": {
-        "login": "hamen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
-      },
-      "updated_at": "2026-04-14T15:35:52Z"
+      "updated_at": "2026-04-14T16:46:42Z"
     },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
-      "stars": 578,
+      "stars": 613,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-14T15:44:26Z"
+      "updated_at": "2026-04-14T16:44:42Z"
+    },
+    {
+      "id": 1208430144,
+      "name": "Mouseww/anything-analyzer",
+      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档",
+      "stars": 605,
+      "language": "TypeScript",
+      "url": "https://github.com/Mouseww/anything-analyzer",
+      "owner": {
+        "login": "Mouseww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
+      },
+      "updated_at": "2026-04-14T16:35:51Z"
+    },
+    {
+      "id": 1207854573,
+      "name": "alchaincyf/obsidian-ai-orange-book",
+      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+      "stars": 595,
+      "language": null,
+      "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      },
+      "updated_at": "2026-04-14T15:56:34Z"
+    },
+    {
+      "id": 1206044340,
+      "name": "hamen/material-3-skill",
+      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
+      "stars": 586,
+      "language": null,
+      "url": "https://github.com/hamen/material-3-skill",
+      "owner": {
+        "login": "hamen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
+      },
+      "updated_at": "2026-04-14T16:28:27Z"
     },
     {
       "id": 1204466824,
@@ -226,40 +226,40 @@
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 530,
+      "stars": 533,
       "language": "Python",
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "owner": {
         "login": "AMAP-ML",
         "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
       },
-      "updated_at": "2026-04-14T15:31:30Z"
+      "updated_at": "2026-04-14T16:39:07Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 514,
+      "stars": 518,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-14T15:20:05Z"
+      "updated_at": "2026-04-14T16:45:28Z"
     },
     {
       "id": 1206549574,
       "name": "retlehs/quien",
       "description": "A better WHOIS lookup tool",
-      "stars": 501,
+      "stars": 504,
       "language": "Go",
       "url": "https://github.com/retlehs/quien",
       "owner": {
         "login": "retlehs",
         "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
       },
-      "updated_at": "2026-04-14T15:44:00Z"
+      "updated_at": "2026-04-14T16:39:51Z"
     }
   ]
 }
