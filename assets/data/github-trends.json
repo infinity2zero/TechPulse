@@ -1,70 +1,70 @@
 {
-  "lastUpdated": "2026-04-15T16:40:52.280Z",
+  "lastUpdated": "2026-04-15T17:45:41.138Z",
   "items": [
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 2819,
+      "stars": 2835,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-15T16:33:26Z"
+      "updated_at": "2026-04-15T17:45:33Z"
     },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 1546,
+      "stars": 1576,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-15T16:36:41Z"
+      "updated_at": "2026-04-15T17:38:00Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 1478,
+      "stars": 1482,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-15T16:38:51Z"
+      "updated_at": "2026-04-15T17:33:18Z"
     },
     {
       "id": 1207153645,
       "name": "OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 983,
+      "stars": 986,
       "language": "Python",
       "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "owner": {
         "login": "OpenMOSS",
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
-      "updated_at": "2026-04-15T16:32:38Z"
+      "updated_at": "2026-04-15T17:40:21Z"
     },
     {
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 908,
+      "stars": 909,
       "language": "TypeScript",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-15T16:14:12Z"
+      "updated_at": "2026-04-15T16:55:25Z"
     },
     {
       "id": 1207421443,
@@ -83,40 +83,40 @@
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 785,
+      "stars": 790,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-15T16:38:22Z"
+      "updated_at": "2026-04-15T17:36:44Z"
     },
     {
       "id": 1208430144,
       "name": "Mouseww/anything-analyzer",
       "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stars": 763,
+      "stars": 774,
       "language": "TypeScript",
       "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
         "login": "Mouseww",
         "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-15T16:40:49Z"
+      "updated_at": "2026-04-15T17:37:30Z"
     },
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 756,
+      "stars": 759,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-15T16:34:58Z"
+      "updated_at": "2026-04-15T17:36:00Z"
     },
     {
       "id": 1205618518,
@@ -129,46 +129,46 @@
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-15T16:40:27Z"
+      "updated_at": "2026-04-15T17:40:37Z"
     },
     {
       "id": 1206044340,
       "name": "hamen/material-3-skill",
       "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 635,
+      "stars": 637,
       "language": null,
       "url": "https://github.com/hamen/material-3-skill",
       "owner": {
         "login": "hamen",
         "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
       },
-      "updated_at": "2026-04-15T15:42:08Z"
+      "updated_at": "2026-04-15T17:40:27Z"
     },
     {
       "id": 1207854573,
       "name": "alchaincyf/obsidian-ai-orange-book",
       "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stars": 630,
+      "stars": 632,
       "language": null,
       "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-15T15:30:48Z"
+      "updated_at": "2026-04-15T17:17:52Z"
     },
     {
       "id": 1209396858,
       "name": "yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 616,
+      "stars": 621,
       "language": "PHP",
       "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
         "login": "yaojingang",
         "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-15T16:37:54Z"
+      "updated_at": "2026-04-15T17:35:18Z"
     },
     {
       "id": 1208481838,
@@ -187,53 +187,66 @@
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 587,
+      "stars": 591,
       "language": "Python",
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "owner": {
         "login": "AMAP-ML",
         "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
       },
-      "updated_at": "2026-04-15T16:40:35Z"
+      "updated_at": "2026-04-15T17:40:04Z"
     },
     {
       "id": 1206549574,
       "name": "retlehs/quien",
       "description": "A better WHOIS lookup tool",
-      "stars": 544,
+      "stars": 545,
       "language": "Go",
       "url": "https://github.com/retlehs/quien",
       "owner": {
         "login": "retlehs",
         "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
       },
-      "updated_at": "2026-04-15T16:09:48Z"
+      "updated_at": "2026-04-15T17:40:22Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 458,
+      "stars": 461,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-15T16:38:15Z"
+      "updated_at": "2026-04-15T17:23:30Z"
     },
     {
       "id": 1206833235,
       "name": "tianxingleo/ACGTI",
       "description": "ACG Type Indicator - MBTI inspired anime persona quiz",
-      "stars": 446,
+      "stars": 447,
       "language": "TypeScript",
       "url": "https://github.com/tianxingleo/ACGTI",
       "owner": {
         "login": "tianxingleo",
         "avatar_url": "https://avatars.githubusercontent.com/u/237200863?v=4"
       },
-      "updated_at": "2026-04-15T16:39:50Z"
+      "updated_at": "2026-04-15T17:37:15Z"
+    },
+    {
+      "id": 1209054090,
+      "name": "sogonov/anubis",
+      "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+      "stars": 446,
+      "language": "Kotlin",
+      "url": "https://github.com/sogonov/anubis",
+      "owner": {
+        "login": "sogonov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
+      },
+      "updated_at": "2026-04-15T17:43:48Z"
     },
     {
       "id": 1207321604,
@@ -246,20 +259,7 @@
         "login": "cnitlrt",
         "avatar_url": "https://avatars.githubusercontent.com/u/60732685?v=4"
       },
-      "updated_at": "2026-04-15T16:21:41Z"
-    },
-    {
-      "id": 1209054090,
-      "name": "sogonov/anubis",
-      "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 416,
-      "language": "Kotlin",
-      "url": "https://github.com/sogonov/anubis",
-      "owner": {
-        "login": "sogonov",
-        "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
-      },
-      "updated_at": "2026-04-15T16:35:56Z"
+      "updated_at": "2026-04-15T16:49:31Z"
     }
   ]
 }
