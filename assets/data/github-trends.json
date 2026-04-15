@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-15T06:24:36.137Z",
+  "lastUpdated": "2026-04-15T08:10:37.045Z",
   "items": [
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 2626,
+      "stars": 2668,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-15T06:21:54Z"
+      "updated_at": "2026-04-15T08:08:45Z"
     },
     {
       "id": 1205523418,
       "name": "QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "stars": 1416,
+      "stars": 1430,
       "language": "JavaScript",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "owner": {
         "login": "QLHazyCoder",
         "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
       },
-      "updated_at": "2026-04-15T06:19:43Z"
+      "updated_at": "2026-04-15T08:09:50Z"
     },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
-      "stars": 1123,
+      "stars": 1208,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-15T06:21:24Z"
+      "updated_at": "2026-04-15T08:10:30Z"
     },
     {
       "id": 1205418973,
       "name": "joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stars": 887,
+      "stars": 890,
       "language": "TypeScript",
       "url": "https://github.com/joeynyc/hermes-hudui",
       "owner": {
         "login": "joeynyc",
         "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
       },
-      "updated_at": "2026-04-15T06:16:26Z"
-    },
-    {
-      "id": 1207421443,
-      "name": "vyfor/rattles",
-      "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 857,
-      "language": "Rust",
-      "url": "https://github.com/vyfor/rattles",
-      "owner": {
-        "login": "vyfor",
-        "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
-      },
-      "updated_at": "2026-04-15T02:55:37Z"
+      "updated_at": "2026-04-15T07:48:01Z"
     },
     {
       "id": 1207153645,
       "name": "OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 846,
+      "stars": 876,
       "language": "Python",
       "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "owner": {
         "login": "OpenMOSS",
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
-      "updated_at": "2026-04-15T06:24:09Z"
+      "updated_at": "2026-04-15T08:10:27Z"
+    },
+    {
+      "id": 1207421443,
+      "name": "vyfor/rattles",
+      "description": "🪇 Minimal terminal spinners for Rust",
+      "stars": 858,
+      "language": "Rust",
+      "url": "https://github.com/vyfor/rattles",
+      "owner": {
+        "login": "vyfor",
+        "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
+      },
+      "updated_at": "2026-04-15T06:36:09Z"
     },
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 730,
+      "stars": 735,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-15T06:20:52Z"
+      "updated_at": "2026-04-15T08:00:11Z"
     },
     {
       "id": 1205618518,
       "name": "whwangovo/pyre-code",
       "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "stars": 699,
+      "stars": 703,
       "language": "Python",
       "url": "https://github.com/whwangovo/pyre-code",
       "owner": {
         "login": "whwangovo",
         "avatar_url": "https://avatars.githubusercontent.com/u/79965746?v=4"
       },
-      "updated_at": "2026-04-15T06:07:29Z"
-    },
-    {
-      "id": 1208430144,
-      "name": "Mouseww/anything-analyzer",
-      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stars": 681,
-      "language": "TypeScript",
-      "url": "https://github.com/Mouseww/anything-analyzer",
-      "owner": {
-        "login": "Mouseww",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
-      },
-      "updated_at": "2026-04-15T06:20:59Z"
+      "updated_at": "2026-04-15T08:00:54Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 672,
+      "stars": 695,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-15T06:20:41Z"
+      "updated_at": "2026-04-15T07:37:21Z"
     },
     {
-      "id": 1206044340,
-      "name": "hamen/material-3-skill",
-      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
-      "stars": 616,
-      "language": null,
-      "url": "https://github.com/hamen/material-3-skill",
+      "id": 1208430144,
+      "name": "Mouseww/anything-analyzer",
+      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
+      "stars": 695,
+      "language": "TypeScript",
+      "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
-        "login": "hamen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
+        "login": "Mouseww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-15T06:19:37Z"
+      "updated_at": "2026-04-15T08:04:21Z"
     },
     {
       "id": 1207854573,
       "name": "alchaincyf/obsidian-ai-orange-book",
       "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stars": 615,
+      "stars": 618,
       "language": null,
       "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-15T05:54:09Z"
+      "updated_at": "2026-04-15T06:51:58Z"
+    },
+    {
+      "id": 1206044340,
+      "name": "hamen/material-3-skill",
+      "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
+      "stars": 618,
+      "language": null,
+      "url": "https://github.com/hamen/material-3-skill",
+      "owner": {
+        "login": "hamen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19003?v=4"
+      },
+      "updated_at": "2026-04-15T06:49:03Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 564,
+      "stars": 571,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-15T06:17:54Z"
+      "updated_at": "2026-04-15T08:01:30Z"
     },
     {
       "id": 1209396858,
       "name": "yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 554,
+      "stars": 562,
       "language": "PHP",
       "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
         "login": "yaojingang",
         "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-15T06:12:48Z"
+      "updated_at": "2026-04-15T07:48:22Z"
     },
     {
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 542,
+      "stars": 546,
       "language": "Python",
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "owner": {
         "login": "AMAP-ML",
         "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
       },
-      "updated_at": "2026-04-15T05:49:51Z"
+      "updated_at": "2026-04-15T07:52:02Z"
     },
     {
       "id": 1206549574,
       "name": "retlehs/quien",
       "description": "A better WHOIS lookup tool",
-      "stars": 526,
+      "stars": 528,
       "language": "Go",
       "url": "https://github.com/retlehs/quien",
       "owner": {
         "login": "retlehs",
         "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
       },
-      "updated_at": "2026-04-15T04:23:21Z"
+      "updated_at": "2026-04-15T07:18:15Z"
     },
     {
       "id": 1207321604,
       "name": "cnitlrt/AutoTeam",
       "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步",
-      "stars": 420,
+      "stars": 426,
       "language": "Python",
       "url": "https://github.com/cnitlrt/AutoTeam",
       "owner": {
         "login": "cnitlrt",
         "avatar_url": "https://avatars.githubusercontent.com/u/60732685?v=4"
       },
-      "updated_at": "2026-04-15T04:51:08Z"
-    },
-    {
-      "id": 1206833235,
-      "name": "tianxingleo/ACGTI",
-      "description": "ACG Type Indicator - MBTI inspired anime persona quiz",
-      "stars": 400,
-      "language": "TypeScript",
-      "url": "https://github.com/tianxingleo/ACGTI",
-      "owner": {
-        "login": "tianxingleo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/237200863?v=4"
-      },
-      "updated_at": "2026-04-15T06:23:23Z"
+      "updated_at": "2026-04-15T07:36:44Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 393,
+      "stars": 404,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-15T06:06:59Z"
+      "updated_at": "2026-04-15T07:57:44Z"
+    },
+    {
+      "id": 1206833235,
+      "name": "tianxingleo/ACGTI",
+      "description": "ACG Type Indicator - MBTI inspired anime persona quiz",
+      "stars": 404,
+      "language": "TypeScript",
+      "url": "https://github.com/tianxingleo/ACGTI",
+      "owner": {
+        "login": "tianxingleo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/237200863?v=4"
+      },
+      "updated_at": "2026-04-15T07:58:29Z"
     },
     {
       "id": 1206577576,
       "name": "lzhgus/Capso",
       "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
-      "stars": 387,
+      "stars": 390,
       "language": "Swift",
       "url": "https://github.com/lzhgus/Capso",
       "owner": {
         "login": "lzhgus",
         "avatar_url": "https://avatars.githubusercontent.com/u/5875125?v=4"
       },
-      "updated_at": "2026-04-15T05:46:33Z"
+      "updated_at": "2026-04-15T07:49:48Z"
     }
   ]
 }
