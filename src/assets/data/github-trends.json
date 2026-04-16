@@ -1,174 +1,174 @@
 {
-  "lastUpdated": "2026-04-16T16:05:44.443Z",
+  "lastUpdated": "2026-04-16T17:39:22.411Z",
   "items": [
     {
       "id": 1207091162,
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 3276,
+      "stars": 3300,
       "language": "Python",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "owner": {
         "login": "yizhiyanhua-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
       },
-      "updated_at": "2026-04-16T16:04:08Z"
+      "updated_at": "2026-04-16T17:23:32Z"
     },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2023,
+      "stars": 2065,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-16T16:03:04Z"
+      "updated_at": "2026-04-16T17:39:03Z"
     },
     {
       "id": 1207153645,
       "name": "OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 1197,
+      "stars": 1207,
       "language": "Python",
       "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "owner": {
         "login": "OpenMOSS",
         "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
       },
-      "updated_at": "2026-04-16T15:58:43Z"
+      "updated_at": "2026-04-16T17:34:43Z"
     },
     {
       "id": 1208430144,
       "name": "Mouseww/anything-analyzer",
       "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stars": 981,
+      "stars": 995,
       "language": "TypeScript",
       "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
         "login": "Mouseww",
         "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-16T16:05:30Z"
+      "updated_at": "2026-04-16T17:37:51Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 944,
+      "stars": 948,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-16T15:43:50Z"
+      "updated_at": "2026-04-16T16:41:09Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 884,
+      "stars": 924,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-16T16:05:29Z"
+      "updated_at": "2026-04-16T17:36:46Z"
     },
     {
       "id": 1207421443,
       "name": "vyfor/rattles",
       "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 876,
+      "stars": 878,
       "language": "Rust",
       "url": "https://github.com/vyfor/rattles",
       "owner": {
         "login": "vyfor",
         "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
       },
-      "updated_at": "2026-04-16T14:30:58Z"
+      "updated_at": "2026-04-16T16:56:09Z"
     },
     {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 791,
+      "stars": 793,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-16T15:31:57Z"
-    },
-    {
-      "id": 1209396858,
-      "name": "yaojingang/GEOFlow",
-      "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 746,
-      "language": "PHP",
-      "url": "https://github.com/yaojingang/GEOFlow",
-      "owner": {
-        "login": "yaojingang",
-        "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
-      },
-      "updated_at": "2026-04-16T15:55:40Z"
+      "updated_at": "2026-04-16T17:19:48Z"
     },
     {
       "id": 1209054090,
       "name": "sogonov/anubis",
       "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 741,
+      "stars": 749,
       "language": "Kotlin",
       "url": "https://github.com/sogonov/anubis",
       "owner": {
         "login": "sogonov",
         "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
       },
-      "updated_at": "2026-04-16T16:04:59Z"
+      "updated_at": "2026-04-16T17:29:02Z"
     },
     {
-      "id": 1210412315,
-      "name": "BuilderPulse/BuilderPulse",
-      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 696,
-      "language": null,
-      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "id": 1209396858,
+      "name": "yaojingang/GEOFlow",
+      "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+      "stars": 748,
+      "language": "PHP",
+      "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
-        "login": "BuilderPulse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+        "login": "yaojingang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-16T16:03:04Z"
+      "updated_at": "2026-04-16T17:02:32Z"
     },
     {
       "id": 1206704534,
       "name": "Tencent-Hunyuan/HY-World-2.0",
       "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-      "stars": 686,
+      "stars": 708,
       "language": "Python",
       "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
       "owner": {
         "login": "Tencent-Hunyuan",
         "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
       },
-      "updated_at": "2026-04-16T15:58:18Z"
+      "updated_at": "2026-04-16T17:36:29Z"
+    },
+    {
+      "id": 1210412315,
+      "name": "BuilderPulse/BuilderPulse",
+      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+      "stars": 707,
+      "language": null,
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "owner": {
+        "login": "BuilderPulse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+      },
+      "updated_at": "2026-04-16T17:31:04Z"
     },
     {
       "id": 1206566990,
       "name": "AMAP-ML/SkillClaw",
       "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 668,
+      "stars": 672,
       "language": "Python",
       "url": "https://github.com/AMAP-ML/SkillClaw",
       "owner": {
         "login": "AMAP-ML",
         "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
       },
-      "updated_at": "2026-04-16T16:05:42Z"
+      "updated_at": "2026-04-16T17:33:22Z"
     },
     {
       "id": 1207854573,
@@ -187,40 +187,40 @@
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 626,
+      "stars": 627,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-16T15:22:53Z"
+      "updated_at": "2026-04-16T16:26:43Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 585,
+      "stars": 606,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-16T16:01:13Z"
+      "updated_at": "2026-04-16T17:38:43Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 570,
+      "stars": 585,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-16T16:03:52Z"
+      "updated_at": "2026-04-16T17:37:26Z"
     },
     {
       "id": 1206549574,
@@ -236,30 +236,30 @@
       "updated_at": "2026-04-16T16:02:17Z"
     },
     {
+      "id": 1211901711,
+      "name": "Nightmare-Eclipse/RedSun",
+      "description": "The Red Sun vulnerability repository",
+      "stars": 549,
+      "language": "C++",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun",
+      "owner": {
+        "login": "Nightmare-Eclipse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+      },
+      "updated_at": "2026-04-16T17:38:55Z"
+    },
+    {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 524,
+      "stars": 533,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-16T16:04:26Z"
-    },
-    {
-      "id": 1206833235,
-      "name": "tianxingleo/ACGTI",
-      "description": "ACG Type Indicator - MBTI inspired anime persona quiz",
-      "stars": 499,
-      "language": "TypeScript",
-      "url": "https://github.com/tianxingleo/ACGTI",
-      "owner": {
-        "login": "tianxingleo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/237200863?v=4"
-      },
-      "updated_at": "2026-04-16T16:00:26Z"
+      "updated_at": "2026-04-16T17:35:34Z"
     }
   ]
 }
