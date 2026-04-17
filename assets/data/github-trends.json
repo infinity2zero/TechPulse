@@ -1,70 +1,44 @@
 {
-  "lastUpdated": "2026-04-16T23:31:58.749Z",
+  "lastUpdated": "2026-04-17T00:07:49.018Z",
   "items": [
-    {
-      "id": 1207091162,
-      "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stars": 3348,
-      "language": "Python",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "owner": {
-        "login": "yizhiyanhua-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
-      },
-      "updated_at": "2026-04-16T23:24:10Z"
-    },
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2250,
+      "stars": 2261,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-16T23:31:58Z"
-    },
-    {
-      "id": 1207153645,
-      "name": "OpenMOSS/MOSS-TTS-Nano",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stars": 1224,
-      "language": "Python",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "owner": {
-        "login": "OpenMOSS",
-        "avatar_url": "https://avatars.githubusercontent.com/u/156300419?v=4"
-      },
-      "updated_at": "2026-04-16T23:06:28Z"
+      "updated_at": "2026-04-17T00:00:16Z"
     },
     {
       "id": 1208430144,
       "name": "Mouseww/anything-analyzer",
       "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stars": 1018,
+      "stars": 1023,
       "language": "TypeScript",
       "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
         "login": "Mouseww",
         "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-16T23:31:57Z"
+      "updated_at": "2026-04-17T00:07:26Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1004,
+      "stars": 1018,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-16T23:25:20Z"
+      "updated_at": "2026-04-17T00:04:36Z"
     },
     {
       "id": 1209268581,
@@ -80,147 +54,108 @@
       "updated_at": "2026-04-16T22:31:54Z"
     },
     {
-      "id": 1207421443,
-      "name": "vyfor/rattles",
-      "description": "🪇 Minimal terminal spinners for Rust",
-      "stars": 879,
-      "language": "Rust",
-      "url": "https://github.com/vyfor/rattles",
-      "owner": {
-        "login": "vyfor",
-        "avatar_url": "https://avatars.githubusercontent.com/u/92883017?v=4"
-      },
-      "updated_at": "2026-04-16T20:32:58Z"
-    },
-    {
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 797,
+      "stars": 798,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-16T22:30:56Z"
+      "updated_at": "2026-04-16T23:46:51Z"
     },
     {
       "id": 1209054090,
       "name": "sogonov/anubis",
       "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 776,
+      "stars": 779,
       "language": "Kotlin",
       "url": "https://github.com/sogonov/anubis",
       "owner": {
         "login": "sogonov",
         "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
       },
-      "updated_at": "2026-04-16T23:31:14Z"
+      "updated_at": "2026-04-17T00:04:15Z"
     },
     {
       "id": 1209396858,
       "name": "yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 755,
+      "stars": 756,
       "language": "PHP",
       "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
         "login": "yaojingang",
         "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-16T22:53:34Z"
-    },
-    {
-      "id": 1206704534,
-      "name": "Tencent-Hunyuan/HY-World-2.0",
-      "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-      "stars": 751,
-      "language": "Python",
-      "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-      "owner": {
-        "login": "Tencent-Hunyuan",
-        "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
-      },
-      "updated_at": "2026-04-16T23:09:32Z"
+      "updated_at": "2026-04-17T00:00:52Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 738,
+      "stars": 751,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-16T23:28:57Z"
+      "updated_at": "2026-04-17T00:04:28Z"
     },
     {
       "id": 1210412315,
       "name": "BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 722,
+      "stars": 723,
       "language": null,
       "url": "https://github.com/BuilderPulse/BuilderPulse",
       "owner": {
         "login": "BuilderPulse",
         "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
       },
-      "updated_at": "2026-04-16T23:06:31Z"
-    },
-    {
-      "id": 1206566990,
-      "name": "AMAP-ML/SkillClaw",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stars": 678,
-      "language": "Python",
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "owner": {
-        "login": "AMAP-ML",
-        "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
-      },
-      "updated_at": "2026-04-16T21:27:55Z"
+      "updated_at": "2026-04-16T23:32:04Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 669,
+      "stars": 671,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-16T23:21:12Z"
+      "updated_at": "2026-04-17T00:03:00Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 656,
+      "stars": 658,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-16T23:17:12Z"
+      "updated_at": "2026-04-17T00:05:12Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 645,
+      "stars": 651,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-16T23:27:58Z"
+      "updated_at": "2026-04-17T00:02:03Z"
     },
     {
       "id": 1207854573,
@@ -236,30 +171,95 @@
       "updated_at": "2026-04-16T09:18:27Z"
     },
     {
-      "id": 1206549574,
-      "name": "retlehs/quien",
-      "description": "A better whois and domain intelligence toolkit",
-      "stars": 568,
-      "language": "Go",
-      "url": "https://github.com/retlehs/quien",
-      "owner": {
-        "login": "retlehs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
-      },
-      "updated_at": "2026-04-16T20:35:25Z"
-    },
-    {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 566,
+      "stars": 570,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-16T23:31:47Z"
+      "updated_at": "2026-04-17T00:07:10Z"
+    },
+    {
+      "id": 1209209260,
+      "name": "andrewjiang/palantir-for-family-trips",
+      "description": "A Palantir-ish dashboard for family trip planning.",
+      "stars": 551,
+      "language": "JavaScript",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "owner": {
+        "login": "andrewjiang",
+        "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
+      },
+      "updated_at": "2026-04-16T23:53:48Z"
+    },
+    {
+      "id": 1211295602,
+      "name": "xataio/xata",
+      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+      "stars": 485,
+      "language": "Go",
+      "url": "https://github.com/xataio/xata",
+      "owner": {
+        "login": "xataio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
+      },
+      "updated_at": "2026-04-17T00:06:52Z"
+    },
+    {
+      "id": 1207639951,
+      "name": "EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 468,
+      "language": "Vue",
+      "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "owner": {
+        "login": "EKKOLearnAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/152005280?v=4"
+      },
+      "updated_at": "2026-04-17T00:04:04Z"
+    },
+    {
+      "id": 1208339803,
+      "name": "amitshekhariitbhu/llm-internals",
+      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+      "stars": 450,
+      "language": null,
+      "url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "owner": {
+        "login": "amitshekhariitbhu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9877145?v=4"
+      },
+      "updated_at": "2026-04-16T22:21:59Z"
+    },
+    {
+      "id": 1208000153,
+      "name": "bstnxbt/dflash-mlx",
+      "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
+      "stars": 444,
+      "language": "Python",
+      "url": "https://github.com/bstnxbt/dflash-mlx",
+      "owner": {
+        "login": "bstnxbt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6129548?v=4"
+      },
+      "updated_at": "2026-04-16T23:26:14Z"
+    },
+    {
+      "id": 1208221543,
+      "name": "browser-use/video-use",
+      "description": null,
+      "stars": 414,
+      "language": "Python",
+      "url": "https://github.com/browser-use/video-use",
+      "owner": {
+        "login": "browser-use",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+      },
+      "updated_at": "2026-04-17T00:06:19Z"
     }
   ]
 }
