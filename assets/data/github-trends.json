@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-04-18T22:37:27.922Z",
+  "lastUpdated": "2026-04-18T23:06:41.582Z",
   "items": [
     {
       "id": 1209889782,
       "name": "getagentseal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2702,
+      "stars": 2704,
       "language": "TypeScript",
       "url": "https://github.com/getagentseal/codeburn",
       "owner": {
         "login": "getagentseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/277308000?v=4"
       },
-      "updated_at": "2026-04-18T22:13:57Z"
+      "updated_at": "2026-04-18T22:45:49Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 1797,
+      "stars": 1814,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-18T22:33:45Z"
+      "updated_at": "2026-04-18T23:04:57Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1490,
+      "stars": 1492,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-18T22:22:57Z"
+      "updated_at": "2026-04-18T22:44:19Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1465,
+      "stars": 1472,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-18T22:30:23Z"
+      "updated_at": "2026-04-18T23:06:16Z"
     },
     {
       "id": 1208430144,
@@ -70,79 +70,79 @@
       "id": 1208221543,
       "name": "browser-use/video-use",
       "description": null,
-      "stars": 1223,
+      "stars": 1227,
       "language": "Python",
       "url": "https://github.com/browser-use/video-use",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-18T22:35:10Z"
+      "updated_at": "2026-04-18T23:03:17Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1189,
+      "stars": 1190,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-18T21:59:51Z"
+      "updated_at": "2026-04-18T22:43:48Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1134,
+      "stars": 1135,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-18T22:08:43Z"
+      "updated_at": "2026-04-18T22:37:50Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
-      "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 993,
+      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+      "stars": 995,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-18T22:34:55Z"
+      "updated_at": "2026-04-18T23:05:59Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 968,
+      "stars": 972,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-18T22:36:32Z"
+      "updated_at": "2026-04-18T23:02:41Z"
     },
     {
       "id": 1210412315,
       "name": "BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 928,
+      "stars": 929,
       "language": null,
       "url": "https://github.com/BuilderPulse/BuilderPulse",
       "owner": {
         "login": "BuilderPulse",
         "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
       },
-      "updated_at": "2026-04-18T21:44:08Z"
+      "updated_at": "2026-04-18T23:00:39Z"
     },
     {
       "id": 1209054090,
@@ -174,14 +174,14 @@
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 827,
+      "stars": 829,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-18T22:33:46Z"
+      "updated_at": "2026-04-18T22:57:08Z"
     },
     {
       "id": 1209396858,
@@ -213,14 +213,14 @@
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 637,
+      "stars": 638,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-18T22:35:11Z"
+      "updated_at": "2026-04-18T23:05:32Z"
     },
     {
       "id": 1209209260,
