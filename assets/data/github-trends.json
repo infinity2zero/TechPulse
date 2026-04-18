@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-04-18T21:59:32.725Z",
+  "lastUpdated": "2026-04-18T22:37:27.922Z",
   "items": [
     {
       "id": 1209889782,
       "name": "getagentseal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2700,
+      "stars": 2702,
       "language": "TypeScript",
       "url": "https://github.com/getagentseal/codeburn",
       "owner": {
         "login": "getagentseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/277308000?v=4"
       },
-      "updated_at": "2026-04-18T21:55:49Z"
+      "updated_at": "2026-04-18T22:13:57Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 1777,
+      "stars": 1797,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-18T21:59:22Z"
+      "updated_at": "2026-04-18T22:33:45Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1488,
+      "stars": 1490,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-18T21:51:49Z"
+      "updated_at": "2026-04-18T22:22:57Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1457,
+      "stars": 1465,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-18T21:52:59Z"
+      "updated_at": "2026-04-18T22:30:23Z"
     },
     {
       "id": 1208430144,
@@ -70,66 +70,66 @@
       "id": 1208221543,
       "name": "browser-use/video-use",
       "description": null,
-      "stars": 1210,
+      "stars": 1223,
       "language": "Python",
       "url": "https://github.com/browser-use/video-use",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-18T21:55:49Z"
+      "updated_at": "2026-04-18T22:35:10Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1188,
+      "stars": 1189,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-18T20:38:40Z"
+      "updated_at": "2026-04-18T21:59:51Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1133,
+      "stars": 1134,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-18T20:46:41Z"
+      "updated_at": "2026-04-18T22:08:43Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 988,
+      "stars": 993,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-18T21:59:03Z"
+      "updated_at": "2026-04-18T22:34:55Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 959,
+      "stars": 968,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-18T21:39:39Z"
+      "updated_at": "2026-04-18T22:36:32Z"
     },
     {
       "id": 1210412315,
@@ -174,53 +174,53 @@
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 824,
+      "stars": 827,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-18T21:48:35Z"
+      "updated_at": "2026-04-18T22:33:46Z"
     },
     {
       "id": 1209396858,
       "name": "yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 807,
+      "stars": 809,
       "language": "PHP",
       "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
         "login": "yaojingang",
         "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-18T18:11:33Z"
+      "updated_at": "2026-04-18T22:25:37Z"
     },
     {
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 759,
+      "stars": 760,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-18T20:15:07Z"
+      "updated_at": "2026-04-18T22:25:51Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 634,
+      "stars": 637,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-18T21:53:38Z"
+      "updated_at": "2026-04-18T22:35:11Z"
     },
     {
       "id": 1209209260,
@@ -252,14 +252,14 @@
       "id": 1211555732,
       "name": "op7418/logo-generator-skill",
       "description": "logo-generator-skill",
-      "stars": 599,
+      "stars": 600,
       "language": "HTML",
       "url": "https://github.com/op7418/logo-generator-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-18T21:12:21Z"
+      "updated_at": "2026-04-18T22:27:04Z"
     }
   ]
 }
