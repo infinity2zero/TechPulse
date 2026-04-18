@@ -1,161 +1,161 @@
 {
-  "lastUpdated": "2026-04-18T15:48:53.201Z",
+  "lastUpdated": "2026-04-18T16:22:46.451Z",
   "items": [
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2672,
+      "stars": 2676,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-18T15:32:13Z"
+      "updated_at": "2026-04-18T16:18:04Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 1493,
+      "stars": 1526,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-18T15:48:48Z"
+      "updated_at": "2026-04-18T16:20:47Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1458,
+      "stars": 1462,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-18T15:46:55Z"
+      "updated_at": "2026-04-18T16:16:16Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1426,
+      "stars": 1428,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-18T15:46:59Z"
+      "updated_at": "2026-04-18T16:13:39Z"
     },
     {
       "id": 1208430144,
       "name": "Mouseww/anything-analyzer",
       "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
-      "stars": 1341,
+      "stars": 1342,
       "language": "TypeScript",
       "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
         "login": "Mouseww",
         "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-18T15:41:44Z"
+      "updated_at": "2026-04-18T16:05:06Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1168,
+      "stars": 1176,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-18T15:35:24Z"
+      "updated_at": "2026-04-18T16:21:28Z"
     },
     {
       "id": 1208221543,
       "name": "browser-use/video-use",
       "description": null,
-      "stars": 1158,
+      "stars": 1164,
       "language": "Python",
       "url": "https://github.com/browser-use/video-use",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-18T15:34:13Z"
+      "updated_at": "2026-04-18T16:19:57Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1106,
+      "stars": 1111,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-18T15:45:54Z"
+      "updated_at": "2026-04-18T16:11:56Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 962,
+      "stars": 964,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-18T15:48:33Z"
+      "updated_at": "2026-04-18T16:07:46Z"
     },
     {
       "id": 1210412315,
       "name": "BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 917,
+      "stars": 918,
       "language": null,
       "url": "https://github.com/BuilderPulse/BuilderPulse",
       "owner": {
         "login": "BuilderPulse",
         "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
       },
-      "updated_at": "2026-04-18T15:34:32Z"
-    },
-    {
-      "id": 1209054090,
-      "name": "sogonov/anubis",
-      "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 903,
-      "language": "Kotlin",
-      "url": "https://github.com/sogonov/anubis",
-      "owner": {
-        "login": "sogonov",
-        "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
-      },
-      "updated_at": "2026-04-18T15:20:36Z"
+      "updated_at": "2026-04-18T16:07:33Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 904,
+      "stars": 910,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-18T15:23:50Z"
+      "updated_at": "2026-04-18T16:19:36Z"
+    },
+    {
+      "id": 1209054090,
+      "name": "sogonov/anubis",
+      "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+      "stars": 904,
+      "language": "Kotlin",
+      "url": "https://github.com/sogonov/anubis",
+      "owner": {
+        "login": "sogonov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
+      },
+      "updated_at": "2026-04-18T15:56:52Z"
     },
     {
       "id": 1208779485,
@@ -200,66 +200,66 @@
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 750,
+      "stars": 753,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-18T15:47:17Z"
+      "updated_at": "2026-04-18T16:21:23Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 622,
+      "stars": 625,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-18T15:12:12Z"
+      "updated_at": "2026-04-18T16:13:39Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 600,
+      "stars": 604,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-18T15:36:53Z"
+      "updated_at": "2026-04-18T16:09:59Z"
     },
     {
       "id": 1211555732,
       "name": "op7418/logo-generator-skill",
       "description": "logo-generator-skill",
-      "stars": 595,
+      "stars": 597,
       "language": "HTML",
       "url": "https://github.com/op7418/logo-generator-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-18T15:14:26Z"
+      "updated_at": "2026-04-18T16:04:08Z"
     },
     {
       "id": 1211295602,
       "name": "xataio/xata",
       "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "stars": 592,
+      "stars": 593,
       "language": "Go",
       "url": "https://github.com/xataio/xata",
       "owner": {
         "login": "xataio",
         "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
       },
-      "updated_at": "2026-04-18T15:36:03Z"
+      "updated_at": "2026-04-18T15:57:30Z"
     }
   ]
 }
