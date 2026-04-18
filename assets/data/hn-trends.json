@@ -1,64 +1,74 @@
 {
-  "lastUpdated": "2026-04-18T11:53:54.759Z",
+  "lastUpdated": "2026-04-18T12:30:54.977Z",
   "items": [
     {
       "id": 47813668,
       "title": "Category Theory Illustrated – Orders",
       "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "score": 109,
+      "score": 122,
       "by": "boris_m",
       "time": 1776494447,
-      "comments": 32,
+      "comments": 34,
       "domain": "abuseofnotation.github.io"
     },
     {
       "id": 47782925,
       "title": "Michael Rabin Has Died",
       "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-      "score": 125,
+      "score": 148,
       "by": "tkhattra",
       "time": 1776276466,
-      "comments": 5,
+      "comments": 12,
       "domain": "en.wikipedia.org"
     },
     {
       "id": 47813566,
       "title": "Amiga Graphics",
       "url": "https://amiga.lychesis.net/",
-      "score": 115,
+      "score": 133,
       "by": "sph",
       "time": 1776493204,
-      "comments": 12,
+      "comments": 19,
       "domain": "amiga.lychesis.net"
     },
     {
-      "id": 47806725,
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1075,
-      "by": "meetpateltech",
-      "time": 1776438249,
-      "comments": 700,
-      "domain": "anthropic.com"
+      "id": 47815118,
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "score": 15,
+      "by": "f_r_d",
+      "time": 1776512557,
+      "comments": 3,
+      "domain": "kdenlive.org"
     },
     {
       "id": 47767398,
       "title": "It's OK to compare floating-points for equality",
       "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "score": 22,
+      "score": 39,
       "by": "coinfused",
       "time": 1776182449,
-      "comments": 16,
+      "comments": 20,
       "domain": "lisyarus.github.io"
+    },
+    {
+      "id": 47806725,
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 1082,
+      "by": "meetpateltech",
+      "time": 1776438249,
+      "comments": 713,
+      "domain": "anthropic.com"
     },
     {
       "id": 47812341,
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
       "url": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 188,
+      "score": 192,
       "by": "fouronnes3",
       "time": 1776474943,
-      "comments": 36,
+      "comments": 38,
       "domain": "victorpoughon.github.io"
     },
     {
@@ -68,148 +78,198 @@
       "score": 624,
       "by": "aray07",
       "time": 1776439776,
-      "comments": 441,
+      "comments": 445,
       "domain": "claudecodecamp.com"
     },
     {
       "id": 47778938,
       "title": "Towards trust in Emacs",
       "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "score": 129,
+      "score": 134,
       "by": "eshelyaron",
       "time": 1776260955,
-      "comments": 17,
+      "comments": 18,
       "domain": "eshelyaron.com"
     },
     {
       "id": 47808913,
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 350,
+      "score": 356,
       "by": "cybermango",
       "time": 1776449821,
-      "comments": 203,
+      "comments": 208,
       "domain": "esa.int"
     },
     {
       "id": 47807583,
       "title": "Spending 3 months coding by hand",
       "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-      "score": 231,
+      "score": 234,
       "by": "evakhoury",
       "time": 1776442793,
-      "comments": 234,
+      "comments": 246,
       "domain": "miguelconner.substack.com"
-    },
-    {
-      "id": 47788207,
-      "title": "The simple geometry behind any road",
-      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-      "score": 46,
-      "by": "azhenley",
-      "time": 1776308990,
-      "comments": 7,
-      "domain": "sandboxspirit.com"
     },
     {
       "id": 47813454,
       "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
       "url": "https://runxiyu.org/comp/doubleslash/",
-      "score": 43,
+      "score": 51,
       "by": "pabs3",
       "time": 1776491230,
-      "comments": 34,
+      "comments": 38,
       "domain": "runxiyu.org"
+    },
+    {
+      "id": 47756320,
+      "title": "Brunost: The Nynorsk Programming Language",
+      "url": "https://lindbakk.com/blog/introducing-brunost",
+      "score": 89,
+      "by": "atomfinger",
+      "time": 1776106195,
+      "comments": 35,
+      "domain": "lindbakk.com"
     },
     {
       "id": 47760135,
       "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
       "url": "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
-      "score": 56,
+      "score": 61,
       "by": "riteshnoronha16",
       "time": 1776129966,
-      "comments": 22,
+      "comments": 25,
       "domain": "amitlimaye1.substack.com"
     },
     {
       "id": 47778922,
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
       "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "score": 225,
+      "score": 230,
       "by": "louiereederson",
       "time": 1776260878,
-      "comments": 67,
+      "comments": 72,
       "domain": "tobyord.com"
     },
     {
       "id": 47810872,
       "title": "A simplified model of Fil-C",
       "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "score": 179,
+      "score": 180,
       "by": "aw1621107",
       "time": 1776461900,
       "comments": 99,
       "domain": "corsix.org"
     },
     {
-      "id": 47756320,
-      "title": "Brunost: The Nynorsk Programming Language",
-      "url": "https://lindbakk.com/blog/introducing-brunost",
-      "score": 80,
-      "by": "atomfinger",
-      "time": 1776106195,
-      "comments": 32,
-      "domain": "lindbakk.com"
+      "id": 47788207,
+      "title": "The simple geometry behind any road",
+      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
+      "score": 56,
+      "by": "azhenley",
+      "time": 1776308990,
+      "comments": 7,
+      "domain": "sandboxspirit.com"
     },
     {
       "id": 47808268,
       "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "url": "https://github.com/smol-machines/smolvm",
-      "score": 348,
+      "score": 352,
       "by": "binsquare",
       "time": 1776446338,
-      "comments": 116,
+      "comments": 117,
       "domain": "github.com"
     },
     {
       "id": 47806845,
       "title": "Slop Cop",
       "url": "https://awnist.com/slop-cop",
-      "score": 198,
+      "score": 202,
       "by": "ericHosick",
       "time": 1776438924,
-      "comments": 117,
+      "comments": 119,
       "domain": "awnist.com"
     },
     {
       "id": 47809190,
       "title": "\"cat readme.txt\" is not safe if you use iTerm2",
       "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-      "score": 204,
+      "score": 210,
       "by": "arkadiyt",
       "time": 1776451412,
-      "comments": 116,
+      "comments": 125,
       "domain": "blog.calif.io"
     },
     {
-      "id": 47807809,
-      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "url": "https://github.com/paniclock/paniclock/",
-      "score": 206,
-      "by": "seanieb",
-      "time": 1776443924,
-      "comments": 94,
-      "domain": "github.com"
+      "id": 47760648,
+      "title": "A Dumb Introduction to Z3",
+      "url": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/",
+      "score": 3,
+      "by": "y1n0",
+      "time": 1776134727,
+      "comments": 0,
+      "domain": "ar-ms.me"
     },
     {
       "id": 47807619,
       "title": "Hyperscalers have already outspent most famous US megaprojects",
       "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-      "score": 209,
+      "score": 214,
       "by": "nowflux",
       "time": 1776443002,
-      "comments": 168,
+      "comments": 173,
       "domain": "twitter.com"
+    },
+    {
+      "id": 47807809,
+      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "url": "https://github.com/paniclock/paniclock/",
+      "score": 207,
+      "by": "seanieb",
+      "time": 1776443924,
+      "comments": 95,
+      "domain": "github.com"
+    },
+    {
+      "id": 47812964,
+      "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
+      "url": "https://github.com/yapstudios/sfsym",
+      "score": 15,
+      "by": "olliewagner",
+      "time": 1776483894,
+      "comments": 3,
+      "domain": "github.com"
+    },
+    {
+      "id": 47806484,
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "score": 245,
+      "by": "speckx",
+      "time": 1776436909,
+      "comments": 114,
+      "domain": "thehistoryblog.com"
+    },
+    {
+      "id": 47807209,
+      "title": "NASA Force",
+      "url": "https://nasaforce.gov/",
+      "score": 281,
+      "by": "LorenDB",
+      "time": 1776440861,
+      "comments": 277,
+      "domain": "nasaforce.gov"
+    },
+    {
+      "id": 47811283,
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "url": "https://www.nature.com/articles/d41586-026-01204-5",
+      "score": 88,
+      "by": "unsuspecting",
+      "time": 1776465028,
+      "comments": 87,
+      "domain": "nature.com"
     },
     {
       "id": 47768390,
@@ -222,74 +282,14 @@
       "domain": "leadedsolder.com"
     },
     {
-      "id": 47806484,
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "url": "https://www.thehistoryblog.com/archives/75848",
-      "score": 241,
-      "by": "speckx",
-      "time": 1776436909,
-      "comments": 111,
-      "domain": "thehistoryblog.com"
-    },
-    {
-      "id": 47807209,
-      "title": "NASA Force",
-      "url": "https://nasaforce.gov/",
-      "score": 281,
-      "by": "LorenDB",
-      "time": 1776440861,
-      "comments": 274,
-      "domain": "nasaforce.gov"
-    },
-    {
-      "id": 47811283,
-      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-      "url": "https://www.nature.com/articles/d41586-026-01204-5",
-      "score": 86,
-      "by": "unsuspecting",
-      "time": 1776465028,
-      "comments": 78,
-      "domain": "nature.com"
-    },
-    {
-      "id": 47812964,
-      "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
-      "url": "https://github.com/yapstudios/sfsym",
-      "score": 11,
-      "by": "olliewagner",
-      "time": 1776483894,
-      "comments": 1,
-      "domain": "github.com"
-    },
-    {
-      "id": 47806777,
-      "title": "NIST gives up enriching most CVEs",
-      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "score": 208,
-      "by": "mooreds",
-      "time": 1776438554,
-      "comments": 51,
-      "domain": "risky.biz"
-    },
-    {
-      "id": 47781889,
-      "title": "Introducing: ShaderPad",
-      "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
-      "score": 102,
-      "by": "evakhoury",
-      "time": 1776272348,
-      "comments": 18,
-      "domain": "rileyjshaw.com"
-    },
-    {
-      "id": 47812331,
-      "title": "Casus Belli Engineering",
-      "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
-      "score": 46,
-      "by": "b-man",
-      "time": 1776474842,
-      "comments": 14,
-      "domain": "marcosmagueta.com"
+      "id": 47815127,
+      "title": "The quiet disappearance of the free-range childhood",
+      "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
+      "score": 13,
+      "by": "sylvainkalache",
+      "time": 1776512637,
+      "comments": 4,
+      "domain": "bigthink.com"
     }
   ]
 }
