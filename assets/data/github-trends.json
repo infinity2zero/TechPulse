@@ -1,148 +1,148 @@
 {
-  "lastUpdated": "2026-04-18T18:24:44.306Z",
+  "lastUpdated": "2026-04-18T19:12:20.594Z",
   "items": [
     {
       "id": 1209889782,
       "name": "AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2686,
+      "stars": 2689,
       "language": "TypeScript",
       "url": "https://github.com/AgentSeal/codeburn",
       "owner": {
         "login": "AgentSeal",
         "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
       },
-      "updated_at": "2026-04-18T18:17:14Z"
+      "updated_at": "2026-04-18T19:10:58Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 1639,
+      "stars": 1679,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-18T18:24:43Z"
+      "updated_at": "2026-04-18T19:11:47Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1476,
+      "stars": 1477,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-18T18:22:19Z"
+      "updated_at": "2026-04-18T18:54:25Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1432,
+      "stars": 1438,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-18T18:06:13Z"
+      "updated_at": "2026-04-18T19:05:38Z"
     },
     {
       "id": 1208430144,
       "name": "Mouseww/anything-analyzer",
       "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
-      "stars": 1343,
+      "stars": 1344,
       "language": "TypeScript",
       "url": "https://github.com/Mouseww/anything-analyzer",
       "owner": {
         "login": "Mouseww",
         "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
       },
-      "updated_at": "2026-04-18T16:59:40Z"
+      "updated_at": "2026-04-18T18:30:49Z"
     },
     {
       "id": 1208221543,
       "name": "browser-use/video-use",
       "description": null,
-      "stars": 1182,
+      "stars": 1189,
       "language": "Python",
       "url": "https://github.com/browser-use/video-use",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-18T18:12:07Z"
+      "updated_at": "2026-04-18T19:10:30Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1182,
+      "stars": 1186,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-18T18:10:52Z"
+      "updated_at": "2026-04-18T19:08:02Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1123,
+      "stars": 1128,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-18T18:09:28Z"
+      "updated_at": "2026-04-18T19:02:28Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
-      "stars": 976,
+      "stars": 978,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-18T18:02:47Z"
-    },
-    {
-      "id": 1210412315,
-      "name": "BuilderPulse/BuilderPulse",
-      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 923,
-      "language": null,
-      "url": "https://github.com/BuilderPulse/BuilderPulse",
-      "owner": {
-        "login": "BuilderPulse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
-      },
-      "updated_at": "2026-04-18T17:02:10Z"
+      "updated_at": "2026-04-18T19:10:23Z"
     },
     {
       "id": 1208481838,
       "name": "patterniha/SNI-Spoofing",
       "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "stars": 923,
+      "stars": 934,
       "language": "Python",
       "url": "https://github.com/patterniha/SNI-Spoofing",
       "owner": {
         "login": "patterniha",
         "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
       },
-      "updated_at": "2026-04-18T17:52:23Z"
+      "updated_at": "2026-04-18T19:01:27Z"
+    },
+    {
+      "id": 1210412315,
+      "name": "BuilderPulse/BuilderPulse",
+      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+      "stars": 924,
+      "language": null,
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "owner": {
+        "login": "BuilderPulse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+      },
+      "updated_at": "2026-04-18T18:28:44Z"
     },
     {
       "id": 1209054090,
@@ -161,27 +161,27 @@
       "id": 1208779485,
       "name": "sterlingcrispin/nothing-ever-happens",
       "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "stars": 830,
+      "stars": 831,
       "language": "Python",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "owner": {
         "login": "sterlingcrispin",
         "avatar_url": "https://avatars.githubusercontent.com/u/2976761?v=4"
       },
-      "updated_at": "2026-04-18T17:56:52Z"
+      "updated_at": "2026-04-18T18:50:01Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 816,
+      "stars": 818,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-18T18:03:56Z"
+      "updated_at": "2026-04-18T19:00:48Z"
     },
     {
       "id": 1209396858,
@@ -207,33 +207,33 @@
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-18T17:37:09Z"
+      "updated_at": "2026-04-18T19:08:16Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 627,
+      "stars": 628,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-18T16:48:19Z"
+      "updated_at": "2026-04-18T18:27:00Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 614,
+      "stars": 620,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-18T18:19:56Z"
+      "updated_at": "2026-04-18T19:10:24Z"
     },
     {
       "id": 1211555732,
