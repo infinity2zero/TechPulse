@@ -1,141 +1,161 @@
 {
-  "lastUpdated": "2026-04-19T10:56:46.025Z",
+  "lastUpdated": "2026-04-19T11:30:56.195Z",
   "items": [
     {
       "id": 47822805,
       "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
       "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 57,
+      "score": 68,
       "by": "Eridanus2",
       "time": 1776588348,
-      "comments": 23,
+      "comments": 26,
       "domain": "usenix.org"
-    },
-    {
-      "id": 47793161,
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 134,
-      "by": "speckx",
-      "time": 1776348310,
-      "comments": 92,
-      "domain": "kotaku.com"
     },
     {
       "id": 47806096,
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 5,
+      "score": 38,
       "by": "DamnInteresting",
       "time": 1776434848,
-      "comments": 1,
+      "comments": 9,
       "domain": "archive.org"
+    },
+    {
+      "id": 47793161,
+      "title": "Game devs explain the tricks involved with letting you pause a game",
+      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+      "score": 149,
+      "by": "speckx",
+      "time": 1776348310,
+      "comments": 98,
+      "domain": "kotaku.com"
     },
     {
       "id": 47806021,
       "title": "What are skiplists good for?",
       "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 98,
+      "score": 114,
       "by": "mfiguiere",
       "time": 1776434247,
-      "comments": 21,
+      "comments": 22,
       "domain": "antithesis.com"
     },
     {
       "id": 47819453,
       "title": "NIST scientists create 'any wavelength' lasers",
       "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 318,
+      "score": 325,
       "by": "rbanffy",
       "time": 1776545657,
-      "comments": 136,
+      "comments": 140,
       "domain": "nist.gov"
     },
     {
       "id": 47816960,
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 524,
+      "score": 530,
       "by": "anabranch",
       "time": 1776528343,
-      "comments": 514,
+      "comments": 518,
       "domain": "tokens.billchambers.me"
     },
     {
       "id": 47818485,
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 288,
+      "score": 301,
       "by": "gnabgib",
       "time": 1776538800,
-      "comments": 289,
+      "comments": 296,
       "domain": "sentinelcolorado.com"
     },
     {
       "id": 47817132,
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 340,
+      "score": 346,
       "by": "NelsonMinar",
       "time": 1776529607,
-      "comments": 91,
+      "comments": 92,
       "domain": "righto.com"
-    },
-    {
-      "id": 47821429,
-      "title": "The world in which IPv6 was a good design",
-      "url": "https://apenwarr.ca/log/20170810",
-      "score": 72,
-      "by": "signa11",
-      "time": 1776567043,
-      "comments": 16,
-      "domain": "apenwarr.ca"
-    },
-    {
-      "id": 47791771,
-      "title": "Updating Gun Rocket through 10 years of Unity Engine",
-      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "score": 87,
-      "by": "tyleo",
-      "time": 1776340800,
-      "comments": 37,
-      "domain": "jackpritz.com"
     },
     {
       "id": 47797987,
       "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
       "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
-      "score": 25,
+      "score": 29,
       "by": "PaulHoule",
       "time": 1776366320,
       "comments": 2,
       "domain": "vlad.website"
     },
     {
+      "id": 47791771,
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "score": 89,
+      "by": "tyleo",
+      "time": 1776340800,
+      "comments": 37,
+      "domain": "jackpritz.com"
+    },
+    {
+      "id": 47823270,
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "score": 12,
+      "by": "pretext",
+      "time": 1776594989,
+      "comments": 0,
+      "domain": "simonwillison.net"
+    },
+    {
       "id": 47815395,
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 421,
+      "score": 428,
       "by": "RickJWagner",
       "time": 1776515346,
-      "comments": 403,
+      "comments": 408,
       "domain": "worksinprogress.co"
+    },
+    {
+      "id": 47821429,
+      "title": "The world in which IPv6 was a good design",
+      "url": "https://apenwarr.ca/log/20170810",
+      "score": 77,
+      "by": "signa11",
+      "time": 1776567043,
+      "comments": 21,
+      "domain": "apenwarr.ca"
     },
     {
       "id": 47822356,
       "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
       "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-      "score": 71,
+      "score": 81,
       "by": "nobody9999",
       "time": 1776582317,
-      "comments": 6,
+      "comments": 7,
       "domain": "eff.org"
+    },
+    {
+      "id": 47822486,
+      "title": "The seven programming ur-languages",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "score": 13,
+      "by": "helloplanets",
+      "time": 1776584288,
+      "comments": 1,
+      "domain": "madhadron.com"
     },
     {
       "id": 47815118,
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 407,
+      "score": 409,
       "by": "f_r_d",
       "time": 1776512557,
       "comments": 124,
@@ -145,37 +165,27 @@
       "id": 47779659,
       "title": "Modern Common Lisp with FSet",
       "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 161,
+      "score": 162,
       "by": "larve",
       "time": 1776263918,
       "comments": 19,
       "domain": "fset.common-lisp.dev"
     },
     {
-      "id": 47779372,
-      "title": "It's cool to care (2025)",
-      "url": "https://alexwlchan.net/2025/cool-to-care/",
-      "score": 17,
-      "by": "surprisetalk",
-      "time": 1776262842,
-      "comments": 7,
-      "domain": "alexwlchan.net"
-    },
-    {
       "id": 47815774,
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 791,
+      "score": 795,
       "by": "yusufusta",
       "time": 1776518944,
-      "comments": 398,
+      "comments": 401,
       "domain": "isayeter.com"
     },
     {
       "id": 47783890,
       "title": "Metatextual Literacy",
       "url": "https://www.jenn.site/metatextual-literacy/",
-      "score": 34,
+      "score": 37,
       "by": "dado3212",
       "time": 1776280718,
       "comments": 3,
@@ -185,21 +195,21 @@
       "id": 47819369,
       "title": "Optimizing Ruby Path Methods",
       "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 103,
+      "score": 106,
       "by": "weaksauce",
       "time": 1776544949,
       "comments": 38,
       "domain": "byroot.github.io"
     },
     {
-      "id": 47820195,
-      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "score": 86,
-      "by": "agambrahma",
-      "time": 1776552373,
-      "comments": 34,
-      "domain": "abacusnoir.com"
+      "id": 47779372,
+      "title": "It's cool to care (2025)",
+      "url": "https://alexwlchan.net/2025/cool-to-care/",
+      "score": 20,
+      "by": "surprisetalk",
+      "time": 1776262842,
+      "comments": 10,
+      "domain": "alexwlchan.net"
     },
     {
       "id": 47794299,
@@ -208,18 +218,8 @@
       "score": 29,
       "by": "bookofjoe",
       "time": 1776352113,
-      "comments": 12,
+      "comments": 14,
       "domain": "smithsonianmag.com"
-    },
-    {
-      "id": 47790337,
-      "title": "SI Units for Request Rate (2024)",
-      "url": "https://entropicthoughts.com/si-units-for-request-rate",
-      "score": 72,
-      "by": "fanf2",
-      "time": 1776328925,
-      "comments": 49,
-      "domain": "entropicthoughts.com"
     },
     {
       "id": 47784395,
@@ -232,64 +232,64 @@
       "domain": "sumida-aquarium.com"
     },
     {
+      "id": 47820195,
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "score": 91,
+      "by": "agambrahma",
+      "time": 1776552373,
+      "comments": 36,
+      "domain": "abacusnoir.com"
+    },
+    {
       "id": 47818700,
       "title": "Thoughts and feelings around Claude Design",
       "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 314,
+      "score": 325,
       "by": "cdrnsf",
       "time": 1776539964,
-      "comments": 200,
+      "comments": 201,
       "domain": "samhenri.gold"
+    },
+    {
+      "id": 47822737,
+      "title": "Binary GCD",
+      "url": "https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd",
+      "score": 5,
+      "by": "tosh",
+      "time": 1776587618,
+      "comments": 0,
+      "domain": "en.algorithmica.org"
     },
     {
       "id": 47819823,
       "title": "My first impressions on ROCm and Strix Halo",
       "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-      "score": 49,
+      "score": 50,
       "by": "random_",
       "time": 1776549048,
-      "comments": 36,
+      "comments": 38,
       "domain": "blog.marcoinacio.com"
     },
     {
       "id": 47796496,
       "title": "Bypassing the kernel for 56ns cross-language IPC",
       "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "score": 44,
+      "score": 48,
       "by": "riyaneel",
       "time": 1776359630,
-      "comments": 22,
+      "comments": 23,
       "domain": "github.com"
     },
     {
       "id": 47816629,
       "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
       "url": "https://github.com/drasimwagan/mdv",
-      "score": 120,
+      "score": 123,
       "by": "drasim",
       "time": 1776525879,
       "comments": 44,
       "domain": "github.com"
-    },
-    {
-      "id": 47784250,
-      "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
-      "score": 109,
-      "by": "t-3",
-      "time": 1776282376,
-      "comments": 38,
-      "domain": "sciencedaily.com"
-    },
-    {
-      "id": 47820531,
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "score": 183,
-      "by": "sohkamyung",
-      "time": 1776556065,
-      "comments": 80,
-      "domain": "science.nasa.gov"
     }
   ]
 }
