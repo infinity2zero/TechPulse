@@ -1,57 +1,57 @@
 {
-  "lastUpdated": "2026-04-19T20:35:51.290Z",
+  "lastUpdated": "2026-04-19T21:06:24.454Z",
   "items": [
     {
       "id": 1209889782,
       "name": "getagentseal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2840,
+      "stars": 2841,
       "language": "TypeScript",
       "url": "https://github.com/getagentseal/codeburn",
       "owner": {
         "login": "getagentseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/277308000?v=4"
       },
-      "updated_at": "2026-04-19T20:35:09Z"
+      "updated_at": "2026-04-19T21:03:17Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 2569,
+      "stars": 2580,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-19T20:19:07Z"
+      "updated_at": "2026-04-19T21:04:54Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 2026,
+      "stars": 2035,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-19T20:31:57Z"
+      "updated_at": "2026-04-19T21:03:55Z"
     },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stars": 1958,
+      "stars": 1985,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-19T20:34:56Z"
+      "updated_at": "2026-04-19T21:06:18Z"
     },
     {
       "id": 1211901711,
@@ -83,40 +83,40 @@
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1278,
+      "stars": 1279,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-19T20:29:26Z"
+      "updated_at": "2026-04-19T20:59:18Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "stars": 1079,
+      "stars": 1082,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-19T20:31:03Z"
+      "updated_at": "2026-04-19T20:52:32Z"
     },
     {
       "id": 1214346700,
       "name": "kyegomez/OpenMythos",
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": 1017,
+      "stars": 1053,
       "language": "Python",
       "url": "https://github.com/kyegomez/OpenMythos",
       "owner": {
         "login": "kyegomez",
         "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
-      "updated_at": "2026-04-19T20:35:19Z"
+      "updated_at": "2026-04-19T21:05:49Z"
     },
     {
       "id": 1210412315,
@@ -135,27 +135,27 @@
       "id": 1209054090,
       "name": "sogonov/anubis",
       "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 943,
+      "stars": 944,
       "language": "Kotlin",
       "url": "https://github.com/sogonov/anubis",
       "owner": {
         "login": "sogonov",
         "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
       },
-      "updated_at": "2026-04-19T20:22:52Z"
+      "updated_at": "2026-04-19T20:51:28Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 872,
+      "stars": 873,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-19T20:31:10Z"
+      "updated_at": "2026-04-19T21:00:07Z"
     },
     {
       "id": 1209396858,
@@ -174,53 +174,53 @@
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 796,
+      "stars": 797,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-19T19:38:18Z"
+      "updated_at": "2026-04-19T20:41:12Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 723,
+      "stars": 722,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-19T20:34:34Z"
+      "updated_at": "2026-04-19T20:38:31Z"
     },
     {
       "id": 1213797717,
       "name": "bwjoke/BTC-Trading-Since-2020",
       "description": "Public BTC trading context since 2020.",
-      "stars": 683,
+      "stars": 684,
       "language": null,
       "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
       "owner": {
         "login": "bwjoke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1284814?v=4"
       },
-      "updated_at": "2026-04-19T19:01:23Z"
+      "updated_at": "2026-04-19T20:41:28Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 659,
+      "stars": 660,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-19T19:09:54Z"
+      "updated_at": "2026-04-19T21:03:29Z"
     },
     {
       "id": 1211295602,
@@ -239,14 +239,14 @@
       "id": 1211555732,
       "name": "op7418/logo-generator-skill",
       "description": "logo-generator-skill",
-      "stars": 633,
+      "stars": 634,
       "language": "HTML",
       "url": "https://github.com/op7418/logo-generator-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-19T20:20:33Z"
+      "updated_at": "2026-04-19T20:44:34Z"
     },
     {
       "id": 1212769188,
