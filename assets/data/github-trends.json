@@ -1,213 +1,213 @@
 {
-  "lastUpdated": "2026-04-19T10:56:46.235Z",
+  "lastUpdated": "2026-04-19T11:30:55.267Z",
   "items": [
     {
       "id": 1209889782,
       "name": "getagentseal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stars": 2758,
+      "stars": 2767,
       "language": "TypeScript",
       "url": "https://github.com/getagentseal/codeburn",
       "owner": {
         "login": "getagentseal",
         "avatar_url": "https://avatars.githubusercontent.com/u/277308000?v=4"
       },
-      "updated_at": "2026-04-19T10:49:04Z"
+      "updated_at": "2026-04-19T11:29:49Z"
     },
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 2279,
+      "stars": 2296,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-19T10:53:10Z"
+      "updated_at": "2026-04-19T11:28:21Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 1836,
+      "stars": 1844,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-19T10:56:35Z"
+      "updated_at": "2026-04-19T11:27:30Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1533,
+      "stars": 1536,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-19T10:53:26Z"
+      "updated_at": "2026-04-19T11:16:20Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1275,
+      "stars": 1279,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-19T10:55:06Z"
+      "updated_at": "2026-04-19T11:23:04Z"
     },
     {
       "id": 1209268581,
       "name": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
-      "stars": 1238,
+      "stars": 1242,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/darwin-skill",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-19T10:39:36Z"
+      "updated_at": "2026-04-19T11:27:49Z"
     },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stars": 1196,
+      "stars": 1235,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-19T10:54:19Z"
+      "updated_at": "2026-04-19T11:29:38Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "stars": 1040,
+      "stars": 1041,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-19T10:01:19Z"
+      "updated_at": "2026-04-19T11:17:17Z"
     },
     {
       "id": 1210412315,
       "name": "BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 945,
+      "stars": 946,
       "language": null,
       "url": "https://github.com/BuilderPulse/BuilderPulse",
       "owner": {
         "login": "BuilderPulse",
         "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
       },
-      "updated_at": "2026-04-19T10:30:31Z"
+      "updated_at": "2026-04-19T10:59:12Z"
     },
     {
       "id": 1209054090,
       "name": "sogonov/anubis",
       "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
-      "stars": 920,
+      "stars": 921,
       "language": "Kotlin",
       "url": "https://github.com/sogonov/anubis",
       "owner": {
         "login": "sogonov",
         "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
       },
-      "updated_at": "2026-04-19T10:26:31Z"
+      "updated_at": "2026-04-19T11:02:56Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 851,
+      "stars": 854,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-19T10:50:44Z"
+      "updated_at": "2026-04-19T11:13:10Z"
     },
     {
       "id": 1209396858,
       "name": "yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stars": 820,
+      "stars": 822,
       "language": "PHP",
       "url": "https://github.com/yaojingang/GEOFlow",
       "owner": {
         "login": "yaojingang",
         "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
       },
-      "updated_at": "2026-04-19T10:46:20Z"
+      "updated_at": "2026-04-19T11:19:27Z"
     },
     {
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 774,
+      "stars": 776,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-19T10:43:03Z"
+      "updated_at": "2026-04-19T11:08:59Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 678,
+      "stars": 680,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-19T10:27:59Z"
+      "updated_at": "2026-04-19T11:22:38Z"
     },
     {
       "id": 1209209260,
       "name": "andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
-      "stars": 641,
+      "stars": 642,
       "language": "JavaScript",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "owner": {
         "login": "andrewjiang",
         "avatar_url": "https://avatars.githubusercontent.com/u/906752?v=4"
       },
-      "updated_at": "2026-04-19T10:16:44Z"
+      "updated_at": "2026-04-19T11:10:29Z"
     },
     {
       "id": 1213797717,
       "name": "bwjoke/BTC-Trading-Since-2020",
       "description": "Public BTC trading context since 2020.",
-      "stars": 619,
+      "stars": 623,
       "language": null,
       "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
       "owner": {
         "login": "bwjoke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1284814?v=4"
       },
-      "updated_at": "2026-04-19T10:56:09Z"
+      "updated_at": "2026-04-19T11:20:19Z"
     },
     {
       "id": 1211295602,
@@ -226,40 +226,40 @@
       "id": 1211555732,
       "name": "op7418/logo-generator-skill",
       "description": "logo-generator-skill",
-      "stars": 608,
+      "stars": 611,
       "language": "HTML",
       "url": "https://github.com/op7418/logo-generator-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-19T09:23:40Z"
+      "updated_at": "2026-04-19T11:24:20Z"
     },
     {
       "id": 1210818754,
       "name": "poteto/how",
       "description": "skill for explaining architecture",
-      "stars": 569,
+      "stars": 570,
       "language": null,
       "url": "https://github.com/poteto/how",
       "owner": {
         "login": "poteto",
         "avatar_url": "https://avatars.githubusercontent.com/u/1390709?v=4"
       },
-      "updated_at": "2026-04-19T07:51:25Z"
+      "updated_at": "2026-04-19T11:08:34Z"
     },
     {
       "id": 1211537500,
       "name": "codejunkie99/agentic-stack",
       "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "stars": 533,
+      "stars": 534,
       "language": "Python",
       "url": "https://github.com/codejunkie99/agentic-stack",
       "owner": {
         "login": "codejunkie99",
         "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
       },
-      "updated_at": "2026-04-19T09:09:55Z"
+      "updated_at": "2026-04-19T11:27:28Z"
     }
   ]
 }
