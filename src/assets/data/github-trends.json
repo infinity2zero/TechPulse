@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-04-20T10:12:10.758Z",
+  "lastUpdated": "2026-04-20T11:42:14.769Z",
   "items": [
-    {
-      "id": 1211752857,
-      "name": "Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 2857,
-      "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "owner": {
-        "login": "Robbyant",
-        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
-      },
-      "updated_at": "2026-04-20T10:10:58Z"
-    },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stars": 2856,
+      "stars": 2928,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-20T10:11:38Z"
+      "updated_at": "2026-04-20T11:37:09Z"
+    },
+    {
+      "id": 1211752857,
+      "name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "stars": 2892,
+      "language": "Python",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "owner": {
+        "login": "Robbyant",
+        "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+      },
+      "updated_at": "2026-04-20T11:41:12Z"
     },
     {
       "id": 1214346700,
       "name": "kyegomez/OpenMythos",
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": 2608,
+      "stars": 2846,
       "language": "Python",
       "url": "https://github.com/kyegomez/OpenMythos",
       "owner": {
         "login": "kyegomez",
         "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
-      "updated_at": "2026-04-20T10:12:08Z"
+      "updated_at": "2026-04-20T11:41:56Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 2157,
+      "stars": 2164,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-20T10:09:04Z"
+      "updated_at": "2026-04-20T11:07:03Z"
     },
     {
       "id": 1211901711,
       "name": "Nightmare-Eclipse/RedSun",
       "description": "The Red Sun vulnerability repository",
-      "stars": 1602,
+      "stars": 1607,
       "language": "C++",
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "owner": {
         "login": "Nightmare-Eclipse",
         "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
       },
-      "updated_at": "2026-04-20T09:48:38Z"
+      "updated_at": "2026-04-20T11:21:49Z"
     },
     {
       "id": 1211235520,
       "name": "lewislulu/html-ppt-skill",
       "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1562,
+      "stars": 1579,
       "language": "HTML",
       "url": "https://github.com/lewislulu/html-ppt-skill",
       "owner": {
         "login": "lewislulu",
         "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
       },
-      "updated_at": "2026-04-20T10:09:55Z"
+      "updated_at": "2026-04-20T11:26:23Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "stars": 1112,
+      "stars": 1115,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-20T10:06:59Z"
+      "updated_at": "2026-04-20T10:56:36Z"
     },
     {
       "id": 1210412315,
@@ -109,53 +109,53 @@
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 932,
+      "stars": 942,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-20T10:05:10Z"
+      "updated_at": "2026-04-20T11:38:43Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 895,
+      "stars": 896,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-20T09:12:10Z"
+      "updated_at": "2026-04-20T10:56:37Z"
     },
     {
       "id": 1212769188,
       "name": "cathrynlavery/diagram-design",
       "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 796,
+      "stars": 812,
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": {
         "login": "cathrynlavery",
         "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
       },
-      "updated_at": "2026-04-20T10:09:58Z"
+      "updated_at": "2026-04-20T11:29:20Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 776,
+      "stars": 777,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-20T10:03:09Z"
+      "updated_at": "2026-04-20T11:34:44Z"
     },
     {
       "id": 1213797717,
@@ -174,27 +174,40 @@
       "id": 1214290850,
       "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
       "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
-      "stars": 715,
+      "stars": 740,
       "language": null,
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "owner": {
         "login": "EvoLinkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
-      "updated_at": "2026-04-20T10:07:50Z"
+      "updated_at": "2026-04-20T11:34:32Z"
     },
     {
       "id": 1211537500,
       "name": "codejunkie99/agentic-stack",
       "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "stars": 654,
+      "stars": 670,
       "language": "Python",
       "url": "https://github.com/codejunkie99/agentic-stack",
       "owner": {
         "login": "codejunkie99",
         "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
       },
-      "updated_at": "2026-04-20T09:51:22Z"
+      "updated_at": "2026-04-20T11:38:24Z"
+    },
+    {
+      "id": 1211295602,
+      "name": "xataio/xata",
+      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+      "stars": 654,
+      "language": "Go",
+      "url": "https://github.com/xataio/xata",
+      "owner": {
+        "login": "xataio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
+      },
+      "updated_at": "2026-04-20T10:44:30Z"
     },
     {
       "id": 1211555732,
@@ -208,19 +221,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
       "updated_at": "2026-04-20T10:07:38Z"
-    },
-    {
-      "id": 1211295602,
-      "name": "xataio/xata",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "stars": 652,
-      "language": "Go",
-      "url": "https://github.com/xataio/xata",
-      "owner": {
-        "login": "xataio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
-      },
-      "updated_at": "2026-04-20T09:45:05Z"
     },
     {
       "id": 1210818754,
@@ -239,27 +239,27 @@
       "id": 1214125715,
       "name": "VoltAgent/awesome-claude-design",
       "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
-      "stars": 541,
+      "stars": 555,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-claude-design",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-04-20T10:11:51Z"
+      "updated_at": "2026-04-20T11:37:00Z"
     },
     {
       "id": 1211142422,
       "name": "stanford-iris-lab/meta-harness",
       "description": "Reference code for the Meta-Harness paper.",
-      "stars": 519,
+      "stars": 520,
       "language": "Python",
       "url": "https://github.com/stanford-iris-lab/meta-harness",
       "owner": {
         "login": "stanford-iris-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/63766302?v=4"
       },
-      "updated_at": "2026-04-20T10:01:58Z"
+      "updated_at": "2026-04-20T11:17:20Z"
     }
   ]
 }
