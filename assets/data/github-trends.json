@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-20T00:05:01.301Z",
+  "lastUpdated": "2026-04-20T03:47:36.533Z",
   "items": [
     {
       "id": 1211752857,
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": 2622,
+      "stars": 2698,
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": {
         "login": "Robbyant",
         "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
       },
-      "updated_at": "2026-04-20T00:04:55Z"
+      "updated_at": "2026-04-20T03:46:28Z"
     },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stars": 2128,
+      "stars": 2424,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-20T00:04:45Z"
+      "updated_at": "2026-04-20T03:47:26Z"
     },
     {
       "id": 1210579186,
       "name": "vercel-labs/wterm",
       "description": "A terminal emulator for the web",
-      "stars": 2067,
+      "stars": 2109,
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/wterm",
       "owner": {
         "login": "vercel-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
       },
-      "updated_at": "2026-04-19T23:57:29Z"
-    },
-    {
-      "id": 1211901711,
-      "name": "Nightmare-Eclipse/RedSun",
-      "description": "The Red Sun vulnerability repository",
-      "stars": 1569,
-      "language": "C++",
-      "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "owner": {
-        "login": "Nightmare-Eclipse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
-      },
-      "updated_at": "2026-04-19T23:57:27Z"
-    },
-    {
-      "id": 1211235520,
-      "name": "lewislulu/html-ppt-skill",
-      "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
-      "stars": 1409,
-      "language": "HTML",
-      "url": "https://github.com/lewislulu/html-ppt-skill",
-      "owner": {
-        "login": "lewislulu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
-      },
-      "updated_at": "2026-04-20T00:02:07Z"
+      "updated_at": "2026-04-20T03:34:27Z"
     },
     {
       "id": 1214346700,
       "name": "kyegomez/OpenMythos",
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": 1326,
+      "stars": 1714,
       "language": "Python",
       "url": "https://github.com/kyegomez/OpenMythos",
       "owner": {
         "login": "kyegomez",
         "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
-      "updated_at": "2026-04-20T00:04:45Z"
+      "updated_at": "2026-04-20T03:47:02Z"
+    },
+    {
+      "id": 1211901711,
+      "name": "Nightmare-Eclipse/RedSun",
+      "description": "The Red Sun vulnerability repository",
+      "stars": 1580,
+      "language": "C++",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun",
+      "owner": {
+        "login": "Nightmare-Eclipse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+      },
+      "updated_at": "2026-04-20T03:17:07Z"
+    },
+    {
+      "id": 1211235520,
+      "name": "lewislulu/html-ppt-skill",
+      "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+      "stars": 1485,
+      "language": "HTML",
+      "url": "https://github.com/lewislulu/html-ppt-skill",
+      "owner": {
+        "login": "lewislulu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
+      },
+      "updated_at": "2026-04-20T03:44:39Z"
     },
     {
       "id": 1211361116,
       "name": "Manavarya09/design-extract",
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "stars": 1089,
+      "stars": 1093,
       "language": "JavaScript",
       "url": "https://github.com/Manavarya09/design-extract",
       "owner": {
         "login": "Manavarya09",
         "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
       },
-      "updated_at": "2026-04-19T23:47:35Z"
+      "updated_at": "2026-04-20T03:06:29Z"
     },
     {
       "id": 1210412315,
       "name": "BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stars": 962,
+      "stars": 978,
       "language": null,
       "url": "https://github.com/BuilderPulse/BuilderPulse",
       "owner": {
         "login": "BuilderPulse",
         "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
       },
-      "updated_at": "2026-04-19T22:37:55Z"
+      "updated_at": "2026-04-20T03:25:58Z"
     },
     {
       "id": 1211096376,
       "name": "WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stars": 877,
+      "stars": 884,
       "language": "Rust",
       "url": "https://github.com/WeaveMindAI/weft",
       "owner": {
         "login": "WeaveMindAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/234981286?v=4"
       },
-      "updated_at": "2026-04-19T23:55:54Z"
+      "updated_at": "2026-04-20T03:47:12Z"
     },
     {
       "id": 1212241202,
       "name": "wbh604/UZI-Skill",
       "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "stars": 801,
+      "stars": 844,
       "language": "Python",
       "url": "https://github.com/wbh604/UZI-Skill",
       "owner": {
         "login": "wbh604",
         "avatar_url": "https://avatars.githubusercontent.com/u/16127958?v=4"
       },
-      "updated_at": "2026-04-19T23:28:10Z"
+      "updated_at": "2026-04-20T03:47:27Z"
     },
     {
       "id": 1210834892,
       "name": "Lazarus-AI/clearwing",
       "description": null,
-      "stars": 740,
+      "stars": 752,
       "language": "Python",
       "url": "https://github.com/Lazarus-AI/clearwing",
       "owner": {
         "login": "Lazarus-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
       },
-      "updated_at": "2026-04-20T00:04:48Z"
+      "updated_at": "2026-04-20T03:22:57Z"
     },
     {
       "id": 1213797717,
       "name": "bwjoke/BTC-Trading-Since-2020",
       "description": "Public BTC trading context since 2020.",
-      "stars": 692,
+      "stars": 718,
       "language": null,
       "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
       "owner": {
         "login": "bwjoke",
         "avatar_url": "https://avatars.githubusercontent.com/u/1284814?v=4"
       },
-      "updated_at": "2026-04-19T23:58:26Z"
+      "updated_at": "2026-04-20T03:02:38Z"
     },
     {
       "id": 1212769188,
       "name": "cathrynlavery/diagram-design",
       "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 642,
+      "stars": 714,
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": {
         "login": "cathrynlavery",
         "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
       },
-      "updated_at": "2026-04-19T23:57:44Z"
-    },
-    {
-      "id": 1211295602,
-      "name": "xataio/xata",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "stars": 636,
-      "language": "Go",
-      "url": "https://github.com/xataio/xata",
-      "owner": {
-        "login": "xataio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
-      },
-      "updated_at": "2026-04-19T23:51:31Z"
+      "updated_at": "2026-04-20T03:47:28Z"
     },
     {
       "id": 1211555732,
       "name": "op7418/logo-generator-skill",
       "description": "logo-generator-skill",
-      "stars": 636,
+      "stars": 643,
       "language": "HTML",
       "url": "https://github.com/op7418/logo-generator-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-20T00:03:12Z"
+      "updated_at": "2026-04-20T03:34:48Z"
     },
     {
-      "id": 1210818754,
-      "name": "poteto/how",
-      "description": "skill for explaining architecture",
-      "stars": 590,
-      "language": null,
-      "url": "https://github.com/poteto/how",
+      "id": 1211295602,
+      "name": "xataio/xata",
+      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+      "stars": 639,
+      "language": "Go",
+      "url": "https://github.com/xataio/xata",
       "owner": {
-        "login": "poteto",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1390709?v=4"
+        "login": "xataio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
       },
-      "updated_at": "2026-04-19T23:46:23Z"
+      "updated_at": "2026-04-20T01:18:31Z"
     },
     {
       "id": 1211537500,
       "name": "codejunkie99/agentic-stack",
       "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "stars": 576,
+      "stars": 605,
       "language": "Python",
       "url": "https://github.com/codejunkie99/agentic-stack",
       "owner": {
         "login": "codejunkie99",
         "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
       },
-      "updated_at": "2026-04-19T23:55:24Z"
+      "updated_at": "2026-04-20T03:34:48Z"
+    },
+    {
+      "id": 1210818754,
+      "name": "poteto/how",
+      "description": "skill for explaining architecture",
+      "stars": 594,
+      "language": null,
+      "url": "https://github.com/poteto/how",
+      "owner": {
+        "login": "poteto",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1390709?v=4"
+      },
+      "updated_at": "2026-04-20T03:28:13Z"
     },
     {
       "id": 1214290850,
       "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
       "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
-      "stars": 503,
+      "stars": 589,
       "language": null,
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "owner": {
         "login": "EvoLinkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
-      "updated_at": "2026-04-19T23:59:54Z"
+      "updated_at": "2026-04-20T03:44:37Z"
     },
     {
       "id": 1211142422,
       "name": "stanford-iris-lab/meta-harness",
       "description": "Reference code for the Meta-Harness paper.",
-      "stars": 497,
+      "stars": 504,
       "language": "Python",
       "url": "https://github.com/stanford-iris-lab/meta-harness",
       "owner": {
         "login": "stanford-iris-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/63766302?v=4"
       },
-      "updated_at": "2026-04-19T23:47:03Z"
+      "updated_at": "2026-04-20T03:38:50Z"
     },
     {
       "id": 1212064523,
       "name": "zhuyansen/wx-favorites-report",
       "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
-      "stars": 476,
+      "stars": 488,
       "language": "Python",
       "url": "https://github.com/zhuyansen/wx-favorites-report",
       "owner": {
         "login": "zhuyansen",
         "avatar_url": "https://avatars.githubusercontent.com/u/24306647?v=4"
       },
-      "updated_at": "2026-04-19T23:34:36Z"
+      "updated_at": "2026-04-20T03:24:43Z"
     }
   ]
 }
