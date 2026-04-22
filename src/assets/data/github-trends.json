@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-04-22T21:33:59.466Z",
+  "lastUpdated": "2026-04-22T22:25:24.039Z",
   "items": [
     {
       "id": 1214346700,
       "name": "kyegomez/OpenMythos",
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": 8739,
+      "stars": 8768,
       "language": "Python",
       "url": "https://github.com/kyegomez/OpenMythos",
       "owner": {
         "login": "kyegomez",
         "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
-      "updated_at": "2026-04-22T21:31:15Z"
+      "updated_at": "2026-04-22T22:24:45Z"
     },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stars": 4982,
+      "stars": 4998,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-22T21:31:24Z"
+      "updated_at": "2026-04-22T22:23:15Z"
     },
     {
       "id": 1215145625,
       "name": "alchaincyf/huashu-design",
       "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stars": 4377,
+      "stars": 4382,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/huashu-design",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-22T21:33:36Z"
+      "updated_at": "2026-04-22T22:15:38Z"
     },
     {
       "id": 1216173720,
       "name": "tw93/Kami",
       "description": "👩‍🚒 Good content deserves good paper.",
-      "stars": 2503,
+      "stars": 2515,
       "language": "HTML",
       "url": "https://github.com/tw93/Kami",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-04-22T21:27:52Z"
+      "updated_at": "2026-04-22T22:24:48Z"
     },
     {
       "id": 1214290850,
       "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
       "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
-      "stars": 1673,
+      "stars": 1676,
       "language": "Python",
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "owner": {
         "login": "EvoLinkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
-      "updated_at": "2026-04-22T21:21:04Z"
+      "updated_at": "2026-04-22T22:21:51Z"
     },
     {
       "id": 1212769188,
       "name": "cathrynlavery/diagram-design",
       "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 1579,
+      "stars": 1587,
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": {
         "login": "cathrynlavery",
         "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
       },
-      "updated_at": "2026-04-22T21:31:53Z"
-    },
-    {
-      "id": 1214125715,
-      "name": "VoltAgent/awesome-claude-design",
-      "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
-      "stars": 1184,
-      "language": null,
-      "url": "https://github.com/VoltAgent/awesome-claude-design",
-      "owner": {
-        "login": "VoltAgent",
-        "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
-      },
-      "updated_at": "2026-04-22T20:52:46Z"
+      "updated_at": "2026-04-22T22:24:33Z"
     },
     {
       "id": 1214028719,
       "name": "OpenCoworkAI/open-codesign",
       "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
-      "stars": 1179,
+      "stars": 1199,
       "language": "TypeScript",
       "url": "https://github.com/OpenCoworkAI/open-codesign",
       "owner": {
         "login": "OpenCoworkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/254727761?v=4"
       },
-      "updated_at": "2026-04-22T21:29:35Z"
+      "updated_at": "2026-04-22T22:23:39Z"
+    },
+    {
+      "id": 1214125715,
+      "name": "VoltAgent/awesome-claude-design",
+      "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+      "stars": 1189,
+      "language": null,
+      "url": "https://github.com/VoltAgent/awesome-claude-design",
+      "owner": {
+        "login": "VoltAgent",
+        "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+      },
+      "updated_at": "2026-04-22T22:22:42Z"
     },
     {
       "id": 1212241202,
@@ -122,14 +122,14 @@
       "id": 1215413339,
       "name": "the-hidden-fish/advisor-ledger",
       "description": null,
-      "stars": 830,
+      "stars": 839,
       "language": "Python",
       "url": "https://github.com/the-hidden-fish/advisor-ledger",
       "owner": {
         "login": "the-hidden-fish",
         "avatar_url": "https://avatars.githubusercontent.com/u/277556120?v=4"
       },
-      "updated_at": "2026-04-22T21:31:53Z"
+      "updated_at": "2026-04-22T22:14:01Z"
     },
     {
       "id": 1213797717,
@@ -148,14 +148,14 @@
       "id": 1215001317,
       "name": "golbin/hop",
       "description": null,
-      "stars": 792,
+      "stars": 793,
       "language": "TypeScript",
       "url": "https://github.com/golbin/hop",
       "owner": {
         "login": "golbin",
         "avatar_url": "https://avatars.githubusercontent.com/u/6277035?v=4"
       },
-      "updated_at": "2026-04-22T20:35:34Z"
+      "updated_at": "2026-04-22T22:21:47Z"
     },
     {
       "id": 1214105808,
@@ -174,27 +174,27 @@
       "id": 1212023769,
       "name": "SteveTheKiller/KillerPDF",
       "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry.",
-      "stars": 689,
+      "stars": 691,
       "language": "C#",
       "url": "https://github.com/SteveTheKiller/KillerPDF",
       "owner": {
         "login": "SteveTheKiller",
         "avatar_url": "https://avatars.githubusercontent.com/u/268099285?v=4"
       },
-      "updated_at": "2026-04-22T21:07:09Z"
+      "updated_at": "2026-04-22T22:18:34Z"
     },
     {
       "id": 1215868605,
       "name": "masterking32/MasterHttpRelayVPN",
       "description": null,
-      "stars": 660,
+      "stars": 672,
       "language": "Python",
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "owner": {
         "login": "masterking32",
         "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
       },
-      "updated_at": "2026-04-22T21:31:14Z"
+      "updated_at": "2026-04-22T22:24:50Z"
     },
     {
       "id": 1214741287,
@@ -213,14 +213,14 @@
       "id": 1212211911,
       "name": "assai-id/nemesis",
       "description": null,
-      "stars": 579,
+      "stars": 578,
       "language": "JavaScript",
       "url": "https://github.com/assai-id/nemesis",
       "owner": {
         "login": "assai-id",
         "avatar_url": "https://avatars.githubusercontent.com/u/275414185?v=4"
       },
-      "updated_at": "2026-04-22T20:08:22Z"
+      "updated_at": "2026-04-22T22:13:00Z"
     },
     {
       "id": 1212064523,
@@ -239,27 +239,27 @@
       "id": 1214488641,
       "name": "OranAi-Ltd/oransim",
       "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-      "stars": 530,
+      "stars": 533,
       "language": "Python",
       "url": "https://github.com/OranAi-Ltd/oransim",
       "owner": {
         "login": "OranAi-Ltd",
         "avatar_url": "https://avatars.githubusercontent.com/u/237740540?v=4"
       },
-      "updated_at": "2026-04-22T21:22:31Z"
+      "updated_at": "2026-04-22T22:16:12Z"
     },
     {
       "id": 1213214246,
       "name": "Ademking/MD-This-Page",
       "description": "Convert any web page to clean, readable Markdown with just one click.",
-      "stars": 496,
+      "stars": 497,
       "language": "TypeScript",
       "url": "https://github.com/Ademking/MD-This-Page",
       "owner": {
         "login": "Ademking",
         "avatar_url": "https://avatars.githubusercontent.com/u/12462188?v=4"
       },
-      "updated_at": "2026-04-22T21:27:01Z"
+      "updated_at": "2026-04-22T22:20:03Z"
     }
   ]
 }
