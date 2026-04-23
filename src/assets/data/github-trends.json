@@ -1,96 +1,96 @@
 {
-  "lastUpdated": "2026-04-23T23:04:04.663Z",
+  "lastUpdated": "2026-04-23T23:56:59.450Z",
   "items": [
     {
       "id": 1214346700,
       "name": "kyegomez/OpenMythos",
       "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": 9670,
+      "stars": 9686,
       "language": "Python",
       "url": "https://github.com/kyegomez/OpenMythos",
       "owner": {
         "login": "kyegomez",
         "avatar_url": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
-      "updated_at": "2026-04-23T23:03:16Z"
+      "updated_at": "2026-04-23T23:55:52Z"
     },
     {
       "id": 1213049020,
       "name": "browser-use/browser-harness",
       "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "stars": 5863,
+      "stars": 5884,
       "language": "Python",
       "url": "https://github.com/browser-use/browser-harness",
       "owner": {
         "login": "browser-use",
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "updated_at": "2026-04-23T22:54:25Z"
+      "updated_at": "2026-04-23T23:56:24Z"
     },
     {
       "id": 1215145625,
       "name": "alchaincyf/huashu-design",
       "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stars": 5351,
+      "stars": 5377,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/huashu-design",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-23T23:01:43Z"
+      "updated_at": "2026-04-23T23:56:31Z"
     },
     {
       "id": 1216173720,
       "name": "tw93/Kami",
       "description": "👩‍🚒 Good content deserves good paper.",
-      "stars": 2878,
+      "stars": 2884,
       "language": "HTML",
       "url": "https://github.com/tw93/Kami",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-04-23T22:47:00Z"
+      "updated_at": "2026-04-23T23:38:40Z"
     },
     {
       "id": 1214290850,
       "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
       "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
-      "stars": 2656,
+      "stars": 2668,
       "language": "Python",
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
       "owner": {
         "login": "EvoLinkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
-      "updated_at": "2026-04-23T22:58:34Z"
+      "updated_at": "2026-04-23T23:50:46Z"
     },
     {
       "id": 1214028719,
       "name": "OpenCoworkAI/open-codesign",
       "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
-      "stars": 1871,
+      "stars": 1876,
       "language": "TypeScript",
       "url": "https://github.com/OpenCoworkAI/open-codesign",
       "owner": {
         "login": "OpenCoworkAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/254727761?v=4"
       },
-      "updated_at": "2026-04-23T23:02:52Z"
+      "updated_at": "2026-04-23T23:46:28Z"
     },
     {
       "id": 1214125715,
       "name": "VoltAgent/awesome-claude-design",
       "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
-      "stars": 1399,
+      "stars": 1403,
       "language": null,
       "url": "https://github.com/VoltAgent/awesome-claude-design",
       "owner": {
         "login": "VoltAgent",
         "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
-      "updated_at": "2026-04-23T22:59:09Z"
+      "updated_at": "2026-04-23T23:51:36Z"
     },
     {
       "id": 1215413339,
@@ -109,53 +109,53 @@
       "id": 1214105808,
       "name": "432539/gpt2api",
       "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
-      "stars": 926,
+      "stars": 927,
       "language": "Go",
       "url": "https://github.com/432539/gpt2api",
       "owner": {
         "login": "432539",
         "avatar_url": "https://avatars.githubusercontent.com/u/22024444?v=4"
       },
-      "updated_at": "2026-04-23T23:02:54Z"
+      "updated_at": "2026-04-23T23:52:08Z"
     },
     {
       "id": 1213917906,
       "name": "openai/privacy-filter",
       "description": "OpenAI Privacy Filter",
-      "stars": 918,
+      "stars": 922,
       "language": "Python",
       "url": "https://github.com/openai/privacy-filter",
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
       },
-      "updated_at": "2026-04-23T23:03:06Z"
+      "updated_at": "2026-04-23T23:46:05Z"
     },
     {
       "id": 1215001317,
       "name": "golbin/hop",
       "description": null,
-      "stars": 910,
+      "stars": 913,
       "language": "TypeScript",
       "url": "https://github.com/golbin/hop",
       "owner": {
         "login": "golbin",
         "avatar_url": "https://avatars.githubusercontent.com/u/6277035?v=4"
       },
-      "updated_at": "2026-04-23T23:01:34Z"
+      "updated_at": "2026-04-23T23:29:10Z"
     },
     {
       "id": 1215868605,
       "name": "masterking32/MasterHttpRelayVPN",
       "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "stars": 895,
+      "stars": 899,
       "language": "Python",
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "owner": {
         "login": "masterking32",
         "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
       },
-      "updated_at": "2026-04-23T23:01:31Z"
+      "updated_at": "2026-04-23T23:55:20Z"
     },
     {
       "id": 1213797717,
@@ -174,92 +174,92 @@
       "id": 1214488641,
       "name": "OranAi-Ltd/oransim",
       "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-      "stars": 728,
+      "stars": 734,
       "language": "Python",
       "url": "https://github.com/OranAi-Ltd/oransim",
       "owner": {
         "login": "OranAi-Ltd",
         "avatar_url": "https://avatars.githubusercontent.com/u/237740540?v=4"
       },
-      "updated_at": "2026-04-23T22:48:42Z"
+      "updated_at": "2026-04-23T23:52:25Z"
     },
     {
       "id": 1216954187,
       "name": "ConardLi/web-design-skill",
       "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
-      "stars": 717,
+      "stars": 725,
       "language": "CSS",
       "url": "https://github.com/ConardLi/web-design-skill",
       "owner": {
         "login": "ConardLi",
         "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
       },
-      "updated_at": "2026-04-23T22:35:35Z"
+      "updated_at": "2026-04-23T23:53:49Z"
     },
     {
       "id": 1216116826,
       "name": "leigest519/OpenGame",
       "description": "OpenGame: Open Agentic Coding for Games",
-      "stars": 697,
+      "stars": 710,
       "language": "TypeScript",
       "url": "https://github.com/leigest519/OpenGame",
       "owner": {
         "login": "leigest519",
         "avatar_url": "https://avatars.githubusercontent.com/u/57628855?v=4"
       },
-      "updated_at": "2026-04-23T23:01:56Z"
+      "updated_at": "2026-04-23T23:56:46Z"
     },
     {
       "id": 1217105927,
       "name": "Einsia/OpenChronicle",
       "description": null,
-      "stars": 618,
+      "stars": 627,
       "language": "Python",
       "url": "https://github.com/Einsia/OpenChronicle",
       "owner": {
         "login": "Einsia",
         "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
       },
-      "updated_at": "2026-04-23T23:00:06Z"
+      "updated_at": "2026-04-23T23:56:10Z"
     },
     {
       "id": 1214741287,
       "name": "ZeroZ-lab/cc-design",
       "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
-      "stars": 613,
+      "stars": 614,
       "language": "JavaScript",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "owner": {
         "login": "ZeroZ-lab",
         "avatar_url": "https://avatars.githubusercontent.com/u/12062960?v=4"
       },
-      "updated_at": "2026-04-23T22:55:34Z"
+      "updated_at": "2026-04-23T23:49:49Z"
     },
     {
       "id": 1215153409,
       "name": "basketikun/chatgpt2api",
       "description": null,
-      "stars": 607,
+      "stars": 612,
       "language": "TypeScript",
       "url": "https://github.com/basketikun/chatgpt2api",
       "owner": {
         "login": "basketikun",
         "avatar_url": "https://avatars.githubusercontent.com/u/114481029?v=4"
       },
-      "updated_at": "2026-04-23T22:56:07Z"
+      "updated_at": "2026-04-23T23:49:04Z"
     },
     {
       "id": 1217671020,
       "name": "deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stars": 599,
+      "stars": 607,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-23T22:55:51Z"
+      "updated_at": "2026-04-23T23:54:31Z"
     }
   ]
 }
