@@ -1,109 +1,122 @@
 {
-  "lastUpdated": "2026-04-25T22:58:56.810Z",
+  "lastUpdated": "2026-04-25T23:38:39.535Z",
   "items": [
     {
       "id": 1215145625,
       "name": "alchaincyf/huashu-design",
       "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stars": 6474,
+      "stars": 6475,
       "language": "HTML",
       "url": "https://github.com/alchaincyf/huashu-design",
       "owner": {
         "login": "alchaincyf",
         "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "updated_at": "2026-04-25T22:52:32Z"
+      "updated_at": "2026-04-25T23:04:19Z"
     },
     {
       "id": 1216173720,
       "name": "tw93/Kami",
       "description": "👩‍🚒 Good content deserves good paper.",
-      "stars": 3248,
+      "stars": 3250,
       "language": "HTML",
       "url": "https://github.com/tw93/Kami",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-04-25T22:50:05Z"
+      "updated_at": "2026-04-25T23:34:25Z"
     },
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 2664,
+      "stars": 2673,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-25T22:58:44Z"
+      "updated_at": "2026-04-25T23:29:46Z"
     },
     {
       "id": 1215868605,
       "name": "masterking32/MasterHttpRelayVPN",
       "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "stars": 1236,
+      "stars": 1240,
       "language": "Python",
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "owner": {
         "login": "masterking32",
         "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
       },
-      "updated_at": "2026-04-25T22:49:43Z"
+      "updated_at": "2026-04-25T23:27:44Z"
     },
     {
       "id": 1216954187,
       "name": "ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 1225,
+      "stars": 1227,
       "language": "JavaScript",
       "url": "https://github.com/ConardLi/garden-skills",
       "owner": {
         "login": "ConardLi",
         "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
       },
-      "updated_at": "2026-04-25T22:47:55Z"
+      "updated_at": "2026-04-25T23:33:23Z"
     },
     {
       "id": 1217671020,
       "name": "deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stars": 1155,
+      "stars": 1156,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-25T21:21:41Z"
+      "updated_at": "2026-04-25T23:00:45Z"
     },
     {
       "id": 1217105927,
       "name": "Einsia/OpenChronicle",
       "description": null,
-      "stars": 1096,
+      "stars": 1104,
       "language": "Python",
       "url": "https://github.com/Einsia/OpenChronicle",
       "owner": {
         "login": "Einsia",
         "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
       },
-      "updated_at": "2026-04-25T22:51:53Z"
+      "updated_at": "2026-04-25T23:38:22Z"
     },
     {
       "id": 1216116826,
       "name": "leigest519/OpenGame",
       "description": "OpenGame: Open Agentic Coding for Games",
-      "stars": 1083,
+      "stars": 1084,
       "language": "TypeScript",
       "url": "https://github.com/leigest519/OpenGame",
       "owner": {
         "login": "leigest519",
         "avatar_url": "https://avatars.githubusercontent.com/u/57628855?v=4"
       },
-      "updated_at": "2026-04-25T22:45:14Z"
+      "updated_at": "2026-04-25T23:11:11Z"
+    },
+    {
+      "id": 1215974868,
+      "name": "cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1084,
+      "language": "TypeScript",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "owner": {
+        "login": "cosmicstack-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/277752932?v=4"
+      },
+      "updated_at": "2026-04-25T23:31:56Z"
     },
     {
       "id": 1215413339,
@@ -119,30 +132,30 @@
       "updated_at": "2026-04-25T20:45:14Z"
     },
     {
-      "id": 1215974868,
-      "name": "cosmicstack-labs/mercury-agent",
-      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stars": 1075,
-      "language": "TypeScript",
-      "url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "owner": {
-        "login": "cosmicstack-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/277752932?v=4"
-      },
-      "updated_at": "2026-04-25T22:58:27Z"
-    },
-    {
       "id": 1215001317,
       "name": "golbin/hop",
       "description": null,
-      "stars": 1027,
+      "stars": 1028,
       "language": "TypeScript",
       "url": "https://github.com/golbin/hop",
       "owner": {
         "login": "golbin",
         "avatar_url": "https://avatars.githubusercontent.com/u/6277035?v=4"
       },
-      "updated_at": "2026-04-25T22:15:21Z"
+      "updated_at": "2026-04-25T23:23:26Z"
+    },
+    {
+      "id": 1219712617,
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+      "stars": 810,
+      "language": null,
+      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+      "owner": {
+        "login": "victorchen96",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
+      },
+      "updated_at": "2026-04-25T23:31:31Z"
     },
     {
       "id": 1215153409,
@@ -158,30 +171,17 @@
       "updated_at": "2026-04-25T22:34:12Z"
     },
     {
-      "id": 1219712617,
-      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 807,
-      "language": null,
-      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
-      "owner": {
-        "login": "victorchen96",
-        "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
-      },
-      "updated_at": "2026-04-25T22:54:52Z"
-    },
-    {
       "id": 1217102150,
       "name": "therealaleph/MasterHttpRelayVPN-RUST",
       "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
-      "stars": 639,
+      "stars": 642,
       "language": "Rust",
       "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
       "owner": {
         "login": "therealaleph",
         "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
       },
-      "updated_at": "2026-04-25T22:57:49Z"
+      "updated_at": "2026-04-25T23:36:08Z"
     },
     {
       "id": 1214741287,
@@ -207,20 +207,20 @@
         "login": "GammaLabTechnologies",
         "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
       },
-      "updated_at": "2026-04-25T22:48:53Z"
+      "updated_at": "2026-04-25T23:29:13Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 552,
+      "stars": 572,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-25T22:58:30Z"
+      "updated_at": "2026-04-25T23:38:01Z"
     },
     {
       "id": 1214877703,
