@@ -1,195 +1,215 @@
 {
-  "lastUpdated": "2026-04-25T17:39:37.746Z",
+  "lastUpdated": "2026-04-25T18:25:30.575Z",
   "items": [
     {
       "id": 47902416,
       "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
       "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 51,
+      "score": 119,
       "by": "nickjj",
       "time": 1777132755,
-      "comments": 7,
+      "comments": 27,
       "domain": "github.com"
     },
     {
       "id": 47863570,
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 314,
+      "score": 347,
       "by": "stephen-hill",
       "time": 1776865583,
-      "comments": 61,
+      "comments": 63,
       "domain": "hypertalking.com"
+    },
+    {
+      "id": 47860198,
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "score": 47,
+      "by": "robinhouston",
+      "time": 1776842423,
+      "comments": 10,
+      "domain": "fffff.at"
     },
     {
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 424,
+      "score": 440,
       "by": "calcifer",
       "time": 1777096572,
-      "comments": 252,
+      "comments": 260,
       "domain": "jeffgeerling.com"
     },
     {
       "id": 47900398,
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
-      "score": 103,
+      "score": 116,
       "by": "ingve",
       "time": 1777113974,
-      "comments": 15,
+      "comments": 16,
       "domain": "github.com"
-    },
-    {
-      "id": 47860198,
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 22,
-      "by": "robinhouston",
-      "time": 1776842423,
-      "comments": 5,
-      "domain": "fffff.at"
-    },
-    {
-      "id": 47901734,
-      "title": "GPT 5.5 biosafety bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "score": 60,
-      "by": "Murfalo",
-      "time": 1777126651,
-      "comments": 54,
-      "domain": "openai.com"
     },
     {
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 735,
+      "score": 747,
       "by": "elffjs",
       "time": 1777046681,
-      "comments": 714,
+      "comments": 721,
       "domain": "bloomberg.com"
     },
     {
       "id": 47902339,
       "title": "What's Missing in the 'Agentic' Story",
       "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-      "score": 40,
+      "score": 49,
       "by": "ingve",
       "time": 1777132271,
-      "comments": 24,
+      "comments": 39,
       "domain": "mnot.net"
-    },
-    {
-      "id": 47869042,
-      "title": "Insights into firewood use by early Middle Pleistocene hominins",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "score": 21,
-      "by": "wslh",
-      "time": 1776890526,
-      "comments": 3,
-      "domain": "sciencedirect.com"
-    },
-    {
-      "id": 47900440,
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "url": "https://github.com/nakagami/grdpwasm",
-      "score": 70,
-      "by": "mariuz",
-      "time": 1777114769,
-      "comments": 31,
-      "domain": "github.com"
-    },
-    {
-      "id": 47900478,
-      "title": "Discret 11, the French TV encryption of the 80s",
-      "url": "https://fabiensanglard.net/discret11/",
-      "score": 62,
-      "by": "adunk",
-      "time": 1777115441,
-      "comments": 9,
-      "domain": "fabiensanglard.net"
     },
     {
       "id": 47870439,
       "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
       "url": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-      "score": 31,
+      "score": 46,
       "by": "bookofjoe",
       "time": 1776899267,
-      "comments": 3,
+      "comments": 4,
       "domain": "nytimes.com"
+    },
+    {
+      "id": 47901734,
+      "title": "GPT 5.5 biosafety bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "score": 70,
+      "by": "Murfalo",
+      "time": 1777126651,
+      "comments": 61,
+      "domain": "openai.com"
+    },
+    {
+      "id": 47902816,
+      "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
+      "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
+      "score": 37,
+      "by": "ekianjo",
+      "time": 1777136068,
+      "comments": 6,
+      "domain": "boilingsteam.com"
+    },
+    {
+      "id": 47869042,
+      "title": "Insights into firewood use by early Middle Pleistocene hominins",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
+      "score": 27,
+      "by": "wslh",
+      "time": 1776890526,
+      "comments": 6,
+      "domain": "sciencedirect.com"
+    },
+    {
+      "id": 47900478,
+      "title": "Discret 11, the French TV encryption of the 80s",
+      "url": "https://fabiensanglard.net/discret11/",
+      "score": 73,
+      "by": "adunk",
+      "time": 1777115441,
+      "comments": 11,
+      "domain": "fabiensanglard.net"
+    },
+    {
+      "id": 47900440,
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "url": "https://github.com/nakagami/grdpwasm",
+      "score": 75,
+      "by": "mariuz",
+      "time": 1777114769,
+      "comments": 34,
+      "domain": "github.com"
+    },
+    {
+      "id": 47859442,
+      "title": "What Async Promised and What It Delivered",
+      "url": "https://causality.blog/essays/what-async-promised/",
+      "score": 64,
+      "by": "zdw",
+      "time": 1776835738,
+      "comments": 32,
+      "domain": "causality.blog"
+    },
+    {
+      "id": 47901469,
+      "title": "A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)",
+      "url": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
+      "score": 41,
+      "by": "AndrewDucker",
+      "time": 1777124086,
+      "comments": 21,
+      "domain": "allbrainsbelong.org"
     },
     {
       "id": 47900506,
       "title": "Lambda Calculus Benchmark for AI",
       "url": "https://victortaelin.github.io/lambench/",
-      "score": 83,
+      "score": 90,
       "by": "marvinborner",
       "time": 1777115783,
-      "comments": 29,
+      "comments": 30,
       "domain": "victortaelin.github.io"
-    },
-    {
-      "id": 47901312,
-      "title": "HEALPix",
-      "url": "https://en.wikipedia.org/wiki/HEALPix",
-      "score": 28,
-      "by": "hyperific",
-      "time": 1777122678,
-      "comments": 4,
-      "domain": "en.wikipedia.org"
     },
     {
       "id": 47892655,
       "title": "Which one is more important: more parameters or more computation? (2021)",
       "url": "https://parl.ai/projects/params_vs_compute/",
-      "score": 12,
+      "score": 16,
       "by": "jxmorris12",
       "time": 1777049097,
-      "comments": 0,
+      "comments": 1,
       "domain": "parl.ai"
     },
     {
-      "id": 47901469,
-      "title": "A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]",
-      "url": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
-      "score": 26,
-      "by": "AndrewDucker",
-      "time": 1777124086,
-      "comments": 10,
-      "domain": "allbrainsbelong.org"
-    },
-    {
-      "id": 47874613,
-      "title": "Commenting and Approving Pull Requests",
-      "url": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
-      "score": 61,
-      "by": "jwworth",
-      "time": 1776944866,
-      "comments": 43,
-      "domain": "jakeworth.com"
+      "id": 47901312,
+      "title": "HEALPix",
+      "url": "https://en.wikipedia.org/wiki/HEALPix",
+      "score": 30,
+      "by": "hyperific",
+      "time": 1777122678,
+      "comments": 5,
+      "domain": "en.wikipedia.org"
     },
     {
       "id": 47897681,
       "title": "Plain text has been around for decades and it’s here to stay",
       "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 213,
+      "score": 220,
       "by": "rbanffy",
       "time": 1777078989,
-      "comments": 100,
+      "comments": 110,
       "domain": "unsung.aresluna.org"
     },
     {
       "id": 47897647,
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 270,
+      "score": 276,
       "by": "pigeons",
       "time": 1777078718,
-      "comments": 40,
+      "comments": 41,
       "domain": "github.com"
+    },
+    {
+      "id": 47890799,
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "score": 491,
+      "by": "alcazar",
+      "time": 1777040932,
+      "comments": 121,
+      "domain": "kevinlynagh.com"
     },
     {
       "id": 47862541,
@@ -198,108 +218,88 @@
       "score": 119,
       "by": "arkadiuss",
       "time": 1776860401,
-      "comments": 21,
+      "comments": 23,
       "domain": "clad.you"
-    },
-    {
-      "id": 47890799,
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 488,
-      "by": "alcazar",
-      "time": 1777040932,
-      "comments": 120,
-      "domain": "kevinlynagh.com"
-    },
-    {
-      "id": 47900451,
-      "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
-      "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
-      "score": 43,
-      "by": "keepamovin",
-      "time": 1777114995,
-      "comments": 29,
-      "domain": "blisscast.wordpress.com"
     },
     {
       "id": 47858939,
       "title": "Paraloid B-72",
       "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 251,
+      "score": 253,
       "by": "Ariarule",
       "time": 1776831427,
-      "comments": 46,
+      "comments": 48,
       "domain": "en.wikipedia.org"
-    },
-    {
-      "id": 47902816,
-      "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
-      "url": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
-      "score": 10,
-      "by": "ekianjo",
-      "time": 1777136068,
-      "comments": 0,
-      "domain": "boilingsteam.com"
-    },
-    {
-      "id": 47857563,
-      "title": "How to Implement an FPS Counter",
-      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-      "score": 106,
-      "by": "vplesko",
-      "time": 1776821477,
-      "comments": 18,
-      "domain": "vplesko.com"
-    },
-    {
-      "id": 47858294,
-      "title": "Humpback whales are forming super-groups",
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 178,
-      "by": "andsoitis",
-      "time": 1776826549,
-      "comments": 91,
-      "domain": "bbc.com"
     },
     {
       "id": 47894747,
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 291,
+      "score": 295,
       "by": "hhh",
       "time": 1777059046,
-      "comments": 87,
+      "comments": 88,
       "domain": "hhh.hn"
+    },
+    {
+      "id": 47858294,
+      "title": "Humpback whales are forming super-groups",
+      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "score": 181,
+      "by": "andsoitis",
+      "time": 1776826549,
+      "comments": 96,
+      "domain": "bbc.com"
+    },
+    {
+      "id": 47900451,
+      "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
+      "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
+      "score": 47,
+      "by": "keepamovin",
+      "time": 1777114995,
+      "comments": 31,
+      "domain": "blisscast.wordpress.com"
     },
     {
       "id": 47849455,
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "score": 104,
+      "score": 108,
       "by": "colinprince",
       "time": 1776782344,
       "comments": 2,
       "domain": "gamefile.news"
     },
     {
-      "id": 47897790,
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "score": 141,
-      "by": "alash3al",
-      "time": 1777080280,
-      "comments": 58,
-      "domain": "alash3al.github.io"
-    },
-    {
       "id": 47864056,
       "title": "Iliad fragment found in Roman-era mummy",
       "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 229,
+      "score": 232,
       "by": "wise_blood",
       "time": 1776867515,
-      "comments": 76,
+      "comments": 78,
       "domain": "thehistoryblog.com"
+    },
+    {
+      "id": 47899844,
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "score": 187,
+      "by": "najmuzzaman",
+      "time": 1777107233,
+      "comments": 91,
+      "domain": "github.com"
+    },
+    {
+      "id": 47897790,
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "score": 148,
+      "by": "alash3al",
+      "time": 1777080280,
+      "comments": 60,
+      "domain": "alash3al.github.io"
     }
   ]
 }
