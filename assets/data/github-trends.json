@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-26T18:05:34.835Z",
+  "lastUpdated": "2026-04-26T19:10:00.285Z",
   "items": [
     {
       "id": 1216173720,
       "name": "tw93/Kami",
       "description": "👩‍🚒 Good content deserves good paper.",
-      "stars": 3437,
+      "stars": 3438,
       "language": "HTML",
       "url": "https://github.com/tw93/Kami",
       "owner": {
         "login": "tw93",
         "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4"
       },
-      "updated_at": "2026-04-26T17:55:46Z"
+      "updated_at": "2026-04-26T18:06:15Z"
     },
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 2958,
+      "stars": 2963,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-26T17:59:16Z"
-    },
-    {
-      "id": 1215868605,
-      "name": "masterking32/MasterHttpRelayVPN",
-      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "stars": 1354,
-      "language": "Python",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "owner": {
-        "login": "masterking32",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
-      },
-      "updated_at": "2026-04-26T18:04:05Z"
-    },
-    {
-      "id": 1216954187,
-      "name": "ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 1356,
-      "language": "JavaScript",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "owner": {
-        "login": "ConardLi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
-      },
-      "updated_at": "2026-04-26T18:05:23Z"
-    },
-    {
-      "id": 1217105927,
-      "name": "Einsia/OpenChronicle",
-      "description": null,
-      "stars": 1353,
-      "language": "Python",
-      "url": "https://github.com/Einsia/OpenChronicle",
-      "owner": {
-        "login": "Einsia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
-      },
-      "updated_at": "2026-04-26T18:03:02Z"
+      "updated_at": "2026-04-26T18:52:31Z"
     },
     {
       "id": 1215974868,
       "name": "cosmicstack-labs/mercury-agent",
       "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stars": 1353,
+      "stars": 1371,
       "language": "TypeScript",
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
       "owner": {
         "login": "cosmicstack-labs",
         "avatar_url": "https://avatars.githubusercontent.com/u/277752932?v=4"
       },
-      "updated_at": "2026-04-26T17:58:39Z"
+      "updated_at": "2026-04-26T19:07:38Z"
+    },
+    {
+      "id": 1217105927,
+      "name": "Einsia/OpenChronicle",
+      "description": null,
+      "stars": 1371,
+      "language": "Python",
+      "url": "https://github.com/Einsia/OpenChronicle",
+      "owner": {
+        "login": "Einsia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
+      },
+      "updated_at": "2026-04-26T19:09:04Z"
+    },
+    {
+      "id": 1216954187,
+      "name": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": 1361,
+      "language": "JavaScript",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "owner": {
+        "login": "ConardLi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
+      },
+      "updated_at": "2026-04-26T19:08:17Z"
+    },
+    {
+      "id": 1215868605,
+      "name": "masterking32/MasterHttpRelayVPN",
+      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+      "stars": 1357,
+      "language": "Python",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "owner": {
+        "login": "masterking32",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
+      },
+      "updated_at": "2026-04-26T19:01:15Z"
     },
     {
       "id": 1216116826,
       "name": "leigest519/OpenGame",
       "description": "OpenGame: Open Agentic Coding for Games",
-      "stars": 1215,
+      "stars": 1221,
       "language": "TypeScript",
       "url": "https://github.com/leigest519/OpenGame",
       "owner": {
         "login": "leigest519",
         "avatar_url": "https://avatars.githubusercontent.com/u/57628855?v=4"
       },
-      "updated_at": "2026-04-26T17:59:07Z"
+      "updated_at": "2026-04-26T18:34:20Z"
     },
     {
       "id": 1217671020,
       "name": "deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stars": 1204,
+      "stars": 1207,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-26T17:35:05Z"
+      "updated_at": "2026-04-26T18:48:53Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1039,
+      "stars": 1044,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-26T17:39:45Z"
+      "updated_at": "2026-04-26T18:59:11Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 920,
+      "stars": 933,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-26T18:05:07Z"
+      "updated_at": "2026-04-26T19:08:28Z"
     },
     {
       "id": 1217102150,
       "name": "therealaleph/MasterHttpRelayVPN-RUST",
       "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
-      "stars": 707,
+      "stars": 711,
       "language": "Rust",
       "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
       "owner": {
         "login": "therealaleph",
         "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
       },
-      "updated_at": "2026-04-26T18:02:53Z"
+      "updated_at": "2026-04-26T19:04:26Z"
     },
     {
       "id": 1218682596,
       "name": "GammaLabTechnologies/harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 683,
+      "stars": 687,
       "language": "Python",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
       "owner": {
         "login": "GammaLabTechnologies",
         "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
       },
-      "updated_at": "2026-04-26T17:31:00Z"
+      "updated_at": "2026-04-26T19:05:56Z"
     },
     {
       "id": 1217623970,
       "name": "Russell-cell/PPT-Design-Prompt",
       "description": null,
-      "stars": 678,
+      "stars": 688,
       "language": "Python",
       "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
       "owner": {
         "login": "Russell-cell",
         "avatar_url": "https://avatars.githubusercontent.com/u/206703724?v=4"
       },
-      "updated_at": "2026-04-26T18:03:24Z"
+      "updated_at": "2026-04-26T18:54:54Z"
     },
     {
       "id": 1217942969,
       "name": "wuyoscar/gpt_image_2_skill",
       "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "stars": 609,
+      "stars": 614,
       "language": "Python",
       "url": "https://github.com/wuyoscar/gpt_image_2_skill",
       "owner": {
         "login": "wuyoscar",
         "avatar_url": "https://avatars.githubusercontent.com/u/72287536?v=4"
       },
-      "updated_at": "2026-04-26T17:52:16Z"
+      "updated_at": "2026-04-26T18:47:11Z"
     },
     {
       "id": 1217522067,
       "name": "earthtojake/text-to-cad",
       "description": "An open source harness for generating CAD models",
-      "stars": 578,
+      "stars": 592,
       "language": "JavaScript",
       "url": "https://github.com/earthtojake/text-to-cad",
       "owner": {
         "login": "earthtojake",
         "avatar_url": "https://avatars.githubusercontent.com/u/10742417?v=4"
       },
-      "updated_at": "2026-04-26T17:52:58Z"
+      "updated_at": "2026-04-26T19:06:10Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
-      "stars": 536,
+      "stars": 542,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-26T17:59:04Z"
+      "updated_at": "2026-04-26T19:06:56Z"
     },
     {
       "id": 1219087723,
       "name": "future-agi/future-agi",
       "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 525,
+      "stars": 530,
       "language": "Python",
       "url": "https://github.com/future-agi/future-agi",
       "owner": {
         "login": "future-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
       },
-      "updated_at": "2026-04-26T18:00:58Z"
+      "updated_at": "2026-04-26T19:02:24Z"
     },
     {
       "id": 1217040185,
       "name": "tashfeenahmed/freellmapi",
       "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-      "stars": 509,
+      "stars": 511,
       "language": "TypeScript",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "owner": {
         "login": "tashfeenahmed",
         "avatar_url": "https://avatars.githubusercontent.com/u/9307356?v=4"
       },
-      "updated_at": "2026-04-26T17:40:11Z"
+      "updated_at": "2026-04-26T18:31:57Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 484,
+      "stars": 494,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-26T18:01:17Z"
+      "updated_at": "2026-04-26T19:06:52Z"
     },
     {
       "id": 1215501706,
       "name": "thClaws/thClaws",
       "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 461,
+      "stars": 467,
       "language": "Rust",
       "url": "https://github.com/thClaws/thClaws",
       "owner": {
         "login": "thClaws",
         "avatar_url": "https://avatars.githubusercontent.com/u/277590170?v=4"
       },
-      "updated_at": "2026-04-26T18:04:31Z"
+      "updated_at": "2026-04-26T19:06:28Z"
     }
   ]
 }
