@@ -1,200 +1,213 @@
 {
-  "lastUpdated": "2026-04-27T04:42:23.645Z",
+  "lastUpdated": "2026-04-27T07:21:11.163Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 3115,
+      "stars": 3193,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-27T04:41:30Z"
+      "updated_at": "2026-04-27T07:19:24Z"
     },
     {
       "id": 1217105927,
       "name": "Einsia/OpenChronicle",
       "description": null,
-      "stars": 1468,
+      "stars": 1489,
       "language": "Python",
       "url": "https://github.com/Einsia/OpenChronicle",
       "owner": {
         "login": "Einsia",
         "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
       },
-      "updated_at": "2026-04-27T04:34:38Z"
+      "updated_at": "2026-04-27T07:02:24Z"
     },
     {
       "id": 1216954187,
       "name": "ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 1416,
+      "stars": 1451,
       "language": "JavaScript",
       "url": "https://github.com/ConardLi/garden-skills",
       "owner": {
         "login": "ConardLi",
         "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
       },
-      "updated_at": "2026-04-27T04:40:55Z"
+      "updated_at": "2026-04-27T07:15:24Z"
     },
     {
       "id": 1217671020,
       "name": "deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stars": 1227,
+      "stars": 1241,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-27T04:34:02Z"
+      "updated_at": "2026-04-27T07:03:35Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1134,
+      "stars": 1166,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-27T04:36:01Z"
+      "updated_at": "2026-04-27T07:19:14Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1043,
+      "stars": 1066,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-27T04:41:25Z"
+      "updated_at": "2026-04-27T07:18:33Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
-      "stars": 801,
+      "stars": 896,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-27T04:41:15Z"
-    },
-    {
-      "id": 1217102150,
-      "name": "therealaleph/MasterHttpRelayVPN-RUST",
-      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
-      "stars": 755,
-      "language": "Rust",
-      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
-      "owner": {
-        "login": "therealaleph",
-        "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
-      },
-      "updated_at": "2026-04-27T04:10:36Z"
+      "updated_at": "2026-04-27T07:19:50Z"
     },
     {
       "id": 1217623970,
       "name": "Russell-cell/PPT-Design-Prompt",
       "description": null,
-      "stars": 742,
+      "stars": 772,
       "language": "Python",
       "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
       "owner": {
         "login": "Russell-cell",
         "avatar_url": "https://avatars.githubusercontent.com/u/206703724?v=4"
       },
-      "updated_at": "2026-04-27T04:27:47Z"
+      "updated_at": "2026-04-27T07:14:31Z"
+    },
+    {
+      "id": 1217102150,
+      "name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+      "stars": 762,
+      "language": "Rust",
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+      "owner": {
+        "login": "therealaleph",
+        "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
+      },
+      "updated_at": "2026-04-27T06:49:18Z"
     },
     {
       "id": 1217522067,
       "name": "earthtojake/text-to-cad",
       "description": "An open source harness for generating CAD models",
-      "stars": 710,
+      "stars": 755,
       "language": "JavaScript",
       "url": "https://github.com/earthtojake/text-to-cad",
       "owner": {
         "login": "earthtojake",
         "avatar_url": "https://avatars.githubusercontent.com/u/10742417?v=4"
       },
-      "updated_at": "2026-04-27T04:38:15Z"
+      "updated_at": "2026-04-27T07:19:50Z"
     },
     {
       "id": 1217942969,
       "name": "wuyoscar/gpt_image_2_skill",
       "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "stars": 700,
+      "stars": 725,
       "language": "Python",
       "url": "https://github.com/wuyoscar/gpt_image_2_skill",
       "owner": {
         "login": "wuyoscar",
         "avatar_url": "https://avatars.githubusercontent.com/u/72287536?v=4"
       },
-      "updated_at": "2026-04-27T04:39:27Z"
-    },
-    {
-      "id": 1218682596,
-      "name": "GammaLabTechnologies/harmonist",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 696,
-      "language": "Python",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "owner": {
-        "login": "GammaLabTechnologies",
-        "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
-      },
-      "updated_at": "2026-04-27T04:40:51Z"
+      "updated_at": "2026-04-27T07:18:11Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 676,
+      "stars": 719,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-27T04:41:16Z"
+      "updated_at": "2026-04-27T07:17:18Z"
+    },
+    {
+      "id": 1218682596,
+      "name": "GammaLabTechnologies/harmonist",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "stars": 698,
+      "language": "Python",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "owner": {
+        "login": "GammaLabTechnologies",
+        "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
+      },
+      "updated_at": "2026-04-27T06:21:37Z"
     },
     {
       "id": 1219087723,
       "name": "future-agi/future-agi",
       "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 557,
+      "stars": 569,
       "language": "Python",
       "url": "https://github.com/future-agi/future-agi",
       "owner": {
         "login": "future-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
       },
-      "updated_at": "2026-04-27T04:17:37Z"
+      "updated_at": "2026-04-27T06:53:59Z"
     },
     {
       "id": 1217040185,
       "name": "tashfeenahmed/freellmapi",
       "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-      "stars": 534,
+      "stars": 541,
       "language": "TypeScript",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "owner": {
         "login": "tashfeenahmed",
         "avatar_url": "https://avatars.githubusercontent.com/u/9307356?v=4"
       },
-      "updated_at": "2026-04-27T04:39:52Z"
+      "updated_at": "2026-04-27T07:04:27Z"
+    },
+    {
+      "id": 1220000506,
+      "name": "epoko77-ai/im-not-ai",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "stars": 428,
+      "language": "Python",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "owner": {
+        "login": "epoko77-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
+      },
+      "updated_at": "2026-04-27T07:17:58Z"
     },
     {
       "id": 1218978057,
@@ -210,56 +223,43 @@
       "updated_at": "2026-04-27T04:20:16Z"
     },
     {
-      "id": 1220000506,
-      "name": "epoko77-ai/im-not-ai",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 389,
-      "language": "Python",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "owner": {
-        "login": "epoko77-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
-      },
-      "updated_at": "2026-04-27T04:06:59Z"
-    },
-    {
       "id": 1219430101,
       "name": "NullLatency/FlowDriver",
       "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-      "stars": 378,
+      "stars": 380,
       "language": "Go",
       "url": "https://github.com/NullLatency/FlowDriver",
       "owner": {
         "login": "NullLatency",
         "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
       },
-      "updated_at": "2026-04-27T02:31:01Z"
+      "updated_at": "2026-04-27T06:40:34Z"
     },
     {
       "id": 1218088263,
       "name": "chekusu/wanman",
       "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
-      "stars": 369,
+      "stars": 375,
       "language": "TypeScript",
       "url": "https://github.com/chekusu/wanman",
       "owner": {
         "login": "chekusu",
         "avatar_url": "https://avatars.githubusercontent.com/u/253923356?v=4"
       },
-      "updated_at": "2026-04-27T04:13:02Z"
+      "updated_at": "2026-04-27T07:16:20Z"
     },
     {
       "id": 1219220428,
       "name": "chiefautism/privacy-parser",
       "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
-      "stars": 342,
+      "stars": 345,
       "language": "Python",
       "url": "https://github.com/chiefautism/privacy-parser",
       "owner": {
         "login": "chiefautism",
         "avatar_url": "https://avatars.githubusercontent.com/u/219407464?v=4"
       },
-      "updated_at": "2026-04-27T04:15:10Z"
+      "updated_at": "2026-04-27T06:35:36Z"
     }
   ]
 }
