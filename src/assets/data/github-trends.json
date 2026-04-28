@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-28T12:13:45.630Z",
+  "lastUpdated": "2026-04-28T16:27:26.774Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 3629,
+      "stars": 3747,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-28T12:13:45Z"
+      "updated_at": "2026-04-28T16:19:54Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 1534,
+      "stars": 1641,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-28T12:13:00Z"
+      "updated_at": "2026-04-28T16:23:09Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1408,
+      "stars": 1439,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-28T12:09:34Z"
+      "updated_at": "2026-04-28T16:20:27Z"
     },
     {
       "id": 1217671020,
       "name": "deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stars": 1302,
+      "stars": 1311,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-28T10:52:47Z"
+      "updated_at": "2026-04-28T16:05:43Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1237,
+      "stars": 1250,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-28T12:13:11Z"
+      "updated_at": "2026-04-28T16:27:24Z"
     },
     {
       "id": 1217522067,
       "name": "earthtojake/text-to-cad",
       "description": "An open source harness for generating CAD models",
-      "stars": 1015,
+      "stars": 1042,
       "language": "JavaScript",
       "url": "https://github.com/earthtojake/text-to-cad",
       "owner": {
         "login": "earthtojake",
         "avatar_url": "https://avatars.githubusercontent.com/u/10742417?v=4"
       },
-      "updated_at": "2026-04-28T12:12:33Z"
+      "updated_at": "2026-04-28T16:20:37Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 950,
+      "stars": 992,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-28T12:12:28Z"
+      "updated_at": "2026-04-28T16:20:32Z"
     },
     {
       "id": 1217942969,
       "name": "wuyoscar/gpt_image_2_skill",
       "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "stars": 902,
+      "stars": 928,
       "language": "Python",
       "url": "https://github.com/wuyoscar/gpt_image_2_skill",
       "owner": {
         "login": "wuyoscar",
         "avatar_url": "https://avatars.githubusercontent.com/u/72287536?v=4"
       },
-      "updated_at": "2026-04-28T12:11:37Z"
+      "updated_at": "2026-04-28T16:12:09Z"
     },
     {
       "id": 1217623970,
       "name": "Russell-cell/PPT-Design-Prompt",
       "description": null,
-      "stars": 839,
+      "stars": 846,
       "language": "Python",
       "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
       "owner": {
         "login": "Russell-cell",
         "avatar_url": "https://avatars.githubusercontent.com/u/206703724?v=4"
       },
-      "updated_at": "2026-04-28T11:54:17Z"
+      "updated_at": "2026-04-28T16:23:45Z"
     },
     {
       "id": 1218682596,
       "name": "GammaLabTechnologies/harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 776,
+      "stars": 804,
       "language": "Python",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
       "owner": {
         "login": "GammaLabTechnologies",
         "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
       },
-      "updated_at": "2026-04-28T12:04:47Z"
+      "updated_at": "2026-04-28T16:15:33Z"
     },
     {
       "id": 1221816418,
       "name": "avaco-cloud/Vercel-XHTTP",
       "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app",
-      "stars": 691,
+      "stars": 782,
       "language": "JavaScript",
       "url": "https://github.com/avaco-cloud/Vercel-XHTTP",
       "owner": {
         "login": "avaco-cloud",
         "avatar_url": "https://avatars.githubusercontent.com/u/49340580?v=4"
       },
-      "updated_at": "2026-04-28T12:10:35Z"
+      "updated_at": "2026-04-28T16:21:22Z"
+    },
+    {
+      "id": 1223170290,
+      "name": "nexu-io/open-design",
+      "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+      "stars": 769,
+      "language": "TypeScript",
+      "url": "https://github.com/nexu-io/open-design",
+      "owner": {
+        "login": "nexu-io",
+        "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+      },
+      "updated_at": "2026-04-28T16:27:10Z"
     },
     {
       "id": 1219087723,
       "name": "future-agi/future-agi",
       "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 685,
+      "stars": 695,
       "language": "Python",
       "url": "https://github.com/future-agi/future-agi",
       "owner": {
         "login": "future-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
       },
-      "updated_at": "2026-04-28T12:10:34Z"
+      "updated_at": "2026-04-28T16:10:51Z"
     },
     {
       "id": 1220000506,
       "name": "epoko77-ai/im-not-ai",
       "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 572,
+      "stars": 582,
       "language": "Python",
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "owner": {
         "login": "epoko77-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
       },
-      "updated_at": "2026-04-28T11:34:27Z"
+      "updated_at": "2026-04-28T15:41:50Z"
     },
     {
       "id": 1220418983,
       "name": "alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 464,
+      "stars": 488,
       "language": "Go",
       "url": "https://github.com/alash3al/stash",
       "owner": {
         "login": "alash3al",
         "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
       },
-      "updated_at": "2026-04-28T12:12:32Z"
+      "updated_at": "2026-04-28T16:16:48Z"
     },
     {
       "id": 1219378569,
       "name": "CookSleep/gpt_image_playground",
       "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
-      "stars": 429,
+      "stars": 445,
       "language": "TypeScript",
       "url": "https://github.com/CookSleep/gpt_image_playground",
       "owner": {
         "login": "CookSleep",
         "avatar_url": "https://avatars.githubusercontent.com/u/151028412?v=4"
       },
-      "updated_at": "2026-04-28T12:10:06Z"
-    },
-    {
-      "id": 1218978057,
-      "name": "levelsio/superlevels",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "stars": 423,
-      "language": "JavaScript",
-      "url": "https://github.com/levelsio/superlevels",
-      "owner": {
-        "login": "levelsio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7150848?v=4"
-      },
-      "updated_at": "2026-04-28T10:14:45Z"
-    },
-    {
-      "id": 1219430101,
-      "name": "NullLatency/FlowDriver",
-      "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-      "stars": 420,
-      "language": "Go",
-      "url": "https://github.com/NullLatency/FlowDriver",
-      "owner": {
-        "login": "NullLatency",
-        "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
-      },
-      "updated_at": "2026-04-28T11:47:29Z"
+      "updated_at": "2026-04-28T16:24:38Z"
     },
     {
       "id": 1218014178,
       "name": "charlie947/social-media-skills",
       "description": null,
-      "stars": 415,
+      "stars": 435,
       "language": "Shell",
       "url": "https://github.com/charlie947/social-media-skills",
       "owner": {
         "login": "charlie947",
         "avatar_url": "https://avatars.githubusercontent.com/u/255382850?v=4"
       },
-      "updated_at": "2026-04-28T11:54:51Z"
+      "updated_at": "2026-04-28T16:23:02Z"
+    },
+    {
+      "id": 1218978057,
+      "name": "levelsio/superlevels",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "stars": 426,
+      "language": "JavaScript",
+      "url": "https://github.com/levelsio/superlevels",
+      "owner": {
+        "login": "levelsio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7150848?v=4"
+      },
+      "updated_at": "2026-04-28T14:39:57Z"
     },
     {
       "id": 1218208502,
       "name": "worldwonderer/oh-story-claudecode",
       "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程",
-      "stars": 415,
+      "stars": 425,
       "language": "Shell",
       "url": "https://github.com/worldwonderer/oh-story-claudecode",
       "owner": {
         "login": "worldwonderer",
         "avatar_url": "https://avatars.githubusercontent.com/u/49583093?v=4"
       },
-      "updated_at": "2026-04-28T12:09:57Z"
+      "updated_at": "2026-04-28T16:06:40Z"
     },
     {
-      "id": 1218088263,
-      "name": "chekusu/wanman",
-      "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
-      "stars": 396,
-      "language": "TypeScript",
-      "url": "https://github.com/chekusu/wanman",
+      "id": 1219430101,
+      "name": "NullLatency/FlowDriver",
+      "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
+      "stars": 422,
+      "language": "Go",
+      "url": "https://github.com/NullLatency/FlowDriver",
       "owner": {
-        "login": "chekusu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/253923356?v=4"
+        "login": "NullLatency",
+        "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
       },
-      "updated_at": "2026-04-28T12:10:14Z"
+      "updated_at": "2026-04-28T14:42:33Z"
     }
   ]
 }
