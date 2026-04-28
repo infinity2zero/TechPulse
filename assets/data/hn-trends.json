@@ -1,295 +1,295 @@
 {
-  "lastUpdated": "2026-04-28T18:00:48.773Z",
+  "lastUpdated": "2026-04-28T19:48:11.707Z",
   "items": [
     {
-      "id": 47936347,
-      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "score": 113,
-      "by": "mmsc",
-      "time": 1777392361,
-      "comments": 70,
-      "domain": "aisle.com"
+      "id": 47939079,
+      "title": "DOOM running in ChatGPT and Claude",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 39,
+      "by": "chrisnager",
+      "time": 1777403327,
+      "comments": 12,
+      "domain": "chrisnager.com"
     },
     {
       "id": 47933208,
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
-      "score": 543,
+      "score": 647,
       "by": "bilsbie",
       "time": 1777377260,
-      "comments": 186,
+      "comments": 212,
       "domain": "github.com"
     },
     {
-      "id": 47937641,
-      "title": "BookStack Moves from GitHub to Codeberg",
-      "url": "https://github.com/BookStackApp/BookStack/issues/4551",
-      "score": 27,
-      "by": "RadiozRadioz",
-      "time": 1777397351,
+      "id": 47939320,
+      "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 13,
+      "by": "translocator",
+      "time": 1777404283,
       "comments": 0,
-      "domain": "github.com"
+      "domain": "stratechery.com"
     },
     {
       "id": 47933236,
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
-      "score": 233,
+      "score": 272,
       "by": "tosh",
       "time": 1777377364,
-      "comments": 143,
+      "comments": 160,
       "domain": "github.com"
-    },
-    {
-      "id": 47935853,
-      "title": "Your phone is about to stop being yours",
-      "url": "https://keepandroidopen.org/en/",
-      "score": 422,
-      "by": "doener",
-      "time": 1777389660,
-      "comments": 210,
-      "domain": "keepandroidopen.org"
-    },
-    {
-      "id": 47936511,
-      "title": "Laguna XS.2 and M.1",
-      "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
-      "score": 44,
-      "by": "tosh",
-      "time": 1777393075,
-      "comments": 17,
-      "domain": "poolside.ai"
-    },
-    {
-      "id": 47934261,
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "url": "https://www.lumara-space.app/",
-      "score": 102,
-      "by": "beeswaxpat",
-      "time": 1777382748,
-      "comments": 25,
-      "domain": "lumara-space.app"
-    },
-    {
-      "id": 47936156,
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "score": 159,
-      "by": "granzymes",
-      "time": 1777391362,
-      "comments": 144,
-      "domain": "theverge.com"
-    },
-    {
-      "id": 47936210,
-      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-      "score": 99,
-      "by": "throw0101c",
-      "time": 1777391661,
-      "comments": 42,
-      "domain": "deadline.com"
-    },
-    {
-      "id": 47906651,
-      "title": "I have officially retired from Emacs",
-      "url": "https://nullprogram.com/blog/2026/04/26/",
-      "score": 59,
-      "by": "Fudgel",
-      "time": 1777169533,
-      "comments": 33,
-      "domain": "nullprogram.com"
-    },
-    {
-      "id": 47915023,
-      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-      "score": 81,
-      "by": "rbanffy",
-      "time": 1777240314,
-      "comments": 35,
-      "domain": "phys.org"
-    },
-    {
-      "id": 47932937,
-      "title": "Who owns the code Claude Code wrote?",
-      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 84,
-      "by": "senaevren",
-      "time": 1777375492,
-      "comments": 110,
-      "domain": "legallayer.substack.com"
-    },
-    {
-      "id": 47933257,
-      "title": "GitHub Actions is the weakest link",
-      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-      "score": 106,
-      "by": "dochtman",
-      "time": 1777377494,
-      "comments": 21,
-      "domain": "nesbitt.io"
-    },
-    {
-      "id": 47932028,
-      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-      "score": 157,
-      "by": "whtsky",
-      "time": 1777366865,
-      "comments": 114,
-      "domain": "github.blog"
-    },
-    {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 567,
-      "by": "jekude",
-      "time": 1777326948,
-      "comments": 234,
-      "domain": "talkie-lm.com"
-    },
-    {
-      "id": 47936370,
-      "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
-      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
-      "score": 171,
-      "by": "Philpax",
-      "time": 1777392478,
-      "comments": 142,
-      "domain": "blender.org"
-    },
-    {
-      "id": 47901064,
-      "title": "ASML became the chokepoint for cutting-edge chips",
-      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "score": 253,
-      "by": "mellosouls",
-      "time": 1777121252,
-      "comments": 149,
-      "domain": "worksinprogress.co"
-    },
-    {
-      "id": 47936867,
-      "title": "AI's Economics Don't Make Sense",
-      "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-      "score": 82,
-      "by": "spking",
-      "time": 1777394393,
-      "comments": 41,
-      "domain": "wheresyoured.at"
-    },
-    {
-      "id": 47910201,
-      "title": "Things C++26 define_static_array can't do",
-      "url": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
-      "score": 10,
-      "by": "jandeboevrie",
-      "time": 1777210348,
-      "comments": 0,
-      "domain": "quuxplusone.github.io"
     },
     {
       "id": 47936479,
       "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "score": 19,
+      "score": 101,
       "by": "bo0tzz",
       "time": 1777392943,
-      "comments": 4,
+      "comments": 29,
       "domain": "wiz.io"
     },
     {
-      "id": 47919891,
-      "title": "PyWry: Cross-Platform Rendering Engine in Python",
-      "url": "https://deeleeramone.github.io/PyWry/",
-      "score": 19,
-      "by": "filipovic",
-      "time": 1777286522,
-      "comments": 5,
-      "domain": "deeleeramone.github.io"
+      "id": 47938097,
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "score": 159,
+      "by": "shorsher",
+      "time": 1777399281,
+      "comments": 132,
+      "domain": "status.claude.com"
     },
     {
-      "id": 47934120,
-      "title": "UAE Leaves OPEC and OPEC+",
-      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
-      "score": 262,
-      "by": "TechTechTech",
-      "time": 1777382034,
+      "id": 47939579,
+      "title": "Ghostty Is Leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 6,
+      "by": "WadeGrimridge",
+      "time": 1777405492,
+      "comments": 0,
+      "domain": "mitchellh.com"
+    },
+    {
+      "id": 47917250,
+      "title": "Patch applies fake diffs from commit messages",
+      "url": "https://samizdat.dev/phantom-patch/",
+      "score": 22,
+      "by": "reconquestio",
+      "time": 1777258854,
+      "comments": 4,
+      "domain": "samizdat.dev"
+    },
+    {
+      "id": 47936347,
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "score": 150,
+      "by": "mmsc",
+      "time": 1777392361,
+      "comments": 94,
+      "domain": "aisle.com"
+    },
+    {
+      "id": 47906651,
+      "title": "I have officially retired from Emacs",
+      "url": "https://nullprogram.com/blog/2026/04/26/",
+      "score": 120,
+      "by": "Fudgel",
+      "time": 1777169533,
+      "comments": 66,
+      "domain": "nullprogram.com"
+    },
+    {
+      "id": 47937349,
+      "title": "Warp is now Open-Source",
+      "url": "https://github.com/warpdotdev/warp",
+      "score": 45,
+      "by": "doppp",
+      "time": 1777396181,
+      "comments": 9,
+      "domain": "github.com"
+    },
+    {
+      "id": 47932937,
+      "title": "Who owns the code Claude Code wrote?",
+      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "score": 175,
+      "by": "senaevren",
+      "time": 1777375492,
+      "comments": 188,
+      "domain": "legallayer.substack.com"
+    },
+    {
+      "id": 47934261,
+      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "url": "https://www.lumara-space.app/",
+      "score": 133,
+      "by": "beeswaxpat",
+      "time": 1777382748,
+      "comments": 45,
+      "domain": "lumara-space.app"
+    },
+    {
+      "id": 47936511,
+      "title": "Laguna XS.2 and M.1",
+      "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
+      "score": 70,
+      "by": "tosh",
+      "time": 1777393075,
+      "comments": 30,
+      "domain": "poolside.ai"
+    },
+    {
+      "id": 47939105,
+      "title": "C, Just In Time!",
+      "url": "https://dyne.org/cjit/",
+      "score": 12,
+      "by": "smartmic",
+      "time": 1777403414,
+      "comments": 2,
+      "domain": "dyne.org"
+    },
+    {
+      "id": 47910201,
+      "title": "Things C++26 define_static_array can't do",
+      "url": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
+      "score": 29,
+      "by": "jandeboevrie",
+      "time": 1777210348,
+      "comments": 5,
+      "domain": "quuxplusone.github.io"
+    },
+    {
+      "id": 47933257,
+      "title": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "score": 156,
+      "by": "dochtman",
+      "time": 1777377494,
+      "comments": 39,
+      "domain": "nesbitt.io"
+    },
+    {
+      "id": 47938756,
+      "title": "Bankruptcies increase 11.9 percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "score": 107,
+      "by": "jaredwiener",
+      "time": 1777402029,
+      "comments": 49,
+      "domain": "uscourts.gov"
+    },
+    {
+      "id": 47927903,
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 595,
+      "by": "jekude",
+      "time": 1777326948,
+      "comments": 239,
+      "domain": "talkie-lm.com"
+    },
+    {
+      "id": 47936210,
+      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+      "score": 159,
+      "by": "throw0101c",
+      "time": 1777391661,
+      "comments": 100,
+      "domain": "deadline.com"
+    },
+    {
+      "id": 47932028,
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "score": 190,
+      "by": "whtsky",
+      "time": 1777366865,
+      "comments": 139,
+      "domain": "github.blog"
+    },
+    {
+      "id": 47901064,
+      "title": "ASML became the chokepoint for cutting-edge chips",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "score": 282,
+      "by": "mellosouls",
+      "time": 1777121252,
+      "comments": 174,
+      "domain": "worksinprogress.co"
+    },
+    {
+      "id": 47938184,
+      "title": "Waymo in Portland",
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "score": 130,
+      "by": "xnx",
+      "time": 1777399693,
       "comments": 130,
-      "domain": "reuters.com"
+      "domain": "waymo.com"
+    },
+    {
+      "id": 47915023,
+      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
+      "score": 95,
+      "by": "rbanffy",
+      "time": 1777240314,
+      "comments": 38,
+      "domain": "phys.org"
+    },
+    {
+      "id": 47938417,
+      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "score": 31,
+      "by": "gmays",
+      "time": 1777400813,
+      "comments": 2,
+      "domain": "augmentcode.com"
+    },
+    {
+      "id": 47936156,
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "score": 223,
+      "by": "granzymes",
+      "time": 1777391362,
+      "comments": 220,
+      "domain": "theverge.com"
     },
     {
       "id": 47918891,
       "title": "Can You Find the Comet?",
       "url": "https://apod.nasa.gov/apod/ap260427.html",
-      "score": 118,
+      "score": 128,
       "by": "ColinWright",
       "time": 1777276777,
-      "comments": 74,
+      "comments": 84,
       "domain": "apod.nasa.gov"
     },
     {
-      "id": 47918549,
-      "title": "I Spent My Sabbatical Building a Power Meter for Sledgehammers",
-      "url": "https://leblancfg.com/intensity-pad-founder-story.html",
-      "score": 65,
-      "by": "alin23",
-      "time": 1777273345,
-      "comments": 46,
-      "domain": "leblancfg.com"
+      "id": 47934120,
+      "title": "UAE Leaves OPEC and OPEC+",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "score": 297,
+      "by": "TechTechTech",
+      "time": 1777382034,
+      "comments": 162,
+      "domain": "reuters.com"
     },
     {
-      "id": 47916103,
-      "title": "Voice Modems",
-      "url": "https://computer.rip/2026-04-26-voice-modems.html",
-      "score": 55,
-      "by": "K7PJP",
-      "time": 1777247310,
-      "comments": 7,
-      "domain": "computer.rip"
-    },
-    {
-      "id": 47936411,
-      "title": "Cybersec is a thankless job: expanding workload and shrinking pay packet",
-      "url": "https://www.theregister.com/2026/04/27/from_a_massive_skills_gap/",
-      "score": 36,
-      "by": "rustoo",
-      "time": 1777392662,
-      "comments": 16,
-      "domain": "theregister.com"
-    },
-    {
-      "id": 47936236,
-      "title": "After Spain's blackout, its shift to renewables and grid evolution power on",
-      "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
-      "score": 36,
-      "by": "lentil_soup",
-      "time": 1777391755,
-      "comments": 4,
-      "domain": "theguardian.com"
-    },
-    {
-      "id": 47936167,
-      "title": "Physicists Discover the Most Complex Forms of Ice Yet",
-      "url": "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/",
-      "score": 6,
-      "by": "ibobev",
-      "time": 1777391404,
-      "comments": 2,
-      "domain": "quantamagazine.org"
-    },
-    {
-      "id": 47911675,
-      "title": "The predictable failure of the QDay Prize",
-      "url": "https://algassert.com/post/2601",
-      "score": 48,
-      "by": "firefly284",
-      "time": 1777221940,
-      "comments": 4,
-      "domain": "algassert.com"
+      "id": 47936370,
+      "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+      "score": 209,
+      "by": "Philpax",
+      "time": 1777392478,
+      "comments": 160,
+      "domain": "blender.org"
     }
   ]
 }
