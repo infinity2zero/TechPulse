@@ -1,57 +1,31 @@
 {
-  "lastUpdated": "2026-04-27T23:08:17.916Z",
+  "lastUpdated": "2026-04-28T00:03:24.535Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 3428,
+      "stars": 3433,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-27T22:36:44Z"
-    },
-    {
-      "id": 1217105927,
-      "name": "Einsia/OpenChronicle",
-      "description": null,
-      "stars": 1580,
-      "language": "Python",
-      "url": "https://github.com/Einsia/OpenChronicle",
-      "owner": {
-        "login": "Einsia",
-        "avatar_url": "https://avatars.githubusercontent.com/u/246131017?v=4"
-      },
-      "updated_at": "2026-04-27T22:45:47Z"
-    },
-    {
-      "id": 1216954187,
-      "name": "ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 1542,
-      "language": "JavaScript",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "owner": {
-        "login": "ConardLi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/30708545?v=4"
-      },
-      "updated_at": "2026-04-27T21:56:52Z"
+      "updated_at": "2026-04-28T00:01:00Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1289,
+      "stars": 1293,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-27T22:03:05Z"
+      "updated_at": "2026-04-28T00:02:51Z"
     },
     {
       "id": 1217671020,
@@ -70,92 +44,79 @@
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
-      "stars": 1225,
+      "stars": 1235,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-27T23:08:02Z"
+      "updated_at": "2026-04-28T00:03:01Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1190,
+      "stars": 1193,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-27T23:07:05Z"
+      "updated_at": "2026-04-27T23:51:02Z"
     },
     {
       "id": 1217522067,
       "name": "earthtojake/text-to-cad",
       "description": "An open source harness for generating CAD models",
-      "stars": 945,
+      "stars": 948,
       "language": "JavaScript",
       "url": "https://github.com/earthtojake/text-to-cad",
       "owner": {
         "login": "earthtojake",
         "avatar_url": "https://avatars.githubusercontent.com/u/10742417?v=4"
       },
-      "updated_at": "2026-04-27T23:06:05Z"
+      "updated_at": "2026-04-27T23:24:45Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 864,
+      "stars": 867,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-27T21:51:04Z"
-    },
-    {
-      "id": 1217102150,
-      "name": "therealaleph/MasterHttpRelayVPN-RUST",
-      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
-      "stars": 850,
-      "language": "Rust",
-      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
-      "owner": {
-        "login": "therealaleph",
-        "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
-      },
-      "updated_at": "2026-04-27T22:55:27Z"
+      "updated_at": "2026-04-27T23:50:52Z"
     },
     {
       "id": 1217623970,
       "name": "Russell-cell/PPT-Design-Prompt",
       "description": null,
-      "stars": 824,
+      "stars": 826,
       "language": "Python",
       "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
       "owner": {
         "login": "Russell-cell",
         "avatar_url": "https://avatars.githubusercontent.com/u/206703724?v=4"
       },
-      "updated_at": "2026-04-27T21:37:53Z"
+      "updated_at": "2026-04-27T23:47:56Z"
     },
     {
       "id": 1217942969,
       "name": "wuyoscar/gpt_image_2_skill",
       "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "stars": 814,
+      "stars": 815,
       "language": "Python",
       "url": "https://github.com/wuyoscar/gpt_image_2_skill",
       "owner": {
         "login": "wuyoscar",
         "avatar_url": "https://avatars.githubusercontent.com/u/72287536?v=4"
       },
-      "updated_at": "2026-04-27T22:38:35Z"
+      "updated_at": "2026-04-27T23:37:48Z"
     },
     {
       "id": 1218682596,
@@ -174,53 +135,40 @@
       "id": 1219087723,
       "name": "future-agi/future-agi",
       "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 640,
+      "stars": 642,
       "language": "Python",
       "url": "https://github.com/future-agi/future-agi",
       "owner": {
         "login": "future-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
       },
-      "updated_at": "2026-04-27T22:39:46Z"
-    },
-    {
-      "id": 1217040185,
-      "name": "tashfeenahmed/freellmapi",
-      "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-      "stars": 592,
-      "language": "TypeScript",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "owner": {
-        "login": "tashfeenahmed",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9307356?v=4"
-      },
-      "updated_at": "2026-04-27T22:40:06Z"
+      "updated_at": "2026-04-27T23:59:19Z"
     },
     {
       "id": 1221816418,
       "name": "avaco-cloud/Vercel-XHTTP",
       "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app",
-      "stars": 537,
+      "stars": 545,
       "language": "JavaScript",
       "url": "https://github.com/avaco-cloud/Vercel-XHTTP",
       "owner": {
         "login": "avaco-cloud",
         "avatar_url": "https://avatars.githubusercontent.com/u/49340580?v=4"
       },
-      "updated_at": "2026-04-27T23:05:54Z"
+      "updated_at": "2026-04-27T23:55:13Z"
     },
     {
       "id": 1220000506,
       "name": "epoko77-ai/im-not-ai",
       "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 510,
+      "stars": 511,
       "language": "Python",
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "owner": {
         "login": "epoko77-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
       },
-      "updated_at": "2026-04-27T23:04:19Z"
+      "updated_at": "2026-04-27T23:44:49Z"
     },
     {
       "id": 1218978057,
@@ -239,14 +187,14 @@
       "id": 1220418983,
       "name": "alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 414,
+      "stars": 417,
       "language": "Go",
       "url": "https://github.com/alash3al/stash",
       "owner": {
         "login": "alash3al",
         "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
       },
-      "updated_at": "2026-04-27T22:58:32Z"
+      "updated_at": "2026-04-27T23:26:44Z"
     },
     {
       "id": 1219430101,
@@ -260,6 +208,58 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
       },
       "updated_at": "2026-04-27T22:42:05Z"
+    },
+    {
+      "id": 1218088263,
+      "name": "chekusu/wanman",
+      "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+      "stars": 386,
+      "language": "TypeScript",
+      "url": "https://github.com/chekusu/wanman",
+      "owner": {
+        "login": "chekusu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/253923356?v=4"
+      },
+      "updated_at": "2026-04-27T22:44:59Z"
+    },
+    {
+      "id": 1218014178,
+      "name": "charlie947/social-media-skills",
+      "description": null,
+      "stars": 365,
+      "language": "Shell",
+      "url": "https://github.com/charlie947/social-media-skills",
+      "owner": {
+        "login": "charlie947",
+        "avatar_url": "https://avatars.githubusercontent.com/u/255382850?v=4"
+      },
+      "updated_at": "2026-04-27T23:40:48Z"
+    },
+    {
+      "id": 1219220428,
+      "name": "chiefautism/privacy-parser",
+      "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
+      "stars": 364,
+      "language": "Python",
+      "url": "https://github.com/chiefautism/privacy-parser",
+      "owner": {
+        "login": "chiefautism",
+        "avatar_url": "https://avatars.githubusercontent.com/u/219407464?v=4"
+      },
+      "updated_at": "2026-04-27T20:16:18Z"
+    },
+    {
+      "id": 1219378569,
+      "name": "CookSleep/gpt_image_playground",
+      "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
+      "stars": 358,
+      "language": "TypeScript",
+      "url": "https://github.com/CookSleep/gpt_image_playground",
+      "owner": {
+        "login": "CookSleep",
+        "avatar_url": "https://avatars.githubusercontent.com/u/151028412?v=4"
+      },
+      "updated_at": "2026-04-27T21:09:32Z"
     }
   ]
 }
