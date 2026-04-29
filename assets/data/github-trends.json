@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-04-29T19:49:04.269Z",
+  "lastUpdated": "2026-04-29T20:45:37.177Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 4151,
+      "stars": 4156,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-29T19:25:10Z"
+      "updated_at": "2026-04-29T20:45:34Z"
     },
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 3965,
+      "stars": 4018,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-04-29T19:47:17Z"
+      "updated_at": "2026-04-29T20:44:15Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2096,
+      "stars": 2099,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-29T19:30:05Z"
+      "updated_at": "2026-04-29T20:43:12Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1519,
+      "stars": 1520,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-29T18:42:45Z"
+      "updated_at": "2026-04-29T19:58:26Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1334,
+      "stars": 1337,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-29T19:48:48Z"
+      "updated_at": "2026-04-29T20:45:00Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 1205,
+      "stars": 1208,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-29T19:40:36Z"
-    },
-    {
-      "id": 1218682596,
-      "name": "GammaLabTechnologies/harmonist",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 886,
-      "language": "Python",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "owner": {
-        "login": "GammaLabTechnologies",
-        "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
-      },
-      "updated_at": "2026-04-29T19:42:03Z"
+      "updated_at": "2026-04-29T20:45:15Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 878,
+      "stars": 952,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-04-29T19:48:40Z"
+      "updated_at": "2026-04-29T20:45:34Z"
+    },
+    {
+      "id": 1218682596,
+      "name": "GammaLabTechnologies/harmonist",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "stars": 887,
+      "language": "Python",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "owner": {
+        "login": "GammaLabTechnologies",
+        "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
+      },
+      "updated_at": "2026-04-29T19:59:46Z"
     },
     {
       "id": 1219087723,
@@ -135,14 +135,14 @@
       "id": 1220418983,
       "name": "alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 551,
+      "stars": 555,
       "language": "Go",
       "url": "https://github.com/alash3al/stash",
       "owner": {
         "login": "alash3al",
         "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
       },
-      "updated_at": "2026-04-29T19:38:04Z"
+      "updated_at": "2026-04-29T20:44:27Z"
     },
     {
       "id": 1219378569,
@@ -161,14 +161,27 @@
       "id": 1218823179,
       "name": "machinepulse-ai/world2agent",
       "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
-      "stars": 440,
+      "stars": 447,
       "language": "TypeScript",
       "url": "https://github.com/machinepulse-ai/world2agent",
       "owner": {
         "login": "machinepulse-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/243333502?v=4"
       },
-      "updated_at": "2026-04-29T19:41:37Z"
+      "updated_at": "2026-04-29T20:43:09Z"
+    },
+    {
+      "id": 1220026502,
+      "name": "ps5-linux/ps5-linux-loader",
+      "description": "Linux payload implementing the HV exploit and a custom bootloader",
+      "stars": 441,
+      "language": "C",
+      "url": "https://github.com/ps5-linux/ps5-linux-loader",
+      "owner": {
+        "login": "ps5-linux",
+        "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
+      },
+      "updated_at": "2026-04-29T20:43:15Z"
     },
     {
       "id": 1218978057,
@@ -182,19 +195,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/7150848?v=4"
       },
       "updated_at": "2026-04-29T18:50:32Z"
-    },
-    {
-      "id": 1220026502,
-      "name": "ps5-linux/ps5-linux-loader",
-      "description": "Linux payload implementing the HV exploit and a custom bootloader",
-      "stars": 417,
-      "language": "C",
-      "url": "https://github.com/ps5-linux/ps5-linux-loader",
-      "owner": {
-        "login": "ps5-linux",
-        "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
-      },
-      "updated_at": "2026-04-29T19:47:27Z"
     },
     {
       "id": 1219430101,
@@ -213,14 +213,14 @@
       "id": 1224062065,
       "name": "bonused/monthly-bonus-stake",
       "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
-      "stars": 413,
+      "stars": 414,
       "language": null,
       "url": "https://github.com/bonused/monthly-bonus-stake",
       "owner": {
         "login": "bonused",
         "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
       },
-      "updated_at": "2026-04-29T19:48:58Z"
+      "updated_at": "2026-04-29T20:26:54Z"
     },
     {
       "id": 1221334781,
@@ -252,14 +252,14 @@
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 364,
+      "stars": 367,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-04-29T19:30:12Z"
+      "updated_at": "2026-04-29T20:45:34Z"
     }
   ]
 }
