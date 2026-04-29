@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-04-29T21:44:44.931Z",
+  "lastUpdated": "2026-04-29T22:39:01.353Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 4159,
+      "stars": 4160,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-29T21:34:32Z"
+      "updated_at": "2026-04-29T22:20:18Z"
     },
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 4087,
+      "stars": 4137,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-04-29T21:44:04Z"
+      "updated_at": "2026-04-29T22:37:27Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2107,
+      "stars": 2111,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-29T21:42:15Z"
+      "updated_at": "2026-04-29T22:35:31Z"
     },
     {
       "id": 1219712617,
@@ -57,53 +57,53 @@
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1337,
+      "stars": 1338,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-29T21:44:37Z"
+      "updated_at": "2026-04-29T22:31:57Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 1214,
+      "stars": 1217,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-29T21:26:23Z"
+      "updated_at": "2026-04-29T22:25:48Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 1013,
+      "stars": 1062,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-04-29T21:44:08Z"
+      "updated_at": "2026-04-29T22:38:08Z"
     },
     {
       "id": 1218682596,
       "name": "GammaLabTechnologies/harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 893,
+      "stars": 894,
       "language": "Python",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
       "owner": {
         "login": "GammaLabTechnologies",
         "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
       },
-      "updated_at": "2026-04-29T21:26:19Z"
+      "updated_at": "2026-04-29T22:14:57Z"
     },
     {
       "id": 1219087723,
@@ -161,27 +161,27 @@
       "id": 1220026502,
       "name": "ps5-linux/ps5-linux-loader",
       "description": "Linux payload implementing the HV exploit and a custom bootloader",
-      "stars": 465,
+      "stars": 478,
       "language": "C",
       "url": "https://github.com/ps5-linux/ps5-linux-loader",
       "owner": {
         "login": "ps5-linux",
         "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
       },
-      "updated_at": "2026-04-29T21:34:24Z"
+      "updated_at": "2026-04-29T22:38:54Z"
     },
     {
       "id": 1218823179,
       "name": "machinepulse-ai/world2agent",
       "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
-      "stars": 457,
+      "stars": 466,
       "language": "TypeScript",
       "url": "https://github.com/machinepulse-ai/world2agent",
       "owner": {
         "login": "machinepulse-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/243333502?v=4"
       },
-      "updated_at": "2026-04-29T21:43:29Z"
+      "updated_at": "2026-04-29T22:30:55Z"
     },
     {
       "id": 1218978057,
@@ -226,14 +226,14 @@
       "id": 1221334781,
       "name": "NyxTides/ppt-image-first",
       "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "stars": 395,
+      "stars": 398,
       "language": "Python",
       "url": "https://github.com/NyxTides/ppt-image-first",
       "owner": {
         "login": "NyxTides",
         "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
       },
-      "updated_at": "2026-04-29T21:40:37Z"
+      "updated_at": "2026-04-29T22:36:25Z"
     },
     {
       "id": 1219220428,
@@ -252,14 +252,14 @@
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 374,
+      "stars": 376,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-04-29T21:40:00Z"
+      "updated_at": "2026-04-29T21:56:51Z"
     }
   ]
 }
