@@ -1,187 +1,200 @@
 {
-  "lastUpdated": "2026-04-29T12:52:40.398Z",
+  "lastUpdated": "2026-04-29T15:00:01.705Z",
   "items": [
     {
       "id": 1219042200,
       "name": "op7418/guizang-ppt-skill",
       "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-      "stars": 4080,
+      "stars": 4111,
       "language": "HTML",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "owner": {
         "login": "op7418",
         "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
-      "updated_at": "2026-04-29T12:48:40Z"
+      "updated_at": "2026-04-29T14:55:37Z"
     },
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
-      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
-      "stars": 3126,
+      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+      "stars": 3462,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-04-29T12:52:38Z"
+      "updated_at": "2026-04-29T14:59:41Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2005,
+      "stars": 2047,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-29T12:46:58Z"
+      "updated_at": "2026-04-29T14:59:32Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1505,
+      "stars": 1517,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-29T12:36:42Z"
+      "updated_at": "2026-04-29T14:57:06Z"
     },
     {
       "id": 1219446293,
       "name": "openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": 1305,
+      "stars": 1312,
       "language": "JavaScript",
       "url": "https://github.com/openclaw/clawsweeper",
       "owner": {
         "login": "openclaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
-      "updated_at": "2026-04-29T12:52:00Z"
+      "updated_at": "2026-04-29T14:56:42Z"
     },
     {
       "id": 1219400421,
       "name": "0x0funky/agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 1135,
+      "stars": 1172,
       "language": "Python",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "owner": {
         "login": "0x0funky",
         "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
       },
-      "updated_at": "2026-04-29T12:49:44Z"
+      "updated_at": "2026-04-29T14:57:54Z"
     },
     {
       "id": 1218682596,
       "name": "GammaLabTechnologies/harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 866,
+      "stars": 878,
       "language": "Python",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
       "owner": {
         "login": "GammaLabTechnologies",
         "avatar_url": "https://avatars.githubusercontent.com/u/278484961?v=4"
       },
-      "updated_at": "2026-04-29T12:46:27Z"
+      "updated_at": "2026-04-29T14:59:28Z"
     },
     {
       "id": 1219087723,
       "name": "future-agi/future-agi",
       "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 727,
+      "stars": 734,
       "language": "Python",
       "url": "https://github.com/future-agi/future-agi",
       "owner": {
         "login": "future-agi",
         "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
       },
-      "updated_at": "2026-04-29T12:35:42Z"
+      "updated_at": "2026-04-29T14:37:00Z"
     },
     {
       "id": 1220000506,
       "name": "epoko77-ai/im-not-ai",
       "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 622,
+      "stars": 626,
       "language": "Python",
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "owner": {
         "login": "epoko77-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
       },
-      "updated_at": "2026-04-29T12:45:47Z"
+      "updated_at": "2026-04-29T14:37:45Z"
     },
     {
       "id": 1220418983,
       "name": "alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 536,
+      "stars": 540,
       "language": "Go",
       "url": "https://github.com/alash3al/stash",
       "owner": {
         "login": "alash3al",
         "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
       },
-      "updated_at": "2026-04-29T11:43:04Z"
+      "updated_at": "2026-04-29T14:44:41Z"
     },
     {
       "id": 1219378569,
       "name": "CookSleep/gpt_image_playground",
       "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
-      "stars": 488,
+      "stars": 491,
       "language": "TypeScript",
       "url": "https://github.com/CookSleep/gpt_image_playground",
       "owner": {
         "login": "CookSleep",
         "avatar_url": "https://avatars.githubusercontent.com/u/151028412?v=4"
       },
-      "updated_at": "2026-04-29T11:53:39Z"
+      "updated_at": "2026-04-29T14:56:08Z"
     },
     {
       "id": 1219430101,
       "name": "NullLatency/FlowDriver",
       "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-      "stars": 440,
+      "stars": 439,
       "language": "Go",
       "url": "https://github.com/NullLatency/FlowDriver",
       "owner": {
         "login": "NullLatency",
         "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
       },
-      "updated_at": "2026-04-29T11:48:45Z"
+      "updated_at": "2026-04-29T13:50:38Z"
     },
     {
       "id": 1218978057,
       "name": "levelsio/superlevels",
       "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "stars": 433,
+      "stars": 434,
       "language": "JavaScript",
       "url": "https://github.com/levelsio/superlevels",
       "owner": {
         "login": "levelsio",
         "avatar_url": "https://avatars.githubusercontent.com/u/7150848?v=4"
       },
-      "updated_at": "2026-04-29T12:14:22Z"
+      "updated_at": "2026-04-29T14:25:28Z"
     },
     {
       "id": 1221334781,
       "name": "NyxTides/ppt-image-first",
       "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "stars": 393,
+      "stars": 394,
       "language": "Python",
       "url": "https://github.com/NyxTides/ppt-image-first",
       "owner": {
         "login": "NyxTides",
         "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
       },
-      "updated_at": "2026-04-29T12:50:28Z"
+      "updated_at": "2026-04-29T13:53:01Z"
+    },
+    {
+      "id": 1224062065,
+      "name": "bonused/monthly-bonus-stake",
+      "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
+      "stars": 386,
+      "language": null,
+      "url": "https://github.com/bonused/monthly-bonus-stake",
+      "owner": {
+        "login": "bonused",
+        "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
+      },
+      "updated_at": "2026-04-29T14:59:40Z"
     },
     {
       "id": 1219220428,
@@ -200,66 +213,53 @@
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 356,
+      "stars": 376,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-04-29T12:50:52Z"
+      "updated_at": "2026-04-29T14:43:40Z"
+    },
+    {
+      "id": 1218823179,
+      "name": "machinepulse-ai/world2agent",
+      "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
+      "stars": 348,
+      "language": "TypeScript",
+      "url": "https://github.com/machinepulse-ai/world2agent",
+      "owner": {
+        "login": "machinepulse-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/243333502?v=4"
+      },
+      "updated_at": "2026-04-29T14:59:45Z"
     },
     {
       "id": 1219493841,
       "name": "seulee26/mckinsey-pptx",
       "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).",
-      "stars": 342,
+      "stars": 343,
       "language": "Python",
       "url": "https://github.com/seulee26/mckinsey-pptx",
       "owner": {
         "login": "seulee26",
         "avatar_url": "https://avatars.githubusercontent.com/u/47336074?v=4"
       },
-      "updated_at": "2026-04-29T12:47:53Z"
+      "updated_at": "2026-04-29T14:23:32Z"
     },
     {
       "id": 1222014970,
       "name": "evanklem/evanflow",
       "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.",
-      "stars": 340,
+      "stars": 342,
       "language": "Shell",
       "url": "https://github.com/evanklem/evanflow",
       "owner": {
         "login": "evanklem",
         "avatar_url": "https://avatars.githubusercontent.com/u/222768249?v=4"
       },
-      "updated_at": "2026-04-29T05:44:11Z"
-    },
-    {
-      "id": 1221048564,
-      "name": "samyns/Unit-3",
-      "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed",
-      "stars": 321,
-      "language": "QML",
-      "url": "https://github.com/samyns/Unit-3",
-      "owner": {
-        "login": "samyns",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102748858?v=4"
-      },
-      "updated_at": "2026-04-29T11:00:25Z"
-    },
-    {
-      "id": 1224062065,
-      "name": "bonused/monthly-bonus-stake",
-      "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
-      "stars": 320,
-      "language": null,
-      "url": "https://github.com/bonused/monthly-bonus-stake",
-      "owner": {
-        "login": "bonused",
-        "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
-      },
-      "updated_at": "2026-04-29T12:52:08Z"
+      "updated_at": "2026-04-29T14:25:48Z"
     }
   ]
 }
