@@ -1,148 +1,148 @@
 {
-  "lastUpdated": "2026-04-30T11:12:53.489Z",
+  "lastUpdated": "2026-04-30T12:53:28.450Z",
   "items": [
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 5861,
+      "stars": 6240,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-04-30T11:12:26Z"
+      "updated_at": "2026-04-30T12:52:50Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2302,
+      "stars": 2321,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-04-30T11:10:00Z"
+      "updated_at": "2026-04-30T12:51:11Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 2229,
+      "stars": 2297,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-04-30T11:10:12Z"
+      "updated_at": "2026-04-30T12:52:41Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1545,
+      "stars": 1548,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-30T11:04:13Z"
+      "updated_at": "2026-04-30T12:37:53Z"
     },
     {
       "id": 1224571990,
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "description": null,
-      "stars": 1144,
+      "stars": 1259,
       "language": "Python",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "owner": {
         "login": "theori-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
       },
-      "updated_at": "2026-04-30T11:11:27Z"
+      "updated_at": "2026-04-30T12:50:30Z"
     },
     {
       "id": 1220026502,
       "name": "ps5-linux/ps5-linux-loader",
       "description": "Linux payload implementing the HV exploit and a custom bootloader",
-      "stars": 660,
+      "stars": 694,
       "language": "C",
       "url": "https://github.com/ps5-linux/ps5-linux-loader",
       "owner": {
         "login": "ps5-linux",
         "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
       },
-      "updated_at": "2026-04-30T11:12:47Z"
+      "updated_at": "2026-04-30T12:49:08Z"
     },
     {
       "id": 1220000506,
       "name": "epoko77-ai/im-not-ai",
       "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 658,
+      "stars": 659,
       "language": "Python",
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "owner": {
         "login": "epoko77-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
       },
-      "updated_at": "2026-04-30T10:26:30Z"
+      "updated_at": "2026-04-30T12:28:34Z"
     },
     {
       "id": 1222110548,
       "name": "DanOps-1/Gpt-Agreement-Payment",
       "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "stars": 590,
+      "stars": 638,
       "language": "Python",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "owner": {
         "login": "DanOps-1",
         "avatar_url": "https://avatars.githubusercontent.com/u/136412026?v=4"
       },
-      "updated_at": "2026-04-30T11:10:22Z"
-    },
-    {
-      "id": 1220418983,
-      "name": "alash3al/stash",
-      "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 578,
-      "language": "Go",
-      "url": "https://github.com/alash3al/stash",
-      "owner": {
-        "login": "alash3al",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
-      },
-      "updated_at": "2026-04-30T10:58:41Z"
+      "updated_at": "2026-04-30T12:50:37Z"
     },
     {
       "id": 1223476197,
       "name": "GENEXIS-AI/chromex",
       "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stars": 571,
+      "stars": 591,
       "language": "TypeScript",
       "url": "https://github.com/GENEXIS-AI/chromex",
       "owner": {
         "login": "GENEXIS-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
       },
-      "updated_at": "2026-04-30T11:11:51Z"
+      "updated_at": "2026-04-30T12:52:57Z"
+    },
+    {
+      "id": 1220418983,
+      "name": "alash3al/stash",
+      "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+      "stars": 580,
+      "language": "Go",
+      "url": "https://github.com/alash3al/stash",
+      "owner": {
+        "login": "alash3al",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
+      },
+      "updated_at": "2026-04-30T12:13:13Z"
     },
     {
       "id": 1224469725,
       "name": "Fokkyp/SoftwareCopyright-Skill",
       "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "stars": 469,
+      "stars": 475,
       "language": "Python",
       "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
       "owner": {
         "login": "Fokkyp",
         "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
       },
-      "updated_at": "2026-04-30T11:07:36Z"
+      "updated_at": "2026-04-30T12:48:45Z"
     },
     {
       "id": 1221334781,
@@ -158,30 +158,56 @@
       "updated_at": "2026-04-30T10:56:44Z"
     },
     {
+      "id": 1224854794,
+      "name": "willchen96/mike",
+      "description": "OSS AI Legal Platform",
+      "stars": 423,
+      "language": "TypeScript",
+      "url": "https://github.com/willchen96/mike",
+      "owner": {
+        "login": "willchen96",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
+      },
+      "updated_at": "2026-04-30T12:52:26Z"
+    },
+    {
       "id": 1224062065,
       "name": "bonused/monthly-bonus-stake",
       "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
-      "stars": 421,
+      "stars": 422,
       "language": null,
       "url": "https://github.com/bonused/monthly-bonus-stake",
       "owner": {
         "login": "bonused",
         "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
       },
-      "updated_at": "2026-04-30T10:47:34Z"
+      "updated_at": "2026-04-30T12:38:20Z"
     },
     {
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 404,
+      "stars": 408,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-04-30T11:05:39Z"
+      "updated_at": "2026-04-30T12:30:43Z"
+    },
+    {
+      "id": 1222975902,
+      "name": "denuitt1/mhr-cfw",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "stars": 379,
+      "language": "Python",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "owner": {
+        "login": "denuitt1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
+      },
+      "updated_at": "2026-04-30T12:47:20Z"
     },
     {
       "id": 1224172037,
@@ -194,20 +220,20 @@
         "login": "t8y2",
         "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
       },
-      "updated_at": "2026-04-30T10:54:36Z"
+      "updated_at": "2026-04-30T12:18:17Z"
     },
     {
-      "id": 1222975902,
-      "name": "denuitt1/mhr-cfw",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "stars": 366,
-      "language": "Python",
-      "url": "https://github.com/denuitt1/mhr-cfw",
+      "id": 1222213350,
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "description": null,
+      "stars": 361,
+      "language": null,
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "owner": {
-        "login": "denuitt1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-30T11:10:09Z"
+      "updated_at": "2026-04-30T12:40:01Z"
     },
     {
       "id": 1222014970,
@@ -223,43 +249,17 @@
       "updated_at": "2026-04-30T08:47:56Z"
     },
     {
-      "id": 1224854794,
-      "name": "willchen96/mike",
-      "description": "OSS AI Legal Platform",
-      "stars": 357,
-      "language": "TypeScript",
-      "url": "https://github.com/willchen96/mike",
-      "owner": {
-        "login": "willchen96",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
-      },
-      "updated_at": "2026-04-30T11:12:50Z"
-    },
-    {
       "id": 1221048564,
       "name": "samyns/Unit-3",
       "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed",
-      "stars": 346,
+      "stars": 348,
       "language": "QML",
       "url": "https://github.com/samyns/Unit-3",
       "owner": {
         "login": "samyns",
         "avatar_url": "https://avatars.githubusercontent.com/u/102748858?v=4"
       },
-      "updated_at": "2026-04-30T10:48:49Z"
-    },
-    {
-      "id": 1222213350,
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "description": null,
-      "stars": 345,
-      "language": null,
-      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      "updated_at": "2026-04-30T11:11:56Z"
+      "updated_at": "2026-04-30T12:04:20Z"
     }
   ]
 }
