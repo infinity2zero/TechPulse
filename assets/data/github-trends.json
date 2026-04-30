@@ -1,265 +1,265 @@
 {
-  "lastUpdated": "2026-04-30T12:53:28.450Z",
+  "lastUpdated": "2026-04-30T14:55:02.026Z",
   "items": [
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 6240,
+      "stars": 6752,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-04-30T12:52:50Z"
-    },
-    {
-      "id": 1220744720,
-      "name": "freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2321,
-      "language": null,
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "owner": {
-        "login": "freestylefly",
-        "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
-      },
-      "updated_at": "2026-04-30T12:51:11Z"
+      "updated_at": "2026-04-30T14:54:48Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 2297,
+      "stars": 2390,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-04-30T12:52:41Z"
+      "updated_at": "2026-04-30T14:54:04Z"
+    },
+    {
+      "id": 1220744720,
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
+      "stars": 2376,
+      "language": null,
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "owner": {
+        "login": "freestylefly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+      },
+      "updated_at": "2026-04-30T14:53:16Z"
     },
     {
       "id": 1219712617,
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
       "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-      "stars": 1548,
+      "stars": 1556,
       "language": null,
       "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
       "owner": {
         "login": "victorchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
       },
-      "updated_at": "2026-04-30T12:37:53Z"
+      "updated_at": "2026-04-30T14:51:45Z"
     },
     {
       "id": 1224571990,
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "description": null,
-      "stars": 1259,
+      "stars": 1358,
       "language": "Python",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "owner": {
         "login": "theori-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
       },
-      "updated_at": "2026-04-30T12:50:30Z"
+      "updated_at": "2026-04-30T14:53:42Z"
     },
     {
       "id": 1220026502,
       "name": "ps5-linux/ps5-linux-loader",
       "description": "Linux payload implementing the HV exploit and a custom bootloader",
-      "stars": 694,
+      "stars": 724,
       "language": "C",
       "url": "https://github.com/ps5-linux/ps5-linux-loader",
       "owner": {
         "login": "ps5-linux",
         "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
       },
-      "updated_at": "2026-04-30T12:49:08Z"
-    },
-    {
-      "id": 1220000506,
-      "name": "epoko77-ai/im-not-ai",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stars": 659,
-      "language": "Python",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "owner": {
-        "login": "epoko77-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
-      },
-      "updated_at": "2026-04-30T12:28:34Z"
+      "updated_at": "2026-04-30T14:52:27Z"
     },
     {
       "id": 1222110548,
       "name": "DanOps-1/Gpt-Agreement-Payment",
       "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "stars": 638,
+      "stars": 687,
       "language": "Python",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "owner": {
         "login": "DanOps-1",
         "avatar_url": "https://avatars.githubusercontent.com/u/136412026?v=4"
       },
-      "updated_at": "2026-04-30T12:50:37Z"
+      "updated_at": "2026-04-30T14:53:38Z"
+    },
+    {
+      "id": 1220000506,
+      "name": "epoko77-ai/im-not-ai",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "stars": 664,
+      "language": "Python",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "owner": {
+        "login": "epoko77-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252882157?v=4"
+      },
+      "updated_at": "2026-04-30T14:49:25Z"
     },
     {
       "id": 1223476197,
       "name": "GENEXIS-AI/chromex",
       "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stars": 591,
+      "stars": 618,
       "language": "TypeScript",
       "url": "https://github.com/GENEXIS-AI/chromex",
       "owner": {
         "login": "GENEXIS-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
       },
-      "updated_at": "2026-04-30T12:52:57Z"
+      "updated_at": "2026-04-30T14:46:58Z"
     },
     {
       "id": 1220418983,
       "name": "alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 580,
+      "stars": 582,
       "language": "Go",
       "url": "https://github.com/alash3al/stash",
       "owner": {
         "login": "alash3al",
         "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
       },
-      "updated_at": "2026-04-30T12:13:13Z"
-    },
-    {
-      "id": 1224469725,
-      "name": "Fokkyp/SoftwareCopyright-Skill",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "stars": 475,
-      "language": "Python",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "owner": {
-        "login": "Fokkyp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
-      },
-      "updated_at": "2026-04-30T12:48:45Z"
-    },
-    {
-      "id": 1221334781,
-      "name": "NyxTides/ppt-image-first",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "stars": 463,
-      "language": "Python",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "owner": {
-        "login": "NyxTides",
-        "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
-      },
-      "updated_at": "2026-04-30T10:56:44Z"
+      "updated_at": "2026-04-30T14:04:26Z"
     },
     {
       "id": 1224854794,
       "name": "willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stars": 423,
+      "stars": 552,
       "language": "TypeScript",
       "url": "https://github.com/willchen96/mike",
       "owner": {
         "login": "willchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
       },
-      "updated_at": "2026-04-30T12:52:26Z"
+      "updated_at": "2026-04-30T14:53:58Z"
     },
     {
-      "id": 1224062065,
-      "name": "bonused/monthly-bonus-stake",
-      "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
-      "stars": 422,
-      "language": null,
-      "url": "https://github.com/bonused/monthly-bonus-stake",
+      "id": 1224469725,
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "stars": 482,
+      "language": "Python",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
       "owner": {
-        "login": "bonused",
-        "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
+        "login": "Fokkyp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
       },
-      "updated_at": "2026-04-30T12:38:20Z"
+      "updated_at": "2026-04-30T14:37:40Z"
+    },
+    {
+      "id": 1221334781,
+      "name": "NyxTides/ppt-image-first",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "stars": 464,
+      "language": "Python",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "owner": {
+        "login": "NyxTides",
+        "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
+      },
+      "updated_at": "2026-04-30T13:14:48Z"
     },
     {
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 408,
+      "stars": 421,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-04-30T12:30:43Z"
+      "updated_at": "2026-04-30T14:47:39Z"
+    },
+    {
+      "id": 1224062065,
+      "name": "bonused/monthly-bonus-stake",
+      "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
+      "stars": 421,
+      "language": null,
+      "url": "https://github.com/bonused/monthly-bonus-stake",
+      "owner": {
+        "login": "bonused",
+        "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
+      },
+      "updated_at": "2026-04-30T14:15:41Z"
     },
     {
       "id": 1222975902,
       "name": "denuitt1/mhr-cfw",
       "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "stars": 379,
+      "stars": 398,
       "language": "Python",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "owner": {
         "login": "denuitt1",
         "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
       },
-      "updated_at": "2026-04-30T12:47:20Z"
-    },
-    {
-      "id": 1224172037,
-      "name": "t8y2/dbx",
-      "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
-      "stars": 377,
-      "language": "Vue",
-      "url": "https://github.com/t8y2/dbx",
-      "owner": {
-        "login": "t8y2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
-      },
-      "updated_at": "2026-04-30T12:18:17Z"
+      "updated_at": "2026-04-30T14:34:42Z"
     },
     {
       "id": 1222213350,
       "name": "deepseek-ai/awesome-deepseek-agent",
       "description": null,
-      "stars": 361,
+      "stars": 390,
       "language": null,
       "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-04-30T12:40:01Z"
+      "updated_at": "2026-04-30T14:54:59Z"
+    },
+    {
+      "id": 1224172037,
+      "name": "t8y2/dbx",
+      "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
+      "stars": 380,
+      "language": "Vue",
+      "url": "https://github.com/t8y2/dbx",
+      "owner": {
+        "login": "t8y2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
+      },
+      "updated_at": "2026-04-30T14:50:03Z"
+    },
+    {
+      "id": 1222521101,
+      "name": "ka-pi-ba-la/AIbijia",
+      "description": "分享便宜靠谱Token，抹平信息差",
+      "stars": 374,
+      "language": null,
+      "url": "https://github.com/ka-pi-ba-la/AIbijia",
+      "owner": {
+        "login": "ka-pi-ba-la",
+        "avatar_url": "https://avatars.githubusercontent.com/u/279716989?v=4"
+      },
+      "updated_at": "2026-04-30T14:52:49Z"
     },
     {
       "id": 1222014970,
       "name": "evanklem/evanflow",
       "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.",
-      "stars": 358,
+      "stars": 359,
       "language": "Shell",
       "url": "https://github.com/evanklem/evanflow",
       "owner": {
         "login": "evanklem",
         "avatar_url": "https://avatars.githubusercontent.com/u/222768249?v=4"
       },
-      "updated_at": "2026-04-30T08:47:56Z"
-    },
-    {
-      "id": 1221048564,
-      "name": "samyns/Unit-3",
-      "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed",
-      "stars": 348,
-      "language": "QML",
-      "url": "https://github.com/samyns/Unit-3",
-      "owner": {
-        "login": "samyns",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102748858?v=4"
-      },
-      "updated_at": "2026-04-30T12:04:20Z"
+      "updated_at": "2026-04-30T13:29:26Z"
     }
   ]
 }
