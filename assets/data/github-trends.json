@@ -1,187 +1,187 @@
 {
-  "lastUpdated": "2026-05-01T06:42:09.709Z",
+  "lastUpdated": "2026-05-01T08:31:37.439Z",
   "items": [
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 9003,
+      "stars": 9277,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-05-01T06:42:04Z"
+      "updated_at": "2026-05-01T08:31:36Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 2720,
+      "stars": 2742,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-05-01T06:41:22Z"
+      "updated_at": "2026-05-01T08:17:10Z"
     },
     {
       "id": 1220744720,
       "name": "freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-      "stars": 2683,
+      "stars": 2725,
       "language": null,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "owner": {
         "login": "freestylefly",
         "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
       },
-      "updated_at": "2026-05-01T06:41:57Z"
+      "updated_at": "2026-05-01T08:27:02Z"
     },
     {
       "id": 1224571990,
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "description": null,
-      "stars": 1796,
+      "stars": 1842,
       "language": "Python",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "owner": {
         "login": "theori-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
       },
-      "updated_at": "2026-05-01T06:40:43Z"
+      "updated_at": "2026-05-01T08:30:31Z"
     },
     {
       "id": 1224854794,
       "name": "willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stars": 833,
+      "stars": 848,
       "language": "TypeScript",
       "url": "https://github.com/willchen96/mike",
       "owner": {
         "login": "willchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
       },
-      "updated_at": "2026-05-01T06:40:56Z"
+      "updated_at": "2026-05-01T08:16:24Z"
     },
     {
       "id": 1222110548,
       "name": "DanOps-1/Gpt-Agreement-Payment",
       "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "stars": 823,
+      "stars": 833,
       "language": "Python",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "owner": {
         "login": "DanOps-1",
         "avatar_url": "https://avatars.githubusercontent.com/u/136412026?v=4"
       },
-      "updated_at": "2026-05-01T06:37:57Z"
+      "updated_at": "2026-05-01T08:28:19Z"
     },
     {
       "id": 1223476197,
       "name": "GENEXIS-AI/chromex",
       "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stars": 703,
+      "stars": 708,
       "language": "TypeScript",
       "url": "https://github.com/GENEXIS-AI/chromex",
       "owner": {
         "login": "GENEXIS-AI",
         "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
       },
-      "updated_at": "2026-05-01T04:59:27Z"
+      "updated_at": "2026-05-01T07:30:23Z"
     },
     {
       "id": 1222975902,
       "name": "denuitt1/mhr-cfw",
       "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "stars": 597,
+      "stars": 702,
       "language": "Python",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "owner": {
         "login": "denuitt1",
         "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
       },
-      "updated_at": "2026-05-01T06:41:21Z"
+      "updated_at": "2026-05-01T08:30:34Z"
     },
     {
       "id": 1223449495,
       "name": "b-nnett/codex-plusplus",
       "description": "Codex++ tweak system for the Codex desktop app",
-      "stars": 591,
+      "stars": 619,
       "language": "TypeScript",
       "url": "https://github.com/b-nnett/codex-plusplus",
       "owner": {
         "login": "b-nnett",
         "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
       },
-      "updated_at": "2026-05-01T06:26:07Z"
-    },
-    {
-      "id": 1224469725,
-      "name": "Fokkyp/SoftwareCopyright-Skill",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "stars": 496,
-      "language": "Python",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "owner": {
-        "login": "Fokkyp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
-      },
-      "updated_at": "2026-05-01T04:26:20Z"
-    },
-    {
-      "id": 1221334781,
-      "name": "NyxTides/ppt-image-first",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "stars": 483,
-      "language": "Python",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "owner": {
-        "login": "NyxTides",
-        "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
-      },
-      "updated_at": "2026-05-01T06:28:58Z"
+      "updated_at": "2026-05-01T08:29:13Z"
     },
     {
       "id": 1222521101,
       "name": "ka-pi-ba-la/AIbijia",
       "description": "分享便宜靠谱Token，抹平信息差",
-      "stars": 479,
+      "stars": 500,
       "language": null,
       "url": "https://github.com/ka-pi-ba-la/AIbijia",
       "owner": {
         "login": "ka-pi-ba-la",
         "avatar_url": "https://avatars.githubusercontent.com/u/279716989?v=4"
       },
-      "updated_at": "2026-05-01T06:35:46Z"
+      "updated_at": "2026-05-01T08:25:36Z"
+    },
+    {
+      "id": 1224469725,
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "stars": 498,
+      "language": "Python",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "owner": {
+        "login": "Fokkyp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
+      },
+      "updated_at": "2026-05-01T07:24:38Z"
+    },
+    {
+      "id": 1221334781,
+      "name": "NyxTides/ppt-image-first",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "stars": 492,
+      "language": "Python",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "owner": {
+        "login": "NyxTides",
+        "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
+      },
+      "updated_at": "2026-05-01T08:14:12Z"
     },
     {
       "id": 1222213350,
       "name": "deepseek-ai/awesome-deepseek-agent",
       "description": null,
-      "stars": 454,
+      "stars": 463,
       "language": null,
       "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-05-01T06:30:55Z"
+      "updated_at": "2026-05-01T08:03:27Z"
     },
     {
       "id": 1221364817,
       "name": "Kianmhz/GooseRelayVPN",
       "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "stars": 452,
+      "stars": 460,
       "language": "Go",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "owner": {
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-05-01T04:56:38Z"
+      "updated_at": "2026-05-01T08:29:52Z"
     },
     {
       "id": 1224062065,
@@ -194,33 +194,46 @@
         "login": "bonused",
         "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
       },
-      "updated_at": "2026-05-01T01:30:27Z"
+      "updated_at": "2026-05-01T07:19:50Z"
     },
     {
       "id": 1224172037,
       "name": "t8y2/dbx",
       "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.",
-      "stars": 410,
+      "stars": 411,
       "language": "Vue",
       "url": "https://github.com/t8y2/dbx",
       "owner": {
         "login": "t8y2",
         "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
       },
-      "updated_at": "2026-05-01T06:22:48Z"
+      "updated_at": "2026-05-01T08:03:05Z"
     },
     {
       "id": 1222227524,
       "name": "val1813/kwcode",
       "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
-      "stars": 380,
+      "stars": 382,
       "language": "Python",
       "url": "https://github.com/val1813/kwcode",
       "owner": {
         "login": "val1813",
         "avatar_url": "https://avatars.githubusercontent.com/u/265172612?v=4"
       },
-      "updated_at": "2026-05-01T06:30:36Z"
+      "updated_at": "2026-05-01T07:20:57Z"
+    },
+    {
+      "id": 1221522201,
+      "name": "dnshe/DNSHE-FreeDomains",
+      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
+      "stars": 368,
+      "language": null,
+      "url": "https://github.com/dnshe/DNSHE-FreeDomains",
+      "owner": {
+        "login": "dnshe",
+        "avatar_url": "https://avatars.githubusercontent.com/u/234883652?v=4"
+      },
+      "updated_at": "2026-05-01T08:28:03Z"
     },
     {
       "id": 1222014970,
@@ -234,19 +247,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/222768249?v=4"
       },
       "updated_at": "2026-04-30T20:29:46Z"
-    },
-    {
-      "id": 1221522201,
-      "name": "dnshe/DNSHE-FreeDomains",
-      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
-      "stars": 359,
-      "language": null,
-      "url": "https://github.com/dnshe/DNSHE-FreeDomains",
-      "owner": {
-        "login": "dnshe",
-        "avatar_url": "https://avatars.githubusercontent.com/u/234883652?v=4"
-      },
-      "updated_at": "2026-05-01T06:14:15Z"
     },
     {
       "id": 1221048564,
