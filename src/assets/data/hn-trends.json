@@ -1,305 +1,305 @@
 {
-  "lastUpdated": "2026-04-30T23:07:42.767Z",
+  "lastUpdated": "2026-05-01T00:01:33.315Z",
   "items": [
     {
       "id": 47967786,
       "title": "Rivian allows you to disable all internet connectivity",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 318,
+      "score": 381,
       "by": "Cider9986",
       "time": 1777580842,
-      "comments": 121,
+      "comments": 150,
       "domain": "rivian.com"
     },
     {
       "id": 47967262,
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
       "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "score": 291,
+      "score": 353,
       "by": "un-nf",
       "time": 1777578020,
-      "comments": 115,
+      "comments": 152,
       "domain": "404privacy.com"
     },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 377,
+      "score": 393,
       "by": "the-mitr",
       "time": 1777567260,
-      "comments": 107,
+      "comments": 116,
       "domain": "thereader.mitpress.mit.edu"
     },
     {
       "id": 47951295,
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 69,
+      "score": 98,
       "by": "ilamont",
       "time": 1777482543,
-      "comments": 23,
+      "comments": 43,
       "domain": "theargumentmag.com"
+    },
+    {
+      "id": 47965108,
+      "title": "CopyFail was not disclosed to distro developers?",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 331,
+      "by": "ori_b",
+      "time": 1777567427,
+      "comments": 270,
+      "domain": "openwall.com"
     },
     {
       "id": 47964617,
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 296,
+      "score": 307,
       "by": "j12y",
       "time": 1777565366,
-      "comments": 95,
+      "comments": 99,
       "domain": "semgrep.dev"
     },
     {
       "id": 47965503,
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 171,
+      "score": 186,
       "by": "elvis70",
       "time": 1777569261,
-      "comments": 42,
+      "comments": 46,
       "domain": "nickkossolapov.github.io"
     },
     {
       "id": 47963204,
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 856,
+      "score": 900,
       "by": "elmean",
       "time": 1777559818,
-      "comments": 491,
+      "comments": 510,
       "domain": "twitter.com"
-    },
-    {
-      "id": 47962548,
-      "title": "How an oil refinery works",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 287,
-      "by": "chmaynard",
-      "time": 1777557260,
-      "comments": 81,
-      "domain": "construction-physics.com"
-    },
-    {
-      "id": 47961319,
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 709,
-      "by": "mpweiher",
-      "time": 1777551434,
-      "comments": 655,
-      "domain": "dpa-international.com"
-    },
-    {
-      "id": 47937033,
-      "title": "New mechanical panoramic film camera from Jeff Bridges",
-      "url": "https://wideluxx.com",
-      "score": 42,
-      "by": "armadsen",
-      "time": 1777394952,
-      "comments": 13,
-      "domain": "wideluxx.com"
-    },
-    {
-      "id": 47968982,
-      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 7,
-      "by": "wglb",
-      "time": 1777587537,
-      "comments": 1,
-      "domain": "sciencex.com"
-    },
-    {
-      "id": 47937814,
-      "title": "Reverse Engineering SimTower",
-      "url": "https://phulin.me/blog/simtower",
-      "score": 72,
-      "by": "patrickhulin",
-      "time": 1777398098,
-      "comments": 11,
-      "domain": "phulin.me"
-    },
-    {
-      "id": 47965108,
-      "title": "CopyFail was not disclosed to Gentoo developer",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 310,
-      "by": "ori_b",
-      "time": 1777567427,
-      "comments": 242,
-      "domain": "openwall.com"
-    },
-    {
-      "id": 47924912,
-      "title": "You can beat the binary search",
-      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 223,
-      "by": "vok",
-      "time": 1777312332,
-      "comments": 110,
-      "domain": "lemire.me"
-    },
-    {
-      "id": 47963316,
-      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-      "url": "https://honker.dev/",
-      "score": 156,
-      "by": "ferriswil",
-      "time": 1777560182,
-      "comments": 47,
-      "domain": "honker.dev"
-    },
-    {
-      "id": 47966254,
-      "title": "Full-Text Search with DuckDB",
-      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 66,
-      "by": "ethagnawl",
-      "time": 1777572858,
-      "comments": 14,
-      "domain": "peterdohertys.website"
-    },
-    {
-      "id": 47967508,
-      "title": "The upsell game – Vercel upselling tactics revealed",
-      "url": "https://theupsellgame.com/",
-      "score": 54,
-      "by": "bartoindahouse",
-      "time": 1777579355,
-      "comments": 7,
-      "domain": "theupsellgame.com"
-    },
-    {
-      "id": 47959463,
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "score": 562,
-      "by": "jaffathecake",
-      "time": 1777535035,
-      "comments": 206,
-      "domain": "github.com"
-    },
-    {
-      "id": 47967069,
-      "title": "Follow-up to Carrot disclosure: Forgejo",
-      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
-      "score": 30,
-      "by": "homebrewer",
-      "time": 1777576975,
-      "comments": 6,
-      "domain": "dustri.org"
-    },
-    {
-      "id": 47966625,
-      "title": "Does Postgres Scale?",
-      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-      "score": 58,
-      "by": "KraftyOne",
-      "time": 1777574722,
-      "comments": 27,
-      "domain": "dbos.dev"
-    },
-    {
-      "id": 47939158,
-      "title": "The Church Rock Uranium Mill Spill",
-      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-      "score": 38,
-      "by": "Sir_Twist",
-      "time": 1777403606,
-      "comments": 4,
-      "domain": "en.wikipedia.org"
-    },
-    {
-      "id": 47961378,
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "score": 219,
-      "by": "scarsam",
-      "time": 1777551893,
-      "comments": 65,
-      "domain": "bidprowl.com"
-    },
-    {
-      "id": 47968035,
-      "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
-      "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
-      "score": 10,
-      "by": "pmw",
-      "time": 1777582161,
-      "comments": 1,
-      "domain": "simplex.chat"
-    },
-    {
-      "id": 47946990,
-      "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
-      "url": "https://nik.digital/posts/compositing-blending",
-      "score": 6,
-      "by": "OuterVale",
-      "time": 1777463165,
-      "comments": 0,
-      "domain": "nik.digital"
-    },
-    {
-      "id": 47965835,
-      "title": "Recovering files from beyond the grave using PhotoRec",
-      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-      "score": 43,
-      "by": "speckx",
-      "time": 1777570931,
-      "comments": 6,
-      "domain": "lost-number.bearblog.dev"
-    },
-    {
-      "id": 47964034,
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 376,
-      "by": "akyuu",
-      "time": 1777563100,
-      "comments": 162,
-      "domain": "democrata.es"
-    },
-    {
-      "id": 47965027,
-      "title": "American Dads Became the Parents Their Fathers Never Were",
-      "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-      "score": 81,
-      "by": "ozozozd",
-      "time": 1777567094,
-      "comments": 59,
-      "domain": "derekthompson.org"
     },
     {
       "id": 47968112,
       "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
       "url": "https://pu.dev/",
-      "score": 36,
+      "score": 58,
       "by": "nahimn",
       "time": 1777582512,
       "comments": 16,
       "domain": "pu.dev"
     },
     {
-      "id": 47960507,
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 270,
-      "by": "steveharing1",
-      "time": 1777545077,
-      "comments": 166,
-      "domain": "firethering.com"
+      "id": 47962548,
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 297,
+      "by": "chmaynard",
+      "time": 1777557260,
+      "comments": 89,
+      "domain": "construction-physics.com"
     },
     {
-      "id": 47963868,
-      "title": "A 1960s art school experiment that redefined creativity",
-      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+      "id": 47968982,
+      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+      "score": 20,
+      "by": "wglb",
+      "time": 1777587537,
+      "comments": 2,
+      "domain": "sciencex.com"
+    },
+    {
+      "id": 47937033,
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "score": 56,
+      "by": "armadsen",
+      "time": 1777394952,
+      "comments": 18,
+      "domain": "wideluxx.com"
+    },
+    {
+      "id": 47937814,
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "score": 87,
+      "by": "patrickhulin",
+      "time": 1777398098,
+      "comments": 15,
+      "domain": "phulin.me"
+    },
+    {
+      "id": 47961319,
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 720,
+      "by": "mpweiher",
+      "time": 1777551434,
+      "comments": 679,
+      "domain": "dpa-international.com"
+    },
+    {
+      "id": 47924912,
+      "title": "You can beat the binary search",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "score": 233,
+      "by": "vok",
+      "time": 1777312332,
+      "comments": 112,
+      "domain": "lemire.me"
+    },
+    {
+      "id": 47963316,
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "url": "https://honker.dev/",
+      "score": 165,
+      "by": "ferriswil",
+      "time": 1777560182,
+      "comments": 49,
+      "domain": "honker.dev"
+    },
+    {
+      "id": 47959463,
+      "title": "Mozilla's opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "score": 574,
+      "by": "jaffathecake",
+      "time": 1777535035,
+      "comments": 213,
+      "domain": "github.com"
+    },
+    {
+      "id": 47966254,
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
       "score": 74,
-      "by": "pseudolus",
-      "time": 1777562449,
-      "comments": 22,
-      "domain": "thereader.mitpress.mit.edu"
+      "by": "ethagnawl",
+      "time": 1777572858,
+      "comments": 18,
+      "domain": "peterdohertys.website"
+    },
+    {
+      "id": 47939158,
+      "title": "The Church Rock Uranium Mill Spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "score": 48,
+      "by": "Sir_Twist",
+      "time": 1777403606,
+      "comments": 4,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "id": 47967508,
+      "title": "The upsell game – Vercel upselling tactics revealed",
+      "url": "https://theupsellgame.com/",
+      "score": 63,
+      "by": "bartoindahouse",
+      "time": 1777579355,
+      "comments": 10,
+      "domain": "theupsellgame.com"
+    },
+    {
+      "id": 47967069,
+      "title": "Follow-up to Carrot disclosure: Forgejo",
+      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+      "score": 34,
+      "by": "homebrewer",
+      "time": 1777576975,
+      "comments": 7,
+      "domain": "dustri.org"
+    },
+    {
+      "id": 47968035,
+      "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+      "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+      "score": 13,
+      "by": "pmw",
+      "time": 1777582161,
+      "comments": 1,
+      "domain": "simplex.chat"
+    },
+    {
+      "id": 47966625,
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "score": 68,
+      "by": "KraftyOne",
+      "time": 1777574722,
+      "comments": 30,
+      "domain": "dbos.dev"
+    },
+    {
+      "id": 47961378,
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "url": "https://bidprowl.com",
+      "score": 224,
+      "by": "scarsam",
+      "time": 1777551893,
+      "comments": 70,
+      "domain": "bidprowl.com"
+    },
+    {
+      "id": 47969258,
+      "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+      "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+      "score": 6,
+      "by": "hhs",
+      "time": 1777589144,
+      "comments": 1,
+      "domain": "gladstone.org"
+    },
+    {
+      "id": 47964034,
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 387,
+      "by": "akyuu",
+      "time": 1777563100,
+      "comments": 166,
+      "domain": "democrata.es"
+    },
+    {
+      "id": 47942347,
+      "title": "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
+      "url": "https://www.alphaxiv.org/abs/2604.23468",
+      "score": 6,
+      "by": "measurablefunc",
+      "time": 1777419787,
+      "comments": 0,
+      "domain": "alphaxiv.org"
+    },
+    {
+      "id": 47947944,
+      "title": "10Gb/s Ethernet: what I did to get it working in my home",
+      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
+      "score": 130,
+      "by": "gpjt",
+      "time": 1777468546,
+      "comments": 94,
+      "domain": "gilesthomas.com"
+    },
+    {
+      "id": 47965835,
+      "title": "Recovering files from beyond the grave using PhotoRec",
+      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "score": 44,
+      "by": "speckx",
+      "time": 1777570931,
+      "comments": 9,
+      "domain": "lost-number.bearblog.dev"
+    },
+    {
+      "id": 47946990,
+      "title": "Compositing and Blending – Exploring the math and intuition behind blend modes",
+      "url": "https://nik.digital/posts/compositing-blending",
+      "score": 9,
+      "by": "OuterVale",
+      "time": 1777463165,
+      "comments": 1,
+      "domain": "nik.digital"
     }
   ]
 }
