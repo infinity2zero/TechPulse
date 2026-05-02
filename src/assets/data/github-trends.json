@@ -1,109 +1,109 @@
 {
-  "lastUpdated": "2026-05-02T13:42:50.000Z",
+  "lastUpdated": "2026-05-02T14:33:12.738Z",
   "items": [
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 14044,
+      "stars": 14282,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-05-02T13:42:40Z"
+      "updated_at": "2026-05-02T14:33:02Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 3066,
+      "stars": 3072,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-05-02T13:42:01Z"
+      "updated_at": "2026-05-02T14:31:46Z"
     },
     {
       "id": 1224571990,
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "description": null,
-      "stars": 2819,
+      "stars": 2831,
       "language": "Python",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "owner": {
         "login": "theori-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
       },
-      "updated_at": "2026-05-02T13:42:27Z"
+      "updated_at": "2026-05-02T14:28:05Z"
     },
     {
       "id": 1222975902,
       "name": "denuitt1/mhr-cfw",
       "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "stars": 1530,
+      "stars": 1551,
       "language": "Python",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "owner": {
         "login": "denuitt1",
         "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
       },
-      "updated_at": "2026-05-02T13:41:06Z"
+      "updated_at": "2026-05-02T14:27:49Z"
     },
     {
       "id": 1224854794,
       "name": "willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stars": 1248,
+      "stars": 1261,
       "language": "TypeScript",
       "url": "https://github.com/willchen96/mike",
       "owner": {
         "login": "willchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
       },
-      "updated_at": "2026-05-02T13:41:47Z"
+      "updated_at": "2026-05-02T14:26:44Z"
     },
     {
       "id": 1226286910,
       "name": "darrylmorley/whatcable",
       "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "stars": 1112,
+      "stars": 1125,
       "language": "Swift",
       "url": "https://github.com/darrylmorley/whatcable",
       "owner": {
         "login": "darrylmorley",
         "avatar_url": "https://avatars.githubusercontent.com/u/20406137?v=4"
       },
-      "updated_at": "2026-05-02T13:40:36Z"
+      "updated_at": "2026-05-02T14:32:54Z"
     },
     {
       "id": 1222110548,
       "name": "DanOps-1/Gpt-Agreement-Payment",
       "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "stars": 903,
+      "stars": 908,
       "language": "Python",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "owner": {
         "login": "DanOps-1",
         "avatar_url": "https://avatars.githubusercontent.com/u/136412026?v=4"
       },
-      "updated_at": "2026-05-02T13:39:49Z"
+      "updated_at": "2026-05-02T14:23:01Z"
     },
     {
       "id": 1223449495,
       "name": "b-nnett/codex-plusplus",
       "description": "Codex++ tweak system for the Codex desktop app",
-      "stars": 810,
+      "stars": 812,
       "language": "TypeScript",
       "url": "https://github.com/b-nnett/codex-plusplus",
       "owner": {
         "login": "b-nnett",
         "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
       },
-      "updated_at": "2026-05-02T13:38:24Z"
+      "updated_at": "2026-05-02T14:23:37Z"
     },
     {
       "id": 1223476197,
@@ -122,66 +122,66 @@
       "id": 1224172037,
       "name": "t8y2/dbx",
       "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
-      "stars": 683,
+      "stars": 692,
       "language": "Vue",
       "url": "https://github.com/t8y2/dbx",
       "owner": {
         "login": "t8y2",
         "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
       },
-      "updated_at": "2026-05-02T13:39:10Z"
+      "updated_at": "2026-05-02T14:32:30Z"
     },
     {
       "id": 1222521101,
       "name": "ka-pi-ba-la/AIbijia",
       "description": "分享便宜靠谱Token，抹平信息差",
-      "stars": 634,
+      "stars": 635,
       "language": null,
       "url": "https://github.com/ka-pi-ba-la/AIbijia",
       "owner": {
         "login": "ka-pi-ba-la",
         "avatar_url": "https://avatars.githubusercontent.com/u/279716989?v=4"
       },
-      "updated_at": "2026-05-02T13:33:41Z"
+      "updated_at": "2026-05-02T14:14:59Z"
     },
     {
       "id": 1224469725,
       "name": "Fokkyp/SoftwareCopyright-Skill",
       "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "stars": 597,
+      "stars": 600,
       "language": "Python",
       "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
       "owner": {
         "login": "Fokkyp",
         "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
       },
-      "updated_at": "2026-05-02T13:39:02Z"
-    },
-    {
-      "id": 1222213350,
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "description": null,
-      "stars": 575,
-      "language": null,
-      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      "updated_at": "2026-05-02T13:39:24Z"
+      "updated_at": "2026-05-02T14:18:22Z"
     },
     {
       "id": 1226379024,
       "name": "mattpocock/dictionary-of-ai-coding",
       "description": "AI coding jargon, explained in plain English.",
-      "stars": 574,
+      "stars": 583,
       "language": "TypeScript",
       "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
       "owner": {
         "login": "mattpocock",
         "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
       },
-      "updated_at": "2026-05-02T13:41:00Z"
+      "updated_at": "2026-05-02T14:33:07Z"
+    },
+    {
+      "id": 1222213350,
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "description": null,
+      "stars": 578,
+      "language": null,
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "owner": {
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      },
+      "updated_at": "2026-05-02T14:32:18Z"
     },
     {
       "id": 1221364817,
@@ -194,72 +194,72 @@
         "login": "Kianmhz",
         "avatar_url": "https://avatars.githubusercontent.com/u/67905003?v=4"
       },
-      "updated_at": "2026-05-02T13:24:14Z"
+      "updated_at": "2026-05-02T14:26:45Z"
     },
     {
       "id": 1221334781,
       "name": "NyxTides/ppt-image-first",
       "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "stars": 530,
+      "stars": 531,
       "language": "Python",
       "url": "https://github.com/NyxTides/ppt-image-first",
       "owner": {
         "login": "NyxTides",
         "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
       },
-      "updated_at": "2026-05-02T11:01:21Z"
-    },
-    {
-      "id": 1221522201,
-      "name": "dnshe/DNSHE-FreeDomains",
-      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
-      "stars": 476,
-      "language": null,
-      "url": "https://github.com/dnshe/DNSHE-FreeDomains",
-      "owner": {
-        "login": "dnshe",
-        "avatar_url": "https://avatars.githubusercontent.com/u/234883652?v=4"
-      },
-      "updated_at": "2026-05-02T13:40:01Z"
+      "updated_at": "2026-05-02T14:12:16Z"
     },
     {
       "id": 1225477228,
       "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "description": null,
-      "stars": 472,
+      "stars": 486,
       "language": null,
       "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "owner": {
         "login": "wrongly-cuddly-obsession",
         "avatar_url": "https://avatars.githubusercontent.com/u/280653626?v=4"
       },
-      "updated_at": "2026-05-02T13:37:49Z"
+      "updated_at": "2026-05-02T14:28:46Z"
+    },
+    {
+      "id": 1221522201,
+      "name": "dnshe/DNSHE-FreeDomains",
+      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
+      "stars": 479,
+      "language": null,
+      "url": "https://github.com/dnshe/DNSHE-FreeDomains",
+      "owner": {
+        "login": "dnshe",
+        "avatar_url": "https://avatars.githubusercontent.com/u/234883652?v=4"
+      },
+      "updated_at": "2026-05-02T14:28:09Z"
     },
     {
       "id": 1224974361,
       "name": "EvanBacon/serve-sim",
       "description": "The `npx serve` of Apple Simulators.",
-      "stars": 451,
+      "stars": 455,
       "language": "TypeScript",
       "url": "https://github.com/EvanBacon/serve-sim",
       "owner": {
         "login": "EvanBacon",
         "avatar_url": "https://avatars.githubusercontent.com/u/9664363?v=4"
       },
-      "updated_at": "2026-05-02T13:36:08Z"
+      "updated_at": "2026-05-02T14:27:12Z"
     },
     {
       "id": 1221600219,
       "name": "1bananachicken/MaaNTE",
       "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319",
-      "stars": 445,
+      "stars": 449,
       "language": "Python",
       "url": "https://github.com/1bananachicken/MaaNTE",
       "owner": {
         "login": "1bananachicken",
         "avatar_url": "https://avatars.githubusercontent.com/u/116740703?v=4"
       },
-      "updated_at": "2026-05-02T13:35:05Z"
+      "updated_at": "2026-05-02T14:25:49Z"
     }
   ]
 }
