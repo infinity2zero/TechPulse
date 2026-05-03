@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-05-03T05:45:50.432Z",
+  "lastUpdated": "2026-05-03T07:33:07.536Z",
   "items": [
     {
       "id": 1223170290,
       "name": "nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-      "stars": 16709,
+      "stars": 16942,
       "language": "TypeScript",
       "url": "https://github.com/nexu-io/open-design",
       "owner": {
         "login": "nexu-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
-      "updated_at": "2026-05-03T05:44:34Z"
+      "updated_at": "2026-05-03T07:32:35Z"
     },
     {
       "id": 1222301562,
       "name": "cursor/cookbook",
       "description": null,
-      "stars": 3162,
+      "stars": 3179,
       "language": "TypeScript",
       "url": "https://github.com/cursor/cookbook",
       "owner": {
         "login": "cursor",
         "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
       },
-      "updated_at": "2026-05-03T05:42:14Z"
+      "updated_at": "2026-05-03T07:31:00Z"
     },
     {
       "id": 1224571990,
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "description": null,
-      "stars": 2934,
+      "stars": 2944,
       "language": "Python",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "owner": {
         "login": "theori-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/18063559?v=4"
       },
-      "updated_at": "2026-05-03T05:40:36Z"
+      "updated_at": "2026-05-03T07:32:33Z"
     },
     {
       "id": 1222975902,
       "name": "denuitt1/mhr-cfw",
       "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "stars": 1718,
+      "stars": 1730,
       "language": "Python",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "owner": {
         "login": "denuitt1",
         "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
       },
-      "updated_at": "2026-05-03T05:44:19Z"
+      "updated_at": "2026-05-03T07:27:30Z"
     },
     {
       "id": 1224854794,
       "name": "willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stars": 1453,
+      "stars": 1473,
       "language": "TypeScript",
       "url": "https://github.com/willchen96/mike",
       "owner": {
         "login": "willchen96",
         "avatar_url": "https://avatars.githubusercontent.com/u/85235185?v=4"
       },
-      "updated_at": "2026-05-03T05:41:39Z"
+      "updated_at": "2026-05-03T07:29:23Z"
     },
     {
       "id": 1226286910,
       "name": "darrylmorley/whatcable",
       "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "stars": 1291,
+      "stars": 1311,
       "language": "Swift",
       "url": "https://github.com/darrylmorley/whatcable",
       "owner": {
         "login": "darrylmorley",
         "avatar_url": "https://avatars.githubusercontent.com/u/20406137?v=4"
       },
-      "updated_at": "2026-05-03T05:43:39Z"
+      "updated_at": "2026-05-03T07:28:45Z"
     },
     {
       "id": 1222110548,
@@ -96,14 +96,14 @@
       "id": 1223449495,
       "name": "b-nnett/codex-plusplus",
       "description": "Codex++ tweak system for the Codex desktop app",
-      "stars": 838,
+      "stars": 840,
       "language": "TypeScript",
       "url": "https://github.com/b-nnett/codex-plusplus",
       "owner": {
         "login": "b-nnett",
         "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
       },
-      "updated_at": "2026-05-03T04:17:10Z"
+      "updated_at": "2026-05-03T07:04:08Z"
     },
     {
       "id": 1223476197,
@@ -119,134 +119,134 @@
       "updated_at": "2026-05-03T04:17:01Z"
     },
     {
-      "id": 1224172037,
-      "name": "t8y2/dbx",
-      "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
-      "stars": 717,
-      "language": "Vue",
-      "url": "https://github.com/t8y2/dbx",
-      "owner": {
-        "login": "t8y2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
-      },
-      "updated_at": "2026-05-03T05:01:55Z"
-    },
-    {
       "id": 1226379024,
       "name": "mattpocock/dictionary-of-ai-coding",
       "description": "AI coding jargon, explained in plain English.",
-      "stars": 706,
+      "stars": 731,
       "language": "TypeScript",
       "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
       "owner": {
         "login": "mattpocock",
         "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
       },
-      "updated_at": "2026-05-03T05:44:30Z"
+      "updated_at": "2026-05-03T07:26:42Z"
     },
     {
       "id": 1225477228,
       "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "description": null,
-      "stars": 700,
+      "stars": 727,
       "language": null,
       "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
       "owner": {
         "login": "wrongly-cuddly-obsession",
         "avatar_url": "https://avatars.githubusercontent.com/u/280653626?v=4"
       },
-      "updated_at": "2026-05-03T05:44:55Z"
+      "updated_at": "2026-05-03T07:33:06Z"
+    },
+    {
+      "id": 1224172037,
+      "name": "t8y2/dbx",
+      "description": "lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+      "stars": 725,
+      "language": "Vue",
+      "url": "https://github.com/t8y2/dbx",
+      "owner": {
+        "login": "t8y2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77960507?v=4"
+      },
+      "updated_at": "2026-05-03T07:27:40Z"
     },
     {
       "id": 1222521101,
       "name": "ka-pi-ba-la/AIbijia",
       "description": "分享便宜靠谱Token，抹平信息差",
-      "stars": 651,
+      "stars": 655,
       "language": null,
       "url": "https://github.com/ka-pi-ba-la/AIbijia",
       "owner": {
         "login": "ka-pi-ba-la",
         "avatar_url": "https://avatars.githubusercontent.com/u/279716989?v=4"
       },
-      "updated_at": "2026-05-03T05:13:52Z"
+      "updated_at": "2026-05-03T07:28:33Z"
     },
     {
       "id": 1224469725,
       "name": "Fokkyp/SoftwareCopyright-Skill",
       "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "stars": 642,
+      "stars": 643,
       "language": "Python",
       "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
       "owner": {
         "login": "Fokkyp",
         "avatar_url": "https://avatars.githubusercontent.com/u/5858642?v=4"
       },
-      "updated_at": "2026-05-03T05:42:02Z"
+      "updated_at": "2026-05-03T05:59:40Z"
     },
     {
       "id": 1222213350,
       "name": "deepseek-ai/awesome-deepseek-agent",
       "description": null,
-      "stars": 609,
+      "stars": 613,
       "language": null,
       "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "owner": {
         "login": "deepseek-ai",
         "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "updated_at": "2026-05-03T05:25:52Z"
+      "updated_at": "2026-05-03T06:16:21Z"
     },
     {
       "id": 1224974361,
       "name": "EvanBacon/serve-sim",
       "description": "The `npx serve` of Apple Simulators.",
-      "stars": 502,
+      "stars": 507,
       "language": "TypeScript",
       "url": "https://github.com/EvanBacon/serve-sim",
       "owner": {
         "login": "EvanBacon",
         "avatar_url": "https://avatars.githubusercontent.com/u/9664363?v=4"
       },
-      "updated_at": "2026-05-03T05:40:14Z"
+      "updated_at": "2026-05-03T07:00:52Z"
     },
     {
       "id": 1222227524,
       "name": "val1813/kwcode",
       "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
-      "stars": 442,
+      "stars": 447,
       "language": "Python",
       "url": "https://github.com/val1813/kwcode",
       "owner": {
         "login": "val1813",
         "avatar_url": "https://avatars.githubusercontent.com/u/265172612?v=4"
       },
-      "updated_at": "2026-05-03T05:43:09Z"
-    },
-    {
-      "id": 1224859117,
-      "name": "rootsecdev/cve_2026_31431",
-      "description": "Exploit POC for CVE_2026_31431",
-      "stars": 434,
-      "language": "Python",
-      "url": "https://github.com/rootsecdev/cve_2026_31431",
-      "owner": {
-        "login": "rootsecdev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11039165?v=4"
-      },
-      "updated_at": "2026-05-03T05:44:33Z"
+      "updated_at": "2026-05-03T07:05:02Z"
     },
     {
       "id": 1222252809,
       "name": "appergb/openless",
       "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-      "stars": 427,
+      "stars": 441,
       "language": "HTML",
       "url": "https://github.com/appergb/openless",
       "owner": {
         "login": "appergb",
         "avatar_url": "https://avatars.githubusercontent.com/u/192432815?v=4"
       },
-      "updated_at": "2026-05-03T05:37:01Z"
+      "updated_at": "2026-05-03T07:26:05Z"
+    },
+    {
+      "id": 1224859117,
+      "name": "rootsecdev/cve_2026_31431",
+      "description": "Exploit POC for CVE_2026_31431",
+      "stars": 435,
+      "language": "Python",
+      "url": "https://github.com/rootsecdev/cve_2026_31431",
+      "owner": {
+        "login": "rootsecdev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11039165?v=4"
+      },
+      "updated_at": "2026-05-03T07:24:29Z"
     },
     {
       "id": 1224062065,
